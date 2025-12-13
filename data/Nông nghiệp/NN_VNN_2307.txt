@@ -1,0 +1,30 @@
+Title: 5 xu hướng chuyển đổi kỹ thuật số phổ biến trong nông nghiệp
+
+Internet vạn vật và cảm biến tại hiện trường
+
+Theo chuyên gia của copen.vn, IoT hay internet vạn vật đang làm thay đổi ngành nông nghiệp theo hướng tích cực. Bằng cảm biến trên thiết bị và vật liệu, Iot giúp đơn giản và hợp lý hóa việc thu thập, kiểm tra và điều phối tổng thể các nguồn lực nông nghiệp. Các cảm biến này được đặt xung quanh cánh đồng, cùng với công nghệ nhận dạng hình ảnh cho phép người nông dân theo dõi, cập nhật cây trồng từ bất cứ đâu theo thời gian thực, từ đó họ có thể thay đổi cho phù hợp với cây trồng của mình.
+
+Cảm biến trong thiết bị
+
+Các cảm biến được cài đặt trong nông cụ để theo dõi tình trạng máy móc. Một số cảm biến còn có khả năng định vị nhờ công nghệ GPS, trong khi số khác có thể thiết lập bản đồ năng suất và dữ liệu sản lượng ngay từ cabin của nông cụ. Nhiều nông dân sử dụng cảm biến để theo dõi khi nào máy móc cần bảo dưỡng, từ đó tăng độ bền của máy.
+
+Drone giám sát cây trồng
+
+Để quan sát cây trồng trên những cánh đồng với quy mô hàng trăm hecta, cách giúp người nông dân có thể nhìn bao quát là dùng máy bay. Tại Mỹ, máy bay không người lái (drone) được sử dụng để giám sát mùa màng, theo dõi và kiểm soát các yếu tố môi trường. Thậm chí, drone còn được sử dụng để phun hóa chất cho cây trồng với tốc độ phun gấp 5 lần so với các thiết bị khác.
+
+Những xu hướng chuyển đổi số ngành nông nghiệp
+
+Robot “làm nông”
+
+Ứng dụng robot trong nông nghiệp sẽ mang lại năng suất cao hơn. Các công ty chế tạo robot đang thử nghiệm điều khiển robot bằng laser và camera nhằm xác định và loại bỏ cỏ dại. Những robot này có thể tự điều hướng giữa các hàng cây trồng, giảm bớt nhân lực điều khiển nó. Nhiều công ty đang tạo ra các robot cấy cây để tăng hiệu quả so với các phương pháp truyền thống. Có nơi thử nghiệm ứng dụng robot tự động để hái quả và thu hoạch hạt - điều mà trước đây rất phức tạp đối với robot.
+
+Công nghệ machine learning
+
+Một trong những phần sáng tạo của quá trình chuyển đổi số là khả năng ứng dụng machine learning và phân tích nâng cao để khai thác dữ liệu. Machine learning giúp người dùng dự đoán những giống cây nào mang đặc điểm và gen tốt nhất, từ đó mang lại cho nông dân giống cây phù hợp với khí hậu và địa hình đặc thù. Các thuật toán machine learning cũng có thể được sử dụng trong mua bán nông sản, cho biết sản phẩm nào đang được mua nhiều nhất và sản phẩm nào đang được giảm giá trên thị trường.
+
+Các chuyên gia dự đoán, tương lai của ngành nông nghiệp sẽ phụ thuộc vào quá trình chuyển đổi số. Người nông dân sẽ được hưởng lợi từ các xu hướng chuyển đổi số như: góp phần tạo ra giống cây trồng năng suất tốt hơn, tăng khả năng quản lý cây trồng…
+
+
+Được CMC Telecom nghiên cứu, phát triển và xây dựng cùng với các đối tác hàng đầu Việt Nam và thế giới, copen.vn là một hệ sinh thái chuyển đổi số cung cấp những tư vấn chuyên sâu cho các lĩnh vực kinh doanh như: bán lẻ, logistic, ngành hàng tiêu dùng, tài chính, chăm sóc sức khỏe, bất động sản… Thông qua các câu chuyện thành công của các doanh nghiệp đã ứng dụng chuyển đổi số, copen.vn sẽ giúp khách hàng có cái nhìn trực quan và “thực chiến” hơn về hành trình chuyển đổi số. Không chỉ vậy, copen.vn còn đưa ra những gợi ý cũng như các lời khuyên phù hợp với từng module quản trị một cách trực quan, giúp doanh nghiệp chuyển đổi số nhanh chóng.
+
+Thúy Ngà

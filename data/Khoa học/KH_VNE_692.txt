@@ -1,0 +1,31 @@
+Cách đây hơn chục năm, nhóm nghiên cứu của Đại học Bách khoa Hà Nội đã chế tạo thành công lõi neo cáp bêtông dự ứng lực mà trước đó chỉ một số nước phát triển mới sản xuất được.
+
+Trong kết cấu xây dựng, đặc biệt là những cây cầu lớn hay các tòa nhà cao tầng, dầm bêtông chịu lực nén tốt nhưng lại kém bền trước lực kéo. Để khắc phục, các kỹ sư thường sử dụng phương pháp dự ứng lực - đặt các sợi cáp thép bên trong dầm, kéo căng chúng trước khi bêtông đông cứng hoàn toàn. Khi bêtông bám chặt vào cáp, sợi thép sẽ có xu hướng co lại, tạo ra một lực nén dư giúp dầm chịu tải tốt hơn và hạn chế tối đa nguy cơ nứt bề mặt.
+
+Nhưng làm thế nào để giữ cho các sợi cáp ấy luôn căng và ổn định suốt vòng đời của công trình? Đó chính là nhiệm vụ của hệ thống neo - trong đó lõi neo là bộ phận quan trọng nhất. Lõi neo tiếp xúc trực tiếp với cáp, truyền lực khi căng kéo và giữ chặt để cáp không bị trượt. Nó phải đủ cứng để chịu mài mòn, đủ bền để không nứt vỡ, và đủ dẻo để không gãy giòn dưới tải trọng lớn.
+
+Từ năm 1974, khi xây dựng cầu Thăng Long - các kỹ sư Việt Nam đã từng thử nghiệm sản xuất lõi neo tại Nhà máy cơ khí Ngô Gia Tự và Công ty Cổ phần cắt gọt dụng cụ số 1. Tuy nhiên, do chưa tìm được vật liệu và quy trình xử lý nhiệt phù hợp, các sản phẩm thử nghiệm đều không đạt yêu cầu cơ tính, không thể đưa vào sử dụng.
+
+Đến năm 2007 dưới sự dẫn dắt của cố GS Lê Thị Chiều khi đó nhóm nghiên cứu tại ĐH Bách khoa Hà Nội bắt tay vào chế tạo lõi neo cáp bêtông dự ứng lực thay thế lõi neo nhập ngoại.
+
+Từ con số không, nhóm bắt đầu khảo sát tài liệu quốc tế, tìm mua lõi neo đã qua sử dụng để phân tích. Tuy nhiên, các tài liệu nước ngoài đều chỉ mô tả chung chung, tuyệt nhiên không tiết lộ quy trình sản xuất chi tiết. "Đó là công nghệ lõi, thứ mà không quốc gia nào dễ dàng chia sẻ", PGS.TS Nguyễn Dương Nam, Phó Viện trưởng Viện Cơ khí, ĐH Hàng Hải Việt Nam, thành viên của nhóm nghiên cứu nhớ lại.
+
+Nhóm nghiên cứu đã phân tích và phát hiện lõi neo ngoại nhập được chế tạo bằng thép hợp kim có hàm lượng cacbon thấp. Sau khi thực hiện quá trình hóa nhiệt luyện thép có độ cứng trên bề mặt đạt khoảng 62-63 HRC đảm bảo được khả năng chống mài mòn cho chi tiết; bên cạnh đó trong lõi của vật liệu đạt độ cứng từ 38-40 HRC tạo ra khả năng chịu nén và đảm bảo độ dai tốt. Vì thế nhóm đã nghiên cứu xử lý nhiệt theo hướng này.
+
+Sau hai năm mày mò, nhóm nghiên cứu của GS Chiều đã chế tạo thử nghiệm hàng trăm lõi neo bằng thép SCM420 để làm thí nghiệm. Để tăng độ cứng bề mặt mà vẫn giữ được độ dẻo, độ dai của vật liệu - yếu tố then chốt giúp lõi neo chịu được lực kéo lớn mà không vỡ, nhóm sử dụng phương pháp thấm cacbon-nitơ ở thể khí, với nguồn cấp khí được sản xuất hoàn toàn trong nước.
+
+Lõi neo. Ảnh: NVCC
+
+Công nghệ thấm cacbon-nitơ có nhiệt độ thấp và thời gian xử lý ngắn hơn so với công nghệ thấm cacbon, giúp hạn chế biến dạng và sự lớn hạt của thép sau thấm. Sự có mặt của nitơ tạo các hạt nitrit kết hợp với các cacbit hình thành trong quá trình thấm, tăng khả năng chống mài mòn, điểm đặc biệt của quá trình hóa nhiệt luyện này sẽ tạo được độ dai cho thép. "Sự kết hợp đồng thời của cacbon và nitơ trong quá trình hóa nhiệt luyện giúp tăng cường cả khả năng chống mài mòn và độ dai, đặc biệt phù hợp với neo cáp dự ứng lực - sản phẩm phải chịu đồng thời tác động mài mòn và yêu cầu độ dẻo dai cao", PGS Nam giải thích.
+
+Kết quả thử nghiệm tại phòng thí nghiệm của Đại học Bách Khoa Hà Nội rất khả quan: lõi neo của nhóm nghiên cứu có thể chịu được 200 lần kéo cáp, trong khi lõi neo Trung Quốc chỉ đạt 60 lần.
+
+Để sản phẩm được đưa vào thực tế, GS Lê Thị Chiều và cộng sự đưa mẫu lõi neo đến Viện Khoa học Công nghệ Giao thông vận tải, Bộ Giao thông Vận tải, để kiểm định. Các chỉ tiêu về lực kéo, độ tụt cáp đều đạt chất lượng quốc tế. Lõi neo của nhóm trở thành sản phẩm đầu tiên do Việt Nam chế tạo được cấp giấy chứng nhận.
+
+Đầu năm 2009, sản phẩm lõi neo lần đầu tiên được Công ty cổ phần xây dựng Tuấn Thịnh ứng dụng tại công trình cầu Kiến Hưng bắc qua sông Nhuệ và sau đó là một số dầm bêtông đúc sẵn tại Công ty Bêtông Xuân Mai.
+
+Thử nghiệm kéo neo tại cầu Kiến Hưng. Ảnh: NVCC
+
+Theo ông Nguyễn Đỗ Hà, Viện Nghiên cứu, Phát triển và Ứng dụng Công nghệ mới (IRDAT), giá trị lớn nhất của lõi neo là đáp ứng yêu cầu công nghệ. Đây là loại công nghệ bề mặt có độ cứng đạt 65 HRC nhưng lõi có độ cứng thấp hơn 38-40 HRC. Điều này cho phép giữ chặt sợi dây cáp ở cường lực cao, không tuột nhưng cũng không vỡ lõi neo, từ đó có thể ứng dụng trong ngành bêtông dự ứng lực cũng như nhiều ngành khác đòi hỏi vừa cứng vừa dai như bánh răng. "Việc Việt Nam chủ động được công nghệ sản xuất lõi neo cũng minh chứng vị thế làm chủ công nghệ cao trên thế giới mà chỉ có một số nước phát triển như Đức, Italy, Nhật, Trung Quốc mới làm được", ông Hà nói.
+
+Lõi neo là "trái tim" của các cây cầu và tòa nhà có khẩu độ dài 40 m không cột. Tuy nhiên ông Hà cho biết, để thương mại hóa đòi hỏi minh chứng về mặt quy mô và giấy phép rất cao. Hiện lõi neo sản xuất trong nước mới chỉ dừng lại ở quy mô sản xuất nhỏ cho các nhu cầu đặc chủng khó nhập khẩu, chưa thương mại hóa phổ cập.

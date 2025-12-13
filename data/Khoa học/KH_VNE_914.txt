@@ -1,0 +1,15 @@
+Trung QuốcRobot hình người cao gần 1,4 m của EngineAI có thể thực hiện trơn tru động tác lộn trước với khả năng giữ thăng bằng hoàn hảo.
+
+Robot hình người đầu tiên trên thế giới biết lộn trước Robot của EngineAI lộn trước một cách trơn tru. Video: EngineAI
+
+Công ty robot khởi nghiệp EngineAI của Trung Quốc để robot hình người biểu diễn động tác lộn trước, Yahoo đưa tin. Sau khi vung tay về phía trước, cỗ máy bật lên, lộn về phía trước, sau đó tiếp đất ở gần như cùng vị trí. Tiếp đó, nó đi vài bước để hoàn tất toàn bộ màn nhào lộn, theo video chia sẻ trên kênh YouTube của công ty hôm 23/2. Đột phá này là một bước tiến mới trong ngành công nghiệp robot sau khi công ty Boston Dynamics của Mỹ lần đầu tiên phát triển robot lộn sau năm 2017, nhảy từ nóc một chiếc thùng xuống đất và công ty khởi nghiệp Unitree của Trung Quốc gặt hái thành công tương tự năm ngoái.
+
+Khác với Boston Dynamics và Unitree, sử dụng một robot kích thước thật cao tương ứng 1,5 mét và 1,8 mét để thực hiện chuyển động, EngineAI sử dụng mẫu PM01 thấp hơn, chỉ cao 1,38 mét. Tuy nhiên, thao tác lộn trước khó khăn hơn do đòi hỏi cao hơn về khả năng cân bằng động lực của robot, tăng tốc tức thời và tiếp đất chính xác. Trong khi lộn sau duy trì tâm khối, lộn trước dịch chuyển trọng lượng về trước nên khó kiểm soát thăng bằng hơn. Sau khi bật thành công, lộn trước cũng dẫn tới tiếp đất kém vững vàng hơn.
+
+Công ty EngineAI ở Thâm Quyến được đồng sáng lập vào năm 2023 bởi thương gia Zhao Tongyang. Trước công ty này, ông từng thành lập một công ty khởi nghiệp robot khác mang tên Dogotix, được mua lại bởi hãng xe điện Xpeng năm 2020. Sau đó, Zhao phụ trách phòng robot của Xpeng trước khi rời đi để mở EngineAI. Đầu năm nay, EngineAI gây xôn xao qua video ghi hình mẫu robot SE01 cao 1,7 mét có tư thế đi lại tự nhiên, trái với kiểu đi thường thấy ở robot với các bước rời rạc và đầu gối cong. Video này gây ấn tượng mạnh mẽ cho nhà nghiên cứu Jim Fan của Nvidia.
+
+Công ty đã sản xuất hàng loạt sản phẩm bao gồm PM01 có giá 13.700 USD. Công ty không tiết lộ mức giá của mẫu SE01 cao cấp hơn, nhưng nhà đồng sáng lập Yao Qiyuan chia sẻ họ hướng tới giữa mức giá của nó trong khoảng 20.000 - 27.500 USD.
+
+EngineAI nằm trong thế hệ công ty khởi nghiệp robot mới của Trung Quốc thu hút sự chú ý trên toàn cầu. Unitree gây ấn tượng tháng trước sau khi 16 robot H1 của họ nhảy dân vũ ở gala mừng xuân của đài CCTV. Alibaba cũng đầu tư vào một số công ty robot, bao gồm Robotera và LimX Dynamics.
+
+An Khang (Theo Yahoo)

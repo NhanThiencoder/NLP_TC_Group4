@@ -1,0 +1,13 @@
+Cloudflare, công ty cung cấp dịch vụ mạng và bảo mật quan trọng cho phần lớn Internet, xác nhận đang điều tra một vấn đề máy chủ. Sự cố bắt đầu vào khoảng 6:00 sáng ET (giờ miền Đông nước Mỹ). Dù nguyên nhân gốc rễ chưa được tiết lộ, theo Windows Central, sự cố này trùng hợp với lịch trình "bảo trì tại trung tâm dữ liệu SCL (Santiago)".
+
+Tin nhắn hiển thị khi truy cập ChatGPT hiện tại. Ảnh: Windows Central
+
+Sự cố đã gây ra tình trạng mất dịch vụ hoặc suy giảm hiệu suất trên nhiều nền tảng lớn. Cụ thể, mạng xã hội X của Elon Musk và ChatGPT của OpenAI bị ảnh hưởng nặng nề, không thể truy cập. Các trò chơi trực tuyến phổ biến như League of Legends (LoL) và Valorant báo cáo các vấn đề về dịch vụ. Các ứng dụng như Canva, cũng như PayPal và Uber Eats, bị ảnh hưởng gián đoạn đối với các giao dịch thanh toán và đặt hàng.
+
+Tới 7:03 sáng ET, Cloudflare xác nhận các đội ngũ vẫn đang tiếp tục điều tra. Thậm chí, ngay cả trang trạng thái chính thức của Cloudflare cũng cho thấy dấu hiệu bị lỗi, mất định dạng CSS.
+
+Khi người dùng cố gắng truy cập vào các dịch vụ bị ảnh hưởng, nhiều trang web hiển thị thông báo chung chung như: "Vui lòng bỏ chặn challenges.cloudflare.com để tiếp tục".
+
+Thông báo này không có nghĩa là người dùng đã làm gì sai. Thay vào đó, nó báo hiệu rằng các hệ thống bảo mật mà Cloudflare cung cấp đang gặp trục trặc. Dù các trang web được bảo vệ vẫn hoạt động trực tuyến ở chế độ nền, chúng không thể vượt qua hàng rào kiểm tra bảo mật bị lỗi của Cloudflare để hiển thị nội dung cho người dùng.
+
+Tại Việt Nam, đáng chú ý một số trang báo điện tử, tạp chí và mạng xã hội cũng bị ảnh hưởng bởi sự cố này, cụ thể như báo Công Thương, Thời Báo Ngân hàng, tạp chí Thương Trường, Petrotimes hay mạng xã hội Tinh Tế, website Thư Viện Pháp Luật…

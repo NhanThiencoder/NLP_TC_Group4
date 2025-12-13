@@ -1,0 +1,43 @@
+Trong năm 2025, Viettel sẽ triển khai thêm 22.000 trạm 5G, lũy kế sở hữu 29.000 trạm 5G, nhằm mở rộng vùng phủ, nâng cao chất lượng mạng 5G.
+
+Viettel dẫn đầu tại 5 hạng mục quan trọng
+
+Theo báo cáo của Ookla - đơn vị vận hành nền tảng Speedtest, trong nửa đầu năm 2025, dữ liệu từ Speedtest Intelligence cho thấy Viettel đạt tốc độ tải xuống trung bình 165,03 Mbps, trong đó tốc độ tải xuống 5G trung bình lên tới 594,16 Mbps, vượt xa các đối thủ trên thị trường.
+
+Kết quả này giúp Viettel giành danh hiệu “Best Mobile Network” và “Best 5G Network” tại Việt Nam, thể hiện năng lực vượt trội trong việc triển khai hạ tầng và tối ưu trải nghiệm cho người dùng.
+
+Viettel cũng được đánh giá là mạng di động ổn định nhất, với 97,4% mẫu đo đạt hoặc vượt ngưỡng tốc độ tải xuống 5 Mbps và tải lên 1 Mbps. Chỉ số này phản ánh khả năng duy trì hiệu năng ổn định, đảm bảo người dùng có trải nghiệm mượt mà trong hầu hết các tình huống sử dụng.
+
+Trong hạng mục Game Score, Viettel đạt 79,81 điểm, dẫn đầu toàn thị trường. Chỉ số này được tính dựa trên độ trễ (latency), độ ổn định (jitter) và khả năng phản hồi khi chơi game trực tuyến, cho thấy Viettel mang lại trải nghiệm tối ưu cho người dùng yêu thích game online.
+
+Tổng hợp các công nghệ, Viettel đạt Speed Score 82,56, trở thành nhà mạng di động nhanh nhất tại Việt Nam. Trong khi đó, Vinaphone và Mobifone lần lượt ghi nhận 78,69 Mbps và 68,45 Mbps tốc độ tải xuống trung bình – thấp hơn đáng kể so với Viettel.
+
+Viettel cũng dẫn đầu thị trường về tốc độ tải lên trung bình, đạt 34,2 Mbps, cùng độ trễ ở mức 34 mili-giây, thể hiện khả năng kết nối nhanh và ổn định trên toàn mạng.
+
+Lý do Viettel có được kết quả này đến từ việc triển khai mạng 5G mạnh mẽ và nhanh chóng ở Việt Nam. Đây được coi là một trong các nhân tố chính. Bên cạnh đó, việc đầu tư vào hệ thống cáp quang quốc tế và trong nước với công nghệ fibre mới giúp tăng tốc độ và băng thông. Ngoài ra, chính sách hỗ trợ, chuyển đổi số, định hướng hạ tầng viễn thông được coi là hạ tầng chiến lược quốc gia cũng là nguyên nhân tác động đến kết quả này.
+
+Chính thức kinh doanh dịch vụ 5G từ ngày 15/10/2024, chưa đầy 1 năm, 5G Viettel đã cán mốc 10 triệu người dùng và đang tiệm cận mục tiêu đạt 12 triệu người dùng ngay trong năm 2025.
+
+Lưu lượng bình quân hàng tháng mỗi khách hàng dùng data (DOU) trên 1 thuê bao 5G tăng gấp 2 lần so với thuê bao 4G và vẫn tiếp tục mua thêm các gói lưu lượng bổ sung theo ngày. Điều này cho thấy nhu cầu sử dụng data của người Việt ngày càng gia tăng.
+
+Theo các chuyên gia viễn thông, đây là biểu hiện rõ rệt của “hiệu ứng mở rộng trải nghiệm”. Người dùng thường nghĩ rằng lưu lượng hiện tại là đủ, nhưng khi được cung cấp nhiều hơn, họ bắt đầu hình thành những hành vi mới.
+
+Điều này được ghi nhận là một xu thế ở các thị trường phát triển trên thế giới. Tại Ấn Độ, sau khi thương mại hóa 5G, lưu lượng bình quân mỗi khách hàng dùng data của Jio tăng gấp 3 lần. Ở Thái Lan, Trung Quốc, mức tiêu dùng dữ liệu toàn thị trường tăng 1,5 lần.
+
+Những thống kê đều cho thấy việc phổ cập 5G quy mô lớn nhanh chóng định hình thói quen tiêu dùng dữ liệu. Khi 5G có vùng phủ đủ rộng, thiết bị phong phú và mức giá dễ tiếp cận, người dùng có xu hướng chuyển nhanh sang tiêu thụ dữ liệu dày đặc hơn (thông qua sử dụng video HD/4K, cloud gaming, XR), kéo DOU tăng gấp rưỡi, đến gấp đôi chỉ sau vài năm.
+
+Trong năm 2025, Viettel sẽ triển khai thêm 22.000 trạm 5G, lũy kế sở hữu 29.000 trạm 5G, nhằm mở rộng vùng phủ, nâng cao chất lượng mạng 5G, giữ vững vị thế số 1 về hạ tầng số tại Việt Nam. Số lượng trạm 5G mới gấp 3 lần số trạm Viettel khai trương dịch vụ này ngày 15/10/2024 (6.500 trạm) và gấp 2 lần toàn bộ số trạm 5G của tất cả các nhà mạng đang phục vụ tại Việt Nam (11.000 trạm) tính đến tháng 6/2025.
+
+VinaPhone dẫn đầu về 5G, MobiFone lọt top trải nghiệm video di động
+
+Cũng theo báo cáo của Ookla, dữ liệu từ Speedtest Intelligence cho thấy VinaPhone là nhà mạng 5G nhanh nhất tại Việt Nam với điểm tốc độ (Speed Score) đạt 78,11. VinaPhone dẫn đầu về tốc độ tải xuống trung bình, đạt 594,16 Mbps, tiếp đến là Viettel (đứng thứ hai với 421,61 Mbps) và MobiFone (đạt 306,5 Mbps). Ngoài ra, nhà mạng cũng ghi nhận tốc độ tải lên trung bình đạt 55,37 Mbps và độ trễ chỉ 30 mili giây.
+
+Một hạng mục khác VinaPhone đứng đầu là nhà mạng di động được yêu thích nhất (Top Rated) với điểm số 4,08/5, cao hơn các đối thủ khác trên thị trường.
+
+Ookla giải thích Top-Rated được thiết kế để đánh giá, trong một khu vực và giai đoạn cụ thể, nhà mạng nào có xếp hạng sao trung bình cao nhất. Hãng sử dụng bộ dữ liệu mẫu từ đánh giá 5 sao trên Speedtest để suy luận và đưa ra nhận định về mức độ hài lòng của người tiêu dùng trong phạm vi rộng hơn.
+
+Báo cáo kết nối Internet Việt Nam nửa đầu năm 2025 của Ookla cho thấy MobiFone dẫn đầu ở hai hạng mục: Trải nghiệm video di động tốt nhất và trải nghiệm game 5G tốt nhất.
+
+Với hạng mục đầu tiên, Mobifone giành 74,46 điểm, cao hơn 3 đối thủ là Vinaphone (72,93 điểm), Viettel (72,33 điểm) và Vietnammobile (68,29 điểm).
+
+Nếu xét riêng kết nối 5G, không có nhà mạng nào giành chiến thắng, theo Ookla.

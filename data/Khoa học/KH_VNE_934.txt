@@ -1,0 +1,17 @@
+IrelandVới dữ liệu vi sinh vật từ nhiều châu lục, nhóm tuổi, vị trí cơ thể, bộ sưu tập APOLLO có thể giúp cách mạng hóa nghiên cứu sức khỏe.
+
+Các nhà khoa học tạo ra APOLLO, bộ sưu tập các mẫu vi sinh vật kỹ thuật số lớn nhất thế giới. Ảnh: Đại học Galway
+
+Nhóm nghiên cứu tại Trung tâm Sinh đôi Kỹ thuật số về Trao đổi chất thuộc Đại học Galway, Ireland, phát triển APOLLO, bộ sưu tập kỹ thuật số lớn nhất thế giới về các mẫu vi sinh vật. Bộ sưu tập này bao gồm 247.092 đại diện vi khuẩn từ hệ vi sinh vật của con người được tạo ra bằng máy tính, SciTechDaily hôm 21/2 đưa tin.
+
+APOLLO cung cấp các mô hình chi tiết về quá trình trao đổi chất của từng vi sinh vật, cho phép giới khoa học nghiên cứu chức năng vi sinh vật thông qua mô phỏng máy tính thay vì chỉ dựa vào những thí nghiệm phức tạp. Bộ sưu tập bao gồm dữ liệu từ nhiều châu lục, nhóm tuổi và vị trí cơ thể.
+
+Nhóm nghiên cứu đã tạo ra 14.451 mô phỏng máy tính của các cộng đồng vi sinh vật riêng lẻ dựa trên mẫu vật thực tế, để khám phá cách vi sinh vật thay đổi quá trình trao đổi chất theo vị trí cơ thể, độ tuổi và tình trạng sức khỏe. Các mô phỏng của APOLLO cũng dự đoán những chất chuyển hóa phân quan trọng liên quan đến bệnh Crohn, bệnh Parkinson và suy dinh dưỡng trẻ em. Điều này có thể giúp định hình các chiến lược chẩn đoán và điều trị trong tương lai.
+
+Dựa vào APOLLO, giới chuyên gia có thể phát triển thuốc, probiotic (lợi khuẩn), prebiotic (chất xơ làm thức ăn cho lợi khuẩn), liệu pháp dựa trên hệ vi sinh vật để điều trị một số bệnh nhất định hiệu quả hơn. Vì bao gồm các hệ vi sinh vật đa dạng, bộ sưu tập cũng cung cấp góc nhìn toàn diện giúp giải quyết cách lối sống hiện đại ảnh hưởng đến sức khỏe hệ vi sinh vật. Thông tin này sẽ hỗ trợ cho những chính sách y tế công, ví dụ về cách sử dụng kháng sinh, chế độ ăn uống và phòng ngừa bệnh tật.
+
+"Hệ vi sinh vật của con người là yếu tố quan trọng trong nghiên cứu sức khỏe và bệnh tật, tương tác mạnh với vật chủ. Tìm hiểu những tương tác phức tạp này đòi hỏi công nghệ tiên tiến. Nghiên cứu của chúng tôi tích hợp các mô hình kỹ thuật số của cả vi sinh vật lẫn con người, cho phép chúng tôi khám phá vai trò của hệ vi sinh vật với sức khỏe ở mức độ chi tiết chưa từng có", giáo sư Ines Thiele, trưởng nhóm nghiên cứu, cho biết.
+
+"APOLLO đánh dấu một cột mốc quan trọng trong việc mô hình hóa hệ vi sinh vật cá nhân trên quy mô toàn cầu", tiến sĩ Cyrille Thinnes, thành viên nhóm nghiên cứu, nhận định.
+
+Thu Thảo (Theo SciTechDaily)

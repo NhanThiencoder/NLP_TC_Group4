@@ -1,0 +1,27 @@
+Các nhà khoa học sử dụng trí thông minh nhân tạo (AI) để khám phá sâu hơn về cách thức giao tiếp của các loài động vật, nhằm giải đáp câu hỏi "Động vật đang nói gì với nhau?".
+
+Từ năm 2024, Quỹ Jeremy Coller và Đại học Tel Aviv bắt đầu trao giải thưởng thường niên Coller-Dolittle trị giá nửa triệu USD dành cho các nhà khoa học và nhóm nghiên cứu có thể mở khóa khả năng giao tiếp hai chiều giữa con người với các loài sinh vật khác. Những tiến bộ gần đây trong lĩnh vực công nghệ và mô hình ngôn ngữ lớn (LLM) đang giúp con người tiến gần hơn đến mục tiêu này.
+
+Nhiều nhóm nghiên cứu đã nỗ lực phát triển các thuật toán phân tích âm thanh của động vật. Ví dụ, Dự án CETI đang tiến hành giải mã chuỗi âm thanh giống tiếng nhấp chuột (click) của cá nhà táng và giai điệu của cá voi lưng gù. Trong quá trình thu thập dữ liệu, các nhà nghiên cứu liên kết từng âm thanh với một tình huống cụ thể trong đời sống của chúng.
+
+"Cá nhà táng tạo ra một chuỗi âm thanh giống như mã Morse trước khi đi săn, hoặc phát ra những âm thanh đặc biệt khi chúng bị ốm, đang mang thai hoặc muốn thu hút bạn tình", Jacob Andreas, thành viên của Dự án CETI tại Viện Công nghệ Massachusetts (MIT), cho biết. "Dựa vào công nghệ AI, chúng tôi có thể phân tích các bản ghi âm của cá trong từng hoàn cảnh cụ thể để tìm ra quy luật giao tiếp của chúng".
+
+AI có thể giúp con người hiểu ngôn ngữ của các loài động vật. Ảnh: Lê Hùng
+
+Các công cụ AI hiện đại cần rất nhiều dữ liệu. Mô hình ngôn ngữ lớn như ChatGPT được đào tạo dựa trên một lượng văn bản khổng lồ trên internet. Nhưng cho đến nay, giới khoa học chưa thu thập đủ nguồn dữ liệu âm thanh chất lượng cao, có chú thích rõ ràng về các loài động vật để thuật toán AI phân tích một cách hiệu quả.
+
+Cụ thể, công ty OpenAI đã dùng hơn 500 GB dữ liệu văn bản để huấn luyện mô hình GPT-3, trong khi Dự án CETI nghiên cứu về cá nhà táng chỉ có 8.000 đoạn âm thanh ghi âm.
+
+Khi nghiên cứu ngôn ngữ của con người, chúng ta biết rõ mọi người đang nói gì, và các yếu tố cấu tạo nên một "từ". Đây là lợi thế rất lớn khi so sánh với việc giải mã ngôn ngữ động vật. Ví dụ, các nhà khoa học chưa thể xác định liệu tiếng hú của một con sói có cùng ý nghĩa với tiếng hú của một con sói khác hay không, hoặc loài sói có coi tiếng hú là một đơn vị ngôn ngữ, tương tự một "từ" trong lời nói của con người hay không.
+
+Năm 2025 hứa hẹn sẽ có nhiều bước tiến mới, không chỉ về số lượng dữ liệu âm thanh của động vật phục vụ mục đích nghiên cứu khoa học, mà còn về khả năng và sức mạnh của các thuật toán AI. Khi các thiết bị ghi âm giá rẻ như AudioMoth ngày càng phổ biến, việc ghi lại âm thanh của động vật trở nên dễ dàng hơn nhiều. Chúng sẽ hoạt động liên tục ngoài tự nhiên, thu thập tiếng kêu của vượn hoặc tiếng chim trong rừng theo thời gian thực.
+
+Trước đây, con người không thể xử lý một lượng dữ liệu khổng lồ như vậy bằng tay. Giờ đây, các thuật toán nhận diện tự động dựa trên mạng nơ-ron tích chập (CNN) có khả năng quét hàng nghìn giờ ghi âm, lọc ra âm thanh của động vật và phân loại chúng thành các nhóm khác nhau dựa trên đặc điểm âm thanh tự nhiên.
+
+Sau đó, các nhà khoa học có thể tiếp tục sử dụng mạng nơ-ron sâu (DNN) để tìm ra những quy luật ẩn giấu trong chuỗi tiếng kêu của động vật, tương tự cách con người sắp xếp từ ngữ có ý nghĩa trong ngôn ngữ.
+
+Vậy chúng ta kỳ vọng điều gì từ việc phân tích âm thanh của động vật? Một số tổ chức như Interspecies Internet đặt ra mục tiêu khá rõ ràng, đó là "chuyển đổi tín hiệu giao tiếp của một loài thành tín hiệu có thể hiểu được cho loài khác". Nói cách khác, họ muốn dịch ngôn ngữ của động vật sang ngôn ngữ con người. Tuy nhiên, hầu hết các nhà khoa học đều cho rằng động vật không có hệ thống ngôn ngữ riêng và hoàn chỉnh như con người.
+
+"AI và các công cụ học sâu không phải là phép thuật. Chúng không thể ngay lập tức dịch tất cả âm thanh của động vật sang tiếng Anh", Kevin Coffey, nhà khoa học thần kinh tại Đại học Washington (Mỹ), nhận định. "AI chỉ là một công cụ hỗ trợ, còn việc giải mã vẫn cần sự tham gia của các nhà sinh vật học - những người sẽ quan sát động vật trong nhiều tình huống khác nhau để kết nối âm thanh của chúng với những yếu tố như hành vi, cảm xúc...".
+
+Lê Hùng (Theo Wired)

@@ -1,0 +1,17 @@
+MỹRobot Mech của công ty Dexterity có cánh tay cực khỏe với phần mềm AI giúp xử lý hàng hóa chính xác trong nhà kho và khu công nghiệp, đảm nhiệm những công việc căng thẳng.
+
+Siêu robot hình người cách mạng hóa hoạt động công nghiệp Khả năng xử lý hàng hóa linh hoạt của robot Mech. Video: Dexterity
+
+Công ty Mỹ Dexterity ở California giới thiệu siêu robot hình người công nghiệp đầu tiên trên thế giới, hướng tới cách mạng hóa hoạt động kinh doanh, Interesting Engineering hôm 24/3 đưa tin. Mang tên Mech, robot tự hành trang bị hai cánh tay. Nó có thể đi lại trong nhà kho và khu công nghiệp, giải quyết dễ dàng những công việc căng thẳng và lặp lại. Theo công ty, Mech được chế tạo từ đầu nhằm đưa kỹ năng và sức mạnh của con người vào môi trường công nghiệp. Phần mềm Physical AI cao cấp của Dexterity giúp giải quyết công việc mới đơn giản như cài đặt ứng dụng. Robot Mech hiện nay có sẵn cho các nhà vận chuyển và doanh nghiệp, dự kiến ứng dụng phần mềm bổ sung sẽ ra mắt trong năm 2025 để mở rộng khả năng của nó.
+
+Hướng tới tính hiệu quả, Mech có cánh tay kép với sải tay 5,4 m và khả năng nâng 60 kg. Phần vai và cổ tay được cấp bằng sáng chế của nó tăng cường độ khéo léo, cho phép xử lý công việc phức tạp. Phần mềm AI của robot mang tới giác quan giống người, giúp thao tác chính xác và cầm nắm cẩn thận nhiều vật liệu đa dạng, bao gồm thùng, kiện hàng và túi nylon.
+
+Đặt trên đế tự hành linh hoạt, Mech có thể xoay tròn, leo dốc và vận động quanh trạm làm việc. Một siêu máy tính, hai bơm chân không, cảm biến tổng quát và hệ thống an toàn, tất cả đều nằm ở đế của robot. Mech có thể khuân vác hiệu quả những chồng hộp cao ngất và quản lý công việc như bốc dỡ hàng hoặc xếp hàng ra vào thùng, nhờ tầm với dọc tăng lên hơn 2,4 m. Sản lượng tăng đáng kể nhờ khả năng hoàn thành công việc mà không cần thay đổi vị trí của nó.
+
+Mech được thiết kế để tích hợp trơn tru vào bất kỳ môi trường công nghiệp nào. Tính dễ thích nghi của robot đối với nhiều công việc khác nhau khiến nó trở nên lý tưởng để quản lý luồng công việc từ trong ra ngoài. Ngoài ra, nó hỗ trợ điện toán biên để vận hành đơn độc hoặc kết nối với đám mây để quản lý từ xa. Đặc biệt, cánh tay của Mech do Kawasaki và Hiwin phát triển, đảm bảo độ tin cậy dài hạn trong hơn 10 năm thời gian trung bình giữa những lần hỏng hóc (MTBF).
+
+Theo Dexterity, Mech được thiết kế và lắp ráp tại California, có thể cách mạng hóa sản xuất và vận chuyển thông qua kết hợp những khả năng dựa trên AI với sức mạnh công nghiệp, giải quyết vấn đề về lao động và tăng cường lượng hàng xuất ra. Phần mềm Physical AI của Mech hoạt động nhờ siêu máy tính tích hợp, chạy hàng trăm mô hình AI để xử lý công việc. Nó thể hiện xuất sắc trong tình huống đòi hỏi phối hợp chính xác, như xếp chồng các hộp hình dạng gồ ghề, xử lý trong không gian hẹp và quản lý kiện hàng dễ vỡ.
+
+Sở hữu tới 16 camera, Mech có thể cảm nhận môi trường, nhận biết đồ vật và chọn kỹ thuật đóng gói tốt nhất. Nó hoạt động bền bỉ ở nhiệt độ 0 - 50 độ C. Theo Dexterity, một người có thể giám sát cả chục cỗ máy, giảm đáng kể số ca bị thương do mang vác nặng và công việc lặp lại. Mẫu robot sẽ cải thiện an toàn và năng suất ở nơi làm việc, theo Samir Menon, giám đốc điều hành kiêm nhà sáng lập Dexterity.
+
+An Khang (Theo Interesting Engineering)

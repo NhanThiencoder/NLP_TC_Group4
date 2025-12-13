@@ -1,0 +1,69 @@
+Terrahawk Paladin là hệ thống phòng không di động thế hệ mới do hãng MSI-Defence Systems (MSI-DS) của Anh phát triển, được thiết kế chuyên biệt để đối phó với mối đe dọa từ UAV cảm tử, tên lửa hành trình và các mục tiêu bay thấp trong tác chiến hiện đại. Được đưa vào biên chế quân đội Ukraine từ cuối năm 2025, Terrahawk Paladin nhanh chóng chứng minh hiệu quả thực chiến khi bảo vệ các cơ sở hạ tầng trọng yếu trước các đợt tấn công bằng drone Shahed-136 và Geran-2 của Nga.
+
+Hệ thống phòng không Terrahawk xuất hiện trong video về hoạt động tác chiến của Trung đoàn tên lửa phòng không 156 Ukraine. Video: Militarnyi/pravda.com.ua
+
+Cuối tháng 11/2025, trên bầu trời miền nam Ukraine liên tục xuất hiện những tiếng nổ ngắn, khô khốc của pháo 30mm kèm theo vệt khói trắng mỏng của tên lửa Martlet. Đó là dấu hiệu rõ ràng nhất cho thấy hệ thống phòng không di động mới nhất của Anh – Terrahawk Paladin – đã thực sự bước vào cuộc chiến.
+
+Được hãng MSI-Defence Systems (MSI-DS) phát triển chỉ trong vòng chưa đầy 18 tháng, Terrahawk Paladin không phải là một hệ thống phòng không truyền thống mà là câu trả lời trực tiếp cho kỷ nguyên tác chiến mà drone cảm tử và tên lửa hành trình giá rẻ đang định nghĩa lại chiến trường.
+
+Terrahawk Paladin thuộc lớp phòng không tầm cực ngắn (Very Short-Range Air Defence - VSHORAD) nhưng được thiết kế với tư duy hoàn toàn mới: thay vì cố gắng bắn hạ mọi thứ bằng tên lửa đắt đỏ, nó kết hợp pháo tự động tốc độ cao với một lượng nhỏ tên lửa tầm ngắn để tạo ra hiệu quả chi phí tối ưu.
+
+Toàn bộ hệ thống được đặt trên khung gầm xe bán tải quân sự 8×8 thông thường, trọng lượng chiến đấu chỉ khoảng 3,8 tấn.
+
+Nhờ vậy, nó có thể di chuyển nhanh trên mọi địa hình, triển khai chỉ trong chưa đầy năm phút và thậm chí được trực thăng Mi-8 hoặc máy bay vận tải C-130 chở đến các điểm nóng.
+
+Hệ thống phòng không tầm cực ngắn (VSHORAD) Terrahawk Paladin do hãng MSI-DS của Anh sản xuất sẽ giúp Ukraine đối phó với các drone bay thấp và trực thăng của Nga. (Nguồn ảnh: Trung đoàn tên lửa phòng không 156 Ukraine/armyrecognition.com)
+
+Trái tim của Terrahawk Paladin là tháp pháo xoay tròn 360 độ tích hợp cả pháo và tên lửa. Vũ khí chính là một khẩu pháo tự động 30×113mm do chính MSI-DS cải tiến từ dòng Bushmaster nổi tiếng.
+
+Khác với các khẩu pháo phòng không cũ chỉ bắn đạn thường, Terrahawk Paladin sử dụng chủ yếu hai loại đạn nổ mảnh lập trình (air-burst): Mk258 APFSDS-T và PMD 375 ABM.
+
+Đầu nổ của những viên đạn này được lập trình nổ đúng khoảng cách với mục tiêu, tạo ra đám mây mảnh kim loại dày đặc đủ để xé nát cánh và động cơ của drone Shahed-136 hay Geran-2 dù chúng bay ở độ cao chỉ vài chục mét.
+
+Với tốc độ bắn 200 viên/phút ở chế độ chống không, một khẩu pháo có thể duy trì hỏa lực liên tục trong gần 10 phút mà không cần thay nòng – đủ để đối phó với cả một đợt tấn công bầy đàn 30–50 chiếc drone.
+
+Bên cạnh pháo, tháp pháo còn mang theo tám ống phóng tên lửa nhẹ. Ukraine hiện chủ yếu sử dụng hai loại: Martlet LMM (Lightweight Multirole Missile) của Thales và Starstreak HVM tốc độ cao.
+
+Hệ thống phòng không tầm gần Terrahawk Paladin được lắp đặt trên nền xe tải. (Nguồn: MSI-Defence Systems)
+
+Martlet có tầm bắn tối đa 8km, đầu đạn đa năng và đặc biệt hiệu quả với mục tiêu nhỏ bay nhanh, trong khi Starstreak với ba mũi tên tungsten siêu thanh gần như không thể tránh né đối với drone cỡ lớn.
+
+Sự kết hợp này cho phép Terrahawk Paladin xử lý đồng thời cả mục tiêu rất gần (dưới 400m – nơi tên lửa chưa kịp kích hoạt) lẫn mục tiêu ở khoảng cách 6–7km mà pháo bắt đầu mất độ chính xác.
+
+Điểm đáng chú ý nhất về công nghệ nằm ở hệ thống điều khiển hỏa lực. Terrahawk Paladin được trang bị radar AESA băng tần Ku nhỏ gọn, có khả năng phát hiện mục tiêu có diện tích phản xạ radar chỉ 0,01 m² (tương đương một chiếc DJI Mavic) ở khoảng cách 12–15 km.
+
+Khi hoạt động ở chế độ thông thường, radar này quét liên tục và truyền dữ liệu về cụm quang-điện tử gồm camera hồng ngoại độ phân giải 4K và laser đo xa.
+
+Thuật toán trí tuệ nhân tạo (AI) tích hợp có thể theo dõi đồng thời tới 20 mục tiêu, tự động phân loại drone thật – mồi bẫy – chim – vật thể bay không xác định và đề xuất thứ tự ưu tiên tiêu diệt.
+
+MSI-DS Terrahawk Paladin. Ảnh: MSI-Defense Systems
+
+Xạ thủ chỉ cần ngồi trong cabin xe, quan sát trên hai màn hình lớn kiểu “glass cockpit” và quyết định bấm nút khai hỏa hoặc để hệ thống tự động thực hiện.
+
+Để tăng khả năng sống sót trong môi trường tác chiến điện tử dày đặc của Ukraine, Terrahawk Paladin có thể chuyển hoàn toàn sang chế độ thụ động: tắt radar, chỉ dùng cảm biến quang-điện tử và gây nhiễu hồng ngoại.
+
+Thiết kế tháp pháo thấp, mặt cắt radar nhỏ cùng lớp phủ hấp thụ sóng giúp nó rất khó bị hệ thống định vị phát xạ của Lancet hay Krasnopol-M phát hiện.
+
+Khi bị drone FPV hoặc tên lửa chống radar tấn công, hệ thống gây nhiễu RF đa băng tần tích hợp sẵn sẽ tự động kích hoạt.
+
+Chi phí vận hành là yếu tố khiến Terrahawk Paladin trở thành “cơn ác mộng kinh tế” đối với drone giá rẻ. Một viên đạn 30mm nổ mảnh lập trình chỉ tốn khoảng 2.500–4.000 USD, trong khi mỗi quả Martlet có giá khoảng 120.000 USD và Starstreak đắt hơn một chút.
+
+MSI-DS Terrahawk Paladin. Ảnh: MSI-Defense Systems
+
+So với việc dùng tên lửa Patriot (2–4 triệu USD/quả) hoặc thậm chí NASAMS (800.000 USD/quả) để bắn hạ Shahed có giá sản xuất chỉ 20.000–50.000 USD, Terrahawk mang lại tỷ lệ chi phí/hiệu quả vượt trội.
+
+Một tổ hợp với 1.200 viên đạn pháo và 8 quả tên lửa có thể tiêu diệt từ 50–80 mục tiêu trong một đêm – con số mà hầu hết các hệ thống tên lửa thuần túy không thể đạt được mà không cạn kiệt kho dự trữ.
+
+Tính đến tháng 11/2025, Anh đã chuyển giao ít nhất 15 tổ hợp Terrahawk Paladin cho Ukraine, chủ yếu triển khai bảo vệ các nhà máy điện hạt nhân còn hoạt động, cầu cảng Odessa, kho đạn lớn và trung tâm chỉ huy gần Kherson – Zaporizhzhia.
+
+Các video thực chiến lan truyền trên mạng xã hội Ukraine cho thấy hệ thống này thường xuyên bắn hạ 4–6 chiếc Shahed chỉ trong vài phút bằng pháo 30 mm, sau đó dùng tên lửa để “kết liễu” những chiếc còn sót lại cố gắng lách qua.
+
+MSI-DS Terrahawk Paladin. (Ảnh: MSI-Defence Systems)
+
+Theo một số nguồn không chính thức từ Bộ Quốc phòng Anh, tỷ lệ đánh chặn của Terrahawk đối với mục tiêu bay thấp dưới 1.000m cao hơn cả pháo tự hành Gepard mà Đức cung cấp trước đó.
+
+Terrahawk Paladin không phải là lá chắn hoàn hảo. Nó không thể đối phó với tên lửa đạn đạo hay máy bay chiến đấu tốc độ cao, và tầm bắn hiệu quả chỉ giới hạn dưới 8km.
+
+Nhưng trong phân khúc mà nó được sinh ra để thống trị – cuộc chiến chống lại hàng trăm drone và tên lửa hành trình giá rẻ mỗi đêm – nó đang chứng minh rằng một hệ thống nhỏ gọn, thông minh và tiết kiệm có thể thay đổi cả cục diện phòng không tầng thấp.
+
+Với chiến trường Ukraine năm 2025, Terrahawk Paladin không chỉ là một vũ khí mới. Nó là minh chứng rõ ràng nhất rằng tương lai của phòng không không còn nằm ở những khẩu đội tên lửa khổng lồ đắt đỏ nữa, mà nằm ở những cỗ máy nhỏ bé, nhanh nhẹn và biết cách tiêu diệt kẻ thù bằng chính chi phí mà kẻ thù tự hào nhất: rẻ đến mức không thể phòng thủ.

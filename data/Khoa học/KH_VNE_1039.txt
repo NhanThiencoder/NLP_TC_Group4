@@ -1,0 +1,23 @@
+Pin trọng lực chỉ dựa vào nguyên tắc vật lý cơ bản để lưu trữ năng lượng và không phụ thuộc vào vật liệu khai khoáng nhập khẩu hứa hẹn thay thế pin lithium - ion.
+
+Tháp pin trọng lực của Energy Vault trong dự án hợp tác với chính phủ Trung Quốc. Ảnh: Energy Vault
+
+Pin trọng lực, công nghệ sử dụng một trong những lực đơn giản nhất trong tự nhiên là lực hấp dẫn, có thể lưu trữ lượng lớn năng lượng. Hiện loại pin này được thử nghiệm ở nhiều dạng trên khắp thế giới, hứa hẹn cung cấp lựa chọn sạch, bền và linh hoạt hơn pin lithium-ion, theo Interesting Engineering.
+
+Pin trọng lực hoạt động dựa vào thế năng. Bất cứ khi nào nâng một vật nặng, dù là khối gạch lớn hay một thể tích nước, bạn cần dồn lực vào vật nặng đó. Nhờ lực hấp dẫn, năng lượng được lưu trữ cho tới khi vật thể rơi xuống. Ở bất kỳ thời điểm nào, bạn có thể để nó rơi có kiểm soát, sử dụng máy phát điện hoặc turbine để biến đổi động lượng hướng xuống thành điện. Khác với năng lượng hóa học trong pin giảm dần sau nhiều chu kỳ lặp lại, thế năng không giảm dần theo thời gian. Chừng nào bộ phận cơ học còn hoạt động, năng lượng lưu trữ có thể được giải phóng khi cần.
+
+Những dạng ban đầu của lưu trữ năng lượng dựa trên lực hấp dẫn đã tồn tại hơn một thế kỷ dưới dạng các hệ thống thủy điện tích năng bơm nước lên đồi khi năng lượng dồi dào, sau đó giải phóng xuống đồi qua turbine khi nhu cầu điện đạt đỉnh. Quá trình này có hiệu quả và độ tin cậy cao, nhưng đòi hỏi địa hình riêng biệt bao gồm hồ chứa nước trên cao và lưu vực lớn mà nhiều vùng không có.
+
+Ví dụ ấn tượng nhất về công cuộc chuyển đổi sang pin trọng lực nằm ở Như Đông, Trung Quốc, trong dự án hợp tác giữa công ty Energy Vault của Thụy Sĩ và chính phủ Trung Quốc. Cao hơn 120 m, tòa nhà EVx là một tháp cơ học đồ sộ dùng để nâng những khối gạch khổng lồ nặng tới 24 tấn trong thời gian năng lượng thặng dư. Khi lưới điện cần nhiều điện hơn, các khối gạch được hạ xuống và thế năng của chúng được biến đổi thành điện.
+
+Với công suất cực đại 25 MW, EV có hiệu quả khứ hồi hơn 80%. Tuổi thọ hoạt động theo ước tính lên tới 35 năm cho thấy đây là một giải pháp dài hạn hữu hiệu. Mỗi khối gạch làm từ hợp chất có sẵn như đất, cát hoặc rác tái chế. Xây dựng tháp phụ thuộc vào nhân công và nguồn lực địa phương, giúp chi phí thấp hơn so với dựa vào lithium nhập khẩu hoặc các loại đất hiếm khác. Nhiều dự án EVx khác đang được lên kế hoạch, từ 100 MWh đến 660 MWh, thậm chí một hệ thống 2 GWh được đề xuất lắp đặt ở Nội Mông.
+
+Thách thức và hạn chế
+
+Bất chấp tiềm năng của pin trọng lực, đây không phải là giải pháp phổ biến. Đối với lưu trữ năng lượng ở quy mô cá nhân hoặc gia đình, thí nghiệm vật lý chỉ ra hệ thống trọng lực nhỏ không hiệu quả. Trong một nghiên cứu, các sinh viên kỹ thuật nâng khối bê tông 2.000 kg trong một ngôi nhà và phát hiện nó chỉ lưu trữ năng lượng tương đương 12 pin AA.
+
+Xây dựng công trình đủ lớn để lưu trữ nhiều năng lượng tại nhà sẽ rất tốn kém và phức tạp về mặt kết cấu. Ở quy mô lưới điện, hạn chế lớn của pin trọng lực là chi phí ban đầu lớn. Dù chi phí vận hành trong suốt vòng đời có thể thấp hơn pin lithium-ion, thuyết phục nhà đầu tư tham gia dự án như vậy không hề dễ dàng.
+
+Ngoài ra, hao mòn vật lý ở những bộ phận cơ học như tời, dây cáp, ròng rọc hoặc thang nâng có thể đáng lo ngại sau nhiều thập kỷ vận hành. Một trở ngại khác là bất động sản. Dù hệ thống pin trọng lực không đòi hỏi hồ trên núi nhưng cần cấu trúc cao hoặc giếng sâu. Khu vực đô thị có thể không thuận tiện để xây tháp cao do chắn tầm nhìn hoặc tăng chi phí bất động sản. Khu công nghiệp cũ hoặc vùng nông thôn có thể phù hợp hơn, nhưng tính khả thi của mỗi dự án phụ thuộc vào quy định địa phương và sự chấp thuận của cộng đồng.
+
+An Khang (Theo Interesting Engineering)

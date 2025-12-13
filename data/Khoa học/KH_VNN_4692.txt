@@ -1,0 +1,67 @@
+Sự trỗi dậy của trí tuệ nhân tạo (AI) đang tạo ra một bước ngoặt lịch sử, buộc các quốc gia phải trả lời những câu hỏi chưa từng có về đạo đức, an toàn và trách nhiệm công nghệ.
+
+Khi các hệ thống AI trở nên mạnh hơn, nhanh hơn và tự chủ hơn, ranh giới giữa lợi ích và rủi ro ngày càng mong manh.
+
+Tọa đàm “AI vì nhân loại: Đạo đức và an toàn AI trong kỷ nguyên mới” tại Tuần lễ VinFuture 2025 diễn ra đúng thời điểm, trở thành không gian để thế giới nhìn lại cách nhân loại đang đối mặt với một công nghệ không còn nằm trong biên giới của bất kỳ quốc gia nào.
+
+Dưới góc nhìn phân tích, tọa đàm không chỉ là nơi trao đổi học thuật. Đây là một chỉ dấu cho thấy Việt Nam – một thị trường năng động với tốc độ số hóa nhanh – đang bước vào cuộc chơi quản trị AI toàn cầu, nơi các chuẩn mực giá trị, hành lang pháp lý và tầm nhìn đạo đức quan trọng không kém bản thân công nghệ.
+
+GS. Toby Walsh, chuyên gia hàng đầu về AI tại Úc, đánh giá cao tầm quan trọng của tọa đàm do VinFuture tổ chức trong bối cảnh vấn đề quản trị phát triển AI đang “nóng” trên toàn cầu. Ảnh: UNSW.
+
+Đạo đức AI: từ “rào cản đổi mới” thành nền tảng phát triển bền vững
+
+Trong nhiều năm, đạo đức thường bị xem như lực cản của đổi mới công nghệ. Tuy nhiên, như GS. Toby Walsh – một trong những tiếng nói có uy tín nhất trong lĩnh vực AI – khẳng định: đạo đức chính là điều kiện để đổi mới diễn ra bền vững, an toàn và có thể dự đoán được.
+
+Lập luận của ông dựa trên thực tế: các mô hình AI ngày càng mở rộng quy mô dữ liệu, tự động hóa quá trình ra quyết định và ảnh hưởng trực tiếp đến con người theo cách mà ngay cả những nhà phát triển cũng không thể kiểm soát hoàn toàn.
+
+Khi thuật toán có thể phân tích, đánh giá, dự đoán và đưa ra quyết định thay con người, việc thiếu chuẩn đạo đức không còn là rủi ro kỹ thuật — đó là rủi ro xã hội.
+
+Các vụ việc gần đây trên thế giới minh chứng cho điều đó: AI thiên vị trong tuyển dụng, mô hình gợi ý gây phân cực xã hội, thuật toán lái xe tự động gặp lỗi trong tình huống bất định… mỗi ví dụ đều cho thấy đạo đức AI không chỉ là vấn đề “lý luận”, mà là yêu cầu tối thiểu để duy trì niềm tin công chúng.
+
+Đặt vào bối cảnh này, câu hỏi “có nên kìm hãm AI hay không?” trở nên lỗi thời. Điều nhân loại cần không phải là giảm tốc, mà là đi đúng hướng.
+
+Rủi ro AI không có biên giới – vì sao các quốc gia bắt buộc phải hợp tác?
+
+GS. Edson Prestes đưa ra một cảnh báo quan trọng: bất kỳ hệ thống AI nào được phát triển ở một quốc gia đều có thể lan tỏa toàn cầu chỉ trong vài giờ thông qua nền tảng số. Điều này tạo ra một sự thật bất tiện: rủi ro AI là rủi ro xuyên biên giới, không quốc gia nào có thể “đóng cửa” để tự bảo vệ.
+
+Chúng ta đã chứng kiến nhiều tiền lệ như: Một thuật toán xếp hạng tin tức tạo ra hiệu ứng “vòng lặp thông tin” ở hàng chục quốc gia. Một hệ thống nhận dạng khuôn mặt thiên lệch ảnh hưởng đến hàng triệu người dùng toàn cầu.
+
+Một mô hình ngôn ngữ bị lộ dữ liệu gây ra hậu quả ở nhiều thị trường khác nhau. Vì thế, các quy định riêng lẻ của từng quốc gia sẽ không đủ.
+
+Các chuyên gia đều thống nhất rằng hợp tác quốc tế là chìa khóa. Điều này đặc biệt quan trọng khi AI đang trở thành hạ tầng mới của mọi ngành kinh tế: tài chính, y tế, giáo dục, quốc phòng, quản trị công…
+
+Thế giới cần các bộ tiêu chuẩn chung – tương tự như tiêu chuẩn hàng không hay an toàn mạng – để tránh những lỗ hổng có thể lan rộng và gây thiệt hại trên quy mô lớn.
+
+Điều này đặt ra yêu cầu: các quốc gia phải tham gia cuộc chơi, thay vì đứng ngoài chờ công nghệ hình thành rồi mới điều chỉnh.
+
+GS. Edson Prestes nhấn mạnh tất cả các nước đều cần chủ động tham gia công cuộc phát triển AI đạo đức và có trách nhiệm. Ảnh: UFRGS.
+
+Việt Nam nổi lên như “điểm sáng nhanh nhạy” trong bản đồ đạo đức AI Đông Nam Á
+
+Dưới góc nhìn chính sách, nhận xét của GS. Walsh dành cho Việt Nam mang nhiều hàm ý chiến lược. Việt Nam không phải trung tâm phát triển AI tầm cỡ như Mỹ, Trung Quốc, nhưng lại có lợi thế độc đáo như dân số trẻ, nhu cầu số hóa mạnh, tốc độ chuyển đổi số trong chính phủ và doanh nghiệp nằm trong nhóm nhanh nhất khu vực, hệ sinh thái startup AI phát triển, chính sách cởi mở với thử nghiệm sandbox.
+
+Chính những yếu tố này khiến Việt Nam có vị thế đặc biệt: không đi đầu về công nghệ lõi, nhưng có thể đi đầu về kiến tạo khung đạo đức và cách ứng xử với AI – tương tự cách Estonia dẫn đầu về chính phủ số dù không phải cường quốc công nghệ.
+
+Các chuyên gia đánh giá Việt Nam đang hội đủ ba điều kiện hiếm có: Nhu cầu nội tại lớn – dân số đông, dịch vụ công chuyển đổi mạnh, doanh nghiệp số hóa nhanh; Tốc độ chính sách nhanh và quyết liệt – từ VNeID đến 12 CSDL quốc gia, từ dữ liệu mở đến nghị quyết về an toàn AI: Khát vọng quốc gia – tăng trưởng kinh tế số, phát triển lực lượng nhân lực AI, thu hút chuyên gia quốc tế.
+
+Nếu Việt Nam định hình một bộ chuẩn đạo đức và mô hình quản trị phù hợp, nước ta có thể trở thành hình mẫu tham chiếu của ASEAN — nơi các quốc gia khác nhìn vào để xây dựng hệ thống riêng.
+
+VinFuture 2025: nơi Việt Nam thể hiện vai trò “người góp tiếng nói” trong cuộc chơi AI toàn cầu
+
+Tọa đàm “AI vì nhân loại: Đạo đức và an toàn AI trong kỷ nguyên mới” không chỉ mang ý nghĩa khoa học. Nó gửi đi một thông điệp rõ ràng: Việt Nam muốn bước vào cuộc thảo luận toàn cầu về tương lai của AI.
+
+Trong bối cảnh các khung pháp lý quốc tế như EU AI Act, OECD AI Principles hay G7 Hiroshima AI Guidelines đã hình thành, việc Việt Nam xuất hiện trong các diễn đàn khoa học uy tín là cần thiết để: bảo vệ lợi ích quốc gia, tham gia định hình tiêu chuẩn, học kinh nghiệm quốc tế và xây dựng tiếng nói chính sách trong khu vực.
+
+VinFuture là điểm đến lý tưởng vì quy tụ những nhà khoa học hàng đầu, tạo môi trường trao đổi chất lượng cao, không chịu áp lực chính trị như các hội nghị quốc tế truyền thống.
+
+Đây cũng là nơi Việt Nam có thể giới thiệu cách tiếp cận AI “lấy con người làm trung tâm”, vốn đang là xu hướng của các nền dân chủ và các nền kinh tế mới nổi.
+
+Tọa đàm năm nay đặt trọng tâm vào ba câu hỏi chiến lược là AI sẽ thay đổi thế giới như thế nào? Giá trị nào cần được mã hóa vào AI để bảo đảm công bằng? Làm sao để phát triển AI phục vụ lợi ích chung của nhân loại? Đây không chỉ là câu hỏi của các nhà khoa học, mà là câu hỏi của mọi quốc gia đang đứng trước làn sóng công nghệ mới.
+
+GS. Prestes nhấn mạnh một thực tế sắc lạnh: quốc gia chỉ sử dụng công nghệ thì mãi phụ thuộc; quốc gia phát triển công nghệ mới đủ sức độc lập và bảo vệ giá trị riêng.
+
+Điều này dẫn đến hai khuyến nghị quan trọng cho Việt Nam: Một là: tham gia sâu hơn vào phát triển công nghệ AI lõi. Không nhất thiết phải cạnh tranh với Big Tech, nhưng Việt Nam cần phát triển các mô hình, thuật toán, ứng dụng đặc thù phục vụ nhu cầu trong nước gồm: Chính phủ điện tử, giáo dục thông minh, y tế dự phòng, quản lý rủi ro thiên tai, nông nghiệp thông minh. Hai là chủ động xây dựng chuẩn đạo đức AI quốc gia.
+
+Điều này có thể dựa trên nguyên tắc minh bạch, quyền riêng tư dữ liệu, không phân biệt đối xử, an toàn hệ thống và trách nhiệm giải trình.
+
+Nếu Việt Nam làm tốt, chuẩn mực này có thể trở thành tài liệu tham chiếu cho ASEAN – tương tự như vai trò dẫn dắt của nước ta trong khung chuyển đổi số khu vực.

@@ -1,0 +1,27 @@
+Title: Xây dựng và sử dụng CSDL phục vụ phát triển nông nghiệp và Phát triển nông thô
+
+Ngoài ra người ta còn sử dụng GIS trong việc theo dõi, đánh giá diễn biến tài nguyên rừng, xác định vùng thích nghi cho cây lâm nghiệp.
+
+Viện Điều tra Quy hoạch rừng (Việt Nam) đã ứng dụng khá thành công các công nghệ GIS, Viễn thám, GPS trong theo dõi diễn biến, đánh giá tài nguyên rừng. Ảnh vệ tinh có độ phân giải cao sau khi được giải đoán, chồng xếp, đối chiếu với bản đồ rừng đã có, những khu vực nào mâu thuẫn sẽ được xác định để kiểm chứng thực địa với GPS.
+
+Trong chương trình “Rà soát quy hoạch 3 loại rừng” mà ngành lâm nghiệp đang tiến hành để phục vụ đề án “Quy hoạch và xác định lâm phận ổn định rừng phòng hộ và rừng đặc dụng” trình Chính phủ phê duyệt, GIS đã được sử dụng một cách hữu hiệu…. Từ bản đồ địa hình của vùng đồi núi, bản đồ độ cao, độ dốc được xây dựng bằng các phần mềm GIS. Các bản đồ này được chồng xếp với bản đồ đất, bản đồ mưa để tính ra mức độ xung yếu. Từ bản đồ phòng hộ lý thuyết này, các tỉnh sẽ đi kiểm tra thực địa, kết hợp với các điều kiện dân sinh, kinh tế…. để trình cấp trên quyết định khu vực phòng hộ. Có thể coi đây là một ứng dụng của GIS trong “trợ giúp quyết định”.
+
+Ảnh minh hoạ
+
+Đề tài KC-07-03 “Xây dựng và sử dụng CSDL phục vụ phát triển nông nghiệp và Phát triển nông thôn” của Viện Quy hoạch và Thiết kế Nông nghiệp là một trong các ứng dụng GIS vào công tác quy hoạch nông nghiệp. Mục tiêu của đề tài là xây dựng CSDL nông nghiệp và nông thôn thống nhất tập trung trên nền GIS (thống nhất về khuôn dạng, hệ toạ độ và cấu trúc dữ liệu gồm cả dữ liệu địa lý và phi địa lý), gắn với các mô hình phân tích thông tin nhằm trợ giúp quá trình lập kế hoạch và quy hoạch sử dụng các nguồn tài nguyên thiên nhiên và phát triển bền vững.
+
+Các loại dữ liệu phi không gian bao gồm: Tài nguyên đất, khí hậu nông nghiệp, tình hình sử dụng đất nông nghiệp, hiệu quả kinh tế sử dụng đất, thuỷ lợi, tình hình sản xuất nông lâm nghiệp, số liệu thống kê nông nghiệp (năng suất, sản lượng, diện tích một số cây trồng chính..), thông tin về sâu bệnh và đặc biệt là số liệu về dân số, lao động nông thôn, kinh tế hộ…
+
+Khuôn dạng chuẩn của dữ liệu –xBase file cho phép tổng hợp, sắp xếp tìm kiếm dữ liệu, đồng thời tương thích với cấu trúc liên hệ dữ liệu thuộc tính trong CSDL GIS và thuận lợi trong kết nối dữ liệu không gian và dữ liệu phi không gian.
+
+Trong quy hoạch đánh giá phân loại đất, GIS là công cụ trợ giúp nhằm thu thập dữ liệu chuyên đề, xử lý dữ liệu địa lý, tích hợp dữ liệu để xây dựng các bản đồ đơn vị đất, mô phỏng kết quả đánh giá đất thông qua các bản đồ thích nghi cho từng loại hình sử dụng đất. Mỗi đơn vị đất là một khu vực địa lý khác biệt với các tính chất về thổ nhưỡng, địa hình, thuỷ văn khí hậu.
+
+Để có kết quả khi thực hiện bài toán thích ứng trong môi trường GIS, thường phải tuân thủ theo qui trình phân tích đa chỉ tiêu gồm: xây dựng bộ chỉ tiêu đánh giá; lựa chọn các lớp bản đồ phục vụ xây dựng bản đồ đơn vị đất. Sau đó đánh giá và phân loại mức độ thích hợp theo ALES và đưa ra các bản đồ chuyên đề, đây chính là thông tin tổng hợp trợ giúp quá trình lập kế hoạch và ra quyết định.
+
+Nghiên cứu khả năng thích ứng của cây trồng cần thu thập các số liệu sinh học và phi sinh học liên quan đến cây trồng được lựa chọn quy hoạch tại vùng đất đó. Các yếu tố phi sinh học gồm: số liệu đất được phân thành các mức thích nghi khác nhau, số liệu khí hậu (lượng mưa, sự phân bố mưa; nhiệt độ và tổng tích ôn theo thời gian sinh trưởng…) và các yếu tố sinh học như sâu bệnh, thời gian sinh trưởng và các yêu cầu sinh học của cây được xác định theo các mức thích ứng khác nhau.
+
+Yếu tố kinh tế xã hội của địa phương được xem xét và đưa vào phân tích để có kết luận tổng thể về tính thích ứng của cây theo quan điểm nền nông nghiệp hàng hoá hiện nay.
+
+Khi đã có những bản đồ thích nghi, việc quyết định phương án quy hoạch tổng thể sẽ chuyển đến các nhà hoạch định chính sách.
+
+Ngọc Minh và nhóm PV, BTV

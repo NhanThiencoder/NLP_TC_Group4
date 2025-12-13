@@ -1,0 +1,25 @@
+Hệ thống công nghệ thông tin mới (KRX) đã kết nối thông suốt, vận hành an toàn, các bên sẽ tiếp tục theo dõi chặt chẽ để đảm bảo ổn định, theo HoSE.
+
+Hôm nay là phiên giao dịch đầu tiên thị trường chứng khoán Việt Nam vận hành theo hệ thống công nghệ thông tin mới. Sở Giao dịch chứng khoán TP HCM (HoSE) cho biết theo đánh giá sơ bộ từ phía nhà thầu, các đơn vị vận hành, trong ngày giao dịch đầu tiên, hệ thống này đã kết nối thông suốt, vận hành ổn định và an toàn.
+
+Từ phía các thành viên thị trường, trong đầu phiên sáng có 2 công ty chứng khoán liên hệ với HoSE để hỗ trợ đối chiếu dữ liệu. Sau đó, các bên đã phối hợp xử lý kịp thời. Sở này cho biết, nhà thầu và các đơn vị liên quan sẽ tiếp tục theo dõi chặt chẽ và phối hợp với các thành viên thị trường để đảm bảo hệ thống mới hoạt động thông suốt hiệu quả, nhất là trong giai đoạn đầu ổn định hệ thống.
+
+Nhà đầu tư đang theo dõi thị trường tại một công ty chứng khoán ở quận 1, TP HCM. Ảnh: An Khương
+
+Ghi nhận của VnExpress hôm nay cho thấy trong những phút đầu phiên, nhiều nhà đầu tư phản ánh việc truy cập vào ứng dụng giao dịch của các công ty chứng khoán bị chậm. Một số đăng nhập thành công nhưng không thể đặt lệnh và đồ thị VN-Index hiển thị không chính xác.
+
+Đến cuối phiên, bảng điện tử của các công ty chứng khoán cũng không đồng nhất dữ liệu. Điển hình như VNDirect, Yuanta, SSI hiển thị sàn TP HCM hôm nay có 233 cổ phiếu tăng điểm, trong khi bảng giá của Vietcap và Mirae Asset Việt Nam chỉ thể hiện 220 mã chốt phiên trên tham chiếu.
+
+Tuy nhiên nhìn chung, hầu hết công ty chứng khoán đều đánh giá thị trường phản ứng tích cực về KRX sau hơn 10 năm chờ đợi. Theo Chứng khoán VPBank (VPBankS), VN-Index có phiên tăng gần 14 điểm, thanh khoản tuy vẫn ở mức thấp nhưng độ rộng thị trường khá tích cực khi sắc xanh lan tỏa khắp các nhóm ngành. Điều này một phần ảnh hưởng từ tâm lý nhà đầu tư đang xem xét việc vận hành ổn định của hệ thống công nghệ thông tin mới, một phần cũng đang chờ đợi thông tin về cuộc đàm phán với Mỹ dự kiến vào ngày 7/5.
+
+KRX đi vào vận hành cung cấp nhiều tiện ích mới cho nhà đầu tư. Thay đổi quan trọng nhất là về lệnh ATO và ATC trong đợt khớp lệnh định kỳ. Khi áp dụng hệ thống mới, hai lệnh này không được ưu tiên trước lệnh giới hạn (LO) đã nhập vào hệ thống trước đó khi so khớp lệnh. Song song đó, hai lệnh này cũng sẽ hiển thị tại một mức giá xác định, tương tự như lệnh giới hạn thay vì chỉ hiển thị tại mức giá có ký hiệu "ATO" và "ATC".
+
+Ngoài ra, hệ thống công nghệ mới cũng có những thay đổi về sửa và hủy lệnh giao dịch khớp lệnh, giao dịch thỏa thuận, giao dịch lô lẻ, đồng thời thay đổi về 3 giá chào mua, chào bán tốt nhất trong khớp lệnh định kỳ. Thay vì căn cứ số lượng có trên sổ lệnh, KRX sẽ thay bằng khối lượng còn lại sau khớp lệnh ứng với 3 mức giá chào mua và bán.
+
+HoSE cho rằng đây là một bước tiến mới cho thị trường chứng khoán Việt Nam, đáp ứng tốt hơn nhu cầu phát triển và phục vụ tốt hơn doanh nghiệp, nhà đầu tư. Hệ thống công nghệ thông tin mới cũng là cơ hội để triển khai các sản phẩm mới, cũng như hướng tới mục tiêu nâng hạng thị trường.
+
+Ban đầu, HoSE dự kiến hoàn thành hệ thống này năm 2021, nhưng sau đó chậm trễ. Năm ngoái, những thông tin về các lần thử nghiệm và hứa hẹn vận hành đã trở thành động lực đẩy giá cổ phiếu nhóm ngành chứng khoán và chỉ số chung nhiều lần tăng lên đáng kể.
+
+Nhiều công ty chứng khoán kỳ vọng KRX vận hành cùng với việc đáp ứng hai tiêu chí còn lại của FTSE Russell, bao gồm pre-funding và chi phí liên quan đến giao dịch thất bại, tổ chức xếp hạng này sẽ có những đánh giá tích cực về thị trường chứng khoán Việt Nam trong kỳ đánh giá tháng 9. Kịch bản được thông báo nâng hạng cũng được nhiều bên cho là sẽ sớm xảy ra.
+
+Tất Đạt

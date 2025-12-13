@@ -1,0 +1,43 @@
+Tờ Bloomberg đưa tin, Arm Holdings đã định giá đợt chào bán cổ phiếu lần đầu ra công chúng (IPO) ở mức cao nhất trong phạm vi của mình để huy động được 4,87 tỷ USD. Nếu thành công, đây sẽ trở thành đợt niêm yết lớn nhất trong năm, mang lại động lực lớn cho thị trường chứng khoán vốn đang gặp khó khăn lâu dài.
+
+Theo một tuyên bố hôm thứ 4, công ty thiết kế chip thuộc sở hữu của SoftBank Group đã bán 95,5 triệu cổ phiếu với giá 51 USD mỗi cổ phiếu. Arm đã tiếp thị số cổ phiếu này với giá từ 47 đến 51 USD mỗi cổ phiếu.
+
+Theo tính toán của Bloomberg, ở mức giá IPO, Arm được định giá khoảng 54,5 tỷ USD.
+
+Mặc dù Arm trước đây đặt mục tiêu huy động từ 8 tỷ USD lên 10 tỷ USD nhưng mục tiêu đó đã bị hạ thấp ít nhất một phần do SoftBank quyết định mua khoảng 25% cổ phần do Vision Fund nắm giữ và sau đó nắm giữ phần lớn cổ phiếu trong công ty. Sau IPO, SoftBank vẫn sẽ kiểm soát khoảng 90% cổ phần của công ty, Arm cho biết trong hồ sơ gửi lên Ủy ban Chứng khoán và Giao dịch Mỹ.
+
+Arm đang dành hơn 700 triệu USD cổ phiếu trong đợt IPO để mua lại bởi một số khách hàng lớn nhất của mình, bao gồm Intel Corp., Apple Inc., Nvidia Corp., Samsung Electronics Co. và Taiwan Semiconductor Manufacturing Co.
+
+Việc chào bán này được dẫn dắt bởi Barclays Plc, Goldman Sachs Group Inc., JPMorgan Chase & Co. và Mizuho Financial Group Inc. Raine Securities LLC cũng đóng vai trò cố vấn tài chính liên quan đến đợt IPO.
+
+Cổ phiếu dự kiến sẽ bắt đầu giao dịch vào thứ năm trên Nasdaq Global Select Market với ký hiệu ARM.
+
+Đây là đợt IPO lớn nhất thế giới trong năm nay, vượt qua mức niêm yết trị giá 4,37 tỷ USD của công ty con về sức khỏe người tiêu dùng Johnson & Johnson Kenvue Inc. IPO của Arm cũng có thể là chất xúc tác cho các đợt IPO từ hàng chục công ty khởi nghiệp công nghệ và các công ty khác có kế hoạch IPO ở Mỹ vốn trước đó bị mắc kẹt trong đợt thị trường IPO ảm đảm nhất kể từ cuộc khủng hoảng tài chính năm 2009.
+
+Công ty giao hàng tạp hóa trực tuyến Instacart Inc., nhà cung cấp tiếp thị và tự động hóa dữ liệu Klaviyo, công ty khởi nghiệp Internet VNG Ltd. có trụ sở tại Việt Nam và nhà sản xuất giày dép Birkenstock Holding Ltd. cũng đều đã nộp hồ sơ IPO lên Nasdaq.
+
+SoftBank, công ty đã mua lại Arm bảy năm trước với giá 32 tỷ USD, đã giúp phát triển nhà thiết kế chip và thay đổi mô hình kinh doanh của họ.
+
+Arm – một phần quan trọng của chuỗi cung ứng chip, thiết kế chất bán dẫn được sử dụng trong hầu hết điện thoại thông minh trên thế giới – trước đó đã tìm cách định giá từ 60 tỷ đến 70 tỷ USD trong đợt IPO. Giao dịch với Quỹ Tầm nhìn của SoftBank đã định giá Arm hơn 64 tỷ USD, dựa trên hồ sơ của Arm.
+
+Sự ra mắt thành công của Arm sẽ mang lại cơ hội may mắn cho người sáng lập SoftBank Masayoshi Son khi mà quỹ Vision Fund của ông đã lỗ kỷ lục 30 tỷ USD vào năm ngoái.
+
+Định giá mục tiêu của Arm phản ánh niềm tin rằng họ sẽ được hưởng lợi từ cuộc chạy đua hướng tới chip trí tuệ nhân tạo và AI thế hệ mới - một sự thay đổi trong ngành đã giúp mang lại cho Nvidia giá trị thị trường hơn 1,1 nghìn tỷ USD.
+
+Mặc dù công nghệ của Arm được sử dụng trong hầu hết mọi điện thoại thông minh nhưng vẫn chưa được người tiêu dùng biết đến nhiều. Arm bán các bản thiết kế cần thiết để thiết kế bộ vi xử lý và cấp phép cho công nghệ được gọi là bộ hướng dẫn chỉ ra cách các chương trình phần mềm giao tiếp với các chip đó. Hiệu quả sử dụng năng lượng của công nghệ Arm đã giúp chúng trở nên phổ biến trên điện thoại, nơi thời lượng pin rất quan trọng.
+
+Rene Haas, người đảm nhận vị trí giám đốc điều hành của Arm vào năm ngoái, đang nỗ lực mở rộng ra ngoài thị trường điện thoại thông minh vốn đã trì trệ trong những năm gần đây. Ông đang đặt mục tiêu vào điện toán tiên tiến hơn, đặc biệt là chip dành cho trung tâm dữ liệu và ứng dụng AI. Bộ xử lý dành cho thị trường đó thuộc loại đắt nhất nhưng cũng mang lại lợi nhuận cao nhất trong ngành.
+
+Để bắt kịp sự phát triển của AI, các công ty sẽ cần những con chip phù hợp để chạy phần mềm phức tạp. Arm nói rằng mọi bộ xử lý mà họ thiết kế sẽ tăng tốc AI và công nghệ máy học mà chúng hỗ trợ cung cấp năng lượng. Bộ xử lý của họ đã chạy những công nghệ đó và công ty đã bắt đầu bổ sung thêm chức năng mới để giúp các thuật toán hoạt động nhanh hơn.
+
+Dẫu vậy, toàn bộ ngành công nghiệp chip vẫn đang phải đối mặt với tình trạng doanh số sụt giảm, càng trở nên tồi tệ hơn do tình trạng dư thừa hàng tồn kho.
+
+Doanh thu của Arm giảm khoảng 1% xuống còn 2,68 tỷ USD trong năm tài chính kết thúc vào ngày 31/3, theo hồ sơ của hãng. Thu nhập ròng của công ty, tăng lên 549 triệu USD trong năm tài chính 2022 từ mức 388 triệu USD của năm trước nhưng lại giảm trong năm nay xuống còn 524 triệu USD.
+
+Được thành lập vào năm 1990 dưới hình thức liên doanh giữa Acorn Computers, Apple và VLSI Technology, Arm đang quay trở lại thị trường đại chúng. Công ty được niêm yết trên Sở giao dịch chứng khoán London và Nasdaq từ năm 1998 đến năm 2016, trước khi SoftBank mua lại doanh nghiệp này với giá 32 tỷ USD.
+
+SoftBank trước đây đã cố gắng bán Arm cho Nvidia trong một thỏa thuận trị giá 40 tỷ USD, đây sẽ là thương vụ tiếp quản ngành chip lớn nhất. Tuy nhiên, thương vụ này đã vấp phải sự phản đối từ các nhà quản lý và khách hàng của Arm, và Nvidia đã từ bỏ thương vụ vào năm ngoái. SoftBank sau đó đã bắt tay vào kế hoạch IPO.
+
+Đợt IPO của Arm là đợt IPO lớn nhất ở Mỹ kể từ đợt IPO trị giá 13,7 tỷ USD của nhà sản xuất xe điện Rivian Automotive Inc. vào tháng 10/2021. IPO của Arm cũng được xếp vào hàng lớn nhất từ trước đến nay của ngành công nghệ, mặc dù vẫn thấp hơn nhiều so với hai đợt IPO lớn nhất: Alibaba trị giá 25 tỷ USD vào năm 2014 và đợt ra mắt trị giá 16 tỷ USD vào năm 2012 của Facebook Inc mà sau này được đổi thành Meta Platforms Inc.
+
+Nguồn: Bloomberg

@@ -1,0 +1,33 @@
+Title: Chuyển đổi số trong nông nghiệp giúp giải bài toán về kết nối thu thập thông tin
+
+Chuyển đổi số mang ý nghĩa quan trọng với tất cả các ngành trong thời đại 4.0, là xu thế toàn cầu và ngành nông nghiệp Việt Nam cũng không ngoại lệ. Chuyển đổi số trong nông nghiệp vốn được xem là ngành kinh tế có vị trí chiến lược của Việt Nam đang nắm bắt rất nhiều cơ hội
+
+Nông nghiệp truyền thống đang dần được thay thế bởi một nền nông nghiệp tiến bộ, hiện đại, vận dụng khoa học công nghệ vào sản xuất để nâng cao chất lượng sản phẩm. Vai trò của công nghệ thông tin trong nông nghiệp đang từng bước trở nên quan trọng, gắn bó mật thiết với nhau.
+
+Trước hết là từ công tác quản lý của Chính phủ, Thủ tướng Chính phủ trong việc hoàn thiện thể chế chính sách đáp ứng yêu cầu thực tiễn. Ngày 11/8/2022, Thủ tướng Chính phủ đã ký Quyết định số 975/QĐ-TTg phê duyệt Đề án “Đẩy mạnh ứng dụng công nghệ thông tin trong việc thu thập thông tin, dự báo tình hình thị trường nông sản”, thời gian thực hiện từ năm 2022 đến năm 2025.
+
+Đề án được ban hành với mục tiêu đẩy mạnh ứng dụng công nghệ thông tin trong việc thu thập thông tin, phân tích và dự báo tình hình thị trường nông sản nhằm cung cấp thông tin đầy đủ, chính xác, kịp thời phục vụ công tác chỉ đạo, điều hành của các cơ quan quản lý nhà nước và hoạt động sản xuất, kinh doanh nông sản của các tổ chức, cá nhân, doanh nghiệp, hợp tác xã; góp phần tăng khả năng cạnh tranh, nâng cao giá trị gia tăng, phát triển bền vững cho nông sản Việt Nam.
+
+Nông nghiệp Việt Nam là một trong năm quốc gia bị ảnh hưởng nặng nề nhất về biến đổi khí hậu, có thể kể đến: bão lũ, dịch bệnh, lưu lượng nước ngọt giảm không đủ để phục vụ sản xuất nông nghiệp, giảm diện tích đất,….Hệ quả là làm giảm năng suất, giảm chất lượng sản phẩm và thậm chí thất thu trong nông nghiệp.
+
+Ứng dụng công nghệ Data Analytics (phân tích dữ liệu) vào phân tích và quản lý, toàn bộ vùng khí hậu sẽ được cảnh báo rủi ro cho người dân sớm (72 giờ trước khi cơn bão đi qua), từ đó sẽ có biện pháp ứng phó kịp thời.
+
+Thay vì phụ thuộc hoàn toàn vào các thương lái để mang sản phẩm đến người tiêu dùng thì ngày nay, chuyển đổi số giúp người bán và người mua kết nối trực tiếp với nhau. Điều này đã được chứng minh thực tế trong thời gian dịch Covid-19. Dịch bệnh bùng phát, ảnh hưởng lớn đến lượng tiêu thụ sản phẩm. Nhiều địa phương đã xúc tiến mua bán nông sản qua các kênh thương mại điện tử.
+
+Tiêu biểu là tỉnh Bắc Giang, nhờ sự kết nối, mở rộng các kênh tiêu thụ qua sàn thương mại điện tử thì đến ngày 28/6/2021, vải thiều bán tại thị trường trong nước đạt hơn 131.117 tấn, chiếm tỷ trọng trên 64%. Lượng vải xuất khẩu đạt 72.908 tấn, xấp xỉ 36%.
+
+Hơn nữa, một vài vùng nông thôn hiện đã áp dụng công nghệ, thay đổi phương thức sản xuất, làm việc trên đồng bằng phương pháp điều khiển từ xa. Thực tế, nhiều địa phương tại Đồng bằng sông Cửu Long đã thí điểm công nghệ 4.0 vào sản xuất nông nghiệp và bước đầu đạt hiệu quả kinh tế cao. Việc canh tác từ khâu làm đất đến việc bón phân, bơm tưới và thu hoạch đều sử dụng các thiết bị hỗ trợ thông minh. Ngoài ra, hệ thống tưới tiêu và giám sát đều được thực hiện qua điện thoại. Những ứng dụng này giúp giảm một nửa chi phí sản xuất và công sức lao động, giảm 50% lượng khí thải nhà kính, tăng năng suất 30%, từ đó giúp tăng thu nhập cho người nông dân
+
+Các công nghệ ứng dụng trong chuyển đổi số nông nghiệp: Big Data, công nghệ sinh học sẽ giúp bạn phân tích dữ liệu về môi trường, đất đai, ánh sáng và chất lượng các loại cây trồng. Từ đó, người nông dân sẽ có quyết định đúng đắn hơn như lượng phân bón, thời gian canh tác, phụ thuốc bảo vệ thực vật,…
+
+Bên cạnh việc ứng dụng công nghệ hiện đại, chuyển đổi số trong nông nghiệp còn phải liên kết các thành phần của hệ sinh thái nông nghiệp một cách tự nhiên theo chuỗi giá trị. Trong đó, trung tâm phát triển giải pháp công nghệ phải nằm ở vị trí trung tâm. Các thành phần khác tương tác với nhau, thúc đẩy trung tâm phát triển giải pháp công nghệ phát triển và tận hưởng các lợi ích mà trung tâm đề ra.
+
+Đồng thời, liên kết chuỗi giá sự còn là sự kết nối giữa các đơn vị với nhau, gồm: Kết nối giữa người dân, doanh nghiệp và thị trường; Kết nối giữa người dân, doanh nghiệp, các cơ quan quản lý nhà nước với thị trường.
+
+Trước đây, doanh nghiệp ước tính doanh số bán hàng của năm hiện tại dựa trên dữ liệu của năm trước đó. Tuy nhiên, do nhiều yếu tố như xu hướng thay đổi, đại dịch toàn cầu hoặc một số yếu tố bất ngờ khác, việc dự báo cũng như tối ưu giá bán có thể trở nên khó khăn hơn, dẫn đến mức độ chênh lệch cao so với thực tế. Dữ liệu lớn trao cho doanh nghiệp khả năng phát hiện sớm xu hướng, tiềm năng thị trường, cũng như biết được xu hướng đó sẽ tác động như thế nào đến hiệu suất trong tương lai với xác suất chính xác cao hơn. Doanh nghiệp ứng dụng dữ liệu lớn và phương pháp tiếp cận dựa trên AI, đặc biệt là trong bán lẻ, có thể cải thiện dự báo giá cả thị trường nông sản theo từng thời điểm cụ thể.
+
+Với Big data và AI, các tổ chức có thể cung cấp chính xác những gì khách hàng đang quan tâm, cải thiện chất lượng sản phẩm, dịch vụ đang được sử dụng và nắm bắt lý do tại sao khách hàng ngừng mua hoặc sử dụng sản phẩm nông sản của họ. Sau đó, họ có thể áp dụng thông tin thu thập được để hoàn thiện sản phẩm, tăng tỉ lệ chuyển đổi, cải thiện lòng trung thành với thương hiệu, phát hiện xu hướng sớm hoặc tìm cách nâng cao mức độ hài lòng khách hàng.
+
+Như vậy, giải quyết bài toán chuyển đổi số ở đây chính là giải quyết bài toán về kết nối.
+
+Thúy Nga và nhóm PV, BTV

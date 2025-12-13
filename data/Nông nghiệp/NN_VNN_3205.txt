@@ -1,0 +1,31 @@
+Khi lừa đảo tài chính số không chỉ còn là câu chuyện trên báo đài
+
+Tháng 8/2025, chị N.P (26 tuổi, Hà Nội), nhân viên công ty công nghệ, đã mất 85 triệu đồng chỉ trong 15 phút khi tin vào lời mời làm việc với mức lương gấp đôi của đối tượng giả mạo nhà tuyển dụng. Sau khi tải ứng dụng nộp hồ sơ và cung cấp mã OTP theo hướng dẫn, điện thoại chị bị chiếm quyền hoàn toàn và tài khoản "bốc hơi" 85 triệu đồng. Dù am hiểu công nghệ, chị P. cảnh giác kiểm tra file APK nhưng vẫn không phát hiện được mã độc được gắn tinh vi trong ứng dụng giả mạo.
+
+Trường hợp của chị N.P không phải ngoại lệ. Trong 8 tháng đầu năm 2025, cả nước ghi nhận hơn 1.500 vụ lừa đảo qua mạng (tăng 65% so với cùng kỳ 2024), gây thiệt hại ước tính hơn 1.660 tỷ đồng.
+
+Trước thực trạng này, đại diện MB - ngân hàng dẫn đầu về chuyển đổi số và bảo mật tài chính số, ông Vũ Thành Trung, Phó Chủ tịch Hội đồng quản trị, đã tham gia chia sẻ tại buổi tọa đàm Talkshow "Kiến tạo Đất nước - Tự hào Việt Nam", phát sóng trên Cổng thông tin Chính phủ, HTV 9 và các kênh chính thống của MB.
+
+Ông Vũ Thành Trung, Phó Chủ tịch Hội đồng quản trị MB tham dự tọa đàm chia sẻ về góc nhìn và cách thức ngân hàng nâng cao mức độ bảo mật tài chính số
+
+Phòng thủ chủ động - Bảo vệ từ gốc
+
+Trong buổi tọa đàm, ông Vũ Thành Trung chia sẻ triết lý "Phòng thủ chủ động - Bảo vệ từ gốc" của ngân hàng. Triết lý được xây dựng trên nguyên tắc chuyển từ phòng thủ bị động sang ứng phó chủ động, ngăn chặn rủi ro ngay từ giai đoạn hình thành thay vì xử lý sau sự cố.
+
+Để đi trước thủ đoạn của tội phạm mạng, MB áp dụng "tư duy ngược": xây dựng đội hacker nội bộ tấn công chính hệ thống của ngân hàng để phát hiện lỗ hổng bảo mật trước khi kẻ gian khai thác. Cách làm này giúp MB "biết người biết ta, trăm trận trăm thắng", liên tục hoàn thiện hệ thống và luôn đi trước một bước so với tội phạm mạng.
+
+Công nghệ và hành động đồng hành - bảo vệ trước cả khi rủi ro hình thành
+
+Phục vụ 33,9 triệu khách hàng với 40% doanh thu đến từ kênh số, MB triển khai hệ thống phòng thủ đa lớp được liên tục cập nhật và hoàn thiện, bảo vệ khách hàng tại mọi điểm chạm giao dịch từ online đến offline, từ giai đoạn đăng nhập cho đến hoàn tất thanh toán.
+
+Lớp 1 - Quét phần mềm độc hại tự động: Bộ giải pháp App Protection tự động quét thiết bị khi mở ứng dụng, phát hiện đến 99% phần mềm gián điệp và ngắt dịch vụ ngay nếu phát hiện thiết bị bị chiếm quyền. Chỉ trong 2 tuần ra mắt, hệ thống đã bảo vệ hơn 970 khách hàng với tổng tài sản hơn 20 tỷ đồng.
+
+Lớp 2 - Cảnh báo tài khoản lừa đảo: Kết nối trực tiếp với hệ thống SIMO và cơ sở dữ liệu của Bộ Công an, MB tự động đối chiếu tài khoản nhận tiền và cảnh báo hoặc ngừng giao dịch khi phát hiện nghi vấn.
+
+Lớp 3 - AI phân tích hành vi: Hệ thống AI học hành vi giao dịch cá nhân hóa, phân tích thời gian, tốc độ thao tác, tài khoản nhận và vị trí địa lý để chặn ngay giao dịch bất thường. Công nghệ này bảo vệ khách hàng ngay cả khi họ chưa nhận thức được nguy cơ lừa đảo.
+
+Với mức đầu tư trên 1.000 tỷ đồng mỗi năm cho hạ tầng công nghệ và đội ngũ hơn 2.500 chuyên gia công nghệ thông tin, chiến lược của MB không chỉ dừng lại ở ngưỡng số hóa dịch vụ mà còn kiến trúc cả hệ thống phòng vệ tinh vi, biến bảo mật thành năng lực chủ động và có hệ thống.
+
+Độc giả có thể xem talkshow “Kiến tạo Đất nước - Tự hào Việt Nam” trên Cổng thông tin Chính phủ, HTV 9 & các kênh truyền thông chính thống từ MB. Chương trình tôn vinh những nhân vật, câu chuyện và sáng kiến tiêu biểu, phản ánh sự đồng hành giữa Nhà nước - doanh nghiệp - cộng đồng trong hành trình xây dựng một Việt Nam hiện đại, hội nhập và hạnh phúc. Là một trong Top 5 ngân hàng hàng đầu Việt Nam, MB sẽ góp mặt chia sẻ những góc nhìn, bí quyết để trở thành ngân hàng tiên phong trong chuyển đổi số, đổi mới sáng tạo và phát triển bền vững, hướng tới mang lại giá trị thiết thực cho khách hàng, xã hội và đất nước.
+
+(Nguồn: MB)

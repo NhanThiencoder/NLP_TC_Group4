@@ -1,0 +1,25 @@
+Title: Vì một nền sản xuất nông nghiệp xanh, phát thải thấp
+
+Ngày 17/8/2023, Bộ Nông nghiệp và Phát triển nông thôn (NN&TPNT) và Chương trình Phát triển Liên Hợp Quốc (UNDP) đồng tổ chức hội nghị “Chuyển đổi số hướng tới nông nghiệp xanh và phát triển bền vững”.
+
+Tại hội nghị, các vấn đề tầm nhìn chiến lược về chuyển đổi số trong lĩnh vực nông nghiệp và phát triển nông thôn; khai thác các nền tảng kỹ thuật số để giám sát và theo dõi dấu chân carbon trong các lĩnh vực xuất khẩu quan trọng; thúc đẩy chuỗi cung ứng phát thải carbon thấp, thân thiện môi trường cho các sản phẩm như thanh long và tôm; triển khai các hệ thống kỹ thuật số để tăng cường quản lý sản xuất lúa, thiết lập kiến trúc dữ liệu nền tảng ngành nông nghiệp và phát triển nông thôn… đã được các đại biểu sôi nổi thảo luận.
+
+Trong khuôn khổ hội nghị, Oxfam đã giới thiệu Apps Rice Hero. Đây là ứng dụng điện thoại đầu tiên tại Việt Nam giúp theo dõi lượng phát thải khí nhà kính trong quá trình canh tác, thu hoạch và chế biến lúa.
+
+Tại sao cần đo đạc phát thải khí nhà kính từ sản xuất lúa gạo? Sản xuất lúa gạo chiếm gần 50% lượng phát thải khí nhà kính toàn ngành nông nghiệp Việt Nam. Các dự án, chương trình thúc đẩy sản xuất lúa bền vững giảm phát thải khí nhà kính đã và đang được triển khai nhiều trên khắp các vùng miền. Chính vì vậy rất cần có hệ thống đo đạc để đánh giá hiệu quả giảm phát thải. Trong xu hướng hình thành nhu cầu tiêu dùng sản phẩm dán nhãn phát thải thấp, các doanh nghiệp cần phương tiện kiểm chứng, dán nhãn mức phát thải, tuy nhiên, chưa có nhiều biện pháp tối ưu để đo đạc phát thải khí nhà kính trong thực tế sản xuất lúa gạo.
+
+Ứng dụng Rice Hero là công cụ xác định lượng phát thải khí nhà kính (quy đổi carbon tương đương) cho các công đoạn của quá trình sản xuất lúa gạo tại Việt Nam. Apps được xây dựng để ứng dụng trên điện thoại thông minh với cả hai trình duyệt Android và IOS. Cơ sở xây dựng apps là lượng phát thải khí nhà kính (thính theo lượng CO2 tương đương) được tính toán dựa trên công thức theo hướng dẫn của Ủy ban liên chính phủ về biến đổi khí hậu (IPCC).
+
+Thông tin từ Oxfam cho biết, ứng dụng này được thiết kế để sử dụng một cách trực quan và dễ dàng nhất. Người dùng là hộ nông dân, doanh nghiệp chỉ cần nhập vào ba loại thông tin cơ bản như: thông số canh tác, thông số mùa vụ và thông tin quản lý vận hành. Sau đó, ứng dụng sẽ tính toán và hiển thị lượng phát thải khí nhà kính của người dùng theo từng giai đoạn sản xuất và đề xuất các giải pháp giảm phát thải phù hợp.
+
+Tất cả những dữ liệu này sẽ được xử lý trên công nghệ điện toán đám mây, cung cấp các thông tin hữu ích như bản đồ phát thải theo khu vực, biểu đồ so sánh lượng phát thải giữa các khu vực, hoặc so sánh với các tiêu chuẩn được thiết lập sẵn và đưa ra báo cáo chi tiết tới từng hộ sản xuất. Ngoài ra, Rice Hero còn có những tính năng khác hỗ trợ cho người sản xuất và kinh doanh lúa gạo, như dự báo thời tiết, cung cấp thông tin khuyến nông, cập nhật giá gạo theo thị trường.
+
+Rice Hero cung cung cấp dữ liệu quản trị và bản đồ phát thải trên quy mô xã, huyện, tỉnh, khu vực, giúp cơ quan quản lý đánh giá và đưa ra các mô hình canh tác phù hợp, bền vững hơn. Ứng dụng phù hợp với định hướng chuyển đổi xanh nông nghiệp của Chính phủ, thúc đẩy chuỗi cung ứng giảm phát thải, hướng tới mục tiêu được dán nhãn carbon thấp cho các doanh nghiệp.
+
+Theo chia sẻ của ông Lương Đình Lân, Quản lý Chương trình cấp cao Oxfam tại Việt Nam, ứng dụng được thử nghiệm giai đoạn 1 trong thời gian từ tháng 6 đến tháng 8 năm năm 2022 với trên 200 hộ nông dân tại tỉnh An Giang. Thử nghiệm giai đoạn 2 từ tháng 4 đến tháng 8 năm 2023 trên quy mô 2.000 hộ nông dân tại tỉnh An Giang.
+
+Kết quả thử nghiệm cho thấy app được vận hành ổn định, ít lỗi phát sinh, giao diện tốt, dễ sử dụng. Tổng thời gian nhập dữ liệu cần 8-10 phút/vụ lúa (1-2 phút/lần nhập dữ liệu), đa số nông dân nhập đúng và đủ dữ liệu. Các chức năng hỗ trợ bao gồm xem thông tin thời tiết, giá lúa, khuyến nông đều rất có ích cho bà con nông dân. Việc quản trị app đơn giản, phù hợp với năng lực quản lý của các địa phương, doanh nghiệp…
+
+Hiện Oxfam sẵn sàng chuyển giao apps cho các đơn vị có nhu cầu.
+
+Hồng Nhung và nhóm PV, BTV

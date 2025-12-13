@@ -1,0 +1,25 @@
+Sushi roll là mô hình kỹ thuật được sử dụng như một hệ thống cảnh báo sớm để nhận diện khả năng thay đổi hướng đi của thị trường.
+
+Việc nắm bắt các xu hướng giá của cổ phiếu hoặc các loại tài sản khác có thể mang lại lợi nhuận đáng kể. Tuy nhiên, điều khiến các nhà giao dịch theo xu hướng lo sợ là bị mắc kẹt trong một đợt đảo chiều.
+
+Đảo chiều xảy ra khi hướng đi của xu hướng hiện tại thay đổi. Việc nhận diện sớm các dấu hiệu đảo chiều giúp nhà giao dịch quyết định xem có nên thoát lệnh khi điều kiện thị trường không còn thuận lợi hay không. Ngoài ra, tín hiệu đảo chiều còn có thể được sử dụng để kích hoạt các giao dịch mới, vì một xu hướng mới có thể bắt đầu ngay sau đó.
+
+Trong cuốn sách The Logical Trader, tác giả Mark Fisher đã thảo luận về các kỹ thuật giúp nhận diện đỉnh và đáy thị trường tiềm năng. Các phương pháp của Fisher có cùng mục đích như mô hình head and shoulders (vai đầu vai) hoặc double top/bottom (hai đỉnh/hai đáy) được Thomas Bulkowski trình bày trong Encyclopedia of Chart Patterns, nhưng phương pháp của Fisher đưa ra tín hiệu sớm hơn, giúp nhà đầu tư có cảnh báo trước về khả năng thay đổi xu hướng.
+
+Một trong những kỹ thuật mà Fisher đề cập đến là Sushi roll. Mô hình này được đặt tên khi ông Mark Fisher đi ăn trưa với một nhóm trader, thảo luận về cách thiết lập thị trường.
+
+Sushi roll có thể được sử dụng như một hệ thống cảnh báo sớm để nhận diện khả năng thay đổi hướng đi của thị trường. Khi mô hình sushi roll xuất hiện trong xu hướng giảm, nó cảnh báo các nhà giao dịch về cơ hội mua vào hoặc thoát lệnh bán khống. Ngược lại, khi mô hình sushi roll xuất hiện trong xu hướng tăng, nó cảnh báo về cơ hội chốt lãi lệnh mua hoặc mở lệnh bán khống.
+
+Một thử nghiệm so sánh phương pháp đảo chiều sushi roll với chiến lược buy-and-hold (mua và giữ) khi giao dịch trên chỉ số Nasdaq Composite trong vòng 14 năm. Kết quả cho thấy phương pháp sushi roll mang lại lợi nhuận 29,31%, trong khi buy-and-hold chỉ đạt 10,66%.
+
+Fisher định nghĩa mô hình Sushi roll là một chu kỳ 10 thanh nến, trong đó 5 thanh đầu tiên (inside bars) nằm trong phạm vi hẹp của mức cao và mức thấp, 5 thanh sau (outside bars) bao trùm toàn bộ 5 thanh đầu. Mô hình này tương tự mô hình bullish engulfing (nhấn chìm tăng giá) hoặc bearish engulfing (nhấn chìm giảm giá), nhưng gồm nhiều thanh nến hơn.
+
+Khi mô hình Sushi roll xuất hiện trong xu hướng giảm, nó cảnh báo về khả năng đảo chiều xu hướng, mang lại cơ hội mua hoặc đóng lệnh bán khống. Nếu xuất hiện trong xu hướng tăng, nhà giao dịch có thể bán lệnh mua hoặc mở lệnh bán khống.
+
+Nhà đầu tư theo dõi bảng điện chứng khoán. Ảnh: DNSE
+
+Mô hình này hữu ích khi cần xác định điểm đảo chiều ngắn hạn trong giao dịch phái sinh vốn có đòn bẩy cao và biến động mạnh. Tuy nhiên, việc sử dụng bất kỳ chỉ báo nào một cách độc lập cũng có thể gây rủi ro. Do đó, nhà đầu tư cần xác nhận tín hiệu thị trường thông qua nhiều chỉ báo khác.
+
+Ngoài ra, nhằm giảm rủi ro khi cố gắng bắt đỉnh hoặc đáy thị trường, nhà giao dịch cần xác nhận tín hiệu bằng sự phá vỡ đường xu hướng và luôn đặt lệnh cắt lỗ trong trường hợp dự đoán sai.
+
+Anh Vũ

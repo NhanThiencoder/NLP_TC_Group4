@@ -1,0 +1,19 @@
+CEO Nvidia Jensen Huang cho rằng Trung Quốc đang sở hữu lợi thế đáng kể về hạ tầng AI so với Mỹ, đặc biệt ở tốc độ xây dựng và khả năng cung ứng năng lượng. Dù Mỹ vẫn dẫn trước về chip AI, ông cảnh báo Trung Quốc có thể triển khai các dự án lớn với tốc độ “gây choáng”.
+
+CEO Jensen Huang đánh giá cao Trung Quốc ở hạ tầng AI và năng lượng. Ảnh: Bloomberg
+
+Phát biểu trong cuộc đối thoại với Chủ tịch Trung tâm Nghiên cứu Chiến lược và Quốc tế (CSIS) John Hamre cuối tháng 11, Huang cho biết: “Nếu muốn xây một trung tâm dữ liệu AI tại Mỹ, từ lúc khởi công đến khi vận hành mất khoảng 3 năm. Còn họ (Trung Quốc) có thể xây một bệnh viện chỉ trong một cuối tuần”.
+
+Không chỉ lo ngại về tốc độ xây dựng, lãnh đạo Nvidia còn cảnh báo về chênh lệch năng lượng phục vụ cho sự bùng nổ AI. Ông cho biết Trung Quốc có “lượng năng lượng gấp đôi Mỹ, dù quy mô nền kinh tế nhỏ hơn. Điều đó thật vô lý”. Theo Huang, công suất năng lượng của Trung Quốc vẫn tăng “gần như thẳng đứng”, trong khi Mỹ giữ ở mức tương đối bằng phẳng.
+
+Dù vậy, ông nhấn mạnh Nvidia vẫn “đi trước Trung Quốc nhiều thế hệ” về công nghệ chip AI và quy trình sản xuất bán dẫn, yếu tố then chốt bảo đảm nguồn cung cho cuộc chạy đua AI. Tuy nhiên, Huang cảnh báo Mỹ không được chủ quan: “Bất kỳ ai nghĩ rằng Trung Quốc không thể sản xuất là đang bỏ qua một thực tế lớn”.
+
+CEO Nvidia bày tỏ lạc quan về tương lai của công ty, đặc biệt trong bối cảnh Tổng thống Donald Trump thúc đẩy đưa sản xuất quay về Mỹ và đẩy mạnh đầu tư AI.
+
+Trước đó, Huang từng gây chú ý khi nhận định Trung Quốc sẽ thắng trong cuộc đua AI, nhưng sau đó chỉnh sửa thông điệp, nói rằng quốc gia này chỉ “chậm hơn Mỹ vài nano giây”, theo tuyên bố ông đăng trên tài khoản X của Nvidia.
+
+Cùng với Nvidia, hàng loạt tập đoàn công nghệ lớn đang rót hàng chục tỷ USD xây dựng trung tâm dữ liệu tại Mỹ. Các chuyên gia Fortune dự báo tổng vốn đầu tư có thể vượt 100 tỷ USD chỉ trong năm tới.
+
+Raul Martynek, CEO DataBank, đơn vị xây dựng trung tâm dữ liệu cho nhiều tập đoàn cho biết chi phí trung bình cho mỗi trung tâm khoảng 10-15 triệu USD mỗi megawatt (MW), quy mô nhỏ nhất cũng cần khoảng 40 MW. “Tại Mỹ, chúng tôi dự đoán sẽ có 5 đến 7 gigawatt được bổ sung trong năm tới để đáp ứng nhu cầu AI gần như vô hạn”, ông nói. Con số này tương đương khoản đầu tư từ 50 đến 105 tỷ USD.
+
+(Theo Fortune)

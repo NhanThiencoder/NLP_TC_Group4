@@ -1,0 +1,13 @@
+VNeID vừa có thay đổi mới, người dân cập nhật ngay kẻo mất quyền lợi
+
+Ứng dụng định danh điện tử VNeID vừa bổ sung thêm 9 dịch vụ công trực tuyến, tiếp tục mở rộng lựa chọn và tăng tính tiện lợi cho người dân khi thực hiện thủ tục hành chính trên môi trường số.
+
+9 dịch vụ công trực tuyến được bổ sung trên ứng dụng VNeID gồm: Xác nhận thông tin về cư trú; Khai báo tạm vắng; Xóa Đăng ký thường trú; Điều chỉnh thông tin về cư trú trong Cơ sở dữ liệu (CSDL) cư trú; Xác nhận số CMND 09 số, số định danh cá nhân; Cấp lại thẻ căn cước; Dịch vụ công liên thông đăng ký khai sinh, đăng ký thường trú, cấp lại thẻ Bảo hiểm y tế; Dịch vụ công liên thông đăng ký khai tử, xóa đăng ký thường trú, giải quyết mai táng phí, tử tuất; Dịch vụ công liên thông đăng ký khai tử, xóa đăng ký thường trú.
+
+Ứng dụng VNeID vừa triển khai thêm 9 dịch vụ công, tăng thêm sự lựa chọn và tiện ích cho người dân khi triển khai dịch vụ công trực tuyến. (Ảnh minh hoạ)
+
+Việc đưa thêm các dịch vụ này lên VNeID giúp người dân có thêm lựa chọn khi xử lý thủ tục hành chính trực tuyến, đồng thời giảm bớt các khâu giấy tờ và thời gian di chuyển.
+
+VNeID là ứng dụng di động do Trung tâm Dữ liệu quốc gia về dân cư (Bộ Công an) phát triển, hướng tới thay thế dần các loại giấy tờ truyền thống. Ứng dụng được xây dựng trên nền tảng dữ liệu định danh, dân cư và xác thực điện tử, cung cấp các tiện ích phục vụ quá trình chuyển đổi số quốc gia, từ công dân số đến chính phủ số và xã hội số.
+
+Tính đến tháng 7/2025, Bộ Công an đã triển khai 43 tiện ích trên VNeID. Các tiện ích này bao gồm giấy phép lái xe, đăng ký xe, bảo hiểm y tế, thông tin cư trú, sổ sức khỏe điện tử, cùng nhiều tính năng hỗ trợ người dân như tố giác tội phạm, chi trả an sinh xã hội và thanh toán số. Hệ thống được kỳ vọng đáp ứng tốt hơn nhu cầu của người dân và doanh nghiệp, với phương châm lấy người dùng làm trung tâm trong cung cấp dịch vụ công.

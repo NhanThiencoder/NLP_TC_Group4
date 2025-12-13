@@ -1,0 +1,27 @@
+Cú hích từ Gemini 3 và sự công nhận của đối thủ
+
+Google vừa tạo ra một bước ngoặt mới trong cuộc đua AI. Sự thành công của mô hình Gemini 3, ra mắt ngày 18/11, đã thu hút sự chú ý của các đối thủ lớn nhất.
+
+Trên mạng xã hội X, CEO OpenAI Sam Altman khen ngợi: "Chúc mừng Google vì Gemini 3! Có vẻ là một mô hình tuyệt vời". Thậm chí, CEO Salesforce Marc Benioff tuyên bố sẽ không quay lại dùng ChatGPT sau khi thử nghiệm mô hình mới của Google. Ông viết: "Bước nhảy vọt thật điên rồ - khả năng suy luận, tốc độ, hình ảnh, video... mọi thứ đều sắc nét và nhanh hơn. Cảm giác như thế giới vừa thay đổi một lần nữa".
+
+Gemini 3 là mô hình AI mạnh nhất của Google, ra mắt ngày 18/11. Ảnh: Dreamstime
+
+Hiện tại, Gemini 3 đang đứng đầu các bảng xếp hạng tiêu chuẩn cho các tác vụ như tạo văn bản, chỉnh sửa ảnh và xử lý hình ảnh, vượt qua các đối thủ như ChatGPT, Grok của xAI và Claude của Anthropic trong các hạng mục đó. Google cho biết hơn một triệu người dùng đã thử nghiệm Gemini 3 trong 24 giờ đầu tiên.
+
+Angelo Zino, phó chủ tịch cấp cao tại CFRA, nhận định với CNN: "Họ đang dẫn đầu vào lúc này, cho đến khi ai đó đưa ra mô hình tiếp theo".
+
+Cuộc chiến chip AI nóng lên
+
+Không chỉ phần mềm, phần cứng của Google cũng đang tạo sóng gió. Meta được cho là đang đàm phán mua chip Tensor của Google, sau khi Anthropic công bố kế hoạch mở rộng sử dụng công nghệ của gã khổng lồ tìm kiếm này vào tháng 10.
+
+Nvidia, ông vua chip AI hiện tại, cũng phải lên tiếng. Trong một bài đăng trên X ngày 25/11, Nvidia viết: "Chúng tôi vui mừng trước thành công của Google - họ đã có những tiến bộ tuyệt vời trong AI và chúng tôi tiếp tục cung ứng cho Google". Tuy nhiên, hãng này không quên khẳng định: "NVIDIA cung cấp hiệu suất, tính linh hoạt và khả năng thay thế tốt hơn so với các ASIC".
+
+Jacob Feldgoise, nhà phân tích dữ liệu cấp cao tại Trung tâm An ninh và Công nghệ mới nổi Georgetown, giải thích sự khác biệt cốt lõi giữa hai loại chip. Trong khi cả GPU và chip của Google đều có thể được sử dụng để đào tạo và chạy các mô hình AI, các chip ASIC (như của Google) thường được thiết kế cho "khối lượng công việc hẹp hơn" so với tính đa dụng của GPU.
+
+Ngoài sự khác biệt về phần cứng, sức mạnh của Nvidia nằm ở việc cung cấp các gói công nghệ trọn gói cho trung tâm dữ liệu, bao gồm không chỉ GPU mà còn các thành phần quan trọng khác như chip mạng. Hãng cũng cung cấp một nền tảng phần mềm cho phép các nhà phát triển tùy chỉnh mã để ứng dụng tận dụng tối đa sức mạnh chip Nvidia. Đây là điểm bán hàng then chốt để giữ chân khách hàng lâu dài và thực tế là ngay cả Google cũng vẫn đang là một khách hàng của Nvidia.
+
+Ted Mortonson, chiến lược gia lĩnh vực công nghệ tại Baird, nhận định: "Nếu nhìn vào quy mô các sản phẩm của Nvidia, thực sự không ai có thể chạm tới họ". Nvidia vẫn thống trị thị trường GPU với doanh số tăng 62% so với cùng kỳ năm ngoái.
+
+Tuy nhiên, việc các công ty lớn như Meta và Anthropic quan tâm đến chip Google cho thấy xu hướng muốn giảm sự phụ thuộc vào hãng này. Ben Barringer, trưởng bộ phận nghiên cứu công nghệ tại Quilter Cheviot, nói Google sẽ không phải là đối thủ duy nhất trong mảng chip AI và khó có thể đạt được vị thế tối cao như Nvidia, nhưng nó là "một phần của sự cân bằng" trong hệ sinh thái này.
+
+(Theo CNN)

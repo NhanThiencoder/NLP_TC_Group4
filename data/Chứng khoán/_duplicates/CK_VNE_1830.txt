@@ -1,0 +1,41 @@
+Phân tích cơ bản, kỹ thuật, xu hướng thị trường và quản trị rủi ro là bốn yếu tố tạo nên phương pháp đầu tư của William J. O'Nei.
+
+William J. O'Neil, nhà sáng lập tờ báo tài chính Investor's Business Daily (IBD) xây dựng phương pháp đầu tư với tên gọi IBD dựa trên dữ liệu nghiên cứu hàng chục năm về các cổ phiếu tăng trưởng mạnh nhất trong nhiều chu kỳ thị trường. Nền tảng lý thuyết này được trình bày lần đầu trong cuốn sách How To Make Money In Stocks (1988) - cuốn sách gối đầu giường của nhiều nhà đầu tư toàn thế giới.
+
+IBD xoay quanh 4 trụ cột chính gồm: phân tích cơ bản, phân tích kỹ thuật, đánh giá xu hướng thị trường và quản trị rủi ro. Hệ thống này đã được ứng dụng trong các sản phẩm phân tích của Investor's Business Daily từ năm 1984 đến nay.
+
+William O'Neil - một trong những huyền thoại của giới đầu tư. Ảnh: William O'Neil & Co
+
+Phân tích cơ bản, doanh nghiệp có nền tảng vững chắc
+
+Phân tích cơ bản giúp nhà đầu tư đánh giá năng lực tài chính và tiềm năng tăng trưởng của doanh nghiệp thông qua các chỉ số như lợi nhuận, doanh thu, dòng tiền, biên lợi nhuận và tỷ suất sinh lời.
+
+Ông cảnh báo nhà đầu tư tránh xa các cổ phiếu "trà đá" (cổ phiếu có thị giá thấp, thường dưới 5.000 đồng) hoặc "penny" (cổ phiếu có thị giá thấp, dưới 10.000 đồng, thường được phát hành bởi các công ty có quy mô nhỏ, vốn hóa thấp, và có tính thanh khoản kém). Theo O'Neil, những doanh nghiệp này thường không minh bạch, không tập trung vào hoạt động kinh doanh cốt lõi, và tiềm ẩn nhiều rủi ro.
+
+Xác định thời điểm giao dịch bằng phân tích kỹ thuật
+
+Bên cạnh yếu tố cơ bản, phân tích kỹ thuật giúp xác định thời điểm mua bán hợp lý thông qua biểu đồ giá và khối lượng giao dịch. Theo O'Neil, các cổ phiếu tăng trưởng mạnh thường hình thành những mẫu hình tích lũy như "cốc tay cầm" hoặc "nền giá phẳng" trước khi tăng giá.
+
+Việc đọc hiểu biểu đồ còn giúp nhà đầu tư nhận biết dòng tiền tổ chức, tâm lý thị trường và quy luật cung - cầu.
+
+Hiểu rõ bối cảnh thị trường chung
+
+O'Neil cho rằng chọn đúng cổ phiếu chưa đủ, mà cần đánh giá xem thị trường chung có đang thuận lợi để đầu tư hay không. Ông phát triển khái niệm "ngày xác nhận xu hướng tăng" (follow-through day) để nhận diện thời điểm thị trường đảo chiều từ giảm sang tăng, và "ngày phân phối" (distribution day) nhằm phát hiện dấu hiệu suy yếu.
+
+DNSE cung cấp phân tích chỉ số doanh nghiệp qua Senses. Ảnh: DNSE
+
+Quản trị rủi ro và nguyên tắc cắt lỗ
+
+Quản trị rủi ro là yếu tố cốt lõi giúp nhà đầu tư duy trì vị thế lâu dài. Quy tắc nổi bật của O'Neil là cắt lỗ khi cổ phiếu giảm 7-8% so với giá mua, nhằm ngăn lỗ nhỏ trở thành thiệt hại lớn.
+
+Bên cạnh đó, việc hiện thực hóa lợi nhuận đúng thời điểm và xây dựng danh mục cân đối, bao gồm tỷ trọng từng mã, mức độ biến động và độ tập trung, góp phần giảm thiểu rủi ro tổng thể. Ông cũng khuyên các nhà đầu tư khi tham gia thị trường chứng khoán cần thường xuyên thực hành phân tích doanh nghiệp và nghiên cứu các mẫu hình giá.
+
+Phương pháp IBD là kết quả đúc kết từ nhiều thập kỷ quan sát, thử nghiệm và rút kinh nghiệm của William J. O'Neil. Hệ thống này được nhiều nhà đầu tư đánh giá cao vì kết hợp cả định tính lẫn định lượng, mang tính kỷ luật.
+
+Tại Việt Nam, để hỗ trợ nhà đầu tư có cái nhìn toàn diện và nhanh chóng, các công ty chứng khoán đang có nhiều hình thức tích hợp công cụ phân tích, nhận định thị trường và mã cổ phiếu vào nền tảng giao dịch. Đơn cử, DNSE phát triển công cụ Senses - nền tảng phân tích chỉ số doanh nghiệp theo thời gian thực, giúp nhà đầu tư dễ dàng theo dõi các yếu tố cơ bản như lợi nhuận, dòng tiền, biên lợi nhuận hay tỷ suất sinh lời. Đây là những chỉ số cốt lõi mà phương pháp của William J. O’Neil nhấn mạnh trong quá trình sàng lọc cổ phiếu.
+
+Ngoài ra, doanh nghiệp còn tích hợp phân tích kỹ thuật, cảnh báo xu hướng thị trường và quản trị danh mục thông qua Trợ lý chứng khoán ảo Ensa dưới hình thức chatbot. Bên cạnh đó, tính năng Ý tưởng đầu tư của DNSE cũng là công cụ hữu hiệu với các nhà đầu tư, mang đến những khuyến nghị mua, bán được thẩm định qua bộ lọc 4 lớp và dựa trên nguyên tắc, chiến lược của các chuyên gia tư vấn đầu tư uy tín.
+
+Theo DNSE, những công cụ này góp phần rút ngắn khoảng cách giữa nhà đầu tư phổ thông và phương pháp đã được kiểm chứng từ các thị trường phát triển, từng bước, đơn giản hóa hành trình đầu tư và thu hút nhiều nhà đầu tư gia nhập thị trường.
+
+Anh Vũ

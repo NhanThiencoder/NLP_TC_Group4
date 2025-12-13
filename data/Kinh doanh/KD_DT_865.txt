@@ -1,0 +1,77 @@
+Title: Bitcoin thủng đáy 90.000 USD: Khi "vàng số" thất thủ trước vàng thật
+
+Chỉ cách đây chưa đầy 2 tháng, giới đầu tư toàn cầu còn hân hoan khi bitcoin (BTC) thiết lập đỉnh lịch sử 126.000 USD vào đầu tháng 10. Thế nhưng, tiệc tàn nhanh hơn dự kiến. Sắc đỏ bao trùm các bảng điện tử, tâm lý hoảng loạn lan rộng từ phố Wall đến các diễn đàn tiền số tại Việt Nam.
+
+Khi bitcoin chính thức thủng mốc 90.000 USD - mức thấp nhất trong 7 tháng qua, một câu hỏi lớn về bản chất dòng tiền lại được đặt ra, đó là liệu bitcoin có thực sự là "vàng kỹ thuật số" như lời đồn, hay trong cơn bão táp, nhà đầu tư chỉ tin vào những thỏi vàng lấp lánh cầm được trên tay?
+
+Giá bitcoin rơi tự do từ đỉnh 126.000 USD xuống 90.000 USD trong vòng chưa đến 2 tháng (Ảnh: ET).
+
+Cú bốc hơi 1.200 tỷ USD và hiệu ứng "chim hoàng yến"
+
+Thị trường tài chính những ngày giữa tháng 11 ảm đạm như một thước phim quay chậm về sự sụp đổ. Dữ liệu từ CoinGecko cho thấy, chỉ trong vòng 6 tuần, khoảng 1.200 tỷ USD vốn hóa đã bị thổi bay khỏi thị trường tài sản số. Để dễ hình dung, con số này lớn hơn GDP của nhiều quốc gia, cho thấy mức độ tàn khốc của đợt bán tháo lần này.
+
+Matt Hougan, Giám đốc đầu tư của Bitwise Asset Management, đã ví von bitcoin như "chú chim hoàng yến trong mỏ than". Trong các hầm mỏ xưa, chim hoàng yến được dùng để phát hiện khí độc; nếu chim ngừng hót, thợ mỏ biết nguy hiểm đang đến. Hougan cho rằng: "Bitcoin là tài sản đầu tiên đảo chiều trước đợt điều chỉnh rộng hơn của thị trường, báo hiệu rủi ro cho các loại tài sản khác".
+
+Thực tế, BTC đã giảm gần 30% từ đỉnh 126.000 USD, xóa sạch toàn bộ thành quả tăng trưởng của năm 2025. Giao dịch quanh mức 89.000 - 90.000 USD, đồng tiền số lớn nhất thế giới đang chịu áp lực kép: Dòng vốn rút ồ ạt khỏi các quỹ ETF và tâm lý "chốt lời non" hoặc "cắt lỗ hoảng loạn" của nhà đầu tư nhỏ lẻ.
+
+Theo Reuters, áp lực bán tháo không chỉ đến từ các cá nhân. Ngay cả các "cá voi" (những thực thể nắm giữ lượng lớn BTC) cũng đang có dấu hiệu phân phối lại tài sản. Joseph Edwards từ Enigma Securities nhận định: "Nhiều nhà đầu tư nhỏ lẻ đã rời bỏ thị trường sau cú sập tháng 10 - sự kiện kích hoạt đợt thanh lý đòn bẩy lên tới 19 tỷ USD".
+
+Khi công nghệ "đầu hàng" trước nỗi sợ hữu hình
+
+Nguyên nhân của cú sập này không đơn thuần là quy luật cung cầu. Nó là sự cộng hưởng của các yếu tố vĩ mô "độc hại".
+
+Thứ nhất, bóng ma lãi suất từ Fed. Sự bất định về khả năng Cục Dự trữ Liên bang Mỹ (Fed) cắt giảm lãi suất vào tháng 12 đang khiến dòng tiền rẻ - vốn là "oxy" của thị trường crypto - trở nên khan hiếm. Arthur Hayes, đồng sáng lập BitMex, thẳng thắn nhận định cú giảm này bắt nguồn từ tình trạng "cạn thanh khoản" do chính sách tiền tệ thắt chặt.
+
+Thứ hai, hiệu ứng dây chuyền từ thị trường chứng khoán. Bitcoin không "chết" một mình. Sự sụt giảm của các cổ phiếu công nghệ AI và các công ty liên quan đến tiền số như MicroStrategy, Coinbase hay Riot Platforms cho thấy khẩu vị rủi ro toàn cầu đang thay đổi. Khi định giá các công ty công nghệ bị cho là bong bóng, nhà đầu tư bán tháo tất cả những gì được coi là rủi ro cao, và bitcoin đứng đầu danh sách đó.
+
+Thứ ba, đòn bẩy tài chính - "vũ khí hủy diệt". Ash Crypto đã gọi cơ chế thanh lý tự động là "vũ khí hủy diệt hàng loạt". Khi giá giảm, các lệnh margin call (gọi ký quỹ) bị kích hoạt tự động, tạo ra áp lực bán cưỡng bức, đẩy giá xuống sâu hơn, lại kích hoạt các lệnh thanh lý tiếp theo. Vòng xoáy luẩn quẩn này đã khiến hàng tỷ USD vị thế bốc hơi chỉ trong nháy mắt.
+
+Sự trỗi dậy của "vua" và nghịch lý của năm
+
+Trong khi sắc đỏ bao trùm thị trường số, thì màu vàng lại rực rỡ trên các bảng xếp hạng tài sản truyền thống. Đây chính là điểm nhấn thú vị và đau đớn nhất của năm tài chính 2025.
+
+Lần đầu tiên trong lịch sử thị trường hiện đại, có sự phân cực gay gắt đến thế. Trong khi vàng tăng trưởng 55,2% từ đầu năm, bitcoin lại tăng trưởng âm (-1,2%) và rơi xuống nhóm tài sản hiệu suất tệ nhất.
+
+Nếu như những năm trước người ta thường mỉa mai vàng là "hòn đá của người già", chậm chạp và lỗi thời, thì năm 2025, vàng đã chứng minh chân lý: Trong bão tố, người ta cần cái neo vững chắc, không phải những dòng code.
+
+Theo các chuyên gia từ UBS và Standard Chartered, dòng tiền đang có sự dịch chuyển mạnh mẽ gọi là “dịch chuyển trú ẩn an toàn”. Khi niềm tin vào thuật toán lung lay, khi địa chính trị căng thẳng và kinh tế vĩ mô bất ổn, bản năng của con người là tìm về những giá trị hữu hình. Vàng không thể bị hack, không phụ thuộc vào lưới điện hay internet, và không có "nhà sáng lập" nào có thể bị bắt giữ.
+
+Tại các thị trường châu Á, nhu cầu vàng vật chất và các chứng chỉ quỹ vàng (ETF Vàng) tăng vọt. Đây là cú tát mạnh vào luận điểm "bitcoin sẽ thay thế vàng". Năm 2025 đã chứng minh: Bitcoin có thể là tài sản tăng trưởng nhưng chưa bao giờ là nơi trú ẩn an toàn thực thụ khi khủng hoảng xảy ra.
+
+Vàng đã tăng hơn 55% trong năm 2025, trở thành tài sản chủ chốt có hiệu suất mạnh nhất, trong khi bitcoin lại trở thành tài sản tệ nhất khi mức tăng chỉ còn khoảng 1% rồi chuyển sang âm (Ảnh: Cryptodnes).
+
+Góc nhìn từ "tâm bão": Cơ hội thế hệ hay bẫy giảm giá?
+
+Giữa bức tranh u ám, thị trường vẫn chia làm hai phe rõ rệt với những lập luận sắc bén. Câu hỏi lớn nhất lúc này là mức giá 90.000 USD của bitcoin liệu đã là đáy hay chưa?
+
+Phe lạc quan: "Món quà của thượng đế"
+
+Matt Hougan của Bitwise và Tom Lee - Chủ tịch BitMine, 2 cái tên uy tín trong giới phân tích tài chính, đều đồng lòng rằng: Đáy đang ở rất gần.
+
+Hougan gọi mức giá dưới 90.000 USD là "cơ hội mang tính thế hệ" và là "món quà dành cho nhà đầu tư dài hạn". Lập luận của họ dựa trên sự kiệt sức của phe bán. Khi tất cả những ai muốn bán đã bán xong, thị trường sẽ chỉ còn một hướng đi, đó là đi lên.
+
+Tom Lee, người nổi tiếng với những dự báo chính xác về thị trường chứng khoán, tin rằng thị trường crypto đang chịu tác động trễ. Ông dự báo: "Khi chứng khoán hồi phục vào cuối năm, tôi tin điều đó sẽ giúp đẩy bitcoin lên mức cao kỷ lục mới".
+
+Thậm chí, Arthur Hayes dù cảnh báo về mốc 80.000 USD nhưng vẫn giữ niềm tin bitcoin có thể bật lại lên 200.000 USD nếu thanh khoản USD được nới lỏng.
+
+Phe bi quan: Cẩn trọng "dao rơi"
+
+Ngược lại, Alex Kuptsikevich từ FxPro cảnh báo rằng về mặt kỹ thuật, bitcoin đã bước vào thị trường gấu. "Nếu áp dụng các quy tắc của chứng khoán, chúng ta cần chuẩn bị cho mức giảm sâu thêm 20% nữa", ông nhận định. Điều này đồng nghĩa với việc bitcoin có thể test lại vùng giá 70.000 - 80.000 USD.
+
+Ngân hàng Standard Chartered cũng đưa ra cảnh báo đáng lo ngại: Nếu giá giảm sâu dưới 90.000 USD, khoảng một nửa số bitcoin mà các công ty niêm yết nắm giữ sẽ rơi vào trạng thái "lỗ trên sổ sách". Điều này có thể kích hoạt làn sóng bán tháo từ chính khối doanh nghiệp để cắt lỗ, tạo ra hiệu ứng domino thứ hai.
+
+Bài học cho nhà đầu tư: Tỉnh táo trước "cơn say"
+
+Câu chuyện của năm nay mang đến những bài học thấm thía cho cộng đồng đầu tư quốc tế và Việt Nam - nơi sự quan tâm đến tiền số và vàng luôn ở mức cao.
+
+Đừng bỏ trứng vào một giỏ: Sự sụp đổ của danh mục 100% crypto và sự thăng hoa của vàng là minh chứng rõ nhất cho tầm quan trọng của việc đa dạng hóa. Một danh mục đầu tư cân bằng giữa tài sản tăng trưởng (crypto, cổ phiếu) và tài sản phòng thủ (vàng) sẽ giúp nhà đầu tư "sống sót" qua những cơn bão.
+
+Công nghệ không đồng nghĩa với sự ổn định: Đừng nhầm lẫn giữa tiềm năng công nghệ và sự an toàn tài chính. Blockchain là tương lai, nhưng giá token là cuộc chơi của tâm lý và dòng tiền.
+
+Nhìn vào dài hạn, nếu bạn tin vào Matt Hougan, đây là lúc để mua tích sản. Nếu bạn sợ hãi, hãy đứng ngoài. Nhưng quan trọng nhất, hãy tránh xa đòn bẩy (margin) trong giai đoạn thị trường biến động như "tàu lượn siêu tốc" này.
+
+Câu chuyện của bitcoin và vàng năm 2025 mang lại những bài học đắt giá cho cộng đồng đầu tư (Ảnh: Getty).
+
+Bitcoin rơi xuống 90.000 USD không phải là ngày tận thế, nhưng là hồi chuông cảnh tỉnh cần thiết. Thị trường đang thanh lọc những dòng tiền đầu cơ nóng vội để nhường chỗ cho sự trưởng thành thực sự. Với những nhà đầu tư bản lĩnh, sự hoảng loạn của đám đông hôm nay có thể chính là cơ hội để kiến tạo thịnh vượng cho ngày mai.
+
+Tuy nhiên, hãy nhớ rằng, trong kỷ nguyên số, đôi khi thứ lấp lánh nhất vẫn là thứ kim loại cổ xưa nằm sâu trong lòng đất.

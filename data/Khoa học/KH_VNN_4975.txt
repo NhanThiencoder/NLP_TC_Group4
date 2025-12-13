@@ -1,0 +1,51 @@
+Trong bối cảnh cuộc xung đột Nga-Ukraine leo thang, tên lửa LMUR (tên lửa dẫn đường đa năng hạng nhẹ ‘Legkaya Mnogotselevaya Upravlyayemaya Raketa’ hay còn gọi là Kh-39) đã chứng minh sức mạnh đáng sợ khi "xuyên thủng" sở chỉ huy drone Ukraine-NATO gần Bohuslavka, hướng Kharkiv chỉ trong tích tắc. Không chỉ là một vũ khí thông thường, LMUR đại diện cho đỉnh cao công nghệ Nga, với khả năng dẫn đường thông minh và tầm bắn "xa xôi" giúp trực thăng Ka-52 "ẩn náu" an toàn khỏi hỏa lực đối phương. Bài viết sẽ khám phá sâu công nghệ và thông số kỹ thuật đằng sau "kẻ săn mồi" này, giúp bạn hiểu tại sao nó đang thay đổi cục diện chiến trường Ukraine.
+
+Tên lửa đa chức năng hạng nhẹ LMUR. Ảnh: Sputnik/Valery Melnikov
+
+Tên lửa LMUR, viết tắt của Light Multi-Purpose Guided Missile (tên lửa dẫn đường đa năng hạng nhẹ), là một trong những sản phẩm tiên tiến nhất của ngành công nghiệp quốc phòng Nga, được phát triển bởi Cục Thiết kế Kolomna thuộc Tập đoàn KTRV (Tactical Missiles Corporation).
+
+Ra đời từ những năm 2010, LMUR ban đầu nhằm thay thế các tên lửa chống tăng cũ như Kh-25 hay Ataka, vốn bị hạn chế về tầm bắn và độ chính xác.
+
+Đến năm 2022, LMUR chính thức được triển khai rộng rãi trong chiến dịch quân sự tại Ukraine, nơi LMUR nhanh chóng trở thành "vũ khí chủ lực" cho các trực thăng tấn công như Ka-52 Alligator và Mi-28NM Havoc.
+
+Sự kiện gần đây nhất – cuộc tấn công chính xác vào sở chỉ huy điều khiển máy bay không người lái (UAV/Drone) của Ukraine gần làng Bohuslavka, oblast Kharkiv vào tháng 11/2025 – đã minh chứng rõ nét cho khả năng "săn lùng" mục tiêu động của nó, phá hủy hoàn toàn hệ thống chỉ huy mà không để lại dấu vết dễ dàng cho radar đối phương.
+
+Về thiết kế, LMUR mang hình dáng trụ tròn mảnh mai, dài khoảng 1,945 mét và đường kính thân chỉ 200mm, giúp nó dễ dàng tích hợp vào các giá treo vũ khí của trực thăng mà không làm tăng trọng lượng đáng kể.
+
+Với khối lượng khởi động vỏn vẹn 105kg, tên lửa này nhẹ hơn nhiều so với các "anh em" cùng họ như Kh-38 (nặng gấp đôi), cho phép mang theo số lượng lớn hơn trên một phương tiện – lên đến 8 quả trên Ka-52.
+
+Động cơ chính là loại tên lửa rắn (solid-fuel rocket motor) hoạt động mạnh mẽ ngay từ giây đầu phóng, đẩy LMUR đạt tốc độ cao dưới âm thanh (subsonic cao), lên đến 230 m/s (tương đương 828 km/h).
+
+Tốc độ này không chỉ giúp tên lửa tiếp cận mục tiêu nhanh chóng mà còn giảm thời gian tiếp xúc với hệ thống phòng không, tăng tỷ lệ sống sót lên đáng kể.
+
+Tên lửa dẫn đường, có độ chính xác cao LMUR của quân đội Nga (Ảnh: Iz.ru)
+
+Điểm nổi bật nhất của LMUR chính là hệ thống dẫn đường đa lớp, kết hợp công nghệ hiện đại để đảm bảo độ chính xác "từng milimet" ngay cả trong điều kiện thời tiết xấu hoặc ban đêm.
+
+Ban đầu, tên lửa sử dụng hệ thống quán tính-vệ tinh (inertial-satellite navigation) để bay theo quỹ đạo ban đầu, giúp nó duy trì hướng đi ổn định mà không cần can thiệp liên tục.
+
+Khi tiếp cận mục tiêu ở khoảng cách 2-3km, đầu dò quang học truyền hình (TV optical seeker) hoặc đầu dò hồng ngoại (thermal imaging) sẽ "bắt sóng" hình ảnh mục tiêu, truyền về màn hình của phi công qua kênh dữ liệu hai chiều.
+
+Điều thú vị là LMUR cho phép phi công điều khiển thủ công trong giai đoạn cuối, chọn góc tấn công lý tưởng để nhắm vào điểm yếu như buồng chỉ huy drone hay hệ thống radar – chính điều này đã giúp nó "xóa sổ" sở chỉ huy Ukraine-NATO ở Bohuslavka mà không gây thiệt hại lan rộng.
+
+Một số biến thể còn tích hợp dẫn đường laser bán chủ động, cho phép phối hợp với drone trinh sát hoặc laser chỉ điểm từ mặt đất, mở rộng khả năng tấn công đa nền tảng.
+
+Về đầu đạn, LMUR được trang bị loại mảnh vụn nổ (high-explosive fragmentation warhead) nặng 25kg, đủ sức phá hủy xe tăng bọc thép hạng nặng, công sự ngầm hoặc cụm drone chỉ huy như trong vụ việc Kharkiv.
+
+Đầu đạn này sử dụng thuốc nổ mạnh, tạo ra hàng nghìn mảnh vụn bay với tốc độ cao, xuyên thủng lớp giáp lên đến 800mm thép đồng nhất – vượt trội so với các tên lửa chống tăng truyền thống.
+
+Tầm bắn tối đa đạt 14,5km (một số nguồn Nga cập nhật lên 15km tùy điều kiện phóng từ độ cao lớn), gấp đôi so với các tên lửa trực thăng cũ, cho phép phi công Nga giữ khoảng cách an toàn khỏi pháo phòng không MANPADS của Ukraine.
+
+Ảnh: Roman Azanov/TASS
+
+Trong chuyến bay, LMUR duy trì độ cao thấp (dưới 50 mét) để tránh radar, kết hợp với bốn cánh lái hình thang ở mũi giúp điều chỉnh quỹ đạo linh hoạt, thậm chí "lượn sóng" để né đạn đạo.
+
+Ứng dụng thực chiến của LMUR không chỉ dừng ở chống tăng mà còn mở rộng sang "săn drone" – như vụ tấn công sở chỉ huy UAV gần Bohuslavka, nơi tên lửa đã bay qua địa hình phức tạp của khu vực Kharkiv để đánh trúng mục tiêu di động.
+
+Theo các báo cáo từ nguồn Nga, tỷ lệ trúng đích của LMUR đạt trên 90% trong các nhiệm vụ gần đây, nhờ vào hệ thống chống nhiễu điện tử tích hợp, giúp nó "lừa" được các biện pháp phòng thủ của NATO hỗ trợ Ukraine.
+
+Tương lai, Nga đang phát triển phiên bản LMUR-E xuất khẩu với tầm bắn lên 25km và tích hợp trí tuệ nhân tạo (AI) để tự động nhận diện mục tiêu, hứa hẹn biến nó thành "vũ khí thông minh" thực thụ.
+
+LMUR Kh-39 không chỉ là một tên lửa, mà là biểu tượng của sự kết hợp hoàn hảo giữa công nghệ Nga và chiến lược hiện đại, giúp lực lượng không quân Nga duy trì lợi thế trên bầu trời Ukraine.
+
+Với độ chính xác chết người (khoảng 90%) và khả năng thích ứng cao, "sát thủ dẫn đường" này đang viết lại quy tắc giao tranh, khiến đối phương phải e ngại mỗi khi nghe tiếng trực thăng Ka-52 lượn lờ.

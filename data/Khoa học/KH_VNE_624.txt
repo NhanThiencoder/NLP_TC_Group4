@@ -1,0 +1,19 @@
+Lò phản ứng WEST duy trì plasma hydro trong 22 phút sử dụng 2 MW nhiệt, đánh bại kỷ lục trước đó của Trung Quốc.
+
+Buồng plasma của lò phản ứng WEST. Ảnh: CEA
+
+Pháp đạt cột mốc mới trong sản xuất năng lượng nhiệt hạch khi duy trì phản ứng plasma trong hơn 22 phút. Thành tựu phá kỷ lục này diễn ra ở lò phản ứng tokamak WEST vận hành bởi Ủy ban năng lượng hạt nhân và năng lượng tái tạo Pháp (CEA). Lò tokamak WEST của CEA giữ plasma tồn tại trong 1.337 giây, vượt qua kỷ lục 1.066 giây của Trung Quốc, Interesting Engineering hôm 19/2 đưa tin.
+
+"Bước nhảy vọt này chứng minh hiểu biết của chúng ta về plasma và công nghệ kiểm soát chúng trong thời gian dài hơn đang ngày càng chín muồi, mang đến hy vọng có thể ổn định plasma nhiệt hạch trong thời gian lớn ở những cỗ máy như ITER (Lò phản ứng thí nghiệm nhiệt hạt nhân quốc tế)", CEA cho biết.
+
+Đối với thiết bị như ITER, vốn phải duy trì plasma nhiệt hạch trong vài phút, việc đạt mốc thời gian dài như trên đánh dấu cột mốc quan trọng. Theo CEA, mục tiêu cuối cùng là kiểm soát plasma kém ổn định đồng thời đảm bảo bất kỳ bộ phận nào tiếp xúc với nó có thể chịu được bức xạ mà không hư hỏng hoặc ô nhiễm.
+
+WEST, một cơ sở của CEA, là kết tinh thành tựu nhiều thập kỷ trong nghiên cứu plasma ở lò tokamak. Cơ sở thu hút các nhà khoa học trên toàn cầu, những người sử dụng cuộn siêu dẫn và bộ phận làm mát chủ động của nó cho những thí nghiệm plasma kéo dài. WEST là một phần trong nỗ lực quốc tế, bao gồm nhiều dự án như JT-60SA của Nhật Bản, EAST của Trung Quốc, KSTAR của Hàn Quốc, và Joint European Torus (JET) ở Anh. Nhóm nghiên cứu ở CEA cũng đóng góp vào dự án ITER, sáng kiến nhiệt hạch hàng đầu thế giới.
+
+Kết quả mới cho phép WEST nói riêng và cộng đồng khoa học ở Pháp nói chung dẫn đầu sử dụng lò ITER trong tương lai, theo Anne-Isabelle Etienvre, giám đốc nghiên cứu cơ bản ở CEA. Phản ứng nhiệt hạch hướng tới điều khiển plasma, cung cấp nguồn năng lượng hiệu quả cao với lượng nhiên liệu tối thiểu và không tạo ra chất phải phóng xạ tồn tại lâu dài. Trong số nhiều kỹ thuật nhiệt hạch, phản ứng nhiệt hạch bằng giam hãm từ tính là loại tiên tiến nhất. Phương pháp này giữ plasma trong buồng hình xuyến nhờ từ trường mạnh, làm nóng nó cho tới khi hạt nhân hydro hợp nhất. JET từng sản xuất 15 MW điện nhiệt hạch trong vài giây.
+
+Năng lượng nhiệt hạch dựa vào phản ứng hạt nhân, có thể kết hợp với công nghệ phân hạch, đặc biệt trong ứng dụng liên quan tới neutron. Tuy nhiên, sản xuất năng lượng nhiệt hạch quy mô lớn vấp phải nhiều thách thức lớn. Yêu cầu cơ sở hạ tầng, trở ngại kỹ thuật chưa giải quyết và tính khả thi về mặt kinh tế có nghĩa phản ứng nhiệt hạch chưa thể đóng góp đáng kể vào mục tiêu không thải carbon năm 2050. Theo nhóm chuyên gia ở CEA, vượt qua các rào cản đó là điều tối quan trọng nhằm biến tiềm năng trở thành nguồn năng lượng bền vững của phản ứng nhiệt hạch thành hiện thực.
+
+Đội ngũ ở WEST sẽ tăng cường nỗ lực trong vài tháng tới không chỉ để đạt thời gian duy trì plasma lên tới vài giờ mà cả làm nóng plasma tới nhiệt độ cao hơn.
+
+An Khang (Theo Interesting Engineering)

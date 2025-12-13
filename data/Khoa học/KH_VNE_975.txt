@@ -1,0 +1,19 @@
+MỹFrontier, siêu máy tính nhanh thứ hai trên thế giới, sử dụng vật chất tối và chuyển động của khí gas và plasma thay vì lực hấp dẫn để lập mô hình vũ trụ khả kiến.
+
+Siêu máy tính Frontier là siêu máy tính mạnh thứ hai trên thế giới. Ảnh: Science Alert
+
+Tiềm năng mở rộng hiểu biết của con người về vũ trụ tăng vọt sau khi Frontier, siêu máy tính ở Phòng thí nghiệm quốc gia Oak Ridge (ORNL), tạo ra mô phỏng về vũ trụ ở quy mô chưa từng có, Live Science hôm 13/2 đưa tin. Frontier sử dụng nền tảng phần mềm Hardware/Hybrid Accelerated Cosmology Code (HACC) như một phần của ExaSky, chương trình nằm trong Dự án máy tính Exascale trị giá 1,8 tỷ USD của Bộ Năng lượng Mỹ (DOE). Đây là sáng kiến nghiên cứu và phát triển phần mềm lớn nhất do DOE cấp kinh phí.
+
+Trong chương trình Exasky, những ứng dụng khoa học được yêu cầu chạy nhanh hơn 50 lần so với tiêu chuẩn trước đây, nhưng Frontier và HACC nhanh chóng vượt xa kỳ vọng, chạy nhanh gấp gần 300 lần những mô phỏng tương tự về mặt trăng Titan của sao Thổ.
+
+Đội ngũ ở DOE/HACC mất 7 năm từ mô phỏng đầu tiên để tăng cường những khả năng của siêu máy tính cấp exascale như Frontier. Điều này cho phép tạo ra mô phỏng vũ trụ thủy động lực học, mô hình máy tính chuyên sâu tích hợp những nguyên lý như sự mở rộng của vũ trụ và ảnh hưởng của vật chất tối. Các mô hình trước đây chỉ tích hợp phép đo lực hấp dẫn, khí gas hoặc plasma. Mô phỏng tiến hành vào tháng 11/2024 sử dụng khoảng 9.000 nút máy tính của Frontier, tất cả đều lắp card đồ họa AMD Instinct MI250X.
+
+Frontier là siêu máy tính nhanh thứ hai trên thế giới, có thể đạt công suất 1,4 exaFLOPS. Hiệu suất của siêu máy tính được đo theo phép toán dấu chấm động mỗi giây (FLOPS), trong đó mỗi phép toán dấu chấm động là một phép tính toán học. Siêu máy tính exascale là bất kỳ cỗ máy nào có công suất trên 999 petaFLOPS (0,9 exaFLOPS). Cỗ máy duy nhất mạnh hơn Frontier là El Capitan, đạt công suất 1,7 exaFLOPS.
+
+Ngoài mô phỏng vũ trụ, Frontier được sử dụng trong nhiều nghiên cứu chủ chốt khác. Tháng 4/2023, các nhà khoa học xây dựng Mô hình khí quyển E3SM phân giải đám mây đơn giản (SCREAM), chương trình mô phỏng dữ liệu khí quyển toàn cầu trong cả năm với độ phân giải trên 3 km. Là một trong những mô hình khí hậu phức tạp nhất từng được tạo lập trên máy tính, đây là cột mốc trong phân tích tương tác phức tạp giữa khí quyển, đại dương và đất liền, nhằm cải tiến dự đoán thời tiết và thu thập dữ liệu độ tin cậy cao về biến đổi khí hậu.
+
+Về vật liệu, Frontier cho phép các nhà thiết kế tạo ra lớp nền và hình khối cho vật liệu giúp gia cố nhà cửa, khiến chúng bền, nhẹ hơn và chống xói mòn. Khả năng tính toán exascale của nó giúp nhà nghiên cứu lập mô hình tương tác hóa học ở cấp độ phân tử nhằm dự đoán hành vi của vật liệu. Siêu máy tính này cũng đóng vai trò chủ chốt trong tìm ra vật liệu mới dành cho lưu trữ năng lượng, giao thông, sản xuất và y học hạt nhân.
+
+Tuy nhiên, giới khoa học vẫn đặc biệt hào hứng về cách máy tính exascale có thể tăng cường phát triển trí tuệ nhân tạo (AI). Tốc độ của cỗ máy cho phép các nhà lập trình cải tiến thuật toán và phân tích tập dữ liệu lớn nhanh chóng, đặc biệt trong những nhiệm vụ như mô hình ngôn ngữ nhanh hơn hoặc ứng dụng siêu máy tính cho mô hình khí hậu và dự đoán biến đổi khí hậu.
+
+An Khang (Theo Live Science)

@@ -1,0 +1,77 @@
+Title: AI thành “bà mối” quyền lực mới của ngành hẹn hò tỷ USD
+
+Sau nhiều năm “vuốt phải” trong vô vọng trên Hinge và Tinder, Emma Inge, 25 tuổi, một quản lý dự án tại San Francisco, quyết định thử một điều gì đó khác biệt.
+
+Tháng 9 vừa qua, cô bấm vào quảng cáo của một startup tên Known. Thay vì lướt ảnh, cô dành 20 phút trò chuyện tâm sự với một ông mai AI về mẫu bạn đời lý tưởng và cả những "cờ đỏ" (red flag) cần tránh. Một tuần sau, cô nhận thông báo có "match". Chỉ với 25 USD, cô có một buổi hẹn "mù" tại quán bar.
+
+“Với cách hẹn hò bây giờ đã bão hòa, tôi nghĩ cứ thử xem sao”, Inge kể.
+
+Câu chuyện của Inge là lát cắt tiêu biểu cho một cuộc chuyển mình mạnh mẽ, nơi trí tuệ nhân tạo (AI) đang được kỳ vọng là cứu cánh cho cả một ngành công nghiệp hẹn hò trực tuyến trị giá hàng tỷ USD đang "tụt mood" nghiêm trọng.
+
+Ngành công nghiệp hẹn hò đang chuyển mình mạnh mẽ sang một kỷ nguyên mới, nơi AI đóng vai trò trung tâm trong việc kết nối những trái tim cô đơn (Ảnh: AI Connect Network).
+
+Cú “tụt mood” của một đế chế tỷ USD
+
+Sự thay đổi này đến vào thời điểm không thể phù hợp hơn. Sau nhiều năm tăng trưởng nóng, các ứng dụng hẹn hò đang mắc kẹt trong cái gọi là “vòng luẩn quẩn tuyệt vọng”. Người dùng tải app, nhanh chóng kiệt sức vì vuốt mãi, bị "bỏ bom", rồi xóa app chỉ để tải lại vài tháng sau.
+
+Quan trọng hơn, mô hình kinh doanh "freemium" (miễn phí cơ bản, trả tiền cho đặc quyền) đang mất thiêng. Mức độ hài lòng của người dùng giảm mạnh và ngày càng ít người chịu chi tiền.
+
+Các con số tài chính nói lên tất cả. Trong năm qua, Bumble mất 9% lượng người dùng trả phí, còn Match Group (công ty mẹ của Tinder và Hinge) giảm 5%. Đây là một đòn giáng mạnh, bởi dù nhóm người trả phí chỉ chiếm khoảng 20% tổng số người dùng, họ lại tạo ra tới 97% doanh thu.
+
+Hệ quả là, giá cổ phiếu của Match Group đã bốc hơi 80% so với đỉnh năm 2021, còn Bumble còn thảm hơn với mức giảm 90% kể từ khi IPO cùng năm. Ngành hẹn hò cần một cú hích, và AI chính là câu trả lời mà các lãnh đạo đang đặt cược.
+
+“AI hiện đã đóng vai trò lớn trong hoạt động của chúng tôi, nhưng tôi nghĩ nó sẽ là một bước ngoặt - một cuộc chuyển đổi công nghệ mới”, Hesam Hosseini, Giám đốc vận hành của Match Group, chia sẻ.
+
+Cuộc đua AI: Từ "huấn luyện viên" đến "bản sao ảo"
+
+Trước áp lực tài chính và sự mệt mỏi của người dùng, các ông lớn đang gấp rút từ bỏ mô hình "vuốt" số lượng để chuyển sang "mai mối" chất lượng do AI điều phối. Cuộc đua tái định hình mô hình kinh doanh đã bắt đầu.
+
+Tinder đang thử nghiệm dịch vụ AI Chemistry, cho phép AI phân tích thư viện ảnh để hiểu rõ tính cách người dùng. Hinge, vốn nổi tiếng nghiêm túc hơn, đã dùng AI tạo sinh để nâng cấp thuật toán, giúp tăng 15% số lượng "match". Hinge cũng dùng AI làm "huấn luyện viên" giúp người dùng viết hồ sơ thú vị hơn.
+
+Bumble tuyên bố sẽ ra mắt ứng dụng AI mai mối riêng vào cuối năm. Trong đó đáng chú ý là mô hình kinh doanh hoàn toàn mới: Có thể tính phí theo từng lần ghép đôi thành công, thay vì thu phí thuê bao hàng tháng.
+
+Ứng dụng cho nam giới đồng tính Grindr vừa giới thiệu 6 tính năng AI (gọi là gAI), bao gồm một "cánh tay phải" AI tư vấn cách bắt chuyện và tóm tắt hồ sơ. CEO George Arison cho biết các tính năng này sẽ được đóng gói trong gói thuê bao cao cấp, trực tiếp thúc đẩy doanh thu.
+
+Sự thay đổi chiến lược này còn được bảo chứng bằng việc thay máu thượng tầng.
+
+Match Group đã bổ nhiệm Spencer Rascoff (đồng sáng lập Zillow) làm CEO, người nhanh chóng tái cơ cấu công ty. Trong khi đó, nhà sáng lập Whitney Wolfe Herd cũng trở lại ghế CEO Bumble vào tháng 3 với tuyên bố: “Đây không phải là trào lưu nhất thời. Chúng tôi sẽ tăng tốc và tiến thật mạnh vào AI hẹn hò”.
+
+Mô hình kinh doanh mới và góc nhìn của nhà đầu tư
+
+Chiến lược chuyển dịch sang AI của các công ty không chỉ là một giải pháp công nghệ, nó đánh trúng vào nỗi đau lớn nhất của thị trường, đó là sự kiệt sức.
+
+Một nghiên cứu mới của Match và Viện Kinsey cho thấy gần một nửa (47%) người độc thân cảm thấy “cháy sạch năng lượng” vì hẹn hò, và 54% nói rằng các ứng dụng khiến họ kiệt quệ cảm xúc.
+
+Trong bối cảnh đó, AI được chào đón như một "trợ lý ảo" hiệu quả. Nghiên cứu chỉ ra 1/4 (26%) người độc thân đang dùng AI để cải thiện đời sống hẹn hò, tăng 333% so với năm 2024. Với gen Z, con số này lên đến gần 50%. Họ dùng AI để viết hồ sơ, tạo lời mở đầu, thậm chí kiểm tra mức độ tương hợp.
+
+"AI không thay thế sự thân mật giữa con người. Nó chỉ mang lại cho người độc thân một lợi thế", nhà tâm lý học Amanda Gesselman, chuyên gia của Viện Kinsey và Match, nhận định. "Với một thế hệ đang choáng ngợp vì quá nhiều lựa chọn, những công cụ mang lại sự rõ ràng và hiệu quả luôn được hoan nghênh".
+
+Nhiều quỹ đầu tư tiêu dùng đang tìm kiếm các startup giải quyết vấn đề cô đơn trong xã hội hiện đại, đặc biệt là ứng dụng AI để làm điều đó (Ảnh: NYT).
+
+Trong khi các ứng dụng hiện tại dùng AI để "vá" lại mô hình kinh doanh, các nhà đầu tư mạo hiểm (VC) đã nhìn thấy một tương lai hoàn toàn khác, vượt xa khái niệm "hẹn hò".
+
+Amber Atherton, đối tác tại quỹ đầu tư mạo hiểm Patron, cho rằng thế hệ tiếp theo sẽ không còn là ứng dụng hẹn hò, mà là một "Relationship OS" (hệ điều hành cho các mối quan hệ).
+
+Theo bà, các trợ lý AI tự chủ sẽ thay con người khai thác mạng lưới quan hệ và chủ động gợi mở những kết nối mới. "Nó sẽ vận hành như một hệ điều hành hỗ trợ liên tục, không ngừng mở rộng, có thể gợi ý kết nối phù hợp cho tình bạn, tình yêu hay công việc", Atherton giải thích.
+
+Các startup như Boardy ("AI siêu kết nối" cho giới chuyên nghiệp) hay Gigi (ban đầu là app hẹn hò, nay tái định vị thành "AI kết nối xã hội") đang đi đầu xu hướng này.
+
+Giới đầu tư đang đánh hơi thấy cơ hội tỷ USD. Quỹ Patron của Atherton, với các nhà sáng lập từng làm tại Riot Games và Discord, đã huy động 100 triệu USD vào năm 2024 để đầu tư vào các công nghệ giải quyết vấn đề cô đơn. Họ tin rằng một "Relationship OS" hoàn toàn có thể trở thành công ty tỷ USD tiếp theo.
+
+Ở một diễn biến khác, sự lung lay của các ông lớn cũng tạo ra cơ hội thâu tóm. Theo nguồn tin, 2 quỹ đầu tư tư nhân Francisco Partners và Permira đã tiếp cận Bumble và Grindr để bàn chuyện mua lại, với tham vọng xây dựng một danh mục đủ sức cạnh tranh với gã khổng lồ Match Group.
+
+Tương lai của tình yêu: AI se duyên, con người kết nối
+
+Cuộc cách mạng AI trong ngành hẹn hò rõ ràng là một nước đi chiến lược về kinh doanh, nhằm giải quyết bài toán kép: Sự chán nản của người dùng và sự sụt giảm doanh thu của doanh nghiệp.
+
+Vậy còn Emma Inge, người đã trả 25 USD cho "ông mai" AI thì sao?
+
+Buổi hẹn "mù" tại quán bar diễn ra tốt đẹp đáng ngạc nhiên. Họ nói chuyện suốt 2 tiếng, chia sẻ nhiều điểm chung. Anh chàng kia làm cho một công ty taxi robot - "chính là kiểu người sẽ đăng ký một dịch vụ mai mối AI", Inge nói.
+
+Cả hai trao đổi số điện thoại để hẹn buổi sau. Nhưng cuộc hẹn thứ hai không bao giờ đến. “Anh ta bốc hơi mất”, Inge cười.
+
+AI đã làm rất tốt phần việc của mình, đó là tìm ra một sự tương hợp về dữ liệu. Nhưng như Inge kết luận: "Chỉ có phần con người là không theo kịp". Đó có lẽ là rủi ro lớn nhất mà không mô hình kinh doanh hay thuật toán nào có thể tính toán hết được.
+
+Canh bạc AI của ngành công nghiệp hẹn hò có thể giải quyết được bài toán về hiệu suất và sự quá tải lựa chọn, nhưng không thể thay thế được sự phức tạp và vẻ đẹp của những kết nối chân thật.
+
+Tương lai của ngành hẹn hò không phải là một thế giới do AI vận hành hoàn toàn, mà là nơi công nghệ trở thành một "ông tơ, bà nguyệt" đắc lực, giúp con người có thêm cơ hội để tự mình viết nên những câu chuyện tình yêu.

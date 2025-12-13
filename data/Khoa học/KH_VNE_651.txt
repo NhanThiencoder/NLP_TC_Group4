@@ -1,0 +1,17 @@
+Mô hình AI Aardvark Weather giúp các nhà nghiên cứu đưa ra dự báo thời tiết nhanh và chính xác hơn nhiều hệ thống hiện nay.
+
+Trạm khí tượng trên đỉnh Cairn Gorm, Strathspey, Scotland, ngày 18/3/2025. Ảnh: Murdo MacLeod/The Guardian
+
+Một nhà nghiên cứu với máy tính bàn có thể cung cấp dự báo thời tiết chính xác nhờ sử dụng phương pháp dự đoán bằng AI mới nhanh gấp hàng chục lần và dùng ít công suất tính toán hơn hàng nghìn lần so với hệ thống thông thường, Guardian đưa tin. Dự báo thời tiết hiện nay được tạo ra thông qua một loạt giai đoạn phức tạp, mỗi giai đoạn mất vài giờ để chạy trên siêu máy tính, cần đội ngũ chuyên gia đông đảo để phát triển, bảo dưỡng và triển khai.
+
+Aardvark Weather cung cấp kế hoạch chi tiết để thay thế toàn bộ quá trình bằng cách huấn luyện AI dựa trên dữ liệu thô từ trạm khí tượng, khí cầu thời tiết, tàu thủy và máy bay trên khắp thế giới nhằm đưa ra dự đoán. Điều này cung cấp tiềm năng cải thiện đáng kể tốc độ, độ chính xác và chi phí dự đoán, theo nghiên cứu công bố hôm 20/3 trên tạp chí Nature từ Đại học Cambridge, Viện Alan Turing, Microsoft Research và Trung tâm dự báo thời tiết tầm trung châu Âu (ECMWF).
+
+Richard Turner, giáo sư học máy ở Đại học Cambridge, cho biết phương pháp trên có thể dùng để cung cấp nhanh dự báo dành riêng cho các ngành công nghiệp chuyên biệt hoặc địa điểm cụ thể, ví dụ dự đoán nhiệt độ cho nông nghiệp châu Phi hoặc tốc độ gió cho công ty năng lượng tái tạo ở châu Âu. Điều đó tương phản với hệ thống dự báo thời tiết truyền thống, trong đó việc tạo ra hệ thống tùy chỉnh đòi hỏi nhiều năm phát triển từ đội ngũ nhà nghiên cứu, còn siêu máy tính mất tới hàng giờ để xử lý kết quả đo thực tế nhằm xây dựng mô hình dự đoán.
+
+Đây là một phương pháp hoàn toàn khác biệt với những gì mọi người đã làm trước đây, theo Turner. Ông cho biết mô hình mới có thể tạo ra dự báo chính xác trước 8 ngày, so với 5 ngày như hiện nay cũng như đưa ra dự đoán có tính địa phương hóa siêu cao.
+
+Tiến sĩ Scott Hosking, giám đốc khoa học và thành tựu môi trường và bền vững ở Viện Alan Turing, nhận định đột phá AI có thể hỗ trợ những nhà làm chính sách, những người lên kế hoạch ứng phó khẩn cấp và ngành công nghiệp phụ thuộc vào dự báo thời tiết chính xác. Tiến sĩ Anna Allen, trưởng nhóm nghiên cứu ở Đại học Cambridge, nhấn mạnh phát hiện sẽ mở đường để dự báo tốt hơn các thảm họa tự nhiên như bão, cháy rừng và lốc xoáy, cũng như nhiều vấn đề thời tiết khác bao gồm chất lượng không khí, vận động đại dương và dự đoán băng biển.
+
+Aardvark Weather ra đời dựa trên nghiên cứu gần đây của Huawei, Google, và Microsoft chỉ ra một bước trong quá trình dự báo thời tiết là tính toán thời tiết tiến hóa như thế nào theo thời gian, có thể thay thế bằng AI để đưa ra dự đoán nhanh và chính xác hơn. Phương pháp này đã được triển khai bởi ECMWF. Nhóm nghiên cứu cho biết chỉ sử dụng 10% dữ liệu đầu vào mà các hệ thống hiện nay yêu cầu, Aardvark Weather có thể hoạt động tốt hơn hệ thống dự báo GFS quốc gia của Mỹ ở một số mặt và sánh ngang với dự báo của Cục thời tiết Mỹ.
+
+An Khang (Theo Guardian)

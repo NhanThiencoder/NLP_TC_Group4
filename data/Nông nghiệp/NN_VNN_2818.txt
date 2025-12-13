@@ -1,0 +1,11 @@
+Title: Đà Nẵng tham khảo bài học ứng dụng công nghiệp 4.0 cho nông nghiệp sạch
+
+Mới đây ở Đà Nẵng, trong khuôn khổ chương trình sự kiện Ứng dụng đổi mới, chuyển giao công nghệ năm 2017 đã diễn ra Diễn đàn kết nối công nghệ xanh - nông nghiệp sạch do Bộ Khoa học & Công nghệ phối hợp với Dự án hỗ trợ khu vực tư nhân vùng Mê Kông - Ngân hàng Phát triển Châu Á và Sở Khoa học & Công nghệ thành phố Đà Nẵng tổ chức.
+
+Theo Sở Khoa học & Công nghệ thành phố Đà Nẵng đưa tin, tham gia diễn đàn có các chuyên gia, các nhà khoa học, nhà quản lý, doanh nghiệp về hoạt động trong lĩnh vực nông nghiệp tại Việt Nam. Diễn đàn kết nối công nghệ xanh - nông nghiệp sạch gồm 2 phiên: "Xu hướng đầu tư và chính sách thúc đẩy ứng dụng công nghệ trong nông nghiệp Việt Nam và thế giới"; và "Bàn tròn chia sẻ Ứng dụng đổi mới công nghệ trong xây dựng chuỗi giá trị nông nghiệp".
+
+Trong thời gian thảo luận, các vị khách mời đã nêu ra rất nhiều ví dụ đáng học hỏi về ứng dụng thành quả công nghiệp 4.0 vào nông nghiệp. Như theo bà Vũ Thị Kim Hạnh - Chủ tịch Hiệp hội hàng Việt Nam chất lượng cao chia sẻ, tại TP.HCM một số doanh nghiệp trong khu nông nghiệp công nghệ cao đã ứng dụng công nghiệp 4.0 thành công trong sản xuất nông nghiệp, ví dụ Công ty Real-Time Analytics (RTA) đã cung cấp cho các nông dân phần mềm quản lý giúp nông dân quản lý tiến trình canh tác và chứng minh quy trình đã được thực hiện.
+
+Với phần mềm này, biểu mẫu thông tin đã cài sẵn kèm hướng dẫn trong smartphone, nông dân cứ theo đó ghi chép công việc hàng ngày, chụp lại loại vật tư đã dùng, khi gặp các loài côn trùng hoặc bệnh lạ cứ thế chụp lại để được tư vấn; máy sẽ tự ghi lại địa điểm, thời gian và có phương pháp xử lý thích hợp.
+
+Một trường hợp tiêu biểu khác là Tiến sỹ Nguyễn Thanh Mỹ - Việt kiều đã giúp nông dân ứng dụng Internet kết nối vạn vật, ứng dụng phao cảm biến để cảnh báo độ mặn, phèn, làm ra loại phân bón thông minh hay làm khóa IoT bỏ vào container theo dõi tình hình nông sản xuất khẩu suốt lộ trình đến thị trường…

@@ -1,0 +1,21 @@
+Nghiên cứu, công bố đầu tháng 10, đã kiểm tra 11 mô hình ngôn ngữ lớn (LLM) bằng cách yêu cầu chúng tư vấn cho người dùng trong các tình huống liên quan đến mâu thuẫn cá nhân, thao túng và lừa dối. Kết quả cho thấy, các chatbot AI thường quá dễ dãi trong việc đồng ý và ủng hộ quan điểm của người dùng, thay vì phản biện hoặc đưa ra lời khuyên trung thực.
+
+Trong số các mô hình được phân tích, DeepSeek V3 (ra mắt tháng 12/2024) là một trong những mô hình “nịnh hót” nhất, đồng tình với người dùng nhiều hơn con người tới 55%, trong khi mức trung bình của tất cả mô hình là 47%.
+
+Chatbot AI của Trung Quốc và Mỹ có xu hướng "nịnh hót" người dùng quá mức. Ảnh: LinkedIn
+
+Tương tự, mô hình Qwen2.5-7B-Instruct của Alibaba Cloud (ra mắt tháng 1/2025) được đánh giá là mô hình nịnh người dùng nhiều nhất, khi đi ngược lại phán đoán đúng của cộng đồng Reddit tới 79% số lần, đứng đầu danh sách.
+
+DeepSeek-V3 xếp thứ hai, với 76% số lần đứng về phía người đăng bài dù họ sai.
+
+Để xây dựng “chuẩn mực con người”, nhóm nghiên cứu sử dụng dữ liệu từ cộng đồng Reddit “Am I The Ahole”**, nơi người dùng đăng tải các tình huống đời thực để hỏi xem ai là người có lỗi.
+
+Khi so sánh phản ứng của AI với kết luận của cộng đồng (phần lớn là người nói tiếng Anh), các nhà nghiên cứu nhận thấy AI có xu hướng bênh vực người đăng bài, ngay cả khi họ sai rõ ràng.
+
+“Những xu hướng này tạo ra hiệu ứng ngược – khiến con người có xu hướng ưa chuộng các mô hình AI nịnh nọt và các nhà phát triển lại huấn luyện AI để nịnh nhiều hơn nhằm làm hài lòng người dùng”, nhóm tác giả cảnh báo.
+
+Hiện tượng “AI nịnh hót” không chỉ là vấn đề xã hội mà còn ảnh hưởng đến doanh nghiệp, theo giáo sư Jack Jiang, Giám đốc Phòng thí nghiệm Đánh giá AI (AI Evaluation Lab) thuộc Trường Kinh doanh Đại học Hong Kong.
+
+Ông nói: “Sẽ rất nguy hiểm nếu một mô hình liên tục đồng ý với các phân tích hoặc kết luận của chuyên gia trong doanh nghiệp. Điều đó có thể dẫn đến quyết định sai lầm hoặc thiếu kiểm chứng”.
+
+Nghiên cứu này góp phần làm sáng tỏ một vấn đề đạo đức đang nổi lên trong kỷ nguyên AI tạo sinh - khi các mô hình được thiết kế để làm hài lòng người dùng có thể hy sinh tính khách quan và sự trung thực, dẫn đến những hậu quả ngoài ý muốn trong tương tác con người - máy móc. Điều này có thể ảnh hưởng tiêu cực đến các mối quan hệ xã hội và sức khỏe tâm lý của người dùng.

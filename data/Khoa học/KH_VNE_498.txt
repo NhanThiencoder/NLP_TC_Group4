@@ -1,0 +1,33 @@
+Các nhà nghiên cứu ở Liên minh châu Âu (EU) đang sử dụng AI để điều tiết lưu thông tại những thành phố lớn, giúp môi trường đô thị trở nên an toàn và xanh hơn.
+
+Ga tàu Las Matas tại Las Rozas. Ảnh: ABC
+
+Ở ga tàu Las Matas tại thành phố Las Rozas phía bắc thủ đô Madrid của Tây Ban Nha, cuộc sống diễn ra như mọi khi. Âm thanh của đường cao tốc vọng đến khi tàu vào ga. Ở vòng xuyến phía trước nhà ga, một người bán dạo đang rao hàng trong lúc những người đi bộ hối hả bước qua giao lộ đông đúc. Tất cả dường như giống một cảnh tượng bình thường ở vùng ngoại ô Tây Ban Nha. Tuy nhiên, khách qua đường không hề biết những camera thông minh đang lặng lẽ quan sát và phân tích người đi bộ và luồng giao thông nhằm tìm hiểu cách sử dụng không gian và điều chỉnh tốt hơn, theo Phys.org.
+
+Quy hoạch thành phố thân thiện với người dùng
+
+Las Rozas là một trong những địa điểm thử nghiệm đối với các nhà nghiên cứu của sáng kiến mang tên AMIGOS, sử dụng công nghệ mới như trí tuệ nhân tạo (AI) và phân tích dữ liệu nhằm cải thiện chất lượng cuộc sống ở thành phố đông dân. Sáng kiến này hỗ trợ chặt chẽ Sứ mệnh Thành phố của EU, nhắm tới trợ giúp 112 thành phố châu Âu trở nên trung hòa khí hậu và trở thành thành phố thông minh vào năm 2030, đóng vai trò như những trung tâm đổi mới sáng tạo để biến đổi đô thị bền vững.
+
+Camera sử dụng bởi đội ngũ AMIGOS được thiết kế bởi Viện Công nghệ Áo và dựa vào AI. Điều này cho phép họ xử lý nhanh chóng thước phim trong nhiều tháng và xây dựng một bức tranh chính xác về cách sử dụng không gian trong thành phố. Thông tin thu thập được có thể giúp những nhà quy hoạch thành phố thiết kế lại không gian công cộng theo tình hình thực tế. "Dự án sẽ giúp trả lời những câu hỏi thực sự cơ bản như 'Tôi có thể để con tự đi học an toàn hay không'", Martin Krekeler, nhà chức trách ở thành phố Hamburg, Đức, điều phối đội ngũ AMIGOS, cho biết.
+
+Địa điểm thử nghiệm
+
+Ở bước đầu tiên, các nhà nghiên cứu hướng tới cải thiện độ an toàn và thoải mái của cư dân thành phố tại khu phố Las Matas, nơi một đường cao tốc tới Madrid giao nhau với ga tàu, bãi đỗ xe và nhiều con đường nhỏ. "Thành phố của chúng tôi vấp phải một số thách thức", Nuria Blanco Caballero, người làm việc cho cơ quan đổi mới sáng tạo Las Rozas Innova, chia sẻ. Las Rozas rất dàn trải. Ba đường cao tốc chạy ngang qua thành phố và có nhiều luồng giao thông đến và đi từ Madrid, do đó tương tác giữa xe cộ và người đi bộ rất lớn, đặt ra nguy cơ.
+
+Nhà chức trách đang lên kế hoạch cải tạo hoàn toàn khu vực xung quanh ga tàu Las Matas, bao gồm nhiều cải tiến an toàn, khu vực đỗ xe cho xe đạp và xe máy điện, trạm sạc điện và dịch vụ đi chung xe. Thông tin thu thập bởi camera của nhóm nghiên cứu sẽ được kết hợp với phản hồi nhận được thông qua khảo sát địa phương để cung cấp cho thiết kế cải tạo. "Một điều chúng tôi nhận thấy là người dân không phải luôn sử dụng vạch sang đường, có thể dẫn tới tình huống nguy hiểm", Blanco Caballero cho biết.
+
+Hiện nay, Las Rozas đang thiết kế lại khu vực với rào chắn an toàn bằng bê tông, vỉa hè mới và vạch kẻ đường rõ hơn. Đây là một ví dụ tốt về cách công nghệ mới có thể giúp các thành phố đưa ra quyết định thông minh phù hợp với nhu cầu của người dân.
+
+AI trong thành phố
+
+Camera AI tương tự ở Las Rozas cũng đang được triển khai tại nhiều thành phố châu Âu khác trong sáng kiến độc lập mang tên ELABORATOR, điều phối bởi tiến sĩ Angelos Amditis, giám đốc nghiên cứu và phát triển của Viện hệ thống máy tính truyền thông tại Đại học Công nghệ Quốc gia Athens. Ví dụ, ở Copenhagen, họ đang sử dụng camera thông minh để phân tích lưu lượng giao thông và kiểm tra tình huống tai nạn xảy ra hoặc suýt xảy ra.
+
+Quận Issy-les-Moulineaux ở ngoại ô Paris của Pháp đã lắp đặt hệ thống đèn giao thông chủ động theo sáng kiến. Dựa trên người sử dụng giao lộ và mức độ đông đúc, nhiều không gian được tạo ra cho người đi xe đạp và lái xe được cảnh báo. Hệ thống sử dụng Ai để quản lý tự động.
+
+Ở cả hai sáng kiến, mục tiêu của nhóm nghiên cứu là đặt ra ví dụ cho các thành phố khác noi theo. Đội ngũ AMIGOS đang làm việc chặt chẽ với 10 thành phố: Gabrova (Bulgaria), Lappeenranta (Phần Lan), Hamburg (Đức), Reykjavik (Iceland), Nazareth (Israel), Bologna (Italy), Jurmala (Latvia), Las Rozas (Tây Ban Nha), Ankara và Istanbul (Thổ Nhĩ Kỳ). Ngoài ra, họ đang làm việc với 5 thành phố khác để mô phỏng kết quả đạt được ở những thành phố lớn: Laval ở Pháp, Frankfurt và Wiesbaden ở Đức, Um-al Fahm ở Israel và Gozo ở Malta.
+
+Trong trường hợp nhóm nghiên cứu ELABORATOR, có 6 thành phố họ đang làm việc để cải thiện mức độ thoải mái và an toàn của đời sống đô thị, bao gồm Copenhagen (Đan Mạch), Helsinki (Phần Lan), Issey-les-Moulineaux (Pháp), Trikala (Hy Lạp), Milan (Italy) và Zaragoza (Tây Ban Nha). 6 thành phố khác là Split (Croatia), Liberec (Cộng hòa Czech), Ioannina (Hy Lạp), Kruševac (Serbia), Velenje (Slovenia) và Lund (Thụy Điển) sẽ học hỏi bài học từ giai đoạn đầu tiên.
+
+AI và xử lý dữ liệu là nguồn tài nguyên quý giá đối với cả hai nhóm nghiên cứu. Cư dân địa phương cũng được thông tin về các hoạt động đang tiến hành.
+
+An Khang (Theo Phys.org)

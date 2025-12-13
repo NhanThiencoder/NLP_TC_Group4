@@ -1,0 +1,37 @@
+Chỉ trong 9 giây bắn ra 3 quả đạn 155 mm bay xa tới 80 km, di chuyển 60 km/h và ‘biến mất’ khỏi vị trí trước khi đối phương kịp phản ứng, đó là lý do PzH 2000NL của Hà Lan vẫn được gọi là ‘pháo tự hành mạnh nhất hành tinh’ sau gần 30 năm. Nhưng giờ đây, thứ khiến cả thế giới quân sự phải trầm trồ không còn chỉ là hỏa lực kinh hoàng nữa, mà là lớp ‘lưới chống drone’ công nghệ cao đầu tiên trên thế giới vừa được Hà Lan chính thức gắn lên ‘vua pháo tự hành’ này vào cuối tháng 11/2025.
+
+Bí mật ‘lồng thép thông minh’ đầu tiên trên thế giới biến pháo tự hành PzH 2000NL ‘bất tử’ trước drone cảm tử. Ảnh/đồ họa: COBBS Industries/news-pravda.com
+
+Chiến trường Ukraine đã chứng minh rằng ngay cả những cỗ pháo mạnh nhất hành tinh cũng có thể bị một chiếc drone FPV vài trăm USD kết liễu trong tích tắc.
+
+Đáp trả mối đe dọa đó, cuối tháng 11/2025, Hà Lan đã chính thức trở thành quốc gia đầu tiên trên thế giới triển khai hệ thống lưới bảo vệ chống drone được thiết kế và sản xuất riêng cho pháo tự hành PzH 2000NL - vũ khí vẫn được giới chuyên gia quân sự công nhận là pháo tự hành 155mm mạnh nhất thế giới hiện nay.
+
+Pháo tự hành PzH 2000NL là phiên bản do Hà Lan sở hữu và liên tục nâng cấp từ nền tảng Panzerhaubitze 2000 do Krauss-Maffei Wegmann của Đức phát triển từ cuối thập niên 1990.
+
+Với khối lượng chiến đấu khoảng 57 tấn, hệ thống sử dụng nòng rhodium L52 dài đúng 52 khẩu độ, tức hơn 8 mét, cho phép đạt vận tốc đầu nòng trên 900 m/s với đạn tiêu chuẩn.
+
+Tầm bắn tối đa đạt 40-42 km khi dùng đạn HE-BB thông thường, 56 km với đạn tăng tầm có đáy tạo khí và có thể vượt 80 km khi bắn đạn dẫn đường có động cơ phụ như M982 Excalibur hoặc Vulcano 155 mm.
+
+Lưới chống drone của COBBS dành cho PzH 2000NL đánh dấu một sự chuyển dịch thầm lặng nhưng cực kỳ quan trọng: pháo binh giờ đây không chỉ được thiết kế để vượt tầm bắn và vượt hỏa lực đối phương, mà còn phải sống sót trong một không phận bị thống trị bởi những chiếc drone giá rẻ và tràn ngập khắp nơi. (Nguồn ảnh: Bộ Quốc phòng Hà Lan/COBBS Industries)
+
+Điều khiến pháo tự hành PzH 2000NL vẫn giữ vững danh hiệu “mạnh nhất thế giới” sau gần ba thập kỷ nằm ở tốc độ bắn khủng khiếp: 3 viên trong 9 giây đầu tiên (burst rate), duy trì 10-12 viên/phút trong nhiều phút liên tiếp và đạt tối đa 20 viên/phút ở chế độ MRSI – bắn đồng thời nhiều viên đạn với góc nâng khác nhau để tất cả cùng rơi xuống mục tiêu cùng một lúc.
+
+Không một hệ thống pháo tự hành nào hiện nay, kể cả M109A7 Paladin của Mỹ hay 2S35 Koalitsiya-SV của Nga, đạt được kỷ lục này trong thực tế khai thác.
+
+Khả năng “bắn rồi chạy” của PzH 2000NL cũng thuộc hàng xuất sắc nhất thế giới. Sau khi nhận tọa độ mục tiêu qua mạng lưới chỉ huy kỹ thuật số NATO, kíp xe chỉ 3-5 người có thể hoàn thành toàn bộ chu trình khai hỏa và rời vị trí trong vòng dưới 60 giây, khiến đối phương gần như không kịp phản pháo.
+
+Chính tốc độ và độ chính xác này đã biến PzH 2000NL thành mục tiêu săn lùng hàng đầu của drone cảm tử và đạn loitering trên chiến trường hiện đại.
+
+Để bảo vệ “vua pháo tự hành” trước mối đe dọa từ trên cao, công ty COBBS Industries của Hà Lan đã phát triển hệ thống lưới chống drone chuyên dụng đầu tiên trên thế giới dành riêng cho PzH 2000NL.
+
+Pháo tự hành mạnh nhất thế giới PzH 2000NL của Hà Lan. Ảnh: BQP Hà Lan
+
+Theo thông tin được Army Recognition và Defence Blog công bố ngày 24-25/11/2025, đây không phải là những “cope cage” hàn tay thô sơ như ở Ukraine, mà là sản phẩm công nghiệp được thiết kế theo hình học chính xác, bao phủ toàn bộ nóc tháp pháo và phần thân xe dễ bị tấn công nhất.
+
+Lưới sử dụng vật liệu composite nhẹ kết hợp dây thép cường độ cao, đủ để kích hoạt đầu đạn của drone FPV trước khi chúng chạm vào giáp chính, đồng thời không làm giảm đáng kể khả năng xoay tháp pháo 360 độ hay tốc độ di chuyển tối đa 60 km/h trên đường bằng.
+
+Việc Hà Lan tiên phong lắp đặt lưới chống drone chuyên dụng cho PzH 2000NL không chỉ là một nâng cấp đơn thuần, mà còn đánh dấu bước ngoặt trong cách các quân đội NATO bảo vệ pháo binh hạng nặng trước chiến tranh drone giá rẻ.
+
+Kết hợp cùng kế hoạch tích hợp pháo phòng không tự hành Skyranger 30 trên khung gầm Boxer, lực lượng pháo binh Hà Lan đang xây dựng một lớp phòng thủ nhiều tầng thực sự khiến đối phương phải đau đầu.
+
+Với hỏa lực vượt trội, tốc độ bắn chưa đối thủ nào đuổi kịp và giờ đây là lớp áo giáp chống drone hiện đại nhất, PzH 2000NL không chỉ giữ vững ngôi “vua pháo tự hành” mà còn chứng minh rằng ngay cả những cỗ máy hoàn hảo nhất cũng phải không ngừng tiến hóa để sống sót trên chiến trường thế kỷ 21.

@@ -1,0 +1,22 @@
+Title: AI hỗ trợ Tổng điều tra nông thôn, nông nghiệp 2025
+
+Cuộc Tổng điều tra nông thôn, nông nghiệp diễn ra 10 năm một lần, là hoạt động then chốt giúp Chính phủ đánh giá toàn diện hiện trạng phát triển nông thôn, sản xuất nông nghiệp và đời sống dân cư. Khối lượng công việc khổng lồ, hàng nghìn trang tài liệu nghiệp vụ cùng với việc huy động hơn 10.000 điều tra viên đã tạo ra thách thức với công tác điều phối và đảm bảo độ chính xác của dữ liệu.
+
+Trước đây, quy trình hỗ trợ điều tra viên chủ yếu diễn ra thủ công: tra cứu tài liệu giấy, nhắn tin qua các nhóm Zalo, hoặc gọi điện tới giám sát viên để được giải đáp, có thể kéo dài thời gian xử lý.
+
+Để giải quyết những thách thức này, Cục Thống kê đã lựa chọn hợp tác cùng Tập đoàn FPT triển khai Trợ lý ảo tra cứu thông tin FPT AI Agents trong thời gian từ 1/7 - 1/10/2025, nhằm giúp các điều tra viên tra cứu nhanh các tài liệu về chính sách, nghị định, quy định phục vụ cuộc tổng điều tra. Giải pháp này được tích hợp trực tiếp vào ứng dụng CAPI (Computer-Assisted Personal Interviewing) - công cụ tác nghiệp chính của điều tra viên, đồng thời cung cấp trang tin điện tử chuyên dụng giúp việc tra cứu thông tin, đặt câu hỏi và nhận hỗ trợ trở nên nhanh chóng và thuận tiện hơn.
+
+Nền tảng FPT AI Agents được phát triển dựa trên công nghệ xử lý ngôn ngữ tự nhiên (NLP) tiên tiến và công cụ tìm kiếm ngữ nghĩa thông minh, giúp hệ thống hiểu chính xác câu hỏi được đặt ra bằng ngôn ngữ tự nhiên, trích xuất đúng nội dung từ kho tài liệu chính thức và trả lời tức thì. Được thiết kế để hoạt động liên tục 24/7, AI Agents bảo đảm mọi thông tin hướng dẫn được đồng bộ trên toàn quốc, hạn chế tối đa sự sai lệch và khác biệt giữa các địa phương.
+
+Trong cuộc Tổng điều tra 2025, FPT AI Agents đóng vai trò như một đồng nghiệp ảo đáng tin cậy. Hệ thống đảm nhận nhiều nhiệm vụ quan trọng như trả lời nhanh các câu hỏi nghiệp vụ, cung cấp chỉ dẫn từng bước trong quy trình khảo sát, trích xuất mẫu biểu và quy định chỉ trong vài giây, thay vì hàng giờ tra cứu thủ công. AI Agents còn giúp giảm tới 60% khối lượng công việc của giám sát viên bằng cách tự động phản hồi các câu hỏi phổ biến, từ đó giúp giám sát viên tập trung kiểm soát chất lượng dữ liệu và điều phối nhân sự. Đặc biệt, tính năng hỗ trợ theo ngữ cảnh cho phép AI hiểu biểu mẫu mà điều tra viên đang làm việc và đưa ra hướng dẫn phù hợp ngay trong quá trình nhập liệu.
+
+Giao diện hệ thống của Trợ lý ảo tra cứu thông tin FPT AI Agents. Ảnh: FPT
+
+Trợ lý ảo tra cứu thông tin FPT AI Agents mang lại những lợi ích vượt trội cho ngành thống kê, giúp tiết kiệm hàng nghìn giờ làm việc, nâng cao hiệu suất và độ chính xác của quá trình thu thập dữ liệu. Thông tin được chuẩn hóa và kiểm tra logic ngay khi nhập liệu, hạn chế sai sót và sự khác biệt trong cách hiểu quy định giữa các địa phương. Nhờ khả năng cập nhật và đồng bộ hóa tức thì trên phạm vi toàn quốc, dữ liệu thống kê trở nên minh bạch và đáng tin cậy hơn. Giải pháp này được kỳ vọng đặt nền móng cho số hóa toàn diện ngành thống kê Việt Nam, mở ra hướng đi mới trong quản lý dữ liệu thông minh và ứng dụng trí tuệ nhân tạo sâu rộng trong các cuộc điều tra thống kê quốc gia tương lai.
+
+Ông Ngô Xuân Bách - Giám đốc Khối Sản phẩm AI, FPT Smart Cloud chia sẻ: “FPT.AI đang đồng hành cùng đất nước trên hành trình chuyển đổi số bằng cách giải quyết những bài toán phức tạp của cơ quan Nhà nước. FPT AI Agents không chỉ giúp tối ưu hiệu quả điều tra mà còn mở ra cách tiếp cận mới thông minh, chính xác và nhanh chóng hơn, góp phần đưa ngành thống kê Việt Nam tiến gần hơn tới mô hình quản lý dữ liệu hiện đại và minh bạch.”
+
+Trong tương lai, AI Agents có thể trở thành một công cụ AI đa nhiệm, tự động hóa toàn bộ quá trình đào tạo điều tra viên, kiểm tra và làm sạch dữ liệu theo thời gian thực, hỗ trợ phân tích chuyên sâu giúp lãnh đạo ra quyết định chính xác và nhanh chóng hơn. Theo đại diện FPT, doanh nghiệp sẵn sàng đồng hành cùng các cơ quan nhà nước nói chung và ngành thống kê Việt Nam nói riêng trên hành trình chuyển đổi số, đồng thời đẩy mạnh triển khai giải pháp AI Agents tại 7 bộ, ban, ngành trọng điểm theo Nghị quyết 57, góp phần hiện thực hóa mục tiêu xây dựng chính phủ số và nền tảng dữ liệu quốc gia thông minh.
+
+
+Bích Đào

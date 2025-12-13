@@ -1,0 +1,17 @@
+Ngày 27/10, Phó Chủ tịch UBND TPHCM Trần Thị Diệu Thúy đã ký ban hành Kế hoạch triển khai Chương trình phổ cập trí tuệ nhân tạo cho công dân (AI for Citizens) giai đoạn 2025-2030.
+
+Kế hoạch không chỉ nhằm phổ cập AI, trang bị kiến thức cơ bản về AI mà còn trang bị kỹ năng ứng dụng AI vào đời sống, công việc, và học tập cho toàn bộ người dân, từ công chức, viên chức, người lao động đến học sinh, sinh viên, qua đó góp phần xây dựng nguồn nhân lực thích ứng với thành phố thông minh và kinh tế số.
+
+Trọng tâm của kế hoạch là TPHCM xây dựng được 1 nền tảng học AI trực tuyến (MOOC) - Ảnh minh họa từ Google Studio
+
+Điểm mấu chốt tạo nên sự quan tâm đối với kế hoạch của TPHCM là mục tiêu số lượng người được đào tạo. Thành phố đặt ra các cột mốc cụ thể, bắt đầu từ giai đoạn 2026-2027, mỗi năm đào tạo kiến thức về AI cho ít nhất 1% dân số thành phố. Đến cuối năm 2027, con số tích lũy sẽ đạt 2% dân số.
+
+Giai đoạn 2028-2030 sẽ chứng kiến sự tăng tốc mạnh mẽ: Thành phố dự kiến đào tạo ít nhất 5% dân số mỗi năm, tức khoảng hơn 600.000 người. Mục tiêu đến năm 2030, chương trình sẽ tiếp cận được 15% dân số (khoảng 2 triệu người).
+
+Kế hoạch cũng đặt yêu cầu 80% người học phải có khả năng ứng dụng ít nhất một công cụ AI vào công việc hoặc đời sống sau khi hoàn thành khóa học.
+
+Để đạt được các mục tiêu trên, UBND thành phố sẽ triển khai một loạt nhiệm vụ trọng tâm. Về nội dung đào tạo, kế hoạch nhấn mạnh việc phổ cập kiến thức không yêu cầu lập trình hay toán học phức tạp. Nội dung phải thực tế, dễ hiểu, được minh họa bằng các ví dụ thực tế và các ứng dụng AI đang triển khai ngay trên địa bàn thành phố. Đặc biệt, chương trình sẽ chú trọng tích hợp nội dung về đạo đức và an toàn khi sử dụng AI.
+
+Về phương thức thực hiện, bên cạnh các lớp học ngắn hạn (2-4 buổi/lớp) được tổ chức trực tiếp tại các cơ quan, nhà văn hóa hay UBND phường xã, thì trọng tâm là thành phố phải xây dựng 1 nền tảng học AI trực tuyến (MOOC). Nền tảng này được thiết kế để đáp ứng tiêu chuẩn truy cập (WCAG), thân thiện với người lớn tuổi và người ít dùng công nghệ, đồng thời tích hợp chức năng đăng nhập một lần (SSO) với tài khoản VNeID.
+
+Kế hoạch cũng đặt trọng tâm công tác truyền thông, với mục tiêu phấn đấu đạt tỷ lệ 50% người dân hiểu đúng về AI và quan tâm đến chương trình, cùng với khoảng 1 triệu lượt tiếp cận AI trên truyền hình và nền tảng số.

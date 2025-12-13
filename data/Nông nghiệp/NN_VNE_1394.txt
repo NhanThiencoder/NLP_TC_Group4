@@ -1,0 +1,17 @@
+Ngành kiểm toán siết bảo đảm an ninh mạng nhằm bảo vệ dữ liệu phục vụ các cuộc kiểm toán về ngân sách, tài chính và tài sản công.
+
+Tại hội nghị diễn tập thực chiến an toàn thông tin ngày 23/9, Phó tổng Kiểm toán Nhà nước Bùi Quốc Dũng cho biết cơ quan này lưu trữ khối lượng lớn dữ liệu về ngân sách, tài chính và tài sản công. Do đó, hệ thống công nghệ thông tin của kiểm toán là hạ tầng dữ liệu quan trọng quốc gia.
+
+"Việc bảo đảm an toàn thông tin sẽ giúp bảo vệ dữ liệu và sự minh bạch, công khai", ông Dũng nói.
+
+Phó tổng Kiểm toán Nhà nước Bùi Quốc Dũng tại hội nghị, ngày 23/9. Ảnh: Anh Đức
+
+Cuộc diễn tập an toàn thông tin của Kiểm toán Nhà nước mô phỏng nhiều kịch bản tấn công thực tế. Theo đó, họ phát hiện một số lỗ hổng kỹ thuật và tình trạng người dùng bị đánh lừa bởi email giả mạo. Điều này, theo lãnh đạo cơ quan kiểm toán, cho thấy việc bảo đảm hệ thống an toàn thông tin luôn là thách thức bởi còn phụ thuộc một phần vào ý thức người dùng.
+
+Phó tổng Kiểm toán Nhà nước yêu cầu các đơn vị khắc phục ngay các lỗ hổng, nâng cấp hệ thống an toàn thông tin lên cấp độ 4 - mức độ cao nhất với hệ thống thông tin của các bộ ngành không thuộc khối an ninh, quốc phòng. Cơ quan này cũng tăng giải pháp kiểm soát truy cập và tổ chức đào tạo, tập huấn để nâng ý thức bảo mật cho toàn ngành.
+
+Cơ quan kiểm toán siết an toàn thông tin trong bối cảnh chuyển đổi số, Việt Nam đồng thời đối mặt với những nguy cơ mất an toàn thông tin và an ninh mạng. Theo thống kê từ Viettel Threat Intelligence, nửa đầu năm nay cả nước ghi nhận hơn 8,5 triệu tài khoản bị đánh cắp, gần 530.000 cuộc tấn công DDoS và 191 vụ rò rỉ dữ liệu với hơn 3 tỷ bản ghi bị ảnh hưởng. Con số này tăng gấp ba lần so với cùng kỳ năm 2024.
+
+VNPT Cyber Immunity ước tính các vụ tấn công bằng mã độc tống tiền đã gây thiệt hại hơn 10 triệu USD. Các lĩnh vực tài chính - ngân hàng, viễn thông, công nghệ và dịch vụ công là mục tiêu chính. Gần nhất, vụ tin tặc tấn công Trung tâm Thông tin tín dụng quốc gia (CIC) thuộc Ngân hàng Nhà nước, có dấu hiệu chiếm đoạt dữ liệu cá nhân, được VNCERT xác nhận và đang điều tra.
+
+Phương Dung

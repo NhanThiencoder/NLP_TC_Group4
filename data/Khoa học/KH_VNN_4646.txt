@@ -1,0 +1,28 @@
+Không cần đến siêu anh hùng hay bối cảnh viễn tưởng, Brother Hai's Pho Restaurant (Tiệm Phở của Anh Hai) - một tựa game do sinh viên Việt tự phát triển - đang khiến cộng đồng mạng xôn xao chỉ với một quán phở quen thuộc.
+
+Bối cảnh chính của game Brother Hai's Pho Restaurant (Tiệm Phở của Anh Hai). Ảnh chụp màn hình.
+
+Trò chơi mở đầu đơn giản: người chơi hóa thân thành Anh Hai, chủ tiệm phở nằm ở địa chỉ hư cấu số 10 Đan Phượng (Hà Nội).
+
+Ban ngày, họ chỉ cần nấu phở, phục vụ khách và trông coi quán nhưng khi đêm xuống, không gian ấy lại chuyển mình - ánh đèn chập chờn, tiếng bước chân lạ, những vị khách bất ngờ quay lại - và câu chuyện dần hé lộ một lớp bí ẩn khiến người chơi vừa tò mò, vừa lạnh gáy.
+
+Một số hình ảnh trong game
+
+Game được phát triển bằng Godot Engine và phát hành miễn phí trên itch.io, hỗ trợ cả tiếng Việt lẫn tiếng Anh. Dù chỉ là sản phẩm độc lập, trò chơi đã nhanh chóng trở thành hiện tượng trên mạng xã hội, khi những cụm từ như “Phở Anh Hai” hay “10 Đan Phượng” liên tục lọt top tìm kiếm Google.
+
+Điều khiến “Tiệm Phở của Anh Hai” khác biệt không nằm ở kỹ xảo hay đồ họa, mà ở bối cảnh thuần Việt. Mỗi chi tiết nhỏ đều gợi lên ký ức thân thuộc: ghế nhựa xanh, lọ đũa trên bàn, biển hiệu đỏ chữ vàng, tờ rơi khoan cắt bê tông, hay khẩu hiệu phòng chống ma túy trên bức tường cũ. Thứ “chất liệu Việt” ấy khiến người chơi có cảm giác như mình đang ngồi trong chính một quán phở đầu ngõ.
+
+Nếu đang tìm một trò chơi vừa nhẹ nhàng, vừa có chiều sâu văn hóa, vừa có chút “rợn” và bất ngờ, Tiệm Phở của Anh Hai là lựa chọn thú vị. Game cho thấy các nhà phát triển người Việt có thể dùng chính những trải nghiệm và ký ức ẩm thực, đời sống quen thuộc để tạo nên một tác phẩm độc lập gây tiếng vang.
+
+Cách tải game Brother Hai's Pho Restaurant (Tiệm Phở của Anh Hai) miễn phí trên máy tính
+
+
+Game miễn phí nhưng người dùng có thể ủng hộ nhà phát triển bằng tiền mặt. Bấm No thanks để tải game mà không ủng hộ.
+
+Game có phiên bản cho Windows và Linux, mỗi phiên bản dung lượng hơn 1GB.
+
+Bấm vào file tải tùy thuộc bạn đang dùng Windows hay Linux
+
+Sau khi tải về, tiến hành giải nén file.
+
+Hai tập tin sau khi giải nén.

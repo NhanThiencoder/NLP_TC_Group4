@@ -1,0 +1,49 @@
+Dạy AI từ tiểu học: Cần thiết nhưng nên cẩn trọng
+
+Từ tháng 12/2025, Bộ GD-ĐT dự kiến thí điểm đưa nội dung về trí tuệ nhân tạo (AI) vào chương trình giáo dục phổ thông từ lớp 1 đến lớp 12. Đây là một chủ trương lớn, thể hiện rõ tầm nhìn của Đảng và Chính phủ về chuyển đổi số và ứng dụng công nghệ AI trong giáo dục.
+
+Theo PGS.TS Nguyễn Chí Thành, Trưởng khoa Sư phạm, Trường ĐH Giáo dục, Đại học Quốc gia Hà Nội, việc đưa AI vào trường học từ sớm là cần thiết để trang bị năng lực số cốt lõi cho học sinh. Đặc biệt là thế hệ Z, những "công dân bản địa số" cần được trang bị kiến thức để trở thành người tiêu dùng công nghệ thông thái, tránh sử dụng công nghệ một cách bị động hoặc không đúng cách.
+
+"Chủ trương này phù hợp với xu hướng toàn cầu, nơi nhiều quốc gia đã đưa nội dung AI vào giáo dục phổ thông".
+
+Theo ông Thành, khung giáo dục AI mà Bộ GD-ĐT đưa ra có tính liên tục và hệ thống với khung năng lực số mà Bộ GD-ĐT đã ban hành vào tháng 2/2025 - trong đó có 6 miền năng lực và một miền năng lực về AI. Điều này thể hiện một sự tiếp nối chiến lược và một lộ trình phát triển kỹ năng số liền mạch cho học sinh.
+
+Khung năng lực AI tập trung vào khả năng hiểu, ứng dụng và làm việc với các hệ thống AI. Đáng chú ý là việc lấy con người làm trung tâm, đề cao đạo đức AI. Điều này giúp học sinh không chỉ sử dụng công nghệ tốt mà còn có trách nhiệm số, chống lại nguy cơ gian lận và ảo tưởng về hiệu quả khi lạm dụng AI.
+
+Ủng hộ đưa AI vào giáo dục phổ thông từ sớm, song PGS.TS Nguyễn Chí Thành cho rằng triển khai cần thận trọng và phù hợp với tâm sinh lý, trình độ của học sinh.
+
+Sở dĩ, một bộ phận phụ huynh lo ngại đưa AI vào giáo dục phổ thông sớm – từ cấp tiểu học - xuất phát từ hình dung AI gắn với các thuật toán phức tạp. Tuy nhiên, nội dung AI mà Bộ GD-ĐT dự kiến đưa vào cấp học này sẽ có những hoạt động mang tính trải nghiệm, ứng dụng đơn giản và gần gũi, tập trung vào các hiểu biết cơ bản.
+
+Ví dụ dạy cách máy tính nhận diện khuôn mặt, phân loại đồ vật, sử dụng các ứng dụng AI đơn giản để sáng tạo…PGS.TS Nguyễn Chí Thành cho rằng điều này hoàn toàn có thể và phù hợp với học sinh.
+
+Tuy nhiên, ông nhấn mạnh những thách thức khi triển khai. Trong đó, bồi dưỡng giáo viên được xem là thách thức lớn nhất. Đặc biệt, chúng ta không có giáo viên dạy môn AI riêng mà cần bồi dưỡng giáo viên ở nhiều môn học khác nhau.
+
+Trong khi đó hiện nay, nhiều giáo viên đang tự mày mò tìm hiểu AI chứ chưa có chương trình bồi dưỡng chính thống. Việc này đòi hỏi trang bị cần trang bị cho giáo viên năng lực sư phạm số và kiến thức AI chuyên sâu.
+
+Bên cạnh đó, giữa các vùng miền hiện nay còn tồn tại “khoảng cách số”. PGS.TS Nguyễn Chí Thành nêu thực tế, những vùng truy cập internet khó khăn hoặc giáo viên chưa có điều kiện sử dụng công nghệ, việc dạy học sinh sử dụng AI sẽ là cả một vấn đề.
+
+Khi triển khai khung năng lực AI, nội dung phải có sự cá biệt hóa, cá nhân hóa sâu sắc theo từng độ tuổi. Cần tránh tạo thành một môn học mới nặng về lý thuyết. Điều này chúng ta đã có kinh nghiệm trong dạy học STEM.
+
+Lâu nay, khi đưa vào giảng dạy STEM không phải là môn học riêng nhưng được tích hợp trong các bài học, CLB khác nhau. Ông Thành cho rằng triển khai AI ở phổ thông cũng nên như vậy. Theo đó, AI có thể được triển khai theo nhiều hình thức, như tích hợp trong các môn học, qua các CLB, chủ đề và cần chú ý đến tính xã hội hóa của nhà trường.
+
+Để tránh quá tải, cần tận dụng chính AI để giảm tải công việc hành chính của giáo viên. Họ có thể sử dụng AI trong công tác chuyên môn như: kiểm tra đánh giá, thiết kế bài dạy, thiết kế học liệu. Bên cạnh đó, giáo viên cũng cần tận dụng AI trong công việc hành chính như: nhận xét học sinh, giao tiếp với phụ huynh, làm việc với đối tác xã hội…Để làm được điều này, thầy cô phải được đào tạo, tập huấn về việc sử dụng AI một cách hiệu quả.
+
+Nếu thiết kế các hệ thống bài tập thích ứng để học sinh tự xem video và tự đánh giá mức độ hiểu biết của mình. Khi lên lớp, giáo viên chỉ cần chốt lại kiến thức hoặc cho học sinh thảo luận, giúp hình thức học không bị nặng nề. Tất nhiên, việc thiết kế hệ thống bài tập này cần phù hợp với lứa tuổi học sinh.
+
+"Khi giao thêm nhiệm vụ này, cần có cơ chế, chính sách phù hợp cho giáo viên để họ không cảm thấy bị thêm việc mà đồng lương không thay đổi. Cán bộ quản lý cũng cần được tập huấn để triển khai công việc này".
+
+PGS.TS Nguyễn Chí Thành nhận xét, việc đưa AI vào giáo dục phổ thông lần này Bộ GD-ĐT đã có kế hoạch sớm, dựa trên các nghiên cứu trước đó của các viện khoa học giáo dục và cơ sở đào tạo giáo viên.
+
+Quá trình thí điểm cần phải theo dõi, đánh giá ngay trong quá trình thí điểm để rút kinh nghiệm. Hiện nay Bộ GD-ĐT chưa nói rõ thí điểm ở trường nào song theo ông Thành cần chọn các mô hình trường học đa dạng để phù hợp thực tiễn ở cả thành thị, nông thôn, vùng sâu vùng xa….Từ đó, có tọa đàm, hội thảo đánh giá quá trình triển khai trước khi nhân rộng.
+
+Từ thực tế của các quốc gia đi trước, ông Thành nhấn mạnh lộ trình cẩn trọng. Đơn cử như Hàn Quốc, sau 4 tháng triển khai nội dung AI trong trường phổ thông đã tạm ngừng để đánh giá và rút kinh nghiệm. Cần có sự đồng hành của các chuyên gia, nhà khoa học, thầy cô và cán bộ quản lý trong quá trình triển khai, đánh giá.
+
+Khung nội dung giáo dục AI cho học sinh được phát triển dựa trên 4 mạch kiến thức chính, gồm: tư duy lấy con người làm trung tâm, đạo đức AI, các kỹ thuật và ứng dụng AI, thiết kế hệ thống AI.
+
+Các kiến thức sẽ phân hóa theo tâm sinh lý lứa tuổi ở hai giai đoạn: giáo dục cơ bản (tiểu học và THCS) và định hướng nghề nghiệp (THPT).
+
+Ở bậc tiểu học, học sinh được làm quen, nhận biết AI qua các ứng dụng trực quan (hình ảnh, giọng nói), bước đầu hình thành ý thức bảo vệ dữ liệu cá nhân. Từ đó, các em tìm hiểu nguyên lý hoạt động, thực hành sử dụng AI để giải quyết các vấn đề trong học tập và nhận diện các rủi ro, thiên kiến của AI ở cấp THCS.
+
+Tới THPT, học sinh được dạy thiết kế các hệ thống AI đơn giản, phát triển tư duy giải quyết vấn đề phức tạp và định hướng nghề nghiệp trong lĩnh vực công nghệ.
+
+VOV.VN - Dự án Bình dân học AI không chỉ dành cho các chuyên gia công nghệ mà còn hướng tới nông dân, công nhân, học sinh, sinh viên và những người làm các ngành nghề khác nhau.

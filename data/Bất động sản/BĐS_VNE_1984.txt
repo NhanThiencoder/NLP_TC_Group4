@@ -1,0 +1,3 @@
+Chủ nhà chọn mảnh đất vì bị thu hút bởi hình dạng bất thường, không gian nhỏ gọn và sự riêng tư do địa hình tạo ra.
+
+Nhu cầu gia chủ đặt ra là tạo một không gian biệt lập, phục vụ cho công việc sáng tạo, ưu tiên sự tập trung và yên tĩnh. Đáp ứng yêu cầu đó, nhóm thiết kế đã triển khai ý tưởng "xếp lớp không gian" (layering).

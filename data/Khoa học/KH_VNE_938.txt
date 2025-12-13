@@ -1,0 +1,21 @@
+Các nhà khoa học phát triển bóng bán dẫn sử dụng vật liệu bismuth thay vì silicon truyền thống, giúp tăng tốc độ và giảm tiêu thụ năng lượng.
+
+Đại học Bắc Kinh phát triển công nghệ sản xuất bóng bán dẫn mới cho chip. Ảnh: iStock
+
+Nhóm nghiên cứu tại Đại học Bắc Kinh tuyên bố tạo ra bước đột phá trong công nghệ chip, có khả năng định hình lại cuộc đua chất bán dẫn, Interesting Engineering hôm 11/3 đưa tin. Nghiên cứu mới xuất bản trên tạp chí Nature Materials.
+
+Bóng bán dẫn (transistor) 2D do nhóm phát triển được cho là nhanh hơn 40% chip silicon 3 nanomet mới nhất của Intel và TSMC, trong khi tiêu thụ năng lượng ít hơn 10%. Website của Đại học Bắc Kinh mô tả, đây là bóng bán dẫn nhanh nhất, hiệu quả nhất từ trước đến nay. Theo nhóm nghiên cứu, sự đổi mới này có thể cho phép Trung Quốc vượt qua hoàn toàn những thách thức của việc sản xuất chip dựa trên silicon.
+
+Khác với bóng bán dẫn silicon truyền thống, vốn khó thu nhỏ và đạt hiệu quả năng lượng cao ở quy mô cực nhỏ, thiết kế mới giúp tránh được những hạn chế này. Theo giáo sư hóa lý Peng Hailin, trưởng nhóm nghiên cứu, các lệnh trừng phạt từ Mỹ đã hạn chế khả năng tiếp cận của Trung Quốc với những bóng bán dẫn silicon tiên tiến nhất, thúc đẩy các nhà nghiên cứu Trung Quốc tìm kiếm giải pháp thay thế.
+
+Trong nghiên cứu mới, nhóm chuyên gia phát triển bóng bán dẫn hiệu ứng trường cổng bao quanh (GAAFET) sử dụng vật liệu gốc bismuth. Thiết kế này là một sự thay đổi đáng kể so với cấu trúc bóng bán dẫn hiệu ứng trường dạng vây (FinFET), vốn là tiêu chuẩn phổ biến kể từ khi được Intel thương mại hóa vào năm 2011.
+
+Cấu trúc GAAFET mới không cần đến "vây" như trong thiết kế FinFET, cho phép tăng diện tích tiếp xúc giữa cổng và kênh. Nhóm nghiên cứu so sánh sự thay đổi này với việc đổi các tòa nhà cao tầng thành cầu liên kết, giúp electron di chuyển dễ dàng hơn.
+
+Để tối ưu hóa hiệu suất hơn nữa, nhóm nghiên cứu sử dụng vật liệu bán dẫn 2D. Những vật liệu này có độ dày nguyên tử đồng đều và tính di động cao hơn silicon, là giải pháp thay thế khả thi cho chip thế hệ tiếp theo. Tuy nhiên, những nỗ lực sử dụng vật liệu 2D trong bóng bán dẫn trước đây gặp phải thách thức về cấu trúc, làm hạn chế hiệu quả của chúng.
+
+Để vượt qua trở ngại này, nhóm chuyên gia từ Đại học Bắc Kinh chế tạo vật liệu gốc bismuth mới, Bi2O2Se và Bi2SeO5, đóng vai trò là vật liệu bán dẫn và oxit hằng số điện môi cao. Hằng số điện môi cao của các vật liệu này giúp giảm tổn thất năng lượng, giảm yêu cầu về điện áp và tăng cường sức mạnh tính toán trong khi giảm mức tiêu thụ năng lượng.
+
+Các nhà nghiên cứu đã chế tạo bóng bán dẫn thử nghiệm bằng nền tảng xử lý có độ chính xác cao của Đại học Bắc Kinh. Kết quả cho thấy, giao diện vật liệu Bi2O2Se/Bi2SeO5 có ít lỗi hơn và dòng electron di chuyển mượt mà hơn so với các giao diện oxit - bán dẫn hiện nay. Nhóm nghiên cứu đang tiến đến mở rộng quy mô sản xuất và hiện đã chế tạo những đơn vị logic nhỏ bằng loại bóng bán dẫn mới.
+
+Thu Thảo (Theo Interesting Engineering)

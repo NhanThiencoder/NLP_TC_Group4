@@ -1,0 +1,11 @@
+Nhóm chế tạo FireBot làm việc với các sở cứu hỏa bang Texas (Mỹ) - Ảnh: CNN
+
+Theo Đài CNN ngày 9-11, FireBot do start-up Paradigm Robotics của ông Siddhart Thakur, cựu sinh viên Đại học Texas, phát triển. Ý tưởng chế tạo robot xuất phát từ vụ cháy 13 năm trước khiến năm lính cứu hỏa thiệt mạng, trong đó có hai người quen của ông Thakur.
+
+Sau nhiều lần cải tiến, FireBot hiện nặng 136kg và dài 1,2m, làm từ thép không gỉ, vonfram và titanium. Robot chịu được nhiệt độ đến 650°C trong 15 phút, kháng hóa chất ăn mòn và chịu được va chạm mạnh, kể cả khi sập mái công trình.
+
+FireBot trang bị camera nhiệt và cảm biến khí gas, truyền video và dữ liệu nhiệt trực tiếp từ bên trong khu vực cháy. So với các robot cứu hỏa lớn như Thermite RS3 (Mỹ) hay Colossus (Pháp), FireBot nhỏ gọn hơn, tập trung vào nhiệm vụ thu thập thông tin thay vì dập lửa.
+
+Paradigm Robotics đã phối hợp với các sở cứu hỏa ở Texas để hoàn thiện thiết kế. Robot đặc biệt hữu ích trong các vụ cháy có vật liệu nguy hiểm, giúp lực lượng bên ngoài nắm bắt tình hình thực tế nhanh chóng.
+
+Công ty đang tiếp tục thử nghiệm, hướng tới mục tiêu trang bị FireBot trên mọi xe cứu hỏa tại Mỹ, góp phần bảo đảm an toàn hơn cho lính cứu hỏa trong khi làm nhiệm vụ.

@@ -1,0 +1,59 @@
+Đối với nhiều người, tấm bằng thạc sĩ là chặng cuối của một hành trình học tập dài. Nhưng đối với doanh nhân đầy tham vọng như Morten Versvik, đây là cơ hội để phát triển một công nghệ có thể cách mạng hoá việc học tập trên toàn cầu.
+
+Versvik là nhà đồng sáng lập và hiện là giám đốc công nghệ của Kahoot, nền tảng học tập thông qua trò chơi nổi tiếng toàn cầu. Công ty được hậu thuẫn bởi một số nhà đầu tư nổi tiếng như SoftBank, Microsoft và Disney. Versvik và giáo sư khoa học máy tính của anh đã phát triển phiên bản đầu tiên của Kahoot vào năm 2006. Mục đích ban đầu là để làm cho các lớp học hấp dẫn hơn với sinh viên.
+
+Trong vòng vài năm, ý tưởng ban đầu của họ đã trở thành Kahoot, một công ty công nghệ giáo dục trị giá 5,7 tỷ USD. Theo CNBC, 87% những đại học top đầu thế giới và 97% các công ty trong danh sách Fortune 500 sử dụng Kahoot. Trong năm 2020, có hơn 9 triệu giáo viên sử dụng Kahoot để tổ chức trò chơi.
+
+Kahoot là một trò chơi có dạng câu hỏi trắc nghiệm. Giáo viên hoặc những người thuyết trình thường sẽ là người đặt ra những câu hỏi. Người tổ chức chia sẻ câu hỏi trên màn hình và người chơi nhập đáp án của họ thông qua thiết bị cá nhân như điện thoại di động hoặc máy tính xách tay.
+
+Tại Việt Nam, với những đổi mới về áp dụng công nghệ thông tin trong giáo dục và đào tạo, Kahoot dần đang được đưa vào trong các lớp học. Nền tảng này được sử dụng như một công cụ đắc lực cho giáo viên, hỗ trợ kiểm tra đánh giá, ôn tập kiến thức để nâng cao chất lượng dạy và học. Song song với đó, học sinh và sinh viên cũng cảm thấy hứng thú với phương pháp "chơi mà học" này.
+
+Versvik chia sẻ rằng hành trình đi từ thời đại học đến khi Kahoot thành công như hôm nay không hề dễ dàng.
+
+Đội ngũ sáng lập của Kahoot!: Morten Versvik (thứ hai từ trái sang) và Giáo sư Alf Inge Wang (thứ ba từ trái sang). Ảnh: Ole Morten Melgård/CNBC
+
+Thay đổi lớp học
+
+Versvik tạo ra công nghệ cho Kahoot khi đang nghiên cứu để lấy bằng Thạc sĩ tại Đại học Công nghệ và Khoa học Na Uy (NTNU).
+
+Versvik cho biết ý tưởng đằng sau nền tảng này là khuyến khích sự tham gia và sự cạnh tranh cho mọi học sinh.
+
+Để phát triển hơn nữa ý tưởng đó, Versvik đã gặp giáo sư Alf Inge Wang, người tạo ra trò chơi cho các rạp chiếu phim. Bộ đôi đã cùng cộng tác với nhau để hiện thực hoá ý tưởng đó.
+
+Những ngày trước khi có iPhone
+
+Versvik và giáo sư Wang muốn phát triển một trò chơi có một màn hình chung lớn và nhiều người có thể chơi cùng nhau, thay vì chỉ chú ý vào các thiết bị cá nhân. Ý tưởng đầu tiên của họ có tên "Lecture Quiz". Khi Versvik và giáo sư Wang có một mẫu cơ bản, những thử nghiệm bắt đầu được tiến hành.
+
+Thử nghiệm ban đầu được tiến hành với những sinh viên đại học NTNU tại một rạp chiếu phim. Khi ấy họ sử dụng điện thoại nắp gập, không có ứng dụng cũng như bàn phím bị hạn chế. Nhìn chung, giao diện người dùng rất khó sử dụng.
+
+Công nghệ và kết nối internet khi ấy mới ra đời, iPhone chưa xuất hiện, nhưng trò chơi này đã gây ấn tượng với các sinh viên. Mặc dù còn những hạn chế về công nghệ, ý tưởng thu hút được sự quan tâm của nhiều sinh viên.
+
+Versvik cho biết sự xuất hiện của điện thoại thông minh, 3G và ngôn ngữ mã hoá HTML5 đã giúp tăng triển vọng cho nền tảng và nhóm đã có thể cập nhật công nghệ của họ.
+
+Nền tảng Kahoot ngày nay cho phép giáo viên, người học và các công ty dễ dàng tạo nội dung tương tác dưới dạng trò chơi. Ảnh: Kahoot
+
+Mở rộng quy mô
+
+Không lâu sau, nhóm đồng sáng lập, hiện bao gồm các doanh nhân và nhà đầu tư: Johan Brand, Jamie Brooker và Asmund Furuseth, đã chuyển đến San Francisco trong vài tháng để biến dự án thành một doanh nghiệp chính thức.
+
+Kahoot chính thức được thành lập vào năm 2012 và ra mắt bản thử nghiệm beta tại Texas năm 2013. Bản beta cũng được ra mắt công chúng vào tháng 9 năm đó.
+
+Nhiều tháng sau, Versvik và nhóm của anh đã đạt được tiến bộ vượt bậc trong công nghệ, đến nỗi nhà đầu tư đầu tiên đã ngay lập tức bị thu hút bởi ý tưởng đầy tính "viral" này.
+
+Eilert Hanoa, nhà đầu tư đầu tiên và hiện là CEO của Kahoot, cho biết: "Tôi ngay lập tức nghĩ rằng đây là ý tưởng rất vững chắc, giúp họ có thể trở thành một tập đoàn và thành công trên toàn cầu".
+
+Ông ấn tượng nhất về cách nhóm Kahoot tạo ra "sức hút lan truyền", điều mà ông tin rằng là khía cạnh khó đạt được nhất của bất kỳ doanh nghiệp thành công nào.
+
+Cải thiện nội dung tốt hơn
+
+Công ty 9 năm tuổi đã mở rộng với đội ngũ hơn 500 nhân viên và có văn phòng tại 8 quốc gia. Công ty được niêm yết trên sàn giao dịch chứng khoán Oslo vào tháng 3 năm 2021. Kahoot đã mua lại 7 nền tảng công nghệ giáo dục và tương tác khác như Clever, Dragonbox và Drops.
+
+Kahoot cũng phát triển những tài liệu nghiên cứu riêng hợp tác với các "ông lớn" về giáo dục như National Geographic, Britannica, Khan Academy và Liên Hợp Quốc.
+
+Mặc dù thành công nhanh chóng từ năm 2013 và phát triển trong suốt thời gian đại dịch, công ty cho biết họ vẫn theo sát vào ý tưởng ban đầu của bộ đôi Versvik và Wang, đó là cung cấp cho giáo viên công cụ để tạo hứng thú cho học sinh.
+
+Theo Hanoa, nhóm nghiên cứu tin tưởng vào việc duy trì Kahoot "miễn phí mãi mãi cho giáo viên và học sinh". Cả người dạy và người học đều có thể tạo câu đố miễn phí. Kahoot kiếm tiền bằng cách bán gói đăng ký trả phí cho các doanh nghiệp và trường học, cung cấp cho họ khả năng truy cập vào những tính năng bổ sung.
+
+Kahoot cũng khuyến khích hàng nghìn giáo viên đưa ra phản hồi để tiếp tục phát triển và cải thiện sản phẩm. Ông Hanoa cho biết, thách thức tiếp theo là tìm ra cách để làm tốt hơn nữa và trở thành đối thủ cạnh tranh lớn nhất của chính mình.
+
+Tham khảo CNBC

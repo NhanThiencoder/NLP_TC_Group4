@@ -1,0 +1,79 @@
+Đặc biệt, theo PhoneArena, Apple được cho là sẽ thay đổi chiến lược ra mắt sản phẩm từ năm 2026: dòng iPhone 18 Pro, iPhone 18 Pro Max và iPhone Fold sẽ trình làng vào tháng 9/2026, trong khi iPhone 18 và iPhone 18e dời sang mùa xuân 2027.
+
+Một concept iPhone 18 Pro Max. Ảnh: The Tech Talk
+
+Thiết kế tiếp nối phong cách iPhone 17 Pro
+
+Theo các nguồn tin, dòng iPhone 18 Pro sẽ giữ ngôn ngữ thiết kế của iPhone 17 Pro, với cụm camera sau ba ống kính bố trí dạng tam giác trên phần “cao nguyên” quen thuộc.
+
+Kích thước màn hình vẫn giữ nguyên 6,3 inch cho iPhone 18 Pro và 6,9 inch cho bản Pro Max.
+
+Điểm khác biệt đáng chú ý nằm ở chất liệu mặt lưng. Apple được cho là đã cải tiến quy trình sản xuất kính Ceramic Shield 2 và khung nhôm, nhằm giảm sự khác biệt màu sắc giữa hai phần, tạo nên thiết kế liền mạch và tinh tế hơn.
+
+Khung máy dày hơn, tín hiệu cho pin lớn hơn?
+
+Một tin đồn cho biết iPhone 18 Pro Max sẽ dày hơn đôi chút so với thế hệ 17 Pro Max, nâng trọng lượng máy lên khoảng 243 gram – trở thành iPhone nặng nhất từ trước đến nay.
+
+Dù Apple chưa hé lộ lý do, khả năng cao hãng muốn tăng dung lượng pin để phục vụ cho nhiều công nghệ mới đòi hỏi năng lượng lớn hơn.
+
+Dynamic Island thu nhỏ, chuẩn bị cho Face ID ẩn dưới màn hình
+
+Tin đồn về việc Apple chuyển hệ thống Face ID xuống dưới màn hình tiếp tục gây tranh cãi.
+
+Một số nguồn, như Wayne Ma từ The Information, cho rằng Apple hướng đến thiết kế chỉ còn một lỗ camera nhỏ, nằm ở góc trái phía trên.
+
+Tuy nhiên, nhiều chuyên gia khác – trong đó có Ross Young và Mark Gurman – cho rằng Dynamic Island vẫn sẽ tồn tại, nhưng nhỏ gọn hơn đáng kể.
+
+Apple được cho là đang thử nghiệm thu nhỏ hệ thống camera trước để tiến dần đến thiết kế “toàn màn hình” trong tương lai.
+
+Chip A20 Pro: bước nhảy 2nm cho sức mạnh lớn hơn
+
+Theo Macrumors, dòng iPhone 18 Pro sẽ đánh dấu sự xuất hiện của chip A20 dựa trên tiến trình 2nm của TSMC. Đây sẽ là bước nâng cấp lớn với mật độ bóng bán dẫn cao hơn, giúp hiệu năng tăng khoảng 15% và hiệu quả năng lượng cải thiện khoảng 30%.
+
+Đặc biệt, Apple được cho là sẽ tích hợp RAM trực tiếp trên cùng phiến wafer với CPU, GPU và Neural Engine thông qua công nghệ WMCM. Điều này hứa hẹn tốc độ xử lý vượt trội, đặc biệt cho các tác vụ AI – Apple Intelligence.
+
+Modem C2: bước tiến để thoát khỏi Qualcomm
+
+Nhà phân tích Jeff Pu tiết lộ iPhone 18 Pro sẽ chuyển sang modem C2 do Apple tự phát triển, kế nhiệm modem C1 từng xuất hiện trên iPhone 16e và C1X trên iPhone Air.
+
+Video concept iPhone 18 Pro Max. (Nguồn: The Tech Talk / YouTube)
+
+Modem C2 được kỳ vọng mang lại tốc độ 5G nhanh hơn, tiêu thụ điện năng thấp hơn và hỗ trợ mmWave tại Mỹ – điều mà C1 và C1X chưa có.
+
+Đây là bước đi then chốt trong chiến lược giảm phụ thuộc vào Qualcomm.
+
+Cảm biến máy ảnh mới của Samsung
+
+Lần đầu tiên sau nhiều năm, Apple có thể chuyển một phần cảm biến camera sang Samsung. Theo nguồn rò rỉ, Samsung đang phát triển cảm biến ba lớp PD-TR-Logic dành riêng cho iPhone 18, giúp cải thiện độ nhạy sáng, giảm nhiễu và tăng dải tương phản.
+
+Nếu thành sự thật, đây sẽ là sự thay đổi lớn trong chuỗi cung ứng camera của Apple vốn đã phụ thuộc vào Sony trong nhiều năm.
+
+Khẩu độ biến thiên, chất lượng camera cấp DSLR
+
+Một nâng cấp rất đáng mong đợi là ống kính khẩu độ biến thiên cho camera chính 48MP Fusion. Hệ thống này cho phép mở khẩu lớn hơn khi chụp đêm, thu hẹp khẩu độ để kiểm soát độ sâu trường ảnh và mang đến hiệu ứng xóa phông tự nhiên hơn, sắc nét hơn.
+
+Đây sẽ là lần đầu tiên iPhone có khả năng thay đổi khẩu độ vật lý – một bước tiến lớn cho nhiếp ảnh di động.
+
+Internet vệ tinh 5G, kết nối mọi lúc, mọi nơi
+
+Theo The Information, Apple đang nhắm mục tiêu tích hợp 5G vệ tinh – cho phép iPhone truy cập internet mà không cần tháp phát sóng mặt đất.
+
+Nếu đạt kế hoạch, iPhone 18 Pro, iPhone 18 Pro Max và iPhone Fold sẽ là những thiết bị đầu tiên hỗ trợ công nghệ này.
+
+Dù Apple hiện hợp tác với Globalstar, chưa rõ hãng nào sẽ cung cấp hạ tầng 5G vệ tinh cho tính năng này.
+
+Nút camera control đơn giản hóa
+
+Nút Camera Control trên iPhone 17 là sự kết hợp của cảm ứng điện dung và cảm biến lực, nhưng chi phí sản xuất rất cao.
+
+Apple được cho là sẽ giản lược thiết kế trên iPhone 18: loại bỏ lớp cảm ứng điện dung, chỉ giữ cảm biến lực.
+
+Điều này không làm giảm chức năng, nhưng giúp Apple cắt giảm chi phí và hạn chế sửa chữa đắt đỏ.
+
+Màu sắc mới lạ: đỏ burgundy, nâu và tím
+
+Apple đang thử nghiệm ba màu hoàn toàn mới: Burgundy (đỏ rượu), Brown (nâu) và Purple (tím).
+
+Đặc biệt, màu đỏ burgundy sẽ là lần đầu xuất hiện trên dòng Pro, tạo sự khác biệt mạnh mẽ so với các lựa chọn truyền thống.
+
+(Theo Macrumors, PhoneArena, The Information)

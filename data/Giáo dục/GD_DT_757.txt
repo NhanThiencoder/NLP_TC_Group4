@@ -1,0 +1,19 @@
+Thành viên đội W1.Shark đến từ Trường Đại học Công nghệ Thông tin, Đại học Quốc gia TPHCM (Ảnh: UIT cung cấp)
+
+Với đề tài dự thi "Phương pháp phát hiện website lừa đảo dựa trên học sâu đa phương thức kháng mẫu trốn tránh bảo vệ người dùng cuối", nhóm W1.Shark - sinh viên Trường Đại học Công nghệ Thông tin, Đại học Quốc gia TPHCM đã vượt qua gần 200 đội trên toàn quốc để giành được giải Ba với giải thưởng trị giá 50 triệu đồng.
+
+Ứng dụng mà nhóm dự thi có tên là Shark-eyes (Mắt cá mập), sau khi được cài đặt trên trình duyệt web của máy người dùng, có thể tự hoạt động, bảo vệ người dùng trên thời gian thực khỏi các website lừa đảo.
+
+TS Nguyễn Tấn Trần Minh Khang - Phó hiệu trưởng Trường Đại học Công nghệ Thông tin, Đại học Quốc gia TPHCM cho biết đội W1.Shark gồm có 2 thành viên, gồm Võ Quang Minh và Bùi Tấn Hải Đăng cùng học ngành an toàn thông tin - tài năng.
+
+Các em cũng là thành viên tham gia nghiên cứu khoa học tại CLB Wanna.W1n thuộc Phòng Thí nghiệm An toàn Thông tin InSecLab của trường. Thành tích này khẳng định tài năng, nỗ lực của bản thân các em khi là đại diện duy nhất đến từ trường đại học giành giải cao.
+
+Cuộc thi Dữ liệu với cuộc sống (Data for Life 2023) do Cục Cảnh sát quản lý hành chính về trật tự xã hội (C06), Bộ Công an phối hợp cùng các đơn vị tổ chức từ 7/8/2023.
+
+Danh sách các đề tài đoạt giải cuộc thi Dữ liệu với cuộc sống (Nguồn: Ban tổ chức).
+
+Cuộc thi với mục tiêu thu hút nguồn lực từ cộng đồng tài năng trẻ đồng hành cùng Bộ Công an và Chính phủ để phát huy tính sáng tạo, hình thành những ý tưởng và sản phẩm công nghệ thông tin thiết thực. Các giải pháp xoay quanh ba trụ cột là chính phủ số - giải pháp thúc đẩy dịch vụ công hiệu quả, xã hội số - thúc đẩy dịch vụ an sinh xã hội, và kinh tế số - thúc đẩy phát triển kinh tế.
+
+Data for Life 2023 trải qua 3 vòng thi với gần 200 đội: Vòng nộp hồ sơ trực tuyến (197 đội), sơ loại (41 đội), chung khảo (10 đội).
+
+Đề tài "Ứng dụng AI trong việc phát hiện biển số ôtô giả đang lưu hành trên các tuyến đường giao thông công cộng" của Công an tỉnh Sơn La giành giải Nhất nhờ độ chính xác và có khả năng triển khai thực tế, nhận giải thưởng 200 triệu đồng.

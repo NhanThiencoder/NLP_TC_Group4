@@ -1,0 +1,85 @@
+Nghị quyết 72: Khoa học và công nghệ là động lực phát triển nền y tế hiện đại
+
+Ngày 9 tháng 9 vừa qua, Bộ Chính trị ban hành Nghị quyết số 72-NQ/TW về "Một số giải pháp tăng cường bảo vệ, chăm sóc và nâng cao sức khỏe Nhân dân trong tình hình mới".
+
+Để triển khai Nghị quyết 72, hiện thực hóa mục tiêu "khoa học và công nghệ là động lực phát triển hàng đầu của sự nghiệp chăm sóc, bảo vệ và nâng cao sức khỏe nhân dân”, thời gian tới ngành y tế cần có những bước đi như thế nào? PGS.TS Trần Quý Tường – Chủ tịch Hội Tin học Y tế Việt Nam đã có cuộc trao đổi với phóng viên VOV2 về vấn đề này:
+
+PV: Thưa PGS.TS Trần Quý Tường, ông đánh giá như thế nào về những thành tựu mà ngành y tế nước ta đã đạt được từ việc nghiên cứu, phát triển cũng như ứng dụng các thành tựu mới về khoa học và công nghệ trong thời gian qua? Có thể kể ra đây những thành tựu gì, thưa ông?
+
+PGS.TS Trần Quý Tường: Có thể nói, những năm gần đây, khoa học và công nghệ đã trở thành động lực mạnh mẽ thúc đẩy sự phát triển của ngành y tế Việt Nam, giúp chúng ta đạt được nhiều thành tựu đáng tự hào cả trong nghiên cứu, sản xuất và ứng dụng công nghệ vào thực tiễn khám chữa bệnh. Thực tiễn cho thấy, Việt Nam đã đạt được nhiều kết quả nổi bật:
+
+Thứ nhất, Việt Nam đã sản xuất thành công vắc-xin cúm mùa IVACFLU-S, đánh dấu bước tiến quan trọng trong tự chủ công nghệ sinh học. Đây là minh chứng rõ ràng cho năng lực nghiên cứu, phát triển và làm chủ quy trình sản xuất vắc-xin trong nước – nền tảng quan trọng để chúng ta tiến tới tự chủ hoàn toàn về vắc-xin và sinh phẩm y tế, bảo đảm an ninh y tế quốc gia.
+
+Thứ hai, ứng dụng công nghệ gen và sinh học phân tử trong điều trị ung thư cá thể hóa đã được triển khai tại nhiều cơ sở y tế lớn như Bệnh viện K, Bệnh viện Trung ương Huế, Bệnh viện Vinmec. Các kỹ thuật giải trình tự gen thế hệ mới (NGS) giúp xác định đột biến gen ung thư và lựa chọn thuốc trúng đích phù hợp cho từng bệnh nhân, mở đầu cho kỷ nguyên y học chính xác (Precision Medicine) ở Việt Nam.
+
+Thứ ba, trong lĩnh vực hồi sức cấp cứu, tim mạch và hô hấp, Việt Nam đã làm chủ hàng loạt kỹ thuật cao cứu sống hàng nghìn bệnh nhân nguy kịch. Tiêu biểu là kỹ thuật tim phổi nhân tạo (ECMO) được triển khai thành công tại Bệnh viện Chợ Rẫy, Bệnh viện Nhi Trung ương, Bệnh viện Bạch Mai, Bệnh viện Trung ương Huế… giúp cứu sống nhiều ca suy hô hấp, suy tim nặng, viêm phổi do COVID-19, ngộ độc cấp, viêm cơ tim… Đặc biệt, Việt Nam hiện nằm trong nhóm ít quốc gia Đông Nam Á làm chủ hoàn toàn kỹ thuật ECMO mà không cần chuyên gia nước ngoài.
+
+Thứ tư, kỹ thuật phẫu thuật nội soi 3D và rô-bốt Da Vinci đã được nhiều bệnh viện lớn như Bình Dân, Chợ Rẫy, K, Trung ương Huế triển khai thành công trong điều trị ung thư tuyến tiền liệt, đại trực tràng, dạ dày, cắt tử cung, cắt gan, ghép thận… Rô-bốt phẫu thuật có độ chính xác cực cao (sai lệch dưới 1mm), giúp giảm mất máu, rút ngắn thời gian hồi phục từ 30–40%, nâng cao chất lượng điều trị và an toàn người bệnh. Việt Nam hiện là nước thứ hai ở Đông Nam Á, sau Singapore, ứng dụng thành công hệ thống rô-bốt Da Vinci – một dấu mốc quan trọng trong tiến trình hiện đại hóa phẫu thuật Việt Nam.
+
+Cùng với đó, sự phát triển mạnh mẽ của các công nghệ mới như Trí tuệ nhân tạo (AI), Dữ liệu lớn (Big Data), Blockchain, Internet vạn vật (IoT) và công nghệ sinh học đang mở ra những cơ hội chưa từng có cho y tế Việt Nam: từ chẩn đoán hình ảnh tự động, giám sát dịch bệnh thông minh, tối ưu hóa quy trình vận hành bệnh viện, cho đến y học tái tạo và y học dự phòng chủ động.
+
+Những thành tựu này khẳng định rằng, Việt Nam đang từng bước làm chủ công nghệ y học hiện đại, tiến tới nền y tế tự chủ, sáng tạo, an toàn và bền vững, đúng với tinh thần của Nghị quyết số 72-NQ/TW – coi khoa học và công nghệ là động lực phát triển hàng đầu của sự nghiệp bảo vệ, chăm sóc và nâng cao sức khỏe Nhân dân.
+
+PV: Nghị quyết số 72-NQ/TW của Bộ Chính trị đã xác định khoa học và công nghệ là nền tảng quan trọng, là động lực chủ yếu để xây dựng nền y tế Việt Nam hiện đại, tự chủ và hội nhập quốc tế. Chủ trương này có ý nghĩa như thế nào trong việc định hướng phát triển nền y tế nước ta trong thời gian tới, thưa PGS.TS Trần Quý Tường?
+
+PGS.TS Trần Quý Tường: Theo tôi, đây là một chủ trương mang tính đột phá chiến lược, thể hiện tầm nhìn rất sâu sắc của Đảng ta trong việc xây dựng nền y tế Việt Nam hiện đại, tự chủ và hội nhập quốc tế. Nói cách khác, Nghị quyết 72 không chỉ định hướng cho ngành y tế phát triển về quy mô và chất lượng, mà còn đặt khoa học, công nghệ và chuyển đổi số ở vị trí trung tâm của đổi mới – coi đó là động lực chính để nâng tầm sức khỏe người dân và vị thế quốc gia.
+
+Trước hết, đây là bước chuyển căn bản về tư duy phát triển y tế – từ mô hình chữa bệnh sang mô hình dự phòng, từ quản lý hành chính sang quản trị dựa trên dữ liệu, từ kinh nghiệm sang bằng chứng khoa học. Điều đó mở ra nền tảng cho nền y tế thông minh, nơi trí tuệ nhân tạo (AI), dữ liệu lớn (Big Data), Internet vạn vật (IoT) và công nghệ sinh học được ứng dụng toàn diện trong chăm sóc, theo dõi và quản lý sức khỏe người dân.
+
+Thứ hai, việc ưu tiên cao nhất cho phát triển khoa học – công nghệ trong lĩnh vực y tế, đặc biệt là tự chủ về vắc-xin, thuốc, sinh phẩm và thiết bị y tế, thể hiện quyết tâm mạnh mẽ của Đảng và Nhà nước trong việc bảo đảm an ninh y tế quốc gia và giảm phụ thuộc nhập khẩu. Đây là hướng đi rất đúng đắn để VN từng bước làm chủ công nghệ y học, tham gia sâu hơn vào chuỗi giá trị y dược khu vực và toàn cầu.
+
+Thứ ba, Nghị quyết 72 đã khẳng định chuyển đổi số y tế là đột phá chiến lược, hướng tới Cơ sở dữ liệu quốc gia về y tế và sổ sức khỏe điện tử cho mỗi người dân. Khi dữ liệu trở thành nền tảng, hệ thống y tế có thể giám sát dịch bệnh chính xác hơn, điều phối nguồn lực hiệu quả hơn, quản lý tài chính minh bạch hơn và phục vụ người dân công bằng hơn.
+
+Bên cạnh đó, Nghị quyết còn nhấn mạnh phát triển nguồn nhân lực y tế chất lượng cao, có năng lực số và tư duy đổi mới sáng tạo là điều kiện tiên quyết để chuyển đổi y tế số thành công. Không có con người, không có khoa học – công nghệ nào phát huy hiệu quả. Vì vậy, đầu tư cho đội ngũ thầy thuốc “vừa hồng, vừa chuyên”, am hiểu công nghệ, làm chủ dữ liệu, chính là đầu tư cho tương lai của nền y tế Việt Nam.
+
+Cuối cùng, việc kết hợp y học cổ truyền – y học hiện đại – y học số mà Nghị quyết 72 đề ra là một tư duy rất nhân văn và có tầm nhìn dài hạn. Nó giúp tạo nên bản sắc riêng của nền y học Việt Nam: vừa kế thừa tinh hoa dân tộc, vừa bắt nhịp xu hướng công nghệ toàn cầu.
+
+Tóm lại, Nghị quyết 72-NQ/TW không chỉ mở ra con đường phát triển tự chủ, hiện đại và bền vững cho ngành y tế, mà còn thể hiện khát vọng xây dựng một Việt Nam khỏe mạnh, hạnh phúc và thịnh vượng trong kỷ nguyên số – nơi khoa học, công nghệ và con người cùng hòa quyện để phụng sự sức khỏe Nhân dân.
+
+PV: Tuy nhiên, để khuyến khích các cơ sở y tế mạnh dạn ứng dụng khoa học công nghệ hiện đại, tiên tiến thì theo ông, cần có cơ chế, chính sách hỗ trợ như thế nào và cần bắt đầu từ đâu, thưa ông?
+
+PGS.TS Trần Quý Tường: Theo tôi, muốn các cơ sở y tế thực sự mạnh dạn ứng dụng khoa học và công nghệ thì điều tiên quyết là phải có một cơ chế chính sách đủ mạnh, đủ rõ và đủ tin cậy để khuyến khích đổi mới. Công nghệ không thể phát triển trong môi trường thiếu cơ chế, và đổi mới sáng tạo không thể nảy nở nếu người thực hiện không được bảo vệ, không được khích lệ.
+
+Thứ nhất, coi đầu tư cho khoa học và công nghệ là đầu tư phát triển, không phải chi phí. Nhà nước cần tạo ra cơ chế tài chính đặc thù cho lĩnh vực y tế, trong đó các dự án ứng dụng công nghệ cao, AI, robot y tế, công nghệ sinh học, và chuyển đổi số phải được xem như các dự án đầu tư công có tầm chiến lược quốc gia, không chỉ là nhiệm vụ khoa học đơn lẻ. Nghị quyết 72 đã khẳng định rõ: “Ưu tiên cao nhất cho lĩnh vực y tế trong sử dụng Quỹ phát triển khoa học và công nghệ quốc gia; tập trung nghiên cứu, sản xuất thuốc mới, vắc-xin, sinh phẩm và thiết bị y tế công nghệ cao; hình thành Khu công nghiệp dược phẩm quốc gia vào năm 2030”.
+
+Cơ chế này cần đi kèm với quy trình phê duyệt nhanh, cấp vốn linh hoạt và khuyến khích đầu tư theo kết quả đầu ra, tránh tình trạng xin – cho, chậm trễ hoặc thủ tục nặng nề khiến các dự án khoa học “chết yểu”.
+
+Thứ hai, hoàn thiện hành lang pháp lý và cơ chế xã hội hóa linh hoạt. Phải cho phép và khuyến khích hợp tác công – tư (PPP) trong nghiên cứu, chuyển giao và ứng dụng công nghệ y tế.
+
+Thứ ba, trao quyền tự chủ thực chất cho các cơ sở y tế. Cơ chế tự chủ cần được hiểu không chỉ về tài chính, mà còn về tự chủ trong lựa chọn, đầu tư, khai thác và vận hành công nghệ. Nếu bệnh viện vẫn phải “xin phép từng bước” để mua phần mềm, lắp thiết bị hay triển khai thử nghiệm công nghệ mới, thì không thể có đổi mới.
+
+Thứ tư, chính sách khuyến khích, bảo vệ và tôn vinh người dám đổi mới. Mỗi sáng kiến, mỗi ứng dụng công nghệ hiệu quả trong y tế cần được ghi nhận và khen thưởng kịp thời, đồng thời có cơ chế hỗ trợ về nguồn lực, kinh phí, và quyền tác giả đối với sản phẩm nghiên cứu ứng dụng. Nghị quyết 72 cũng đã yêu cầu: “Có cơ chế hỗ trợ thu hút hiệu quả nhân lực công nghệ thông tin, chuyển đổi số trong lĩnh vực y tế” —điều này cần được cụ thể hóa thành chính sách tuyển dụng, đãi ngộ và thăng tiến đặc thù cho đội ngũ kỹ sư CNTT, chuyên gia dữ liệu và nhà khoa học đang làm việc trong ngành y. Bên cạnh đó, cần bảo vệ pháp lý cho cán bộ y tế, giám đốc bệnh viện và nhóm nghiên cứu khi triển khai công nghệ mới theo đúng quy định, tránh tâm lý sợ sai, sợ rủi ro, khiến người dám làm lại bị ràng buộc.
+
+Thứ năm, bắt đầu từ việc xây dựng và vận hành hiệu quả Nền tảng Dữ liệu Y tế Quốc gia. Đây là “xương sống” của chuyển đổi số y tế, là nền tảng liên thông hồ sơ sức khỏe điện tử, bệnh án điện tử, đơn thuốc điện tử, bảo hiểm y tế và các hệ thống chuyên ngành. Khi dữ liệu được chuẩn hóa, chia sẻ, bảo mật và khai thác thông minh, thì mọi ứng dụng công nghệ – từ AI hỗ trợ chẩn đoán, phân tích dự báo dịch bệnh, đến quản lý tài chính bệnh viện đều có thể phát triển bền vững và đồng bộ. Đặc biệt, cần sớm ban hành Bộ tiêu chuẩn kỹ thuật quốc gia về dữ liệu y tế, quy định rõ cấu trúc, định dạng, bảo mật và liên thông giữa các hệ thống, tránh tình trạng “mạnh ai nấy làm” gây lãng phí và khó kết nối sau này.
+
+Để khoa học và công nghệ thực sự trở thành động lực phát triển của ngành y tế, chúng ta phải đi song song trên hai trục chiến lược:
+
+Cơ chế – chính sách phải mở và thông thoáng, tạo điều kiện cho sáng tạo.
+
+Hạ tầng và con người phải sẵn sàng, coi dữ liệu là tài sản, công nghệ là công cụ, và người dân là trung tâm.
+
+Khi đó, các cơ sở y tế sẽ không còn e ngại mà sẽ chủ động xem công nghệ như “đòn bẩy” để nâng tầm chất lượng dịch vụ, minh bạch quản trị và phục vụ người dân tốt hơn.
+
+PV: Ông có gợi ý gì đối với các cơ sở y tế nhằm đẩy mạnh hơn nữa công tác nghiên cứu, ứng dụng các thành tựu khoa học, chuyển giao công nghệ mới vào lĩnh vực mà đơn vị phụ trách để triển khai, thực hiện Nghị quyết 72?
+
+PGS.TS Trần Quý Tường: Theo tôi, để thực hiện hiệu quả Nghị quyết 72-NQ/TW của Bộ Chính trị, các cơ sở y tế cần chuyển mạnh từ tư duy “thụ động tiếp nhận công nghệ” sang tư duy “chủ động sáng tạo và làm chủ công nghệ.” Khoa học – công nghệ không chỉ là công cụ hỗ trợ hoạt động khám, chữa bệnh, mà phải trở thành trụ cột phát triển, là sức mạnh cạnh tranh và là thước đo năng lực của mỗi bệnh viện, viện nghiên cứu hay trung tâm y tế.
+
+Thứ nhất, xác định hướng nghiên cứu và ứng dụng công nghệ trọng điểm của từng đơn vị. Mỗi cơ sở y tế cần căn cứ vào chức năng, nhiệm vụ, năng lực chuyên môn và nhu cầu thực tiễn của địa phương để lựa chọn hướng ưu tiên phù hợp.
+
+Việc xác định trọng tâm sẽ giúp từng đơn vị tránh dàn trải, tập trung nguồn lực vào các dự án thật sự có giá trị, có khả năng nhân rộng và phục vụ người bệnh.
+
+Thứ hai, tăng cường hợp tác “ba nhà”: viện – trường – doanh nghiệp. Đây là mô hình hợp tác bền vững để biến nghiên cứu thành sản phẩm ứng dụng thực tế. Các bệnh viện cần chủ động liên kết với trường đại học y dược và doanh nghiệp công nghệ để hình thành hệ sinh thái nghiên cứu và chuyển giao công nghệ y tế trong nước. Ví dụ: Hợp tác giữa Bệnh viện Bạch Mai và VinBrain (Vingroup) trong phát triển AI chẩn đoán hình ảnh. Liên kết giữa Đại học Y Hà Nội – Học viện Quân y – Viện Vắc-xin và Sinh phẩm Y tế (IVAC) để sản xuất vắc-xin công nghệ mới. Hợp tác giữa Bệnh viện PHCN Trung ương và Đại học Bách khoa Hà Nội trong phát triển robot phục hồi chức năng điều khiển bằng AI và cảm biến EMG. Khi “ba nhà” cùng tham gia, mỗi bên sẽ đóng vai trò bổ trợ: doanh nghiệp có vốn và công nghệ, trường có nghiên cứu và nhân lực, bệnh viện có môi trường ứng dụng và dữ liệu thực tế. Đây chính là mô hình Make in Vietnam cho lĩnh vực y tế.
+
+Thứ ba: Phát triển đội ngũ nhân lực “kép”: giỏi chuyên môn, vững công nghệ. Nghị quyết 72 xác định rõ: phát triển nguồn nhân lực y tế chất lượng cao, có năng lực số, là khâu đột phá. Các bệnh viện cần: Đưa kỹ năng số, quản lý dữ liệu, AI y học, phân tích thống kê và công nghệ sinh học vào chương trình đào tạo, bồi dưỡng thường xuyên. Khuyến khích bác sĩ trẻ, kỹ sư y sinh, kỹ thuật viên CNTT tham gia đề tài nghiên cứu hoặc hợp tác quốc tế. Từng bước hình thành các trung tâm nghiên cứu, phòng thí nghiệm y học công nghệ cao trong bệnh viện – vừa đào tạo, vừa chuyển giao công nghệ mới. Người thầy thuốc tương lai phải “vừa hồng, vừa chuyên, vừa số hóa” – vừa có y đức, chuyên môn, vừa có khả năng sử dụng và khai thác công nghệ hiện đại phục vụ bệnh nhân.
+
+Thứ tư là, đưa nghiên cứu vào thực tiễn: từ đề tài đến ứng dụng. Một hạn chế lâu nay là nhiều đề tài nghiên cứu y học chỉ dừng ở báo cáo, chưa đi vào ứng dụng lâm sàng. Các bệnh viện cần yêu cầu mỗi công trình nghiên cứu phải có sản phẩm đầu ra cụ thể: phần mềm, quy trình kỹ thuật, mô hình chăm sóc, thiết bị y sinh, hay giải pháp chuyển đổi số.
+
+Thứ năm là, chủ động tham gia và khai thác Nền tảng Dữ liệu Y tế Quốc gia. Đây là trụ cột của chuyển đổi số y tế Việt Nam, giúp kết nối liên thông bệnh án điện tử, hồ sơ sức khỏe điện tử, đơn thuốc điện tử và dữ liệu bảo hiểm y tế.
+
+Cuối cùng là xây dựng văn hóa đổi mới sáng tạo trong toàn hệ thống. Ứng dụng khoa học công nghệ không chỉ là nhiệm vụ hành chính, mà phải trở thành một phần trong “ADN” của tổ chức. Mỗi lãnh đạo bệnh viện phải là người truyền cảm hứng đổi mới, mỗi bác sĩ, điều dưỡng, kỹ sư phải coi sáng kiến và nghiên cứu là công việc thường xuyên. Cần có quỹ sáng kiến đổi mới, giải thưởng nội bộ cho các ý tưởng cải tiến, cơ chế thử nghiệm công nghệ mới (sandbox y tế), và khen thưởng kịp thời những đơn vị tiên phong ứng dụng AI, robot, EMR, IoT, telehealth...
+
+Ứng dụng khoa học và công nghệ trong y tế không chỉ là nhiệm vụ trước mắt, mà là con đường duy nhất để phát triển bền vững. Nếu mỗi cơ sở y tế coi đổi mới sáng tạo là văn hóa, dữ liệu là tài sản, công nghệ là công cụ và người dân là trung tâm thì sẽ thực hiện đúng tinh thần của Nghị quyết 72 – xây dựng một nền y tế Việt Nam hiện đại, tự chủ, nhân văn và hội nhập quốc tế.
+
+PV: Trân trọng cảm ơn PGS.TS Trần Quý Tường về cuộc trao đổi!
+
+VOV.VN - Khắc phục những khó khăn về hạ tầng, điều kiện của người dân khu vực miền núi, biên giới, ngành y tế Sơn La đang đẩy mạnh chuyển đổi số; góp phần nâng cao hiệu quả công tác quản lý và giúp người dân tiếp cận tốt hơn với các dịch vụ.

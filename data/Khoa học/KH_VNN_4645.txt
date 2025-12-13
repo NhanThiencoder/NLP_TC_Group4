@@ -1,0 +1,39 @@
+Các đối tác lớn như Apple và Samsung đang nhận thông báo từ TSMC về việc tăng giá chip trong những năm tới. Cuối cùng, người chịu ảnh hưởng lại chính là người dùng mua điện thoại.
+
+Giá chip tăng, giá smartphone leo thang
+
+Chiếc smartphone tiếp theo của bạn nhiều khả năng sẽ đắt hơn, khi TSMC – nhà sản xuất chip tiên tiến lớn nhất thế giới – lên kế hoạch tăng giá hàng loạt từ năm 2026.
+
+TSMC – nhà sản xuất chip tiên tiến lớn nhất thế giới – lên kế hoạch tăng giá hàng loạt từ năm 2026. Ảnh: PhoneArena
+
+Quyết định này được dự báo sẽ tác động trực tiếp đến các hãng smartphone lớn nhất, bao gồm Apple và Samsung, những công ty phụ thuộc vào TSMC để sản xuất chip xử lý cao cấp.
+
+Thông tin cho biết TSMC đã bắt đầu thông báo đến các khách hàng chủ lực, trong đó có Apple, về kế hoạch tăng giá. Theo nguồn tin rò rỉ từ nguồn Hàn Quốc yeux1122 trên nền tảng Naver, mức tăng dự kiến rơi vào khoảng 8–10%.
+
+Việc TSMC tăng giá không phải điều quá bất ngờ, nhưng các năm trước mức tăng chỉ dao động 3–5%. Lần này, mức tăng cao hơn đáng kể và nhắm vào những quy trình sản xuất tiên tiến dưới 5nm – nhóm công nghệ tạo ra những con chip mạnh mẽ nhất trong vài năm gần đây.
+
+Với Apple, đó là các dòng chip như: A16, A17, A18, A19 trên iPhone và các chip M3, M4, M5 trên MacBook. Tăng giá ở những quy trình này đồng nghĩa giá thành sản phẩm cuối cùng cũng sẽ tăng theo.
+
+Flagship sẽ càng đắt hơn
+
+Từ nhiều tháng nay, thị trường đã nghe râm ran về việc TSMC sẽ tăng giá. Một báo cáo vào tháng 9 cho biết MediaTek và Qualcomm - hai nhà sản xuất chip lớn cho Android - có thể phải trả nhiều hơn 24% và 16% cho các chip thế hệ mới.
+
+Dù không rõ mức tăng được so sánh dựa trên nền giá nào, nhưng có thể đó là các chip Snapdragon 8 Elite của Qualcomm và Dimensity 9400 của MediaTek. Các chip này được sản xuất trên quy trình 3nm thế hệ thứ hai (N3E) của TSMC. Thế hệ tiếp theo - N3P - lại tiếp tục đội giá cao hơn.
+
+Điều này báo hiệu một viễn cảnh quen thuộc: giá smartphone flagship - đặc biệt là Galaxy S26 và các mẫu cao cấp Android sắp ra mắt - sẽ tăng mạnh.
+
+iPhone Pro có thể tăng giá sốc
+
+Apple cũng phải đối mặt với đợt tăng giá này. Tin đồn cho rằng chip A20, dự kiến trang bị trên iPhone 18, có thể trở thành chip thương mại 2nm đầu tiên và có chi phí sản xuất cao hơn đến 50% so với quy trình 3nm hiện tại.
+
+Nếu đúng như vậy, giá của mỗi chip A20 có thể lên đến 280 USD, một con số chênh lệch rất lớn so với mức giá ước tính 45 USD của chip A18.
+
+Một nguồn tin khác sau đó cho rằng con số tăng thực tế sẽ thấp hơn, vào khoảng 20%, nhưng dù theo kịch bản nào, đây vẫn là cú tăng lớn đối với Apple và vì vậy, giá bán iPhone gần như chắc chắn sẽ bị ảnh hưởng.
+
+Thị trường smartphone cao cấp vốn đã chia thành nhiều cấp độ, nhưng việc TSMC tăng giá chip có thể khiến sự phân hóa đó rõ rệt hơn. Các phiên bản Ultra, vốn đã đắt, có thể càng đắt và cách biệt nhiều hơn so với phiên bản tiêu chuẩn hoặc phiên bản “giá mềm” trong cùng dòng sản phẩm.
+
+Chip xử lý ngày nay đã quá mạnh so với nhu cầu sử dụng thực tế của phần lớn người dùng. Điều đó đặt ra câu hỏi: Liệu có còn nhiều người sẵn sàng chi thêm tiền cho chiếc điện thoại đắt nhất, mạnh nhất, chỉ để có con chip nhanh hơn vài phần trăm?
+
+Một điều chắc chắn rằng khi TSMC tăng giá, ngành công nghệ sẽ cảm nhận sức nóng và người mua smartphone sẽ là người trả hóa đơn cuối cùng.
+
+(Theo PhoneArena, 9to5mac)

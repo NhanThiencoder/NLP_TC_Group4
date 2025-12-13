@@ -1,0 +1,11 @@
+Title: Cà Mau: Sắp thí điểm ứng dụng IoT trong ngành nông nghiệp
+
+Ông Trần Quốc Chính, Phó Giám đốc Sở TT&TT Cà Mau cho biết, trong tháng 12/2017 Cà Mau sẽ đưa vào thí điểm ứng dụng hệ thống thông tin để quản lý thông tin, môi trường nông, lâm, ngư nghiệp tỉnh Cà Mau. Đây có thể coi là dự án IoT (Internet of Things - Internet kết nối vạn vật) đầu tiên được áp dụng tại Cà Mau.
+
+Cà Mau là vùng sản xuất lớn, nên việc ứng dụng IoT giúp người dân sản xuất tránh rủi ro rất có ý nghĩa, IoT giúp người dân phát triển sản xuất nông nghiệp, ngư nghiệp. Dự kiến, trong tháng 12/2017 sẽ thí điểm tại 3 vùng, 1 vùng nước ngọt, một vùng nước mặn, một vùng xen lẫn mặn ngọt. Sau khi thí điểm thành công sẽ triển khai trên diện rộng với 23 tiểu vùng sản xuất nông nghiệp và thủy sản của cả tỉnh Cà Mau. Dự án IoT này dự kiến sẽ phục vụ cho 5 lĩnh vực: Nuôi trồng khai thác thủy sản, chăn nuôi gia súc, gia cầm, trồng trọt, lâm nghiệp, cây lúa.
+
+Dự án này được khởi động từ tháng 7/2017, khi đó Sở TT&TT và Sở Nông nghiệp và Phát triển nông thôn Cà Mau đã nghiên cứu và đề xuất tham mưu cho UBND tỉnh. Trong những năm gần đây thời tiết diễn biến phức tạp, nhất là trước tình hình biến đổi khí hậu, diễn biến thiên tai, dịch bệnh không theo chu kỳ, bất thường nên rất khó lường trước. Những vấn đề thông tin, báo cáo, dự báo... nêu trên được ngành nông nghiệp phối hợp với các ngành các cấp tổ chức thực hiện rất quyết liệt nhưng hiệu quả chưa như mong đợi: nhiều lúc tính chính xác chưa cao, thiếu kịp thời do còn thực hiện theo cách cũ thủ công, chưa ứng dụng công thông tin nhiều trong công tác thu thập thông tin, xử lý thông tin một cách tự động hóa nên tốn nhiều nguồn lực...
+
+Việc ứng dụng công nghệ thông tin, ứng dụng tiến bộ khoa học trong hoạt động của ngành nông nghiệp hiện nay là phù hợp với xu thế phát triển của thế giới về IoT, nông nghiệp thông minh, nông nghiệp sạch,… để đảm bảo cho công tác sản xuất của người dân đạt sản lượng, chất lượng cao hơn.
+
+Ông Trần Quốc Chính cho hay, dự án này được chia làm 2 giai đoạn đầu tư. Hệ thống phần mềm được đặt hàng để sử dụng trên máy tính và cả trên mobile, hiện đã hoàn thành. Hệ thống phần cứng cũng có sản phẩm hoàn thiện để đưa vào thí điểm.

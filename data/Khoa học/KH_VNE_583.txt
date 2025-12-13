@@ -1,0 +1,19 @@
+Lò phản ứng mới mang tên MARVEL, dự kiến hoạt động ở mức 500 - 550 độ C và dùng động cơ để chuyển đổi nhiệt năng thành điện năng.
+
+Carolina Fabricators được chọn để chế tạo thành phần lớn đầu tiên cho MARVEL, thùng bảo vệ. Ảnh: INL
+
+Mỹ dự định triển khai lò phản ứng siêu nhỏ (microreactor) đầu tiên trong vòng hai năm tới, cũng sẽ là một trong những lò phản ứng mới đầu tiên của Phòng thí nghiệm Quốc gia Idaho (INL) sau khoảng 5 thập kỷ. Bộ Năng lượng Mỹ vừa trao hợp đồng cho công ty Carolina Fabricators tại Nam Carolina để chế tạo hệ thống làm mát chính (PCS) cho lò phản ứng này, Interesting Engineering hôm 14/2 đưa tin.
+
+Lò phản ứng mới mang tên MARVEL, chủ yếu dùng để nghiên cứu và thử nghiệm các ứng dụng của loại lò phản ứng siêu nhỏ, giải quyết những thách thức chính về công nghệ. MARVEL làm mát bằng kim loại lỏng với các động cơ Stirling sản xuất khoảng 100 kW năng lượng bằng cách sử dụng một lượng nhỏ uranium làm giàu thấp chất lượng cao.
+
+Khi hoàn thành, MARVEL sẽ được chuyển đến Khu phức hợp Vật liệu và Nhiên liệu thuộc INL. Nó sẽ hoạt động ở nhiệt độ 500 - 550 độ C và sử dụng động cơ để chuyển đổi nhiệt năng thành điện năng. Với lò phản ứng này, các nhà khoa học có thể mô phỏng và điều tra những thách thức thực tế liên quan đến khử muối và sản xuất hydro. MARVEL dự kiến hoạt động vào năm 2027 và duy trì hoạt động trong hai năm.
+
+Khác với các lò phản ứng truyền thống đòi hỏi chế tạo tại chỗ và hệ thống làm mát thụ động, lò phản ứng siêu nhỏ có thể được sản xuất trong nhà máy và di chuyển từ nơi này đến nơi khác theo yêu cầu. Điều này khiến chúng phù hợp cho nhiều ngành công nghiệp khác nhau và dễ dàng tích hợp vào các lưới điện. Lò phản ứng siêu nhỏ có thể cung cấp điện và nhiệt cho các ngành năng lượng quốc phòng, công nghiệp và dân sự.
+
+Carolina Fabricators từng phát triển thùng bảo vệ cho lõi lò phản ứng của MARVEL, một phần quan trọng giúp đảm bảo hoạt động an toàn. Đây là lớp vỏ bảo vệ bên ngoài bao quanh lõi lò phản ứng và hệ thống làm mát chính.
+
+Trong khi đó, PCS được mô tả là thành phần phức tạp nhất vì đảm nhiệm việc kiểm soát và chuyển nhiệt từ lõi lò phản ứng, nơi nhiệt độ có thể lên đến hàng trăm độ C trong thời gian ngắn. Việc chế tạo PCS từ đầu phức tạp hơn nhiều vì thùng bảo vệ giống như một thành phần thụ động dùng trong trường hợp khẩn cấp, còn PCS là hệ thống chức năng chủ động thường xuyên phải đối mặt với những vấn đề về nhiệt. "PCS tăng độ phức tạp lên nhiều bậc", Patrick Halligan, đại diện của Carolina Fabricators, cho biết.
+
+Các nhà khoa học tại INL tin vào khả năng của Carolina Fabricators. Họ hy vọng PCS sẽ sớm hoàn thành, cho phép họ tiến tới giai đoạn tiếp theo, bao gồm phát triển khung hỗ trợ lò phản ứng và hệ thống kiểm soát độ phản ứng.
+
+Thu Thảo (Theo Interesting Engineering)

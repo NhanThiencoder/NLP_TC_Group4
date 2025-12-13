@@ -1,0 +1,31 @@
+Các mối đe dọa tinh vi hơn nhắm trực tiếp vào tính toàn vẹn và độ tin cậy của các mô hình AI
+
+Theo đó năm 2026, lĩnh vực an ninh mạng sẽ trở nên phức tạp hơn, với mối đe dọa lớn nhất đến từ sự "trưởng thành" của các cuộc tấn công mạng sử dụng trí tuệ nhân tạo (AI).
+
+Tấn công bằng công nghệ mới từ AI
+
+Theo Fortinet, sự phát triển của AI tạo sinh đã "dân chủ hóa" công nghệ, mang lại hiệu quả cao nhưng đồng thời trao quyền kiểm soát cho nhiều người hơn, làm gia tăng rủi ro bảo mật.
+
+Các mô hình AI thiếu minh bạch và việc tải dữ liệu nhạy cảm lên đám mây làm tăng khả năng rò rỉ thông tin cá nhân và sở hữu trí tuệ.
+
+Đặc biệt, kẻ xấu đang phát triển các phương pháp tinh vi để khai thác lỗ hổng của AI.
+
+Các hình thức tấn công mô hình bao gồm thao túng dữ liệu đầu vào để lừa AI đưa ra dự đoán sai, tấn công "đầu độc" dữ liệu và hình thức nguy hiểm nhất là Prompt Injection - nhúng hướng dẫn ẩn khiến AI bỏ qua các quy tắc an toàn hoặc thực thi lệnh độc hại.
+
+Năm 2026, các mô hình AI sẽ truy cập vào nhiều dữ liệu nhạy cảm hơn và giao tiếp tự động giữa các tác nhân công nghệ, tạo điều kiện cho các cuộc tấn công quy mô lớn.
+
+Deepfake và thao túng tâm lý ở cấp độ cao
+
+Cùng với đó, Deepfake được dự đoán sẽ đẩy lừa đảo và thao túng tâm lý (social engineering) lên một tầm cao mới. AI có khả năng tạo ra âm thanh, hình ảnh và video gần như không thể phân biệt thật giả.
+
+Dịch vụ Deepfake-as-a-Service sẽ được sử dụng rộng rãi để thực hiện các cuộc tấn công có mục tiêu cao như xâm phạm email doanh nghiệp (BEC), lừa đảo và tống tiền, buộc các tổ chức phải đối mặt với thông tin sai lệch theo cách khó kiểm soát hơn nhiều.
+
+Ngoài ra, việc AI đơn giản hóa hoạt động do thám, kết hợp với sự phát triển của các nhóm tội phạm mạng dưới hình thức "dịch vụ" và được bảo trợ sẽ tiếp tục thúc đẩy các cuộc tấn công nhắm vào các tổ chức đa quốc gia trị giá hàng tỉ USD.
+
+Các mục tiêu tấn công mới
+
+Bên cạnh AI, các công nghệ mới nổi cũng tạo ra các mục tiêu mới mà kẻ tấn công đang nhắm đến. Hệ thống GPS trong không gian được xác định là mục tiêu hàng đầu, nơi kẻ xấu có thể gây nhiễu, chặn tín hiệu hoặc phát tín hiệu giả mạo để làm suy yếu cơ sở hạ tầng quan trọng.
+
+Sự bùng nổ của Internet vệ tinh cũng đi kèm rủi ro khi dữ liệu chưa được mã hóa có thể bị chặn dễ dàng bằng bộ thu đơn giản. Đồng thời, điện toán lượng tử, dù chưa phải mối đe dọa tức thời, vẫn là lời cảnh báo nghiêm trọng; máy tính lượng tử có thể phá vỡ gần như mọi mã hóa hiện có, cho phép kẻ xấu thực hiện chiến lược "thu thập dữ liệu trước, giải mã sau" để chờ đợi công nghệ trưởng thành.
+
+Trong bối cảnh tấn công mạng ngày càng nguy hiểm, người phụ trách an ninh mạng cần thay đổi cách làm việc cũ. Họ không chỉ là chuyên gia kỹ thuật, mà cần trở thành nhà chiến lược, biến việc bảo mật thành yếu tố giúp công ty phát triển và đáng tin cậy hơn. Họ cần tận dụng AI để nhanh chóng phát hiện và chặn đứng tấn công. Quan trọng hơn, họ phải bảo vệ nghiêm ngặt các hệ thống AI của công ty.

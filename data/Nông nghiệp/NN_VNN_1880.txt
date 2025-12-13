@@ -1,0 +1,25 @@
+Title: Nga ứng dụng giải pháp công nghệ cao trong nông nghiệp gia tăng hiệu quả hơn 20%
+
+Quá trình số hóa ngành nông nghiệp rất quan trọng và phải được tiến hành với tốc độ nhanh chóng. Tuy nhiên, vấn đề chính trong đó là thiếu nhân sự có trình độ và hao hụt sản phẩm trong quá trình sản xuất.
+
+Xuất phát từ nhu cầu cấp thiết đó, nhà khai thác viễn thông quốc gia lớn nhất ở Nga - Rostelecom đã giới thiệu nhiều phương pháp tiên tiến có thể áp dụng cho lĩnh vực nông nghiệp, nhằm tăng cường năng suất lao động trong lĩnh vực này.
+
+Việc ứng dụng các giải pháp công nghệ cao vào quá trình sản xuất nông nghiệp sẽ giúp tăng hiệu quả sản xuất và tạo ra tính bền vững.
+
+Một trong những sản phẩm công nghệ đầy hứa hẹn cho lĩnh vực nông nghiệp là hệ thống giám sát liên tục sự chuyển động của cây trồng.
+
+Hệ thống cho phép ngăn chặn tình trạng trộm cắp nông sản và cho phép giám sát toàn bộ chu trình, từ thu gom, vận chuyển đến xử lý và lưu trữ các sản phẩm có thể bán được trên thị trường.
+
+Hệ thống làm việc dựa trên Wi-Fi công nghiệp, ứng dụng các thành phần của Internet Vạn vật (IoT) và cảm biến giao thông. Hiện nay, 5 khu vực của Nga đã và đang thử nghiệm hệ thống công nghệ mới này. Kết quả ban đầu rất khả quan, cho thấy hoạt động sản xuất gia tăng hiệu quả hơn 20% so với trước đây.
+
+Hệ thống cân vật nuôi trong trang trại cũng là một giải pháp công nghệ đáng chú ý. Đặc biệt, hệ thống không sử dụng bất kỳ thiết bị đo vật lý thông thường, mà chủ yếu dựa trên phân tích video mạng lưới thần kinh. Trong vòng chưa đầy 1 phút, người sử dụng có thể nhận được báo cáo trọng lượng và tình trạng chính xác của khoảng 200 vật nuôi.
+
+Đây là bước đi đầu tiên hướng tới việc tạo ra một “trang trại hoàn toàn không có con người”. Hệ thống này rất linh hoạt, với các chức năng rất rộng, bao gồm cả chế độ thông báo cho người quản lý về các trường hợp khẩn cấp và thay đổi chế độ ăn của động vật theo điều kiện thực tế.
+
+“Digital Hive” là một dự án công nghệ sáng tạo khác của Rostelecom dành cho nông nghiệp. Nền tảng này sử dụng thuật toán trí tuệ nhân tạo (AI) và cảm biến IoT để theo dõi sức khỏe của đàn ong.
+
+Nhờ giải pháp này, người nông dân có thể thu thập được dữ liệu về vi khí hậu bên trong tổ ong và thực hiện các biện pháp cần thiết nếu các thông số vượt quá giới hạn cho phép.
+
+Khi được triển khai, dự án đã giúp ngăn chặn xu hướng giảm số lượng đàn ong đã diễn ra trong vài năm qua tại Nga.
+
+(theo Itcrumbs)

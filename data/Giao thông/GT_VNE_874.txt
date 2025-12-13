@@ -1,0 +1,25 @@
+Học viên lái ôtô hạng B, C1 ở TP HCM sẽ được đào tạo lý thuyết trên online, có AI hỗ trợ, giúp giải đáp thắc mắc mà không cần đến lớp tập trung.
+
+Thông tin được ông Bùi Hòa An, Phó giám đốc Sở Xây dựng TP HCM, nêu tại họp báo ra mắt Phần mềm đào tạo lái ôtô trên nền tảng số tích hợp trí tuệ nhân tạo (AI), diễn ra ngày 15/8.
+
+Bước đầu, giải pháp áp dụng cho đào tạo lái xe các hạng B (xe chở người đến 8 chỗ, ôtô tải đến 3.500 kg...) và hạng C1 (xe tải từ 3.500 kg đến 7.500 kg, xe kéo rơ moóc đến 750 kg...). Hệ thống này là kết quả nghiên cứu của nhóm chuyên gia, kỹ sư công nghệ từ Công ty TNHH Ô tô Hiệp Phát, Đại học Bách khoa, Trung tâm Kỹ thuật Điện toán và Viettel.
+
+Giao diện phần mềm đào tạo lái xe ô tô tích hợp trí tuệ nhân tạo trên nền tảng số. Ảnh: Hiệp Phát
+
+Với phần mềm này, học viên có thể đăng nhập học mọi lúc, mọi nơi, thay cho việc đến lớp cố định. Nội dung được thiết kế dưới dạng học liệu số, thuyết minh bằng giọng AI, mô hình 3D và bài giảng 360 độ. Ngoài phần lý thuyết, hệ thống cung cấp 600 câu hỏi sát hạch, 120 tình huống mô phỏng và 60 câu điểm liệt kèm hình ảnh minh họa để ôn tập.
+
+Hệ thống AI nhận diện khuôn mặt để xác thực danh tính học viên trong suốt quá trình học, ghi nhận tiến độ và kết quả. Giọng đọc AI, hình ảnh 3D và các mô phỏng tương tác giúp tăng khả năng ghi nhớ, đồng thời cá nhân hóa nội dung phù hợp tiến độ từng người.
+
+Tất cả dữ liệu học tập được lưu trữ và báo cáo tự động theo mẫu của cơ quan quản lý. Trung tâm đào tạo có thể theo dõi, phân bổ khóa học, giám sát tiến độ của học viên, đảm bảo tính minh bạch và tuân thủ quy định pháp luật.
+
+PGG.TS Nguyễn Thanh Bình, Phó giám đốc Công ty TNHH ô tô Hiệp Phát, cho biết khi bắt đầu học, thí sinh cần đăng nhập tài khoản cá nhân, nhận diện khuôn mặt để điểm danh. Việc nhận diện khuôn mặt diễn ra trong suốt quá trình học, dữ liệu học được lưu trữ, đảm bảo xác định học viên đủ giờ theo quy định.
+
+Nền tảng được trang bị trợ lý ảo hỗ trợ học lý thuyết lái ôtô, giải đáp nhanh chóng các thắc mắc về luật giao thông và biển báo. Hình thức này giúp giảm chi phí, rút ngắn thời gian học, tạo điều kiện cho học viên hoàn tất phần lý thuyết trước khi bước vào thực hành.
+
+Thi bằng lái tại Trung tâm sát hạch lái xe Miền Đông, phường Long Thạnh Mỹ (quận 9 cũ), TP HCM, tối 28/7. Ảnh: Thanh Tùng
+
+Ông Bùi Hoà An đánh giá cách đào tạo này thuận tiện, phù hợp xu thế. Tuy nhiên điều quan trọng là cơ quan quản lý và các cơ sở đào tạo phải kiểm tra, giám sát được thời gian học của học viên, cũng như đánh giá chính xác lượng kiến thức họ tiếp thu.
+
+Theo lãnh đạo Sở Xây dựng, việc đào tạo lý thuyết trực tuyến đã được triển khai từ khi Covid-19 bùng phát, học viên không thể đến lớp tập trung. Dù học online nhưng cách học này đem hiệu quả, phù hợp xu thế, học viên nhớ kỹ kiến thức, tỷ lệ đậu cao. Tuy nhiên thời điểm này, một số quy định trong Luật Giao thông năm 2008 chưa cho phép triển khai. Sau khi Luật trật tự, an toàn giao thông đường bộ năm 2024 có hiệu lực và cho phép, TP HCM đẩy mạnh cách dạy này.
+
+Lê Tuyết

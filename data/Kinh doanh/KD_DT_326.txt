@@ -1,0 +1,87 @@
+Title: Tiết lộ về nhân vật khiến Mark Zuckerberg chi 15 tỷ USD "săn" về
+
+Cú "phá két" lịch sử và thuật ngữ "Acquihire"
+
+Tối 12/6, thế giới công nghệ sững sờ trước thông báo: Meta, công ty mẹ của Facebook và Instagram, đã chi 15 tỷ USD tiền mặt để mua lại 49% cổ phần của Scale AI, một start up dữ liệu vốn là đối tác quan trọng của chính họ.
+
+Trong tuyên bố chính thức, Meta cho biết: “Meta đã hoàn tất quan hệ đối tác chiến lược và đầu tư vào Scale AI. Theo thỏa thuận này, chúng tôi sẽ tăng cường hợp tác trong việc sản xuất dữ liệu cho các mô hình AI, và Alexandr Wang sẽ gia nhập Meta để tham gia vào nỗ lực phát triển trí tuệ siêu việt (superintelligence)”.
+
+Về lý thuyết, đây là một khoản đầu tư chiến lược. Meta đảm bảo quyền tiếp cận nguồn dữ liệu chất lượng cao từ Scale AI - thứ được coi là "dầu mỏ" của kỷ nguyên AI. Nhưng giới phân tích sành sỏi tại Thung lũng Silicon lại nhìn ra một câu chuyện khác, một câu chuyện được gói gọn trong thuật ngữ "acquihire".
+
+"Acquihire" (ghép từ "acquire" - mua lại và "hire" - tuyển dụng) là một thương vụ mà trong đó, mục tiêu chính của bên mua không phải là sản phẩm, công nghệ hay tài sản của công ty bị thâu tóm, mà là đội ngũ nhân tài, đặc biệt là các nhà sáng lập. Nói một cách dân dã, đây là một hình thức "mua người" siêu đắt đỏ.
+
+Nhà phân tích công nghệ nổi tiếng Ben Thompson đã thẳng thắn nhận xét: “Đây là một thương vụ acquihire cực kỳ đắt đỏ để có được Alexandr Wang”.
+
+Xu hướng này không mới nhưng đang bùng nổ trở lại trong cuộc chiến AI khốc liệt, nơi nhân tài còn quý hơn vàng.
+
+Năm ngoái, Microsoft chi 650 triệu USD cho start up Inflection, bề ngoài là phí bản quyền nhưng thực chất là để "rút ruột" nhà sáng lập Mustafa Suleyman và đội ngũ nòng cốt của ông. Google cũng không kém cạnh khi bỏ ra 2,7 tỷ USD để chiêu mộ Noam Shazeer và các cộng sự từ Character.AI.
+
+Với thương vụ 15 tỷ USD, Mark Zuckerberg không chỉ tham gia mà còn đang nâng tầm cuộc chơi lên một đẳng cấp mới. Nhưng để hiểu tại sao Zuckerberg sẵn sàng "đốt tiền" như vậy, chúng ta cần nhìn vào nhân vật trung tâm: Alexandr Wang.
+
+Alexandr Wang, chàng trai 28 tuổi, khiến Mark Zuckerberg sẵn sàng "đốt tiền" (Ảnh: Wikipedia).
+
+Alexandr Wang: Thần đồng công nghệ hay một bậc thầy kinh doanh?
+
+Bạn có thể chưa từng nghe đến cái tên Alexandr Wang, nhưng chàng trai 28 tuổi này chính là người khiến Mark Zuckerberg phải mở kho bạc.
+
+Sinh ra tại bang New Mexico trong một gia đình gốc Hoa có truyền thống khoa học, bố mẹ anh đều là nhà vật lý hạt nhân làm việc tại Phòng thí nghiệm Quốc gia Los Alamos danh giá. Nền tảng này đã sớm hun đúc cho Wang một tư duy sắc bén. Anh bỏ học ngành Khoa học máy tính tại MIT chỉ sau một năm để tham gia vườn ươm khởi nghiệp huyền thoại Y Combinator.
+
+Tại đây, năm 2016, Wang cùng với Lucy Guo sáng lập Scale AI. Chỉ sau 2 năm, cả hai đã lọt vào danh sách Forbes 30 Under 30. Đến năm 24 tuổi, Wang trở thành tỷ phú tự thân trẻ nhất thế giới. Anh cũng có mối quan hệ thân thiết với những nhân vật quyền lực như Sam Altman (CEO OpenAI), thậm chí từng ở chung nhà với Altman trong đại dịch.
+
+Tuy nhiên, điều gây ngạc nhiên nhất chính là Wang không phải một nhà nghiên cứu AI lỗi lạc theo kiểu truyền thống. Các tờ báo uy tín như The Information và Financial Times đều mô tả anh là một “người làm kinh doanh giỏi kỹ thuật”, có tài năng xuất chúng trong việc xây dựng hình ảnh, quảng bá và chốt các hợp đồng tỷ USD, hơn là một nhà khoa học có thể tạo ra những đột phá nghiên cứu nền tảng.
+
+Điều này đặt ra một câu hỏi lớn: Tại sao Zuckerberg lại đặt cược vào một nhà kinh doanh để dẫn dắt một phòng thí nghiệm AI siêu việt, thay vì một "bộ não" nghiên cứu như Yann LeCun, người đang là trưởng bộ phận AI của chính Meta?
+
+Scale AI - "xương sống thầm lặng" của cuộc cách mạng AI
+
+Để lý giải giá trị của Wang, không thể không nhắc đến "đứa con tinh thần" của anh: Scale AI.
+
+Hãy tưởng tượng, để một mô hình AI trở nên thông minh, nó cần được "ăn" một lượng dữ liệu khổng lồ và được "dạy" để hiểu dữ liệu đó. Scale AI chính là "nhà cung cấp thực phẩm" và "gia sư" cho toàn bộ ngành công nghiệp. Công ty chuyên cung cấp dịch vụ gắn nhãn, làm sạch và xử lý dữ liệu để huấn luyện các hệ thống AI.
+
+Với xe tự lái, Scale AI giúp các hệ thống nhận diện đâu là người đi bộ, đâu là biển báo giao thông, đâu là vạch kẻ đường.
+
+Với các mô hình ngôn ngữ lớn (LLM) như ChatGPT, Scale AI thuê hàng nghìn cộng tác viên trên khắp thế giới để sàng lọc, phân loại và tinh chỉnh hàng terabyte văn bản, giúp mô hình hiểu được ngữ cảnh, sắc thái và tạo ra câu trả lời tự nhiên.
+
+Khách hàng của Scale AI là một danh sách đáng mơ ước: Toyota, Honda, Waymo (công ty xe tự lái của Google), Microsoft, OpenAI, và thậm chí cả chính phủ Mỹ (sử dụng dịch vụ để phân tích hình ảnh vệ tinh tại Ukraine).
+
+Với doanh thu dự kiến đạt gần 1 tỷ USD năm 2024 và có thể tăng gấp đôi vào năm 2025, Scale AI được định giá gần 14 tỷ USD. Con số này cho thấy, khoản đầu tư 15 tỷ USD của Meta không chỉ là "trả lương" cho Wang. Như Reed Albergotti của Semafor nhận định, một phần trong số tiền này có thể là khoản "trả trước" cho các dịch vụ mà Scale AI sẽ cung cấp độc quyền hoặc ưu tiên cho Meta trong tương lai.
+
+Đây là một nước đi khôn ngoan: vừa chiêu mộ được tướng tài, vừa khóa chặt được một đối tác cung ứng chiến lược, bóp nghẹt nguồn cung của các đối thủ.
+
+Trước làn sóng thất vọng ngày càng gia tăng về tiến độ tụt hậu của Meta trong lĩnh vực AI, CEO Mark Zuckerberg đã đưa ra nước đi táo bạo nhất của mình: đặt cược vào một trong những bộ óc hàng đầu của ngành trí tuệ nhân tạo (Ảnh: Techjuice).
+
+Canh bạc "trí tuệ siêu việt" và nỗi lo của Mark Zuckerberg
+
+Thương vụ này diễn ra vào thời điểm then chốt. Meta, dù sở hữu lượng người dùng và dữ liệu khổng lồ, lại đang có dấu hiệu hụt hơi trong cuộc đua AI so với bộ 3 Google, Microsoft và OpenAI.
+
+Nỗ lực tích hợp AI vào các sản phẩm như kính Ray-Ban hay trợ lý ảo Meta AI chưa tạo được tiếng vang lớn. Mô hình mã nguồn mở Llama tuy được cộng đồng đón nhận nhưng vẫn chưa thể sánh ngang với GPT-4 của OpenAI hay Gemini của Google về sức mạnh.
+
+Nội bộ Meta cũng tồn tại những bất đồng. Giáo sư Yann LeCun, một trong những "bố già" của AI hiện đại và là nhà khoa học trưởng của Meta, công khai cho rằng các mô hình ngôn ngữ lớn hiện tại chỉ là "ngõ cụt", không phải con đường dẫn đến Trí tuệ nhân tạo tổng quát (AGI).
+
+Trong bối cảnh đó, việc thành lập một phòng thí nghiệm hoàn toàn mới, tập trung vào mục tiêu xa hơn cả AGI là Trí tuệ Siêu việt (ASI) - một dạng AI vượt xa trí thông minh của toàn nhân loại - và đặt Alexandr Wang vào vị trí lãnh đạo, cho thấy một sự thay đổi chiến lược mang tính địa chấn của Zuckerberg.
+
+Zuckerberg không còn muốn đi theo lối mòn. Ông muốn một cú nhảy vọt, một hướng đi khác biệt và táo bạo hơn. Wang, với tư duy kinh doanh nhạy bén và khả năng kết nối các nguồn lực, có thể chính là người phù hợp để biến tầm nhìn khoa học viễn tưởng này thành một kế hoạch kinh doanh khả thi.
+
+Tuy nhiên, bức tranh không hoàn toàn màu hồng.
+
+Thứ nhất, những bài học trong quá khứ. Zuckerberg đã từng chi hàng tỷ USD để thâu tóm Instagram và WhatsApp, nhưng rồi cả hai nhà sáng lập của hai công ty này đều lần lượt ra đi vì những bất đồng với ông. Trớ trêu hơn, Mike Krieger, đồng sáng lập Instagram, hiện là Giám đốc sản phẩm tại Anthropic, một đối thủ cạnh tranh trực tiếp với Meta trong lĩnh vực AI. Liệu lịch sử có lặp lại với Alexandr Wang?
+
+Thứ hai là góc khuất đạo đức của Scale AI. Để có được những bộ dữ liệu được gắn nhãn tỉ mỉ, Scale AI và đơn vị con Remotasks đã bị chỉ trích vì thuê một đội quân lao động giá rẻ khổng lồ tại các nước đang phát triển như Kenya, Venezuela và Philippines. Nhiều báo cáo đã phanh phui điều kiện làm việc tệ hại và mức lương chỉ dưới 1 USD/giờ. Đây là một sự tương phản nghiệt ngã với khối tài sản tỷ đô của các nhà sáng lập và những thương vụ chấn động như thế này.
+
+Trong cuộc đua AI, Zuckerberg không còn muốn đi theo lối mòn mà muốn một cú nhảy vọt, một hướng đi khác biệt và táo bạo hơn (Ảnh: Getty).
+
+Mua người, mua đối tác, hay mua một canh bạc cho tương lai?
+
+Quay trở lại câu hỏi ban đầu, Meta chi 15 tỷ USD để làm gì? Câu trả lời không nằm ở một lựa chọn duy nhất.
+
+Đây là một thương vụ "3 trong 1" phức hợp:
+
+Acquihire: Meta có được bộ óc chiến lược của Alexandr Wang và có thể cả đội ngũ thân tín của anh để dẫn dắt một dự án tham vọng nhất.
+
+Đầu tư chiến lược: Meta khóa chặt một nhà cung cấp dữ liệu hàng đầu, đảm bảo nguồn "nhiên liệu" cho cỗ máy AI của mình và gây khó khăn cho đối thủ.
+
+Đặt cược vào tương lai: Thay vì chạy theo cuộc đua LLM, Zuckerberg đang đặt cược vào một hướng đi mới - trí tuệ siêu việt - với hy vọng sẽ là người dẫn đầu trong chương tiếp theo của công nghệ.
+
+Rất ít công ty trên thế giới có đủ tiềm lực tài chính để thực hiện một nước đi như vậy, nhưng Meta là một trong số đó. Nếu Mark Zuckerberg tin rằng AI không chỉ là tương lai của công nghệ mà còn là sinh mệnh của chính Meta, thì bất kỳ cái giá nào để giành chiến thắng đều có thể được coi là "xứng đáng".
+
+Thương vụ 15 tỷ USD này không chỉ là một giao dịch tài chính, nó là một tuyên ngôn. Một lời khẳng định rằng trong cuộc chiến định hình tương lai nhân loại, Mark Zuckerberg sẵn sàng làm tất cả và chi tất cả. Liệu đây sẽ là quyết định thiên tài đưa Meta trở lại đỉnh cao, hay sẽ là một cú "đốt tiền" ngoạn mục nữa trong lịch sử Thung lũng Silicon? Chỉ thời gian mới có thể trả lời.

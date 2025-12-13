@@ -1,0 +1,21 @@
+Title: Phú Yên quan tâm xây dựng cơ sở dữ liệu số đất nông nghiệp
+
+Đất nông nghiệp hiện được chia thành 4 loại: Đất trồng cây hàng năm, đất trồng cây lâu năm (không bao gồm cây lâm nghiệp, cây công nghiệp lâu năm trồng xen, trồng kết hợp), đất đồng cỏ dùng vào chăn nuôi, đất có mặt nước dùng vào sản xuất nông nghiệp gồm các loại ao, hồ, sông cụt,... để nuôi trồng các loại thuỷ sản (không tính hồ, kênh, mương, máng thuỷ lợi).
+
+Theo số liệu thống kê, đất nông nghiệp toàn tỉnh Phú Yên có diện tích 428.213 ha, chiếm 85,20% diện tích tự nhiên. Tập trung nhiều ở các huyện Sơn Hòa (80.256 ha), huyện Đồng Xuân (93.116 ha), huyện Sông Hinh (76.327 ha), huyện Tây Hòa (55.172 ha), ít nhất là thành phố Tuy Hòa (6.305 ha).
+
+Số liệu về thổ nhưỡng tương đối phong phú nhưng còn phân tán, chưa hệ thống, chưa được khai thác sử dụng phổ biến. Do đó, khai thác sử dụng tài nguyên đất nông nghiệp vẫn còn những hạn chế nhất định. Để góp phần bảo vệ, phát triển bền vững tài nguyên đất sản xuất nông nghiệp phục vụ cho chiến lược phát triển bền vững kinh tế của tỉnh, việc nghiên cứu nghiên cứu và sớm xây dựng CSDL số về đất sản xuất nông nghiệp tỉnh Phú Yên là rất cần thiết…
+
+Ảnh minh hoạ
+
+Tuy nhiên, đến nay Phú Yên vẫn chưa có một hệ thống quản lý, chia sẻ CSDL về tài nguyên đất sản xuất nông nghiệp đến quy mô ô thửa với các đối tượng cây trồng đặc trưng, thế mạnh của tỉnh.
+
+Tháng 12/2022, Bộ KH&CN đã triển khai đề tài “Nghiên cứu xây dựng CSDL số về đất sản xuất nông nghiệp tỉnh Phú Yên”. Mục tiêu chung của đề tài là xây dựng được bộ CSDL số và công cụ trực tuyến quản lý, chia sẻ CSDL về đất sản xuất đất nông nghiệp tỉnh Phú Yên. Đồng thời, đề xuất được giải pháp sử dụng bền vững đất sản xuất nông nghiệp phục vụ phát triển kinh tế - xã hội của tỉnh.
+
+Trong thời gian thực hiện đề tài, nhóm nghiên cứu phải xây dựng được bộ CSDL số về đất nông nghiệp tỉnh Phú Yên (bản đồ số hóa trên nền VN 2000, tỉ lệ 1/10.000 cấp xã; 1/25.000 cấp huyện; 1/50.000 câp tỉnh) bao gồm: Dữ liệu về hiện trạng sử dụng đất chi tiết đến kiểu sử dụng đất, dữ liệu về thổ nhưỡng, dự liệu về nông hóa, dữ liệu về đề xuất hướng chuyển đổi cơ cấu cây cây trồng… Hiện nhóm nghiên cứu đã lấy xong các mẫu đất ở 9 huyện, thị xã, thành phố để xây dựng phần mềm trực tuyến (WebGIS) quản lý đất sản xuất đất nông nghiệp, xây dựng mô hình sử dụng đất và phân bón hợp lý cho cây lúa, cũng như đề xuất các giải pháp sử dụng đất và phân bón có hiệu quả cho sản xuất nông nghiệp bền vững tỉnh Phú Yên.
+
+Lãnh đạo tỉnh Phú Yên cho rằng việc nghiên cứu xây dựng được bộ CSDL số về đất nông nghiệp tỉnh Phú Yên sẽ góp phần giải quyết được nhiều vấn đề. Trong đó, các cấp quản lý sẽ thiết lập hệ thống CSDL đầy đủ, khoa học, chính xác về tài nguyên đất sản xuất nông nghiệp; thuận tiện trong việc lưu trữ, quản lý và sử dụng.
+
+Đối với người dân, CSDL này sẽ cung cấp các thông tin chi tiết về các đặc tính đất đai tại thửa ruộng mình đang canh tác; có được khuyến cáo sử dụng phân bón khoa học theo diện tích, cây trồng và đặc điểm thổ nhưỡng, từ đó vừa giảm chi phí do đầu tư phân bón không đúng, vừa nâng cao chất lượng, năng suất cây trồng. Đối với các nhà đầu tư, doanh nghiệp sẽ dễ dàng biết được những cây trồng phù hợp với đặc thù đất đai của Phú Yên để có thể định hướng kinh doanh, sản xuất; dự trù được nhu cầu sử dụng phân bón theo mùa vụ với cây trồng để có thể điều tiết việc thu mua phân bón chủ động. Đối với các cán bộ khuyến nông sẽ có được một công cụ, địa chỉ để cung cấp thông tin và trực tiếp chỉ đạo sản xuất, khuyến cáo sử dụng phân bón cho bà con thuận lợi, nhanh chóng...
+
+Diệu Bình và nhóm PV, BTV

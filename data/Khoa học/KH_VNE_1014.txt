@@ -1,0 +1,21 @@
+Trung QuốcRobot cá ngừ và cá heo thông minh có thể giúp ngư dân tiết kiệm sức lực và thời gian chăn nuôi thủy sản trong khi tăng đáng kể hiệu quả khi cho ăn và thu hoạch.
+
+Robot cá do nhóm nghiên cứu ở CAU phát triển. Ảnh: CGTN
+
+Tại Trung tâm đổi mới sáng tạo quốc gia về ngư nghiệp kỹ thuật số tại Bắc Kinh, hai robot cá với lớp phủ kim loại bóng bẩy bơi lội tung tăng trong bể nhân giống, hé lộ nghiên cứu cao cấp có thể cách mạng hóa ngành chăn nuôi thủy sản. "Đây là robot cá ngừ và robot cá heo mà chúng tôi phát triển", phó giáo sư ở Đại học Nông nghiệp Trung Quốc (CAU) cho biết. "Chúng đại diện cho những đặc điểm bơi lội khác nhau, nhưng mục đích cốt lõi của chúng đều giống nhau, đó là hỗ trợ trang trại nuôi cá".
+
+Liu là thành viên trong nhóm robot sinh kỹ thuật dưới nước hướng tới đơn giản hóa những công việc tốn sức trong chăn nuôi cá. "Chúng tôi muốn công việc của ngư dân bớt khó khăn hơn", Wei Yaoguang, một thành viên khác trong nhóm nghiên cứu với hơn 20 năm kinh nghiệm, chia sẻ. Wei từng chứng kiến các ngư dân kiểm tra những trang trại thủy sản rộng lớn, trong đó thợ lặn mất 3 - 4 ngày kiểm tra lồng lưới đường kính 400 m. Ngoài mất thời gian, quá trình cũng rất tốn kém.
+
+Để giải quyết thách thức, nhóm nghiên cứu dựa vào robot dưới nước trang bị cảm biến để theo dõi cá và lưới. Robot đầu tiên của họ có thể tuần tra lồng lưới đường kính 400 m chỉ trong 4 giờ, cải tiến đáng kể so với quy trình thủ công. Tuy nhiên, các chuyên gia nhanh chóng vấp phải thách thức mới là phản ứng căng thẳng của cá. Theo Liu giải thích, cá rất dễ căng thẳng và nếu robot tới quá gần, chúng sẽ nhảy lên khỏi mặt nước. Nhằm giảm thiểu xáo trộn, nhóm nghiên cứu thiết kế một robot cá sinh kỹ thuật nhỏ và thuôn dài hơn có thể hòa lẫn vào môi trường mà không làm rối loạn đời sống thủy sinh. "Khi robot cá của chúng tôi bơi, cá sống thường bơi theo chúng, tạo ra vận động tự nhiên nơi cá lớn dẫn theo những con cá nhỏ hơn", Liu cho biết.
+
+Thách thức khác phát sinh với đuôi của robot cá ngừ vung vẩy từ bên này sang bên kia, khiến đầu của nó di chuyển khó dự đoán và làm kiểm tra dưới nước trở nên phức tạp. Để giải quyết vấn đề này, nhóm nghiên cứu phát triển một hệ thống ổn định tầm nhìn, nâng cao khả năng quan sát rõ ràng điều kiện dưới nước.
+
+Theo chuyên gia, những robot sinh kỹ thuật này tích hợp nhiều công nghệ cao cấp, bao gồm hệ thống đẩy giống cá, motor hai trục dẫn động linh hoạt giúp giảm nhiễu loạn và cho phép bơi trơn tru hơn. Chúng cũng sở hữu cảm biến độ chính xác cao để theo dõi chất lượng nước và hành vi của cá theo thời gian thực. Đồng thời, tận dụng trí tuệ nhân tạo, nhóm nghiên cứu phát triển thuật toán điều khiển chuyển động tự động và chip AI siêu nhẹ, giúp robot cá bơi lội, phân tích và tự thích nghi với nhiều môi trường dưới nước.
+
+Những chuyên gia phía sau nghiên cứu cho rằng robot cá mở ra nhiều khả năng mới trong quản lý ngư nghiệp như dẫn dắt cá tới khu vực định trước để thu hoạch hiệu quả hơn và tăng cường các biện pháp cho ăn. Theo Liu, phương pháp cho ăn truyền thống có thể dẫn tới lãng phí hoặc phân bố không đều, nhưng robot cá tích hợp mồi nhử và cảm biến, có thể cung cấp thức ăn chính xác hơn thông qua phân tích dấu hiệu sinh học như kích cỡ, số lượng và mức độ hoạt động. Điều này giúp giảm tình trạng lãng phí mồi nhử, hạ thấp chi phí chăn nuôi thủy sản và tối ưu hóa môi trường phát triển cho cá.
+
+Ngoài chăn nuôi thủy sản, robot cá có tiềm năng ứng dụng trong thăm dò biển sâu và theo dõi tài nguyên biển. Theo Wei, thiết bị dưới nước thông thường rất cồng kềnh, tốn điện và gây rối loạn đời sống sinh vật biển. Cá robot sinh kỹ thuật có thể thu thập dữ liệu biển sâu, theo dõi sinh thái học biển, hỗ trợ lập bản đồ địa hình.
+
+Tính đến nay, nhóm nghiên cứu đã thu thập hơn 200 terabyte dữ liệu video trên hơn chục loài cá, cùng với 10 triệu bức ảnh. Dữ liệu này rất cần thiết để huấn luyện mô hình AI, góp phần vào chăn nuôi thủy sản thông minh và hiệu quả hơn. Triển khai tại 23 khu vực, công nghệ hiện nay giúp quản lý hơn 6,3 triệu m2 trang trại thủy sản trên đất liền và 5,5 tỷ m2 ao và trang trại thủy sản ngoài khơi, cắt giảm 50% chi phí lao động.
+
+An Khang (Theo CGTN)

@@ -1,0 +1,35 @@
+Title: Ứng dụng trí tuệ nhân tạo vào sản xuất nông sản, nông nghiệp công nghệ cao
+
+Ngày 10/11, nhóm nghiên cứu Công nghệ và Thiết bị trong sản xuất nông sản, nông nghiệp công nghệ cao Khoa Cơ- Điện, Học viện Nông nghiệp Việt Nam đã tổ chức buổi seminar khoa học với chủ đề “Ứng dụng trí tuệ nhân tạo và các công nghệ hiện đại trong sản xuất nông sản, nông nghiệp công nghệ cao”.
+
+Sự kiện thu hút đông đảo các thầy cô, các nhà khoa học của nhóm nghiên cứu, Khoa Cơ-Điện và các sinh viên, học viên yêu thích nghiên cứu khoa học.
+
+Đây là dịp các nhà khoa học, thầy cô trao đổi, đề xuất các hướng nghiên cứu có nhiều triển vọng trong việc hiện đại hóa, thông minh hóa các quá trình sản xuất nông sản, nông nghiệp công nghệ cao.
+
+TS. Ngô Quang Ước trình bày chủ đề xu hướng trong nông nghiệp thông minh.
+
+Tại buổi seminar, một số chủ đề đã được trình bày, thảo luận bao gồm: Ứng dụng trí tuệ nhân tạo và công nghệ xử lý ảnh trong việc phát triển hệ thống tự động nhận diện và cảnh báo tình trạng nhiễm bệnh trên cây lúa; Giám sát môi trường trong hệ thống Aquaponics; Ứng dụng Segment Anything Model (SAM) trong nhận diện bệnh hại trên cây trồng; Thách thức và xu hướng trong việc ứng dụng công nghệ IoT, AI trong nông nghiệp thông minh.
+
+Với chủ đề “Ứng dụng trí tuệ nhân tạo và công nghệ xử lý ảnh trong việc phát triển hệ thống tự động nhận diện và cảnh báo tình trạng nhiễm bệnh trên cây lúa”, TS. Nguyễn Thái Học đã trình bày tầm quan trọng và tính cấp thiết trong việc ứng dụng các công nghệ hiện đại trong nhận diện, phát hiện tình trạng nhiễm một số bệnh thông thường trên cây lúa.
+
+Từ đó đưa ra các giải pháp ứng dụng trí tuệ nhân tạo và công nghệ xử lý ảnh tích hợp trong các bộ kit điều khiển tự động thu thập thông tin, nhận diện và phát hiện bệnh trên cây lúa.
+
+Với nhiều kinh nghiệm trong việc ứng dụng công nghệ hiện đại để thông minh hóa các quá trình sản xuất nông sản, nông nghiệp, nhóm tác giả đã trình bày và thể hiện một số kết quả bước đầu khả quan thông qua một số bài báo đã được đăng trên các tạp chí uy tín trong và ngoài nước.
+
+Trong khi đó, ở chủ đề “Thách thức và xu hướng trong việc ứng dụng công nghệ IoT, AI trong nông nghiệp thông minh” TS. Ngô Quang Ước đã khái quát về ứng dụng công nghệ IoT và AI trong nông nghiệp hiện nay.
+
+TS Ước đã đưa ra một số thách thức của nền nông nghiệp thông minh cần đối mặt như diện tích đất nông nghiệp hạn chế và ngày một giảm, các yêu cầu ngày càng khắt khe trong việc sử dụng thuốc bảo vệ thực vật, chi phí đầu tư cho công nghệ lớn và vấn đề bảo mật dữ liệu tránh tin tặc.
+
+Phần cuối, là phần trình bày các xu hướng đang được thế giới quan tâm trong nông nghiệp thông minh là Green IoT, Edge AI, Open Source, robot tự hành, Blockchain và mạng 5G.
+
+Góp ý vào các chủ đề TS. Ngô Trí Dương, Khoa Cơ - Điện, Học viện Nông nghiệp Việt Nam đã chia sẻ kinh nghiệm trong việc ứng dụng nhiều công nghệ để thông minh hóa các quá trình sản xuất nông sản, nông nghiệp công nghệ cao của bản thân.
+
+TS cũng đưa ra nhiều đánh giá, góp ý quý báu cho các tác giả giúp nâng cao chất lượng và gợi mở được nhiều hướng phát triển, triển khai thực hiện các chủ đề để có nhiều sản phẩm thông minh, hiệu quả trong sản xuất nông sản, nông nghiệp.
+
+Thay mặt nhóm nghiên cứu mạnh Công nghệ và thiết bị trong sản xuất nông sản, nông nghiệp công nghệ cao, TS. Nguyễn Thái Học đã gửi lời cảm ơn sâu sắc sự quan tâm chỉ đạo, định hướng của lãnh đạo các cấp từ Học viện tới Khoa Cơ-Điện, sự đóng góp của các thành viên, nghiên cứu viên trong nhóm đã tích cực thực hiện nhiều hoạt động ứng dụng công nghệ hiện đại trong sản xuất nông sản, nông nghiệp công nghệ cao.
+
+Từ đó đưa ra các định hướng, chiến lược phát triển phù hợp cho nhóm nhằm sớm gặt hái nhiều sản phẩm với nhiều bài báo được đăng trên các tạp chí uy tín trong và ngoài nước, đăng ký và thực hiện được nhiều đề tài, nhiệm vụ khoa học cũng như chuyển giao được nhiều sản phẩm khoa học khác.
+
+Học viện Nông nghiệp những năm gần đây luôn coi trọng việc nghiên cứu khoa học gắn với thực tiễn. Nhiều đề tài của giảng viên, sinh viên nhà trường đã được triển khai mang lại giá trị kinh tế cao.
+
+Diệu Bình và nhóm PV, BTV

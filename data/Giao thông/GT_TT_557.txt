@@ -1,0 +1,45 @@
+Báo New York Times cho biết việc phê duyệt chip H200 diễn ra sau nhiều tháng mặc cả giữa phe ủng hộ ngành chip và phe diều hâu quốc phòng của Mỹ - Ảnh: Reuters
+
+Quyết định của Tổng thống Donald Trump cho phép Nvidia xuất khẩu chip AI tiên tiến H200 sang Trung Quốc với điều kiện chia sẻ 25% doanh thu đánh dấu bước ngoặt trong chính sách công nghệ Mỹ - Trung, phản ánh cuộc giằng co giữa lợi ích kinh tế và an ninh quốc gia.
+
+Tổng thống Trump ngày 8-12 thông báo Nvidia sẽ được phép xuất loại chip H200 cho "các khách hàng đã được phê duyệt" ở Trung Quốc và những nơi khác, với điều kiện Chính phủ Mỹ nhận 25% doanh thu.
+
+Chủ tịch Trung Quốc Tập Cận Bình đã "phản hồi tích cực" với đề xuất này, ông Trump viết trên mạng xã hội Truth Social. Ông khẳng định chính sách "sẽ hỗ trợ việc làm ở Mỹ, củng cố ngành sản xuất Mỹ, mang lại lợi ích cho người đóng thuế Mỹ"; và cách tiếp cận tương tự sẽ áp dụng cho AMD, Intel cùng các công ty Mỹ vĩ đại khác.
+
+Chip H200 và ý nghĩa chiến lược
+
+H200 là chip AI tiên tiến dành cho trung tâm dữ liệu được giới thiệu từ năm 2024, thuộc thế hệ Hopper, đang được nhiều hãng AI lớn nhất của Mỹ sử dụng.
+
+Chip này dùng khuôn logic GH100, là loại sáu chồng, bộ nhớ băng thông cao (HBM), được Nvidia quảng cáo "đạt hiệu suất suy luận AI vượt trội".
+
+Trước thông báo của ông Trump, chip này thuộc diện được kiểm soát xuất khẩu nghiêm ngặt vì có tổng hiệu suất xử lý vượt ngưỡng quy định gần 10 lần.
+
+Theo phân tích trên trang Viện Vì tiến bộ (IFP) ở Mỹ xuất bản ngày 7-12, các phòng thí nghiệm AI Trung Quốc có thể sử dụng H200 để xây dựng siêu máy tính đào tạo AI mạnh mẽ tương đương các máy hiện có ở các phòng thí nghiệm AI Mỹ.
+
+Cả Nvidia và đối thủ AMD đều đã đồng ý vào tháng 8 chia sẻ 15% doanh thu từ hoạt động bán chip cho Trung Quốc với Chính phủ Mỹ.
+
+Nhưng theo Đài CNBC, lúc đó đã xuất hiện thông tin Trung Quốc cảnh báo các công ty trong nước không nên sử dụng chip AI H20 mà Nvidia thiết kế đặc biệt cho thị trường này. H200 là chip cấp cao hơn H20, nhưng không phải sản phẩm hàng đầu của công ty.
+
+Tháng trước, chính quyền Trump đã quyết định không xuất khẩu phiên bản chip AI Blackwell hàng đầu của Nvidia sang Trung Quốc. Thông báo mới cho thấy Washington vẫn chưa quyết định dứt khoát về việc chia tách hoàn toàn kết nối công nghệ với Bắc Kinh trong phát triển AI.
+
+Cuộc đấu tranh nội bộ
+
+Động thái mới đánh dấu sự thay đổi của ông Trump sau chiến dịch vận động của CEO Nvidia - ông Jensen Huang - và ông David Sacks - cố vấn chuyên trách về AI và tiền mã hóa của ông Trump.
+
+Họ bác bỏ những lo ngại về an ninh quốc gia liên quan chip AI, lập luận rằng tăng doanh số bán hàng của Nvidia cho Trung Quốc sẽ khiến các công ty Trung Quốc phụ thuộc vào công nghệ Mỹ và mang về nhiều tiền hơn để phát triển các thế hệ chip tương lai.
+
+Tuần trước, ông Huang gặp ông Trump tại Nhà Trắng, và sau đó ông Trump ca ngợi vị giám đốc điều hành này hết lời.
+
+"Chúng tôi hoan nghênh quyết định của Tổng thống Trump nhằm cho phép ngành công nghiệp chip Mỹ cạnh tranh để hỗ trợ các công việc được trả lương cao và sản xuất tại Mỹ", người phát ngôn Nvidia nói với CNBC ngày 9-12.
+
+Báo New York Times cho biết việc phê duyệt chip H200 diễn ra sau nhiều tháng mặc cả giữa phe ủng hộ ngành chip và phe diều hâu quốc phòng. Chính quyền Mỹ cũng mất nhiều tháng đấu tranh về vấn đề này.
+
+Phân tích của IFP nêu quyết định cho phép xuất khẩu số lượng đáng kể chip Hopper tiên tiến sang Trung Quốc sẽ có một số ngụ ý quan trọng. Thứ nhất, nó đi chệch đáng kể so với chiến lược kiểm soát xuất khẩu hiện tại. Điều này quan trọng do các công ty trong nước Trung Quốc, đáng kể nhất là Huawei, dự kiến chưa thể sản xuất chip AI sánh ngang H200 cho đến sớm nhất là quý 4-2027.
+
+Thứ hai, với chip Hopper, các phòng thí nghiệm AI Trung Quốc sẽ có thể xây dựng siêu máy tính AI đạt hiệu suất tương tự Mỹ với chi phí tăng thêm chỉ 50% - không đáng kể so với nguồn lực và mục tiêu lớn lao của Bắc Kinh trong mảng công nghệ then chốt này.
+
+Cuối cùng là vấn đề lập luận "phụ thuộc công nghệ Mỹ" của ông Huang. Hoạt động nhập khẩu chip từ Mỹ quả có thể làm chậm nỗ lực nội địa hóa của Trung Quốc. Nhưng sản lượng ở mức cao nhất của Huawei hiện vẫn thấp hơn đáng kể so với nhu cầu trong nước, khiến chip từ Mỹ sẽ chỉ bổ sung cho tổng năng lực tính toán của Trung Quốc, chứ không thay thế sản xuất trong nước.
+
+Bắc Kinh cũng có thể duy trì nhu cầu nhân tạo với chip nội địa qua các lệnh mua sắm và hạn chế với chip nước ngoài trong cơ sở hạ tầng quan trọng, như họ đã làm lâu nay, bất kể chính sách xuất khẩu của Mỹ.
+
+Khoảng cách công nghệ vẫn còn xa Ngay cả khi Trung Quốc có thể sản xuất chip ở quy mô lớn, thiết kế chip hiện tại vẫn kém cạnh tranh hơn H200. Theo lộ trình ba năm được công bố gần đây, Huawei dự kiến sẽ không sản xuất chip AI cạnh tranh được với H200 cho đến sớm nhất là quý 4-2027. Từ đây tới đó, H200 vẫn vượt trội so với bất kỳ chip sản xuất nội địa nào của Trung Quốc. So với chip tốt nhất của Trung Quốc hiện nay - Huawei Ascend 910C, H200 cung cấp sức mạnh xử lý cao hơn khoảng 32% (yếu tố quyết định hiệu suất đào tạo AI), và băng thông bộ nhớ nhiều hơn 50% (yếu tố quyết định hiệu suất suy luận). Về hiệu suất theo chi phí, H200 mang lại lợi thế khoảng 16% so với 910C cho xử lý và 32% cho băng thông bộ nhớ, theo IFP.

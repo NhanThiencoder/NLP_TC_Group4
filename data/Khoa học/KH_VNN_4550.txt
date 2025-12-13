@@ -1,0 +1,29 @@
+Đại diện FPT đã giới thiệu với Ủy viên Trung ương Đảng, Phó Thủ tướng Chính phủ Bùi Thanh Sơn và Phó Tổng thống Ecuador María José Pinto González Artigas (áo trắng) cùng đoàn đại biểu về Nền tảng giám sát bảo mật thông minh bằng AI của FPT đang được triển khai hiệu quả trong một số dự án an ninh quốc gia.
+
+Ngày 25/10, Tập đoàn FPT tham dự Lễ mở ký Công ước Liên Hợp Quốc về chống tội phạm mạng (Công ước Hà Nội) và Triển lãm quốc tế trong khuôn khổ sự kiện, đồng hành cùng Chính phủ trong nỗ lực xây dựng không gian số an toàn, tự chủ, bền vững và thúc đẩy hợp tác công – tư nhằm bảo vệ an toàn thông tin và chủ quyền số quốc gia.
+
+Công ước Hà Nội là văn kiện pháp lý đầu tiên của Liên Hợp Quốc về phòng, chống tội phạm mạng. Sự kiện này đánh dấu bước ngoặt lịch sử khi Việt Nam trở thành quốc gia đăng cai ký kết công ước toàn cầu đầu tiên về an ninh mạng, thể hiện vai trò chủ động, sáng tạo và có trách nhiệm của Việt Nam trong nỗ lực kiến tạo không gian mạng an toàn, lành mạnh và hợp tác quốc tế vì hòa bình, thịnh vượng.
+
+Bảo vệ chủ quyền số là sứ mệnh quốc gia của doanh nghiệp công nghệ Việt
+
+Chia sẻ tại sự kiện, ông Trương Gia Bình, Chủ tịch Tập đoàn FPT, nhấn mạnh: “Tương lai của thế giới là tương lai số. Trí tuệ nhân tạo đang thực hiện nhiều công việc tốt hơn con người trong từng lĩnh vực cụ thể. Chúng ta sẽ sống, làm việc và giao tiếp trong không gian số, và khi đó, an toàn – an ninh mạng trở thành vấn đề sống còn của mọi tổ chức và quốc gia. Công ước Hà Nội là bước ngoặt mang tính biểu tượng lớn, khi lần đầu tiên Liên Hợp Quốc ký kết một khung pháp lý toàn cầu ngay tại Việt Nam. Điều này thể hiện rằng Việt Nam không chỉ là người tham gia, mà là quốc gia kiến tạo và đề xuất các sáng kiến toàn cầu.”
+
+Ông Bình khẳng định thêm: “FPT xác định bảo vệ an ninh mạng quốc gia là nhiệm vụ hàng đầu của doanh nghiệp công nghệ Việt. Mô hình công – tư đồng kiến tạo chính là sức mạnh của Việt Nam trong lĩnh vực an toàn, an ninh mạng, bảo vệ chủ quyền của Việt Nam trên không gian số.”
+
+Trong những năm qua, FPT đã đầu tư mạnh mẽ vào nghiên cứu và phát triển hệ sinh thái an ninh mạng, theo triết lý bảo mật chủ động, ứng dụng sâu rộng Trí tuệ nhân tạo (AI).
+
+Hệ sinh thái bảo mật toàn diện của FPT – từ đào tạo, tư vấn đến cung cấp sản phẩm và giải pháp – khẳng định năng lực công nghệ của doanh nghiệp Việt và cam kết đồng hành cùng Chính phủ, tổ chức, doanh nghiệp trong hành trình xây dựng môi trường số an toàn, tự chủ và phát triển bền vững.
+
+Mỗi năm, FPT thực hiện hơn 1.500 dự án an ninh mạng, với khả năng tự động hóa cao, giúp tăng 400% tốc độ xử lý sự cố bảo mật, giảm thiểu thiệt hại và rủi ro.
+
+Hệ thống quản trị bảo mật của FPT đã đạt hàng loạt chứng nhận quốc tế như: ISO/IEC 27001:2022, ISO/IEC 27017:2015, ISO/IEC 27018:2019, PCI DSS, SOC 2 Type 2, SOC 3, ISO/SAE 21434 và Chứng nhận ATTT cấp độ 4 cho nền tảng điện toán đám mây. Các trung tâm điều hành an ninh mạng (SOC) của FPT cũng đạt chứng nhận CREST – tiêu chuẩn quốc tế hàng đầu trong lĩnh vực bảo mật.
+
+Song song đó, Trường Đại học FPT là một trong số ít cơ sở đào tạo tại Việt Nam có chương trình chuyên sâu về an toàn thông tin, góp phần cung ứng nhân lực chất lượng cao cho ngành an ninh mạng quốc gia.
+
+“Lá chắn số” FPT – Sức mạnh công nghệ Việt bảo vệ tương lai số
+
+Tại triển lãm trong khuôn khổ Lễ ký Công ước Hà Nội, FPT giới thiệu 8 nền tảng và giải pháp bảo mật ứng dụng AI tiêu biểu, trong đó nổi bật là: QaiDora Vision và FPT Camera AI – Nền tảng giám sát an ninh ứng dụng trí tuệ nhân tạo; NightWolf SecureOne – Giải pháp an ninh mạng tinh gọn cho doanh nghiệp hiện đại; Bộ dịch vụ tư vấn, đánh giá & giám sát – vận hành an ninh mạng 24/7 ứng dụng AI; Dòng chip quản lý nguồn (FPT Access Control System) ứng dụng trong thiết bị xác thực Căn cước công dân và quản lý an toàn học đường; Giải pháp tư vấn sức khỏe từ xa bằng AI, hỗ trợ người dùng kiểm tra, theo dõi huyết áp qua camera điện thoại.
+
+Trong đó, nền tảng giám sát an ninh ứng dụng AI được lựa chọn triển khai tại một số dự án quốc gia, giúp chuyển đổi công tác đảm bảo an ninh, an toàn công cộng từ bị động sang chủ động, dự báo và ngăn chặn rủi ro ngay từ đầu.
+
+Hệ thống có thể phát hiện và ngăn chặn tới 80% sự cố tiềm ẩn, nhờ khả năng cảnh báo sớm bằng AI và phân tích hành vi bất thường theo thời gian thực như ẩu đả, xâm nhập trái phép hay tình huống nguy hiểm. Tốc độ phản ứng nhanh hơn 3–5 lần so với giám sát thủ công, giúp lực lượng chức năng can thiệp kịp thời, giảm đáng kể các vụ việc nghiêm trọng.

@@ -1,0 +1,29 @@
+Ông Vũ Ngọc Sơn, Trưởng Ban Nghiên cứu, tư vấn, phát triển công nghệ và hợp tác quốc tế, Hiệp hội An ninh mạng Quốc gia, cho biết một trong những điểm mới của Dự thảo Luật An ninh mạng 2025 là nhấn mạnh vai trò và trách nhiệm đặc biệt của người đứng đầu cơ quan, tổ chức, doanh nghiệp trong bảo đảm an ninh mạng.
+
+Tại Tọa đàm “Luật An ninh mạng 2025: Bước tiến bảo vệ an ninh dữ liệu” tổ chức ngày 24/11, ông Vũ Ngọc Sơn, Trưởng Ban Nghiên cứu, tư vấn, phát triển công nghệ và hợp tác quốc tế, Hiệp hội An ninh mạng Quốc gia, cho biết một trong những điểm mới của Dự thảo Luật An ninh mạng 2025 là nhấn mạnh vai trò và trách nhiệm đặc biệt của người đứng đầu cơ quan, tổ chức, doanh nghiệp trong bảo đảm an ninh mạng, thậm chí phải có chứng chỉ về an ninh mạng.
+
+Đây không phải chứng chỉ về chuyên gia an ninh mạng mà cần có chứng chỉ về quản lý, quản trị an ninh mạng. Sau khi Luật An ninh mạng 2025 được thông qua sẽ có hướng dẫn cụ thể về vấn đề này và Hiệp hội sẽ đồng hành để ban hành các tiêu chuẩn và hướng dẫn chi tiết trong Luật an ninh mạng.
+
+Quy định này phản ánh đúng thực tiễn: an ninh mạng chỉ thực sự hiệu quả khi được đặt ở vị trí ưu tiên trong quản trị và ra quyết định.
+
+Nếu người đứng đầu không hiểu về an ninh mạng, mọi chiến lược, quy trình, đầu tư kỹ thuật và phân công nhân sự đều có nguy cơ chỉ mang tính hình thức hoặc triển khai thiếu trọng tâm.
+
+Ngược lại, khi lãnh đạo có hiểu biết và kỹ năng đủ sâu, các quyết sách về bảo vệ hệ thống thông tin, đầu tư công nghệ, tổ chức nhân sự và vận hành dữ liệu sẽ đi đúng hướng, phát huy hiệu quả và bảo đảm tính bền vững.
+
+Nếu như trước đây, người dùng tự mình coi mình là người hưởng thụ chứ chưa có ý thức về bảo vệ dữ liệu cá nhân của mình thì Luật An ninh mạng 2025 cũng quy định về cung cấp và chia sẻ thông tin có kiểm soát, có biện pháp bảo vệ dữ liệu của cá nhân.
+
+Ông Vũ Ngọc Sơn cho rằng đều này giống như cá nhân có trách nhiệm phải bảo vệ tài sản vật lý của mình với nhiều biện pháp như khóa cửa, làm hàng rào để tránh trộm cắp.
+
+Chia sẻ tại buổi tọa đàm của của Hiệp hội An ninh mạng với giới truyền thông hồi tháng 7/2025, Thượng tá Lê Xuân Thủy, Giám đốc Trung tâm An ninh mạng quốc gia, Cục A05, Bộ Công an cho hay: “Chúng tôi nhận thấy, các hệ thống thông tin ở Việt Nam, dù đã có các tiêu chuẩn, nhưng vẫn liên tục bị tấn công trong nhiều năm qua, từ khu vực Chính phủ, năng lượng, ngân hàng đến công nghiệp. Điều đó chứng tỏ những quy định hiện hành là chưa đủ”.
+
+Có hai đối tượng áp dụng là những hệ thống thông tin quan trọng về lĩnh vực an ninh quốc gia. Đây là những hệ thống mà nếu như tấn công thì hậu quả xảy ra không chỉ tác động đến cơ quan chủ quản mà nó sẽ ảnh hưởng đến cả cộng đồng.
+
+Thượng tá Lê Xuân Thủy đưa ví dụ các hệ thống thông tin trong lĩnh vực năng lượng, nếu bị tấn công thì ảnh hưởng đến cả xã hội, ảnh hưởng đến an ninh năng lượng, hay hệ thống viễn thông, ngân hàng bị tấn công sẽ rất nguy hiểm cho cả cộng đồng.
+
+Đối tượng thứ hai là hệ thống thông tin của cơ quan nhà nước, hệ thống này chứa đựng những bí mật của các cơ quan nhà nước hoặc những hệ thống liên quan đến dịch vụ công cho xã hội.
+
+“Việc đưa yêu cầu quản lý này rất quan trọng vì thực tế chúng tôi xử lý các vụ tấn công mạng thấy rằng có nhiều tài sản công nghệ thông tin đã bị bỏ quên, không quản lý nên không được cập nhật, không được vá lỗi, không được vận hành một cách bài bản nên trở thành bàn đạp cho tin tặc tấn công vào hệ thống thông tin trọng yếu”, Thượng tá Lê Xuân Thủy nói.
+
+Chia sẻ với báo chí trước đó, Thiếu tá Trần Trung Hiếu, Phó Giám đốc Trung tâm An ninh mạng quốc gia - Cục A05, Bộ Công an, cho biết các thách thức trong đảm bảo an toàn, an ninh mạng ngày càng gia tăng trong thời gian vừa qua. Rất nhiều người đứng đầu các cơ quan, doanh nghiệp không nắm được những sự cố an ninh mạng đang xảy ra trong đơn vị mình.
+
+“Nhiều lãnh đạo các tổ chức chưa quan tâm đúng mức đến an ninh mạng của đơn vị mình. Thực tế đã xảy ra nhiều vụ tấn công mạng nhằm vào các tổ chức và tin tặc đã đánh cắp dữ liệu tổ chức, dữ liệu cá nhân, tài liệu, bí mật Nhà nước… Chúng tôi đã nhắc nhở rất nhiều lần với các cơ quan doanh nghiệp bằng văn bản nếu xảy ra tình trạng mất an ninh mạng, gây ảnh hưởng đến an ninh quốc gia, làm mất tài liệu bí mật Nhà nước, chúng tôi có thể tính toán xử lý hình sự với quy định trách nhiệm của người đứng đầu. Chúng tôi có thể sẽ tính toán xử lý về hành vi thiếu trách nhiệm gây hậu quả nghiêm trọng và cố ý làm trái”, Thiếu tá Trần Trung Hiếu nói.

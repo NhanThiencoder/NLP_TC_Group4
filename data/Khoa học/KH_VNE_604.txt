@@ -1,0 +1,13 @@
+Công nghệ nhận diện gương mặt hoạt động thế nào?
+
+Công nghệ nhận diện gương mặt hoạt động thế nào?
+
+
+
+
+
+
+
+
+
+Dựa trên so sánh đặc trưng trên gương mặt một người với hình ảnh trong cơ sở dữ liệu, công nghệ nhận diện gương mặt đang được sử dụng để đối phó tội phạm, truy cập tài khoản, mạng xã hội…

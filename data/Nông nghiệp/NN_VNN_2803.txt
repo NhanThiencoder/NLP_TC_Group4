@@ -1,0 +1,21 @@
+Title: Ứng dụng blockchain trong nông nghiệp: Việt Nam lại đi sau người Thái
+
+Theo các chuyên gia, blockchain là công nghệ lưu trữ và truyền tải thông tin bằng các khối được liên kết với nhau và mở rộng theo thời gian. Mỗi khối chứa đựng các thông tin về thời gian khởi tạo và được liên kết với các khối trước đó.
+
+Blockchain về cơ bản sẽ góp phần thay đổi ngành nông nghiệp toàn cầu và cải thiện đáng kể khả năng của các công ty và cá nhân trong việc theo dõi sản xuất và chế biến các sản phẩm nông nghiệp.
+
+Thế nhưng, tại Việt Nam, ứng dụng blockchain trong nông nghiệp là rất mới. Hiện, công nghệ cùng với đất đai, tuổi thọ chính sách và liên kết giữa doanh nghiệp với người nông dân, vẫn là 4 nút thắt căn bản trong phát triển nông nghiệp công nghệ cao.
+
+Khó tiếp cận chuỗi giá trị cao
+
+Nông nghiệp, sinh kế của hơn 70% dân số Việt Nam. Tuy nhiên, giá cao hơn, mẫu mã và chất lượng không đồng đều, đang là những yếu tố khiến sản phẩm nông sản của Việt Nam khó cạnh tranh với sản phẩm cùng loại của Thái Lan ở cả trên thị trường quốc tế và trong nước.
+
+Chính phủ Việt Nam những năm gần đây đã có những chính sách, giải pháp khuyến khích áp dụng công nghệ cao trong nông nghiệp. Tuy nhiên, những công nghệ đang áp dụng không nhiều ý nghĩa, khi chưa chứng minh được chất lượng sản phẩm.
+
+TS. Đào Thế Anh, Phó Giám đốc Viện Khoa học Nông nghiệp Việt Nam, cho biết, sản phẩm nông nghiệp của Việt Nam đang thua trên hầu hết các thị trường hàng hóa. Ông nói, minh bạch thông tin là điểm “yếu kém nhất”.
+
+Trên thị trường thế giới, hạt tiêu của Thái Lan được bán với giá 150.000 đồng/kg trong khi hạt tiêu của Việt Nam chỉ bán được 90.000 đồng/kg, TS. Thế Anh dẫn chứng. Ông cho rằng, nếu không áp dụng công nghệ cao, sản phẩm củaViệt Nam rất “khó tiếp cận chuỗi giá trị cao”.
+
+Ứng dụng công nghệ với giá 0 đồng
+
+Công ty Cổ phần Lina Network, ngày 24.4, đã đạt được thỏa thuận với ChokChai, Tập đoàn chăn nuôi bò sữa lớn nhất Đông Nam Á, Tập đoàn S.A.P Siam Food và Tập đoàn AIM THAI, cho hợp tác ứng dụng công nghệ Lina Supply Chain để minh bạch hóa nguồn gốc và chất lượng sản phẩm nông nghiệp bằng công nghệ Lina Supply chain.

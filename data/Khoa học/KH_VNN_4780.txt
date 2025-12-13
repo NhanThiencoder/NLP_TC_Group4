@@ -1,0 +1,35 @@
+Góp phần thúc đẩy kỷ nguyên AI của Việt Nam
+
+Thời kỳ AI hóa thể hiện một bước chuyển đổi mạnh mẽ, khi trí tuệ nhân tạo thấm vào mọi mặt đời sống và trở thành một lớp hạ tầng nền tảng. Đây là kỷ nguyên mà AI đóng vai trò là công cụ hỗ trợ, giúp con người phát huy năng lực vượt trội và tạo ra những giá trị lớn hơn cho xã hội.
+
+Tại Việt Nam, khái niệm AI hóa đã được Bộ trưởng Bộ trưởng Bộ Khoa học & Công nghệ Nguyễn Mạnh Hùng nhấn mạnh tại Hội thảo khoa học cấp quốc gia về AI diễn ra vào ngày 15/9/2025 cùng thông điệp “AI phải trở thành hạ tầng trí tuệ của đất nước, phục vụ nhân dân, phát triển bền vững và nâng cao năng lực cạnh tranh quốc gia”.
+
+Điều này không chỉ là viễn cảnh, mà là thực tế đang diễn ra.
+
+Doanh nghiệp trong nước cũng đang đầu tư mạnh mẽ cho AI, từ nghiên cứu, hạ tầng đến ứng dụng.
+
+Trong xu thế đó, Zalo AI Summit 2025 được tổ chức với chủ đề “Việt Nam trong kỷ nguyên AI hóa” (Vietnam in the Era of AI-fication) nhằm cùng nhau nhìn lại bức tranh tổng thể về hiện trạng, xu hướng và tiềm năng AI tại Việt Nam, thông qua đó cho thấy tầm quan trọng của việc phát triển AI một cách có trách nhiệm.
+
+Nơi hội ngộ của những chuyên gia công nghệ AI Việt
+
+Diễn ra vào ngày 20/12/2025, Zalo AI Summit quy tụ các diễn giả là những chuyên gia đầu ngành đến từ các đơn vị lớn tại Việt Nam và thế giới như Open AI, Nvidia, Zalo AI, Đại học Bách Khoa TP.HCM. Đây là năm thứ 8 Zalo AI Summit được tổ chức, thu hút sự quan tâm và tham dự của hàng nghìn người mỗi năm, trực tiếp tại sự kiện hoặc qua livestream trực tuyến.
+
+Đến với sự kiện Zalo AI Summit 2025, người yêu công nghệ và AI sẽ được lắng nghe những bài tham luận và cập nhật xu hướng phát triển AI mới nhất từ Việt Nam đến toàn cầu xoay quanh các chủ đề: Làn sóng AI vật lý, các hệ thống đa tác tử AI, sóng ngầm về chip AI và ứng dụng của AI trong công việc và cuộc sống hàng ngày.
+
+Các phiên thảo luận tại Zalo AI Summit 2025 phác họa bức tranh toàn cảnh về những chuyển động mới trong kỷ nguyên AI.
+
+Với kinh nghiệm làm việc tại Nvidia, TS. Trần Minh Quân mang đến câu chuyện về làn sóng AI vật lý, cho thấy cách công nghệ GPU tiên tiến đang thúc đẩy robot và hệ thống vật lý bứt phá mạnh mẽ. TS. Phạm Hy Hiếu - chuyên gia từ OpenAI, phân tích cuộc cạnh tranh chiến lược trong ngành chip - nền tảng quyết định tốc độ và sức mạnh của các mô hình AI cùng vai trò của những tên tuổi như Nvidia, Google, Meta, AMD hay Intel.
+
+Ở góc nhìn ứng dụng, PGS. Quản Thành Thơ đến từ trường Đại học Bách Khoa TP.HCM trình bày tiềm năng của multi-agent AI trong việc tạo ra các hệ thống biết hợp tác, giải quyết bài toán phức tạp và tái định hình quy trình vận hành trong tương lai. TS. Nguyễn Trường Sơn và TS. Châu Thành Đức từ Zalo chia sẻ các phân tích chuyên sâu về AI-fication tại Việt Nam, cho thấy cách Agentic AI đang được đưa vào trợ lý ảo, tự động hóa và công cụ lập trình để nâng cao hiệu quả làm việc và phục vụ tốt hơn nhu cầu của hàng triệu người dùng.
+
+Bên cạnh những bài tham luận chuyên sâu về chủ đề trí tuệ nhân tạo, tại diễn đàn Zalo AI Summit 2025, Zalo AI sẽ giới thiệu những sản phẩm AI mới, phục vụ nhu cầu của người dùng Việt Nam.
+
+Trong khuôn khổ sự kiện, lễ trao giải thưởng cho các nhà vô địch tại đấu trường Zalo AI Challenge 2025 cũng sẽ được tổ chức. Diễn ra từ ngày 27/10 - 20/11/2025, cuộc thi Zalo AI Challenge 2025 thu hút sự tham gia của 1060 đội thi, tranh tài với 2 đề bài: "AeroEyes - Finding and Rescuing with AI-Powered Drones" - xây dựng thuật toán để điều khiển drone thực hiện nhiệm vụ tìm kiếm cứu nạn và "RoadBuddy - Understanding the Road through Dashcam AI" - xây dựng một trợ lý lái xe có khả năng hiểu nội dung video từ camera hành trình để nhanh chóng trả lời các câu hỏi liên quan đến biển báo giao thông, tín hiệu và hướng dẫn lái xe. Với chủ đề “AI as an efficient partner”, Zalo AI Challenge 2025 có tổng giá trị giải thưởng lên tới 12 nghìn USD. Cuộc thi có sự đồng hành của công ty Realtime Robotics, đối tác truyền thông ZNews, nhà tài trợ LeadTek Việt Nam, cùng đội ngũ ban cố vấn uy tín là những chuyên gia trong lĩnh vực trí tuệ nhân tạo.
+
+Trưởng Ban tổ chức diễn đàn Zalo AI Summit, ông Nguyễn Minh Tú - Giám đốc công nghệ Zalo, khẳng định: “Zalo AI Summit 2025 không chỉ là nơi gặp gỡ của cộng đồng công nghệ quan tâm đến AI, mà còn là diễn đàn nơi các chuyên gia đầu ngành chia sẻ những chủ đề chuyên sâu và giới thiệu các bài toán thực tiễn từ cuộc thi Zalo AI Challenge. Tất cả đều bám sát nhu cầu của cộng đồng, phù hợp với thông điệp “Việt Nam trong kỷ nguyên AI hoá" của chương trình năm nay”.
+
+Được tổ chức thường niên từ năm 2017, Zalo AI Summit 2025 đã trở thành diễn đàn trí tuệ nhân tạo uy tín cũng như không gian kết nối của cộng đồng AI Việt Nam. Hơn cả một sự kiện công nghệ, sự trở lại của Zalo AI Summit năm nay ghi dấu việc Việt Nam bước sâu vào kỷ nguyên AI hóa, coi AI là động lực then chốt cho phát triển bền vững trong tương lai.
+
+Zalo AI Summit 2025 với chủ đề “Vietnam in the Era of AI-fication” - Việt Nam trong kỷ nguyên AI hoá, sẽ được tổ chức vào lúc 8 giờ sáng thứ Bảy, ngày 20/12/2025, tại VNG Campus, khu chế xuất Tân Thuận, TP.HCM. Sự kiện sẽ được phát sóng trực tiếp trên các kênh thông tin chính thức của Zalo, dự kiến sẽ thu hút hơn 400 kỹ sư AI tham gia.
+
+Bích Đào

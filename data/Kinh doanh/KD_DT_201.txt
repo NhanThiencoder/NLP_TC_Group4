@@ -1,0 +1,59 @@
+Title: “Nvidia Trung Quốc” Cambricon hóa ngôi sao nhờ vòng vây cấm vận?
+
+"Cơn địa chấn" mang tên Cambricon
+
+Trong thế giới tài chính, con số tăng trưởng 4.348% trong vòng 6 tháng không những là không tưởng mà còn gây địa chấn. Ấy vậy mà Cambricon Technologies, một công ty chip AI có trụ sở tại Bắc Kinh (Trung Quốc), đã biến điều không tưởng đó thành sự thật trong báo cáo tài chính nửa đầu năm nay.
+
+Cụ thể, gã khổng lồ bán dẫn được mệnh danh là “Nvidia thu nhỏ của Trung Quốc” đã công bố doanh thu đạt 2,88 tỷ nhân dân tệ (khoảng 403,8 triệu USD), một cú nhảy vọt thẳng đứng so với cùng kỳ năm trước. Quan trọng hơn, công ty đã thực hiện một cú đảo chiều ngoạn mục, từ khoản lỗ ròng 533 triệu nhân dân tệ nửa đầu năm 2024 sang lợi nhuận kỷ lục 1,04 tỷ nhân dân tệ.
+
+Tin tức này ngay lập tức thổi bùng ngọn lửa lạc quan trên Sàn giao dịch Chứng khoán Thượng Hải. Cổ phiếu Cambricon, vốn đã tăng giá gần 10 lần trong 2 năm qua, tiếp tục nối dài đà tăng trưởng ấn tượng. Chỉ trong vòng một tháng, giá đã tăng hơn gấp đôi, bổ sung thêm hơn 40 tỷ USD vào vốn hóa thị trường, đưa tổng giá trị công ty lên mức khoảng 80 tỷ USD.
+
+Sự hưng phấn này không chỉ đến từ những con số tài chính mà được củng cố bởi một thông tin mang tính chiến lược: start up AI hàng đầu Trung Quốc, DeepSeek, tuyên bố mô hình V3.1 mới nhất của họ được huấn luyện trên một định dạng dữ liệu mới, được thiết kế để "phù hợp với các loại chip nội địa sắp ra mắt". Thị trường ngay lập tức hiểu rằng, "chip nội địa" ở đây không ai khác chính là Cambricon.
+
+Với doanh thu tăng trưởng 4.348% và lần đầu có lãi kể từ khi niêm yết, Cambricon đang trở thành biểu tượng cho khát vọng bán dẫn của Trung Quốc (Ảnh: Synced).
+
+Hiệu ứng "nhà kính" từ lệnh cấm vận của Mỹ
+
+Nhìn bề ngoài, thành công của Cambricon là một câu chuyện kinh điển về việc nắm bắt đúng xu hướng công nghệ. Báo cáo của công ty lý giải mức tăng trưởng là nhờ “mở rộng thị trường liên tục và hỗ trợ tích cực cho việc triển khai các ứng dụng AI”.
+
+Kể từ tháng 12/2022, Cambricon đã nằm trong "danh sách đen thương mại" của Mỹ. Lệnh cấm này cắt đứt khả năng tiếp cận của công ty với các công nghệ cốt lõi của Mỹ, bao gồm cả dịch vụ sản xuất chip tiên tiến từ gã khổng lồ TSMC. Về lý thuyết, đây là một đòn chí tử.
+
+Tuy nhiên, thực tế lại diễn ra theo một kịch bản không ai ngờ tới. Các lệnh cấm vận của Mỹ đã vô tình tạo ra một "hiệu ứng nhà kính" cho các công ty chip nội địa như Cambricon.
+
+Giới chuyên gia nhận định, khi các gã khổng lồ công nghệ Trung Quốc như Alibaba, Tencent đối mặt với nguy cơ thường trực bị cắt nguồn cung chip AI hiệu năng cao từ Nvidia, họ buộc phải tìm kiếm và nuôi dưỡng các phương án thay thế trong nước. Đó không còn là một lựa chọn, mà là một yêu cầu sống còn về an ninh công nghệ quốc gia.
+
+Bắc Kinh cũng được cho là đã khuyến cáo các doanh nghiệp hạn chế mua chip H20 (phiên bản giới hạn cho thị trường Trung Quốc) của Nvidia, càng tạo thêm động lực cho việc "dùng hàng nội".
+
+Kết quả là, Cambricon bỗng nhiên có được một thị trường được bảo hộ gần như tuyệt đối. Các khách hàng lớn nhất, dù có thể vẫn ưa chuộng hiệu năng vượt trội của Nvidia, nhưng vì rủi ro địa chính trị và định hướng của chính phủ, đã bắt đầu chuyển một phần ngân sách khổng lồ của mình sang cho Cambricon.
+
+Cú bứt phá doanh thu từ cuối năm 2024, thời điểm các lệnh cấm vận của Mỹ được siết chặt hơn, chính là minh chứng rõ ràng nhất cho hiệu ứng này.
+
+Cuộc đua song mã: Phần cứng và "linh hồn" CUDA
+
+Thành công của Cambricon không chỉ đến từ yếu tố thời thế. Nền tảng của nó được xây dựng bởi hai anh em Chen Yunji (42 tuổi) và Chen Tianshi (40 tuổi), những người từng xuất thân từ "lớp học thanh thiếu niên thiên tài" danh giá của Viện Hàn lâm Khoa học Trung Quốc. Họ hiểu rằng, để thách thức Nvidia, chỉ có phần cứng tốt là chưa đủ.
+
+Nvidia không chỉ thống trị bằng những con chip GPU mạnh mẽ. Vũ khí bí mật của họ là CUDA - một nền tảng phần mềm và hệ sinh thái các công cụ lập trình cho phép các nhà phát triển khai thác tối đa sức mạnh của GPU. Hệ sinh thái này đã trở thành tiêu chuẩn vàng trong ngành AI suốt nhiều năm qua.
+
+Nhận thức được điều này, Cambricon đã đầu tư mạnh mẽ vào việc xây dựng một giải pháp thay thế. Báo cáo tài chính cho thấy công ty đã chi 456,5 triệu nhân dân tệ cho R&D trong nửa đầu năm, với đội ngũ 792 nhân sự chiếm gần 80% tổng lao động.
+
+Nền tảng phần mềm của họ giờ đây đã mở rộng hỗ trợ cho các mô hình AI lớn hàng đầu Trung Quốc như DeepSeek, Qwen (Alibaba) và Hunyuan (Tencent). Công ty tự tin tuyên bố hiệu suất tổng thể của nền tảng đã "có thể so sánh với các đối thủ chính trên thị trường".
+
+Đây là một bước tiến cực kỳ quan trọng. Bằng cách tạo ra một môi trường phần mềm quen thuộc và hiệu quả, Cambricon đang cố gắng phá vỡ sự phụ thuộc của các nhà phát triển Trung Quốc vào hệ sinh thái CUDA, một bước đi chiến lược để xây dựng lòng trung thành và tạo ra lợi thế cạnh tranh bền vững.
+
+Hai anh em sáng lập trẻ đứng sau bước nhảy vọt của Cambricon: Chen Yunji (trái) và Chen Tianshi (Ảnh: Tư liệu).
+
+Gót chân Achilles và chặng đường dài phía trước
+
+Dù những con số của Cambricon rất ấn tượng, nhưng đặt cạnh Nvidia, chúng ta mới thấy được quy mô thực sự của cuộc chiến. Doanh thu 403 triệu USD trong 6 tháng của Cambricon chỉ là một phần rất nhỏ so với con số 44 tỷ USD mà Nvidia kiếm được chỉ trong một quý (từ tháng 2 đến tháng 4/2025). Vốn hóa 80 tỷ USD của Cambricon cũng chưa bằng một góc của đế chế nghìn tỷ đô mà Jensen Huang đã xây dựng.
+
+Giới chuyên gia khách quan chỉ ra hai "gót chân Achilles" lớn của Cambricon và cả ngành bán dẫn Trung Quốc.
+
+Đầu tiên là công nghệ sản xuất. Bị chặn khỏi các xưởng đúc chip tiên tiến nhất thế giới như TSMC, Trung Quốc đang phải vật lộn để tự chủ công nghệ sản xuất chip dưới 7nm. Điều này có nghĩa là, dù thiết kế của Cambricon có tốt đến đâu, họ vẫn sẽ bị tụt hậu về hiệu năng và hiệu quả năng lượng so với các con chip được sản xuất trên tiến trình 3nm hay 2nm của Nvidia.
+
+Thứ hai là hệ sinh thái toàn cầu. Sự thống trị của CUDA không chỉ ở Trung Quốc mà là trên toàn thế giới. Chừng nào Cambricon vẫn là một người chơi trong "ao làng" được bảo hộ, họ sẽ rất khó để thu hút các nhà phát triển quốc tế và thực sự trở thành một tiêu chuẩn toàn cầu.
+
+Nói cách khác, Cambricon đang phát triển mạnh mẽ trong một chiếc lồng son. Các lệnh cấm vận của Mỹ vừa là bệ phóng, vừa là giới hạn. Nó mang lại cho công ty một thị trường đảm bảo nhưng cũng tước đi cơ hội tiếp cận công nghệ đỉnh cao và cạnh tranh sòng phẳng trên vũ đài quốc tế.
+
+Câu hỏi lớn nhất cho tương lai của Cambricon không chỉ nằm ở những con số tăng trưởng doanh thu, mà là liệu họ có thể biến lợi thế từ "hiệu ứng nhà kính" thành năng lực cạnh tranh thực sự hay không. Liệu họ có thể tự mình tạo ra một đột phá về công nghệ sản xuất và xây dựng một hệ sinh thái phần mềm đủ mạnh để thách thức ách thống trị của CUDA?
+
+Hành trình từ một "ngôi sao vụt sáng" trở thành một "đế chế" thực sự vẫn còn rất dài và đầy chông gai.

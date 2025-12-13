@@ -1,0 +1,83 @@
+Google vừa ra mắt Nano Banana Pro (Gemini 3 Pro Image) và tiếp tục gây ấn tượng nhờ khả năng tạo ảnh cực nhanh, kết quả nhất quán, đầu ra chân thực.
+
+Bài viết này giới thiệu 12 câu lệnh (prompt) tạo hiệu ứng hình ảnh với Nano Banana Pro, bạn chỉ cần đăng ảnh gốc rồi sao chép và dán câu lệnh vào khung soạn thảo của Gemini để sử dụng.
+
+Cách sử dụng Nano Banana Pro:
+
+Bước 1: Truy cập gemini.google.com và đăng nhập tài khoản Google
+
+Bước 2: Bấm vào Công cụ, chọn Tạo hình ảnh (biểu tượng quả chuối)
+
+Bước 3: Ở góc bên phải khung soạn thảo, bấm vào dấu mũi tên sổ xuống chọn mô hình Tư duy với 3 Pro
+
+Bước 4: Bấm vào dấu + ở khung soạn thảo, chọn Tải tệp lên rồi chọn ảnh bạn muốn dùng. Lưu ý nên chọn ảnh chính diện, sắc nét.
+
+Bước 5: Sao chép và dán câu lệnh vào ô soạn thảo. Bấm biểu tượng mũi tên để Gửi.
+
+Bước 6: Nano Banana Pro sẽ phân tích câu lệnh và tạo hình ảnh đầu ra gần như ngay lập tức. Bạn có thể điều chỉnh câu lệnh để kết quả như mong muốn và tải về.
+
+2 câu lệnh Nano Banana Pro để tạo hiệu ứng hình ảnh
+
+1. Nhân vật 3D
+
+Dễ dàng tạo các nhân vật hành động 3D sống động như thật từ hình ảnh của bạn với prompt của Nano Banana, biến hình ảnh của bạn thành các mô hình chi tiết.
+
+Câu lệnh:
+
+Create a 1/7 scale commercialized figure of thecharacter in the illustration, in a realistic styie and environment. Place the figure on a computer desk, using a circular transparent acrylic base without any text. On the computer screen, display the ZBrush modeling process of the figure. Next to the computer screen, place a BANDAI-style toy packaging box printedwith the original artwork.
+
+2. Búp bê len phong cách Chibi
+
+Nhanh chóng biến hình ảnh của bạn thành những con búp bê len theo phong cách chibi dễ thương với Gemini 3 Pro AI.
+
+Câu lệnh:
+
+A close-up, professionally composed photograph showcasing a hand-crocheted yarn doll gently cradled by two hands. The doll has a rounded shape, featuring the cute chibi image of the [upload image] character, with vivid contrasting colors and rich details. The hands holding the doll are natural and gentle, with clearly visible finger postures, and natural skin texture and light/shadow transitions, conveying a warm and realistic touch. The background is slightly blurred, depicting an indoor environment with a warm wooden tabletop and natural light streaming in from a window, creating a comfortable and intimate atmosphere. The overall image conveys a sense of exquisite craftsmanship and cherished warmth.
+
+3. Nhân vật trong quả cầu
+
+A detailed, transparent gashapon capsule diorama, held between fingers, featuring [NAME] in their [ICONIC POSE / STYLE]. Inside: [short description of figure’s look, clothing, and accessories], with background elements such as [relevant setting: stadium, stage, lecture hall, etc.]. Lighting should be dramatic and cinematic, matching their theme. The capsule has a transparent top and a colored base [choose fitting color: e.g., royal blue, gold, black, red], decorated with [motifs related to the person]. The base is labeled with [NAME or NICKNAME] in a matching font style. The design should look like a miniature collectible, with photorealistic detail and soft bokeh.
+
+Thay thế [tên], [tư thế/phong cách], [mô tả ngắn về diện mạo, quần áo và phụ kiện của nhân vật], [bối cảnh liên quan: sân vận động, sân khấu, giảng đường], [chọn màu phù hợp: xanh hoàng gia, vàng, đen, đỏ] và [TÊN hoặc BIỆT HIỆU] trong lời nhắc với các mô tả cụ thể.
+
+4. Đồ chơi
+
+A soft, high-quality plush toy of [CHARACTER], with an oversized head, small body, and stubby limbs. Made of fuzzy fabric with visible stitching and embroidered facial features. The plush is shown sitting or standing against a neutral background. The expression is cute or expressive, and it wears simple clothes or iconic accessories if relevant. Lighting is soft and even, with a realistic, collectible plush look. Centered, full-body view.
+
+Thay thế [character] bằng tên nhân vật.
+
+5. Chụp ảnh tự sướng trên iPhone
+
+Please draw an extremely ordinary and unremarkable iPhone selfie, with no clear subject or sense of composition — just like a random snapshot taken casually. The photo should include slight motion blur, with uneven lighting caused by sunlight or indoor lights, resulting in mild overexposure. The angle is awkward, the composition is messy, and the overall aesthetic is deliberately plain — as if it were accidentally taken while pulling the phone out of a pocket. The subjects are [Names], taken at night, next to the [Location].
+
+Thay thế [Tên (name)] và [Vị trí (Location)] trong lời nhắc bằng các mô tả cụ thể.
+
+6. Sticker Chibi
+
+Making a playful peace sign with both hands and winking. Tearful eyes and slightly trembling lips, showing a cute crying expression. Arms wide open in a warm, enthusiastic hug pose. Lying on their side asleep, resting on a tiny pillow with a sweet smile. Pointing forward with confidence, surrounded by shining visual effects. Blowing a kiss, with heart symbols floating around. Maintain the chibi aesthetic. Exaggerated, expressive big eyes. Soft facial lines. Background: Vibrant red with star or colorful confetti elements for decoration. Leave some clean white space around each sticker. Aspect ratio: 9:16
+
+7. Hình Funko Pop
+
+Create a detailed 3D render of a chibi Funko Pop figure, strictly based on the provided reference photo. The figure should accurately reflect the person's appearance, hairstyle, attire, and characteristic style from the photo. High detail, studio lighting, photorealistic texture, pure white background.
+
+8. Phong cách Ghibli
+
+Vẽ lại bức ảnh này theo phong cách Ghibli
+
+9. Giao diện game
+
+A vibrant rhythm dance game screenshot featuring the 3D animated character from the reference photo, keeping its unique style, hat, outfit, and confident dance pose. Immersive cinematic lighting with neon pink and purple glow, glossy reflective dance floor shining under spotlights, and dynamic 3D cartoon style. Rhythm game interface with immersive UI: score meter at the top, colorful music waveform animations synced to the beat, stage timer countdown, and floating combo numbers. Highly detailed, game-like atmosphere with energy bars, neon particle effects, and immersive arcade rhythm game HUD elements. Ultra-detailed, cinematic, immersive, 3D animation.
+
+10. Kết hợp hình ảnh: Kết hợp nhiều hình ảnh
+
+Combine multiple images ([Image1], [Image2], [Image3], …) into a single cohesive image. Keep all key subjects recognizable and maintain their proportions and details. Blend the images naturally with consistent lighting, shadows, perspective, and style. Photorealistic, high-resolution, seamless integration.
+
+11. Kết hợp phong cách
+
+Transform this image [Image1] into the artistic style of [Image2]. Keep the main subject, composition, and details from [Image1], but apply the colors, textures, and overall aesthetic of [Image2]. High-quality, [illustraition] style, consistent details.
+
+12. Thay trang phục
+
+Keep the character in [Image1] unchanged, but replace her pant with the outfit in [Image2]. Maintain the same pose, body proportions, and facial features, while applying the color, texture, and style of the pants in [Image2]. High-quality, realistic, consistent detail.
+
+(Theo Fotor)

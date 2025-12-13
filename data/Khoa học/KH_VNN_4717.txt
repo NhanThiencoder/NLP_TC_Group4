@@ -1,0 +1,17 @@
+Cloudflare là một trong những nhà cung cấp cơ sở hạ tầng web khổng lồ cho phép các trang web phục vụ nội dung đến người dùng. Tương tự như các công ty lớn khác trong lĩnh vực này, như Amazon Web Services (AWS), Cloudflare thường không được người dùng thông thường biết mặt, cho đến khi xảy ra sự cố.
+
+Hàng loạt website không thể truy cập do Cloudflare gặp sự cố. Ảnh: Du Lam
+
+Cloudflare tự mô tả mình là "một trong những mạng lưới lớn nhất thế giới" với "hàng triệu tài sản Internet". Trang web của công ty cho biết: "Ngày nay, các doanh nghiệp, tổ chức phi lợi nhuận, blogger và bất kỳ ai có sự hiện diện trên Internet đều tự hào có các trang web và ứng dụng nhanh hơn, an toàn hơn nhờ vào Cloudflare".
+
+Cloudflare cung cấp nhiều sản phẩm nhưng nổi tiếng nhất và trọng tâm nhất là một bộ công nghệ đảm bảo các trang web có thể duy trì hoạt động trực tuyến khi nhận được lưu lượng truy cập lớn. Lưu lượng này có thể đến từ số lượng khách truy cập cao bất thường hoặc một cuộc tấn công nhằm làm sập trang web.
+
+Trong cấu trúc Internet đơn giản nhất, máy tính yêu cầu dữ liệu từ máy chủ gốc. Tuy nhiên, các máy chủ đơn giản có thể bị quá tải bởi các yêu cầu, dẫn đến chạy chậm hoặc hỏng hoàn toàn. Cloudflare và các công ty tương tự hoạt động như một lớp trung gian giữa máy tính của người dùng và các trang web gốc.
+
+Các nhà cung cấp hạ tầng Internet này sử dụng các trung tâm dữ liệu có khả năng phục hồi cao hơn để cung cấp các trang web một cách nhanh chóng và đáng tin cậy.
+
+Sự cố xảy ra vào tối 18/11 (giờ Việt Nam) khi nhiều trang web lớn trên thế giới ngừng tải bình thường. Khách truy cập vào ChatGPT hay các website khác thay vì thấy nội dung thì lại thấy một thông báo từ chính Cloudflare.
+
+Thông báo này cho biết đã xảy ra lỗi, hệ thống của công ty đang không hoạt động bình thường, và người dùng nên "thử lại sau vài phút".
+
+Do cung cấp các công cụ cho rất nhiều trang web khác nhau, các sự cố của Cloudflare có thể nhanh chóng làm sập một loạt các trang dường như không liên quan. Điều này tương tự như sự cố của nhà cung cấp cơ sở hạ tầng web khác là Amazon Web Services (AWS) đã gặp phải vào tháng trước. Trong cả hai trường hợp, các công ty này thường vô hình, nhưng đột ngột trở nên dễ nhận thấy hơn khi chúng ngừng hoạt động.

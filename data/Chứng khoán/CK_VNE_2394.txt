@@ -1,0 +1,31 @@
+Với hệ thống công nghệ mới KRX, lệnh ATO và ATC sẽ không được ưu tiên trước lệnh giới hạn và sẽ hiển thị tại một mức giá xác định.
+
+Sở Giao dịch chứng khoán TP HCM (HoSE) vừa công bố dự kiến những thay đổi về quy định giao dịch khi áp dụng hệ thống công nghệ thông tin mới.
+
+Thay đổi đầu tiên là về lệnh ATO, ATC trong đợt khớp lệnh định kỳ. ATO (At The Open) là lệnh giao dịch tại giá khớp lệnh xác định giá mở cửa trong 15 phút đầu phiên. ATC (At The Close) có đặc tính tương tự nhưng diễn ra từ 14h30-14h45.
+
+Khi áp dụng hệ thống công nghệ thông tin mới, lệnh ATO và ATC sẽ không được ưu tiên trước lệnh giới hạn (LO) đã nhập vào hệ thống trước đó khi so khớp lệnh. Điều này khác hẳn hiện tại là lệnh ATO, ATC được ưu tiên khớp trước lệnh giới hạn.
+
+Song song đó, hai lệnh này cũng sẽ hiển thị tại một mức giá xác định, tương tự như lệnh giới hạn thay vì chỉ hiển thị tại mức giá có ký hiệu "ATO" và "ATC". Trường hợp chỉ còn dư mua hoặc dư bán của 2 lệnh này, giá hiển thị là giá khớp dự kiến. Nếu chưa có giá khớp dự kiến, giá hiển thị sẽ là giá khớp lệnh gần nhất hoặc giá tham chiếu.
+
+Trong trường hợp còn dư mua hoặc dư bán của lệnh giới hạn, giá hiển thị của lệnh ATO, ATC mua là giá dư mua cao nhất cộng 1 đơn vị yết giá (nếu mức giá được xác định này cao hơn mức giá trần sẽ hiển thị là giá trần). Còn giá hiển thị của lệnh ATO, ATC bán là giá dư bán thấp nhất trừ 1 đơn vị yết giá (nếu mức giá được xác định này thấp hơn mức giá sàn sẽ hiển thị là giá sàn).
+
+Đơn vị yết giá là mức giá tối thiểu theo quy định trong đặt giá chứng khoán. Trên HoSE, đơn vị yết giá với cổ phiếu dưới 10.000 đồng là 10 đồng, từ 10.000-49.950 đồng là 50 đồng, cao hơn hoặc bằng 50.000 đồng là 100 đồng.
+
+Nhà đầu tư đang theo dõi bảng điện tại một công ty chứng khoán ở quận 1 (TP HCM), tháng 10/2024. Ảnh: An Khương
+
+Thay đổi lớn thứ 2 khi hệ thống công nghệ mới vận hành là về sửa và hủy lệnh giao dịch khớp lệnh. Theo đó, nhà đầu tư được sửa giá hoặc khối lượng của lệnh LO chưa thực hiện hoặc phần còn lại của lệnh chưa thực hiện trong thời gian khớp lệnh liên tục. Sửa giảm khối lượng sẽ không làm thay đổi thứ tự ưu tiên của lệnh, còn sửa tăng khối lượng hoặc sửa giá sẽ làm thay đổi thứ tự ưu tiên.
+
+Thay đổi thứ 3 là về giao dịch thỏa thuận. Khi áp dụng hệ thống công nghệ thông tin mới, nhà đầu tư không được sửa, hủy những giao dịch thỏa thuận đã được thực hiện. Hiện tại, HoSE vẫn cho phép sửa giao dịch thỏa thuận nhập sai trong giờ giao dịch bằng cách hủy và nhập lại.
+
+Giao dịch lô lẻ cũng có thay đổi. Hiện tại, giao dịch này chỉ được thực hiện theo phương thức khớp lệnh liên tục và thỏa thuận. Sau này, lô lẻ có thêm phương thức thứ 3 là khớp lệnh định kỳ.
+
+Thay đổi tiếp theo là trong đợt khớp lệnh định kỳ, thông tin 3 giá chào mua, chào bán tốt nhất được hiển thị là những giá chào mua, chào bán tốt nhất dự kiến còn lại sau khi khớp lệnh. Hiện tại, việc hiển thị thông tin 3 giá chào mua, chào bán tốt nhất của tất cả lệnh trên sổ lệnh giao dịch.
+
+Với hệ thống công nghệ mới, chứng khoán bị hạn chế giao dịch sẽ được mua bán cả ngày và áp dụng phương thức khớp lệnh định kỳ, bao gồm: đợt khớp lệnh định kỳ xác định giá mở cửa, sau đó đến các đợt khớp lệnh định kỳ kéo dài 15 phút mỗi đợt và đợt khớp lệnh định kỳ xác định giá đóng cửa. Theo quy định hiện hành, chứng khoán thuộc diện hạn chế giao dịch chỉ được mua bán vào phiên chiều theo phương thức khớp lệnh và thỏa thuận.
+
+Quá trình giao dịch cổ phiếu và chứng chỉ quỹ đóng của nhà đầu tư nước ngoài cũng có sự điều chỉnh. Đối với giao dịch khớp lệnh, room ngoại sẽ được giảm khi lệnh mua của nhà đầu tư nước ngoài được nhập vào hệ thống giao dịch, thay vì sau khi lệnh mua được thực hiện. Room sẽ tăng nếu lệnh bị hủy bỏ hoặc sửa giảm khối lượng.
+
+Với giao dịch thỏa thuận, room giảm khi lệnh chào mua của nhà đầu tư ngoại được nhập vào hệ thống trong trường hợp giao dịch thỏa thuận giữa nước ngoài mua và trong nước bán. Tương tự, room sẽ được nới lên sau khi nhà đầu tư ngoại hủy lệnh chào mua với một nhà đầu tư trong nước.
+
+Tất Đạt

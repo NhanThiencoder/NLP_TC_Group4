@@ -1,0 +1,45 @@
+Với chủ đề “VNCS’s Sticky Approach to Combating AI-Powered Threats” (Chiến lược “bám dính” từ VNCS để đối phó với mối đe dọa AI), hội nghị tập trung bàn luận vai trò của trí tuệ nhân tạo (AI) trong việc thay đổi toàn diện chiến lược tấn công - phòng thủ mạng, đồng thời chia sẻ các mô hình ứng phó chủ động giúp doanh nghiệp tăng cường năng lực bảo vệ hệ thống trong thời đại số.
+
+Nơi hội tụ các chuyên gia và đối tác toàn cầu
+
+VNCS CyberCon 25 có sự tham gia của: Thiếu tướng Lê Minh Mạnh - Chi hội trưởng Chi hội phía Nam, Hiệp hội An ninh mạng Quốc gia; Ông Nguyễn Hoàng Hiệp - Trưởng phòng Giám sát và Điều tra An ninh mạng, Ngân hàng MB; Cùng đại diện các hãng bảo mật hàng đầu thế giới và nhiều tổ chức, doanh nghiệp lớn trong lĩnh vực công nghệ - tài chính.
+
+Phát biểu khai mạc, ông Khổng Huy Hùng - Tổng Giám đốc VNCS, Chủ tịch HĐQT VNCS Global - khẳng định CyberCon 25 là sự kiện đặc biệt nhất mà VNCS từng tổ chức tại TP.HCM, không chỉ bởi quy mô mà còn vì thông điệp chiến lược mà công ty muốn lan tỏa: “Sticky Approach là triết lý mà VNCS lựa chọn - bám sát mọi mối đe dọa, phản ứng nhanh và đồng hành cùng doanh nghiệp để họ luôn an toàn, chủ động trước các cuộc tấn công được tiếp sức bởi AI”.
+
+Ông Khổng Huy Hùng - CEO VNCS - phát biểu khai mạc sự kiện
+
+Theo ông Hùng, VNCS và VNCS Global đang kiên định theo đuổi mô hình DSD - Distribution, Service, Development, kết hợp thế mạnh phân phối công nghệ quốc tế, cung cấp dịch vụ chuyên sâu và phát triển các giải pháp an ninh mạng “Make in Vietnam” nhằm mang lại giá trị bền vững cho doanh nghiệp và cộng đồng.
+
+Không gian trải nghiệm công nghệ đa chiềuVNCS CyberCon 25 mang đến không gian trưng bày giải pháp bảo mật quy mô, nơi khách tham dự có cơ hội trực tiếp trải nghiệm các công nghệ tiên tiến từ bốn hãng bảo mật toàn cầu - Fortra, Splunk, OpenText và Invicti.
+
+Khu vực trưng bày của các hãng bảo mật được nhiều khách hàng quan tâm
+
+Khu vực trưng bày thu hút đông đảo khách mời, tạo nên không gian kết nối sôi động giữa các chuyên gia bảo mật quốc tế và cộng đồng doanh nghiệp Việt Nam.
+
+Chuỗi tham luận chuyên sâu: Khi công nghệ và thực tiễn gặp nhau
+
+Phần hội thảo chuyên môn của VNCS CyberCon 25 mở đầu với bài tham luận từ hai kỹ sư giải pháp cấp cao của Fortra, giới thiệu các kỹ thuật phòng thủ trước mối đe dọa tự động hóa do AI tạo ra, đồng thời trình diễn các công nghệ mới nhất trong hệ sinh thái bảo mật của hãng.
+
+Tiếp đó, phim ngắn “One Day of a CIO: Back to the Secure Future” (Một ngày của CIO: Trở lại tương lai bảo mật) do VNCS sản xuất độc quyền được ra mắt, mang đến một trải nghiệm truyền thông độc đáo khi tái hiện hành trình một CIO đối mặt với cuộc tấn công mạng được dẫn dắt bởi AI.
+
+Bộ phim được lồng ghép cùng phần trình bày “Attack - Defend” (Tấn công – Phòng thủ) của đội ngũ chuyên gia VNCS và VNCS Global, giúp người xem hiểu rõ hơn về cách các chuyên gia an ninh mạng ứng phó với một cuộc tấn công có chủ đích được tiếp sức bởi trí tuệ nhân tạo trong thực tế.
+
+Trải nghiệm an ninh mạng độc đáo “One day of a CIO”
+
+Chương trình tiếp nối hai bài tham luận: “Giải mã DevSecOps trong kỷ nguyên GenAI” và “Từ phản ứng đến chủ động: Cách Splunk AI định hình lại chiến lược phòng thủ mạng thời đại mới” do diễn giả từ Opentext và Splunk lần lượt trình bày.
+
+Khép lại chuỗi tham luận, ông Nguyễn Hoàng Hiệp - Trưởng phòng Giám sát và Điều tra An ninh mạng, Ngân hàng MB, chia sẻ câu chuyện thực tiễn trong quá trình vận hành và bảo vệ hệ thống CNTT của ngân hàng với sự đồng hành của VNCS trong việc xây dựng môi trường an toàn thông tin chủ động, bền vững và linh hoạt trước các mối đe dọa hiện đại.
+
+Ông Nguyễn Hoàng Hiệp chia sẻ cách VNCS hỗ trợ MB triển khai các giải pháp an toàn thông tin
+
+Phát biểu tại sự kiện, Thiếu tướng Lê Minh Mạnh đánh giá cao tầm nhìn của VNCS và VNCS Global khi sớm ứng dụng “AI để chống lại AI” trong bảo mật. Ông nhấn mạnh, VNCS nổi bật với mô hình kết hợp công nghệ - quy trình - con người, cùng hệ sinh thái giải pháp toàn diện như VSIEM, VSOAR, SOC, Threat Intelligence, Pentest, giúp doanh nghiệp phòng thủ đa lớp, hiệu quả và linh hoạt trước các mối đe dọa mới.
+
+Thiếu tướng Lê Minh Mạnh phát biểu tại sự kiện
+
+Cột mốc đặc biệt trên hành trình “Secure Your Growth”
+
+VNCS CyberCon 25 không chỉ là một hội nghị chuyên môn, mà còn là dấu ấn mở đầu cho chuỗi hoạt động kỷ niệm 14 năm thành lập VNCS - khẳng định tầm nhìn của doanh nghiệp trong việc bảo vệ sự phát triển bền vững của khách hàng và cộng đồng doanh nghiệp Việt Nam trong kỷ nguyên AI.
+
+Sự kiện một lần nữa thể hiện rõ triết lý của VNCS: “Secure Your Growth” - bảo vệ sự phát triển bằng tri thức, sáng tạo và lòng tin. Với định hướng này, VNCS và VNCS Global cam kết tiếp tục đồng hành cùng các tổ chức, doanh nghiệp trong hành trình chuyển đổi số an toàn, giúp họ xây dựng năng lực phòng thủ vững chắc và phát triển bền vững trước mọi biến động của không gian mạng.
+
+(Nguồn: VNCS)

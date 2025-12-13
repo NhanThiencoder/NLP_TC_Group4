@@ -1,0 +1,37 @@
+Tin đồn về Face ID ẩn dưới màn hình tiếp tục tạo sóng, khi một rò rỉ mới khẳng định Apple đang lên kế hoạch đưa công nghệ này lên iPhone 18 Pro và iPhone 18 Pro Max ra mắt năm 2026.
+
+Phần khuyết trên màn hình iPhone chứa đựng một lượng công nghệ khổng lồ. Ảnh: Apple
+
+Đây là chủ đề được giới công nghệ theo dõi sát sao kể từ khi phần “notch” xuất hiện lần đầu trên iPhone X và cũng là lúc nhiều người tin rằng Apple sẽ sớm loại bỏ nó bằng cách đưa toàn bộ hệ thống nhận diện khuôn mặt xuống dưới màn hình.
+
+Trong nhiều năm qua, các nguồn tin trái ngược liên tục xuất hiện. Hồi tháng 9/2025, một rò rỉ cho rằng Face ID dưới màn hình sẽ có mặt trên iPhone 18 Pro, nhưng đến tháng 11/2025, một nguồn khác lại phủ nhận. Sự bất nhất này khiến tương lai của công nghệ càng thêm mơ hồ.
+
+Hé lộ công nghệ kính siêu trong suốt
+
+Mới đây, tài khoản rò rỉ Smart Pikachu trên mạng xã hội Weibo của Trung Quốc cho biết Apple đang thử nghiệm một quy trình mới giúp đưa Face ID ẩn xuống dưới màn hình. Theo đó, công nghệ này liên quan đến việc “ghép nối” hoặc “liên kết” các lớp kính siêu mỏng trong suốt với mật độ vi mô.
+
+Theo MacRumors, công nghệ được mô tả có vẻ tương đồng với kỹ thuật kính đục lỗ hoặc kính nano từng được sử dụng để tăng khả năng truyền tia hồng ngoại, vốn là thành phần cốt lõi của hệ thống Face ID.
+
+Dù chưa có mô tả chi tiết hơn, nguồn tin khẳng định quá trình thử nghiệm đã đạt mức “tiến triển cao”. Chuỗi cung ứng thậm chí được cho là đang chuẩn bị cho giai đoạn sản xuất thử, cho thấy Apple có thể đang tiến rất gần đến việc hiện thực hóa ý tưởng này.
+
+Điểm đáng chú ý là Smart Pikachu chưa có thành tích đáng kể khi nói về sản phẩm Apple, nhưng từng nhiều lần chia sẻ chính xác về thiết bị Android. Điều này khiến thông tin mới tuy đáng lưu ý nhưng vẫn cần thận trọng.
+
+Thông tin rò rỉ lần này tập trung vào Face ID dưới màn hình, một bước tiến có thể giúp Apple giảm hoặc loại bỏ phần khuyết đỉnh. Tuy nhiên, Face ID không phải là cảm biến duy nhất nằm trong cụm notch. Khu vực này còn chứa cảm biến ánh sáng môi trường, cảm biến tiệm cận và camera selfie.
+
+Vì vậy, ngay cả khi Apple thành công đưa Face ID xuống dưới màn hình, hãng có thể vẫn phải giữ lại một phần nhỏ cho camera trước hoặc các cảm biến khác. Điều này đồng nghĩa với việc iPhone 18 Pro chưa chắc đã hoàn toàn “vô khuyết” như nhiều người kỳ vọng.
+
+Cuộc đua xác thực sinh trắc học dưới màn hình
+
+Không chỉ Face ID, công nghệ Touch ID dưới màn hình cũng là chủ đề tạo tranh luận trong cộng đồng công nghệ. Nhiều báo cáo gần đây cho rằng mẫu iPhone Fold dự kiến ra mắt năm 2026 sẽ tích hợp Touch ID ẩn dưới màn hình, nhưng cũng có nguồn khẳng định điều đó sẽ không xảy ra.
+
+Nhà phân tích Ming-Chi Kuo, người có hồ sơ dự đoán khá chính xác, tin rằng iPhone Fold sẽ không có Touch ID dưới màn hình. Theo ông, thiết kế gập buộc thiết bị phải mỏng hơn nhiều so với iPhone hiện tại, khiến việc tích hợp cảm biến vân tay dưới màn hình trở nên thiếu khả thi.
+
+Thay vào đó, ông dự đoán Apple sẽ đưa Touch ID vào nút nguồn, tương tự như cách hãng đang làm với iPad Air – một giải pháp đơn giản và đã được kiểm chứng.
+
+Việc Apple có thực sự đưa Face ID dưới màn hình lên iPhone 18 Pro Max hay không vẫn chưa thể khẳng định. Thực tế cho thấy chuỗi tin đồn về công nghệ này đã kéo dài nhiều năm nhưng chưa lần nào trở thành hiện thực. Apple thường chỉ áp dụng công nghệ mới khi đạt mức hoàn chỉnh cao và phù hợp với chiến lược sản phẩm dài hạn.
+
+Trong bối cảnh các đối thủ Android đã có thiết bị camera ẩn dưới màn hình nhưng chất lượng còn nhiều hạn chế, Apple có thể đang đợi thời điểm công nghệ chín muồi để đảm bảo trải nghiệm người dùng không bị ảnh hưởng.
+
+Liệu Face ID dưới màn hình sẽ xuất hiện trên iPhone 18 Pro và 18 Pro Max, hay phải chờ đến thế hệ iPhone 19, 20 hoặc thậm chí bị thay thế bởi công nghệ sinh trắc học hoàn toàn mới? Câu trả lời vẫn là ẩn số, nhưng rò rỉ mới nhất chắc chắn sẽ làm dấy lên kỳ vọng về một bước tiến lớn trong thiết kế iPhone tương lai.
+
+(Theo MacRumors, AppleInsider)

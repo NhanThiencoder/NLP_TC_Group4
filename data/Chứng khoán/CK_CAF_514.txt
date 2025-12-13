@@ -1,0 +1,43 @@
+Hãng tin CNN cho hay Chỉ số công nghiệp bình quân Dow Jones trên thị trường chứng khoán Mỹ là một thước đo không hoàn hảo vì chỉ giới hạn một nhóm nhỏ các tập đoàn lớn và dựa chủ yếu vào giá cổ phiếu hơn là những thông tin cơ bản khác.
+
+Thế nhưng do sự lâu đời mà chỉ số này vẫn tồn tại, đồng thời thu hút sự quan tâm của những người mới chơi chứng khoán vì thương hiệu lâu năm.
+
+Khi chỉ số Dow Jones chạm mốc 40.000 điểm vào phiên 16/5/2024, hầu hết giới truyền thông Mỹ đều kỳ vọng thị trường bắt đầu khởi sắc và nền kinh tế sẽ tốt lên. Dù không hiểu ý nghĩa thực sự của Dow Jones nhưng nhiều người vẫn cho là một chỉ số lâu đời đi lên thì nghĩa là thị trường đang diễn biến tích cực.
+
+Tuy nhiên theo CNN, hầu hết các nhà đầu tư chuyên nghiệp đều nhìn vào chỉ số S&P 500 với độ chính xác cao hơn dù có tuổi đời trẻ hơn Dow Jones. Dẫu vậy người dân đại chúng Mỹ lại không để ý đến điều này và hàng ngày vẫn nhìn vào chỉ số Dow Jones.
+
+"Nhắc tới chỉ số Dow Jones là hầu hết người dân bình thường nghĩ đến chứng khoán. Dù chỉ số này là một trong những cách đánh giá thị trường đang diễn biến theo chiều hướng nào nhưng lại không phải thước đo chính xác cho hàng nghìn cổ phiếu đang niêm yết", chuyên gia chiến lược Art Hogan nói với CNN.
+
+Đồng quan điểm, nhà đồng sáng lập Nick Colas của DataTrek cho biết lượng tìm kiếm "Dow Jones" trên Google luôn cao hơn "S&P 500".
+
+"Vì bạn không phải nhà đầu tư nên bạn chỉ cần biết rằng thị trường đi lên nghĩa là nền kinh tế đang tốt và bạn ít có nguy cơ bị sa thải hơn", ông Colas cho biết về lý do tại sao người dân Mỹ lại hay đi nhìn vào chỉ số Dow Jones hơn S&P 500 mà chẳng quan tâm đến tính chính xác và độ chuyên nghiệp trong phân tích kỹ thuật.
+
+134 vs 67
+
+Theo CNN, chỉ số Dow Jones theo dõi hoạt động chứng khoán của 30 công ty lớn tại Mỹ, từ Amazon, McDonald’s cho đến Walt Disney.
+
+Tuy nhiên do được thành lập từ quá lâu nên cách theo dõi, đánh giá của chỉ số này đã quá lỗi thời. Thế nhưng nhờ danh tiếng xây dựng suốt hàng thập niên mà người dân bình thường vẫn xem trọng chỉ số này.
+
+"Rất rõ ràng, chỉ số Dow Jones đã lỗi thời và giá trị duy nhất để nó tồn tại là lịch sử lâu đời của mình gây ảnh hưởng đến người dân đại chúng Mỹ", chuyên gia Daniel Alpert của Westwood Capital nhận định.
+
+Chỉ số Dow Jones được thành lập từ thập niên 1890, trong khi S&P 500 mới chỉ ra đời vào năm 1957 ngay sau khi kết thúc Thế chiến II.
+
+Bởi vậy Dow Jone có quãng thời gian tồn tại lâu hơn S&P 500 và ghi ấn tượng vào người dân đại chúng Mỹ về biểu tượng của thị trường chứng khoán.
+
+Tuy nhiên, các nhà đầu tư chuyên nghiệp cho rằng Dow Jones xếp hạng công ty theo giá cổ phiếu thay vì vốn hóa thị trường như S&P 500 cũng như những yếu tố khác. Điều này khiến chỉ số Dow Jones bị sai lệch rất nhiều.
+
+Ví dụ chỉ số Dow Jones đánh giá một ngân hàng lớn như Goldman Sachs, có tổng vốn hóa 125 tỷ USD và không có hoạt động kinh doanh tiêu dùng, ít quan trọng hơn so với Apple, một hãng công nghệ có tổng vốn hóa 3 nghìn tỷ USD với 1 tỷ khách hàng.
+
+Tuy nhiên trên thực tế, Goldman Sachs lại ảnh hưởng nhiều đến nền kinh tế Mỹ hơn xa so với Apple. Tầm ảnh hưởng của nhà táo khuyết chỉ giới hạn chủ yếu trong công nghệ và nếu có phá sản cũng vẫn còn những tập đoàn khác cùng ngành.
+
+Tuy nhiên nếu Goldman Sachs phá sản, nền kinh tế Mỹ nói riêng và thế giới nói chung nhiều khả năng sẽ lâm vào một cuộc khủng hoảng như năm 2008 khi đổ vỡ dây chuyền diễn ra.
+
+Theo Colas, chỉ số Dow Jones chỉ đơn thuần là nhìn vào giá cổ phiếu và những thước đo bề nổi của công ty để xếp hạng thay vì xem xét bản chất cũng như tầm ảnh hưởng thực sự của doanh nghiệp đến nền kinh tế.
+
+"Chỉ số này kiểu như so sánh mọi người về số tuổi xem ai lớn nhỏ, nhưng thực tế độ tuổi của con người không phản ánh được thực sự họ có giỏi tương xứng hay không", ông Colas nói.
+
+Dẫu vậy, người dân đại chúng Mỹ do bị ăn sâu tư tưởng về biểu tượng Dow Jones nên vẫn quan tâm đến chỉ số này hơn S&P 500.
+
+"Dow Jones là một chỉ số không hoàn hảo nhưng nó lại đang là biểu tượng dễ dàng nhất để người dân nhìn và đánh giá thị trường Phố Wall", chuyên gia Alpert kết luận.
+
+*Nguồn: CNN

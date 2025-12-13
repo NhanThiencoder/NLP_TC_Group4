@@ -1,0 +1,53 @@
+Sự cố xảy ra vào tối 18/11 (giờ Việt Nam) khi nhiều trang web lớn trên thế giới, cũng như trong nước tê liệt. Cloudflare đã xác nhận mạng lưới toàn cầu của họ đang gặp phải các vấn đề kỹ thuật nghiêm trọng, gây ảnh hưởng đến "nhiều khách hàng" trên diện rộng.
+
+Cloudflare gặp sự cố toàn cầu vào tối 18/11 (giờ Việt Nam). Ảnh: iStockphoto
+
+Sự cố này một lần nữa gióng lên hồi chuông cảnh báo về mức độ phụ thuộc của thế giới số vào các nhà cung cấp dịch vụ mạng lưới lớn, trong đó Cloudflare đóng một vai trò trọng yếu.
+
+Cloudflare có tầm ảnh hưởng lớn đến mức nào?
+
+Thông báo chính thức được đăng tải trên trang trạng thái của Cloudflare xác nhận: "Mạng lưới toàn cầu của Cloudflare đang gặp sự cố".
+
+Cloudflare được biết đến là một dịch vụ cung cấp nền tảng hoạt động cho hàng triệu trang web, xử lý trung bình 78 triệu yêu cầu HTTP mỗi giây.
+
+Có thể nói, đây là xương sống của một phần lớn Internet hiện đại. Nói một cách đơn giản, khi Cloudflare gặp vấn đề, hầu hết Internet cũng sẽ gặp vấn đề theo.
+
+Ngay lập tức, người dùng trên mạng xã hội X (trước đây là Twitter) đã báo cáo về những trục trặc mà họ đang gặp phải. Thậm chí, ngay cả Down Detector, trang web thường được sử dụng để kiểm tra xem dịch vụ nào đang gặp lỗi, dường như cũng không thể truy cập được. Điều này càng làm nổi bật tầm quan trọng của Cloudflare và sự lan truyền nhanh chóng của sự cố.
+
+Đây không phải là lần đầu tiên Cloudflare trải qua một sự cố lớn gây chấn động toàn cầu. Hồi tháng 6 năm nay, một sự cố gián đoạn nghiêm trọng của Cloudflare đã làm tê liệt một phần lớn Internet, gây ra rắc rối cho hàng triệu người dùng của các nền tảng phổ biến như Twitch, Etsy, Discord và Google, cho thấy sự mong manh của cơ sở hạ tầng mạng lưới toàn cầu.
+
+Những lần sập mạng này không chỉ gây khó chịu cho người dùng mà còn ảnh hưởng đến hoạt động kinh doanh và dịch vụ trực tuyến trên quy mô toàn cầu.
+
+Những “ông lớn” nào đang “đứng hình" khi Cloudflare gặp sự cố?
+
+Theo những báo cáo và tổng hợp ban đầu, một danh sách các trang web và dịch vụ lớn đang bị ảnh hưởng nghiêm trọng bởi sự cố Cloudflare lần này bao gồm:
+
+Archive of Our Own (AO3): Trang lưu trữ tác phẩm viết của cộng đồng fan fiction.
+
+Canva: Nền tảng thiết kế đồ họa trực tuyến phổ biến.
+
+Depop: Ứng dụng mua bán thời trang second-hand.
+
+Downdetector: Trang web theo dõi trạng thái các dịch vụ trực tuyến.
+
+Grindr: Ứng dụng mạng xã hội và hẹn hò.
+
+League of Legends (LoL): Tựa game trực tuyến cực kỳ nổi tiếng.
+
+OpenAI: Công ty đứng sau ChatGPT và các mô hình AI tiên tiến khác.
+
+Spotify: Dịch vụ nghe nhạc trực tuyến hàng đầu thế giới.
+
+X (Twitter): Mạng xã hội của tỉ phú Elon Musk.
+
+Danh sách này cho thấy sự cố đã tác động sâu rộng đến nhiều lĩnh vực khác nhau của đời sống số, từ giải trí, game, thương mại điện tử, đến công nghệ AI và mạng xã hội. Hàng triệu người dùng đã không thể truy cập hoặc sử dụng các dịch vụ này một cách bình thường.
+
+Nhiều trang web bị ảnh hưởng bởi sự cố của Cloudflare, bao gồm cả OpenAI.com, đang hiển thị một thông báo lỗi kỹ thuật khiến người dùng hoang mang: "Vui lòng bỏ chặn challenges.cloudflare.com để tiếp tục". (Please unblock challenges.cloudflare.com to proceed).
+
+Thông báo này thường xuất hiện khi hệ thống bảo mật của Cloudflare gặp vấn đề trong việc xác minh yêu cầu truy cập, cho thấy lỗi xảy ra ở tầng bảo mật và phân phối nội dung cốt lõi của dịch vụ.
+
+Tại Việt Nam, Cloudflare sập cũng kéo theo nhiều trang web, báo điện tử và mạng xã hội bị ảnh hưởng. Có thể kể ra như báo Công Thương, Thời Báo Ngân hàng, tạp chí Thương Trường, Petrotimes hay mạng xã hội Tinh Tế, website Thư Viện Pháp Luật…
+
+Một mạng xã hội phổ biến tại Việt Nam bị sập. Ảnh chụp màn hình
+
+Theo thông tin mới nhất từ Cloudfare, hiện sự cố đã được giải quyết và nền tảng này tiếp tục theo dõi để bảo đảm mọi dịch vụ trở về bình thường.

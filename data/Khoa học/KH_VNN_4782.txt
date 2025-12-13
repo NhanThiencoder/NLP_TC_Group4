@@ -1,0 +1,3 @@
+Trước đây, khi chưa có bệnh án điện tử, mọi thông tin khám chữa bệnh đều ghi chép thủ công trên giấy. Người bệnh mỗi lần đi khám phải mang theo sổ, đơn thuốc, kết quả xét nghiệm, đôi khi thất lạc hoặc không đầy đủ khiến bác sĩ khó nắm rõ tiền sử bệnh. Việc lưu trữ hồ sơ giấy cồng kềnh, tốn diện tích và dễ hư hỏng theo thời gian. Ngày nay, với hồ sơ bệnh án điện tử, toàn bộ dữ liệu sức khỏe của bệnh nhân được lưu trữ và quản lý trên hệ thống số.
+
+(Nguồn: Cục Chuyển đổi số quốc gia)

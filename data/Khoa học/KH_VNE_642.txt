@@ -1,0 +1,17 @@
+BrazilCác khoang tàu của công ty Hyperloop sẽ giúp vận chuyển container ở tốc độ ngang với máy bay giữa cảng Santos của Brazil và những thành phố lớn.
+
+Mô phỏng khoang tàu Hyperloop chở container hàng. Ảnh: HTT
+
+Công ty công nghệ giao thông Hyperloop (HTT) đang tìm cách thiết kế lại hoàn toàn phương pháp vận chuyển hàng hóa ở Brazil với dự án HyperPort đầy tham vọng. Mục đích của dự án này là xây dựng đường sắt cao tốc vận chuyển container hàng kích thước 12,2 m trong đường ống chân không một phần ở tốc độ tương đương với đường hàng không, New Atlas hôm 14/3 đưa tin.
+
+Kết quả nghiên cứu sơ bộ cho thấy dự án khả thi ở nhiều phương diện. Nghiên cứu được thực hiện bởi LabTrans ở Đại học Liên bang Santa Catarina, hợp tác với công ty vận chuyển cảng Brazil EGA Group với mục tiêu thiết lập lộ trình từ cảng Santos qua São Paulo và xa hơn, đi qua nhiều thành phố lớn và tuyến đường thủy khác.
+
+Cảng Santos xử lý hơn 5 triệu TEU (một TEU tương đương với một container tiêu chuẩn dài 6 m x rộng 2,4 m và cao 2,6 m) năm 2024, xếp thứ 40 trên thế giới, nhưng là cảng container lớn và hiện đại nhất khu vực châu Mỹ Latinh. Từ 3.000 - 15.000 xe tải ra vào cảng mỗi ngày và hành trình lái xe dài 97 km tới São Paulo kéo dài khoảng hai giờ, tùy theo điều kiện giao thông.
+
+Khoang tàu Hyperloop được thiết kế để chở container dài 12 m (tương đương hai TEU) ở tốc độ khoảng 595 km/h ra vào cảng, giúp hành trình vài giờ hoặc thậm chí nhiều ngày rút ngắn còn 20 - 30 phút, sánh ngang tốc độ vận chuyển hàng bằng máy bay. Dựa trên dự đoán về nhu cầu, hoạt động hàng ngày sẽ ghi nhận 4.810 khoang tàu di chuyển giữa São Paulo và cảnh Santos, cùng 4.156 khoang tàu chạy giữa São Paulo và thành phố Campinas ở sâu trong nội địa hơn. Điều đó đồng nghĩa với cắt giảm 4.000 xe tải trên đường mỗi ngày.
+
+Hiện nay, HTT tập trung vào tuyến đường dài 169 km từ Santos tới Campinas route, có thể mang lại nhiều lợi nhuận nhất. Trong khi các nghiên cứu đã hoàn thành, việc xây dựng HyperPort đòi hỏi khoản đầu tư rất lớn. Hệ thống có chi phí xây dựng và cơ sở vật chất khoảng 9,6 tỷ USD và chi phí vận hành 1,6 tỷ USD trong suốt thời gian tồn tại, bao gồm chi phí hoạt động, nhân công, bảo dưỡng và năng lượng trong lộ trình Campinas - Santos. Tổng doanh thu từ tuyến đường này dự kiến đạt 17,1 tỷ USD.
+
+Theo HTT, dự án sẽ giúp giảm ước tính 906 tấn khí thải CO2 mỗi ngày vào năm 2060, cung cấp lựa chọn thân thiện với môi trường để vận chuyển hàng hóa. Những lợi ích gián tiếp khác bao gồm giảm tai nạn, giảm ô nhiễm môi trường, ít hao mòn đường sá do giảm lượng xe tải. Bước tiếp theo của dự án là hoàn thành nghiên cứu tính khả thi về mặt kỹ thuật, kinh tế và môi trường. Sau khi hoàn thành, các mô hình vốn và kết quả phê duyệt của chính phủ sẽ quyết định số phận của mạng lưới chở hàng tiên tiến này.
+
+An Khang (Theo New Atlas)

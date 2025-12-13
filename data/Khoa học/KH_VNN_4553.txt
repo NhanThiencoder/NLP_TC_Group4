@@ -1,0 +1,37 @@
+Đây được xem là một trong những thay đổi mang tính biểu tượng nhằm kỷ niệm cột mốc lịch sử của dòng iPhone, tương tự cú hích mà iPhone X tạo ra khi loại bỏ nút Home và đưa Face ID trở thành tiêu chuẩn của smartphone hiện đại.
+
+iPhone 20 sẽ có những thay đổi mang tính biểu tượng nhằm kỷ niệm cột mốc lịch sử của dòng iPhone. Ảnh: gsmarena
+
+Nguồn tin từ Setsuna Digital trên Weibo tiết lộ rằng Apple đã hoàn tất giai đoạn “xác minh chức năng” của hệ thống nút solid-state. Điều này có nghĩa công nghệ đã vượt qua các bài kiểm tra kỹ thuật cần thiết và chuẩn bị bước vào dây chuyền sản xuất với mục tiêu sẵn sàng cho iPhone 20.
+
+Dù iPhone 20 mới là sản phẩm đánh dấu bước ngoặt, Apple được cho là đã bắt đầu chuẩn bị nền tảng ngay từ iPhone 18 ra mắt vào năm 2026. Thay vì thay đổi triệt để ngay lập tức, Apple có thể sẽ tinh chỉnh dần thiết kế nút bấm hiện tại để người dùng làm quen trước.
+
+Đặc biệt, nút Camera Control – nút riêng dùng để chụp ảnh và quay video – sẽ được đơn giản hóa cấu trúc. Thay vì sử dụng cảm ứng điện dung, nút này sẽ chỉ nhận biết lực nhấn từ ngón tay người dùng. Sự điều chỉnh này có thể không làm thay đổi trải nghiệm người dùng ở cấp độ cảm giác, nhưng lại là bước chuẩn bị rõ rệt cho việc loại bỏ hoàn toàn cấu trúc nút cơ học trên iPhone 20.
+
+Solid-state là gì và tại sao lại quan trọng?
+
+Nút bấm solid-state không có chuyển động vật lý. Thay vì “nhấn xuống”, nút sử dụng cảm biến lực để nhận diện thao tác và phản hồi bằng hệ thống rung haptic nhằm tạo cảm giác tương tự như bấm nút thật. Người dùng vẫn cảm nhận được một cú nhấn, nhưng thực tế không có bộ phận nào di chuyển bên trong.
+
+Đây không chỉ là thay đổi về hình thức. Solid-state mở ra một hướng tiếp cận hoàn toàn mới trong thiết kế thiết bị di động: ít linh kiện cơ khí hơn, bền bỉ hơn, và liền khối hơn.
+
+Apple vốn nổi tiếng với triết lý tối giản, và solid-state hoàn toàn phù hợp với con đường tiến tới một thiết bị không phím bấm vật lý.
+
+Nút cơ học luôn là một trong những bộ phận dễ hỏng nhất trên bất kỳ smartphone nào. Sau thời gian dài sử dụng, bụi, nước, oxi hóa hoặc lực tác động quá mạnh có thể khiến nút bị kẹt hoặc mất độ nhạy. Khi loại bỏ bộ phận cơ học chuyển động bên trong, Apple giảm thiểu đáng kể nguy cơ hỏng hóc.
+
+Việc sử dụng solid-state đồng thời cải thiện khả năng kháng nước và bụi của máy. Không còn khe hở và không gian chuyển động cho nút bấm, thiết bị có thể đạt mức độ kín tuyệt đối tốt hơn – điều mà người dùng luôn mong đợi khi sử dụng thiết bị cao cấp.
+
+Về phía người dùng, điều này đồng nghĩa với ít lần phải mang máy đi sửa chữa, đặc biệt là những lỗi vặt liên quan đến nút nguồn hoặc nút âm lượng vốn hay gặp trên các thế hệ iPhone cũ.
+
+iPhone 20 và tương lai của thiết kế liền khối
+
+Tin đồn về nút solid-state thực ra không phải mới. Từ năm 2023, nhiều rò rỉ cho rằng iPhone 15 Pro sẽ là model đầu tiên sở hữu công nghệ này, nhưng kế hoạch được cho là đã tạm dừng vì lý do kỹ thuật. Thậm chí, các tài liệu bằng sáng chế từng đề cập đến dự án mang tên mã “Project Bongo” – một nỗ lực của Apple nhằm tạo ra thế hệ nút bấm mới.
+
+Video concept iPhone màn hình tràn viền đẹp lung linh. (Nguồn: ConceptsiPhone)
+
+Việc tin đồn quay trở lại và mạnh lên đối với iPhone 20 cho thấy Apple không từ bỏ ý tưởng này. Họ chỉ đang chọn đúng thời điểm để đảm bảo tính hoàn thiện và trải nghiệm tối ưu cho người dùng.
+
+Nếu Apple giới thiệu nút solid-state trên iPhone 20, đây sẽ không chỉ là cải tiến kỹ thuật, mà là bước chuyển trong định hướng thiết kế: đưa iPhone tiến gần hơn tới mục tiêu không khe hở, không chi tiết thừa, không bộ phận chuyển động. Đó cũng có thể là bước đệm cho tương lai của một chiếc iPhone không cổng vật lý, nơi mọi kết nối và sạc đều được thực hiện không dây.
+
+iPhone X đã từng thay đổi định nghĩa smartphone hiện đại. Đến lượt iPhone 20, solid-state có thể là bước nhảy thiết kế tiếp theo của Apple – và cũng là bước tiến khiến các nhà sản xuất khác phải chạy theo.
+
+(Theo AppleInsider, CNET)

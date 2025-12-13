@@ -1,0 +1,19 @@
+MỹCác nhà khoa học phát triển loại pin mới biến phụ phẩm của quá trình sản xuất điện hạt nhân thành nguồn năng lượng với nhiều ứng dụng tiềm năng.
+
+Giáo sư Raymond Cao và nhà nghiên cứu Ibrahim Oksuz làm việc với nguyên mẫu pin chất thải hạt nhân trong phòng thí nghiệm. Ảnh: Đại học Bang Ohio
+
+Các nhà máy điện hạt nhân tạo ra khoảng 18% tổng lượng điện ở Mỹ, theo Hiệp hội Hạt nhân Thế giới (WNA). Nguồn năng lượng này không thải carbon, nhưng tạo ra chất thải phóng xạ có thể nguy hiểm cho môi trường và vẫn trong trạng thái hoạt động sau hàng nghìn năm.
+
+Với mục đích tái sử dụng chất thải này, nhóm nghiên cứu từ Đại học Bang Ohio sử dụng tinh thể scintillator, vật liệu có khối lượng riêng lớn và phát sáng khi hấp thụ phóng xạ, kết hợp với pin mặt trời để chuyển đổi phóng xạ gamma thành điện, Live Science hôm 27/2 đưa tin. Nghiên cứu mới xuất bản trên tạp chí Optical Materials: X.
+
+"Chất thải hạt nhân phát ra phóng xạ gamma mạnh, một dạng năng lượng cao có thể xuyên qua đa số vật liệu. Thiết bị của chúng tôi sử dụng scintillator, vật liệu chuyên dụng giúp hấp thụ những tia gamma này và chuyển đổi năng lượng của chúng thành ánh sáng khả kiến - tương tự cách các vật thể phát sáng trong bóng tối hoạt động, nhưng được thúc đẩy bởi phóng xạ thay vì ánh sáng mặt trời. Ánh sáng khả kiến sau đó được pin mặt trời thu thập, chuyển thành điện", giáo sư kỹ thuật hàng không vũ trụ và cơ khí Raymond Cao tại Đại học Bang Ohio, tác giả chính của nghiên cứu, giải thích.
+
+Nguyên mẫu pin có thể tích chỉ 4 cm3 - nhỏ tương đương thìa cà phê - được thử nghiệm tại Phòng thí nghiệm Lò phản ứng Hạt nhân thuộc Đại học Bang Ohio với hai nguồn phóng xạ cesium-137 và cobalt-60. Pin tạo ra 288 nanowatt điện khi sử dụng cesium-137 và 1.500 nanowatt khi dùng đồng vị cobalt-60 phóng xạ mạnh hơn - đủ để vận hành những hệ thống vi điện tử như microchip hoặc thiết bị khẩn cấp. Công suất này thấp hơn nhiều so với mức kilowatt cần thiết để ấm điện hoạt động, nhưng nhóm nghiên cứu tin rằng trong tương lai, công nghệ mới có thể tăng quy mô lên mức watt hoặc hơn.
+
+Loại pin mới sẽ không dùng trong gia đình vì dựa vào lượng phóng xạ xung quanh cao để hoạt động. Do đó, pin cần được lắp đặt ở những địa điểm có nhiều chất thải hạt nhân. Ví dụ, nhóm nghiên cứu hình dung rằng sẽ lắp đặt pin trong các hệ thống hạt nhân dùng cho thám hiểm vũ trụ và biển sâu, nơi lượng phóng xạ cao ngăn cản việc sử dụng những nguồn điện truyền thống.
+
+Vẫn còn một số trở ngại trước khi công nghệ mới được triển khai thực tế. Theo Cao, lượng phóng xạ lớn dần làm tổn hại cả scintillator lẫn pin mặt trời. "Cần cải tiến thêm để tạo ra những vật liệu bền hơn, chịu phóng xạ tốt hơn, đảm bảo tuổi thọ lâu dài cho hệ thống", Cao nói.
+
+Nếu khắc phục được, những viên pin này có thể triển khai ở những khu vực phóng xạ cao và khó tiếp cận. Do ít cần bảo trì, chúng có thể trở thành giải pháp năng lượng hấp dẫn.
+
+Thu Thảo (Theo Live Science)

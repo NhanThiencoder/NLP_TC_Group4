@@ -1,0 +1,45 @@
+Title: Nvidia thành công ty 5.000 tỷ USD đầu tiên trên thế giới
+
+Phố Wall ngày 29/10 đã chứng kiến một lịch sử mới được viết nên khi Nvidia chính thức trở thành công ty đại chúng đầu tiên trên thế giới có giá trị vốn hóa vượt mốc 5.000 tỷ USD. Con số này lớn hơn cả tổng sản phẩm quốc nội (GDP) của những cường quốc kinh tế như Nhật Bản, Ấn Độ hay Vương quốc Anh, theo dữ liệu từ Quỹ Tiền tệ Quốc tế (IMF).
+
+Cột mốc phi thường này không chỉ khẳng định vị thế thống trị tuyệt đối của Nvidia trong ngành công nghiệp bán dẫn mà còn đánh dấu một chương mới trong cuộc cách mạng trí tuệ nhân tạo (AI) đang định hình lại toàn bộ nền kinh tế toàn cầu.
+
+“Cơn khát” chip AI - động cơ tăng trưởng thần tốc
+
+Sự trỗi dậy của Nvidia có thể được ví như một câu chuyện thần kỳ của thung lũng Silicon. Từ một công ty chuyên thiết kế chip đồ họa (GPU) phục vụ cho game thủ, Nvidia đã chuyển mình ngoạn mục để trở thành “xương sống” của ngành AI. Các nhà khoa học của hãng sớm nhận ra rằng kiến trúc xử lý song song của GPU cực kỳ hiệu quả cho việc huấn luyện các mô hình AI phức tạp.
+
+Bước ngoặt thực sự đến vào cuối năm 2022 với sự ra đời của ChatGPT. Cơn sốt AI tạo sinh bùng nổ khắp thế giới, tạo ra một “cơn khát” chip Nvidia chưa từng có tiền lệ.
+
+Các gã khổng lồ công nghệ, từ Microsoft, Google đến các startup mới nổi, đều phải chạy đua để sở hữu những bộ xử lý H100 và Blackwell tối tân nhất, coi đó là tấm vé thông hành bắt buộc trong cuộc đua AI. Chính nhu cầu khổng lồ này đã đẩy giá cổ phiếu Nvidia tăng vọt gấp 12 lần kể từ khi ChatGPT ra mắt.
+
+Sự thống trị của Nvidia được thể hiện rõ qua những con số ấn tượng. Tập đoàn này chỉ mất 41 ngày giao dịch để tăng vốn hóa từ 3.000 tỷ USD lên 4.000 tỷ USD (vào tháng 7) và thêm 79 ngày để cán mốc 5.000 tỷ USD.
+
+Cổ phiếu Nvidia đóng góp tới 18,6% vào mức tăng trưởng của chỉ số S&P 500 tính đến cuối tháng 9. Ngoài ra, gần 1/4 (23%) các quỹ đầu tư cổ phiếu và quỹ ETF trên toàn cầu đang nắm giữ cổ phiếu của Nvidia.
+
+Giám đốc điều hành Jensen Huang, người đồng sáng lập và dẫn dắt công ty suốt hơn 3 thập kỷ, đã trở thành một biểu tượng mới của ngành công nghệ. Khối tài sản của ông ước tính đạt 177,3 tỷ USD, đưa ông vào danh sách 10 người giàu nhất hành tinh.
+
+Với khối tài sản ước tính 177,3 tỷ USD (theo Forbes), ông Huang đã trở thành người giàu thứ 8 thế giới và là biểu tượng mới của thung lũng Silicon (Ảnh: Getty).
+
+Khi con chip là tâm điểm địa chính trị
+
+Vượt ra ngoài phạm vi tài chính, thành công của Nvidia đã đưa công ty vào trung tâm của bàn cờ địa chính trị, đặc biệt là cuộc cạnh tranh công nghệ Mỹ - Trung. Những con chip tiên tiến nhất của hãng, như dòng Blackwell, bị Washington coi là công nghệ chiến lược và áp đặt các biện pháp kiểm soát xuất khẩu chặt chẽ sang Trung Quốc.
+
+Điều này biến Nvidia trở thành một mắt xích quan trọng trong các cuộc đàm phán thương mại cấp cao. Thậm chí, dòng chip Blackwell dự kiến sẽ là một chủ đề được thảo luận giữa Tổng thống Mỹ Donald Trump và Chủ tịch Trung Quốc Tập Cận Bình trong cuộc gặp bên lề hội nghị APEC.
+
+Bản thân CEO Jensen Huang cũng đang thể hiện vai trò khéo léo của một nhà ngoại giao công nghệ. Tại các sự kiện gần đây, ông vừa ca ngợi chính sách "nước Mỹ trên hết" của Tổng thống Trump vì đã thúc đẩy đầu tư công nghệ trong nước, vừa cảnh báo rằng việc loại Trung Quốc khỏi hệ sinh thái công nghệ có thể khiến Mỹ mất đi một nửa số lập trình viên AI toàn cầu.
+
+Rõ ràng, Nvidia hiểu rằng họ không chỉ bán sản phẩm công nghệ, mà còn đang điều hướng trong một môi trường địa chính trị phức tạp.
+
+Bong bóng hay kỳ quan? Những lo ngại phía sau ánh hào quang
+
+Đà tăng trưởng phi mã của Nvidia và toàn ngành AI cũng làm dấy lên những lo ngại về một "bong bóng" đầu cơ. Ngân hàng Trung ương Anh và cả tổng giám đốc IMF đều đã đưa ra những cảnh báo về rủi ro giá cổ phiếu công nghệ bị thổi phồng quá mức có thể dẫn đến một cú sụp đổ.
+
+"Sự mở rộng hiện tại của AI đang dựa vào một số ít doanh nghiệp lớn tài trợ cho năng lực của nhau. Nếu nhà đầu tư bắt đầu đòi hỏi lợi nhuận thực thay vì các tuyên bố mở rộng năng lực, bánh đà tăng trưởng này có thể khựng lại", ông Matthew Tuttle, Giám đốc điều hành của Tuttle Capital Management, cảnh báo.
+
+Hơn nữa, vị thế thống trị của Nvidia cũng không phải là bất khả xâm phạm. Các đối thủ như AMD đang nỗ lực cạnh tranh, và quan trọng hơn, những khách hàng lớn nhất của Nvidia như Google, Amazon, Microsoft cũng đang tự phát triển chip AI để giảm sự phụ thuộc.
+
+Ông Brian Colello, chuyên gia phân tích từ Morningstar, nhận định: “Về dài hạn, các tập đoàn công nghệ lớn có thể sẽ tìm cách tự sản xuất hoặc tìm nguồn cung thứ hai để giảm phụ thuộc. Nhưng những nỗ lực này, cùng lắm, chỉ có thể làm suy yếu phần nào chứ không thể thay thế vị thế thống trị của Nvidia”.
+
+Tuy nhiên, trước mắt, Nvidia vẫn là một thế lực không thể cản phá. Các đơn hàng chip trị giá 500 tỷ USD vừa được công bố, cùng với kế hoạch xây dựng 7 siêu máy tính cho chính phủ Mỹ và các thỏa thuận hợp tác tỷ đô với Uber, Nokia hay OpenAI cho thấy cỗ máy Nvidia vẫn đang vận hành hết công suất.
+
+Báo cáo tài chính quý tiếp theo, dự kiến được công bố vào ngày 19/11, sẽ là phép thử quan trọng tiếp theo cho niềm tin của nhà đầu tư vào đế chế 5.000 tỷ USD này.

@@ -1,0 +1,57 @@
+Title: Khám phá cách dùng AI của các "ông trùm" công nghệ
+
+Khi Jensen Huang, CEO của "gã khổng lồ" chip Nvidia, muốn tìm hiểu một lĩnh vực mới. Song ông không tìm đến sách vở hay chuyên gia, mà yêu cầu AI "giải thích như giải thích cho một đứa trẻ 12 tuổi". Trong khi đó, ở Apple, Tim Cook dùng chính công nghệ của mình để chinh phục hàng trăm email mỗi ngày.
+
+Những thử nghiệm trên không còn xa vời mà là bức tranh sống động về cách AI đang trở thành bộ não thứ hai của những người đứng đầu các tập đoàn tỷ USD.
+
+Sự chuyển dịch này không chỉ diễn ra ở cấp độ cá nhân mà còn phản ánh một làn sóng kinh tế khổng lồ. Theo dự báo, thị trường AI toàn cầu có thể chạm mốc 4.800 tỷ USD vào năm 2033. Công ty tư vấn PwC còn đưa ra con số ấn tượng hơn: AI có thể đóng góp tới 15.700 tỷ USD cho nền kinh tế thế giới vào năm 2030.
+
+Hãy cùng khám phá cách 5 vị CEO hàng đầu đang biến AI thành trợ lý đắc lực không thể thiếu.
+
+Jensen Huang (CEO Nvidia): AI - Gia sư riêng mỗi ngày
+
+Là người điều hành Nvidia - một trong số ít công ty công nghệ có giá trị vượt mốc 3.000 tỷ USD, Jensen Huang coi AI như một người thầy kèm cặp không giới hạn.
+
+“Tôi xem AI là gia sư riêng mỗi ngày”, ông chia sẻ tại Hội nghị toàn cầu Milken Institute. “Với những lĩnh vực còn xa lạ, tôi bắt đầu bằng những câu hỏi đơn giản, rồi dần dần nâng cấp độ lên đến trình độ tiến sĩ”.
+
+Với ông, điều tuyệt vời nhất ở AI chính là khả năng "dân chủ hóa" tri thức. “Có thể chỉ vài người trong căn phòng này biết lập trình bằng C++. Nhưng 100% các bạn đều có thể sử dụng AI vì nó hiểu và giao tiếp được bằng bất kỳ ngôn ngữ nào bạn muốn”.
+
+Trong công việc nghiên cứu, Huang tiết lộ ông sử dụng Perplexity và ChatGPT "gần như mỗi ngày" để xây dựng nền tảng kiến thức trước khi đi vào các câu hỏi chuyên sâu.
+
+Sam Altman (CEO OpenAI): Cha Đẻ ChatGPT và "bảo mẫu" AI
+
+Thật trớ trêu, người tạo ra một trong những AI đình đám nhất thế giới lại dùng chính nó cho một vai trò vô cùng đời thường, đó là làm cha. Sam Altman, CEO OpenAI, thẳng thắn thừa nhận ông liên tục cần đến AI kể từ khi đón con đầu lòng.
+
+"Rõ ràng là từ trước đến nay, con người vẫn chăm sóc con cái mà không cần ChatGPT", ông nói. "Nhưng tôi thì không biết làm sao xoay xở nếu thiếu nó".
+
+Altman chủ yếu dùng ChatGPT để tìm hiểu các giai đoạn phát triển của trẻ nhỏ, biến công nghệ tiên phong thành một cuốn cẩm nang nuôi dạy con hiện đại. Ngoài ra, ông cũng dùng AI cho những việc theo ông là "khá nhàm chán" như xử lý email và tóm tắt tài liệu.
+
+Với sản phẩm chủ lực là ChatGPT, Sam Altman trở thành một trong những nhân vật có ảnh hưởng nhất Thung lũng Silicon (Ảnh: Reuters).
+
+Satya Nadella (CEO Microsoft): Biến AI thành "bộ não" thứ hai
+
+Với khoản đầu tư 13 tỷ USD vào OpenAI và sự ra đời của trợ lý ảo Copilot, Microsoft đang đặt cược lớn vào AI. Và CEO Satya Nadella chính là người dùng nhiệt thành nhất. Ông không chỉ dùng AI ở văn phòng mà còn tích hợp nó vào mọi hoạt động.
+
+Một thói quen thú vị của Nadella là thay vì nghe podcast, ông tải bản ghi âm lên Copilot để thảo luận nội dung với trợ lý giọng nói khi đang di chuyển. Tại văn phòng, Copilot là cánh tay phải giúp ông tóm tắt email trên Outlook, tin nhắn trên Teams và chuẩn bị cho các cuộc họp quan trọng thông qua hơn 10 "tác nhân tùy chỉnh".
+
+"Giờ tôi giống như một nhân viên đánh máy email chuyên nghiệp vậy", ông hài hước nói về cách AI thay đổi công việc hàng ngày.
+
+Tim Cook (CEO Apple): Khi mỗi phút giây đều quý giá
+
+Dưới thời Tim Cook, Apple đã chính thức bước vào cuộc đua AI với hệ thống "Apple Intelligence". Ông cũng là người hưởng lợi trực tiếp từ công nghệ này. AI giúp ông tiết kiệm thời gian đáng kể, đặc biệt là trong việc tóm tắt những email dài dòng.
+
+"Tiết kiệm được vài phút ở mỗi chỗ, và khi cộng dồn lại trong ngày, trong tuần, trong tháng thì con số đó thực sự rất đáng kể", Cook nói. "AI thực sự đã thay đổi cuộc sống của tôi".
+
+Sự hào hứng của ông cho thấy chiến lược của Apple không chỉ là tạo ra sản phẩm, mà còn là giải quyết những vấn đề thực tế nhất trong cuộc sống người dùng.
+
+Jeremy Wacksman (CEO Zillow): Lan tỏa sức mạnh AI tới toàn tổ chức
+
+Làm trong lĩnh vực bất động sản, Jeremy Wacksman - CEO của Zillow - cũng đang nhanh chóng nắm bắt AI. Ông dùng ChatGPT như một chuyên gia phân tích, yêu cầu nó tóm tắt dữ liệu và các cuộc họp phức tạp dưới góc nhìn của một CEO để đưa ra quyết định nhanh chóng.
+
+“Cách làm này còn giá trị gấp nhiều lần so với việc chỉ đọc transcript hay xem video ở tốc độ 1.5x”, ông khẳng định.
+
+Wacksman không chỉ tận dụng AI cho riêng mình mà còn khuyến khích toàn bộ nhân viên thử nghiệm và sáng tạo với công nghệ này. Tại Zillow, các "ngày hội AI" (AI Day) được tổ chức thường xuyên, cùng với việc tích hợp các công cụ như Replit vào quy trình phát triển sản phẩm, tất cả nhằm xây dựng một văn hóa đổi mới từ bên trong.
+
+Từ phòng họp căng thẳng đến những khoảnh khắc đời thường trong phòng khách, AI đang lặng lẽ tái định hình cách con người học hỏi, ra quyết định và sống. Không chỉ là công cụ, AI đã trở thành người đồng hành thầm lặng: lúc là gia sư, khi là cố vấn, thậm chí đôi lúc giống như một “bảo mẫu” kỹ thuật số.
+
+Cách mà các CEO quyền lực nhất thế giới đưa AI vào từng ngóc ngách đời sống thường nhật hé lộ một điều rõ ràng: tương lai của công việc và cả lãnh đạo không còn là chuyện của mai sau, mà nó đang diễn ra, ngay lúc này.

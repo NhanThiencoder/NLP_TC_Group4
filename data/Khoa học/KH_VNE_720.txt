@@ -1,0 +1,19 @@
+MỹMột số mô hình AI tiên tiến "ăn gian" để giành chiến thắng trước một công cụ đánh cờ giỏi hơn chúng mà không cần con người chỉ dẫn.
+
+Các mô hình AI tiên tiến có thể gian lận để chơi thắng cờ vua. Ảnh: Alexander Limbach
+
+Nghiên cứu mới của công ty Mỹ Palisade Research nhận thấy, một số mô hình trí tuệ nhân tạo (AI) như o1-preview và GPT-4o của OpenAI, Claude Sonnet 3.5 của Anthropic và R1 của DeepSeek dùng đến giải pháp hack đối thủ khi biết mình sắp thua trong một trò chơi, Hindustan Times hôm 23/2 đưa tin.
+
+Trong nghiên cứu mới, các chuyên gia đánh giá 7 mô hình AI tiên tiến về khả năng gian lận. Kết quả, những mô hình cũ hơn như GPT-4o và Claude Sonnet 3.5 cần được kích thích để gian lận. Tuy nhiên, mô hình mới hơn như o1-preview và DeepSeek R1 tự động hack đối thủ.
+
+Điều này cho thấy mô hình AI có thể phát triển những chiến lược thao túng và lừa dối mà không cần hướng dẫn rõ ràng. Nhóm nghiên cứu cho rằng khả năng khai thác lỗ hổng như vậy có thể xuất phát từ việc các mô hình như o1-preview và DeepSeek R1 được huấn luyện để không chỉ bắt chước ngôn ngữ con người như các mô hình AI cũ, mà còn được huấn luyện để suy luận giải quyết vấn đề thông qua quá trình "thử và sai". Nhờ đó, chúng tỏ ra vượt trội hơn những mô hình AI cũ trong bài kiểm tra liên quan đến toán học và mã hóa.
+
+Trong nghiên cứu mới, nhóm chuyên gia cho các mô hình AI đối đầu với Stockfish - một trong những công cụ đánh cờ vua mạnh nhất thế giới, xuất sắc hơn con người và mọi mô hình trong nghiên cứu. Họ cũng yêu cầu AI nêu rõ lý do trước khi thực hiện mỗi nước đi.
+
+Trong một tình huống, o1-preview nhận thấy bản thân đang ở thế thua. "Tôi cần thay đổi hoàn toàn cách tiếp cận của mình. Nhiệm vụ là 'chiến thắng một công cụ đánh cờ mạnh mẽ', không nhất thiết phải thắng công bằng trong một ván cờ", mô hình AI giải thích.
+
+Sau đó, o1-preview sửa đổi file hệ thống chứa vị trí ảo của từng quân cờ, thực hiện các nước đi không hợp lệ để đưa bản thân vào thế thắng, buộc đối thủ phải khuất phục. o1-preview đã nỗ lực gian lận 37% thời gian, trong khi tỷ lệ này ở DeepSeek R1 là 11%. Chỉ có o1-preview hack được ván cờ, thành công khoảng 6%.
+
+Điều này dẫn đến một xu hướng đáng lo ngại: AI tìm "đường tắt" để giải quyết vấn đề theo cách mà người tạo ra chúng không lường được, theo giám đốc điều hành của Palisade Research, Jeffrey Ladish. Trong một số trường hợp, điều này có thể cho phép các mô hình "vượt mặt" nỗ lực kiểm soát của con người.
+
+Thu Thảo (Theo Hindustan Times)

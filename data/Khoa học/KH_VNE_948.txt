@@ -1,0 +1,21 @@
+MỹChùm laser mạnh chiếu vào cánh buồm của tàu vũ trụ sẽ đẩy nó bay nhanh mà không cần nhiên liệu hóa học, giống như cách gió đẩy thuyền buồm.
+
+Khai thác lực đẩy laser, các nhà khoa học đặt mục tiêu đưa tàu vũ trụ đến những hệ sao xa xôi một cách nhanh chóng. Ảnh: Breakthrough Starshot
+
+Nhóm nhà khoa học tại Viện Công nghệ California (Caltech) phát triển công nghệ buồm ánh sáng có thể đưa tàu vũ trụ đến các hệ sao xa xôi trong tương lai, Space hôm 8/2 đưa tin. Trong nghiên cứu mới công bố trên tạp chí Nature Photonics, họ trình bày phương pháp đo lực của ánh sáng laser tác động lên cánh buồm - những tấm màng siêu mỏng.
+
+Nghiên cứu mới giúp thúc đẩy Sáng kiến Breakthrough Starshot về du hành vũ trụ bằng laser. Sáng kiến này do nhà vật lý Stephen Hawking và nhà đầu tư công nghệ Yuri Milner khởi xướng từ năm 2016, đặt mục tiêu phóng các tàu thăm dò nhỏ đến Alpha Centauri, hệ sao gần Trái Đất nhất. Theo kế hoạch, laser công suất cao từ Trái Đất sẽ đẩy các tàu buồm bay trong vũ trụ như gió đẩy thuyền buồm trên biển, cho phép tàu vũ trụ đạt tốc độ kỷ lục mà không cần chất đẩy hóa học.
+
+Buồm ánh sáng sử dụng áp suất bức xạ từ nguồn sáng để tạo lực đẩy. Áp suất bức xạ là sự truyền động lượng từ bức xạ chiếu vào một bề mặt nào đó, giống như gió thổi vào cánh buồm ở Trái Đất. Các hạt ánh sáng photon không có khối lượng, nhưng chúng vẫn truyền một phần động lượng khi chiếu vào vật thể, đẩy nó một cách nhẹ nhàng.
+
+Một photon không tạo ra khác biệt lớn, nhưng hàng nghìn tỷ photon đập vào bề mặt sẽ cộng dồn lại, đặc biệt là trong chân không. Bức xạ dưới dạng ánh sáng Mặt Trời đủ để đẩy tàu vũ trụ liên hành tinh lệch khỏi quỹ đạo hàng nghìn km. Vì vậy, tác động này cần được tính đến khi phóng tàu thăm dò tới sao Hỏa hoặc hành tinh khác.
+
+Phiên bản năng lượng cao hơn là sử dụng chùm laser từ mặt đất hoặc không gian để đẩy cánh buồm ánh sáng của tàu vũ trụ theo cách có định hướng hơn. Laser cung cấp áp suất liên tục lên cánh buồm, tác động tổng hợp của áp suất bức xạ này tạo ra tốc độ nhanh hơn và đáng tin cậy hơn nhiều so với những tên lửa phức tạp sử dụng chất đẩy hóa học.
+
+"Buồm ánh sáng sẽ di chuyển nhanh hơn bất kỳ tàu vũ trụ nào trước đây, với tiềm năng vượt qua khoảng cách liên sao để có thể thám hiểm bằng tàu vũ trụ trực tiếp", Harry Atwater chuyên gia tại Caltech, cho biết.
+
+Nhóm của Atwater đã phát triển một nền tảng thử nghiệm để đo cách laser tác động lực lên một cánh buồm bằng silicon nitride chỉ dày 50 nanomet. Cánh buồm tí hon có hình vuông, cạnh 40 micromet, 4 góc cố định bằng lò xo và rung động khi bị laser chiếu vào. Bằng cách nghiên cứu những chuyển động nhỏ này, nhóm chuyên gia có thể tính toán lực và công suất của chùm laser. Trong tương lai, họ hy vọng tích hợp những vật liệu nano tiên tiến và siêu vật liệu để ổn định buồm ánh sáng trong hành trình ngoài vũ trụ.
+
+Trên thế giới, một số dự án buồm ánh sáng đang được tiến hành. Năm ngoái, NASA cũng triển khai một cánh buồm Mặt Trời (một loại buồm ánh sáng), dù nó gặp một số vấn đề cơ học. Điều này nhấn mạnh tầm quan trọng của nghiên cứu mà nhóm Caltech đang thực hiện trong việc cải tiến thiết kế cho loại cánh buồm này.
+
+Thu Thảo (Theo Space)

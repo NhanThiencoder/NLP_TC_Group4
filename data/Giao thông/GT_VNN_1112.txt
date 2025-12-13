@@ -1,0 +1,13 @@
+Ngày 8/12, Cục CSGT (Bộ Công an) thông tin về số lượng vi phạm được phát hiện tại các tuyến đường lắp camera ứng dụng trí tuệ nhân tạo (camera AI).
+
+Cụ thể, trong ngày 7/12, camera AI tại nút giao phố Phạm Văn Bạch - Hoàng Quán Chi (Hà Nội) đã tự động phát hiện 703 trường hợp không chấp hành hiệu lệnh của đèn tín hiệu (vượt đèn đỏ).
+
+Còn tại đường Lê Văn Lương (Hà Nội), camera AI phát hiện 8 trường hợp ô tô đi sai làn đường.
+
+Ghi nhận từ camera AI được lắp tại nút giao phố Hoàng Quán Chi - Phạm Văn Bạch. Ảnh chụp màn hình
+
+Theo Cục CSGT, những trường hợp này đã được chuyển cho Công an thành phố Hà Nội và các đơn vị chức năng để thực hiện thủ tục xử lý vi phạm.
+
+Tại KM20 cao tốc Nội Bài - Lào Cai, camera AI ghi nhận phương tiện lưu thông với tốc độ trung bình là 70km/h. Trong khoảng thời gian này, camera chỉ phát hiện 2 tài xế ô tô không thắt dây an toàn khi lái xe.
+
+1.837 camera và đèn tín hiệu AI đồng loạt vận hành tại Hà Nội từ 10/12 Đại tá Trần Đình Nghĩa, Trưởng phòng CSGT Công an Hà Nội, cho biết Trung tâm điều khiển giao thông đã được nâng cấp giai đoạn 2. Dự kiến đến ngày 10/12, toàn thành phố sẽ vận hành hệ thống 1.837 camera và hệ thống đèn tín hiệu ứng dụng trí tuệ nhân tạo (AI), hoạt động hoàn toàn tự động theo dữ liệu lưu lượng giao thông. Đại tá Nghĩa khẳng định, mục tiêu của hệ thống không chỉ dừng ở việc “phạt nguội”, mà còn hướng tới giảm ùn tắc, hiện đại hóa hạ tầng, nâng cao năng lực quản lý nhà nước và xây dựng nếp sống văn minh đô thị. Hệ thống có thể tự động phát hiện các hành vi vi phạm phổ biến như vượt đèn đỏ, đi sai làn, dừng đỗ không đúng quy định… Bên cạnh đó, hệ thống còn cảnh báo sớm các điểm ùn tắc, nhận diện phương tiện thuộc diện theo dõi và cho phép điều chỉnh chu kỳ đèn tín hiệu theo thời gian thực, rút ngắn hoặc kéo dài pha đèn tùy theo lưu lượng phương tiện. Việc này giúp giảm đáng kể nhu cầu bố trí lực lượng CSGT trực tiếp điều tiết giao thông, đồng thời nâng cao tính chính xác và minh bạch trong công tác quản lý.

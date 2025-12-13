@@ -1,0 +1,49 @@
+Tối 30/10, Jensen Huang, CEO NVIDIA, đã có buổi gặp mặt thân mật cùng Lee Jae-yong, Chủ tịch Tập đoàn Samsung Electronics và Chung Eui-sun, Chủ tịch Tập đoàn Hyundai Motor, tại một cửa hàng gà rán Kkanbu Chickenở khu Samsung-dong, quận Gangnam, Seoul (Hàn Quốc).
+
+Cuộc gặp – diễn ra trong không khí thoải mái với bia và gà rán (chimaek) – được giới công nghệ Hàn Quốc gọi vui là sự ra đời của “Liên minh AI Kkanbu”.
+
+Từ trái qua: Chủ tịch Huyndai Motor Chung Eui Sun, Chủ tịch Samsung Electronics Lee Jae Yong, CEO Nvidia Jensen Huang. Ảnh: Chosun Daily
+
+Ba nhà lãnh đạo – đều là những nhân vật then chốt trong kỷ nguyên trí tuệ nhân tạo – nâng ly, thưởng thức các món ăn đơn giản như phô mai que, gà không xương và bia lạnh.
+
+Họ thậm chí còn cùng nhau thực hiện “love shot” – một động tác uống bia thể hiện tình bạn thân thiết. Một thực khách gần đó tặng Jensen Huang ly “bom soju”, còn Lee Jae-yong vui vẻ gọi thêm một lượt.
+
+Không khí buổi gặp ấm áp, đầy tiếng cười. Huang nói đùa với mọi người trong quán: “Tôi có tin vui – tối nay họ bao toàn bộ bữa ăn của chúng ta”.
+
+Được biết, phía Samsung đã thanh toán hóa đơn khoảng 1,8 triệu won, còn Chủ tịch Hyundai đáp lại: “Lần sau để tôi mời”.
+
+Lý do chọn Kkanbu Chicken cũng mang nhiều ý nghĩa. “Kkanbu” là từ lóng Hàn Quốc chỉ những người bạn hoặc đối tác thân thiết, từng nổi tiếng toàn cầu qua câu thoại trong phim Squid Game: “Chúng ta là kkanbu, đúng không?”.
+
+Jensen Huang chia sẻ: “Tôi thật sự thích gà rán và bia, đặc biệt là khi chia sẻ cùng bạn bè – vì thế Kkanbu là nơi hoàn hảo cho tối nay.”
+
+Chủ tịch Samsung nhận món quà từ Jensen Huang. Ảnh: Chosun Daily
+
+Buổi gặp kéo dài khoảng một tiếng, thu hút sự chú ý lớn của truyền thông. Theo Chosun Daily, trước giờ hẹn, hơn 1.000 phóng viên và người dân đã tụ tập quanh quán.
+
+Cảnh sát phải dựng hàng rào để đảm bảo an toàn. Huang tặng cho hai chủ tịch chai whisky Hakushu 25 năm tuổi và một máy DGX Spark – siêu máy tính AI cỡ nhỏ mới nhất của NVIDIA, có tích hợp ổ SSD hiệu năng cao của Samsung. Trên hộp quà, ông viết: “Dành cho tình bạn và tương lai của thế giới”.
+
+Sau bữa tối, ba người cùng rời đi và tiếp tục dự sự kiện kỷ niệm 25 năm dòng card đồ họa GeForce của NVIDIA tại COEX. Huang xúc động phát biểu:
+
+“Khi còn trẻ, tôi đã đến Hàn Quốc. GeForce trưởng thành cùng Hàn Quốc. Quốc gia này xuất khẩu mọi thứ – từ K-pop, K-drama, K-beauty cho đến K-GeForce”.
+
+Ông nhấn mạnh GeForce chính là nền tảng cho sự bùng nổ của trò chơi điện tử, phòng net và cả thể thao điện tử, và cũng là bàn đạp để NVIDIA tiến vào kỷ nguyên AI.
+
+Huang khẳng định: “AI sẽ là công nghệ có tác động lớn nhất trong lịch sử và trở thành ngành công nghiệp lớn nhất mà thế giới từng chứng kiến”.
+
+CEO Nvidia Jensen Huang (giữa) biểu diễn cùng Lee Jae-yong, Chủ tịch Samsung Electronics và Chung Eui-sun, Chủ tịch Hyundai Motor, trên sân khấu tại sự kiện kỷ niệm 25 năm ra mắt card đồ họa (GPU) 'GeForce' tại Hàn Quốc, được tổ chức tại COEX ở Gangnam-gu, Seoul, vào chiều ngày 30. Ảnh: Chosun Daily
+
+Trong bài phát biểu, ông cũng kể lại kỷ niệm với Chủ tịch quá cố Lee Kun-hee của Samsung. Năm 1996, ông nhận được một bức thư tay từ Hàn Quốc được viết rất đẹp, trong đó có ba điều: “Kết nối mọi hộ gia đình Hàn Quốc với Internet băng thông rộng; đưa trò chơi điện tử đến Hàn Quốc; và tổ chức Thế vận hội trò chơi đầu tiên”. Huang nói: “Chính bức thư đó đã khiến tôi đến Hàn Quốc. Tôi muốn mọi người biết rằng Hàn Quốc luôn nằm trong trái tim của NVIDIA”.
+
+Trên sân khấu, Lee Jae-yong cũng đùa: “Sao ở đây lại có nhiều iPhone thế?” rồi nói thêm: “25 năm trước, NVIDIA đã sử dụng DRAM GDDR của Samsung cho GeForce 256. Sự hợp tác và tình bạn giữa tôi với Jensen bắt đầu từ đó”. Ông gọi Huang là “một trong những nhà sáng tạo và CEO vĩ đại nhất thời đại, rất nhân văn và duyên dáng”.
+
+Chủ tịch Hyundai Chung Eui-sun cũng góp vui: “Dù trông tôi có vẻ già hơn, nhưng Jensen và Lee đều là những người anh của tôi”. Ông nói thêm: “Chip của NVIDIA sẽ giúp ô tô thông minh hơn và chúng tôi sẽ đưa nhiều trò chơi hơn vào xe. Hyundai và NVIDIA sẽ cùng phát triển”.
+
+Giới công nghiệp Hàn Quốc nhận định buổi gặp gỡ này đánh dấu sự khởi đầu của liên minh AI ba bên giữa NVIDIA – Samsung – Hyundai.
+
+Theo Bloomberg, NVIDIA dự định cung cấp chip AI trị giá hàng nghìn tỷ won cho các tập đoàn lớn của Hàn Quốc như Samsung, Hyundai và SK Group. Với nhu cầu ngày càng tăng về bộ tăng tốc AI, Hàn Quốc cần NVIDIA và NVIDIA cũng cần thị trường Hàn Quốc.
+
+Sự kiện lần này còn mang ý nghĩa biểu tượng: 15 năm trước, khi Huang đến Hàn Quốc, ông chỉ là một doanh nhân ít người biết đến.
+
+Còn nay, ông được hai chủ tịch tập đoàn lớn nhất Hàn Quốc đón tiếp như một vị khách danh dự, biểu tượng cho thời đại mà AI trở thành trụ cột của công nghiệp toàn cầu.
+
+(Theo Chosun Daily)

@@ -1,0 +1,33 @@
+TS Nguyễn Trung Quân, Đại học Nam California (Hoa Kỳ) nhấn mạnh, điều Việt Nam cần làm ngay là tự tin tham gia nghiên cứu, công bố khoa học và phát triển các nền tảng robot. Ảnh: TK
+
+Tọa đàm “Robot và Tự động hóa thông minh”, ngày 4/12/2025 trong khuôn khổ Tuần lễ Khoa học – Công nghệ VinFuture 2025, cho thấy robot hình người đang tiến rất gần đến đời sống thực tế. Nhưng song song với những bước tiến vượt bậc về AI, vật liệu và điều khiển, giới khoa học cũng cảnh báo hàng loạt thách thức mới về an toàn, đạo đức, tính bền vững và sự chấp nhận của xã hội.
+
+Robot hình người: bước tiến lớn nhưng rào cản nằm ở niềm tin của con người
+
+Tại Tọa đàm “Robot và Tự động hóa thông minh”, các chuyên gia khẳng định robot hình người đang bước vào giai đoạn ứng dụng rộng rãi, từ công nghiệp đến dịch vụ và y tế. Tuy nhiên, thách thức lớn nhất không nằm ở công nghệ mà ở niềm tin của người dùng. TS Nguyễn Trung Quân, Đại học Nam California (Hoa Kỳ), cho rằng robot cần vượt qua ba rào cản gồm an toàn vật lý, an ninh dữ liệu và sự chấp nhận của xã hội. Chỉ khi con người cảm thấy an toàn khi đứng cạnh, robot mới có thể vận hành tự nhiên trong đời sống.
+
+GS Đỗ Ngọc Minh, Đại học Illinois Urbana-Champaign (Hoa Kỳ) bổ sung góc nhìn xã hội học: tự động hóa sẽ khiến nhiều công việc biến mất, nên sự chấp nhận robot không chỉ đến từ tiện ích mà còn từ cảm giác công bằng và minh bạch khi robot tham gia thị trường lao động. Điều này đòi hỏi chiến lược truyền thông, giáo dục và chính sách đi kèm, thay vì chỉ chạy theo công nghệ.
+
+GS Đỗ Ngọc Minh, Đại học Illinois Urbana-Champaign (Hoa Kỳ).
+
+Vòng đời vật liệu, cơ thịt nhân tạo và bài toán thiết kế robot “giống người”
+
+Một trong những vấn đề then chốt để robot hình người trở nên phổ biến là vật liệu. GS Kurt Kremer, Viện nghiên cứu Polymer Max Planck (Đức), cho rằng tỷ lệ polymer dùng trong robot không lớn, nhưng yêu cầu kỹ thuật cao như chống cháy, độ bền động học và khả năng tái chế khiến nghiên cứu vật liệu trở thành lĩnh vực quan trọng. Xu hướng hiện nay là giảm phụ thuộc vào polymer truyền thống và sử dụng vật liệu mềm tiên tiến.
+
+GS Kurt Kremer, Viện nghiên cứu Polymer Max Planck (Đức).
+
+Khả năng “giống người” của robot cũng là chủ đề gây tranh luận. GS Ho-Young Kim, Đại học Quốc gia Seoul (Hàn Quốc), dự đoán robot có thể sở hữu biểu cảm khuôn mặt hoặc cơ bắp nhân tạo, nhưng chỉ ở mức độ mô phỏng đơn giản trong thời gian gần. Thách thức lớn nhất là chế tạo được cơ nhân tạo hoạt động như cơ thể thật và hệ thần kinh điều khiển có độ nhạy cao.
+
+GS Tan Yap Peng, Đại học VinUni, cho rằng ngay cả khi vật liệu và phần cứng tiến bộ, AI điều khiển hành vi để robot “hành xử như người” vẫn còn cách rất xa năng lực tự nhiên của con người.
+
+Khi được hỏi Việt Nam có thể nắm bắt cơ hội từ robot hình người hay không, các chuyên gia đều đánh giá cao tiềm năng của Việt Nam trong khu vực châu Á – thị trường có nhu cầu robot cao nhất thế giới. Theo GS Tan Yap Peng, Việt Nam sở hữu lực lượng kỹ sư trẻ và nhu cầu ứng dụng robot lớn, đặc biệt trong công nghiệp và dịch vụ xã hội.
+
+GS Tan Yap Peng, Đại học VinUni.
+
+Chia sẻ thêm về vấn đề này, TS Nguyễn Trung Quân nhấn mạnh điều Việt Nam cần làm ngay là tự tin tham gia nghiên cứu, công bố khoa học và phát triển các nền tảng robot.
+
+Robot chăm sóc người già, robot nano và câu hỏi về tuổi thọ con người
+
+Một vấn đề thu hút sự chú ý là khả năng robot giúp kéo dài tuổi thọ cho con người hay không? GS Tan Yap Peng cho rằng robot có thể thay con người thực hiện những thao tác nguy hiểm hoặc phức tạp, nhưng việc “kéo dài tuổi thọ” là câu hỏi cần thêm thời gian chứng minh. Theo GS Ho-Young Kim, robot nano có thể hỗ trợ thay thế những bộ phận bị bệnh của con người, hoặc thực hiện phẫu thuật vi mô bên trong cơ thể, tạo nền tảng cho y học tái tạo.
+
+Ngoài ra, robot chăm sóc người già được xem là giải pháp chiến lược trước bài toán già hóa dân số ở nhiều quốc gia châu Á. Robot có thể hỗ trợ vận động, theo dõi sức khỏe, đồng hành tinh thần, giúp giảm áp lực thiếu hụt lao động trẻ. Tuy nhiên, như GS Tan Yap Peng nhấn mạnh, điều quan trọng là xã hội phải xác định ranh giới robot được phép làm gì và trách nhiệm thuộc về ai khi robot can thiệp vào đời sống con người.

@@ -1,0 +1,35 @@
+Phát biểu tại lễ ký kết, ông Trương Gia Bình - Chủ tịch HĐQT Tập đoàn FPT nhấn mạnh: “Ngành y là lĩnh vực chứa đựng những yếu tố cốt lõi cho sự phát triển của công nghệ, bởi trước hết đây là ngành của con người. Trí tuệ nhân tạo ngày nay phát triển vượt bậc chính nhờ các mô hình ngôn ngữ lớn (LLM) - được xây dựng trên nền tảng ngôn ngữ và tri thức của con người. FPT mong muốn đồng hành cùng Bệnh viện Bạch Mai trong hành trình làm chủ công nghệ, xây dựng mô hình bệnh viện thông minh, phát triển các nền tảng AI phục vụ y tế Việt Nam. Với công thức ‘together, we are the best’, khi đội ngũ y khoa hàng đầu kết hợp cùng năng lực công nghệ của FPT, chúng ta có thể tạo nên những bước tiến mới cho y tế và chuyển đổi số quốc gia”.
+
+PGS.TS. Đào Xuân Cơ - Giám đốc Bệnh viện Bạch Mai chia sẻ: “Chúng tôi mong muốn Bệnh viện Bạch Mai sẽ trở thành bệnh viện thông minh, trong đó AI và công nghệ số được ứng dụng không chỉ trong chẩn đoán, điều trị, quản trị bệnh viện, mà còn hướng tới tự động hóa toàn diện. Bên cạnh đó, Bệnh viện Bạch Mai đặt mục tiêu kết nối dữ liệu y tế quốc gia, xây dựng hồ sơ sức khỏe số cho mọi người dân, tạo nền tảng cho nghiên cứu và nâng cao chất lượng chăm sóc sức khỏe. Khi có kho dữ liệu lớn được chuẩn hóa, Việt Nam sẽ có điều kiện thúc đẩy nghiên cứu, công bố các công trình khoa học lớn. Chúng tôi tin rằng, với năng lực công nghệ và kinh nghiệm chuyển đổi số của FPT, tôi tin rằng hai bên sẽ đồng hành chặt chẽ để hiện thực hóa các mục tiêu”.
+
+Ông Nguyễn Văn Khoa - Tổng Giám đốc FPT khẳng định: “Hợp tác này sẽ mở ra một chặng đường mới cho việc ứng dụng công nghệ trong y tế, góp phần phục vụ người dân và đất nước tốt hơn. FPT cam kết sẽ chuyển hóa các định hướng hợp tác thành hành động cụ thể, giúp giảm tải công việc cho đội ngũ y bác sĩ, để các anh chị có thêm thời gian cho bản thân và gia đình, đồng thời nâng cao hiệu quả chăm sóc sức khỏe người dân”.
+
+Theo thỏa thuận, hai bên sẽ hợp tác toàn diện, tập trung vào bốn lĩnh vực trọng tâm, từ chuyển đổi số toàn diện, ứng dụng công nghệ trong chăm sóc và khám chữa bệnh, đến chăm sóc sức khỏe và phát triển nhân lực y tế.
+
+Thứ nhất, FPT sẽ tư vấn chiến lược tổng thể, xây dựng các giải pháp chuyển đổi số toàn diện cho Bệnh viện Bạch Mai, hướng tới xây dựng bệnh viện thông minh.
+
+Đồng thời, hai bên xây dựng kho dữ liệu lâm sàng tập trung và kho dữ liệu mở phục vụ nghiên cứu khoa học, từ đó ứng dụng AI trong hỗ trợ bác sĩ ra quyết định và phục vụ nghiên cứu khoa học.
+
+Hai bên cũng triển khai trục tích hợp dữ liệu, liên thông với các cơ sở dữ liệu quốc gia và tổ chức y tế quốc tế; đồng thời triển khai Telemedicine phục vụ hội chẩn, tư vấn khám bệnh, chữa bệnh từ xa; đào tạo, sinh hoạt khoa học trực tuyến.
+
+Thứ hai, FPT và bệnh viện Bạch Mai sẽ hợp tác phát triển và ứng dụng khoa học - công nghệ trong chăm sóc và khám chữa bệnh. Cụ thể, hai bên sẽ ứng dụng AI trong chăm sóc, dự báo nhu cầu bệnh nhân, hỗ trợ chẩn đoán hình ảnh, siêu âm, nội soi, hỗ trợ bác sĩ ra quyết định lâm sàng.
+
+Đồng thời, AI sẽ hỗ trợ phân bổ nguồn lực hiệu quả, quản lý chuỗi cung ứng y tế, dự báo nhu cầu vật tư, thuốc men, thiết bị tiêu hao, góp phần nâng cao hiệu quả hoạt động của bệnh viện.
+
+Bên cạnh đó, FPT và Bệnh viện Bạch Mai sẽ hợp tác nghiên cứu, phát triển và cải tiến các sản phẩm chăm sóc sức khỏe kỹ thuật số, phục vụ nhu cầu khám chữa bệnh và nâng cao chất lượng dịch vụ y tế cho người dân.
+
+Thứ ba, Bệnh viện Bạch Mai sẽ đồng hành trong công tác bảo vệ, chăm sóc sức khỏe cán bộ, nhân viên FPT, cung cấp các gói khám sức khỏe tổng quát, chuyên sâu, định kỳ, hội chẩn chuyên gia quốc tế, dịch vụ y tế tại chỗ và theo dõi sức khỏe định kỳ.
+
+Hai bên phối hợp đào tạo kỹ năng sơ - cấp cứu, tập huấn y học thường thức, chăm sóc sức khỏe cho trẻ em, phụ nữ. FPT sẽ tham gia các hoạt động khám chữa bệnh cộng đồng khi Bệnh viện Bạch Mai tổ chức các hoạt động an sinh xã hội, các đợt khám từ thiện cho người yếu thế.
+
+Thứ tư, về đào tạo và phát triển nguồn nhân lực, FPT hỗ trợ Bệnh viện Bạch Mai đào tạo quản trị bệnh viện, chuyển đổi số và ứng dụng AI, đồng thời Bệnh viện phối hợp đào tạo bác sĩ, điều dưỡng, dược sĩ cho hệ thống FPT Long Châu.
+
+Hai bên cũng sẽ triển khai các hoạt động cộng đồng, hỗ trợ bệnh nhân khó khăn, đặc biệt là phụ nữ, trẻ em và người yếu thế.
+
+FPT và Bệnh viện Bạch Mai đã hợp tác trong lĩnh vực chuyển đổi số từ năm 2014 với dự án FPT.eHospital - hệ thống quản lý tổng thể bệnh viện thông minh giúp số hóa dữ liệu y tế, chuẩn hóa quy trình khám chữa bệnh, giúp giảm thời gian chờ đợi cho hàng triệu lượt bệnh nhân/năm.
+
+Gần đây, FPT đã triển khai giải pháp Hợp đồng điện tử FPT.Contract, giúp bệnh viện số hóa quy trình ký kết hợp đồng, tiết kiệm chi phí, thời gian và đảm bảo giá trị pháp lý.
+
+Những năm gần đây, Bệnh viện Bạch Mai được xem là mô hình mẫu trong chuyển đổi số ngành y tế Việt Nam, khi tiên phong triển khai hồ sơ bệnh án điện tử, kết nối dữ liệu liên thông, ứng dụng trí tuệ nhân tạo và dữ liệu lớn trong chẩn đoán, điều trị và quản lý vận hành. Bệnh viện cũng phát triển ứng dụng, cho phép người dân đặt lịch khám, tra cứu hồ sơ và nhận kết quả trực tuyến.
+
+Đình Sơn

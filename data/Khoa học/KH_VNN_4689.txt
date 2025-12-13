@@ -1,0 +1,21 @@
+Google vừa ra mắt Gemini 3, phiên bản AI mạnh nhất của hãng cho đến nay, với điểm benchmark kỷ lục trong viết, lập trình và xử lý đa bước. Sau thời gian thử nghiệm thực tế, nhiều ý kiến cho rằng đây là phiên bản mà “ai cũng muốn trải nghiệm” nhờ cải thiện lớn trong tốc độ, độ chính xác và khả năng hiểu nội dung phức tạp.
+
+Thậm chí, sau khi CEO Google Sundar Pichai "khoe" Gemini 3 trên X, hai đối thủ trên thị trường AI là Elon Musk - CEO xAI và Sam Altman - CEO OpenAI, cũng phải dành lời khen cho mô hình này.
+
+Gemini 3 hiện đã khả dụng miễn phí trong ứng dụng Gemini và tích hợp vào Search cho người dùng Ultra và Pro.
+
+Gemini 3 là mô hình AI mạnh nhất của Google. Ảnh: Shutterstock
+
+Thay đổi dễ nhận thấy nhất là sức mạnh lý luận. Google cho biết Gemini 3 đạt mức “tối tân” trong xử lý logic, lập kế hoạch và giải quyết câu hỏi đa tầng. Khi thử nghiệm, mô hình đưa ra lời giải rõ ràng hơn, mạch lạc hơn và xử lý các truy vấn phức tạp chính xác hơn nhiều so với Gemini 2.5. Những cải thiện này giúp Search tạo ra câu trả lời giàu chiều sâu hơn, thay vì chỉ khớp từ khóa như trước.
+
+Khả năng đa phương thức cũng bước tiến lớn. Gemini 3 hiểu chính xác hơn ảnh, ảnh chụp màn hình, tài liệu viết tay hay các tệp tải lên. Thay đổi này làm cho mô hình trở nên hữu ích hơn đối với các tác vụ đời thực như phân tích thông tin phức tạp, sửa lỗi thiết bị qua ảnh hoặc học tập với nội dung trực quan. Tất cả diễn ra trong một cuộc trò chuyện duy nhất.
+
+Một nâng cấp quan trọng khác nằm ở Google Search. Người dùng Ultra và Pro đã có thể cảm nhận Gemini 3 đứng sau các AI Overviews thế hệ mới, với các câu trả lời thông minh hơn, cá nhân hóa hơn, đầy đủ hơn và mang tính tổng hợp cao. Theo Tom's Guide, tìm kiếm Google đã giảm phụ thuộc vào từ khóa và tăng mức độ “thấu hiểu” nội dung. Với truyền thống cung cấp miễn phí các mô hình mạnh cho cộng đồng, Google được dự đoán sẽ sớm đưa Gemini 3 đến cả phiên bản Advanced và bản miễn phí.
+
+Ứng dụng Gemini cũng được làm mới, có thể khiến những người dùng vốn không thích ứng dụng này thay đổi quan điểm. Tốc độ phản hồi nhanh hơn, độ trễ thấp hơn, độ bền của cuộc hội thoại dài được cải thiện, cũng như khả năng thực thi tác vụ mượt mà hơn. Gemini Live hoạt động ổn định, biến Gemini thành trợ lý thực tế, đáng tin cậy hơn.
+
+Google cũng nâng cấp mạnh cho hệ sinh thái nhà phát triển. API Gemini 3 ổn định hơn, tốc độ thử nghiệm trong AI Studio nhanh hơn và quy trình tích hợp Gemini vào ứng dụng dễ dàng hơn. Kể cả những người không phải nhà phát triển chuyên nghiệp cũng có thể tạo ứng dụng qua AI Studio, nhờ năng lực lý luận và khả năng xử lý đa modal của mô hình mới.
+
+Với Gemini 3, Google đang định hình lại cách người dùng tương tác với Search, ứng dụng AI và các công cụ lập trình. Ngay cả khi bạn không bao giờ viết code, những nâng cấp này vẫn sẽ âm thầm làm cho mọi ứng dụng bạn sử dụng nhanh hơn, thông minh hơn và chính xác hơn.
+
+(Theo Tom's Guide)

@@ -1,0 +1,17 @@
+Các chuyên gia phát triển robot hình người ứng dụng trí tuệ nhân tạo (AI) có thể đứng dậy nhanh chóng sau khi ngã, bất kể tư thế hay địa hình.
+
+Robot hình người tự đứng dậy từ mọi tư thế ngã Robot hình người đứng lên nhanh chóng từ nhiều tư thế, địa hình khác nhau. Video: Tao Huang
+
+Hệ thống AI mới do nhóm nhà khoa học từ Trung Quốc và Hong Kong phát triển, cho phép các robot hình người vượt qua một thách thức lớn trong thực tế: đứng lên và lấy lại thăng bằng sau khi ngã. Nghiên cứu được công bố trên cơ sở dữ liệu arXiv kèm theo một video về quá trình thử nghiệm, Live Science hôm 4/3 đưa tin.
+
+Trong video, robot hình người G1 của công ty Unitree đứng dậy từ nhiều tư thế như nằm ngửa, ngồi dựa vào tường, nằm trên sofa hay ngả trên ghế. Nhóm nghiên cứu cũng kiểm tra khả năng tự điều chỉnh tư thế của robot trên nhiều địa hình và độ dốc khác nhau như một con đường đá hay mặt dốc bằng kính. Họ thậm chí cản trở bằng cách đánh hoặc đá khi nó đang cố gắng đứng dậy. Trong mọi tình huống, robot đều có thể điều chỉnh theo môi trường và đứng thẳng thành công.
+
+Robot có khả năng đáng chú ý này nhờ vào bộ khung "Kiểm soát đứng dậy cho robot hình người" (HoST). Nhóm nhà khoa học phát triển bộ khung thông qua học tăng cường, một loại học máy trong đó tác nhân (khung HoST) cố gắng thực hiện một nhiệm vụ thông qua quá trình "thử và sai". Về cơ bản, robot sẽ thực hiện một hành động. Nếu hành động đó dẫn đến kết quả tích cực, nó sẽ nhận được tín hiệu thưởng, khuyến khích nó lặp lại hành động đó khi gặp tình huống tương tự.
+
+Khung HoST phức tạp hơn một chút, sử dụng 4 nhóm thưởng riêng biệt cùng nhiều ràng buộc bao gồm làm mượt chuyển động và giới hạn tốc độ để ngăn chuyển động bất thường hoặc bạo lực. Lực kéo thẳng đứng cũng được áp dụng trong đợt huấn luyện ban đầu để giúp định hướng quá trình học tập.
+
+Khung HoST ban đầu được huấn luyện trong các mô phỏng bằng Isaac Gym - môi trường mô phỏng vật lý do hãng Nvidia phát triển. Sau khi huấn luyện đủ, bộ khung được đưa vào robot hình người G1 để thử nghiệm như trong video.
+
+"Kết quả thử nghiệm với robot hình người G1 cho thấy các chuyển động đứng dậy mượt mà, ổn định và mạnh mẽ trong nhiều tình huống thực tế. Nghiên cứu sẽ mở đường cho việc đưa khả năng kiểm soát đứng dậy vào các hệ thống hình người hiện nay, với tiềm năng mở rộng hơn nữa ứng dụng trong thế giới thực", nhóm nghiên cứu viết.
+
+Thu Thảo (Theo Live Science)

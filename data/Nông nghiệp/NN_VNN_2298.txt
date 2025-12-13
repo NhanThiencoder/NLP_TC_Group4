@@ -1,0 +1,21 @@
+Title: Khởi động dự án nghiên cứu hệ thống IoT cho nông nghiệp thông minh
+
+Mới đây, tại Học viện Công nghệ Bưu chính Viễn thông đã diễn ra buổi kick-off khởi động dự án nghiên cứu “Hệ thống IoT nông nghiệp dựa trên điện toán biên” thuộc chương trình ASEAN-IVO, do Viện Công nghệ thông tin và Truyền thông Nhật Bản NICT (Nhật Bản) tài trợ.
+
+Đây là dự án nghiên cứu do TS. Hoàng Trọng Minh - Trưởng bộ môn, giảng viên Khoa Viễn thông 1 chủ trì triển khai các hoạt động. Thời gian thực hiện dự án từ tháng 1/4/2022 đến 31/3/2024.
+
+Buổi kick-off khởi động dự án nghiên cứu “Hệ thống IoT nông nghiệp dựa trên điện toán biên”
+
+Mục tiêu của dự án là sử dụng tiến bộ trong lĩnh vực Internet of Things (IoT) để cung cấp các hệ thống nông nghiệp thông minh. Dự án sẽ xây dựng một hệ thống ứng dụng IoT nhằm kiểm soát lượng phân bón và dự đoán sâu bệnh tại nông trại thông minh, qua đó góp phần nâng cao hiệu quả và năng suất trong nông nghiệp.
+
+Dự án đưa ra các giải pháp điện toán thông minh mới để thu thập dữ liệu, kiểm soát phản ứng cục bộ và khung bảo mật dựa trên xác thực, bảo quản dữ liệu, mã hóa, phù hợp với các ứng dụng IoT trong hệ thống nông nghiệp thông minh. Ở đây, hệ thống nông nghiệp thông minh là một hệ thống nông nghiệp tự động cho các trang trại thông minh trong nhà với sự tham gia của các cánh tay robot và máy bay không người lái.
+
+Phát triển các hệ thống nông nghiệp tự động, ứng dụng robot và máy bay không người lái là một chủ trương nhằm chuyển đổi số ngành nông nghiệp.
+
+Phát biểu tại buổi khởi động dự án, PGS.TS. Đặng Hoài Bắc - Giám đốc Học viện đã bày tỏ sự vui mừng khi dự án “Hệ thống IoT nông nghiệp dựa trên điện toán biên”, do các nhà nghiên cứu của Học viện và các nhà nghiên cứu của các trường đại học ASEAN khác được phê duyệt.
+
+Ông cũng cảm ơn Viện Công nghệ Thông tin và Truyền thông Quốc gia (NICT) về sáng kiến ​​ASEAN-IVO cũng như sự ủng hộ mạnh mẽ đối với sự hợp tác của Học viện. “Sự hợp tác ban đầu này là đòn bẩy để tạo điều kiện hợp tác xa hơn nữa. Chúng tôi mong muốn ASEAN-IVO sẽ thu hút ngày càng nhiều các dự án nghiên cứu mang tính thực tiễn cao để đóng góp vào sự phát triển bền vững của khu vực”, PGS.TS. Đặng Hoài Bắc cho biết.
+
+Chương trình ASEAN-IVO là một chương trình tài trợ nghiên cứu cho các nước Đông Nam Á do Viện Công nghệ Thông tin và Truyền thông Nhật Bản (NICT) tài trợ. Chương trình nhằm tăng cường sự hợp tác nghiên cứu giữa các viện nghiên cứu công nghệ thông tin, viễn thông trong khu vực ASEAN để giải quyết những thách thức chung trong khu vực thông qua các công nghệ và ứng dụng công nghệ thông tin và truyền thông.
+
+Trọng Đạt

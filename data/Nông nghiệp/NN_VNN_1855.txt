@@ -1,0 +1,27 @@
+Title: Phát triển hệ thống CSDL quốc gia về trồng trọt để gắn sản xuất nông nghiệp với thị trường
+
+Bộ Nông nghiệp và PTNT phối hợp với Tập đoàn VNPT để phát triển hệ thống cơ sở dữ liệu quốc gia về nông nghiệp, nhằm tạo sự kết nối và chia sẻ thông tin giữa cơ quan quản lý và người dân, doanh nghiệp hoạt động trong ngành trồng trọt.
+
+Từ năm 2022, trong lễ phát động "chuyển đổi số nông nghiệp và phát triển nông thôn", Bộ NN-PTNT đã công bố triển khai hệ thống thông tin và cơ sở dữ liệu cấp, quản lý mã số vùng trồng.
+
+Ảnh minh hoạ
+
+Cục Trồng trọt được giao là đơn vị chủ trì, phối hợp với Tập đoàn VNPT tổ chức thực hiện thí điểm hệ thống cơ sở dữ liệu quốc gia về trồng trọt, với địa chỉ website csdltrongtrot.mard.gov.vn, để đáp ứng yêu cầu cấp thiết của thực tiễn sản xuất và nhu cầu công tác quản lý theo Luật Trồng trọt.
+
+Hệ thống cơ sở dữ liệu quốc gia về trồng trọt sẽ là nền tảng để tạo sự kết nối chủ động, chia sẻ thông tin hai chiều giữa cơ quan quản lý nhà nước và người dân, doanh nghiệp hoạt động trong lĩnh vực trồng trọt. Hệ thống này sẽ giúp cập nhật chính xác, kịp thời các dữ liệu về trồng trọt như: Dữ liệu về danh mục giống lưu hành, giống cây trồng được bảo hộ, diện tích chuyển đổi cơ cấu cây trồng, văn bản quy phạm pháp luật, vùng trồng...
+
+Cục Trồng trọt cũng đã tích hợp hệ thống CSDL quốc gia cấp, quản lý mã số vùng trồng. Hệ thống này cho phép thiết lập mã số vùng trồng cho các cơ sở sản xuất trên phạm vi cả nước; cung cấp nền tảng cấp, quản lý mã số vùng trồng trực tuyến với quy trình từ đăng ký, xác minh và cấp mã số vùng trồng một cách nhanh chóng, kịp thời.
+
+Bên cạnh đó là ghi chép nhật ký điện tử; khai thác cơ sở dữ liệu vùng trồng cho các mục đích khác nhau như xây dựng chính sách, chỉ đạo sản xuất, điều tiết, kết nối cung cầu, chuyển giao tiến bộ kỹ thuật, dự tính, dự báo, theo dõi và kiểm soát tình hình sản xuất, kiểm soát chất lượng sản phẩm, truy xuất nguồn gốc nông sản...
+
+Những nguồn dữ liệu thông tin này là cơ sở quan trọng giúp ngành trồng trọt ổn định sản lượng, kiểm soát chất lượng, tăng tính cạnh tranh và phát triển bền vững đáp ứng các yêu cầu của thị trường.
+
+Đây là bước đi quan trọng của ngành để gắn sản xuất nông nghiệp với thị trường, giúp cho việc cập nhật, kết nối, chia sẻ thông tin nhanh chóng và tiện lợi để gắn sản xuất nông nghiệp với thị trường và giúp ngành trồng trọt ổn định sản lượng, kiểm soát chất lượng và phát triển bền vững.
+
+Theo Cục Trồng trọt, hiện nay cả nước có trên 4,8 triệu ha diện tích cây lâu năm, trong đó cây ăn quả 1,17 triệu ha, cây công nghiệp 2,2 triệu ha, diện tích canh tác lúa 3,9 triệu ha, thanh long hơn 64.000 ha…
+
+Tại nhiều địa phương đã và đang hình thành các vùng sản xuất với sự liên kết chặt chẽ giữa nông dân, hợp tác xã với nhà máy chế biến, doanh nghiệp tiêu thụ sản phẩm. Trong đó, nhiều vùng đã được cấp mã số định danh để theo dõi, kiểm soát tình hình sản xuất, truy xuất nguồn gốc, nâng cao chất lượng nông sản.
+
+Tuy nhiên, việc triển khai cấp mã số vẫn còn manh mún, nhỏ lẻ và chưa kết nối đầy đủ thông tin giữa sản xuất và thị trường, nhất là trước nhu cầu đỏi hỏi ngày càng cao của người tiêu dùng trong nước và quốc tế về truy xuất nguồn gốc, chất lượng nông sản. Điều này đòi hỏi ngành nông nghiệp phải đẩy nhanh việc chuyển đổi số lĩnh vực trồng trọt.
+
+Duy Khánh và nhóm PV, BTV

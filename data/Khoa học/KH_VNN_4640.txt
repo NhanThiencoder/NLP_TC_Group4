@@ -1,0 +1,63 @@
+Trong bối cảnh cuộc chiến Drone/UAV khốc liệt tại Ukraine, một "người hùng" thầm lặng đang nổi lên: UAV đánh chặn STING do chính các nhà phát triển dân sự Ukraine sáng tạo. Không chỉ là một chiếc UAV/Drone thông thường, STING được thiết kế như một "tên lửa sống" cơ động, chuyên săn lùng và tiêu diệt các UAV/Drone tấn công Shahed/Geran của Nga với hiệu quả đáng kinh ngạc. Chỉ trong 4 tháng, STING đã hạ gục hơn 1.000 mục tiêu, chiếm gần nửa số Shahed bị bắn rơi trong tháng 10/2025, chứng minh sức mạnh công nghệ dân sự có thể thay đổi cục diện chiến trường. Hãy cùng khám phá công nghệ "thông minh" và thông số "khủng" đằng sau vũ khí này, từ thiết kế đơn giản đến khả năng triển khai nhanh chóng, giúp Ukraine tiết kiệm hàng triệu đô la so với tên lửa phòng không truyền thống.
+
+UAV/Drone đánh chặn STING của Ukraine. Ảnh: Wild Hornets
+
+UAV/Drone STING ra đời từ bàn tay của Wild Hornets – một nhóm kỹ sư Ukraine – như một giải pháp khẩn cấp chống lại các cuộc tấn công drone quy mô lớn của Nga.
+
+Được tài trợ chủ yếu từ quyên góp cộng đồng, dự án này chỉ mất hơn một năm để chuyển từ ý tưởng sang sản xuất hàng loạt, với mục tiêu đạt 600-800 chiếc mỗi ngày vào cuối tháng 11/2025.
+
+Không giống các drone tấn công thông thường, STING hoạt động như một loại đạn lượn (loitering munition), có khả năng bay lượn chờ đợi mục tiêu trước khi lao vào va chạm.
+
+Điều này làm cho STING trở thành lựa chọn lý tưởng trong tác chiến drone đánh drone, nơi tốc độ và chi phí là yếu tố quyết định.
+
+Về thiết kế, STING theo cấu hình quadcopter (một loại máy bay không người lái (UAV) có bốn cánh quạt, mỗi cánh quạt được gắn với một động cơ) cổ điển với bốn cánh quạt điện, nhưng được tối ưu hóa để trở nên gọn nhẹ và khí động học cao.
+
+Khung máy được in 3D từ vật liệu composite, tạo hình dạng đạn đạo (bullet-shaped) giúp giảm lực cản không khí, đồng thời dễ dàng sản xuất hàng loạt mà không cần nhà máy phức tạp.
+
+Điểm nổi bật là phần mái vòm (dome) trung tâm lớn, chứa cả đầu đạn nổ và camera, giúp drone dễ dàng nhận diện và theo dõi mục tiêu mà không cần cấu trúc phức tạp.
+
+Drone STING có thể cất cánh từ bất kỳ bề mặt phẳng nào – không cần bệ phóng – và chỉ mất khoảng 15 phút để chuẩn bị sẵn sàng.
+
+Điều khiển thủ công qua kính VR hoặc trạm mặt đất tiêu chuẩn FPV (First Person View), kết hợp với hệ thống Hornet Vision kỹ thuật số, mang lại góc nhìn chính xác như đang lái trực tiếp.
+
+Một đội vận hành đánh chặn chuẩn bị UAV/Drone STING. Ảnh: Wild Hornets.
+
+Công nghệ cốt lõi của STING nằm ở hệ thống cảm biến và điều khiển thông minh. Drone STING được trang bị camera nhiệt Kurbas từ Odd Systems, cho phép phát hiện mục tiêu trong điều kiện ban đêm hoặc thời tiết xấu, với khả năng theo dõi nhiệt độ từ xa.
+
+Hệ thống này kết nối liền mạch với radar hỗ trợ, giúp phi công (người điều khiển) xác định và khóa mục tiêu chỉ trong 10-15 giây.
+
+Không chỉ dừng ở đó, STING còn có tính năng quay về an toàn nếu nhiệm vụ hủy bỏ, tăng tỷ lệ sống sót và tái sử dụng cho các trường hợp không cần thiết.
+
+Đầu đạn nổ được tích hợp sẵn trong mái vòm (dome), kích hoạt khi va chạm, đảm bảo phá hủy mục tiêu như Shahed mà không cần vũ khí phụ trợ.
+
+Với chi phí chỉ từ 1.000-6.000 USD mỗi chiếc (tùy theo optics và hỗ trợ kỹ thuật), STING rẻ hơn gấp nhiều lần so với tên lửa phòng không, biến nó thành "vũ khí dân chủ" thực sự.
+
+Drone STING vs Drone Shahed-136. Ảnh: debuglies.com
+
+Về thông số kỹ thuật, STING nổi bật với sự cân bằng giữa tốc độ, tầm xa và độ cao.
+
+Tốc độ tối đa đạt 315 km/h trong các thử nghiệm gần đây, cao hơn hẳn tốc độ hành trình của Shahed (khoảng 180 km/h), cho phép drone đuổi kịp và đánh chặn nhanh chóng.
+
+Tầm hoạt động lên đến 25km, kết hợp với trần bay 3.000m (10.000 ft), giúp STING bao quát không phận rộng lớn mà không cần hỗ trợ từ máy bay lớn.
+
+Tốc độ hành trình duy trì ở mức 200-250 km/h, đủ để tiết kiệm năng lượng pin trong khi vẫn duy trì khả năng cơ động cao.
+
+Drone STING nhẹ, dễ mang theo trên xe dân sự hoặc xe tải, phù hợp với chiến thuật du kích hiện đại.
+
+Hiệu suất thực chiến của STING đã được chứng minh qua hàng loạt chiến dịch.
+
+Với tỷ lệ thành công 60-90% (tùy kinh nghiệm phi công và hỗ trợ radar), một phi đội STING từng hạ gục hơn 600 UAV Nga chỉ trong 5 tháng, bao gồm cả các mục tiêu giả lập Gerbera.
+
+Một binh sĩ Ukraine chuẩn bị phóng UAV/Drone đánh chặn STING, được thiết kế để chống lại các UAV/Drone Shahed của Nga và hiện đang được sản xuất hàng loạt. (Nguồn: Wild Wasps)
+
+Trong một đêm tháng 10/2025, các UAV STING đã ghi nhận 150 lần đánh trúng trên 810 mục tiêu phát hiện, chứng tỏ khả năng xử lý "sóng drone" lớn.
+
+Thậm chí, trong cuộc diễn tập chung với lực lượng Đan Mạch tháng 10/2025, STING đã thành công đánh chặn drone mục tiêu QinetiQ Banshee, khẳng định tính tương thích quốc tế.
+
+Đào tạo người điều khiển chỉ mất 3 ngày tại trung tâm Night Wasps, giúp lực lượng Ukraine nhanh chóng mở rộng quy mô.
+
+STING không chỉ là một UAV đánh chặn mà còn là biểu tượng của sự sáng tạo Ukraine trong cuộc chiến bất đối xứng.
+
+Với công nghệ đơn giản nhưng hiệu quả, STING đang thay đổi cách thế giới nhìn nhận về drone quân sự – nơi dân sự có thể góp phần quyết định chiến thắng.
+
+Khi sản xuất tăng tốc, STING hứa hẹn sẽ trở thành "lá chắn bay" không thể thiếu, bảo vệ bầu trời Ukraine khỏi mối đe dọa từ Nga.

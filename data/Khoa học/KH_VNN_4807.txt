@@ -1,0 +1,17 @@
+Ứng dụng iHanoi được vận hành như một cổng dịch vụ công tập trung cho người dân và doanh nghiệp, đáp ứng đa dạng nhu cầu từ tra cứu thông tin hành chính, gửi phản ánh hiện trường, đến xem thông tin giao thông, thực hiện dịch vụ công trực tuyến...
+
+Tính năng “Tiện ích thanh toán” được tích hợp trực tiếp trên trang chủ iHanoi, cho phép người dùng thực hiện thanh toán các khoản phí thiết yếu và tiện ích đời sống, bao gồm: phí, lệ phí hành chính, thuế và lệ phí đất đai; Đóng phạt vi phạm giao thông; thanh toán điện, nước, Internet, truyền hình; nạp tiền điện thoại, mua data viễn thông, bảo hiểm công nghệ, truyền hình TV360, vé số Vietlott…
+
+Hiện nay, “Tiện ích thanh toán” trên iHanoi cho phép thực hiện giao dịch qua nhiều cách thức như liên kết liên kết ứng dụng tài chính số (Viettel Money; liên kết với nguồn tiền ngân hàng; liên kết thẻ nội địa; quét mã QR... Các phương thức bảo đảm an toàn bảo mật, đồng thời tạo điều kiện để người dân thực hiện thanh toán nhanh chóng, thuận tiện.
+
+Chia sẻ tại lễ ký kết, Phó Tổng giám đốc Viettel Digital Võ Anh Tâm cho biết: “Tính năng Tiện ích thanh toán do Viettel Digital phát triển là mảnh ghép cuối để hoàn thiện quy trình trải nghiệm dịch vụ công dân số trên ứng dụng iHanoi. Từ nay, người dân và doanh nghiệp có thể thực hiện toàn bộ quy trình từ nộp hồ sơ, theo dõi xử lý, đến thanh toán phí, lệ phí và nhận kết quả - chỉ bằng vài thao tác trên chiếc điện thoại thông minh. Cách làm này không chỉ giảm thiểu thời gian, chi phí, mà còn tăng tính minh bạch và hiệu quả trong từng giao dịch giữa người dân và cơ quan nhà nước”.
+
+iHanoi đã trở thành hệ thống công dân số có quy mô lớn nhất cả nước với 5,8 triệu tài khoản người dùng
+
+Ra mắt vào cuối tháng 6/2024, iHanoi được hình thành dựa trên hợp tác giữa Trung tâm Phục vụ hành chính công Thành phố Hà Nội, Chi nhánh Viettel Hà Nội và Tổng Công ty Giải pháp Doanh nghiệp Viettel (Viettel Solutions) - những đơn vị trực tiếp triển khai khởi tạo nền tảng. Giữa năm 2025, Tổng Công ty Dịch vụ số Viettel (Viettel Digital) tiếp tục đồng hành cùng Thành phố trong giai đoạn mở rộng các giải pháp số và hoàn thiện trải nghiệm số trên nền tảng.
+
+Tính đến tháng 8/2025, iHanoi đã trở thành hệ thống công dân số có quy mô lớn nhất cả nước với 5,8 triệu tài khoản người dùng, khoảng 72 triệu lượt truy cập.
+
+Việc phối hợp với chính quyền TP. Hà Nội để phát triển các giải pháp công nghệ trên iHanoi tiếp tục thể hiện nỗ lực của các đơn vị thành viên Tập đoàn Viettel - trong việc hiện thực hóa tinh thần Nghị quyết số 57-NQ/TW của Bộ Chính trị, trên tinh thần “Tiên phong, chủ lực trong kiến tạo xã hội số”: Lấy công nghệ làm nền tảng phục vụ con người và thúc đẩy tiến trình chuyển đổi số quốc gia.
+
+Thái Khang

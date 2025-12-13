@@ -1,0 +1,15 @@
+Một nhóm nhà khoa học Mỹ tìm ra cách lưu trữ hàng trăm terabyte dữ liệu trên một tinh thể cực nhỏ, giúp tạo ra đĩa nén chứa dữ liệu với mật độ siêu cao.
+
+Nhóm nghiên cứu sử dụng laser để kích thích electron trong tinh thể. Ảnh: Zhong Lab
+
+Các nhà khoa học phát triển một phương pháp để lưu trữ và đọc dữ liệu từ những nguyên tử riêng lẻ đặt trong tinh thể cực nhỏ chỉ lớn cỡ vài milimet. Nếu tăng quy mô, một ngày nào đó phương pháp này có thể dẫn tới hệ thống lưu trữ mật độ siêu cao, có thể chứa hàng petabyte (PB) dữ liệu trên một đĩa đơn, trong đó một PB tương đương khoảng 5.000 bộ phim 4K, Live Science hôm 12/3 đưa tin.
+
+Mã hóa dữ liệu dưới dạng số 1 và 0 là công nghệ lâu đời không kém lịch sử máy tính, khác biệt duy nhất mà phương tiện dùng để lưu trữ dữ liệu này thay đổi từ ống chân không nhấp nháy, bóng bán dẫn điện rất nhỏ hoặc thậm chí đĩa nén (CD), với phần lõm trên bề mặt đại diện cho số 1 và phần trơn biểu thị số 0. Công cuộc tìm kiếm phương pháp lưu trữ dữ liệu dày hơn đưa các nhà khoa học tới thế giới hạ nguyên tử. Trong nghiên cứu công bố trên tạp chí Nanophotonics, một nhóm chuyên gia sử dụng electron bị giữ bởi chỗ khiếm khuyết trong tinh thể đại diện cho số 1 và nơi không có electron mắc kẹt biểu thị số 0.
+
+Nghiên cứu của họ lấy cảm hứng từ kỹ thuật lượng tử. Đặc biệt, các nhà nghiên cứu tích hợp vật lý chất rắn áp dụng vào lĩnh vực đo liều lượng bức xạ với lưu trữ lượng tử. Phương pháp của họ hoạt động bằng cách chiếu laser với năng lượng thích hợp để kích thích electron. Ở thời điểm này, một thiết bị đọc có thể ghi lại sự tồn tại của ánh sáng. Không có ánh sáng đồng nghĩa với không có electron mắc kẹt. Phương pháp chỉ hiệu quả khi tinh thể bao gồm chỗ khiếm khuyết như chỗ trống chứa oxy hoặc tạp chất, theo trưởng nhóm nghiên cứu Leonardo França, Đại học Chicago.
+
+Nhóm nghiên cứu sử dụng ion đất hiếm như tạp chất thêm vào để biến đổi đặc điểm của vật liệu (dopant). Mấu chốt là tìm ra cách kích thích electron từ một ion đất hiếm cụ thể để nó bị mắc kẹt. Nếu quá trình hoạt động chính xác như vậy, dữ liệu có thể được xóa đi mỗi lần đọc xong nhưng sử dụng lượng ánh sáng thấp hơn chỉ xóa bỏ một phần thông tin. Trong khi França và cộng sự sử dụng nguyên tố đất hiếm praseodymium và tinh thể yttrium oxit, phương pháp có thể mở rộng ra nhiều loại tinh thể khác không phải nguyên tố đất hiếm và chất khác không phải dopant. Nhưng nguyên tố đất hiếm có lợi thế cung cấp bước sóng cụ thể cho phép kích thích electron bằng laser tiêu chuẩn.
+
+Tiếp theo, nhóm nghiên cứu sẽ tập trung vào tìm cách tăng quy mô công nghệ, mở ra những dạng thức lưu trữ mật độ cao với chi phí thấp cho các ứng dụng đa dạng trong tương lai. Câu hỏi cuối cùng là liệu chúng ta có thể lưu trữ dữ liệu dày đặc tới mức nào trên đĩa. Sau một số tính toán, França đưa ra con số khoảng 260 TB/40 mm3. Con số này dựa trên tinh thể mà các nhà khoa học nghiên cứu, nhưng França dự đoán có thể dễ dàng tăng mật độ khiếm khuyết. Điều này sẽ dẫn tới khả năng lưu trữ nhiều PB dữ liệu trên thiết bị lớn cỡ chiếc đĩa.
+
+An Khang (Theo Live Science)

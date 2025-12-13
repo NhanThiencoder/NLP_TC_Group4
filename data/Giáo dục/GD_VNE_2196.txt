@@ -1,0 +1,35 @@
+Hàng nghìn sinh viên Australia bị cáo buộc gian lận khi làm bài tập, song thực tế là do phần mềm AI của các đại học có vấn đề.
+
+Madeleine, sinh viên năm cuối ngành điều dưỡng tại Đại học Công giáo Australia (ACU), đang đi thực tập và nộp hồ sơ xin việc khắp nơi thì nhận email do trường gửi, với tiêu đề "Quan ngại về liêm chính học thuật". Trong đó, trường cáo buộc cô dùng trí tuệ nhân tạo (AI) để gian lận trong bài tập.
+
+"Tôi còn nhận được email từ hội đồng sai phạm học thuật, yêu cầu giải thích tại sao chuyện này lại xảy ra", Madeleine kể.
+
+Beth, sinh viên ngành Khảo cổ học ở Đại học Melbourne (UoM), cũng bị trường cáo buộc dùng AI gian lận hai lần.
+
+Lần đầu, Beth bị trừ điểm, không chỉ vì lỗi sử dụng AI mà còn vì "làm mất thời gian" của hội đồng trường khi cô khiếu nại. Hai năm sau, khi đang học sau đại học, Beth tiếp tục gặp oan ức vì sử dụng một loạt dấu gạch ngang dài - thường được cho là đặc trưng của các công cụ AI như ChatGPT. Cô bị yêu cầu viết lại toàn bộ bài luận.
+
+Khuôn viên Đại học Melbourne, Australia. Ảnh minh họa: The University of Melbourne Fanpage
+
+Ít nhất hàng chục đại học tại Australia dùng phần mềm AI để phát hiện dấu hiệu sử dụng AI trong bài tập của sinh viên. Tuy nhiên, cách làm này liên tục gặp vấn đề.
+
+Nhiều sinh viên đại học và TAFE (trường nghề) tại Australia cho biết các trường đã kết tội nhầm nhiều người, thậm chí với sinh viên cả một khóa học. Riêng trong năm ngoái, ACU ghi nhận hơn 5.000 vụ nghi ngờ vi phạm học thuật liên quan đến sử dụng AI. Tuy nhiên, khoảng một phần tư số này sau đó được minh oan vì Turnitin, phần mềm kiểm tra đạo văn phổ biến, gặp lỗi.
+
+Những sinh viên bị cáo buộc có thể bị đánh trượt môn hoặc nặng hơn là bỏ lỡ cơ hội sau tốt nghiệp. Như Madeleine phải mất 6 tháng mới được trường minh oan. Nhưng trong thời gian đó, hồ sơ học cao học ngành điều dưỡng của cô đã bị đánh trượt vì bảng điểm bị ghi rằng "kết quả đang bị giữ lại".
+
+"Vào ngành này thực sự rất khó vì hầu hết các nơi đều yêu cầu ứng viên phải có một năm học sau đại học. Tôi không biết nên quay lại học tiếp hay từ bỏ", cô nói.
+
+"Tôi mất hàng nghìn USD để đi học, nhưng công cụ này làm ảnh hưởng đến điểm số của tôi. Nếu tôi học Luật ở Australia, bị kết tội sai phạm học thuật, liệu Hiệp hội Luật sư có cấp phép cho tôi hành nghề không?", một sinh viên Luật khác bất bình.
+
+Còn với Beth, vì quá mệt mỏi và thất vọng, cô quyết định rút khỏi chương trình học và hoài nghi về bản thân suốt thời gian dài sau đó.
+
+Hiện, Cơ quan Chất lượng và Tiêu chuẩn giáo dục đại học Australia cho phép các trường dùng công cụ phát hiện AI, nhưng khuyến nghị không nên chỉ dựa vào chúng để đưa ra các kết luận. Tuy nhiên, nhiều chuyên gia ước tính có đến 30 trường vẫn đang dựa dẫm vào phần mềm này.
+
+Có trường còn không kiểm tra lại kết quả mà gửi email ngay lập tức cho sinh viên, như ACU. Leah Kaufmann, Phó Chủ tịch Công đoàn giáo dục đại học quốc gia, cho biết trình độ hiểu biết về AI của các giảng viên còn thấp, trong khi chính sách của trường về AI thì không tồn tại hoặc thay đổi liên tục.
+
+Phó Giáo sư Mark Bassett từ Đại học Charles Sturt, phụ trách vấn đề liêm chính học thuật và AI, cho rằng các trường đã dùng một giải pháp "lười biếng" thay vì thiết kế lại chương trình giảng dạy và đánh giá.
+
+Theo Tổng giám đốc điều hành của Hiệp hội Đại học Australia, Luke Sheehy, các đại học đang cập nhật chính sách và quy trình của mình.
+
+Danny Liu, Giáo sư công nghệ giáo dục tại Đại học Sydney, thì cho rằng không nên cấm AI trong lớp học. "Thay vì trừng phạt, chúng tôi muốn dạy sinh viên cách sử dụng AI đúng đắn. Chúng tôi muốn xác minh liệu sinh viên có đang học hay không, chứ không phải liệu họ có gian lận hay không", Liu nói.
+
+Khánh Linh (Theo ABC, University World News, Futurism)

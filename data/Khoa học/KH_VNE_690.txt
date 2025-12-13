@@ -1,0 +1,17 @@
+Phân tích mới của các nhà nghiên cứu cho thấy siêu trí tuệ nhân tạo có thể xuất hiện sớm hơn nhiều so với dự đoán trước đây.
+
+AGI có thể xuất hiện sớm nhờ nhiều tiến bộ công nghệ. Ảnh: iStock
+
+Sự xuất hiện của siêu trí tuệ nhân tạo hay còn gọi là trí tuệ nhân tạo tổng quát (AGI), hệ thống AI với trí thông minh siêu việt có thể thực hiện tốt các nhiệm vụ đa dạng, chỉ là vấn đề thời gian, theo kết quả phân tích ý kiến của hàng nghìn chuyên gia, Live Science hôm 9/3 đưa tin. Phân tích mới cập nhật do Cem Dilmegani, nhà phân tích ở AIMultiple Research, tiến hành xem xét khoảng 8.600 dự đoán từ nhà khoa học, chuyên gia AI và thương gia từ năm 2009 tới năm 2023 nhằm tìm hiểu khi nào AGI ra đời.
+
+Một phần phân tích bao gồm 10 khảo sát với tổng cộng 5.288 nhà nghiên cứu và chuyên gia AI. Dựa trên tính toán trung bình từ dữ liệu, có 50% khả năng máy móc sẽ đạt trí tuệ sánh ngang con người vào khoảng năm 2040 - 2061. Khảo sát gần đây hơn dự đoán điểm kỳ dị công nghệ có thể đến sớm hơn. Ví dụ, một trong những nghiên cứu mới nhất tiến hành năm 2023 phỏng vấn 2.778 nhà khoa học và chỉ ra chúng ta có thể đạt được AGI sớm nhất năm 2040. Một số chuyên gia trong lĩnh vực này như Dario Amodei, nhà nghiên cứu AI kiêm giám đốc điều hành công ty AI Anthropic, cho rằng nó thậm chí có thể ra đời vào năm 2026.
+
+Sự phát sinh của AGI được thúc đẩy bởi tiến bộ nhanh chóng của mô hình ngôn ngữ lớn dựa trên transformer (LLM). Transformer là một kiến trúc mạng neural được thiết kế để xử lý và hiểu dữ liệu ngôn ngữ tự nhiên (NLP) một cách hiệu quả. Đây là công nghệ dùng trên các chatbox như ChatGPT và trình tạo hình ảnh như Dall-E. Trước khi có những công nghệ này, năm 2019, một số nhà khoa học dự đoán AGI có thể xảy ra năm 2060 hoặc không bao giờ.
+
+Phân tích cung cấp vài lý do tại sao giới khoa học cho rằng AGI chắc chắn sẽ xảy ra. Đầu tiên, khác với trí tuệ con người, không có giới hạn lý thuyết nào đối với công suất máy tính. Đó là theo định luật Moore dự đoán công suất sẽ tăng gấp đôi cách 18 tháng một lần. Những hệ thống AI tương lai một ngày nào đó sẽ sánh ngang với trí tuệ con người về mặt tính toán mỗi giây. Trong các năm gần đây, nhiều chuyên gia cho rằng định luật Moore không còn đúng nữa.
+
+Nghiên cứu cũng đề cập tới máy tính lượng tử như một phương tiện để vượt qua giới hạn máy tính. Máy tính lượng tử có thể xử lý nhiều tính toán đồng thời bằng cách khai thác những định lý cơ học lượng tử. Máy tính cổ điển, bao gồm các siêu máy tính nhanh nhất, phải tiến hành tính toán theo trình tự. Nhưng máy tính lượng tử có thể dẫn tới hệ thống AI cao cấp với công suất xử lý nhanh hơn hẳn những mô hình tốt nhất hiện nay.
+
+Tuy nhiên, một số nhà khoa học khác trong lĩnh vực cho rằng cần có đột phá xa hơn trước khi chúng ta có thể tiến gần tới AGI. Ví dụ, Yann LeCun, giám đốc khoa học AI của Facebook, nhận định cấu trúc dựa trên transformer và phương pháp tiếp cận hiện nay với AI không tương thích với trí tuệ con người.
+
+An Khang (Theo Live Science)

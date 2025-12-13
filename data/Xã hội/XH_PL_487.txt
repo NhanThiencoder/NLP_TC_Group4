@@ -1,0 +1,33 @@
+Chiến lược chuyển đổi số của VPBank hướng đến cộng đồng tài năng công nghệ trẻ
+
+Chung kết VPBank Technology Hackathon 2025 - Senior Track với chủ đề “Hack2Hire: Chinh phục công nghệ, kiến tạo tương lai cùng VPBank” (diễn ra hồi gần cuối tháng 11) đã quy tụ hơn 639 gương mặt thí sinh giàu kinh nghiệm, nhiệt huyết, với 138 nhóm cùng tranh tài.
+
+Sau gần ba tháng cạnh tranh, 21 đội với 83 thí sinh đã bước vào vòng cuối cùng, cho thấy sức hút đặc biệt của sân chơi công nghệ do VPBank phối hợp cùng Amazon Web Services (AWS) tổ chức.
+
+VPBank đang đẩy nhanh các dự án AI và Gen AI vào cả vận hành nội bộ lẫn sản phẩm số, tạo nền tảng để các ý tưởng từ cuộc thi Hackathon có thể được ứng dụng vào thực tế.
+
+Từ nền tảng đó, VPBank Technology Hackathon 2025 được thiết kế thành 2 chặng liên tiếp để khai thác toàn diện nguồn nhân lực công nghệ. Hồi đầu năm 2025, Junior Track là sân chơi dành cho sinh viên và nhân sự mới bước vào nghề; còn Senior Track mở rộng “độ khó” với những thử thách có yêu cầu cao hơn, thu hút lực lượng kỹ sư giàu kinh nghiệm, tạo nên sự cạnh tranh lành mạnh. Cách tiếp cận này giúp VPBank vừa phát hiện tài năng trẻ, vừa thu hút chuyên gia dày dạn kinh nghiệm, tạo dòng chảy nhân lực liên tục cho chiến lược chuyển đổi số dài hạn.
+
+Điểm nhấn nổi bật của Senior Track nằm ở kinh nghiệm về chuyên môn của thí sinh, khi có đến 70% ứng viên thuộc nhóm đã có từ 2-5 năm kinh nghiệm trong lĩnh vực công nghệ thông tin và khoa học dữ liệu. Tỉ lệ đăng ký cao ở các thử thách liên quan đến AI ứng dụng phản ánh xu hướng công nghệ đang được cộng đồng kỹ sư quan tâm, và cũng là hướng đầu tư mạnh của VPBank trong chiến lược số hóa toàn diện.
+
+Những chiến thắng đầy cảm hứng
+
+Doc2Contract đã xuất sắc trở thành nhà vô địch với giải pháp AI Real Estate Collateral Drafting System. Đây là giải pháp sử dụng AI nhằm tự động hóa quá trình trích xuất, kiểm tra, soạn thảo các tài liệu liên quan đến tài sản bảo đảm bất động sản - một nghiệp vụ có khối lượng lớn và yêu cầu độ chính xác cao trong ngân hàng.
+
+Giải pháp của Doc2Contract được đánh giá cao nhờ cách triển khai mạch lạc, flow thuyết trình chặt chẽ, tự tin, thể hiện rõ tư duy hệ thống. Phần demo vận hành ổn định, cho thấy sản phẩm đã được trau chuốt ở mức độ cao, từ UI/UX đến logic kỹ thuật.
+
+Ban giám khảo đặc biệt ấn tượng với cách đội thi sáng tạo tích hợp các dịch vụ Gen AI tiên tiến của AWS (bao gồm Amazon Bedrock sử dụng Claude-3 và Claude-4.5, Amazon Textract và Amazon Comprehend) với giải pháp xử lý tài liệu tiếng Việt chuyên biệt của FPT.AI. Sự kết hợp linh hoạt này thể hiện tư duy thông minh trong lựa chọn công nghệ phù hợp, đạt độ chính xác trên 90% trong khi giảm thời gian xử lý hợp đồng từ nhiều ngày xuống còn vài phút.
+
+Giải Nhì thuộc về nhóm BK62 với giải pháp Fail & Forward: Embracing Failure with Automated Recovery, trong khi Bếp Yêu thương Digital Platform nhận giải Ba với tinh thần xây dựng sản phẩm toàn diện và giàu tính nhân văn.
+
+Ở nhóm giải pháp chuyên biệt, giải thưởng được trao cho các đội có thế mạnh nổi bật ở từng mảng: MoE Architect Team nhận Trailblazer Innovation Award (Giải pháp sáng tạo); Agentity giành Pitch Perfect Award (Trình bày xuất sắc) và Better Version được trao Awesome Architecture Award (Tối ưu công nghệ).
+
+Bên cạnh giải tập thể, BTC còn vinh danh 5 cá nhân Hackathon Star, là những thí sinh thể hiện năng lực vượt trội xuyên suốt mùa giải.
+
+VPBank tăng tốc chuyển đổi số, tiếp cận nhân tài đầy sáng tạo
+
+Phát biểu tại chung kết, bà Trần Thị Diệp Anh - Giám đốc Khối Quản trị Nguồn nhân lực VPBank chia sẻ về hành trình của cuộc thi: “Những vòng thi diễn ra online, nhưng các cuộc thảo luận, làm việc trên các nhóm chat gần như không ngừng nghỉ. Tôi thật sự ấn tượng với tinh thần và nhiệt huyết của các thí sinh”.
+
+“VPBank xác định Hackathon không chỉ là một cuộc thi, mà quan trọng hơn, là một phần thiết yếu trong chiến lược nhân sự dài hạn của ngân hàng. Song song với quá trình chuyển đổi số, VPBank ưu tiên đầu tư vào con người - trụ cột đảm bảo cho sự bền vững của toàn bộ hệ thống công nghệ. Vì vậy, các cuộc thi Hackathon được xây dựng như một kênh kết nối tài năng, giúp ngân hàng tìm ra đúng người phù hợp cho những dự án dữ liệu, ngân hàng số, vận hành và AI đang trong quá trình tăng tốc triển khai”, bà Diệp Anh nhấn mạnh.
+
+Chung kết VPBank Technology Hackathon 2025 - Senior Track 2025 khép lại bằng tinh thần sáng tạo, tư duy thực tiễn và khát vọng của cộng đồng kỹ sư công nghệ Việt Nam. Thông qua Hackathon, cho thấy chiến lược con người toàn diện và tầm nhìn dài hạn của VPBank không chỉ dừng lại ở việc phục vụ nhu cầu phát triển của ngân hàng mà còn khuyến khích, thúc đẩy phát triển các thế hệ nhân tài công nghệ thông qua những phương thức mới mẻ, phù hợp với nhịp chuyển đổi số.

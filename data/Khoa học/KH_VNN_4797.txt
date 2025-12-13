@@ -1,0 +1,77 @@
+Không gian mạng đang trở thành mặt trận chiến lược trong cạnh tranh quốc tế. Với một nền kinh tế số tăng trưởng nhanh và mức độ phụ thuộc vào công nghệ ngày càng sâu, Việt Nam cần xây dựng năng lực tự chủ về an ninh mạng như một yêu cầu sống còn để bảo vệ hạ tầng trọng yếu, dữ liệu quốc gia và quyền lợi của công dân. Đây cũng là nền tảng để Việt Nam phát triển bền vững, độc lập, tự cường trong kỷ nguyên số.
+
+Khi an ninh mạng trở thành “lá chắn” của quốc gia
+
+Trong thời đại số hóa mạnh mẽ, hạ tầng mạng quốc gia đang trở thành một trong những trụ cột quan trọng nhất đối với mọi hoạt động chính trị, kinh tế và xã hội.
+
+Các hệ thống dữ liệu của Chính phủ, ngân hàng, năng lượng, giao thông, y tế hay viễn thông đều vận hành trên nền tảng công nghệ thông tin.
+
+Chỉ một sự cố tấn công quy mô lớn cũng có thể gây gián đoạn dịch vụ công trực tuyến, làm tê liệt quy trình điều hành, gây mất ổn định thị trường tài chính hoặc khiến hàng triệu người dân không thể thực hiện giao dịch thiết yếu.
+
+Thời gian qua, Việt Nam chứng kiến nhiều vụ tấn công mạng có chủ đích, trong đó các nhóm tin tặc quốc tế thực hiện chiến dịch mã hóa dữ liệu quy mô lớn, đòi tiền chuộc, gây đình trệ hoạt động của doanh nghiệp trong nhiều tuần.
+
+Một số vụ việc tấn công đồng loạt vào hàng trăm máy chủ đã cho thấy hệ thống hạ tầng số đang đối mặt với những nguy cơ tiềm tàng ngày càng tinh vi và khó lường.
+
+Không chỉ các tổ chức tội phạm mạng, mà nhiều cuộc tấn công còn mang yếu tố quốc gia, nhắm vào cơ quan trọng yếu nhằm chiếm quyền kiểm soát dữ liệu, gây nhiễu loạn hoạt động quản lý hoặc làm suy yếu năng lực phòng vệ.
+
+Trong bối cảnh đó, khả năng tự chủ về an ninh mạng trở thành một yêu cầu chiến lược, bởi chỉ khi làm chủ công nghệ, quy trình và lực lượng ứng cứu, Việt Nam mới đủ khả năng đảm bảo an toàn cho hệ thống hạ tầng quan trọng.
+
+Thời gian qua, Việt Nam chứng kiến nhiều vụ tấn công mạng có chủ đích, trong đó các nhóm tin tặc quốc tế thực hiện chiến dịch mã hóa dữ liệu quy mô lớn, đòi tiền chuộc, gây đình trệ hoạt động của doanh nghiệp trong nhiều tuần.
+
+Vì sao phải tự chủ an ninh mạng?
+
+Thực tế hiện nay cho thấy phần lớn các công nghệ bảo mật – từ hệ thống phòng vệ, thiết bị giám sát đến nền tảng phân tích – đều do các tập đoàn nước ngoài nắm giữ. Việc phụ thuộc vào công nghệ ngoại tiềm ẩn nhiều rủi ro.
+
+Trong trường hợp xảy ra sự cố quy mô lớn, các tổ chức trong nước rất khó chủ động xử lý nếu không kiểm soát được mã nguồn, thuật toán hay cơ sở hạ tầng kỹ thuật.
+
+Một số giải pháp bảo mật nước ngoài còn đi kèm nguy cơ thu thập dữ liệu, tạo ra lỗ hổng an ninh không dễ kiểm chứng.
+
+Phụ thuộc vào công nghệ ngoại đồng nghĩa với việc khả năng làm chủ rủi ro bị hạn chế. Điều này không chỉ là vấn đề kỹ thuật mà còn là vấn đề chủ quyền.
+
+Khi dữ liệu chiến lược được xử lý hoặc lưu trữ bởi giải pháp nước ngoài, khả năng bị can thiệp, chi phối hoặc gián đoạn từ bên ngoài không thể loại trừ. Vì vậy, tự chủ về an ninh mạng phải đi đôi với tự chủ về công nghệ, dữ liệu và giải pháp bảo vệ.
+
+Luật An ninh mạng 2025 đã đặt nền móng rõ ràng hơn cho hướng đi này khi bổ sung các quy định về phát triển sản phẩm an ninh mạng nội địa, khuyến khích cơ quan nhà nước, tổ chức và doanh nghiệp ưu tiên sử dụng giải pháp “Make in Vietnam”.
+
+Điều này không chỉ thúc đẩy ngành công nghiệp an ninh mạng trong nước mà còn tạo ra hệ sinh thái bảo mật phù hợp với thực tiễn Việt Nam, đáp ứng yêu cầu sử dụng lâu dài và linh hoạt khi công nghệ thay đổi.
+
+Ngoài ra, Luật cũng quy định rõ trách nhiệm đầu tư cho an ninh mạng đối với các cơ quan và doanh nghiệp nhà nước. An ninh mạng không còn là lựa chọn, mà là yêu cầu bắt buộc, tương tự như đầu tư cho hạ tầng điện, nước hay an ninh vật lý.
+
+Khi chi phí bảo vệ hệ thống được đảm bảo, việc xây dựng trung tâm điều hành an ninh mạng hiện đại và nâng cấp hệ thống phòng vệ sẽ được triển khai bài bản hơn, giảm thiểu rủi ro và nâng cao năng lực phản ứng trước các cuộc tấn công lớn.
+
+Ba trụ cột của tự chủ an ninh mạng
+
+Năng lực tự chủ an ninh mạng không chỉ phụ thuộc vào công nghệ, mà là tổng hòa của nhiều yếu tố. Luật An ninh mạng 2025 đã xác định rõ ba trụ cột chính: phát triển sản phẩm an ninh mạng nội địa, xây dựng nguồn nhân lực chất lượng cao và thúc đẩy hợp tác quốc tế theo hướng chủ động, có chọn lọc.
+
+Thứ nhất, phát triển sản phẩm an ninh mạng nội địa là một trong những ưu tiên chiến lược. Nhiều doanh nghiệp Việt Nam đã phát triển thành công các giải pháp tường lửa, hệ thống phát hiện xâm nhập, nền tảng giám sát hành vi bất thường, hệ thống phân tích dữ liệu an ninh mạng… phù hợp với thực tế trong nước. Luật mới giúp tạo thị trường rõ ràng và ưu tiên cho sản phẩm nội địa, từ đó giúp giảm chi phí, đảm bảo kiểm soát chặt chẽ và giảm phụ thuộc vào bên ngoài.
+
+Thứ hai, nhân lực an ninh mạng được xem là lực lượng nòng cốt trong bảo vệ không gian mạng quốc gia. Luật quy định người đứng đầu hệ thống thông tin quan trọng quốc gia phải có chứng chỉ an ninh mạng.
+
+Điều này thể hiện sự thay đổi nhận thức: lãnh đạo không thể “khoán trắng” cho bộ phận kỹ thuật, mà phải trực tiếp hiểu rủi ro, nắm cơ chế phòng vệ và có năng lực đưa ra quyết định trong tình huống khẩn cấp.
+
+Ngoài đội ngũ lãnh đạo, việc đào tạo chuyên gia an ninh mạng ở nhiều trình độ cũng được đẩy mạnh, hướng tới hình thành lực lượng ứng cứu chuyên nghiệp, đủ khả năng đối phó với tấn công quy mô lớn.
+
+Thứ ba, hợp tác quốc tế đóng vai trò không thể thiếu trong bối cảnh tấn công mạng xuyên biên giới ngày càng gia tăng. Việt Nam cần tham gia các mạng lưới chia sẻ thông tin cảnh báo, hợp tác điều tra tội phạm mạng và học hỏi kinh nghiệm từ các quốc gia có nền tảng an ninh mạng phát triển.
+
+Tuy nhiên, hợp tác quốc tế phải dựa trên nguyên tắc chủ động, bảo đảm an toàn dữ liệu và giữ
+
+vững chủ quyền quốc gia. Luật mới đã cụ thể hóa các điều kiện, khuôn khổ hợp tác để vừa tận dụng nguồn lực quốc tế, vừa tránh phụ thuộc.
+
+Tuyến phòng thủ đầu tiên trong bảo vệ không gian mạng
+
+An ninh mạng không chỉ là vấn đề của cơ quan quản lý hay lực lượng kỹ thuật. Thực tế cho thấy phần lớn các cuộc tấn công đều bắt nguồn từ sai sót của chính người dùng: mở file chứa mã độc, sử dụng mật khẩu yếu, chia sẻ dữ liệu cá nhân bừa bãi, bị lừa bởi deepfake hoặc truy cập website giả mạo.
+
+Do đó, nâng cao nhận thức cộng đồng là tuyến phòng thủ đầu tiên và cũng là quan trọng nhất.
+
+Việc xây dựng các chương trình truyền thông, đưa giáo dục an ninh mạng vào trường học, đẩy mạnh cảnh báo lừa đảo trên môi trường số và hướng dẫn người dân cách tự bảo vệ thông tin cá nhân sẽ góp phần thu hẹp đáng kể nguy cơ bị tấn công.
+
+Trong doanh nghiệp, việc đào tạo nhân viên, xây dựng quy trình bảo mật và thực hiện diễn tập ứng cứu sự cố định kỳ là biện pháp quan trọng giúp giảm thiểu rủi ro.
+
+Nhiều vụ tấn công quy mô lớn có thể được ngăn chặn từ sớm nếu người dùng có kỹ năng nhận diện nguy cơ và hành động đúng cách.
+
+Năng lực tự chủ về an ninh mạng quyết định khả năng bảo vệ dữ liệu quốc gia, duy trì hoạt động ổn định của hạ tầng quan trọng, bảo vệ quyền lợi của người dân và doanh nghiệp, cũng như giữ vững chủ quyền trong không gian mạng.
+
+Đây là nền tảng để Việt Nam phát triển kinh tế số bền vững, tham gia sâu vào chuỗi giá trị toàn cầu và nâng cao năng lực cạnh tranh quốc gia.
+
+Trong bối cảnh chuyển đổi số toàn diện, chỉ khi Việt Nam làm chủ công nghệ, sản phẩm, nhân lực và hệ thống phòng thủ an ninh mạng, chúng ta mới thật sự xây dựng được một quốc gia số an toàn, độc lập và tự cường – hướng tới mục tiêu hùng cường, thịnh vượng trong kỷ nguyên số.
+
+Xem lại bài 1: Hợp nhất Luật An ninh mạng và Luật An toàn thông tin mạng là yêu cầu tất yếu trong thời đại số

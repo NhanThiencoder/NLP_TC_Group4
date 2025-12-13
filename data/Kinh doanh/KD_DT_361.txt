@@ -1,0 +1,69 @@
+Title: ChatGPT và gen Z: Cố vấn toàn năng hay con dao hai lưỡi?
+
+Chào mừng bạn đến với kỷ nguyên mà trí tuệ nhân tạo (AI) không còn là một khái niệm khoa học viễn tưởng xa vời, mà đã len lỏi vào từng ngóc ngách của đời sống!
+
+Trong đó, ChatGPT của OpenAI nổi lên như một hiện tượng, đặc biệt thu hút một lực lượng người dùng đông đảo và năng động, đó là gen Z. Không chỉ dừng lại ở việc soạn email hay tìm kiếm thông tin, thế hệ trẻ này đang sử dụng ChatGPT theo những cách khiến nhiều người phải kinh ngạc - biến nó thành một "cố vấn cuộc đời" thực thụ.
+
+Tại sự kiện AI Ascent do Sequoia Capital tổ chức gần đây, và trong một cuộc phỏng vấn được đăng tải trên kênh YouTube của quỹ đầu tư mạo hiểm này, CEO OpenAI Sam Altman đã có những chia sẻ đáng chú ý.
+
+Ông phác họa một bức tranh đa thế hệ trong việc tiếp cận ChatGPT, nơi gen Z nổi bật lên như những người dùng "đắm chìm" nhất. "Họ gần như không đưa ra quyết định cuộc đời nào mà không hỏi ChatGPT nên làm gì", Altman nói. "Nó có toàn bộ ngữ cảnh về mọi người trong cuộc sống của họ và những gì họ đã trao đổi".
+
+Chân dung "thế hệ ChatGPT": Khi AI trở thành hệ điều hành cuộc sống
+
+Phát biểu của Altman không phải là một lời nói suông. Thực tế cho thấy, gen Z (những người sinh từ khoảng năm 1997 đến 2012) không chỉ dùng ChatGPT để làm bài tập, tranh luận vui hay viết những đoạn code đơn giản. Họ đang dựa vào AI này để xử lý các mối quan hệ cá nhân, lên kế hoạch cho sự nghiệp, và đưa ra những lựa chọn mang tính bước ngoặt.
+
+Theo Altman, người trẻ không chỉ đơn thuần trò chuyện với AI mà họ xây dựng những "quy trình làm việc phức tạp" xung quanh nó. "Họ thực sự dùng nó như một hệ điều hành", ông nhận định. Điều này bao gồm việc thiết lập các kết nối giữa ChatGPT với nhiều tệp tin cá nhân và lưu trữ những đoạn prompt (câu lệnh) phức tạp để tái sử dụng khi cần. Cách tiếp cận này cho thấy một mức độ tích hợp sâu sắc, vượt xa việc coi AI chỉ là một công cụ tra cứu thông thường.
+
+Sự khác biệt thế hệ được Altman mô tả khá rõ ràng, dù ông thừa nhận đây là một "sự đơn giản hóa quá mức". Người lớn tuổi (Baby Boomers, gen X) dùng ChatGPT như một công cụ thay thế Google, chủ yếu để tìm kiếm thông tin.
+
+Những người ở độ tuổi 20-30 (millennials/gen Y) có thể dùng nó như một "cố vấn cuộc sống", tìm kiếm lời khuyên cho các vấn đề cá nhân và công việc. Trong khi đó, sinh viên đại học (phần lớn là gen Z) lại dùng nó như một "hệ điều hành cá nhân", tích hợp vào mọi khía cạnh học tập và đời sống.
+
+Từ chuyện tình cảm, định hướng sự nghiệp đến giải quyết khủng hoảng tâm lý - giới trẻ, đặc biệt là gen Z, đang coi ChatGPT là "người bạn đồng hành", thậm chí là cố vấn cuộc sống (Minh họa: Medium).
+
+Số liệu cũng ủng hộ nhận định này. Một báo cáo vào tháng 2 của OpenAI cho thấy sinh viên đại học tại Mỹ là nhóm người dùng tích cực nhất, cả về số lượng lẫn mức độ tích hợp ChatGPT vào thói quen hàng ngày.
+
+Hơn một phần ba người Mỹ từ 18 đến 24 tuổi cho biết họ sử dụng ChatGPT, biến nhóm này thành đối tượng năng động nhất trên nền tảng. Tạp chí New York thậm chí từng có một bài viết nổi bật với tiêu đề khá sốc: "Ai cũng đang gian lận để qua đại học", phản ánh một phần hiện thực sử dụng AI trong môi trường học đường.
+
+Xu hướng này không chỉ dừng lại ở lứa tuổi sinh viên. Một khảo sát vào tháng 1/2024 của Pew Research chỉ ra rằng 26% thiếu niên Mỹ từ 13 đến 17 tuổi đã dùng ChatGPT để hỗ trợ học tập, một con số tăng vọt so với 13% vào năm 2023. Điều này cho thấy một thế hệ đang lớn lên cùng AI, xem nó không chỉ là công cụ mà còn là một "cố vấn kỹ thuật số" thường trực.
+
+Lý giải sức hút khó cưỡng: Tại sao Gen Z "kết nối" với ChatGPT?
+
+Vậy điều gì khiến ChatGPT trở nên "hợp cạ" một cách lạ thường với gen Z?
+
+Một trong những yếu tố then chốt, như Altman giải thích, là khả năng ghi nhớ của ChatGPT. "Nó có toàn bộ bối cảnh về từng người trong cuộc sống của bạn và mọi thứ bạn đã trao đổi với nó", ông nói. Tính năng này, được OpenAI bổ sung và cải tiến, tạo ra cảm giác được AI "thấu hiểu", đưa ra những phản hồi được cá nhân hóa dựa trên lịch sử trò chuyện. Điều này đặc biệt quan trọng với một thế hệ đề cao tính cá nhân và mong muốn được lắng nghe.
+
+Bên cạnh đó, gen Z là thế hệ đầu tiên hoàn toàn trưởng thành trong môi trường kỹ thuật số. Họ có sự thoải mái bẩm sinh với công nghệ và khả năng thích ứng nhanh chóng với các công cụ mới. Sam Altman từng so sánh sự thành thạo của giới trẻ với ChatGPT giống như cách thế hệ trẻ trước đây nhanh chóng làm chủ smartphone, trong khi người lớn tuổi hơn phải mất nhiều thời gian để làm quen với các chức năng cơ bản.
+
+Sự tiện lợi, tốc độ phản hồi gần như tức thì và khả năng truy cập "lời khuyên" 24/7 cũng là những điểm cộng lớn. Trong một thế giới vận động không ngừng và áp lực phải luôn "kết nối", một "cố vấn" luôn sẵn sàng lắng nghe và đưa ra gợi ý, dù là AI, cũng mang lại một giá trị nhất định. Đối với một số người trẻ, ChatGPT còn có thể là một không gian riêng tư để thổ lộ những tâm tư, tìm kiếm lời khuyên mà không sợ bị phán xét từ người thật.
+
+Khi "cố vấn ảo" lên ngôi: Tiếng nói từ giới chuyên gia và những quan ngại không thể bỏ qua
+
+Sự gắn kết ngày càng tăng của gen Z với ChatGPT, đặc biệt trong việc đưa ra các quyết định quan trọng, không tránh khỏi việc làm dấy lên những lo ngại từ giới chuyên gia và các nhà giáo dục.
+
+Mối lo hàng đầu là nguy cơ về sự phụ thuộc quá mức. Việc thường xuyên dựa dẫm vào AI để tìm câu trả lời hoặc hướng giải quyết có thể làm suy giảm khả năng tư duy độc lập, kỹ năng giải quyết vấn đề và năng lực ra quyết định của người trẻ. Một nghiên cứu ở Anh cho thấy việc sử dụng thường xuyên các công cụ AI có thể gây tổn hại đến khả năng tư duy phản biện, đặc biệt ở người trẻ. Những người tham gia trẻ tuổi phụ thuộc nhiều hơn vào AI có điểm tư duy phản biện thấp hơn.
+
+Các chuyên gia cảnh báo cần thận trọng khi dùng AI để đưa ra lời khuyên quan trọng liên quan đến sức khỏe, an toàn hoặc cảm xúc cá nhân (Minh họa: Mashable).
+
+Tính chính xác và độ tin cậy của thông tin, lời khuyên từ ChatGPT cũng là một dấu hỏi lớn. Mặc dù được huấn luyện trên kho dữ liệu khổng lồ, ChatGPT vẫn có thể đưa ra thông tin sai lệch, thiên kiến hoặc những lời khuyên không phù hợp, thậm chí nguy hiểm.
+
+Một nghiên cứu được công bố tháng 11/2023 đã cảnh báo "cần hết sức thận trọng khi sử dụng ChatGPT để tra cứu thông tin liên quan đến an toàn và các khuyến nghị chuyên môn", đồng thời nhấn mạnh sự cần thiết của các quy chuẩn đạo đức và cơ chế bảo vệ để người dùng hiểu rõ giới hạn của công cụ này. Một số nhà nghiên cứu còn cho rằng các mô hình ngôn ngữ lớn như ChatGPT "vốn mang tính chất phi nhân tính", khiến việc đặt trọn niềm tin vào lời khuyên của chúng trở nên đầy rủi ro.
+
+Các vấn đề đạo đức và xã hội cũng được đặt ra. Việc thanh thiếu niên ngày càng sử dụng chatbot như một người bạn đồng hành đã dẫn đến những quan ngại cụ thể. Các nhà lập pháp ở California (Mỹ) từng đề xuất một dự luật yêu cầu các công ty AI phải nhắc nhở người dùng trẻ rằng họ đang trò chuyện với máy, không phải con người. Một báo cáo vào tháng 4 của Common Sense Media và các nhà nghiên cứu từ Đại học Stanford cũng khuyến cáo trẻ em không nên sử dụng các dịch vụ AI mang tính bạn đồng hành.
+
+Tuy nhiên, cũng có những nghiên cứu và thử nghiệm chỉ ra rằng việc dùng ChatGPT để xin lời khuyên trong các tình huống thông thường có thể vô hại, thậm chí hữu ích trong một số trường hợp. OpenAI hiện chưa đưa ra bình luận chính thức về việc liệu sử dụng ChatGPT để xin lời khuyên có an toàn và đáng tin cậy hay không.
+
+Một số nghiên cứu còn chỉ ra rằng việc sử dụng ChatGPT với tần suất cao có thể làm tăng cảm giác cô đơn và sự cô lập xã hội, mặc dù AI có thể giúp nâng cao năng suất làm việc.
+
+Góc nhìn kinh tế: AI, gen Z và thị trường lao động tương lai
+
+Từ góc độ kinh tế, sự trỗi dậy của AI và cách gen Z đón nhận nó mang nhiều hàm ý quan trọng. Khoản đầu tư của các quỹ lớn như Sequoia Capital vào OpenAI (Sequoia lần đầu đầu tư năm 2021 khi OpenAI được định giá 14 tỷ USD, và hiện công ty được cho là có định giá lên đến hàng trăm tỷ USD sau các vòng gọi vốn) cho thấy niềm tin và kỳ vọng khổng lồ vào tiềm năng của công nghệ này.
+
+Sam Altman cũng đã nhiều lần nhấn mạnh rằng trong tương lai, việc thành thạo các công cụ AI không còn là lợi thế, mà là điều kiện tối thiểu để không bị tụt lại trên thị trường lao động. Ông khuyên gen Z nên tập trung vào việc làm chủ AI như một chiến lược sự nghiệp. Khả năng hiểu và sử dụng AI (AI literacy) được dự báo là một trong những kỹ năng được săn đón nhất. Các doanh nghiệp cũng ngày càng ưu tiên những ứng viên có kỹ năng AI.
+
+Tuy nhiên, điều này cũng đặt ra thách thức về việc làm thế nào để gen Z không chỉ là người sử dụng AI mà còn là người làm chủ công nghệ, phát triển những kỹ năng mà AI chưa thể thay thế như tư duy phản biện, sáng tạo và trí tuệ cảm xúc.
+
+Việc thành thạo các công cụ AI không còn là lợi thế, mà là điều kiện tối thiểu để không bị tụt lại trên thị trường lao động và các doanh nghiệp cũng ngày càng ưu tiên những ứng viên có kỹ năng AI (Minh họa: Shutterstock).
+
+Không thể phủ nhận rằng ChatGPT và các công cụ AI tương tự đang mở ra một kỷ nguyên mới, nơi giới trẻ có thể truy cập kiến thức, lời khuyên và sự hỗ trợ tinh thần gần như tức thì. Nhưng đi kèm với tiện ích là câu hỏi không dễ trả lời: liệu họ có đang đánh mất khả năng tự suy nghĩ và ra quyết định?
+
+Có lẽ câu trả lời nằm ở cách mỗi cá nhân, và cả xã hội, hiểu rõ AI là gì: một công cụ hữu ích, hay một chiếc "gậy chống tâm lý" quá đà. Với tốc độ lan rộng như hiện nay, vai trò của ChatGPT trong đời sống người trẻ sẽ còn là đề tài nóng không chỉ trong công nghệ, mà cả trong giáo dục, tâm lý và đạo đức xã hội.

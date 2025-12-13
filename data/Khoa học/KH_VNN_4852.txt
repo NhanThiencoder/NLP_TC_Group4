@@ -1,0 +1,61 @@
+Morgan Stanley vừa tiết lộ về loạt iPhone từ nay đến năm 2027, và mẫu iPhone Fold đầu tiên của Apple nhiều khả năng sẽ được trang bị camera selfie ẩn dưới màn hình (UDC), đánh dấu bước chuyển đổi lớn trong cách Apple xử lý phần camera phía trước.
+
+iPhone gập (iPhone Fold) đầu tiên của Apple sẽ trang bị camera ẩn dưới màn hình. Ảnh: Wccftech
+
+Đặc biệt, bản thảo thông số kỹ thuật của Morgan Stanley cho thấy Apple đã “ghi chú” ít nhất một camera selfie 24 megapixel đặt dưới màn hình trên mẫu iPhone Fold, và đáng chú ý là không còn Face ID.
+
+Đây là thông tin tạo nên nhiều tranh luận khi Face ID đã trở thành đặc trưng của iPhone trong suốt nhiều năm qua.
+
+Camera ẩn dưới màn hình: Bước tiến tối ưu trải nghiệm toàn màn hình
+
+Morgan Stanley cho biết iPhone Fold sẽ sở hữu ống kính selfie 24MP ẩn ngay bên dưới màn hình. Việc chuyển sang camera UDC đồng nghĩa Apple có thể loại bỏ toàn bộ phần notch hoặc Dynamic Island – tạo ra trải nghiệm hiển thị tràn viền hoàn chỉnh.
+
+Ngoài camera trước ẩn, iPhone Fold sẽ sử dụng hệ thống camera kép phía sau, gồm một cảm biến 48MP cho ống kính góc siêu rộng.
+
+Dù vậy, mẫu máy này sẽ không có khẩu độ thay đổi (variable aperture), không có ống kính telephoto, không có cảm biến đo chiều sâu ToF, và đặc biệt là không tích hợp Face ID – động thái cho thấy Apple có thể chuyển sang công nghệ nhận diện mới hoặc tập trung tối ưu trải nghiệm sử dụng màn hình gập.
+
+Theo các thông tin hiện tại, iPhone Fold sẽ sử dụng cơ chế gập như một cuốn sách – tương tự Galaxy Z Fold của Samsung, nhưng Apple đặt trọng tâm vào độ mỏng.
+
+Khi gập lại, máy dự kiến có độ dày dưới 10mm, mỏng hơn hầu hết các smartphone màn hình gập hiện nay.
+
+Kích thước màn hình khi mở ra của iPhone gập là 7,8 inch, trong khi màn hình ngoài là 5,5 inch.
+
+Sự kết hợp này cho phép người dùng thao tác dễ dàng trên màn hình ngoài khi đóng máy, và biến chiếc iPhone Fold thành một thiết bị tương đương iPad mini khi mở ra.
+
+Sức mạnh phần cứng: Modem mới, chip A20 và RAM 12GB
+
+Mẫu iPhone gập đầu tiên của Apple được cho là sử dụng modem C2 do chính Apple phát triển, giúp giảm sự phụ thuộc vào Qualcomm.
+
+Về hiệu năng, máy sẽ trang bị vi xử lý A20, thế hệ chip dự kiến ra mắt vào năm 2026, sản xuất trên tiến trình 2nm, với hiệu năng tăng khoảng 15%, tiết kiệm điện năng 30% so với A19 (3nm).
+
+Thông số rò rỉ khác bao gồm: RAM 12GB; dung lượng lưu trữ tối đa 1TB; pin lên tới 5.500mAh; giá bán dự kiến từ 2.000 USD.
+
+Video concept iPhone gập. (Nguồn: Concept Mob)
+
+Nếu mức giá này được giữ nguyên, iPhone Fold sẽ nằm trong phân khúc siêu cao cấp, cạnh tranh trực tiếp với dòng Galaxy Z Fold Ultra và các mẫu điện thoại màn gập cao cấp đến từ Trung Quốc.
+
+Công nghệ LOFIC trên iPhone 20: Bước nhảy vọt về khả năng chụp ảnh
+
+Song song với thông tin về iPhone Fold, một nguồn đáng tin cậy trên blog Naver – tài khoản “Yeux1122” – tiết lộ rằng dòng iPhone 20 dự kiến ra mắt năm 2027 sẽ ứng dụng công nghệ camera LOFIC (Lateral Overflow Integration Capacitor).
+
+Cảm biến CMOS hiện nay trên smartphone được tạo thành từ các điểm ảnh nhạy sáng, làm nhiệm vụ chuyển ánh sáng thành tín hiệu điện.
+
+Nhưng cảm biến CMOS thông thường luôn phải đánh đổi giữa khả năng thu sáng và mức độ bão hòa ánh sáng, dẫn đến Noise (nhiễu hình ảnh) khi chụp trong môi trường phức tạp.
+
+LOFIC là dạng cảm biến CMOS mới giúp: Thu đồng thời cả chi tiết vùng tối lẫn vùng sáng mạnh; Hạn chế nhiễu hạt ngay cả khi chênh lệch ánh sáng lớn; Tái tạo hình ảnh có dải tương phản động (dynamic range) rộng vượt trội.
+
+Nếu Apple dùng LOFIC trên iPhone 20, dải tương phản sẽ đạt 20 stop – ngang với camera điện ảnh chuyên nghiệp, so với mức 13 stop trên iPhone hiện tại.
+
+Nghĩa là máy có thể ghi nhận các vùng tối và sáng nhất trong một khung hình mà không bị mất chi tiết.
+
+Công nghệ này áp dụng được cho cả ảnh lẫn video, mở ra khả năng nâng chất lượng quay phim của iPhone lên tầm mới – điều mà Apple vốn đang theo đuổi khi hướng iPhone trở thành thiết bị làm phim di động.
+
+Đối với Apple, việc tung ra iPhone Fold không chỉ để cạnh tranh với Samsung hay Huawei, mà còn là lời xác nhận rằng công ty không đứng ngoài xu hướng điện thoại gập – xu hướng đã định hình tương lai thiết bị di động.
+
+Từ camera selfie ẩn dưới màn hình đến việc loại bỏ Face ID trên mẫu iPhone gập đầu tiên, Apple dường như đang sẵn sàng thử nghiệm những thay đổi táo bạo mà trước đây hãng luôn rất thận trọng.
+
+Trong khi đó, dòng iPhone 20 với công nghệ cảm biến LOFIC hứa hẹn mang lại bước nhảy vọt trong nhiếp ảnh di động, đưa iPhone tiệm cận chất lượng quay phim điện ảnh.
+
+2026 – 2027 sẽ là giai đoạn iPhone bước vào kỷ nguyên mới, nơi Apple không chỉ cải tiến mà còn tái định nghĩa những gì người dùng mong đợi ở một chiếc smartphone cao cấp.
+
+(Theo Wccftech, AppleInsider)

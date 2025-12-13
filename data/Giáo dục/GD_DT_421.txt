@@ -1,0 +1,45 @@
+Hãy tưởng tượng bạn cầm một cây bút chì và cố gắng xoay nó theo mọi hướng trong không gian 3 chiều, làm sao cho thể tích mà nó quét qua là nhỏ nhất.
+
+Nghe thì đơn giản, nhưng bài toán hình học này đã làm khó các nhà toán học trong suốt một thế kỷ qua. Bài toán này vốn được biết đến với tên gọi giả thuyết Kakeya.
+
+Mới đây, hai nhà toán học - PGS.TS Hong Wang (nhà toán học đến từ Đại học New York, Mỹ) và PGS.TS Joshua Zahl (nhà toán học đến từ Đại học British Columbia, Canada) - đã công bố cách giải "giả thuyết Kakeya" trong không gian 3 chiều.
+
+Bài giải của hai nhà nghiên cứu được giới chuyên môn đánh giá là một bước tiến mang tầm vóc thế kỷ.
+
+PGS.TS Hong Wang, nhà toán học đến từ Đại học New York (Mỹ) (Ảnh: QM).
+
+"Không phải nói phóng đại đâu, nhưng đây là lời giải hiếm có khó tìm, có thể nói là chờ cả trăm năm mới xuất hiện", giáo sư toán Nets Katz giảng dạy tại Đại học Rice (Mỹ) nhận định. Công trình nghiên cứu đã được đăng tải trên hệ thống lưu trữ bản thảo khoa học arXiv.
+
+Giả thuyết Kakeya xuất hiện từ năm 1917, khi nhà toán học người Nhật Sōichi Kakeya (1886-1947) đặt câu hỏi: Liệu có thể xoay một cây kim hay cây bút chì (vật thể thân mảnh) trên mặt phẳng và tạo nên diện tích quét qua nhỏ hơn diện tích hình tròn hay không? 2 năm sau, nhà toán học người Nga Abram Besicovitch (1891-1970) đưa ra lời giải.
+
+Minh họa về lời giải giả thuyết Kakeya trên mặt phẳng (Ảnh: QM).
+
+Tuy nhiên, bài toán trở nên phức tạp hơn nhiều khi chuyển đề bài từ mặt phẳng sang không gian 3 chiều. Lúc này, vật thể là cây kim mảnh hay cây bút chì cũng sẽ đặt ra những vấn đề trong quá trình giải, bởi độ dày của vật thể bắt đầu có tác động tới bài toán.
+
+Câu hỏi đặt ra lúc này: Nếu sử dụng vật thể là chiếc bút chì (thân vật thể có độ dày), thì thể tích tối thiểu mà nó quét qua khi xoay theo mọi hướng trong không gian 3 chiều là bao nhiêu?
+
+Đề bài nghe khá đơn giản, nhưng thực tế đây lại là câu hỏi hóc búa khiến giới toán học trăn trở trong suốt một thế kỷ qua.
+
+Giả thuyết Kakeya đặt trong không gian 3 chiều (Video: QM).
+
+Giới chuyên môn nói về lời giải "chờ cả trăm năm mới xuất hiện"
+
+Theo giáo sư Guth Larry, giảng viên của Học viện Công nghệ Massachusetts (Mỹ), giả thuyết Kakeya là nền tảng của một "tòa tháp" gồm nhiều giả thuyết lớn hơn trong lĩnh vực hình học. Việc giải được giả thuyết này sẽ giúp các tầng cao hơn của tòa tháp tri thức có cơ hội được tiếp cận và chinh phục.
+
+"Tôi từng nghĩ đây là bài toán hình học đơn giản, cơ bản, vậy mà thực tế, bài toán này quá khó. Bài toán này từng được nhiều tên tuổi lớn trong ngành toán học theo đuổi, nhưng phần lớn chỉ đạt được những kết quả nhỏ, chưa có tính hệ thống và chưa thể xem là lời giải hoàn chỉnh", giáo sư Guth Larry chia sẻ.
+
+Về PGS.TS Hong Wang, người từng là nghiên cứu sinh được giáo sư Guth Larry hướng dẫn, cô cho biết bản thân bị cuốn hút bởi chính sự đơn giản của bài toán này. "Tôi chỉ muốn hiểu vì sao bài toán lại khó đến vậy", Wang chia sẻ giản dị với giới truyền thông.
+
+PGS.TS Joshua Zahl, nhà toán học đến từ Đại học British Columbia (Canada) (Ảnh: QM).
+
+Giáo sư Terence Tao (giảng viên Đại học Đại học California Los Angeles, Mỹ) - chủ nhân Huy chương Fields năm 2006 - nhận định: "Đây là một bước tiến ngoạn mục trong lý thuyết đo hình học.
+
+Wang và Zahl đã giải quyết được giả thuyết nổi tiếng Kakeya trong không gian 3 chiều. Đây có thể coi là một trong những thành tựu toán học đáng kể của thế kỷ 21".
+
+Giáo sư toán Guido De Philippis đến từ Đại học New York cũng khẳng định: "Công trình này là kết quả đỉnh cao được tạo nên từ nhiều năm nghiên cứu miệt mài của 2 nhà toán học, nhằm tìm ra lời giải cho một dạng toán hình học rất phức tạp.
+
+Tôi tin rằng những ý tưởng trong nghiên cứu này sẽ mở ra một chuỗi đột phá trong thời gian tới không chỉ trong lý thuyết đo hình học, mà còn trong phương pháp phân tích điều hòa, lý thuyết số, lĩnh vực mật mã học và khoa học máy tính".
+
+Giáo sư Pablo Shmerkin đến từ Đại học British Columbia (Canada) nhận định giả thuyết Kakeya có sức hấp dẫn đặc biệt đối với giới nghiên cứu toán học trong suốt một thế kỷ qua, bởi bài toán vừa ngắn gọn, đơn giản, vừa "khó nhằn", hóc búa.
+
+Hơn thế nữa, bài toán lại rất sâu sắc bởi đưa vào những vấn đề thuộc về bản chất của lý thuyết đo hình học.

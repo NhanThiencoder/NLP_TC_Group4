@@ -1,0 +1,25 @@
+Title: Bắt buộc xác thực sinh trắc học khi phát hành thẻ ngân hàng từ năm sau
+
+Ngân hàng Nhà nước (NHNN) vừa ban hành Thông tư 45/2025 sửa đổi, bổ sung một số điều của Thông tư 18/2024 về hoạt động thẻ ngân hàng. Thông tư mới sẽ có hiệu lực từ ngày 5/1/2026, với nhiều quy định siết chặt quy trình xác thực danh tính nhằm đảm bảo an toàn giao dịch.
+
+Theo Thông tư 45, tổ chức phát hành thẻ bắt buộc phải gặp mặt trực tiếp để đối chiếu và xác thực thông tin sinh trắc học của chủ thẻ (đối với khách hàng cá nhân) hoặc người đại diện hợp pháp (đối với khách hàng tổ chức).
+
+Đồng thời, đơn vị phát hành thẻ phải kiểm tra và xác thực số điện thoại chính chủ khi khách hàng đăng ký sử dụng các dịch vụ, ứng dụng trực tuyến của ngành ngân hàng.
+
+Quy định tại khoản 6 Điều 16 Thông tư 18 được sửa đổi theo hướng thắt chặt điều kiện để thẻ được phép tham gia giao dịch điện tử. Cụ thể, thẻ chỉ được sử dụng cho giao dịch điện tử sau khi đã hoàn tất việc đối chiếu giấy tờ tùy thân và xác thực sinh trắc học của chủ thẻ hoặc người đại diện hợp pháp.
+
+Việc đối chiếu được thực hiện dựa trên dữ liệu sinh trắc học lưu trong bộ phận thông tin được mã hóa trên thẻ căn cước công dân (CCCD) gắn chip, hoặc thông qua tài khoản định danh điện tử do hệ thống định danh và xác thực điện tử quốc gia cung cấp.
+
+Ngân hàng cũng có thể sử dụng dữ liệu sinh trắc học đã thu thập trước đó nếu bảo đảm sự trùng khớp giữa dữ liệu của người giao dịch và dữ liệu trên thẻ CCCD hoặc tài khoản định danh điện tử.
+
+Một số loại thẻ ngân hàng (Ảnh: Vĩ Quang).
+
+Đối với người nước ngoài không có danh tính điện tử, hoặc người gốc Việt Nam chưa xác định được quốc tịch, ngân hàng sẽ thực hiện gặp mặt trực tiếp để thu thập dữ liệu sinh trắc học. Trường hợp sử dụng CCCD không có bộ phận lưu trữ thông tin mã hóa, việc xác thực được thực hiện qua dữ liệu sinh trắc học trong Cơ sở dữ liệu quốc gia về dân cư.
+
+Thông tư 45 cũng bổ sung quy định đối với khách hàng là tổ chức. Theo đó, tổ chức phải có văn bản ủy quyền cho cá nhân được phép sử dụng thẻ; cá nhân này được xác định là chủ thẻ phụ và chịu trách nhiệm trong phạm vi được ủy quyền.
+
+Bên cạnh đó, Thông tư cho phép lắp đặt thiết bị chấp nhận thẻ tại chi nhánh, phòng giao dịch hoặc điểm đại lý thanh toán của tổ chức thanh toán thẻ, nhằm tạo điều kiện thuận tiện hơn cho chủ thẻ trong việc rút tiền mặt.
+
+Về hạn mức rút tiền mặt qua thẻ tín dụng, NHNN quy định tổng hạn mức tối đa là 100 triệu đồng mỗi tháng cho một chủ thẻ, áp dụng theo BIN - “mã định danh” của thẻ.
+
+Đáng chú ý, Thông tư 45 bãi bỏ yêu cầu khách hàng cá nhân là người nước ngoài phải có thời gian cư trú tối thiểu 12 tháng tại Việt Nam khi đề nghị phát hành thẻ. Thay vào đó, thời hạn sử dụng thẻ được xác định không vượt quá thời gian cư trú còn lại của khách hàng tại Việt Nam.

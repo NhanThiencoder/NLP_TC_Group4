@@ -1,0 +1,19 @@
+Nhà sản xuất robot AgiBot tại Thượng Hải hôm 11/3 hé lộ mẫu robot hình người mới Lingxi X2 với khả năng di chuyển giống con người.
+
+Robot hình người Trung Quốc đạp xe Robot hình người Lingxi X2 có thể đạp xe và thực hiện nhiều nhiệm vụ khó. Video: CCTV
+
+Với khả năng phản hồi nhanh chóng khi tương tác với người dùng, robot Lingxi X2 cho thấy sự kết hợp xuất sắc giữa trí tuệ nhân tạo (AI) và công nghệ robot hình người, mang đến tiềm năng ứng dụng lớn trong những lĩnh vực như chăm sóc người cao tuổi và hỗ trợ gia đình.
+
+Lingxi X2 cao 1,3 m và nặng 33,8 kg, được chế tạo bằng vật liệu mềm dẻo chống va đập. Trong video do Peng Zhihui, nhà đồng sáng lập AgiBot, công bố, robot thể hiện khả năng thể thao, tương tác và vận hành của mình. Không chỉ đi bộ, chạy, xoay và nhảy giống con người, robot này còn có thể đi xe đạp, xe điện scooter và giữ thăng bằng trên xe điện tự cân bằng hoverboard.
+
+Trước đó, AgiBot cũng trình làng Genie Operator-1 (GO-1), mô hình AI giúp tăng cường khả năng của robot hình người bằng cách xử lý dữ liệu hình ảnh và video để cải thiện hiệu suất làm nhiệm vụ và khả năng diễn giải hành động của con người. Công ty cho biết, GO-1 đã đánh bại nhiều mô hình tiên tiến trong các bài kiểm tra hiệu suất, bao gồm 5 nhiệm vụ, tăng tỷ lệ thành công từ 46% lên 78%. Tỷ lệ này tăng đáng kể trong những nhiệm vụ khó như rót nước và bổ sung đồ uống.
+
+Theo AgiBot, GO-1 đại diện cho một bước đột phá với robot tích hợp AI vì nó có thể học hỏi từ cả dữ liệu của con người lẫn robot, thích ứng với nhiệm vụ mới và hoạt động trên nhiều nền tảng robot khác nhau, đồng thời liên tục tiến bộ trong môi trường thực tế.
+
+GO-1 là bộ não đằng sau Lingxi X2. Khi xem xét biểu cảm khuôn mặt và tông giọng của con người, robot có thể xác định chính xác trạng thái cảm xúc, từ đó đưa ra phản ứng phù hợp và chân thực. Robot có thể truyền đạt cảm xúc chính xác hơn bằng cách mô phỏng các kiểu thở của con người, lặng lẽ "quan sát" môi trường xung quanh, bộc lộ những chuyển động và ngôn ngữ cơ thể tinh tế.
+
+Lingxi X2 thực hiện tốt các chức năng chính như quản gia, dọn dẹp và bảo vệ. Nó cũng có thể được điều chỉnh để hoạt động trong lĩnh vực chăm sóc sức khỏe, giáo dục và nhiều lĩnh vực khác.
+
+"Công ty dự định tiếp tục khám phá các ứng dụng của robot hình người trong nhiều tình huống hơn. Với khả năng tiên tiến của mình, X2 được kỳ vọng sẽ trở thành một trợ lý quan trọng trong đời sống của con người, mở ra nhiều khả năng hơn cho cuộc sống thông minh trong tương lai", AgiBot cho biết.
+
+Thu Thảo (Theo Interesting Engineering)

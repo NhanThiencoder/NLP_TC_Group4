@@ -1,0 +1,101 @@
+Trong thời đại chuyển đổi số sâu rộng, đất nước đang hướng tới xây dựng Chính phủ số, kinh tế số, xã hội số. Các hệ thống thông tin của cơ quan Đảng, Nhà nước, lực lượng vũ trang và các tổ chức có vai trò lớn về chính trị – an ninh ngày càng được số hóa, liên thông, chia sẻ và lưu trữ khối lượng dữ liệu lớn; trong đó, có nhiều dữ liệu thuộc danh mục bí mật nhà nước.
+
+Cùng với cơ hội nâng cao hiệu quả quản lý và điều hành là nguy cơ bị tấn công mạng, an ninh mạng bị đe doạ, mất an toàn thông tin mạng (đó là nguy cơ mất an toàn thông tin, rò rỉ bí mật dữ liệu, chiếm quyền hệ thống, gián điệp mạng, tấn công từ nước ngoài…).
+
+Nếu để xảy ra vi phạm, hậu quả không chỉ là mất mát thông tin mà có thể ảnh hưởng tới chủ quyền, định hướng phát triển của quốc gia, niềm tin của nhân dân và uy tín quốc tế.
+
+Tuy nhiên, cùng với quá trình số hoá đó là sự leo thang chưa từng có của các nguy cơ an ninh phi truyền thống trên không gian mạng.
+
+Việc bảo đảm an ninh mạng và an toàn thông tin cho các hệ thống chứa dữ liệu bí mật nhà nước là một phần không thể tách rời của công tác bảo vệ an ninh quốc gia, bảo đảm trật tự, an toàn xã hội.
+
+Theo kết quả khảo sát của Hiệp hội An ninh mạng Quốc gia (NCA) cho thấy chỉ riêng năm 2024, có khoảng 46,15% tổ chức, doanh nghiệp tại Việt Nam đã bị tấn công mạng ít nhất một lần trong năm; có tổng số 659.000 sự cố tấn công mạng nhằm vào các tổ chức tại Việt Nam.
+
+Trong 10 tháng đầu năm 2025, đã ghi nhận hơn 13.800 cuộc tấn công mạng gây sự cố, tăng 32% so với cùng kỳ năm 2024. Đặc biệt, có 6,5 triệu tài khoản cá nhân bị đánh cắp, gần 4.000 tên miền lừa đảo (phishing), hơn 547.000 cuộc tấn công từ chối dịch vụ (DDoS) – phần lớn được tự động hoá bởi công nghệ AI.
+
+Ngoài ra, trong 6 tháng đầu năm 2025, Việt Nam ghi nhận hơn 155 triệu bản ghi dữ liệu bị rò rỉ và 4,5 triệu tài khoản bị xâm phạm, tương đương 12,6% tổng số vi phạm toàn cầu, với thiệt hại do tấn công mã độc tống tiền (ransomware) ước tính hơn 10 triệu USD, dữ liệu mã hóa vượt 3 terabyte (VnEconomy, 2025).
+
+Đặc trưng của các cuộc tấn công mạng hiện nay, với các hình thức tấn công mạng đã chuyển dịch từ xâm nhập, phá hoại đơn lẻ sang chiến dịch có tổ chức, mang tính chiến lược và kéo dài, kết hợp cả yếu tố kỹ thuật – tâm lý – truyền thông.
+
+Một số phương thức đáng chú ý, gồm: Tấn công có chủ đích (APT) vào các hệ thống dữ liệu dân cư, tài chính – ngân hàng, năng lượng, y tế, và hạ tầng trọng yếu quốc gia.
+
+Lợi dụng trí tuệ nhân tạo (AI) để tạo ra các mã độc tự học, tự ẩn mình, và các chiến dịch deepfake phục vụ thao túng nhận thức, giả mạo lãnh đạo, gây mất uy tín tổ chức.
+
+Khai thác chuỗi cung ứng phần mềm (Supply Chain Attacks), đặc biệt qua thư viện mã nguồn mở và API. Chiếm quyền điều khiển thiết bị IoT và hệ thống điều khiển công nghiệp (SCADA), gây gián đoạn chuỗi sản xuất, năng lượng.
+
+Qua đó, phản ánh rõ ràng xu hướng ngày càng tinh vi và cấp thiết của tấn công mạng, điều đó đặt ra yêu cầu cấp bách, không thể chần chừ là cần tăng cường công tác bảo đảm an ninh mạng, an toàn thông tin mạng cho hệ thống thông tin, đặc biệt là các hệ thống chứa dữ liệu nội bộ, dữ liệu chứa bí mật nhà nước, phải được xác định là nhiệm vụ chiến lược và thường xuyên của các cấp, các ngành và địa phương.
+
+Hiện nay, trong môi trường số hóa và mạng, việc bảo vệ dữ liệu bí mật nhà nước không đơn thuần là ngăn chặn rò rỉ mà còn phải bảo đảm đầy đủ ba yếu tố: tính bảo mật (confidentiality), tính toàn vẹn (integrity) và tính sẵn sàng (availability) của hệ thống thông tin và dữ liệu.
+
+Để hoàn thiện hệ thống pháp lý nhằm thực hiện có hiệu quả công tác đảm bảo ANM (an ninh mạng), ATTTM (an toàn thông tin mạng), Đảng và Nhà nước đã ban hành hệ thống các văn bản quy phạm pháp luật, như: Luật An toàn thông tin mạng 2015 (quy định trách nhiệm bảo đảm an toàn mạng đối với hệ thống thông tin quan trọng); Luật Bảo vệ bí mật nhà nước 2018 (xác định phạm vi bí mật nhà nước, yêu cầu bảo vệ, phân cấp lưu trữ và truy cập); Luật An ninh mạng 2018 (quy định các hành vi xâm phạm an ninh quốc gia trên không gian mạng, trách nhiệm cơ quan chức năng); Luật Dữ liệu 2024 (có hiệu lực từ 01/7/2025); Luật Công nghệ Kỹ thuật số (sẽ có hiệu lực từ 01/01/2026); Nghị định 85/2016/NĐ‑CP về an toàn thông tin hệ thống thông tin...
+
+Vì vậy, các hệ thống thông tin nói chung và hệ thống thông tin quan trọng chứa dữ liệu bí mật nhà nước phải được phân loại rõ ràng, đánh giá cấp độ rủi ro, áp dụng giải pháp bảo mật phù hợp với từng cấp độ và đơn vị sử dụng phải chịu trách nhiệm trước pháp luật khi để xảy ra sự cố và vi phạm.
+
+Mặc dù, khung pháp lý đã tương đối đầy đủ, hoàn thiện, nhưng thực tế vẫn cho thấy nhiều khoảng trống và thách thức, như: Nhiều cơ quan, đơn vị chưa xây dựng và vận hành mô hình quản trị an toàn thông tin – kỹ thuật – con người một cách đồng bộ và bài bản; việc phân loại hệ thống, xác định cấp độ bảo mật thông tin, đánh giá rủi ro vẫn còn mang tính hình thức hoặc chưa phù hợp với yêu cầu thực tiễn; lực lượng chuyên trách về ANM, ATTTM tại nhiều cơ quan còn thiếu, yếu năng lực và kinh nghiệm xử lý thực chiến; công nghệ, phương thức tấn công, thủ đoạn khai thác ngày càng biến đổi nhanh (APT, ransomware, chuỗi cung ứng…), trong khi nhiều hệ thống vẫn vận hành theo cách truyền thống, thiếu cập nhật và kiểm định thường xuyên; nhân tố con người – người dùng cuối, vận hành hệ thống – vẫn là “mắt xích” yếu (ý thức bảo mật chưa cao, mở mail lạ, sử dụng mật khẩu yếu, chia sẻ tài khoản, rất dễ bị lợi dụng).
+
+Thực tiễn công tác bảo vệ ANM, ATTTM cho thấy, khi một hệ thống thông tin chứa dữ liệu bí mật nhà nước bị xâm nhập hoặc mất dữ liệu, hậu quả không chỉ về mặt nội bộ mà còn ảnh hưởng nặng nề khác, như: Lộ thông tin chiến lược, phương án, chủ trương chưa công bố khiến mất chủ động chỉ đạo, điều hành; hệ thống bị chiếm quyền hoặc mã hóa (ransomware) có thể làm gián đoạn hoạt động cơ quan, ảnh hưởng khả năng quản lý nhà nước.
+
+Các đối tượng xấu có thể sử dụng dữ liệu để tung tin thất thiệt, thao túng thông tin, phá hoại chính trị – xã hội làm giảm sút, ảnh hưởng nghiêm trọng đến uy tín của quốc gia, tổ chức, niềm tin của nhân dân và cộng đồng quốc tế.
+
+Do vậy, việc bảo đảm an ninh mạng và an toàn thông tin cho các hệ thống chứa dữ liệu bí mật nhà nước là một phần không thể tách rời của công tác bảo vệ an ninh quốc gia, bảo đảm trật tự, an toàn xã hội.
+
+Mặt khác, sự phát triển mạnh mẽ của công nghệ thông tin và ứng dụng trong đời sống xã hội đã làm xuất hiện ngày càng nhiều phương tiện, thiết bị và công nghệ hiện đại phục vụ cho hoạt động sao chép, lưu giữ, thu, truyền thông tin.
+
+Điều này tạo ra nhiều cửa mở cho vấn đề bảo vệ bí mật nhà nước, an ninh mạng và ATTTM. Đồng thời, các thế lực thù địch và đối tượng cơ hội chính trị lợi dụng triệt để công nghệ, thủ thuật tinh vi để tấn công, lấy cắp thông tin, tài liệu có nội dung bí mật nhà nước.
+
+Trong khi đó, nhận thức và kiến thức về CNTT, an ninh mạng, ATTTM của nhiều cán bộ, công chức, viên chức và người lao động còn hạn chế, chưa theo kịp trình độ phát triển của khoa học – công nghệ, ảnh hưởng đến công tác bảo vệ bí mật nhà nước và đảm bảo ATTTM.
+
+Hệ thống văn bản quy phạm pháp luật về lĩnh vực bảo vệ bí mật nhà nước và bảo đảm an ninh mạng, ATTTM vẫn còn chưa hoàn chỉnh và chưa đồng bộ, gây khó khăn cho việc triển khai thực hiện.
+
+Ví dụ: chưa có văn bản quy định về quản lý dịch vụ xuyên biên giới – trong đó có việc đăng ký, sử dụng và cung cấp dịch vụ, sử dụng tên miền quốc tế.
+
+Việc triển khai, tổ chức thực hiện các văn bản quy phạm pháp luật, văn bản chỉ đạo, hướng dẫn của Chính phủ, Bộ Công an và các cơ quan có thẩm quyền liên quan trực tiếp tới công tác bảo vệ bí mật nhà nước và đảm bảo an ninh mạng, ATTTM tuy đã được lãnh đạo quan tâm nhưng công tác phổ biến, quán triệt hiệu quả chưa cao; việc nghiên cứu, tìm hiểu pháp luật về bảo vệ bí mật nhà nước, an ninh mạng, ATTTM của cán bộ, công chức, viên chức còn hạn chế, chưa nắm vững đầy đủ các quy định hiện hành.
+
+Qua công tác thanh tra về việc chấp hành các quy định của pháp luật về bảo vệ bí mật nhà nước, an ninh mạng và ATTTM của Bộ Công an (Thanh tra Bộ) thời gian qua cũng cho thấy, còn nhiều hệ thống thông tin của các cơ quan, đơn vị được thanh tra chưa được xây dựng và đề xuất hồ sơ cấp độ để bảo vệ theo quy định hoặc đã xây dựng nhưng hồ sơ cấp độ chưa đảm bảo về tính thực tế, nhiều giải pháp đảm bảo ANM, ATTTM chưa được bổ sung kịp thời sau thời điểm hồ sơ cấp độ được phê duyệt; chưa có phương án quản lý truy cập giữa các vùng mạng và phòng, chống xâm nhập; chưa xây dựng phương án ứng phó, khắc phục sự cố ANM cho các hệ thống thông tin.
+
+Công tác lãnh đạo, chỉ đạo, hướng dẫn, kiểm tra về công tác bảo vệ bí mật nhà nước và đảm bảo an ninh mạng, ATTTM vẫn hạn chế, chưa thường xuyên; việc thực hiện kiến nghị của cơ quan có thẩm quyền về công tác bảo vệ bí mật nhà nước, an ninh mạng, ATTTM của một số đơn vị chưa được nghiêm túc, triệt để.
+
+Ý thức người dùng cuối, nhân viên vận hành và quản trị hệ thống chưa được nâng cao tương xứng với mức độ rủi ro. Việc mở email không rõ nguồn, sử dụng mật khẩu yếu, chia sẻ tài khoản, không sao lưu định kỳ vẫn tồn tại.
+
+Những “yếu huyệt con người” này vẫn là mục tiêu khai thác thường xuyên của tội phạm mạng.
+
+Nhằm nâng cao chất lượng, hiệu quả công tác đảm bảo an ninh mạng, an toàn thông tin cho các hệ thống thông tin, đặc biệt là các hệ thống chứa dữ liệu bí mật nhà nước, cần triển khai đồng bộ các giải pháp trọng tâm sau:
+
+Một là, xây dựng chiến lược tổng thể và lồng ghép vào chuyển đổi số: Triển khai có hiệu quả, đồng bộ đề án về chiến lược an ninh mạng, ATTTM ở cấp quốc gia, cấp ngành, cấp cơ quan – trong đó ưu tiên nhóm hệ thống thông tin của các cơ quan Đảng, Nhà nước, các tổ chức có vai trò về an ninh - chính trị và nhóm hệ thống thông tin chứa dữ liệu bí mật nhà nước.
+
+Trong đó, lồng ghép công tác bảo mật từ giai đoạn thiết kế – đầu tư – vận hành hệ thống thông tin, tránh tình trạng “bảo mật là bổ sung sau”.
+
+Đánh giá và dự trù nguồn lực, ngân sách cho bảo mật mạng – đảm bảo rằng công tác bảo mật được hưởng ưu tiên tương xứng với tính chất chiến lược của dữ liệu.
+
+Hai là, áp dụng mô hình quản trị ba lớp: Quản trị – Kỹ thuật – Con người: Tập trung xây dựng chính sách, quy trình, phân quyền, đánh giá rủi ro, kiểm định định kỳ, phân loại hệ thống theo mức độ bảo mật; xác định rõ trách nhiệm người đứng đầu.
+
+Áp dụng mã hóa dữ liệu ở cả khi lưu trữ và truyền tin; xác thực đa yếu tố (MFA); xây dựng trung tâm giám sát và cảnh báo sớm (SOC); sao lưu và khôi phục dữ liệu định kỳ; thực hiện kiểm thử xâm nhập (penetration test), đánh giá an ninh mạng định kỳ; chú trọng ngăn chặn ransomware, APT, tấn công chuỗi cung ứng.
+
+Để có nguồn nhân lực số đáp ứng trình độ triển khai được các biện pháp, giải pháp kỹ thuật cần tăng cường đào tạo, tập huấn cho cán bộ, công chức, viên chức và người sử dụng hệ thống về nhận thức an toàn thông tin mạng; tổ chức diễn tập xử lý sự cố mạng; xây dựng văn hóa “an toàn thông tin là nhiệm vụ của mọi người”.
+
+Ba là, tăng cường công tác phối hợp liên ngành, chia sẻ thông tin và trao đổi thông tin kịp thời cho các cơ quan chức năng, cơ quan chuyên trách bảo vệ ANM, ATTTM: Tăng cường phối hợp giữa Bộ Công an, Bộ Quốc phòng, Bộ Thông tin & Truyền thông (cũ), các bộ, ngành, địa phương, doanh nghiệp để chia sẻ thông tin về mối đe dọa mạng, cảnh báo sớm, ứng cứu sự cố.
+
+Thiết lập cơ chế phối hợp nhanh giữa lực lượng chuyên trách an ninh mạng và các cơ quan chủ quản hệ thống thông tin chứa bí mật nhà nước: từ kiểm định, giám sát, đến điều tra và xử lý sự cố.
+
+Khuyến khích thiết lập Trung tâm Giám sát An toàn Thông tin (SOC) cấp ngành/địa phương kết nối với trung tâm quốc gia để nâng cao năng lực phản ứng.
+
+Bốn là, rà soát xây dựng, hoàn thiện hồ sơ đề xuất cấp độ cho các hệ thống thông tin, hệ thống dữ liệu bí mật nhà nước trong môi trường số: Người đứng đầu các cơ quan, tổ chức quản lý hệ thống thông tin cần xác định cấp độ cho hệ thống thông tin cần bảo vệ; khẩn trương bổ sung, hoàn thiện hồ sơ đề xuất cấp độ an toàn thông tin tuân thủ theo Nghị định 85/2016/NĐ-CP (ngày 01/7/2016); chủ động thực hiện rà quét mã độc, khắc phục các lỗ hổng, điểm yếu trong cấu hình và quản lý các giải pháp bảo mật trong hệ thống; Rà soát toàn bộ các hệ thống thông tin đang quản lý – đặc biệt các hệ thống cũ không còn sử dụng chứa nhiều lỗ hổng bảo mật – trở thành “bàn đạp” để tin tặc tấn công các hệ thống khác.
+
+Phân loại rõ ràng từng loại dữ liệu (dữ liệu về tài liệu nội bộ, dữ liệu thuộc bí mật nhà nước) và xác định mức độ bảo vệ phù hợp với điều kiện số hóa.
+
+Yêu cầu các hệ thống thông tin lưu trữ, xử lý dữ liệu bí mật phải đạt tiêu chuẩn an toàn thông tin tương ứng với cấp độ. Phân quyền truy cập nghiêm ngặt: chỉ cho cá nhân/tổ chức đủ điều kiện truy cập; ghi nhật ký truy cập; giám sát thay đổi, truy cập trái phép.
+
+Kiểm định hệ thống: audit ATTTM, penetration-test, đánh giá rủi ro, thử nghiệm xử lý sự cố – đặc biệt với hệ thống trọng yếu quốc gia.
+
+Năm là, đầu tư hạ tầng và công nghệ bảo mật hiện đại cho các hệ thống thông tin, nhất là những hệ thống thông tin quan trọng về an ninh quốc gia: Quan tâm bố trí nguồn kinh phí đầu tư hạ tầng bảo mật thế hệ mới: mã hóa dữ liệu ở lớp lưu trữ và truyền tin; xác thực đa yếu tố; quản lý truy cập tập trung (IAM); công nghệ phân tích hành vi, trí tuệ nhân tạo hỗ trợ phát hiện sớm và phản ứng nhanh.
+
+Triển khai sao lưu và khôi phục dữ liệu (backup & disaster recovery) cho tất cả hệ thống chứa dữ liệu bí mật nhà nước để đảm bảo khả năng phục hồi. Áp dụng tiêu chuẩn quốc tế/quốc gia về an toàn thông tin (ví dụ ISO/IEC 27001, tiêu chuẩn TCVN, …) và tuân thủ kiểm định/chứng nhận bắt buộc. Triển khai mô hình Zero Trust cho các hệ thống chứa dữ liệu bí mật nhà nước.
+
+Trong kỷ nguyên số, bảo đảm an ninh mạng và an toàn thông tin chính là tuyến phòng thủ đầu tiên của quốc gia số. Mọi hệ thống thông tin, dù nhỏ hay lớn đều có thể trở thành mắt xích của an ninh quốc gia nếu không được bảo vệ đúng mức.
+
+Với các hệ thống thông tin quan trọng về an ninh quốc gia, hệ thống thông tin chứa dữ liệu bí mật nhà nước, việc bảo đảm an toàn, bảo mật không chỉ là điều kiện vận hành mà còn là điều kiện để bảo vệ chủ quyền, phương hướng phát triển của đất nước, bảo đảm ổn định chính trị – xã hội và niềm tin nhân dân.
+
+Do vậy, công tác này cần được xác định là nhiệm vụ chiến lược, thường xuyên, liên ngành và toàn dân. Lãnh đạo các cơ quan, đơn vị, nhất là người đứng đầu phải nâng mức ưu tiên, bố trí nguồn lực đầy đủ; cán bộ, viên chức phải nâng cao nhận thức và trách nhiệm; lực lượng chuyên trách phải đổi mới, nâng cao năng lực và hợp tác chặt chẽ.
+
+Nếu chúng ta chủ động, đồng bộ và quyết liệt, không chỉ bảo vệ được dữ liệu bí mật nhà nước trên không gian mạng mà còn xây dựng được niềm tin số, khẳng định một “Việt Nam số an toàn, hùng cường và thịnh vượng”.
+
+Thạc sĩ Lê Đăng Phương, Thanh tra viên chính, Thanh tra Bộ Công an

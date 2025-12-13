@@ -1,0 +1,63 @@
+Trong một bước tiến lịch sử của ngành công nghệ sinh học, Atlas Data Storage, công ty tiên phong của Mỹ vừa chính thức công bố Atlas Eon 100 vào ngày 2/12. Công nghệ này cho phép mã hóa dữ liệu vào DNA tổng hợp nhằm tạo ra nền tảng lưu trữ có tuổi thọ vượt xa mọi phương tiện hiện hành.
+
+Theo giới nghiên cứu, đây có thể là bước khởi đầu của một kỷ nguyên lưu trữ sinh học mà trong đó di sản số của nhân loại được bảo vệ theo cách bền vững nhất.
+
+Atlas Eon 100 chính thức được công bố vào ngày 2/12 (Ảnh: Getty).
+
+Từ mã nhị phân đến ngôn ngữ của sự sống
+
+Atlas Data Storage, công ty đặt trụ sở tại California, cho biết hệ thống Atlas Eon 100 là dịch vụ lưu trữ thương mại đầu tiên sử dụng DNA tổng hợp ở quy mô lớn. Thông tin số sẽ được chuyển đổi từ các dãy 0 và 1 quen thuộc sang bốn ký tự tạo nên vật chất di truyền gồm: Adenine (A), Cytosine (C), Guanine (G) và Thymine (T).
+
+Mã hóa dữ liệu bằng DNA không phải là ý tưởng hoàn toàn mới. Một trong những thử nghiệm đầu tiên được công bố trên tạp chí Nature năm 2012 cho thấy các nhà nghiên cứu có thể lưu trữ sách, hình ảnh và phần mềm trong DNA tổng hợp với độ chính xác cao.
+
+Những năm sau đó, một số nhóm của Đại học Washington và Microsoft Research tiếp tục chứng minh khả năng lưu trữ ổn định của DNA khi được bảo quản trong điều kiện khô và tối.
+
+Các nghiên cứu từ năm 2012 đã cho thấy DNA tổng hợp có thể lưu trữ sách, hình ảnh và phần mềm với độ chính xác cao, mở đường cho công nghệ lưu trữ bền vững trong điều kiện khô và tối (Ảnh: Getty).
+
+Điểm mới của Atlas Eon 100 nằm ở việc hiện thực hóa công nghệ này dưới dạng một hệ thống có thể triển khai ở mức doanh nghiệp. Công ty cho biết DNA tổng hợp được khử nước và đóng gói trong điều kiện tối ưu để duy trì trạng thái ổn định.
+
+Ở trạng thái này, các phân tử DNA không chịu ảnh hưởng bởi quá trình oxy hóa hay phân hủy sinh học, giúp dữ liệu tồn tại hàng nghìn năm mà không cần cấp điện hoặc bảo trì định kỳ.
+
+Ông Bill Banyai, người sáng lập Atlas Data Storage, nhận định: “Atlas vinh dự là công ty duy nhất trên toàn cầu triển khai sản phẩm lưu trữ dựa trên công nghệ DNA ở quy mô lớn. Đây là kết tinh của hơn một thập kỷ nghiên cứu đa ngành, mang đến giải pháp tối ưu cho việc lưu trữ dài hạn”.
+
+Atlas Eon 100 sử dụng DNA tổng hợp được khử nước và đóng gói đặc biệt, giúp dữ liệu tồn tại hàng nghìn năm mà không cần điện hay bảo trì (Ảnh: Getty).
+
+Lời giải cho bài toán tuổi thọ kỹ thuật số
+
+Các nhà khoa học nhiều lần cảnh báo rằng hầu hết phương tiện lưu trữ hiện nay đều có tuổi thọ ngắn. Ổ cứng cơ học thường gặp lỗi sau khoảng 10 năm do bộ phận chuyển động xuống cấp. Bộ nhớ flash dễ mất dữ liệu sau 1-2 thập kỷ vì sự rò điện. Đĩa DVD và Blu-ray cũng bị giới hạn bởi quá trình lão hóa của lớp vật liệu quang học.
+
+Theo Viện Tiêu chuẩn và Công nghệ Hoa Kỳ, nhiều trung tâm dữ liệu lớn phải chép lại dữ liệu định kỳ để tránh hư hỏng, khiến chi phí vận hành tăng cao. Mỗi năm, hàng triệu thiết bị lưu trữ bị loại bỏ tạo ra lượng rác thải điện tử đáng kể.
+
+Tuổi thọ ngắn của ổ cứng, bộ nhớ flash và đĩa quang buộc các trung tâm dữ liệu phải sao lưu liên tục, làm tăng chi phí và tạo ra lượng lớn rác thải điện tử mỗi năm (Ảnh minh họa).
+
+Trong khi đó, DNA được tự nhiên chứng minh là một cấu trúc lưu trữ bền vững. Các mẫu DNA của động vật cổ đại được tìm thấy trong băng giá có thể tồn tại hơn một triệu năm. Nghiên cứu đăng trên tạp chí Nature Communications năm 2021 cho thấy DNA giữ được độ ổn định cao trong điều kiện khô và tối, ngay cả ở nhiệt độ phòng.
+
+Atlas Eon 100 được xây dựng dựa trên những bằng chứng này. Công ty cho biết mật độ lưu trữ của DNA cao hơn ổ cứng truyền thống hàng nghìn lần. Một lượng dữ liệu lớn có thể nằm gọn trong một ống lưu trữ nhỏ bằng ngón tay. Độ tin cậy được công bố lên tới 99,99999999999%, đồng nghĩa xác suất sai sót gần như bằng không.
+
+Khả năng bảo tồn di sản số trong nhiều thế hệ
+
+Các chuyên gia văn hóa và lưu trữ xem công nghệ DNA là hướng đi nhiều triển vọng để bảo toàn thông tin dài hạn. Khi tài liệu giấy, phim ảnh hay bản ghi số dễ bị hư hại theo thời gian, DNA tổng hợp có thể đóng vai trò như một dạng “biểu hiện vật chất” bền bỉ của dữ liệu.
+
+Những bản scan hiện vật, tư liệu lịch sử, ngôn ngữ cổ hoặc các bản ghi âm truyền miệng có thể được mã hóa và bảo quản mà không cần lo lắng về nhu cầu tái sao chép. Các bảo tàng và thư viện có thể giảm đáng kể chi phí duy trì hệ thống kho lạnh hay máy chủ.
+
+Một số nhóm nghiên cứu quốc tế từng đề xuất sử dụng DNA để lưu trữ thông tin về các di tích đang đối mặt với biến đổi khí hậu, bao gồm bản đồ, mô phỏng kiến trúc hoặc dữ liệu khảo cổ.
+
+DNA tổng hợp mở ra cách lưu giữ tài liệu và hiện vật số bền vững hơn (Ảnh: Getty).
+
+Trong lĩnh vực khoa học, nhu cầu lưu trữ lâu dài các bộ dữ liệu lớn đang tăng mạnh. Các kho dữ liệu khí hậu, mô phỏng sinh học, quan trắc thiên văn hay dữ liệu huấn luyện trí tuệ nhân tạo đều cần giải pháp an toàn hơn.
+
+Theo ước tính từ Cơ quan Năng lượng Quốc tế, các trung tâm dữ liệu toàn cầu tiêu thụ khoảng 460TWh điện mỗi năm, tương đương mức tiêu thụ của toàn bộ nước Pháp. Chuyển một phần dữ liệu sang DNA có thể giảm đáng kể gánh nặng năng lượng.
+
+Tham vọng mở rộng tới dung lượng cấp terabyte
+
+Atlas Eon 100 hiện ở giai đoạn dịch vụ thương mại đầu tiên. Mục tiêu dài hạn của công ty là phát triển hệ thống cho phép lưu trữ ở quy mô terabyte, đồng thời giảm chi phí tổng hợp DNA xuống mức có thể tiếp cận rộng rãi hơn.
+
+Những trở ngại kỹ thuật vẫn còn tồn tại. Chi phí tổng hợp và giải trình tự DNA hiện cao hơn nhiều so với chi phí lưu trữ từ tính. Tuy nhiên, tốc độ giảm giá trong ngành sinh học phân tử rất nhanh.
+
+Theo báo cáo của Viện Sức khỏe Quốc gia Hoa Kỳ, chi phí giải trình tự đã giảm hơn 1 triệu lần trong 2 thập kỷ qua. Nếu xu hướng này tiếp tục, chi phí lưu trữ bằng DNA có thể tiếp cận mức khả thi trong tương lai.
+
+Một số nhóm nghiên cứu quốc tế cũng đang phát triển thuật toán mã hóa mạnh hơn nhằm tăng mật độ thông tin và giảm rủi ro lỗi khi đọc lại dữ liệu. Các phương pháp bảo vệ DNA bằng vật liệu silica hoặc polymer có thể giúp tăng độ bền trong nhiều môi trường khác nhau.
+
+Sự ra mắt của Atlas Eon 100 đưa DNA từ phòng thí nghiệm bước vào thế giới ứng dụng. DNA từ lâu đã được coi là cấu trúc tối ưu để lưu trữ thông tin vì khả năng nén cao và độ ổn định vượt thời gian. Việc tận dụng chính nguyên lý của tự nhiên để giải quyết thách thức lưu trữ đang trở thành hướng đi có tính bền vững hơn so với những giải pháp phụ thuộc năng lượng.
+
+Khi lượng dữ liệu toàn cầu dự kiến chạm mốc hơn 180 zettabyte vào cuối thập kỷ này, việc tìm kiếm phương pháp lưu trữ dài hạn là nhu cầu không thể tránh khỏi. Công nghệ DNA có thể không thay thế hoàn toàn kho lưu trữ điện tử, nhưng có triển vọng trở thành lớp nền tảng cho những dữ liệu cần bảo tồn lâu dài nhất.

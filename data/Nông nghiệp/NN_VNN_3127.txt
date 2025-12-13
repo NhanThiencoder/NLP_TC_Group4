@@ -1,0 +1,17 @@
+EVN cho biết tập đoàn đã hoàn thiện Đề án “Xây dựng hệ thống giá bán điện hai thành phần (giá công suất và giá điện năng) và lộ trình áp dụng cho ngành điện Việt Nam” theo chỉ đạo của Bộ Công Thương.
+
+Theo đó, Bộ Công Thương đã đồng ý phương án triển khai áp dụng thử nghiệm giá bán lẻ điện hai thành phần (gồm giá công suất và giá điện năng) trên giấy từ tháng 10/2025. Đối tượng áp dụng là các nhóm khách hàng sản xuất, do EVN và các đơn vị thành viên bán lẻ trực tiếp, có sản lượng điện tiêu thụ bình quân từ 200.000 kWh/tháng trở lên (tính trung bình 12 tháng gần nhất).
+
+Việc triển khai thử nghiệm tính toán trên giấy với số liệu thực tế nhằm tiến tới thực hiện chủ trương áp dụng giá điện hai thành phần đã được quy định tại Điều 50 Luật Điện lực (sửa đổi) năm 2024. Qua đó, từng bước thay thế các biểu giá điện một thành phần trong cơ cấu biểu giá bán lẻ điện hiện nay, đảm bảo phù hợp điều kiện hạ tầng kỹ thuật của ngành điện, các vấn đề pháp lý cũng như mức độ thích nghi với biểu giá mới của hộ tiêu dùng.
+
+EVN nhấn mạnh, giá điện hai thành phần là giá điện bao gồm giá công suất sử dụng lớn nhất và giá điện năng, tiền điện mà người tiêu dùng phải thanh toán sẽ bao gồm hai phần: phần trả cho công suất sử dụng thể hiện chi phí cố định của quá trình cung ứng điện và phần trả cho điện năng tiêu dùng phản ánh chi phí biến đổi phát sinh theo mức sử dụng điện thực tế của khách hàng.
+
+Với nguyên tắc xây dựng như vậy nên giá điện hai thành phần là thông điệp hữu hiệu cho khách hàng sử dụng điện luôn quan tâm đến chế độ sử dụng điện. Bởi, cùng sản lượng tiêu dùng như nhau nhưng khách hàng giảm được công suất sử dụng (Pmax) thì tiền điện sẽ giảm, đồng thời cũng giúp ngành điện giảm được công suất mang tải cực đại của hệ thống điện, góp phần vận hành hệ thống điện hiệu quả hơn, tiết kiệm chi phí đầu tư và sử dụng hợp lý nguồn lực xã hội.
+
+Tổng số tiền điện khách hàng theo giá điện hai thành phần được tính theo công thức:
+
+Biểu giá thử nghiệm giá bán điện hai thành phần:
+
+EVN cũng cho biết, từ tháng 10, các tổng công ty điện lực, công ty điện lực sẽ thực hiện gửi thông báo kết quả tính toán tiền điện thử nghiệm trên giấy theo giá bán điện hai thành phần cho khách hàng thuộc đối tượng thử nghiệm, trong đó có so sánh về tiền điện theo biểu giá điện một thành phần hiện hành và tiền điện theo giá điện hai thành phần.
+
+“Đây mới chỉ là hoạt động thử nghiệm và tính toán trên giấy, chưa áp dụng trên hóa đơn tiền điện thực tế trong thời gian thử nghiệm”, EVN lưu ý thêm.

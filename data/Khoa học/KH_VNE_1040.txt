@@ -1,0 +1,17 @@
+AnhNhóm nghiên cứu từ Đại học Cambridge phát triển lò phản ứng chạy bằng năng lượng Mặt Trời với khả năng loại bỏ trực tiếp CO2 khỏi khí quyển.
+
+Các nhà nghiên cứu phát triển lò phản ứng lấy CO2 trực tiếp từ không khí và chuyển thành nhiên liệu bền vững. Ảnh: Đại học Cambridge
+
+"Chuyện gì xảy ra nếu thay vì bơm CO2 xuống lòng đất, chúng ta lại tạo ra thứ gì đó hữu ích từ nó? CO2 là một loại khí nhà kính có hại, nhưng có thể được chuyển thành hóa chất hữu ích mà không góp phần gây ấm lên toàn cầu", tác giả chính của nghiên cứu, tiến sĩ Sayan Kar từ Khoa Hóa học Yusuf Hamied thuộc Đại học Cambridge, cho biết. Nghiên cứu mới được công bố trên tạp chí Nature Energy, Interesting Engineering hôm 14/2 đưa tin.
+
+Khác với các phương pháp thu giữ và lưu trữ carbon (CCS) truyền thống, đòi hỏi đầu vào năng lượng đáng kể và lưu trữ CO2 dưới lòng đất dài hạn, lò phản ứng mới không sử dụng năng lượng từ nhiên liệu hóa thạch. Lấy cảm hứng từ quá trình quang hợp, nhóm nghiên cứu thiết kế một hệ thống tự duy trì hoạt động mà không cần nguồn năng lượng bên ngoài, dây cáp hay pin.
+
+Lò phản ứng chạy bằng năng lượng Mặt Trời lấy CO2 trực tiếp từ khí quyển, lưu trữ nó trong những bộ lọc chuyên dụng vào ban đêm giống như miếng bọt biển hút nước. Ban ngày, lò phản ứng chuyển đổi CO2 thành khí tổng hợp syngas - thành phần quan trọng để sản xuất hóa chất, dược phẩm và nhiên liệu - thông qua một phản ứng hóa học xảy ra khi CO2 được làm nóng. Quá trình không phát thải trở lại môi trường.
+
+Lò phản ứng có một loại bột bán dẫn đón ánh sáng cực tím để cung cấp năng lượng cho quá trình chuyển đổi, và một chiếc gương giúp tập trung ánh sáng Mặt Trời để tăng hiệu suất. Thiết bị mới loại bỏ vấn đề về lưu trữ và vận chuyển CO2, giúp dễ dàng mở rộng quy mô hơn so với các công nghệ thu giữ carbon bằng năng lượng Mặt Trời trước đây.
+
+"Nếu sản xuất thiết bị này ở quy mô lớn, chúng ta có thể giải quyết hai vấn đề cùng lúc: loại bỏ CO2 khỏi khí quyển và tạo ra một lựa chọn sạch thay thế cho nhiên liệu hóa thạch", Kar nói.
+
+Nhóm nghiên cứu nhận thấy tiềm năng ứng dụng lớn trong ngành hóa chất và dược phẩm, nơi khí tổng hợp có thể dùng để sản xuất nhiều sản phẩm thiết yếu mà không làm trầm trọng thêm biến đổi khí hậu. Với lò phản ứng mới, các cá nhân và cộng đồng cũng có thể tự sản xuất nhiên liệu. Điều này sẽ rất hữu ích ở những khu vực xa xôi khó tiếp cận lưới điện và nhiên liệu hóa thạch.
+
+Thu Thảo (Theo Interesting Engineering)

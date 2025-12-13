@@ -1,0 +1,23 @@
+Nvidia sẽ trao học bổng cho những sinh viên xuất sắc trong nghiên cứu, khởi nghiệp về AI của Đại học Quốc gia TP HCM, tổng giá trị là 1 triệu USD.
+
+Ngày 6/11, Đại học Quốc gia TP HCM cho biết học bổng mang tên CEO của hãng là Jensen Huang. Đây là sáng kiến trong khuôn khổ hợp tác giữa Nvidia và đại học này nhằm phát triển hệ sinh thái trí tuệ nhân tạo (AI) tại Việt Nam.
+
+Học bổng được thí điểm trong hai năm 2025-2026, tổng giá trị là 1 triệu USD (gần 27 tỷ đồng). Trong đó, 800.000 USD dành cho tài nguyên GPU (bộ xử lý đồ họa), cấp trực tiếp cho sinh viên để làm dự án nghiên cứu, khởi nghiệp trong lĩnh vực AI. Còn lại, 200.000 USD cho các hoạt động đào tạo, phát triển kỹ năng, tiền thưởng.
+
+Trường cho hay đây là một trong những học bổng có giá trị lớn nhất từ doanh nghiệp cho sinh viên thuộc ngành Trí tuệ nhân tạo, Công nghệ thông tin, Khoa học máy tính, Khoa học dữ liệu, Điện tử - Viễn thông, Toán - Tin ứng dụng hoặc các ngành có định hướng AI.
+
+inh viên trường Đại học Công nghệ Thông tin gặp ông Keith Strier - Phó chủ tịch Tập đoàn Nvidia (ngoài cùng bên trái), tháng 4/2024. Ảnh: UIT
+
+Trong năm đầu tiên, học bổng gồm 50 suất, trao cho sinh viên xuất sắc ở năm cuối hoặc mới tốt nghiệp tại các trường trực thuộc Đại học Quốc gia TP HCM, gồm trường Bách khoa, Khoa học Tự nhiên, Quốc tế, Công nghệ Thông tin và An Giang.
+
+Sinh viên cần có điểm trung bình (GPA) tối thiểu 3.5/4 (tương đương 8.75/10), trình độ tiếng Anh IELTS 6.0 hoặc TOEFL iBT 80 trở lên, cùng hồ sơ chứng minh năng lực học tập, nghiên cứu và hoạt động ngoại khóa.
+
+Nếu trúng tuyển, họ được tham gia khóa đào tạo AI chuyên sâu "Zero-to-Hero" với chuyên gia Thung lũng Silicon (Mỹ), được học tập trên nền tảng Nvidia Deep Learning Institute, nhận tài trợ cho các khóa học và hội thảo chuyên ngành, đồng thời có cơ hội thực tập và tham gia các dự án về AI do Nvidia tổ chức.
+
+Siêu máy chủ Nvidia DGX A100 tại trường Đại học Công nghệ Thông tin, tháng 2/2024. Ảnh: UIT
+
+Nvidia thành lập năm 1993, ban đầu chuyên sản xuất chip cho game 3D. Sau này, hãng dần phát triển các phần mềm và chip AI tiên tiến. Bước ngoặt với hãng đến vào cuối năm 2022, khi OpenAI ra mắt ChatGPT, tạo nên cơn sốt trí tuệ nhân tạo trên toàn cầu. OpenAI phát triển công nghệ AI tạo sinh dựa trên các chip đồ họa của Nvidia.
+
+Nvidia hiện là hãng sản xuất chip đắt giá nhất thế giới, được định giá 5.000 tỷ USD vào cuối tháng 10.
+
+Lệ Nguyễn

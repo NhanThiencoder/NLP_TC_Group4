@@ -1,0 +1,13 @@
+iOS 26.1 tương thích với iPhone 11 trở lên, cũng như iPhone SE thế hệ hai. Bản cập nhật có thể tải về trên iPhone đủ điều kiện tại Cài đặt > Cài đặt chung > Cập nhật phần mềm.
+
+Theo Apple, để tải về iOS 26.1, iPhone cần ít nhất 17,77 GB bộ nhớ trống.
+
+Apple Intelligence trong iOS 26.1 đã hỗ trợ tiếng Việt. Ảnh: Du Lam
+
+Với người dùng Việt Nam, Apple Intelligence trong iOS 26.1 cuối cùng đã hỗ trợ tiếng Việt, dù còn một số tính năng chưa khả dụng như Dịch trực tiếp trong Điện thoại và FaceTime, Dịch trực tiếp với AirPods, tóm tắt thư thoại Voicemail, tóm tắt phiên âm Ghi chú. Các tính năng Apple Intelligence có sẵn ngôn ngữ tiếng Việt bao gồm Dịch trực tiếp trong Tin nhắn, nhận diện thông minh Visual Intelligence.
+
+Ngoài ra, iOS 26.1 có một số tính năng mới khác như tùy chỉnh Liquid Glass. Người dùng có thể tùy chỉnh Liquid Glass trong iOS 26.1, chọn giữa chế độ trong suốt hoặc điều chỉnh độ mờ bằng cách vào Settings > Display and Brightness, chọn Liquid Glass hoặc Tinted. Khác biệt thể hiện rõ nhất trong ứng dụng và thông báo màn hình khóa khi kích hoạt Tinted.
+
+Apple cũng giúp người dùng không còn vô tình bật camera khi đang khóa màn hình. Trong mục Camera trong Settings, tắt tùy chọn Lock Screen Swipe to Open Camera.
+
+Giao diện báo thức và đồng hồ thay đổi, để tắt báo thức hoàn toàn cần phải vuốt sang phải thay vì bấm nút dừng như trước.

@@ -1,0 +1,27 @@
+Title: Hệ thống giao dịch chứng khoán mới KRX sẽ vận hành từ ngày 5/5
+
+Ngày 2/4, Sở Giao dịch Chứng khoán TPHCM (HoSE) thông báo, hệ thống công nghệ thông tin (KRX) cho thị trường chứng khoán Việt Nam dự kiến vận hành chính thức vào ngày 5/5, theo kế hoạch triển khai đã được phê duyệt.
+
+Theo đó, HoSE cho biết ngày 5/5 trùng với ngày hiệu lực áp dụng của chỉ số kỳ tháng 4. Do đó, để đảm bảo công tác chuyển đổi và vận hành hệ thống được an toàn, thông suốt, HoSE quyết định thay đổi ngày hiệu lực áp dụng của Bộ chỉ số VNX-Index, VNDIAMOND, VNFINSELECT kỳ tháng 4 từ ngày 5/5 thành ngày 28/4.
+
+Bên cạnh đó, HoSE cũng thay đổi ngày hiệu lực áp dụng của việc cập nhật tỷ lệ free-float, khối lượng lưu hành và giới hạn tỷ trọng vốn hóa của Bộ chỉ số HOSE-Index, chỉ số VNSI, chỉ số VNFINLEAD kỳ tháng 4 từ ngày 5/5 sang ngày 28/4.
+
+KRX đang trong thời gian kiểm thử, từ ngày 17/3 đến ngày 11/4. Về nội dung kiểm thử, Công ty chứng khoán thử nghiệm giao dịch chứng khoán như một ngày giao dịch bình thường. HoSE cũng lưu ý công ty chứng khoán không được thử nghiệm các tình huống khác thường, không phù hợp thực tế.
+
+Hệ thống KRX chính thức được vận hành từ ngày 5/5 (Ảnh: Đăng Đức).
+
+Trước đó, ngày 11/3, Ủy ban Chứng khoán Nhà nước đã đưa thông báo về lộ trình triển khai hệ thống công nghệ thông tin mới. Ủy ban nêu nhiệm vụ các sở giao dịch (HoSE, HNX), Trung tâm Lưu ký và Bù trừ chứng khoán (VSDC) phải công bố về chức năng, tính năng mới của hệ thống mới được đưa vào vận hành để thị trường nắm được đầy đủ thông tin về hệ thống.
+
+Ngay sau đó, HoSE đã thông báo về những thay đổi trong giao dịch khi áp dụng hệ thống công nghệ thông tin mới.
+
+Các điều chỉnh bao gồm lệnh ATO/ATC trong đợt khớp lệnh định kỳ, quy định về sửa và hủy lệnh giao dịch khớp lệnh, giao dịch thỏa thuận, giao dịch chứng khoán của nhà đầu tư nước ngoài, giao dịch lô lẻ, cũng như giao dịch đối với chứng khoán thuộc diện bị hạn chế. Ngoài ra, hệ thống mới sẽ hiển thị thông tin ba mức giá chào mua và chào bán tốt nhất trong đợt khớp lệnh định kỳ.
+
+KRX là hệ thống công nghệ thông tin quản lý và điều hành giao dịch trên thị trường chứng khoán, được HoSE ký kết chuyển giao công nghệ với Sở Giao dịch Chứng khoán Hàn Quốc (KRX) vào năm 2012.
+
+Ban đầu, HoSE dự kiến triển khai hệ thống này vào năm 2021, nhưng kế hoạch bị trì hoãn. Trong năm qua, thông tin về các đợt thử nghiệm và lộ trình vận hành của KRX đã nhiều lần trở thành động lực thúc đẩy giá cổ phiếu nhóm chứng khoán và giúp chỉ số thị trường tăng mạnh.
+
+Hệ thống KRX đi vào vận hành được kỳ vọng mang đến những thay đổi trên thị trường, như giao dịch trong ngày (T+0), bán khống (short selling), rút ngắn thời gian thanh toán, hợp đồng quyền chọn (option contract)...
+
+Từ đó, hệ thống này tạo tiền đề giải quyết các nút thắt để tiến tới được nâng hạng thị trường từ cận biên lên mới nổi như: thanh toán bù trừ trung tâm (CCP), nâng cao chất lượng cơ sở hạ tầng.
+
+Nhiều công ty chứng khoán, quỹ đầu tư và tổ chức phân tích kỳ vọng KRX sẽ là bước đệm quan trọng giúp thị trường chứng khoán Việt Nam tiến gần hơn đến việc nâng hạng.

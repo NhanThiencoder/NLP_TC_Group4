@@ -1,0 +1,23 @@
+Trung QuốcCamera laser mới có khả năng chụp ảnh với độ phân giải cỡ mm từ khoảng cách hơn 100 km, điều từng được coi là bất khả thi.
+
+Trạm vũ trụ Trung Quốc quay quanh quỹ đạo Trái Đất. Ảnh: iStock
+
+Nhóm nhà khoa học từ Viện Nghiên cứu Thông tin Hàng không Vũ trụ thuộc Viện Hàn lâm Khoa học Trung Quốc phát triển công nghệ laser mới với khả năng chụp ảnh siêu nét từ khoảng cách xa, đạt bước tiến lớn trong lĩnh vực chụp ảnh quang học, Interesting Engineering hôm 21/2 đưa tin. Nghiên cứu mới xuất bản trên tạp chí Chinese Journal of Lasers.
+
+Công nghệ mới có thể góp phần định nghĩa lại khả năng giám sát toàn cầu, cho phép Trung Quốc quan sát các vệ tinh quân sự nước ngoài với chi tiết chưa từng có, thậm chí nhận diện mặt người từ quỹ đạo Trái Đất thấp.
+
+Nhóm nghiên cứu đã tiến hành thử nghiệm tại hồ Thanh Hải, tây bắc Trung Quốc. Họ sử dụng hệ thống lidar khẩu độ tổng hợp tiên tiến - công nghệ chụp ảnh dựa trên laser với trường nhìn rộng - và thu được hình ảnh đặc biệt rõ nét.
+
+Thiết bị được đặt ở bờ bắc của hồ nước, nhắm vào hệ thống lăng kính phản chiếu đặt cách đó 101,8 km. Thử nghiệm hưởng lợi từ điều kiện khí quyển tối ưu, trời quang, ít mây và gió ổn định. Kết quả, thiết bị phát hiện những chi tiết nhỏ tới 1,7 mm và đo khoảng cách với độ chính xác 15,6 mm. Hiệu suất này tốt hơn 100 lần so với các camera gián điệp và kính viễn vọng dựa vào ống kính truyền thống.
+
+Để đạt được thành tựu này, nhóm nhà khoa học đã áp dụng nhiều cải tiến công nghệ. Bằng cách phân tách chùm laser qua cụm vi thấu kính 4 x 4, họ mở rộng khẩu độ quang học của thiết bị từ 17,2 mm lên 68,8 mm, khắc phục vấn đề phải đánh đổi kích thước khẩu độ và trường nhìn trước đây.
+
+Nhóm chuyên gia cũng sử dụng một module laser chuyên dụng để gửi tín hiệu với tần số trên 10 gigahertz. Điều này mang đến độ phân giải cực cao, cho phép đo khoảng cách chính xác. Đồng thời, một phổ màu hẹp cũng được duy trì để tăng độ phân giải phương vị, cải thiện khả năng phát hiện chi tiết ngang.
+
+Thiết bị mới đánh dấu một bước tiến đáng kể trong công nghệ chụp ảnh tầm xa. Năm 2011, công ty Mỹ Lockheed Martin đạt được độ phân giải phương vị 2 cm từ khoảng cách 1,6 km. Sau đó, các nhà nghiên cứu Trung Quốc đạt được độ phân giải 5 cm ở khoảng cách 6,9 km. Với thiết bị mới, Trung Quốc có thể chụp ảnh từ khoảng cách hơn 100 km.
+
+"Với độ phân giải này, bạn có thể phát hiện hư hỏng mà vi thiên thạch gây ra cho những tấm pin mặt trời hoặc nhận diện những thiết bị cảm biến nhất định", một nhà khoa học ở Bắc Kinh cho biết.
+
+Nhóm phát triển camera laser vẫn còn nhiều thách thức phía trước. Chất lượng hình ảnh laser phụ thuộc nhiều vào điều kiện thời tiết, việc theo dõi các mục tiêu chuyển động ở khoảng cách xa như vậy cũng đòi hỏi độ chính xác cơ học cực cao. Những trở ngại này cần được giải quyết trước khi triển khai camera cho các ứng dụng thực tế như giám sát, quan sát vũ trụ hoặc tình báo quân sự..
+
+Thu Thảo (Theo Interesting Engineering)

@@ -1,0 +1,21 @@
+Bộ vi điều khiển MSPM0C1104, hoạt động như máy tính tí hon, có thể giúp cải tiến nhiều thiết bị đeo y tế và thiết bị điện tử cá nhân.
+
+Bộ vi điều khiển MSPM0C1104. Ảnh: Texas Instrument
+
+Công ty bán dẫn Mỹ Texas Instruments giới thiệu MSPM0C1104, bộ vi điều khiển (MCU) có kích thước chỉ 1,38 mm2, tại hội nghị Embedded World 2025 diễn ra ở Nuremberg, Đức, ngày 11 - 13/3. MSPM0C1104 nhỏ tương đương hạt tiêu đen và được Texas Instruments giới thiệu là bộ vi điều khiển nhỏ nhất thế giới.
+
+Bộ vi điều khiển về cơ bản là một máy tính tí hon. Chúng cung cấp giải pháp nhỏ gọn, tiết kiệm chi phí để điều khiển thiết bị điện tử nhỏ như các thiết bị đeo trên người.
+
+CPU bên trong MSPM0C1104 là Armv32-bit Cortex-M0+, hoạt động ở tần số tối đa 24 MHz. Trong khi đó, bộ xử lý có SRAM 1KB và bộ nhớ flash 16 KB.
+
+Texas Instruments cho biết, MSPM0C1104 nhỏ hơn 38% so với bộ vi điều khiển nhỏ nhất trên thị trường hiện nay. Bộ vi điều khiển này sẽ chỉ có giá 0,2 USD mỗi chiếc nếu mua số lượng lớn. Tuy nhiên, người muốn dùng thử sớm có thể trả 5,99 USD cho bộ kit phát triển MSPM0C1104 LaunchPad.
+
+Người tiêu dùng mong muốn đồ điện tử hàng ngày có nhiều tính năng hơn với giá rẻ hơn. "Để đổi mới trong những sản phẩm đang thu nhỏ này, các kỹ sư nỗ lực tìm kiếm bộ phận nhỏ gọn, tích hợp cho phép họ bổ sung chức năng trong khi vẫn tiết kiệm không gian bo mạch", Texas Instruments giải thích.
+
+"Trong hệ thống nhỏ như tai nghe nhét tai và đầu dò y tế, không gian bo mạch là tài nguyên khan hiếm và quý giá. Với việc bổ sung MCU nhỏ nhất thế giới, danh mục MCU MSPM0 của chúng tôi cung cấp khả năng không giới hạn giúp hiện thực hóa những trải nghiệm thông minh hơn, kết nối nhiều hơn trong cuộc sống hàng ngày", Vinay Agarwal, tổng giám đốc MSP Microcontrollers tại Texas Instruments, cho biết.
+
+Theo trang Tom’s Hardware, MSPM0C1104 có thể hoạt động trong môi trường có mức nhiệt từ -40 độ C đến 125 độ C. Bộ vi điều khiển này cũng rất hiệu quả vì chỉ tiêu thụ 87 microAmpere/MHz khi chạy. Khi ở chế độ chờ với bộ nhớ SRAM, chúng tiêu thụ 5 microAmpere.
+
+MSPM0C1104 sẽ giúp các thiết bị đeo trên người và thiết bị điện tử trở nên tiên tiến hơn, có thể có các ứng dụng quan trọng cho ngành y tế cũng như đồ gia dụng. Sự phát triển của MSPM0C1104 cho thấy kích thước vi điều khiển giảm đáng kể, có khả năng tác động đến thiết kế và chức năng của thiết bị điện tử nhỏ trong tương lai. Thông số kỹ thuật của bộ vi điều khiển mới, bao gồm mức tiêu thụ điện thấp và phạm vi nhiệt độ hoạt động lớn, cho thấy tiềm năng ứng dụng thực tế trong nhiều lĩnh vực khác nhau, đặc biệt là ở những nơi không gian hạn chế.
+
+Thu Thảo (Theo Interesting Engineering)

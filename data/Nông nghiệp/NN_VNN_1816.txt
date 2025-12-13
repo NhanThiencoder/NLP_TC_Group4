@@ -1,0 +1,18 @@
+Title: “Xây dựng phần mềm quản lý cây xanh cho Học viện Nông nghiệp Việt Nam”
+
+Học viện Nông nghiệp Việt Nam có khuôn viên rộng hơn 190 ha với nhiều cây xanh trong khuôn viên Học viện. Trong số các cây xanh tại Học viện có nhiều cây xanh được trồng bởi các nguyên thủ quốc gia và khách quốc tế khi đến thăm và làm việc với Học viện cũng như được trồng bởi lãnh đạo các cơ quan trung ương, cơ quan bộ ngành, v.v. Hiện nay việc chăm sóc và quản lý cây xanh của Học viện được thực hiện bởi tổ Cảnh quan trực thuộc Văn phòng Học viện.
+
+Việc thu thập số liệu về vị trí cây, tên cây, các đặc tính và tình hình chăm sóc của cây được lưu trữ một phần và rất rời rạc trên file excel nên rất khó cho việc cập nhật tình hình, theo dõi cũng như xem lại được quá trình chăm sóc, hiện trạng của cây. Những khó khăn trên không chỉ làm hạn chế hiệu quả của đội ngũ cán bộ quản lý và chăm sóc trực tiếp cây xanh mà còn ảnh hưởng đến việc giám sát và chỉ đạo kịp thời của Học viện khi có những vấn đề phát sinh xảy ra.
+
+Ảnh minh hoạ
+
+Trước tình hình đó, Khoa Công nghệ thông tin đã xây dựng 01 phần mềm quản lý cây xanh cho Học viện Nông nghiệp Việt Nam. Phần mềm sẽ giúp những người sử dụng và chăm sóc cây có thể quản lý cây, theo dõi được lịch sử chăm sóc cây, thống kê các loại cây cũng như thời gian chăm sóc, cắt tỉa, v.v. được dễ dàng hơn. Qua đó sẽ nâng cao được chất lượng quản lý cây xanh, góp phần làm cho Học viện xanh, sạch đẹp, thân thiện với môi trường hơn. Hơn nữa hệ thống cũng sẽ giúp cho lãnh đạo Học viện, lãnh đạo văn phòng theo dõi được tình trạng chăm sóc cây của đội ngũ nhân viên và có thể có các chỉ đạo kịp thời.
+
+
+Phần mềm này khi đưa vào sử dụng sẽ giúp cho người quản lý và chăm sóc cây xanh thuộc Văn phòng Học viện có một công cụ tiện lợi, hiện đại, dễ dàng và chính xác hơn trong công việc, tiết kiệm được thời gian và nhân lực. Việc nghiên cứu và làm chủ công nghệ trên nền Google Maps API có ý nghĩa rất to lớn trong việc triển khai các đề tài, dự án trong quản lý tài nguyên thiên nhiên. Phần mềm này ra đời cho thấy năng lực của Khoa Công nghệ thông tin cũng như Học viện Nông nghiệp Việt Nam trong việc ứng dụng Công nghệ thông tin vào các lĩnh vực cụ thể trong đó có nông nghiệp. Ngoài ra nó cũng cho thấy tiềm năng của Học viện đấu thầu triển khai các hệ thống tương tự.
+
+Phần mềm quản lý cây xanh cho Học viện hiện có thể đi vào vận hành thực tế. Tuy vậy để có một phần mềm đáp ứng đầy đủ nhu cầu của người sử dụng và thực tế sử dụng cần có một quá trình sử dụng, đóng góp ý kiến của người sử dụng để đội ngũ phát triển tiếp tục cải tiến. Vòng đời của một phần mềm là một quá trình phát triển liên tục. Vì vậy vai trò của người sử dụng cũng rất quan trọng, vừa là người vận hành, cập nhật dữ liệu lên phần mềm, vừa là người đưa ra các yêu cầu với người phát triển.
+
+Ngoài ra còn rất nhiều thông tin quan trọng về lĩnh vực thực vật nếu được bổ sung vào hệ thống thì phần mềm sẽ vượt ra ngoài phạm vi không những chỉ là hệ thống quản lý mà còn là hệ thống trợ giúp tra cứu thông tin để sinh viên có thể phục vụ học tập, tra cứu thông tin về các loại cây. Dữ liệu về hình ảnh và video của các cây xanh nếu được xây dựng, cập nhật và đưa lên hệ thống sẽ phục vụ cho việc quảng bá Học viện cũng như ghi dấu lịch sử phát triển của Học viện.
+
+Duy Khánh và nhóm PV, BTV

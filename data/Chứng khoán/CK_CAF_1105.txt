@@ -1,0 +1,13 @@
+Ngày 21/8/2023, tại trụ sở của Sở Giao dịch Chứng khoán TP.Hồ Chí Minh (HoSE), đã diễn ra cuộc họp giữa các thành viên thị trường chứng khoán Việt Nam về kế hoạch triển khai dự án công nghệ thông tin KRX.
+
+Về kết quả kiểm thử, Sở Giao dịch Chứng khoán Tp. Hồ Chí Minh đã tổng kết sơ bộ với Thành viên thị trường trong thời gian vừa qua. Kết quả tại HOSE cho thấy có 25/76 Công ty chứng khoán đã hoàn thành 100% các kịch bản kiểm thử, 36/76 công ty đã thực hiện trên 80% và 15/76 công ty đạt dưới 80% .
+
+Theo kế hoạch của Nhà thầu KRX, phía Việt Nam sẽ tổ chức kiểm thử đợt kiểm thử cuối cùng (FAT) trong tháng 11/2023 và dự kiến KRX hoàn thành công tác chuẩn bị hệ thống vào cuối tháng 12/2023 để sẵn sàng triển khai. Bộ Tài chính chỉ đạo các đơn vị quyết tâm hoàn thành dự án và chuẩn bị hệ thống sẵn sàng đi vào vận hành vào cuối năm nay.
+
+Tại cuộc họp, lãnh đạo Sở Giao dịch Chứng khoán Việt Nam, Sở Giao dịch Chứng khoán Tp. Hồ Chí Minh, Sở Giao dịch Chứng khoán Hà Nội và Tổng Công ty Lưu ký và Bù trừ Chứng khoán cho biết, đối với các Thành viên thị trường chưa sẵn sàng kịp tiến độ, sẽ báo cáo các cấp có thẩm quyền để có biện pháp nhằm hoàn thành dự án theo mục tiêu chung.
+
+
+
+Được biết, hệ thống KRX là hệ thống công nghệ thông tin quản lý và điều hành giao dịch trên thị trường chứng khoán Việt Nam, được HOSE ký kết với Sở Giao dịch Chứng khoán Hàn Quốc (KRX) vào năm 2012. Dự án này nhằm nâng cấp công nghệ hệ thống và cơ sở hạ tầng của sàn giao dịch chứng khoán tại Việt Nam.
+
+Hệ thống KRX được kỳ vọng sẽ mang đến các sản phẩm, giải pháp giao dịch và thanh toán mới cho thị trường chứng khoán Việt Nam như: giao dịch trong ngày (T+0), bán khống (short selling), rút ngắn thời gian thanh toán, hợp đồng quyền chọn (option contract)...; tạo tiền đề giải quyết các nút thắt để tiến tới được nâng hạng thị trường từ cận biên lên mới nổi như: thanh toán bù trừ trung tâm (CCP), nâng cao chất lượng cơ sở hạ tầng.

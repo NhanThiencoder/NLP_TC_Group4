@@ -1,0 +1,17 @@
+Nguyên mẫu robot hình người Protoclone có 1.000 sợi cơ nhân tạo, có thể thực hiện hơn 200 động tác độc lập.
+
+Robot 'người nhân tạo' có cơ bắp và xương giống thật Nguyên mẫu robot hình người Protoclone. Video: Clone Robotics
+
+Startup Ba Lan Clone Robotics giới thiệu nguyên mẫu robot Protoclone có hơn 200 bậc tự do và 500 cảm biến, Interesting Engineering hôm 20/2 đưa tin. Clone Robotics sử dụng công nghệ Myofiber, gắn cơ bắp nhân tạo vào các vị trí chính xác để dịch chuyển xương giống như động vật.
+
+Trong hệ thống Myofiber, về cơ bản, mỗi cơ có dạng ống lưới với một quả bóng bên trong. Quả bóng giãn nở khi chất lỏng được bơm vào, buộc lưới phải co lại theo chiều dọc. Một máy bơm điện 500 W là "tim" của robot, bơm chất lỏng thủy lực ở tốc độ 40 lít mỗi phút và áp suất 100 psi.
+
+Robot cũng có hệ thống thần kinh riêng, gồm 4 camera độ sâu trong hộp sọ để quan sát, 70 cảm biến quán tính để nhận biết vị trí khớp và 320 cảm biến áp lực cho phản hồi lực ở cấp độ cơ. Thiết lập này sẽ cho phép robot phản ứng tức thời với phản hồi thị giác, đồng thời học các nhiệm vụ chỉ bằng cách quan sát người dùng thực hiện chúng.
+
+Trong video mới công bố, nguyên mẫu Protoclone được treo trong một xưởng chế tạo và thực hiện các động tác chân tay. Nguyên mẫu đang sử dụng hệ thống khí nén nhưng sẽ chuyển sang hệ thống thủy lực khi phát triển thêm. Không giống những robot hình người khác, nó có các hệ thống tổng hợp bắt chước cấu trúc xương, cơ, mạch máu và thần kinh của con người.
+
+Clone Robotics gọi Protoclone là robot hình người có hai chân và cơ xương đầu tiên trên thế giới, dù trước đó, phòng thí nghiệm JSK thuộc Đại học Tokyo từng giới thiệu một robot hình người tương tự, Kengoro, vào năm 2017. Tuy nhiên, Kengoro chỉ được thiết kế như một công cụ nghiên cứu, trong khi Clone Robotics hướng tới ứng dụng thương mại. Trong tương lai, robot có thể làm việc nhà như giặt giũ, rửa bát, chuẩn bị những bữa ăn đơn giản và hút bụi thảm.
+
+Protoclone vẫn chưa thể hiện được khả năng đi bộ như các robot hình người Optimus của Tesla và Atlas của Boston Dynamics. Tuy nhiên, so với những đối thủ này, Protoclone có hình dáng cơ thể giống người hơn với cử động chân thực hơn.
+
+Thu Thảo (Theo Interesting Engineering, New Atlas)

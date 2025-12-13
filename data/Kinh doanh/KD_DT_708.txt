@@ -1,0 +1,31 @@
+Title: Thị trường bitcoin đang “bi quan cực độ”
+
+Thông tin mới nhất từ Coindesk - chuyên trang về thị trường tiền mã hoá toàn cầu - dòng vốn rút mạnh khỏi các quỹ ETF và áp lực thanh lý phái sinh khiến tâm lý thị trường "sợ hãi cực độ".
+
+Coindesk dẫn chứng quan điểm từ công ty phân tích 10x Research cho thấy, tâm lý thị trường tiền số đã rơi vào sự bi quan cực độ. Chỉ số "tham lam và sợ hãi" (Fear & Greed Index) giảm xuống mức thấp kỷ lục dưới 5 điểm. Đường trung bình động (MA) 21 ngày của chỉ số này cũng đi xuống còn 10, mức thấp suốt nhiều năm qua.
+
+Chỉ số "tham lam và sợ hãi" là một công cụ phân tích tâm lý nhà đầu tư được thiết kế đặc biệt cho thị trường tiền số. Chỉ số này đo lường cảm xúc và tâm lý của các nhà đầu tư thông qua thang điểm từ 0 đến 100, trong đó 0 là sợ hãi cực độ và 100 - tham lam cực độ.
+
+Năm nay, các giai đoạn "sợ hãi cực độ" với chỉ số quanh 10-20 điểm thường đi trước những đợt tăng giá mạnh. Ngược lại, vùng "tham lam cực độ" 80-90 điểm báo hiệu thị trường quá nóng và sắp điều chỉnh.
+
+Ghi nhận cho thấy thị trường tiền số tiếp tục chịu áp lực bán mạnh, có thời điểm giá bitcoin rơi sát ngưỡng 80.000 USD. Dù sau đó giá phục hồi về quanh 84.000 USD/BTC, tâm lý nhà đầu tư vẫn bất an vì lo ngại đà giảm chưa dừng lại.
+
+So với đỉnh lịch sử 125.300 USD được thiết lập ngày 7/10, đồng tiền này đã bốc hơi gần 37%, xóa sạch toàn bộ thành quả tăng trưởng trong năm nay. Vốn hóa thị trường bitcoin hiện chỉ còn hơn 1.600 tỷ USD, tương đương gần 890 tỷ USD giá trị bị thổi bay trong chưa đầy 6 tuần.
+
+Tâm lý bi quan của nhà đầu tư BTC lên đến cực điểm. (Ảnh: DT).
+
+Ai đang bán tháo mạnh?
+
+Khi bitcoin giảm mạnh, các nhà đầu tư trung và ngắn hạn được biết đang dẫn dắt đà bán tháo hiện tại. Kết quả của họ phần lớn đều thua lỗ. Điều này khiến đà giảm dự báo chưa dừng lại.
+
+Ghi nhận tại báo cáo mới đây của VanEck cho thấy đợt bán tháo hiện tại của bitcoin được thúc đẩy bởi những nhà đầu tư trung hạn. 30 ngày qua, áp lực bán tập trung ở các ví nắm giữ dưới 5 năm, trong khi ví cũ hơn phần lớn vẫn duy trì hoặc tăng lượng sở hữu.
+
+Tính chung, sau nửa năm, nhiều token đã được chuyển từ nhóm nhà đầu tư 3-5 năm sang nhóm từ 6 tháng đến 2 năm. Điều này báo hiệu sự chuyển dịch từ những người nắm giữ trung hạn sang "tay chơi" mới trên thị trường.
+
+Nhiều ý kiến cho rằng dòng vốn rút khỏi các quỹ ETF, hoạt động chốt lời của các “cá voi” nắm giữ dài hạn và căng thẳng địa chính trị leo thang là những tác nhân chính đẩy thị trường đi xuống.
+
+Ông Ryan McMillin, Giám đốc đầu tư của Merkle Tree Capital (Australia), đã nhận định với Cointelegraph rằng đợt giảm giá này không xuất phát từ một nguyên nhân đơn lẻ, mà là hệ quả của nhiều yếu tố cộng hưởng.
+
+Theo ông, dữ liệu on-chain cho thấy những nhà đầu tư nắm giữ lâu năm đã bắt đầu chốt lời sau đợt tăng giá kéo dài, tạo áp lực bán không nhỏ lên thị trường. Cùng với đó, “nền tảng vĩ mô kém tích cực và thanh khoản giảm sút khiến giá dễ bị kéo xuống sâu hơn”.
+
+“Khi những đồng bitcoin cũ được xả ra trong bối cảnh sức mua yếu và môi trường vĩ mô khó khăn hơn nhiều so với nửa năm trước, thị trường khó tránh khỏi điều chỉnh mạnh”, vị này nêu.

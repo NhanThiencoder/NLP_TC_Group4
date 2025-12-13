@@ -1,0 +1,17 @@
+Title: Ứng dụng dạng Low-code để thúc đẩy chuyển đổi số ngành nông nghiệp
+
+Hiện nay, các doanh nghiệp phải đối mặt với những thách thức ngày càng gia tăng trong các hoạt động vận hành nội bộ, chuỗi sản xuất cung ứng và đáp ứng nhu cầu của khách hàng. Do đó, các doanh nghiệp, trong đó có ngành công nghiệp sản xuất đã và đang tích cực triển khai các hoạt động chuyển đổi số nhằm giải quyết các vấn đề này, ứng dụng các công nghệ kỹ thuật số như trí tuệ nhân tạo – AI, vạn vật kết nối – IoT, thực tế ảo tăng cường – AR, robot, v.v.
+
+Ảnh minh hoạ
+
+Những công nghệ này được vận dụng hiệu quả, giúp doanh nghiệp tạo dựng lợi thế cạnh tranh về sản xuất kinh doanh hiệu quả và tiết kiệm chi phí so với các doanh nghiệp khác. Để chuyển đổi số, nhiều công ty đã đổi mới và phát triển các ứng dụng một cách nhanh chóng và linh hoạt, để đáp ứng liên tục các yêu cầu cập nhật của thị trường.
+
+Công nghệ Low-code là một cách thức phát triển ứng dụng trực quan cho phép các nhà phát triển từ chuyên nghiệp đến không chuyên có thể cộng tác và nhanh chóng xây dựng, triển khai các ứng dụng.
+
+Gartner dự báo “Đến năm 2024, phát triển ứng dụng dạng Low-code sẽ chiếm tỉ trọng hơn 65% đối với các hoạt động phát triển ứng dụng” (1). Giá trị thị trường nền tảng Low-code toàn cầu ước đạt 12,85 tỷ USD vào năm 2020 và được kỳ vọng sẽ đạt 65,15 tỷ USD vào năm 2027 (2) với CAGR là 22,7% trong giai đoạn từ 2020- 2027 (2).
+
+Nền tảng Low-code có thể thay đổi cách các công ty sản xuất giải quyết vấn đề của họ trong quá trình chuyển đổi số và tạo ra các tiêu chuẩn mới về năng suất, hiệu quả và lợi nhuận.
+
+Xem ra, nền tảng Low-code nếu được xem xét ứng dụng trong ngành nông nghiệp cũng sẽ góp phần gia tăng kết quả chuyển đổi số của ngành.
+
+Anh Phương và nhóm PV, BTV

@@ -1,0 +1,19 @@
+Trung Quốc khánh thành trung tâm điện toán thông minh mới tại Lăng Thủy, tỉnh Hải Nam hôm 18/2, giúp thúc đẩy trí tuệ nhân tạo (AI) phát triển.
+
+Khoang dữ liệu dưới nước mới được lắp đặt dưới đáy biển và kết nối với một trung tâm dữ liệu dưới nước xây dựng trước đó, trở thành trung tâm điện toán mạnh mẽ. Khoang dữ liệu dài 18 m, có đường kính 3,6 m, chứa hơn 400 máy chủ hiệu suất cao. Nó kết nối với các thiết bị đầu cuối dữ liệu của khách hàng thông qua một trạm ven biển gần đó.
+
+Sức mạnh tính toán của trung tâm mới tương đương với 30.000 máy tính chơi game cao cấp hoạt động cùng lúc, có thể hoàn thành khối lượng tính toán 1 năm của máy tính thông thường chỉ trong 1 giây. Khả năng này sẽ hỗ trợ cho các trợ lý AI trang bị DeepSeek, có thể xử lý đến 7.000 cuộc trò chuyện thông minh mỗi giây.
+
+Trung Quốc đang phát triển nhiều trung tâm điện toán thông minh. Ảnh: XH4D
+
+Các trung tâm điện toán thông minh được thiết kế để hỗ trợ những ứng dụng AI bằng cách cung cấp dịch vụ điện toán, dữ liệu và thuật toán dựa trên những kiến trúc do AI xây dựng. Chúng đóng vai trò quan trọng trong việc nghiên cứu, đào tạo và ứng dụng AI, theo Wang Peng, nhà nghiên cứu tại Viện Hàn lâm Khoa học Xã hội Bắc Kinh.
+
+Wang cho biết thêm, trung tâm mới tại Hải Nam sẽ tăng cường đáng kể lợi thế cạnh tranh của Trung Quốc trong lĩnh vực AI toàn cầu. Trung tâm dùng nước biển như một chất làm mát tự nhiên, giúp tối ưu hóa hiệu suất năng lượng, tiết kiệm đất, nước ngọt và điện. Cơ sở cũng có mức độ an ninh và ổn định cao hơn nhờ môi trường ổn định dưới biển sâu.
+
+Tính đến ngày 18/2, trung tâm đã ký thỏa thuận với gần 10 công ty. Những công ty này dự kiến sử dụng khả năng của trung tâm để huấn luyện mô hình AI, mô phỏng công nghiệp, phát triển trò chơi và nghiên cứu khoa học biển.
+
+
+
+Nhiều thành phố Trung Quốc đang nhanh chóng phát triển các trung tâm điện toán thông minh riêng nhằm đáp ứng nhu cầu ngày càng tăng về chuyển đổi số và tự động hóa công nghiệp. Dữ liệu từ Tập đoàn Dữ liệu Quốc tế (IDC) cho thấy, giai đoạn 2022 - 2024, có 219 dự án trung tâm như vậy được lập ra, trải rộng trên 81 thành phố thuộc 28 tỉnh. IDC dự đoán, giai đoạn 2022 - 2027, khả năng điện toán thông minh của Trung Quốc sẽ tăng trưởng với tốc độ lên tới 33,9%.
+
+Thu Thảo (Theo Global Times)

@@ -1,0 +1,37 @@
+AI tạo trải nghiệm hạnh phúc cho nhân viên
+
+Hằng năm, vào mùa khám sức khỏe tổng quát, đội ngũ HR tại FPT luôn phải “trực chiến” 24/7. Hàng chục nghìn nhân viên trên toàn quốc cần được sắp xếp lịch lấy mẫu, lịch khám tổng quát; bảng excel chằng chịt dữ liệu, hàng nghìn email, phản hồi xin đổi lịch mỗi ngày.
+
+Năm 2025, “cơn ác mộng” ấy được hóa giải khi HR đã tái thiết kế toàn bộ quy trình để Maya - trợ lý nhân sự ảo do FPT phát triển - tham gia tự động hóa nhiều công đoạn. Maya thay mặt HR gửi hơn 20.000 tin nhắn nhắc lịch, trả lời thắc mắc, tổng hợp phản hồi chỉ trong vài giờ, giúp HR có thời gian tập trung vào các hoạt động mang giá trị cao hơn: lắng nghe và cải thiện trải nghiệm nhân viên.
+
+Trong đời sống nội bộ công ty, Maya giúp xử lý hơn 50.000 yêu cầu hỗ trợ từ 13.000 nhân viên mỗi tháng, từ đăng ký nghỉ phép đến đặt phòng họp. Đằng sau Maya là nền tảng AI Agent dựa trên kho dữ liệu lớn của hàng chục nghìn nhân viên, giúp hệ thống hiểu bối cảnh và phản hồi linh hoạt.
+
+Maya - cô “trợ lý nhân sự ảo” đã trở thành người bạn thân thiết của hàng nghìn nhân viên FPT
+
+Trong khi đó, ở khối sản xuất, các kỹ sư FPT có “trợ lý dịch thuật AI” SkyTrans, giúp xóa nhòa rào cản ngôn ngữ trong môi trường làm việc toàn cầu. SkyTrans có thể dịch một triệu ký tự trong chưa đầy một phút, hỗ trợ hơn 100 ngôn ngữ và 20 định dạng, tùy chỉnh giọng văn, giúp các cuộc họp xuyên biên giới diễn ra liền mạch. Sau 10 tháng ra mắt, tới nay SkyTrans đã vượt hơn 8.000 người dùng, xử lý 1,1 tỷ ký tự và tiết kiệm 16 tỷ đồng chi phí dịch thuật cho đơn vị.
+
+Skytrans là một trong hơn 1.000 AI Agent được FPT phát triển cho các nghiệp vụ công việc
+
+Đây chỉ là hai trong hơn 1.000 AI Agent mà FPT phát triển để nâng cao năng lực con người và kiến tạo hạnh phúc trong mọi hoạt động vận hành, học tập và sáng tạo. Với triết lý “Nghĩ lớn - Khởi động thông minh - Phát triển tốc độ”, mỗi AI Agent đều được FPT thử nghiệm trong 6-8 tuần và chỉ được mở rộng nếu chứng minh hiệu quả rõ rệt.
+
+“Thách thức lớn nhất khi AI đi vào từng ‘ngõ ngách’ doanh nghiệp chính là dữ liệu. Muốn AI thông minh, dữ liệu phải đáng tin cậy. Nhưng quan trọng hơn hết là tư duy AI-First phải trở thành DNA của từng cá nhân, từ kỹ sư đến lãnh đạo”, ông Đào Duy Cường - Giám đốc Chuyển đổi số & Công nghệ FPT Software, Tập đoàn FPT chia sẻ.
+
+Chính sự linh hoạt giúp FPT tập trung phát triển các công cụ thiết thực, duy trì tốc độ đổi mới liên tục và hiệu quả. “Mỗi AI Agent của FPT là một bước tiến để AI trở thành bạn đồng hành trong mọi nghiệp vụ hằng ngày,” ông Nguyễn Quốc Đông, Giám đốc Sản xuất FPT Software, Tập đoàn FPT nhấn mạnh.
+
+Gia tăng giá trị vượt trội cho khách hàng nhờ AI
+
+Ở cấp độ toàn cầu, tư duy AI-First trở thành kim chỉ nam cho mọi dự án và giá trị FPT mang tới khách hàng. Không chỉ “ứng dụng AI” trong từng sản phẩm, FPT biến AI thành nền tảng vận hành giúp doanh nghiệp tiến xa hơn trên hành trình số hóa.
+
+Tại Nhật Bản, FPT có hơn 10 năm đồng hành cùng Tập đoàn Itochu - doanh nghiệp đa ngành hàng đầu tại quốc gia này trong hành trình chuyển đổi số, từ SAP đến các ứng dụng AI tiên tiến. Chỉ trong 2 tháng, Itochu đã triển khai thành công nền tảng AI tạo sinh phát triển từ IvyChat - một giải pháp ứng dụng mô hình ngôn ngữ lớn đa tác nhân, hỗ trợ phân tích dữ liệu, dịch đa ngôn ngữ và kết nối nhóm làm việc xuyên biên giới. Sau một năm, giải pháp đã được mở rộng ứng dụng tại các chi nhánh Itochu ở 65 quốc gia và tiếp tục được triển khai trong nhiều lĩnh vực tài chính, bảo hiểm, sản xuất tại Mỹ, Nhật và Châu Âu.
+
+Trong lĩnh vực bảo hiểm, FPT phát triển AI Agent Digital Platform (AIDP), nền tảng hợp nhất toàn bộ nghiệp vụ trên một ứng dụng duy nhất, hiện phục vụ hơn 15.000 đại lý tại hai tập đoàn bảo hiểm hàng đầu châu Á - Thái Bình Dương. Đại diện một trong hai tập đoàn chia sẻ, AIDP giúp đội ngũ tư vấn tăng 10% năng suất, 25% số lượng báo giá gửi đi hàng tháng và mức độ hài lòng của khách hàng cải thiện rõ rệt. Với những kết quả đột phá, AIDP được vinh danh giải Sao Khuê 2025 và đang mở rộng ra nhiều thị trường quốc tế.
+
+AIDP đạt nhiều giải thưởng trong nước và quốc tế như Sao Khuê, AI+ Power, Globee, Stevie...
+
+Nhiều năm qua, FPT đầu tư xây dựng hệ sinh thái nhân lực AI toàn diện, kết hợp đào tạo nội bộ, hợp tác quốc tế và thu hút chuyên gia hàng đầu. Tinh thần “nghĩ bằng AI - làm bằng AI” cũng được nuôi dưỡng qua các chương trình đổi mới sáng tạo như AI Hackathon, Bird Tank hay iKhiến. Trung bình mỗi năm, FPT ghi nhận tới 3.000 sáng kiến, trong đó 20% liên quan trực tiếp đến AI.
+
+“Năm 2025, chúng tôi đặt mục tiêu 80-100% nhân sự mảng dịch vụ CNTT cho thị trường nước ngoài có thể sử dụng AI thành thạo trong công việc hàng ngày để nâng cao hiệu suất và chất lượng đầu ra. Trong đó, khoảng 20% kỹ sư sẽ trở thành các kỹ sư ứng dụng AI (AI Application Engineers) - lực lượng tiên phong xây dựng và triển khai giải pháp AI hữu dụng cho khách hàng”, ông Vũ Tiến Đạt, Giám đốc Nhân sự FPT Software, Tập đoàn FPT chia sẻ.
+
+Đại diện Tập đoàn FPT cho biết, trong tương lai gần, mỗi người FPT sẽ có một “trợ lý AI” cá nhân hóa đồng hành trong công việc hàng ngày, cùng cộng hưởng sức mạnh lẫn nhau. Đó là cách FPT đặt chuyển đổi con người song hành cùng chuyển đổi số – nơi AI không thay thế, mà nâng tầm con người.
+
+(Nguồn: FPT)

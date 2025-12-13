@@ -1,0 +1,35 @@
+Sau khi camera AI nhận diện, trích xuất hình ảnh, clip vi phạm giao thông, CSGT sẽ xác minh lại rồi gửi thông báo tới người vi phạm để xử phạt.
+
+Những ngày này, trên nhiều tuyến phố trung tâm Hà Nội, hàng loạt camera AI đang được lắp đặt. Theo Phòng Cảnh sát giao thông (Phòng CSGT, Công an TP Hà Nội), 1.873 camera AI sẽ được lắp và hoạt động từ tháng 12.
+
+Không chỉ Hà Nội, TP HCM cũng lắp hơn 30 camera AI phát hiện vi phạm giao thông tại nhiều đường có lưu lượng xe đông như: Điện Biên Phủ, Trương Định, Lê Quý Đôn, Trần Quốc Thảo, Nguyễn Thị Minh Khai...
+
+Cục CSGT đã trình Bộ Công an đề án lắp đặt hơn 5.000 camera AI để giám sát, phát hiện vi phạm và hỗ trợ điều tiết giao thông trên toàn quốc. Khác với camera giám sát thông thường chỉ ghi hình để lưu trữ, camera AI có khả năng nhận diện, phân tích hành vi vi phạm.
+
+Camera AI đang được lắp đặt tại nhiều phố trung tâm của Hà Nội. Ảnh: Việt An
+
+Theo quy trình, dữ liệu hình ảnh từ các camera AI trên đường sẽ được truyền về Trung tâm lưu trữ dữ liệu điện tử của Cục CSGT. Phần mềm ứng dụng AI tại trung tâm sẽ tự động nhận diện hành vi vi phạm, trích xuất dưới dạng ảnh hoặc clip liên quan. Đến nay, camera AI đã nhận diện được hơn 20 trong tổng số hơn 100 hành vi vi phạm có thể xử lý.
+
+Từ cơ sở dữ liệu đăng ký xe, phầm mềm AI sẽ truy ra được chủ xe. Bản ảnh lưu lại có đầy đủ thông tin về loại xe, biển số xe, tuyến đường, thời gian, hành vi vi phạm, vị trí, kinh độ, vĩ độ, tốc độ để người điều khiển phương tiện xác định rõ hành vi. Tất cả sẽ gói gọn trong một thư mục.
+
+Tại Trung tâm thông tin chỉ huy của Cục CSGT đặt tại Hà Nội, hàng chục cán bộ ngoài việc theo dõi hình ảnh trực tiếp từ camera còn có nhiệm vụ xác minh, kiểm duyệt, lọc lại từng vi phạm được tổng hợp từ phần mềm AI nhằm tránh sai sót, bỏ sót vi phạm, sau đó gửi hồ sơ sang bộ phận xử phạt.
+
+Bộ phận xử phạt ra thông báo và gửi về địa chỉ đăng ký của chủ xe, đồng thời đăng tải lên website của Cục CSGT để người dân tiện tra cứu. Nhận thông báo, chủ xe sẽ đến nơi phát hiện vi phạm hoặc công an nơi cư trú để làm việc, xác minh lỗi.
+
+Sau khi xác định được người điều khiển xe thời điểm vi phạm là ai thì CSGT mới lập biên bản người đó. Sau 7 ngày không có khiếu nại, CSGT ra quyết định xử phạt. Người vi phạm đóng phạt ở kho bạc hoặc nộp trực tuyến qua cổng dịch vụ công; sau đó cầm biên lai về lại trụ sở đội CSGT để nhận lại giấy tờ nếu bị giữ.
+
+CSGT sẽ tra soát các vi phạm từ camera trước khi có thông báo tới người vi phạm. Ảnh: Việt An
+
+Trong tương lai, khi hệ thống vận hành ổn định, hình ảnh do camera AI cung cấp sẽ được gửi ngay cho chủ phương tiện bằng bản mềm. Chủ phương tiện nếu đồng ý thì đánh dấu vào ô đồng ý, biên bản sẽ được lập tự động. Nếu không đồng ý, chủ xe liên hệ cơ quan công an nơi phát hiện vi phạm để giải quyết. Tài xế có thể cài app VNeTraffic (tài khoản VNeID cấp độ 2) để được cung cấp hình ảnh vi phạm.
+
+Cục CSGT cho hay từ một camera AI lắp thí điểm trên cao tốc Nội Bài - Lào Cai, Cục đã gửi thông báo vi phạm tới 2.775 trường hợp không thắt dây an toàn, hiện gần 400 người đã tới làm việc.
+
+"Hình ảnh camera AI cung cấp rất sắc nét, đêm cũng như ngày nên tỷ lệ nhầm lẫn gần như bằng không", đại diện Cục CSGT nói và dẫn chứng thời gian qua có một trường hợp khiếu nại, khi được gửi lại hình ảnh đã thừa nhận hành vi vi phạm.
+
+Theo quy định, những trường hợp không đến cơ quan CSGT để xử lý thì sau 20 ngày kể từ ngày gửi thông báo, CSGT sẽ gửi cảnh báo phương tiện vi phạm cho cơ quan đăng ký xe và cơ quan đăng kiểm (với phương tiện phải kiểm định).
+
+Tại buổi họp báo thông báo kết quả các mặt công tác công an quý III/2025 ngày 6/10, thiếu tướng Nguyễn Văn Mừng, Phó cục trưởng Cảnh sát giao thông, cho biết khó khăn lớn nhất là xử phạt xe gắn máy, đặc biệt là xe máy cũ biển 3 số, 4 số, do nhiều xe chưa xác định được định danh chủ xe.
+
+Để có dữ liệu đúng, đủ và sạch, Cục đang phối hợp công an các địa phương rà soát phương tiện nhằm loại bỏ khỏi hệ thống những xe không còn lưu thông. Những xe còn lưu thông sẽ được đưa vào định danh để phục vụ cho công tác quản lý, phát hiện và xử lý vi phạm giao thông.
+
+Việt An

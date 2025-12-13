@@ -1,0 +1,41 @@
+Title: Đầu tư chéo, các gã khổng lồ công nghệ đang tự thổi phồng bong bóng AI
+
+Ván bài của những kẻ khổng lồ
+
+Tháng 6, Elon Musk tin AI sẽ vượt trí tuệ loài người vào cuối năm 2026. Tháng 7, Sam Altman của OpenAI tuyên bố công nghệ của ông sẽ "định hình lại tiến trình lịch sử". Mark Zuckerberg thì mơ về "siêu trí tuệ cá nhân".
+
+Những lời hứa hẹn vĩ đại đó được bảo chứng bằng một cơn mưa tiền không tưởng. Chỉ trong năm 2025, năm ông lớn công nghệ dự kiến chi tới 371 tỷ USD để xây dựng các siêu trung tâm dữ liệu. Con số này, theo McKinsey, có thể phình to thành 5.200 tỷ USD vào năm 2030.
+
+Những con số choáng ngợp này vẽ nên một tương lai rực rỡ. Nhưng nếu bóc tách dòng tiền, một bức tranh khác sẽ hiện ra, phức tạp và đáng lo ngại hơn nhiều. Cuộc cách mạng AI, trên thực tế, đang được vận hành bởi một "vòng lặp tài chính khép kín" - một ván bài mà nhà cái cũng chính là những người chơi lớn nhất.
+
+Hãy xem xét mạng lưới chằng chịt này: Nvidia, gã khổng lồ chip với vốn hóa 4.500 tỷ USD, lên kế hoạch đầu tư 100 tỷ USD vào OpenAI. OpenAI lại đang mua dịch vụ điện toán đám mây từ Oracle và hạ tầng từ CoreWeave. Trớ trêu thay, Oracle chi hàng chục tỷ USD mua chip của chính Nvidia để phục vụ OpenAI, còn CoreWeave cũng nhận vốn đầu tư lớn từ Nvidia. Mới đây nhất, OpenAI lại ký thỏa thuận mua chip từ AMD, đối thủ của Nvidia, kèm quyền mua tới 10% cổ phần của hãng này.
+
+Dòng tiền cứ thế xoay vòng trong một câu lạc bộ kim cương: Nvidia cấp vốn và chip, OpenAI phát triển mô hình, các công ty đám mây như Oracle và CoreWeave xây hạ tầng bằng chip của Nvidia để phục vụ OpenAI, và tất cả cùng được định giá cao ngất ngưởng.
+
+Đây là một hệ sinh thái tự cung tự cấp, nơi nhu cầu và tăng trưởng dường như được tạo ra từ bên trong, thay vì đến từ thị trường thực.
+
+Giới quan sát cảnh báo mối quan hệ đan xen giữa các ông lớn công nghệ trong cuộc đua AI đang gợi lại bóng dáng của “bong bóng công nghệ” cách đây hai thập kỷ (Ảnh: Getty).
+
+Ảo ảnh tăng trưởng trên bánh xe chuột
+
+Câu hỏi cốt lõi mà các nhà đầu tư sừng sỏ như Harris Kupperman của Praetorian Capital đặt ra là: "Liệu khoản đầu tư này có bao giờ được hoàn vốn không? Tôi nghĩ câu trả lời là: gần như không thể". Ông thẳng thừng gọi đây là một "bong bóng".
+
+Những con số dường như đang ủng hộ cho phe hoài nghi. Các chuyên gia tại Exponential View ước tính doanh thu toàn ngành AI năm 2025 chỉ đạt vỏn vẹn 60 tỷ USD - một con số quá nhỏ bé so với khoản đầu tư 371 tỷ USD. Bain & Co còn tính toán bi quan hơn: để hòa vốn cho các trung tâm dữ liệu vào năm 2030, Big Tech cần tạo ra thêm 2.000 tỷ USD doanh thu mỗi năm. Ngay cả kịch bản lạc quan nhất cũng cho thấy họ sẽ hụt tới 800 tỷ USD/năm.
+
+Sự thiếu hụt này phơi bày điểm yếu chí tử của mô hình hiện tại. Không giống như bong bóng đường sắt thế kỷ 19 hay viễn thông đầu những năm 2000 để lại hạ tầng bền vững (đường ray, cáp quang), khoản đầu tư vào AI lại giống một "bánh xe chuột" (là ẩn dụ chỉ một vòng lặp tốn kém và mệt mỏi, nơi người ta liên tục phải chạy, phải đầu tư để duy trì nhưng không thực sự tiến lên).
+
+Các bộ xử lý đồ họa (GPU) - trái tim của AI - lỗi thời chỉ sau vài năm. Điều này có nghĩa là các công ty phải liên tục đổ tiền vào để duy trì năng lực cạnh tranh, một vòng xoáy chi phí không có điểm dừng.
+
+Thêm vào đó, những rào cản vật lý đang dần hiện hữu. Việc xây một trung tâm dữ liệu mất 2-3 năm, nhưng để kết nối nó với lưới điện có thể tốn tới 8 năm. Bang Virginia, "thủ phủ trung tâm dữ liệu thế giới", đã cảnh báo rằng việc đáp ứng toàn bộ nhu cầu năng lượng cho các dự án này là "rất khó".
+
+Quan trọng hơn, hiệu quả thực tế của AI trong kinh doanh vẫn là một dấu hỏi lớn. Một báo cáo của McKinsey cho thấy gần 80% doanh nghiệp ứng dụng AI tạo sinh không ghi nhận "tác động đáng kể lên lợi nhuận". Sự ra mắt có phần nguội lạnh của GPT-5 cũng dấy lên câu hỏi: phải chăng kỷ nguyên "cứ thêm dữ liệu là AI sẽ tốt hơn" đã đến hồi kết?
+
+Rủi ro hệ thống từ những món nợ giấu mặt
+
+Mối quan hệ "liên quan nội bộ" giữa các ông lớn AI gợi nhớ đến thời kỳ đen tối của bong bóng dot-com, khi các công ty thổi phồng giá trị của nhau thông qua các giao dịch vòng tròn. Gil Luria, Giám đốc điều hành tại D.A. Davidson, cảnh báo rằng những giao dịch này có thể "khiến giá trị của họ bị thổi phồng giả tạo", và một khi nhà đầu tư nhận ra, hiện tượng "xì hơi" là không thể tránh khỏi.
+
+Nguy hiểm hơn, bức tranh tài chính đang ngày càng mờ đục. Để tài trợ cho cuộc đua tốn kém, các công ty như Meta, OpenAI và CoreWeave đang ngày càng dựa vào các quỹ tín dụng tư nhân, thường thông qua các "pháp nhân có mục đích đặc biệt" (SPV). Công cụ tài chính này giúp họ "giấu nợ" khỏi bảng cân đối kế toán, khiến việc đánh giá rủi ro trở nên cực kỳ khó khăn.
+
+Rủi ro này không còn gói gọn trong thung lũng Silicon. Theo nhà đầu tư Paul Kedrosky, nó đang lan sang các nhà đầu tư phổ thông. Các quỹ tín dụng tư nhân huy động vốn từ công ty bảo hiểm và quỹ ETF bất động sản để rót vào trung tâm dữ liệu. Và dĩ nhiên, bất kỳ ai sở hữu cổ phiếu của 7 gã khổng lồ công nghệ (Apple, Google, Amazon, Meta, Microsoft, Nvidia, Tesla) - chiếm tới 35% giá trị S&P 500 - đều đang gián tiếp đặt cược vào ván bài này.
+
+Nếu AI không mang lại hiệu quả như kỳ vọng, "thị trường cổ phiếu công nghệ có thể chứng kiến một cú sụt giảm mạnh, kéo theo những tác động tiêu cực lan rộng đến toàn bộ nền kinh tế", Oxford Economics cảnh báo.

@@ -1,0 +1,47 @@
+Trí thông minh nhân tạo (AI) đang trở thành một phần không thể thiếu trong nhiều lĩnh vực, nhưng sự phát triển của nó cũng đi kèm với những thách thức lớn về nguồn cung năng lượng.
+
+Mỗi trung tâm dữ liệu lớn tiêu thụ lượng điện tương đương hàng chục nghìn gia đình. Ảnh: Mrinmoy Paul
+
+Nhu cầu điện của các trung tâm dữ liệu lớn
+
+Hạt Culpeper thuộc bang Virginia là một vùng quê yên bình tại Mỹ với các trang trại chăn nuôi quy mô gia đình. Nhưng chỉ trong vài năm qua, chính quyền hạt đã phê duyệt kế hoạch xây dựng bảy dự án trung tâm dữ liệu lớn, phục vụ các công ty công nghệ trong kế hoạch mở rộng khả năng của trí thông minh nhân tạo (AI) tạo sinh. Bên trong những tòa nhà khổng lồ này, hàng loạt máy chủ sẽ giúp huấn luyện các mô hình AI là nền tảng cho những chatbot nổi tiếng như ChatGPT và cung cấp câu trả lời cho hàng tỷ truy vấn hàng ngày từ khắp nơi trên thế giới.
+
+Sự phát triển bùng nổ của các trung tâm dữ liệu lớn có thể gây ra những tác động sâu rộng đến cộng đồng dân cư. Mỗi cơ sở tiêu thụ lượng điện tương đương với hàng chục nghìn hộ gia đình, gây áp lực lên hệ thống điện của khu vực.
+
+Virginia – nơi được mệnh danh là thủ đô trung tâm dữ liệu của thế giới - hiện tại có khoảng 340 trung tâm dữ liệu. Những cơ sở này sử dụng hơn 25% tổng lượng điện tiêu thụ của cả bang, theo ước tính của Viện nghiên cứu EPRI (Mỹ). Dù các trung tâm dữ liệu mang lại nhiều lợi ích kinh tế, sự gia tăng về số lượng và quy mô của chúng có thể khiến nhu cầu điện ở Virginia tăng gấp đôi trong 10 năm tới.
+
+Sarah Parmelee, thành viên của Hội đồng Môi trường Piedmont ở Virginia, lo ngại rằng hệ thống điện trong khu vực sẽ không đáp ứng đủ mức tiêu thụ ngày càng gia tăng. "Các nhà hoạch định chính sách nói rằng họ sẽ mua điện từ khu vực lân cận. Tuy nhiên, những khu vực đó cũng đang gặp khó khăn về nguồn cung ứng điện", Parmelee cho biết.
+
+Tình trạng trên không chỉ xảy ra tại Virginia mà còn ở nhiều nơi khác trên thế giới, nơi số lượng các trung tâm dữ liệu đang tăng lên với tốc độ kỷ lục. Tại Ireland, các trung tâm dữ liệu tiêu thụ hơn 20% lượng điện của cả nước. Ở một số bang khác của nước Mỹ, lượng điện tiêu thụ của các cơ sở này đã vượt quá 10%.
+
+Tính toán nhu cầu năng lượng của AI
+
+Vấn đề càng trở nên phức tạp khi các công ty công nghệ thường không minh bạch về nhu cầu sử dụng điện của hệ thống AI nhằm đảm bảo tính cạnh tranh với các công ty đối thủ. "Tôi nghĩ rằng mọi nhà nghiên cứu trong lĩnh vực này đều gặp khó khăn vì không có dữ liệu chi tiết về những gì đang diễn ra", Alex de Vries, nhà nghiên cứu tại Đại học Tự do Amsterdam, chia sẻ. "Chúng tôi chỉ có thể cố gắng hết sức, thử nghiệm nhiều cách khác nhau để ước tính số liệu".
+
+Cách tiếp cận đầu tiên gọi là "phương pháp chuỗi cung ứng", trong đó các nhà nghiên cứu đánh giá nhu cầu năng lượng của AI bằng cách phân tích dữ liệu về số lượng phần cứng được phân phối và sử dụng cho các trung tâm dữ liệu trên thị trường.
+
+Ví dụ, trong nghiên cứu được công bố trên tạp chí Joule vào tháng 10/2023, Vries đã tính toán mức tiêu thụ điện hàng năm của một máy chủ NVIDIA A100, sau đó ông nhân với số lượng máy chủ cần thiết cho các tác vụ AI để ước tính tổng điện năng tiêu thụ. Dựa trên cách tính này, ông dự đoán nếu Google tích hợp AI tạo sinh như ChatGPT vào toàn bộ các kết quả tìm kiếm, trung tâm dữ liệu của họ có thể cần tới 400.000 - 500.000 máy chủ NVIDIA A100, và tiêu thụ lượng điện khoảng 23- 29 terawatt giờ (TWh) mỗi năm.
+
+Cách tiếp cận thứ hai gọi là "phương pháp tiếp cận từ dưới lên". Các nhà nghiên cứu sử dụng phần mềm như CodeCarbon để truy cập thông số kỹ thuật của các chip đang xử lý mô hình AI trong trung tâm dữ liệu. Từ đó, phần mềm có thể ước tính mức điện năng tiêu thụ của phần cứng khi thực hiện các tác vụ AI, chẳng hạn như yêu cầu tạo hình ảnh hoặc trò chuyện dưới dạng văn bản.
+
+"Các tác vụ khác nhau tiêu thụ mức điện năng khác nhau. Kết quả tính toán cho thấy quá trình tạo ra một hình ảnh từ văn bản tiêu thụ lượng điện trung bình khoảng 0,5Wh, trong khi trò chuyện dưới dạng văn bản tốn ít điện hơn một chút", Sasha Luccioni, nhà nghiên cứu AI tại công ty Hugging Face, người tham gia phát triển phần mềm CodeCarbon, cho biết. Để dễ hình dung, một chiếc điện thoại thông minh cần khoảng 22 Wh điện để sạc đầy pin.
+
+Điểm hạn chế của phương pháp này là phần mềm CodeCarbon không thể truy cập mức tiêu thụ năng lượng của một số loại chip, bao gồm chip TPU độc quyền của Google. Thêm vào đó, phần mềm chỉ hoạt động trên mô hình AI mã nguồn mở có quy mô nhỏ hơn nhiều so với các mô hình thương mại lớn như ChatGPT.
+
+Hiện nay, một số Chính phủ đã yêu cầu các công ty công nghệ minh bạch hơn về nhu cầu sử dụng điện cho hệ thống AI của họ. Vào năm 2023, Liên minh châu Âu (EU) đã ban hành Chỉ thị về Hiệu quả Năng lượng, trong đó yêu cầu các trung tâm dữ liệu có công suất từ 500 kW trở lên phải báo cáo mức tiêu thụ năng lượng hằng năm.
+
+Phân tích xu hướng toàn cầu
+
+Dựa vào phương pháp chuỗi cung ứng, Cơ quan Năng lượng Quốc tế (IEA) ước tính lượng điện mà các trung tâm dữ liệu sử dụng vào năm 2022 dao động từ 240 đến 340 TWh, tương đương khoảng 1-1,3% tổng nhu cầu điện trên thế giới. Nếu tính cả cơ sở hạ tầng khai thác tiền điện tử và truyền dữ liệu, tỷ lệ này sẽ ở mức 2%.
+
+Trong thời gian tới, sự phát triển bùng nổ của AI có thể khiến mức tiêu thụ điện tăng lên, nhưng vẫn chiếm tỷ trọng tương đối nhỏ trong tổng nhu cầu điện toàn cầu dự kiến sẽ tăng hơn 80% vào năm 2050. Nguyên nhân là do quá trình điện khí hóa của nhiều ngành công nghiệp, sự gia tăng của ôtô điện và nhu cầu về điều hòa không khí ngày càng cao.
+
+Xét theo quy mô toàn cầu, tác động của AI đến nhu cầu điện trong tương lai không quá lớn. Nhưng vấn đề đặt ra là các trung tâm dữ liệu thường tập trung ở một số khu vực nhất định.
+
+Nhiều công ty xây dựng trung tâm dữ liệu ở gần nhau để chia sẻ hệ thống lưới điện, hệ thống làm mát, và truyền dữ liệu hiệu quả hơn giữa các máy chủ. Điều này có thể gây ra những tác động xấu, mang tính cục bộ tới cộng đồng địa phương. Khi nhu cầu điện tăng cao, nguồn cung có thể không đáp ứng kịp, dẫn đến giá điện sinh hoạt tăng lên. Ngoài ra còn có những vấn đề khác như ô nhiễm môi trường đất, nước...
+
+Một số công ty công nghệ đang hướng tới các nguồn năng lượng tái tạo nhằm giảm bớt áp lực cho hệ thống điện của địa phương. Ví dụ, công ty Microsoft đã ký thỏa thuận khởi động lại một lò phản ứng hạt nhân tại khu vực Three Mile Island ở bang Pennsylvania (Mỹ) để cung cấp điện cho hệ thống AI của họ.
+
+Tại Virginia, Báo cáo của Ủy ban Đánh giá Kiểm toán Lập pháp Chung (JLARC) cho biết để đáp ứng đủ nhu cầu điện trong tương lai, chính quyền bang cần tăng gấp đôi tốc độ xây dựng các cơ sở năng lượng mặt trời so với năm 2024 và phát triển các trang trại gió xa bờ với công suất cao hơn tất cả các dự án hiện có.
+
+Lê Hùng (Theo Nature)

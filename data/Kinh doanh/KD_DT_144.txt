@@ -1,0 +1,45 @@
+Title: Bitcoin thoát bóng ma tulip nhưng đang "nín thở" trước cá mập Strategy
+
+Trong gần 2 thập kỷ qua, những nhà phê bình gay gắt nhất thường ví bitcoin như "bong bóng hoa tulip" thế kỷ 17 - một biểu tượng của sự đầu cơ điên rồ và sụp đổ chóng vánh. Tuy nhiên, gió dường như đã đổi chiều. Eric Balchunas, chuyên gia quỹ ETF kỳ cựu của Bloomberg, mới đây đã thẳng thắn tuyên bố rằng sự so sánh này đã trở nên lỗi thời và khiên cưỡng.
+
+Ông Balchunas lập luận rằng, trong khi thị trường hoa tulip chỉ "dính một cú đấm đã gục ngã" và tan biến sau 3 năm, thì bitcoin đã hứng chịu tới 6-7 cú đòn chí mạng, sụp đổ rồi lại hồi sinh, lập đỉnh mới và tồn tại bền bỉ suốt 17 năm. Chỉ riêng sức bền đó đã là câu trả lời đanh thép nhất cho những hoài nghi về giá trị của tài sản số này. Ngay cả khi bitcoin không tạo ra dòng tiền như cổ phiếu, nó vẫn có vị thế tương tự như vàng hay các tác phẩm nghệ thuật quý hiếm.
+
+Tuy nhiên, khi nỗi lo về giá trị nội tại của bitcoin dần lắng xuống, thị trường lại đối mặt với một mối lo ngại thực tế và đáng sợ hơn nhiều: Sự an nguy của Strategy - công ty đang nắm giữ kho bitcoin lớn nhất thế giới.
+
+Sau 17 năm, bitcoin đã chứng minh bản lĩnh khi đập tan so sánh với hoa tulip (Ảnh: CoinDesk).
+
+Khi "gã khổng lồ" bắt đầu run rẩy
+
+Câu chuyện về Strategy (Mã chứng khoán: MSTR) đang trở thành tâm điểm của giới tài chính toàn cầu. Từ một công ty phần mềm, dưới bàn tay chèo lái của Michael Saylor, Strategy đã chuyển mình thành một "kho bạc bitcoin" khổng lồ, sở hữu tới 650.000 BTC, tương đương khoảng 60 tỷ USD và chiếm tới 3,1% tổng nguồn cung bitcoin đang lưu hành trên toàn thế giới.
+
+Sự trỗi dậy của Strategy từng được xem là minh chứng cho sự chấp nhận của dòng tiền tổ chức đối với tiền mã hóa. Nhưng "thuyền to thì sóng lớn", vị thế quá lớn này đang biến Strategy thành một "quả bom nổ chậm" tiềm tàng.
+
+Chỉ trong vòng một tháng qua, cổ phiếu MSTR đã bốc hơi 30% giá trị, và nếu tính từ đỉnh lịch sử tháng 11/2024, mã này đã lao dốc tới 65%. Sự sụt giảm này diễn ra song song với đà điều chỉnh của bitcoin, khi đồng tiền này rơi từ mức đỉnh kỷ lục 126.000 USD xuống vùng 85.000 USD.
+
+Giới quan sát đang đặt ra câu hỏi: Liệu Strategy có "quá lớn để sụp đổ"?
+
+Lịch sử tài chính thế giới chưa bao giờ thiếu những bài học đau đớn về những tượng đài sụp đổ. Từ Enron - công ty từng lớn thứ 7 tại Mỹ nhưng "bay màu" vì gian lận kế toán, đến Lehman Brothers trong khủng hoảng 2008, hay gần đây nhất là cú sốc từ thung lũng Silicon và FTX trong ngành crypto.
+
+Eli Cohen, một luật sư doanh nghiệp chuyên về hạ tầng tài sản số, cảnh báo rằng nhãn mác công ty đại chúng hay quy mô vốn hóa lớn không phải là "kim bài miễn tử". Nếu Strategy vỡ trận, sẽ chẳng có gói cứu trợ nào từ chính phủ như các ngân hàng, và cổ đông sẽ là những người gánh chịu hậu quả nặng nề nhất.
+
+"Lần đầu tiên" của Michael Saylor và áp lực thanh khoản
+
+Điều khiến thị trường lo ngại nhất không chỉ là giá cổ phiếu giảm, mà là sự thay đổi trong chính sách của Strategy. Michael Saylor, người từng được mệnh danh là "nhà truyền giáo bitcoin" với triết lý "mua và nắm giữ vĩnh viễn", nay đã phải thừa nhận một thực tế phũ phàng: Công ty có thể buộc phải bán bitcoin.
+
+Mặc dù liên tục kêu gọi nhà đầu tư "đừng bao giờ bán", nhưng trước áp lực tài chính và nghĩa vụ nợ, Strategy mới đây đã phải thiết lập một quỹ dự trữ trị giá 1,44 tỷ USD. Động thái này nhằm mục đích đảm bảo dòng tiền trả cổ tức và chuẩn bị cho kịch bản xấu nhất: Khi giá trị tài sản ròng điều chỉnh (mNAV) giảm xuống dưới mức 1. Nói một cách dễ hiểu, nếu thị trường định giá công ty thấp hơn lượng bitcoin họ đang nắm giữ, áp lực thanh khoản sẽ buộc họ phải bán bớt tài sản để cân đối bảng cân đối kế toán.
+
+Đáng chú ý, Strategy đang gánh khoản trái phiếu chuyển đổi lên tới 8,2 tỷ USD. Nếu giá cổ phiếu không phục hồi đủ để chuyển đổi sang vốn cổ phần, họ sẽ cần một lượng tiền mặt khổng lồ để đáo hạn nợ. Viễn cảnh phải "xả" kho bitcoin để trả nợ không còn là lý thuyết suông mà đã được chính ban lãnh đạo công ty thừa nhận như một rủi ro hiện hữu.
+
+Strategy hiện là một trong những công ty nắm giữ bitcoin lớn bậc nhất thế giới, sở hữu khoảng 650.000 BTC, tương đương gần 60 tỷ USD, chiếm khoảng 3,1% tổng nguồn cung bitcoin đang lưu hành (Ảnh: Alarmy).
+
+Hãy tưởng tượng điều gì sẽ xảy ra nếu Strategy bắt đầu bán tháo?
+
+Theo bà Katherine Dowling, Tổng cố vấn tại Bitwise Asset Management, việc bán tài sản để tái cấu trúc tài chính là hoạt động bình thường của doanh nghiệp. Tuy nhiên, với Strategy, câu chuyện không đơn giản như vậy. Chính những phát biểu cứng rắn trước đây của Michael Saylor đã biến việc nắm giữ bitcoin thành một "tôn giáo", và bất kỳ hành động bán ra nào cũng sẽ bị coi là sự phản bội niềm tin, gây chấn động tâm lý toàn thị trường.
+
+Trantor, một nhân vật uy tín trong giới tài chính phi tập trung, nhận định rằng bất kỳ quyết định bán BTC nào của Strategy cũng sẽ kích hoạt làn sóng bán tháo từ các nhà đầu tư nhỏ lẻ và tạo cơ hội cho giới đầu cơ bán khống. Thị trường tiền số, vốn đang nơm nớp lo sợ về một "Terra Luna hay FTX tiếp theo", sẽ cực kỳ nhạy cảm với thông tin này.
+
+Nguy hiểm hơn là rủi ro thanh khoản. Sal Ternullo, cựu lãnh đạo mảng crypto của KPMG, chỉ ra rằng nếu Strategy lâm vào khủng hoảng tiền mặt trong khi cổ phiếu bị định giá thấp, họ sẽ rơi vào vòng xoáy tử thần: Buộc phải bán tài sản giá rẻ để cứu giá cổ phiếu, càng bán giá càng giảm, và khủng hoảng càng trầm trọng hơn.
+
+Dù Strategy vẫn đang ở vị thế tương đối vững vàng với mNAV ở mức 1,14 và quỹ dự trữ tiền mặt mới lập, nhưng bóng ma rủi ro vẫn lơ lửng. Câu chuyện của Strategy hiện tại không chỉ là câu chuyện của một doanh nghiệp, mà là phép thử cho sự trưởng thành của thị trường bitcoin: Liệu đồng tiền số vua này có đủ sức hấp thụ cú sốc nếu "cá mập" lớn nhất bị mắc cạn?
+
+Thị trường tài chính không có gì là chắc chắn. Như lời Mitchell Rudy, một chuyên gia trong ngành nhận định: "Có thể Strategy đủ đà quán tính để vượt qua sóng gió, nhưng kịch bản thất bại dù thấp vẫn không thể loại trừ hoàn toàn".

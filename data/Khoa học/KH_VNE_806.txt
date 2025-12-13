@@ -1,0 +1,21 @@
+MỹNhờ giao diện não-máy tính mới, một bệnh nhân bị liệt có thể tự dùng cánh tay robot để di chuyển đồ vật trong suốt 7 tháng mà không cần điều chỉnh.
+
+Bệnh nhân điều khiển cánh tay robot bằng suy nghĩ trong 7 tháng Bệnh nhân bị liệt điều khiển cánh tay robot bằng suy nghĩ. Video: Đại học California San Francisco
+
+Nhóm nghiên cứu tại Đại học California San Francisco, Mỹ, giúp một người đàn ông bị liệt điều khiển cánh tay robot thông qua thiết bị chuyển tiếp tín hiệu từ não đến máy tính, Interesting Engineering hôm 6/3 đưa tin. Anh có thể cầm nắm, di chuyển và thả rơi đồ vật chỉ bằng cách tưởng tượng bản thân làm những hành động đó. Nghiên cứu mới được công bố trên tạp chí Cell.
+
+Thiết bị mới, được gọi là giao diện não - máy tính (BCI), hoạt động trong thời gian kỷ lục 7 tháng mà không cần điều chỉnh nhiều. Trước đây, các thiết bị tương tự chỉ có thể hoạt động trong một hoặc hai ngày.
+
+Tiến bộ lớn nhất đến từ mô hình trí tuệ nhân tạo (AI) mà BCI này được xây dựng dựa theo. Nó thích ứng với những thay đổi tự nhiên trong hoạt động não qua thời gian, cho phép người tham gia tinh chỉnh những chuyển động tưởng tượng của mình.
+
+"Sự kết hợp học hỏi giữa con người và AI là giai đoạn tiếp theo của các giao diện não - máy tính. Đó là những gì chúng ta cần để đạt được chức năng tinh vi, giống như thật", nhà thần kinh học Karunesh Ganguly cho biết.
+
+Người đàn ông tham gia nghiên cứu, bị liệt do đột quỵ, được cấy ghép những cảm biến nhỏ trên bề mặt não. Khi người này hình dung việc di chuyển các chi hoặc đầu, cảm biến sẽ ghi nhận hoạt động não. Nhóm nghiên cứu nhận thấy, dù các mẫu chuyển động của não nhất quán về hình dạng, vị trí chính xác của chúng lại thay đổi nhẹ từ ngày này sang ngày khác. Điều này giúp giải thích cho việc tại sao các BCI trước đây nhanh chóng thất bại.
+
+Để giải quyết vấn đề này, nhóm nghiên cứu phát triển một mô hình AI có thể điều chỉnh theo những thay đổi hàng ngày. Trong 2 tuần, bệnh nhân cố gắng hình dung những chuyển động đơn giản trong khi AI học từ tín hiệu não. Khi người này lần đầu thử điều khiển cánh tay robot, các chuyển động vẫn chưa chính xác. Để nâng cao độ chính xác, anh tập luyện với một cánh tay robot ảo cung cấp phản hồi theo thời gian thực.
+
+Ngay khi học được cách sử dụng cánh tay ảo, bệnh nhân nhanh chóng áp dụng được những kỹ năng này với cánh tay robot thật. Anh có thể cầm nắm các khối hộp bằng cánh tay robot, xoay và đặt chúng vào nhiều vị trí khác nhau. Trong một nhiệm vụ phức tạp hơn, anh mở tủ, lấy ra một chiếc cốc và đặt nó dưới vòi của cây nước. Nhiều tháng sau, bệnh nhân vẫn có thể sử dụng cánh tay robot chỉ sau một buổi hiệu chỉnh ngắn khoảng 15 phút.
+
+Ganguly cùng đồng nghiệp đang tập trung cải tiến AI để chuyển động của cánh tay robot trở nên mượt mà và nhanh hơn. Họ cũng hướng đến thử nghiệm hệ thống trong môi trường gia đình thực tế. "Tôi tin rằng giờ chúng tôi đã nắm được cách xây dựng hệ thống và có thể khiến nó hiệu quả", Ganguly nói.
+
+Thu Thảo (Theo Interesting Engineering)

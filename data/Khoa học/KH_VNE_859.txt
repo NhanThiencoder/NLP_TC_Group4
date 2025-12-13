@@ -1,0 +1,15 @@
+Nhật BảnNhóm nghiên cứu Đại học Osaka tạo công nghệ giúp robot hình người thể hiện trạng thái cảm xúc như phấn khích hoặc buồn ngủ thông qua chuyển động gương mặt giống các cơn sóng chồng lên nhau.
+
+Robot trẻ em với biểu cảm buồn ngủ chân thực. Ảnh: Hisashi Ishihara
+
+Trong nghiên cứu công bố trên tạp chí Robotics and Mechatronics, nhà nghiên cứu Hisashi Ishihara và cộng sự phát triển một công nghệ tổng hợp biểu cảm gương mặt sống động cử động "chuyển động dạng sóng", biểu thị cử chỉ như hít thở, chớp mắt và ngáp dưới dạng cơn sóng đơn lẻ. Những cơn sóng này lan truyền tới các vùng mặt liên quan và phủ lên nhau để tạo ra chuyển động gương mặt theo thời gian thực. Phương pháp mới giúp loại bỏ yêu cầu chuẩn bị dữ liệu hành động phức tạp và đa dạng, đồng thời tránh việc thay đổi chuyển động dễ phát hiện. Ngoài ra, thông qua giới thiệu "điều biến dạng sóng", điều chỉnh cơn sóng đơn lẻ dựa trên trạng thái nội tại của robot, các thay đổi như tâm trạng có thể được phản ánh ngay lập tức.
+
+Trước đây, ngay cả khi robot trông đặc biệt giống con người trong ảnh chụp, việc quan sát nó cử động trực tiếp có thể gây khó chịu. Robot có thể mỉm cười, cau mày và thể hiện nhiều biểu cảm gương mặt quen thuộc, nhưng những biểu cảm này thường thiếu nền tảng cảm xúc. Sự thiếu liên kết này tạo ra cảm xúc không chân thực, dẫn tới cảm giác khó chịu.
+
+Cho tới nay, robot hình người với đặc điểm gương mặt linh động dựa vào "phương pháp chắp vá" để thể hiện cảm xúc trong thời gian dài. Cách tiếp cận này bao gồm lập trình sẵn nhiều tình huống hành động và chuyển đổi giữa chúng khi cần, đảm bảo giảm tối đa chuyển động gương mặt kém tự nhiên. Tuy nhiên, phương pháp đó đặt ra nhiều thách thức thực tiễn, như chuẩn bị trước tình huống hành động phức tạp, giảm tối đa chuyển động kém tự nhiên dễ thấy
+
+Theo Koichi Osuka, đồng tác giả nghiên cứu, phương pháp tổng hợp biểu cảm gương mặt sống động của họ sẽ cho phép robot biểu lộ cảm xúc chân thực và thể hiện thay đổi tâm trạng tương ứng với hoàn cảnh xung quanh, bao gồm tương tác với con người. Điều này sẽ làm phong phú giao tiếp cảm xúc giữa con người và robot. Việc phát triển hệ thống phản ánh chi tiết cảm xúc bên trong có thể tạo ra robot "có trái tim".
+
+Thông qua chủ động điều chỉnh và thể hiện cảm xúc, công nghệ mới sẽ tăng cường đáng kể giá trị của robot, giúp chúng trao đổi thông tin với con người theo cách tự nhiên và giống người hơn.
+
+An Khang (Theo Sci Tech Daily)

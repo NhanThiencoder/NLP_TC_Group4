@@ -1,0 +1,53 @@
+Trong bối cảnh chiến sự Ukraine ngày càng khốc liệt với sự can thiệp của drone và hệ thống tác chiến điện tử hiện đại, Nga vừa giới thiệu một "quái vật" mới: robot bánh xích Kurier được trang bị súng phun lửa Shmel (robot phun lửa Kurier). Không chỉ là phương tiện vận chuyển, Kurier nay biến thành "mini-Solntsepyok" – một hệ thống phun lửa di động, có khả năng thiêu rụi vị trí địch từ xa mà không cần lính Nga tiếp cận. Với tốc độ 35 km/h và 10 khẩu rocket thermobaric, đây có thể là bước ngoặt trong cuộc chiến robot hóa, nơi công nghệ Nga đang chứng minh sức sống mãnh liệt trên chiến trường Ukraine.
+
+Robot phun lửa Kurier. Ảnh: colonelcassad.livejournal.com
+
+Robot phun lửa Kurier, hay còn gọi là NRTK Kurier (nền tảng robot kỹ thuật mặt đất Kurier), ra đời như một giải pháp đa năng cho các nhiệm vụ hậu cần và hỗ trợ chiến đấu.
+
+Ban đầu, Kurier được thiết kế chủ yếu để vận chuyển hàng hóa, sơ tán thương binh và rải mìn, giúp giảm thiểu rủi ro cho binh sĩ Nga trong môi trường đầy drone và hỏa lực đối phương.
+
+Với khung gầm bánh xích chắc chắn, robot này có khả năng di chuyển linh hoạt trên địa hình gồ ghề, đạt tốc độ tối đa lên đến 35 km/h – một con số ấn tượng cho một nền tảng không người lái cỡ nhỏ.
+
+Phạm vi điều khiển của Kurier có thể đạt 10km, nhờ sử dụng cáp quang fiber-optic để kết nối với người vận hành, giúp chống nhiễu từ hệ thống tác chiến điện tử (EW) – một vấn đề phổ biến trên chiến trường Ukraine.
+
+Về công nghệ cốt lõi, Kurier dựa trên nền tảng mô-đun, cho phép dễ dàng thay đổi nhiệm vụ mà không cần can thiệp sâu vào cấu trúc.
+
+Robot được trang bị hệ thống ổn định tiên tiến, cải thiện độ chính xác khi bắn và khả năng cân bằng trên địa hình bất lợi.
+
+Kích thước gọn nhẹ (dù các nguồn chưa công bố số liệu chính xác về chiều dài hay trọng lượng) giúp Kurier dễ dàng ngụy trang, ẩn náu trong bụi rậm hoặc công sự tạm thời, và triển khai nhanh chóng đến tuyến đầu.
+
+Trong các phiên bản trước, Kurier đã được tích hợp súng máy 7.62mm PKT với hệ thống ổn định nâng cao, hoặc lựu đạn phóng AGS-17, chứng tỏ khả năng hỗ trợ hỏa lực đa dạng.
+
+Mẫu thử nghiệm của robot mặt đất "mini-Solntsepyok" được lắp đặt các bệ phóng rocket trên nền tảng bánh xích. (Nguồn: BTVT.INFO)
+
+Tuy nhiên, nâng cấp lớn nhất gần đây – được thử nghiệm từ tháng 3/2024 và triển khai rộng rãi vào cuối năm – là việc biến Kurier thành nền tảng phun lửa, với khả năng tạo màn khói che chắn bằng lựu đạn khói UDS, hỗ trợ các đơn vị tiến công an toàn hơn.
+
+Sức mạnh thực sự của Kurier nằm ở sự kết hợp với súng phun lửa Shmel – một biểu tượng vũ khí thermobaric của Nga từ thời Chiến tranh Afghanistan.
+
+Shmel, hay RPO-A Shmel, là loại rocket phun lửa bộ binh phản lực, sử dụng đầu đạn thermobaric tạo ra quả cầu lửa khổng lồ với sức công phá tương đương đạn pháo 152mm.
+
+Biến thể gốc có cỡ nòng 93mm, tầm bắn lên đến 800 mét, chuyên dùng để xuyên thủng công sự phức tạp và tiêu diệt lực lượng bộ binh ẩn náu.
+
+Đến phiên bản hiện đại Shmel-M (hay Shmel-2, "Prize"), hệ thống được nâng cấp với cỡ nòng 90mm, tầm bắn mở rộng lên 1.7km, và cơ chế nạp đạn nhanh bằng cách thay thế container dùng một lần.
+
+Một biến thể nhẹ hơn là Borodach (72.5mm), nặng chỉ 4.7kg, có thể phá hủy xe bọc thép nhẹ hoặc thậm chí thách thức xe tăng đối phương nhờ hiệu ứng nổ thermobaric – tạo đám mây lửa không thể thoát khỏi, gây bỏng và sốc sóng nội tạng.
+
+Khi tích hợp vào Kurier, Shmel không còn là vũ khí cầm tay mà trở thành module phun lửa tự động.
+
+Hình ảnh robot phun lửa mới của Nga trên xe di chuyển ra khu vực xung đột. (Nguồn: Defense Express/Truyền thông Nga)
+
+Các phiên bản mới nhất mang theo pin 8 đến 10 khẩu Shmel, cho phép bắn loạt (salvo) đồng thời hoặc tuần tự, biến robot thành "mini-Solntsepyok" – phiên bản thu nhỏ của hệ thống TOS-1A huyền thoại với khả năng thiêu rụi cả khu vực rộng lớn.
+
+Quá trình này do các nhà phát triển như KB "Kulibin-group" và Robotic Engineering tại Moscow thực hiện, tận dụng đạn Shmel sẵn có để giảm chi phí và đơn giản hóa bảo trì.
+
+Trên chiến trường Ukraine, Kurier-Shmel đã được thử nghiệm tại khu vực Avdiivka và hướng Krasnoarmeysk, nơi nó tiếp cận vị trí địch ở khoảng cách gần, bắn loạt để dọn đường cho bộ binh mà không để lộ vị trí.
+
+Sự kết hợp này không chỉ tăng tính bất ngờ mà còn bảo vệ người vận hành khỏi drone trinh sát, giải quyết hạn chế của các hệ thống phun lửa lớn dễ bị phát hiện.
+
+Công nghệ đằng sau Kurier và Shmel đại diện cho sự tiến hóa nhanh chóng của Nga trong lĩnh vực robot chiến đấu.
+
+Từ một nền tảng logistics thất bại ban đầu, Kurier nay trở thành vũ khí hỗ trợ hỏa lực hiệu quả, với tiềm năng mở rộng sang tên lửa chống tăng hoặc trạm EW di động.
+
+Dù vẫn đang trong giai đoạn thử nghiệm chiến đấu, sự xuất hiện của những robot này báo hiệu một kỷ nguyên mới: nơi máy móc không chỉ chở hàng mà còn mang lửa địa ngục đến tận tuyến đầu.
+
+Trong tương lai gần, Kurier-Shmel có thể thay đổi cán cân, đặc biệt khi Nga tiếp tục tinh chỉnh để chống lại các mối đe dọa drone ngày càng tinh vi.

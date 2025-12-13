@@ -1,0 +1,45 @@
+Ngành công nghệ đã có 1 năm thăng hoa nhờ sự bùng nổ của công nghệ trí thông minh nhân tạo. Những dự đoán tiềm năng cho công nghệ mới đã khiến tổng vốn hóa Microsoft từng vượt mặt Apple để lên mức cao nhất thị trường, đồng thời khiến hàng loạt ông lớn như Google, Facebook, Amazon hay thậm chí là Tesla cũng phải đổ xô vào chạy đua.
+
+Với các nhà đầu tư, công nghệ AI không khác gì cái cơ hợp lý để đổ tiền vào cổ phiếu công nghệ khiến bong bóng này phình to để rồi bất ngờ xì hơi vào "Ngày thứ 2 đen tối" vừa qua.
+
+Riêng trong phiên 5/8/2024, thị trường chứng khoán đã chứng kiến tổng vốn hóa của các tập đoàn công nghệ lớn bốc hơi 1 nghìn tỷ USD. Hàng loạt những cái tên nổi tiếng như Nvidia, Apple hay Microsoft đỏ sàn.
+
+Thậm chí, thông tin nhà đầu tư huyền thoại Warren Buffett bán một nửa số cổ phiếu Apple nắm giữ và tích trữ đến 277 tỷ USD tiền mặt càng kích thích nỗi sợ hãi bán tháo của nhà đầu tư.
+
+Theo tờ Business Insider và hãng tin CNBC, bong bóng AI đang bị thổi phồng quá đà và đợt điều chỉnh lần này là hậu quả cho sự hứng khởi quá mức của các nhà đầu tư về một công nghệ chưa có gì nhiều để thể hiện.
+
+Báo cáo của Goldman Sachs từ tháng 6/2024 đã cảnh báo về tình trạng hàng loạt startup AI gọi vốn nhưng sản phẩm lại không tương xứng. Thậm chí câu chuyện về việc AI sẽ sớm thay thế con người có thể trở thành một cú lừa trong làng công nghệ.
+
+Một trong những quỹ đầu tư nổi tiếng thế giới là Elliott Management cũng đánh giá là các cổ phiếu như của Nvidia đang bị thổi phồng quá đà bởi làn sóng AI.
+
+Thất vọng
+
+Kể từ cuối tháng 7/2024, hãng Alphabet (Google) đã bắt đầu công bố báo cáo tài chính, khởi đầu cho hàng loạt tập đoàn công nghệ bắt đầu chiến dịch thuyết phục nhà đầu tư đồng ý đổ thêm tiền cho AI. Tuy nhiên việc tốn quá nhiều chi phí mà chưa đem lại lợi ích thiết thực nào khiến nhà đầu tư bắt đầu phân vân.
+
+Việc đổ hàng tỷ USD nghiên cứu, mua chip tiên tiến, xây dựng các trung tâm dữ liệu cỡ lớn, phát triển hệ thống điện toán đám mây...cho công nghệ AI có thể sẽ chưa đem về một sản phẩm thu lợi nhuận trong thời gian ngắn.
+
+Bản thân OpenAI, cha đẻ của ChatGPT cũng chưa hề có lợi nhuận chứ chưa kể đến các startup khác cùng ngành.
+
+Bản thân CEO Sundar Pichai của Google, tập đoàn công nghệ bị cho là đã chậm chân so với Microsoft trong mảng AI, đã né tránh trả lời trực tiếp các câu hỏi về lợi ích trực tiếp khi đầu tư công nghệ này. Chi phí tài sản cố định của hãng trong quý II/2024 đã tăng lên đến 13 tỷ USD, cao hơn nhiều so với 6,9 tỷ USD của quý I.
+
+Giám đốc tài chính Susan Li của Meta cũng gặp rắc rối khi trả lời các câu hỏi về lợi nhuận của những dự án AI. Bà Li cho biết hãng sẽ phải đổ ngày càng nhiều tiền hơn nữa từ nay đến năm 2025 cho cuộc đua AI này.
+
+Cụ thể từ nay đến cuối năm 2025, Meta dự kiến sẽ phải chi thêm 40 tỷ USD nữa cho nghiên cứu và phát triển AI.
+
+Ngay cả Microsoft, tập đoàn hưởng lợi lớn nhất từ thành công của ChatGPT, cũng phải tuyên bố với cổ đông rằng các sản phẩm AI sẽ chỉ kiếm được tiền sau 15 năm nữa và điều này đã gây thất vọng lớn cho những nhà đầu tư muốn kiếm lời nhanh. Giá cổ phiếu của Microsoft đã giảm hơn 2%.
+
+"Tốn quá nhiều tiền nhưng chẳng kiếm được bao nhiêu", báo cáo của Goldman Sachs vào tháng 6/2024 đã nhận xét về làn sóng đầu tư cho AI.
+
+Kết luận của Goldman cho thấy phần lớn các doanh nghiệp đầu tư vào AI chỉ để có câu trả lời cho nhà đầu tư hơn là tìm kiếm lợi nhuận trong ngắn hạn. Một số khác thì bị ép buộc bởi cuộc đua khởi phát từ các đối thủ.
+
+"Mô hình AI cần đầu tư khoảng 1 nghìn tỷ USD và phải phát triển theo hướng giải quyết được các vấn đề trong thực tế thì mới thực sự kiếm được lợi nhuận. Tuy nhiên mô hình phát triển, đầu tư AI hiện nay lại thiên hướng chiều lòng cổ đông hơn là thực sự kiếm lợi nhuận", chuyên gia Jim Covello của Goldman Sachs nhận định.
+
+Đồng quan điểm, giáo sư Daron Acemoglu của MIT, đồng thời là một chuyên gia kinh tế, cho rằng các sản phẩm AI hiện chỉ có thể ảnh hưởng chưa đến 5% lượng công việc của lao động và không thể có chuyện thay thế nhân lực trong ngắn hạn.
+
+Những dấu hiệu xì hơi của làn sóng AI đã bắt đầu kể từ khi thông tin Nvidia có thể phải hoãn giao hàng dòng chip Blackwell B200 mới nhất ít nhất 3 tháng vì lỗi thiết kế, khiến hàng loạt khách hàng như Meta, Google và Microsoft thất vọng.
+
+Tiếp đó ngày càng nhiều báo cáo về việc làn sóng AI đang bị thổi phồng quá đà, kết hợp với nỗi sợ Cục dự trữ liên bang Mỹ (FED) không hạ lãi suất kịp thời có thể khiến nền kinh tế suy thoái đã tạo nên cú điều chỉnh thị trường lớn phiên 5/8.
+
+Ở chiều tích cực, chuyên gia Dan Ives thuộc Wedbush cho rằng đây chỉ là một cuộc điều chỉnh của thị trường trong giai đoạn dài hơi tăng trưởng cho ngành công nghệ.
+
+*Nguồn: CNBC, BI

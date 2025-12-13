@@ -1,0 +1,33 @@
+Title: Xây dựng bản đồ số nông nghiệp nông thôn
+
+Bản đồ số nông nghiệp là công cụ giúp cho bà con nông dân và doanh nghiệp biết được điều kiện thổ nhưỡng, khi hậu... để quy hoạch cho nông nghiệp.
+
+Trong mô hình nông nghiệp thông minh, Bản đồ số nông nghiệp có vị trí quan trọng bởi qua đó người dân, doanh nghiệp có thể biết được vị trí, chất đất, khi hậu, thời tiết phù hợp với giống cây trồng nào, nguồn sản lượng ra sao… Đây chính là cơ sở dữ liệu quan trọng giúp người dân và doanh nghiệp triển khai, quy hoạch cây trồng vật nuôi cho phù hợp.
+
+Hải Hà là huyện đầu tiên của tỉnh Quảng Ninh xây dựng bản đồ nông hóa thổ nhưỡng phục vụ sản xuất nông nghiệp.
+
+Hải Hà là huyện đầu tiên của tỉnh Quảng Ninh xây dựng bản đồ nông hóa thổ nhưỡng phục vụ sản xuất nông nghiệp.
+
+Dự án nghiên cứu xây dựng dữ liệu bản đồ Nông hóa - Thổ nhưỡng phục vụ phát triển sản xuất nông nghiệp huyện Hải Hà đến năm 2020 và định hướng đến năm 2030 được Viện quy hoạch thiết kế nông nghiệp - Bộ Nông nghiệp và Phát triển nông thôn thực hiện trên cơ sở đánh giá thực trạng độ phì nhiêu đất đai và có khuyến cáo sử dụng phân bón cho phù hợp với đặc điểm đất đai từng vùng sản xuất; qua đó xác định được hướng chuyển đổi cơ cấu giống cây trồng sao cho phù hợp với các vùng sản xuất chuyên canh, vùng sản xuất nông nghiệp hàng hóa tập trung theo từng loại đất, theo các vùng sinh thái nhằm nâng cao hiệu quả sử dụng đất.
+
+Dựa trên những mẫu đất được phân tích, huyện Hải Hà đã xây dựng được 17 vùng sản xuất hàng hóa tập trung, thuộc các lĩnh vực trồng trọt, chăn nuôi, lâm nghiệp, thủy sản. Một số vùng sản xuất đã và đang được triển khai gồm: vùng trồng chè tập trung, vùng chuyên canh trồng nguyên liệu chăn nuôi, vùng trồng lúa chất lượng cao, vùng trồng rau an toàn… Đối với các vùng sản xuất hàng hóa tập trung của huyện Hải Hà được hình thành dựa kết kết quả khảo sát trong quá trình xây dựng bàn đồ nông hóa – thổ nhưỡng, hiện nay một số vùng đã cho hiệu quả kinh tế cao, từ đó góp phần nâng cao giá trị sản phẩm trên một đơn vị diện tích đất canh tác, tăng thu nhập cho người nông dân.
+
+Huyện Chư Pưh từng được mệnh danh là “thủ phủ” hồ tiêu của cả nước. Cây hồ tiêu đã mang lại nguồn thu nhập cao, giúp người dân có cuộc sống khá giả. Tuy nhiên, từ năm 2015 đến nay, hồ tiêu bị dịch bệnh chết nhiều, giá xuống thấp khiến nhiều hộ nông dân rơi vào khó khăn.
+
+Trước đây, hầu hết người dân trong thôn sản xuất dựa vào kinh nghiệm, không theo quy hoạch mà thích cây gì thì trồng cây đó, bón phân, tưới nước không kiểm soát. Vì vậy, dịch bệnh trên cây trồng gây thiệt hại về kinh tế. Sau giai đoạn hồ tiêu chết nhiều, những năm gần đây, người dân đã ý thức trong chuyển đổi cây trồng phù hợp với từng vùng gắn với thị trường tiêu thụ. Đặc biệt, sau khi huyện xây dựng bản đồ thổ nhưỡng, UBND xã tuyên truyền, vận động người dân nắm bắt để chuyển đổi cây trồng phù hợp, không trồng ồ ạt như trước. Chúng tôi kỳ vọng việc này sẽ mang lại kết quả thuận lợi khi người dân trồng đúng loại cây trên mảnh đất của mình. Huyện đang khảo sát để hình thành vùng chuyên canh các loại cây trồng, mở ra hướng phát triển nông nghiệp bền vững trong những năm tới.
+
+Để phục vụ người dân và thu hút các doanh nghiệp đầu tư vào lĩnh vực nông nghiệp, huyện đã mời các chuyên gia đầu ngành khảo sát, phân tích, đánh giá mẫu đất sản xuất nông nghiệp ở từng xã, thị trấn. Qua đó, huyện xác định từng vùng đất phù hợp nhất với loại cây trồng nào, định mức phân bón ra sao. Bản đồ thổ nhưỡng sẽ hỗ trợ đắc lực cho quá trình sản xuất của nông dân trong huyện.
+
+Đến nay, dự án đã xây dựng được cơ sở dữ liệu đất sản xuất nông nghiệp, đất đồi núi chưa sử dụng và phần mềm quản lý, khai thác, sử dụng dữ liệu cho huyện cũng như 9 xã, thị trấn. Trong đó, tập trung 6 nhóm đất và 10 nhóm cây trồng chính như: lúa, bắp, mì; nhóm hoa và rau màu; nhóm các loại cây ăn quả như cam, quýt, bưởi, sầu riêng, mãng cầu, bơ, mít, nhãn, chanh dây, chuối; nhóm cây công nghiệp dài ngày và cây dược liệu…
+
+Từ tháng 6/2021 đến nay, Sở Nông nghiệp và Phát triển nông thôn tỉnh Thanh Hóa đã phối hợp với UBND các huyện và các ngành, đơn vị liên quan tập trung thực hiện xây dựng bản đồ nông hóa phục vụ thâm canh chuyển đổi cơ cấu cây trồng và quản lý sử dụng bền vững tài nguyên đất sản xuất nông nghiệp trên địa bàn tỉnh (giai đoạn 1).
+
+Nhờ đó, Thanh Hóa đã hoàn thành xây dựng bản đồ nông hóa cho 165 xã (tỷ lệ 1/5.000 vùng đồng bằng và tỷ lệ 1/10.000 vùng đồi núi); bản đồ nông hóa cấp huyện tỷ lệ 1/25.000 cho 09 huyện (gồm: Lang Chánh, Bá Thước, Thạch Thành, Cẩm Thủy, Như Xuân, Như Thanh, Thường Xuân, Yên Định và Hà Trung), với tổng diện tích thực hiện 102.813 ha đất sản xuất nông nghiệp, chiếm 42,3% diện tích đất sản xuất nông nghiệp toàn tỉnh. Hiện nay, UBND tỉnh đang tiến hành các bước phê duyệt kết qủa nhiệm vụ để ứng dụng bản đồ nông hóa vào công tác quản lý, tổ chức sản xuất nông nghiệp tại các địa phương.
+
+Để ứng dụng bản đồ nông hóa vào sản xuất, phát huy hiệu quả trong thực tiễn, sau khi bản đồ được cấp có thẩm quyền phê duyệt, các cấp, các ngành, địa phương cần tập huấn, tuyên truyền và chuyển giao bản đồ đến cơ quan quản lý, các doanh nghiệp sản xuất và người dân; phổ biến, hướng dẫn sử dụng rộng rãi phần mềm Webgis trong quản lý, sản xuất; bố trí nhân lực cập nhật dữ liệu thường xuyên, gắn các kết quả nghiên cứu với điều kiện thực tiễn sản xuất. Sở Nông nghiệp và PTNT tiếp tục xây dựng bản đồ nông hóa đối với 18 huyện, thị xã, thành phố còn lại, bảo đảm 100% diện tích đất sản xuất nông nghiệp của tỉnh được nghiên cứu, xây dựng bản đồ, trong đó bản đồ nông hóa huyện Mường Lát sẽ được thực hiện riêng nhằm phù hợp với yêu cầu xây dựng và phát triển huyện Mường Lát theo Nghị quyết số 11-NQ/TU ngày 29/9/2022 của Ban Thường vụ Tỉnh ủy.
+
+Với việc Thủ tướng Chính phủ phê duyệt Đề án đẩy mạnh ứng dụng công nghệ thông tin và Chương trình chuyển đổi số trong xây dựng nông thôn mới, hướng tới nông thôn mới thông minh giai đoạn 2021 - 2025 sẽ thúc đẩy quá trình số hóa, xây dựng bản đồ số nông nghiệp nông thôn, cơ sở dữ liệu đồng bộ, thực hiện quản lý mã số vùng nguyên liệu, truy xuất nguồn gốc đối với các sản phẩm nông nghiệp, nông thôn. Tăng cường ứng dụng trực tuyến, công nghệ thực tế ảo, thực tế ảo tăng cường trong công tác quảng bá, xúc tiến thương mại, thương mại điện tử cho các sản phẩm nông nghiệp, nông thôn.
+
+Đây là cơ sở để Việt Nam sớm đạt có ít nhất 70% xã có các hợp tác xã, 70% cấp huyện có các mô hình liên kết sản xuất gắn với tiêu thụ nông sản chủ lực và 50% các mô hình liên kết gắn với vùng nguyên liệu có ứng dụng công nghệ số.
+
+Lương Bằng và nhóm PV, BTV

@@ -1,0 +1,23 @@
+Từ đầu năm 2024 đến nay, những nhà đầu tư nắm giữ Bitcoin ít nhất 155 ngày nhận được gần 365 tỷ USD, tiệm cận mức kỷ lục năm 2017.
+
+Những người nắm giữ dài hạn Bitcoin (BTC) đã nhận được nhiều lợi nhuận hơn trong chu kỳ tăng giá (uptrend) này so với nhiều chu kỳ trước đó, theo dữ liệu từ nền tảng phân tích dữ liệu trên chuỗi khối Glassnode. Kể từ đầu năm 2024, LTH (các nhà đầu tư đã nắm giữ BTC ít nhất 155 ngày) đã nhận được 3,27 triệu BTC lợi nhuận, tương đương gần 365 tỷ USD.
+
+Con số trên đã vượt qua đợt uptrend năm 2021 (chỉ hơn 3 triệu BTC) và vượt xa chu kỳ năm 2013. Tuy nhiên, nó vẫn theo sau đợt tăng giá năm 2017, khi lợi nhuận cho nhóm nhà đầu tư LTH đạt kỷ lục 3,93 triệu BTC.
+
+Một nhà đầu tư đang cầm biểu trưng của Bitcoin. Ảnh: CNBC
+
+Lợi nhuận cho nhóm nắm giữ lâu dài lên tiệm cận đỉnh cũ cũng nhấn mạnh áp lực bán gia tăng. Sàn giao dịch Galaxy cho biết đang có khoảng 80.000 BTC được niêm yết để bán, trong khi 26.000 BTC khác đã được giao dịch gần đây.
+
+Ngoài ra, thị trường cũng ghi nhận sự trở lại của các ví tiền số đã từ lâu không hoạt động với số dư lớn. Theo nền tảng tổng hợp dữ liệu Lookonchain, một ví tiền số từng nhận 100.784 BTC cách đây 7 năm đã kết thúc thời gian "ngủ đông" và tham gia giao dịch trở lại. Thay vì tiếp tục nắm giữ Bitcoin, ví này đã bán một phần đáng kể và luân chuyển sang Ether - tiền số lớn thứ hai thế giới.
+
+"Các tín hiệu kể trên kết hợp với nhau cho thấy thị trường Bitcoin có thể đã bước vào giai đoạn cuối của chu kỳ tăng giá", nhóm phân tích CoinDesk nhận định.
+
+Hiện tại, Bitcoin đã giảm khoảng 4% tính từ đầu tháng 8 và thấp hơn 12% so với mức cao nhất mọi thời đại - 124.500 USD. Tiền số lớn nhất thế giới đang giao dịch quanh mốc 110.000-112.000 USD. Nếu kết thúc tháng 8 trong tiêu cực, diễn biến này sẽ ngăn chặn chuỗi bốn tháng xanh liên tiếp, chuỗi tăng giá dài nhất kể từ tháng 3/2024.
+
+Dữ liệu trên chuỗi khối cho thấy các nhà giao dịch Bitcoin đã sử dụng giá hợp lý của người nắm giữ ngắn hạn (STH-RP), hiện là 108.800 USD, làm mốc hỗ trợ. Chỉ số này theo dõi giá mua lại trung bình của các đồng tiền được giao dịch trên chuỗi trong 155 ngày qua và không bao gồm dự trữ sàn giao dịch. Trong giai đoạn uptrend, giá STH-RP thường đóng vai trò là mức hỗ trợ quan trọng.
+
+Tỷ lệ lợi nhuận đầu ra cho người nắm giữ ngắn hạn (STH-SOPR) chỉ ra rằng các nhà đầu tư ngắn hạn đang bán lỗ. STH-SOPR đo lường lợi nhuận hoặc thua lỗ cho các nhà đầu tư nắm tiền số dưới 155 ngày. Trong lịch sử, hành vi này có xu hướng xuất hiện gần đáy thị trường cục bộ. Tuy nhiên, đây chưa hẳn là tín hiệu đảo chiều mạnh mẽ.
+
+Trong khi đó, thị trường quyền chọn chỉ ra "mức đau tối đa" đang ở 116.000 USD. "Mức đau tối đa" chỉ mức giá thực hiện (strike price) mà tại đó số lượng người nắm giữ hợp đồng quyền chọn bị thua lỗ nhiều nhất khi hợp đồng đáo hạn. Đây cũng là vùng giá mà thị trường gây ra tổn thất tài chính lớn nhất cho phần lớn những người mua quyền chọn, ngược lại mang tới lợi ích lớn nhất cho người bán quyền chọn. Nếu mức này cao hơn giá giao ngay, nó cho thấy sự giảm giá có thể sắp xảy ra.
+
+Tiểu Gu (theo CoinDesk)

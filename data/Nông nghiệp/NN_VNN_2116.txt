@@ -1,0 +1,31 @@
+Title: Lâm Đồng số hoá dữ liệu ngành nông nghiệp để dự báo và phát triển thị trường
+
+Lâm Đồng đang là một trong những tỉnh đi đầu về chuyển đổi số, tăng tốc ứng dụng nông nghiệp thông minh ở nước ta. Toàn tỉnh hiện có 26 doanh nghiệp tiếp cận ứng dụng công nghệ IoT (sử dụng hệ thống cảm biến, máy ảnh và các thiết bị khác giúp người nông dân có được những thông tin chính xác nhất trong quá trình sản xuất nông nghiệp); công nghệ GIS thông minh quản lý và dự báo sâu bệnh, truy xuất nguồn gốc điện tử; công nghệ đèn LED...
+
+Có 13 doanh nghiệp được công nhận là “doanh nghiệp nông nghiệp công nghệ cao”; 90 hợp tác xã, trang trại ứng dụng công nghệ IoT, canh tác hữu cơ; 182 chuỗi liên kết với sự tham gia của 201 doanh nghiệp, hợp tác xã và gần 17.000 hộ nông dân.
+
+Nhờ ứng dụng công nghệ IoT để vận hành hệ thống tưới nước, chiếu sáng…, nông dân, HTX có thể chủ động được thời gian, quy trình chăm sóc, tiết kiệm nhân công và nâng cao năng suất, chất lượng sản phẩm.
+
+Ứng dụng công nghệ số trong sản xuất nông nghiệp giúp người nông dân Lâm Đông có thu nhập cao.
+
+Việc chuyển hướng sang nông nghiệp thông minh cũng giúp nhiều sản phẩm nông sản của Lâm Đồng xuất khẩu được sang các thị trường khó tính như Nhật Bản, EU, Mỹ…
+
+Đáng chú ý, phát triển nông nghiệp thông minh góp phần đưa doanh thu sản xuất nông nghiệp công nghệ cao của tỉnh đạt bình quân 430 triệu đồng/ha. Thậm chí, nhiều trang trại đạt doanh thu từ 5-8 tỷ đồng/năm; canh tác rau ứng dụng công nghệ IoT đạt trên 2 tỷ đồng/ha/năm; sản xuất hoa ứng dụng công nghệ IoT đạt từ 3-8 tỷ đồng/ha/năm.
+
+Theo mục tiêu phấn đấu đến năm 2025, ngành nông nghiệp Lâm Đồng đạt tỷ lệ 100% các sản phẩm công nghệ số. Trong đó, công tác chỉ đạo, điều hành được kết nối, tích hợp, chia sẻ dữ liệu số trên hệ thống thông tin của tỉnh, của Bộ NN-PTNT; xây dựng và đưa vào sử dụng phần mềm dùng chung ngành nông nghiệpđược cung cấp trên nhiều phương tiện truy cập và các phần mềm ứng dụng dịch vụ mới theo hướng sử dụng chung hạ tầng số, nền tảng số và các dịch vụ công nghệ thông tin sẵn có;
+
+Đẩy mạnh hoàn thành cơ sở dữ liệu số nông nghiệp về cây trồng, vật nuôi, thủy sản, quy hoạch, thống kê, báo cáo, phân tích số liệu… Ngoài ra, phấn đấu có trên 30% doanh nghiệp, hợp tác xã, kinh tế hộ gia đình sử dụng, khai thác, vận hành các nền tảng dùng chung và chia sẻ dữ liệu với hệ sinh thái nông nghiệp số; cung cấp dữ liệu mở có thể truy cập, sử dụng dễ dàng; hoàn thiện kho dữ liệu số đáp ứng các yêu cầu về kết nối, chia sẻ tài nguyên thông tin, dữ liệu của ngành.
+
+Đơn cử, trên lĩnh vực trồng trọt sẽ thiết lập nền tảng dữ liệu số về diện tích, sản lượng cây trồng, vùng trồng rau, hoa, chè, cà phê, dâu tây, lúa gạo, cây ăn quả, sầu riêng, mắc ca… để dự báo và phát triển thị trường. Trong đó, ứng dụng công nghệ thông minh, phát triển hạ tầng internet vạn vật như hệ thống cảm biến giám sát độ ẩm, tiết kiệm lượng nước tưới để phân tích các giai đoạn sinh trưởng của cây trồng.
+
+Tương tự, ở lĩnh vực chăn nuôi, thủy sản được thiết lập nền tảng dữ liệu về tổng đàn, sản lượng các loại vật nuôi. Trên cơ sở đó, ứng dụng công nghệ IoT quản lý tự động về cung cấp thức ăn, hỗ trợ sinh sản và tăng năng suất vật nuôi, xử lý chất thải để bảo vệ môi trường; quản lý các hoạt động sản xuất, kinh doanh thức ăn chăn nuôi, thuốc thú y, cơ sở giết mổ, phòng chống dịch bệnh tại các cơ sở, hộ chăn nuôi.
+
+Vùng nuôi trồng cá nước lạnh, cá truyền thống còn tập trung xây dựng các cơ sở dữ liệu hướng dẫn sản xuất, quản lý môi trường, giống thủy sản, các cơ sở sản xuất, kinh doanh thức ăn, thuốc, hoá chất; thiết lập bản đồ số dịch tễ…
+
+Khi hình thành hệ sinh thái nông nghiệp số sẽ cung cấp thông tin nhanh nhất về tình hình sản xuất theo thời điểm, truyền tải kịp thời các cơ chế chính sách mới tới người dân và doanh nghiệp.
+
+Lãnh đạo ngành nông nghiệp tỉnh Lâm Đồng khẳng định, đây là dữ liệu mở nên nông dân và doanh nghiệp được cấp quyền truy cập thông tin về diện tích, năng suất, sản lượng, vùng trồng, hệ thống cung ứng vật tư nông nghiệp, tiêu thụ nông sản, giá cả và dự báo thị trường vật tư, thị trường nông sản…
+
+Thúc đẩy sử dụng dữ liệu lớn trong giám sát biến đổi khí hậu Trong năm 2024, Tổng cục Khí tượng Thuỷ văn tiếp tục đẩy mạnh nghiên cứu, ứng dụng các công nghệ mới, công nghệ trí tuệ nhân tạo, khai thác dữ liệu lớn (Big Data)... trong lĩnh vực khí tượng thủy văn giám sát biến đổi khí hậu.
+
+Khánh Hòa và nhóm PV, BTV

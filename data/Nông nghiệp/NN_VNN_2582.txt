@@ -1,0 +1,23 @@
+Title: 5 cách mà công nghệ 5G sẽ làm thay đổi lĩnh vực nông nghiệp
+
+Giáo sư Mak Sharma tại Đại học Thành phố Birmingham cho biết: “Nông nghiệp đang nhanh chóng áp dụng công nghệ 5G để theo dõi các điều kiện môi trường nhằm giúp cho sự tăng trưởng tối ưu cho cây trồng, quá trình theo dõi, cho ăn, giám sát chăn nuôi và thậm chí cả việc nuôi bò sữa cũng không cần sự can thiệp của con người. Ngoài ra, việc cày, gieo, cho ăn, theo dõi sức khỏe và thu hoạch cây trồng cũng được thực hiện tự động thông qua máy móc nông nghiệp được kết nối 5G mà không cần có sự can thiệp của con người”.
+
+Tất cả điều này có thể thực hiện được với các mạng di động khác nhưng băng thông cao của 5G, hỗ trợ một số lượng lớn cảm biến giao tiếp đồng thời và độ trễ thấp, làm cho nó trở nên hoàn hảo hơn cho các trang trại.
+
+Dưới đây là 5 cách mà công nghệ 5G có thể chuyển đổi ngành nông nghiệp:
+
+1. Nông nghiệp chính xác
+
+Nông nghiệp chính xác hay còn được gọi là nông nghiệp thông minh là việc áp dụng tất cả các biện pháp xử lý chính xác cho cây trồng. Người nông dân thay vì phải xử lý với toàn bộ cánh đồng như nhau thì họ có thể cung cấp chính xác cho mỗi khu vực những gì nó cần chẳng hạn như điều chỉnh giảm hoặc tăng lượng nước, dưỡng chất, phân bón và thuốc diệt cỏ.
+
+Chuyên gia Simon Jordan, nhà vật lý chuyên về cảm biến tại Cambridge cho biết: “Công nghệ 5G rất quan trọng trong vấn đề này, vì nó hỗ trợ các dịch vụ giao tiếp giữa máy với máy (M2M)”. 5G tăng tốc mọi thứ, cho phép máy móc được điều khiển tập trung và dữ liệu được gửi trở lại trong thời gian thực; không có 5G, hệ thống chỉ dựa vào dữ liệu được tải lên vào cuối ngày.
+
+2. Máy móc nông nghiệp kết nối 5G
+
+Để nông nghiệp chính xác thực sự cất cánh cần có máy móc nông nghiệp kết nối 5G. Sự gia tăng mạnh mẽ về sức mạnh tính toán và thu thập dữ liệu là những động lực thúc đẩy sự gia tăng của trí tuệ nhân tạo (AI), nhưng vẫn còn thiếu một liên kết đó là làm thế nào đưa dữ liệu đó đến nơi cần thiết để phân tích.
+
+Paul Beastall, Giám đốc Chiến lược công nghệ tại Công ty tư vấn Cambridge cho biết: “5G được kết nối trên máy móc và cảm biến nông trại sẽ tăng số lượng dữ liệu sẵn có một cách ồ ạt. Các trang trại trên thế giới thường được vận hành từ sự kết hợp kinh nghiệm và kiến thức chuyên ngành và AI đã giúp phát hiện ra các mô hình cho phép cải thiện năng suất, ví dụ bằng cách đưa ra các cảnh báo sớm về bệnh trong nhà kính”.
+
+3. Sử dụng drone trong việc phun thuốc
+
+Việc sử dụng drone trong việc phun thuốc ngày càng phát triển, nó được tích hợp máy quét cỏ và máy phun thuốc, chúng quét cây trồng bằng AI để xác định cỏ dại và sau đó chỉ áp dụng thuốc trừ cỏ khi cần thiết.

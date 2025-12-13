@@ -1,0 +1,31 @@
+Chỉ sau vài tháng, ảnh, video và ứng dụng mới khiến ổ cứng trên laptop nhanh chóng đầy ắp. Khi bộ nhớ gần kín, hiệu suất Windows giảm rõ rệt: mở phần mềm chậm, lưu tệp trễ, thậm chí thao tác cơ bản cũng bị "lag".
+
+Dù ổ SSD vốn nhanh, việc thiếu dung lượng trống khiến Windows khó xử lý tệp tạm, cập nhật và bộ nhớ ảo. Nếu xóa file, dọn rác thủ công, vấn đề vẫn tái diễn sau vài tuần. Nếu không muốn phụ thuộc hoàn toàn vào ổ ngoài hay đám mây, giải pháp bền vững là để hệ thống tự quản lý bộ nhớ thông minh. Đó là lúc Storage Sense phát huy tác dụng.
+
+Storage Sense được tích hợp sẵn trong Windows, hoạt động âm thầm bằng cách xóa tệp tạm, dọn thùng rác, làm sạch thư mục Download và giải phóng bản sao cục bộ của các tệp đã sao lưu lên đám mây.
+
+Tính năng Storage Sense sẽ giúp máy tính Windows chạy mượt mà dù mua đã lâu. Ảnh: MUO
+
+Storage Sense không đụng đến dữ liệu cá nhân, chỉ xóa các tệp hệ thống không cần thiết. Người dùng có thể tùy chỉnh để loại trừ một số khu vực như thùng rác hoặc thư mục Download nếu muốn an toàn hơn.
+
+Người dùng có thể đặt chế độ “chạy khi dung lượng thấp”, giúp hệ thống tự dọn dẹp mỗi khi ổ đĩa sắp đầy. Từ đó, máy tính Windows gần như không bao giờ chậm lại nữa mà không cần dọn thủ công, không phải lo đầy ổ.
+
+Cách bật và thiết lập Storage Sense
+
+Vào Cài đặt (Settings) > Hệ thống (System) > Lưu trữ (Storage).
+
+Bật công tắc Storage Sense.
+
+Nhấp vào dòng chữ Storage Sense để tùy chỉnh chi tiết.
+
+Chọn chế độ hoạt động: Hàng ngày, hàng tuần, hoặc khi dung lượng thấp.
+
+Đánh dấu “Giữ cho Windows chạy mượt mà” và bật “Tự động dọn nội dung người dùng”.
+
+Tùy chọn bật dọn Thùng rác, thư mục Download hoặc các tệp đã sao lưu.
+
+Bạn có thể nhấn “Chạy ngay bây giờ (Run Storage Sense now)” để dọn tức thì. Công cụ này chỉ hoạt động trên ổ hệ thống (C:), nơi cài Windows, nên rất an toàn cho các ổ dữ liệu khác.
+
+Từ khi bật Storage Sense, bạn không còn phải lo ổ cứng đầy bất ngờ hay máy chậm khi chạy đa nhiệm. Dung lượng luôn được duy trì ổn định, giúp Windows hoạt động nhanh như mới cài. Đây có lẽ là tính năng bị đánh giá thấp nhất nhưng hữu ích nhất cho mọi người dùng laptop hiện nay.
+
+(Theo MUO)

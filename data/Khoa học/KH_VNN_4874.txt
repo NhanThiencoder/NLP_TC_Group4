@@ -1,0 +1,23 @@
+Hai biểu tượng Like và Share nổi tiếng của Facebook. Ảnh: Meta
+
+Ra mắt năm 2010, hai công cụ Like và Comment từng giúp các trang web tăng mạnh lượng truy cập nhờ khả năng chia sẻ nhanh bài viết lên Facebook.
+
+Thời điểm đó, nút “Like” Facebook là thước đo phổ biến của sức ảnh hưởng trực tuyến, xuất hiện ở hầu hết các trang tin, blog và cửa hàng điện tử.
+
+Tuy nhiên, Meta cho biết việc khai tử các nút này là điều “tự nhiên” trong quá trình phát triển:
+
+“Các plugin này phản ánh một thời kỳ cũ của phát triển web và việc sử dụng chúng đã giảm mạnh khi môi trường số thay đổi”, Meta viết trong thông báo.
+
+Bên cạnh đó, vai trò của Facebook trong hệ sinh thái Meta đã thu hẹp đáng kể. Nền tảng nay tập trung nhiều hơn vào Threads, Instagram, và các dự án AI - metaverse, thay vì phụ thuộc vào một mạng xã hội đơn lẻ.
+
+Theo Meta, quản trị viên website không cần thực hiện bất kỳ hành động bắt buộc nào. Khi đến thời điểm, các nút “Like” và “Comment” sẽ biến mất mà không làm ảnh hưởng gì đến chức năng của trang.
+
+Meta giải thích: “Đây không phải là thay đổi phá vỡ hệ thống. Các plugin chỉ ngừng hiển thị và sẽ không tạo ra lỗi hay ảnh hưởng đến chức năng chính của trang web”.
+
+Tuy nhiên, những ai muốn giữ giao diện gọn gàng hơn có thể tự xóa mã nhúng plugin trước thời điểm trên.
+
+Động thái này là một phần trong kế hoạch tái cấu trúc nền tảng dành cho lập trình viên. Meta cho biết họ đang tập trung vào những công cụ mới mang lại giá trị thực cho doanh nghiệp và nhà phát triển, đồng thời đầu tư cho các công nghệ tương lai như AI, thực tế ảo và metaverse.
+
+Việc khai tử hai biểu tượng Like và Comment đánh dấu một bước ngoặt trong hành trình chuyển mình của Meta, khi công ty từ bỏ những di sản từng làm nên tên tuổi Facebook để hướng đến một nền tảng hiện đại, hiệu quả và đa chiều hơn.
+
+(Theo Engadget)

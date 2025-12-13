@@ -1,0 +1,17 @@
+Nga đang phát triển động cơ sử dụng nhiên liệu hydro tăng tốc hạt tích điện như electron và proton để đạt tốc độ 100 km/s, dự kiến sẵn sàng năm 2030.
+
+Động cơ plasma của Nga sẽ giảm đáng kể thời gian bay giữa các hành tinh. Ảnh: Rosatom
+
+Các nhà khoa học ở Tập đoàn Năng lượng hạt nhân Nga giới thiệu một động cơ tên lửa điện plasma có thể đẩy tàu vũ trụ tới sao Hỏa trong 1 - 2 tháng. Khác với động cơ tên lửa truyền thống dựa vào đốt nhiên liệu, hệ thống đẩy tiên tiến này sử dụng máy gia tốc plasma từ, hứa hẹn giảm đáng kể thời gian du hành liên hành tinh, Interesting Engineering hôm 9/2 đưa tin.
+
+"Motor tên lửa plasma là một loại motor điện dựa trên hai điện cực. Hạt tích điện được truyền giữa chúng, cùng lúc điện thế cao được áp dụng với điện cực", Egor Biriulin, nhà nghiên cứu ở viện khoa học của Rosatom tại Troitsk, giải thích. "Kết quả là dòng điện tạo ra từ trường đẩy hạt ra khỏi động cơ. Do đó, plasma thu được chuyển động có hướng và tạo ra lực đẩy".
+
+Theo cách tiếp cận này, động cơ sử dụng nhiên liệu hydro và tăng tốc hạt tích điện gồm electron và proton ở tốc độ lên tới 100 km/s. "Ở hệ thống thông thường, tốc độ tối đa của dòng vật chất vào khoảng 4,5 km/s, do điều kiện đốt nhiên liệu. Ngược lại, ở động cơ của chúng tôi, cơ chế hoạt động là hạt tích điện được gia tốc bởi trường điện từ", Alexei Voronov, phó tổng giám đốc khoa học ở Viện Troitsk, cho biết.
+
+Hành trình nhanh hơn tới sao Hỏa không chỉ tăng hiệu quả mà còn giảm thiểu nguy cơ khi phi hành gia tiếp xúc với bức xạ vũ trụ trong thời gian dài. Viện Troitsk đã phát triển một nguyên mẫu trong phòng thí nghiệm của động cơ. Nguyên mẫu này sẽ trải qua thử nghiệm trên mặt đất để tinh chỉnh các chế độ vận hành, mở đường để tạo ra phiên bản bay, dự kiến sẵn sàng năm 2030. Động cơ vận hành ở chế độ xung - tuần hoàn. Công suất của nó khoảng 300 kW. Thời gian hoạt động hơn 2.400 giờ của động cơ đủ cho hoạt động vận chuyển tới sao Hỏa, theo Konstantin Gutorov, cố vấn khoa học của dự án.
+
+Để hỗ trợ thử nghiệm, một buồng chuyên dụng được xây dựng để mô phỏng điều kiện không gian. Có đường kính 4 m và dài 14 m, buồng thử nghiệm trang bị cảm biến cao cấp, hệ thống bơm chân không và cơ cấu thải nhiệt.
+
+Sau khi phóng lên quỹ đạo bằng tên lửa hóa học, động cơ plasma sẽ được kích hoạt. Công nghệ cũng có thể tích hợp vào phương tiện kéo trong vũ trụ để vận chuyển hàng hóa giữa các hành tinh. Một đặc điểm tích cực là plasma không cần làm nóng nhiều. Kết quả là những bộ phận động cơ không bị quá tải về nhiệt và điện dùng cho hoạt động của nó gần như được biến đổi hoàn toàn thành chuyển động. Với lực đẩy dự kiến khoảng 6 N, động cơ sẽ tăng và giảm tốc trơn tru trong hành trình liên hành tinh.
+
+An Khang (Theo Interesting Engineering)

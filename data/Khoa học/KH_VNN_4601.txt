@@ -1,0 +1,39 @@
+Đây là lần đầu tiên Google mạnh dạn “đưa mô hình ra khỏi phòng thí nghiệm” và áp dụng rộng rãi, sau nhiều năm phát triển ở quy mô thử nghiệm.
+
+Hình minh họa do AI dự báo thời tiết của Google tạo ra. Ảnh: Google
+
+Theo Google, các mô hình AI đã chứng minh khả năng dự báo nhanh hơn và hiệu quả hơn so với những mô hình truyền thống dựa trên mô phỏng vật lý khí quyển.
+
+Trước đây, dự báo AI của Google mới chỉ được đánh giá nội bộ hoặc thử nghiệm trong các dự án nghiên cứu.
+
+Giờ đây, hãng tuyên bố đủ tự tin để biến AI thời tiết thành một tính năng thương mại.
+
+Trao đổi nhanh với phóng viên, ông Peter Battaglia, Giám đốc nghiên cứu của Google DeepMind, cho biết: “Chúng tôi đang đưa sản phẩm ra khỏi phạm vi nghiên cứu để thực sự đặt nó vào tay người dùng… do tự tin rằng độ chính xác của dự báo đã đạt mức hữu ích trong thực tế”.
+
+WeatherNext 2 có khả năng tạo dự báo nhanh gấp 8 lần so với mô hình AI trước đây của Google. Đặc biệt, nó cho kết quả chính xác hơn khi dự báo 99,9% các biến số khí tượng quan trọng, bao gồm nhiệt độ, sức gió hay lượng mưa.
+
+Thay vì mất hàng giờ xử lý trên siêu máy tính như các mô hình thời tiết truyền thống, WeatherNext 2 chỉ cần dưới một phút để đưa ra dự báo khi chạy trên TPU – chip xử lý chuyên dụng của Google.
+
+Điều này mở ra khả năng dự báo nhanh ở quy mô toàn cầu, đồng thời tiết kiệm năng lượng và chi phí vận hành.
+
+Các mô hình truyền thống tốn nhiều tài nguyên vì phải mô phỏng lại toàn bộ các quá trình vật lý phức tạp của khí quyển. AI lại đi theo hướng khác: học từ dữ liệu thời tiết lịch sử, nhận diện các mẫu biến động rồi suy đoán tương lai.
+
+Cách này không thể thay thế hoàn toàn mô hình vật lý nhưng lại cho kết quả dự báo nhanh hơn rất nhiều.
+
+WeatherNext 2 được tối ưu nhờ chiến lược mới mà Google gọi là Functional Generative Network (FGN). Thay vì phải xử lý lặp lại nhiều lần để tạo một dự báo như các mô hình AI cũ, FGN thêm “nhiễu có chủ đích” vào dữ liệu đầu vào để tạo ra hàng trăm kịch bản thời tiết chỉ trong một bước. Nhờ đó, mô hình có thể đánh giá nhiều khả năng khác nhau và đưa ra kết quả đáng tin cậy hơn.
+
+Với WeatherNext 2, Google có thể đưa ra dự báo thời tiết trong vòng 15 ngày và đặc biệt là dự báo theo từng giờ. Đây là yếu tố quan trọng với nhiều ngành nghề.
+
+Ông Akib Uddin, quản lý sản phẩm tại Google Research, cho biết các ngành như năng lượng, nông nghiệp, vận tải hay logistics đều rất quan tâm đến dự báo theo từng giờ, vì nó giúp họ đưa ra quyết định chính xác hơn, từ tối ưu hóa lịch di chuyển, quản lý chuỗi cung ứng cho đến theo dõi những biến động thời tiết ảnh hưởng tới sản xuất.
+
+Google không chỉ tích hợp WeatherNext 2 vào các ứng dụng khách hàng phổ biến, mà còn mở chương trình truy cập sớm (early access) cho các tổ chức muốn xây dựng mô hình dự báo tùy chỉnh.
+
+Dữ liệu dự báo từ WeatherNext 2 được cung cấp thông qua Google Earth Engine phục vụ phân tích địa không gian và BigQuery cho nhu cầu phân tích dữ liệu quy mô lớn.
+
+Google không phải là cái tên duy nhất theo đuổi hướng tiếp cận này. Các tổ chức và tập đoàn lớn như Nvidia, Huawei hay Trung tâm Dự báo Thời tiết Hạn vừa Châu Âu (ECMWF) cũng đang phát triển mô hình AI riêng để đổi mới việc dự báo khí hậu.
+
+Tuy nhiên, lợi thế của Google nằm ở quy mô dữ liệu khổng lồ, hệ sinh thái sản phẩm người dùng rộng lớn và năng lực tính toán mạnh mẽ từ TPU.
+
+Việc WeatherNext 2 được tích hợp trực tiếp vào những sản phẩm mà hàng tỷ người sử dụng hằng ngày có thể biến nó thành một trong những mô hình AI thời tiết có ảnh hưởng lớn nhất thế giới.
+
+(Theo The Verge)

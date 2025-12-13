@@ -1,0 +1,23 @@
+Title: Xây dựng 80% cơ sở dữ liệu về nông nghiệp, cập nhật trên nền tảng dữ liệu lớn
+
+Tại Quyết định số 749/QĐ-TTg của Thủ tướng Chính phủ phê duyệt “Chương trình Chuyển đổi số quốc gia đến năm 2025, định hướng đến năm 2030” đã xác định rõ định hướng chuyển đổi số của ngành nông nghiệp là: “Thực hiện chuyển đổi số trong nông nghiệp phải dựa trên nền tảng dữ liệu. Tập trung xây dựng các hệ thống dữ liệu lớn của ngành như về đất đai, cây trồng, vật nuôi, thủy sản. Xây dựng mạng lưới quan sát, giám sát tích hợp trên không và mặt đất phục vụ các hoạt động nông nghiệp. Thúc đẩy cung cấp thông tin về môi trường, thời tiết, chất lượng đất đai để người nông dân nâng cao năng suất và chất lượng cây trồng, hỗ trợ chia sẻ các thiết bị nông nghiệp qua các nền tảng số”.
+
+Ngành NN&PTNT đặt mục tiêu cho giai đoạn 2021-2025 là: “Xây dựng 80% cơ sở dữ liệu về nông nghiệp, cập nhật trên nền tảng dữ liệu lớn. Cơ bản hoàn thành dữ liệu cây trồng, vật nuôi, thủy sản; xây dựng bản đồ số nông nghiệp sẵn sàng kết nối, chia sẻ và cung cấp dữ liệu mở phục vụ người dân, doanh nghiệp; xây dựng nền tảng ứng dụng công nghệ chuỗi khối để cung cấp thông tin môi trường, thời tiết, chất lượng đất đai”.
+
+Nhằm đẩy mạnh chuyển đổi số ngành nông nghiệp, tỉnh Đồng Tháp tăng cường triển khai số hóa dữ liệu sản xuất nông nghiệp của địa phương.
+
+Để có được dữ liệu phục vụ phát triển nông nghiệp thông minh, xây dựng bản đồ số nông nghiệp cũng như ứng dụng vào công tác quản lý, điều hành, thì cần phải thực hiện triển khai công tác số hóa, xây dựng CSDL từ tài liệu dạng giấy và CSDL ứng dụng công nghệ GIS.
+
+Mục tiêu của số hóa tài liệu là xây dựng được nền tảng dữ liệu lớn của các chuyên ngành thuộc lĩnh vực nông nghiệp, lâm nghiệp, thủy sản và thủy lợi. Dữ liệu này sẽ được tích hợp vào các phần mềm chuyên ngành cũng như dễ dàng liên thông, chia sẻ với các cơ quan, đơn vị, doanh nghiệp trong Ngành.
+
+Nhờ có số hóa tài liệu và ứng dụng chữ ký số, các văn bản chỉ đạo điều hành có thể được thông tin nhanh chóng đến các đơn vị; ngược lại những thông tin, số liệu thống kê, báo cáo có thể được cập nhật một cách nhanh chóng, chính xác cho các cấp lãnh đạo; từ đó giúp đưa ra những quyết sách, chỉ đạo kịp thời và hiệu quả.
+
+Công nghệ GIS và ảnh viễn thám có thể hỗ trợ hiệu quả công tác cảnh báo cháy rừng từ ảnh vệ tinh, giám sát và phát hiện sớm nguy cơ suy thoái hay mất rừng, góp phần đánh giá tài nguyên rừng một cách hiệu quả làm cơ sở phục vụ cho công tác quản lý, bảo vệ và phát triển rừng bền vững. Công nghệ GIS kết hợp với thiết bị định vị toàn cầu (GPS) có thể giúp nâng cao hiệu quả cho công tác quản lý đội tàu khai thác hải sản xa bờ; nuôi trồng và đánh bắt thủy, hải sản.
+
+Ứng dụng GIS có thể giúp nhà quản lý quy hoạch những vùng chuyên canh cây trồng từ những dữ liệu đầu vào như loại đất, lượng mưa, nguồn nước,... từ đó mang lại hiệu quả canh tác cao cũng như hạn chế tình trạng dư thừa nguồn cung gây mất giá. Công nghệ GIS kết hợp với viễn thám và ảnh hàng không cho phép cơ quan quản lý giám sát quá trình di chuyển của côn trùng có hại và nơi cư trú của sâu bệnh; giúp đưa ra các biện pháp xử lý kịp thời, ngăn chặn sâu bệnh và tiêu diệt côn trùng có hại.
+
+Đối với người dân, doanh nghiệp, dữ liệu được số hóa và chia sẻ thông qua cung cấp dịch vụ công trực tuyến mức độ 4 trên thiết bị di động thông minh một cách nhanh chóng, chính xác, không giấy tờ và giảm chi phí. Số hóa kết quả giải quyết thủ tục hành chính và thực hiện thủ tục hành chính trên môi trường điện tử là yếu tố quan trọng góp phần cải cách hành chính, nâng cao chất lượng dịch vụ công. Người dân, doanh nghiệp có thể tiết kiệm được hàng giờ chờ đợi nộp hồ sơ, nhận giấy hẹn, nhận kết quả; không cần phải gác lại công việc để mang hồ sơ đến nộp trực tiếp tại Trung tâm Hành chính công mà có thể trải nghiệm dịch vụ tại nhà, trên môi trường mạng.
+
+Có dữ liệu số hóa được chia sẻ công khai, nông dân có thể dễ dàng tiếp cận và học hỏi về những phương pháp canh tác mới, tham khảo kinh nghiệm từ những thành công của người đi trước cũng như có được sự tư vấn từ những chuyên gia đầu ngành. Mặt khác, nông dân cũng tiếp cận được những tri thức, kỹ năng về thương mại điện tử, giúp nâng cao giá trị và xúc tiến tiêu thụ nông sản; tìm kiếm được những thị trường tiềm năng và tập trung vào những sản phẩm đúng thị hiếu của người tiêu dùng.
+
+Bạch Hân và nhóm PV, BTV

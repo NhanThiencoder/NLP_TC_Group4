@@ -1,0 +1,27 @@
+Đại học Khoa học và Công nghệ Hong Kong phát triển máy in 3D với khả năng tạo ra từng lớp thực phẩm nhờ graphene và trí tuệ nhân tạo.
+
+Cỗ máy có thể tạo ra những cấu trúc ăn được phức tạp và có tính năng gia nhiệt hồng ngoại chính xác để tối đa hóa chất lượng và độ an toàn của sản phẩm. Sự kết hợp này giúp khắc phục một số vấn đề lớn của các phương pháp sản xuất thực phẩm tự động khác, bao gồm vấn đề về an toàn thực phẩm và nhu cầu giám sát kỹ thuật, Interesting Engineering hôm 8/3 đưa tin. Nghiên cứu mới xuất bản trên tạp chí Advanced Materials.
+
+Quy trình chế biến thực phẩm và thiết kế của máy in 3D tích hợp. Ảnh: Advanced Materials
+
+An toàn thực phẩm là mối quan tâm lớn vì các máy in 3D hiện nay có xu hướng tạo ra thực phẩm theo hai bước chính. Đầu tiên là ép đùn bột thực phẩm lạnh và nhão để tạo ra sản phẩm. Sau đó, sản phẩm được chuyển vào lò nướng hoặc nồi chiên để nấu và khử trùng. Dù hiệu quả, phương pháp này thường dẫn đến hình dạng sản phẩm bị biến dạng và tăng nguy cơ nhiễm bẩn khi di chuyển thực phẩm giữa các máy. Máy in 3D mới kết hợp các bước này thành một nhờ khả năng chế tạo và nấu thực phẩm cùng lúc.
+
+Quá trình chế tạo và nấu ăn đồng thời được thực hiện bằng cách sử dụng bộ gia nhiệt hồng ngoại làm từ loại graphene sản xuất bằng laser (LIG). Theo nhóm nghiên cứu, bộ phận gia nhiệt siêu mỏng này cung cấp khả năng kiểm soát nhiệt chính xác, với các lớp thực phẩm đạt 137 độ C ở bề mặt và duy trì độ nóng ít nhất 105 độ C ở các cạnh bên trong suốt quá trình in.
+
+Máy in chỉ sử dụng 14 W điện, một phần nhỏ so với mức 1.000 -2 .000 W mà lò nướng và nồi chiên không dầu truyền thống thường tiêu thụ. Nhóm đã thử nghiệm máy in mới với bột bánh quy đặc biệt làm từ tinh bột. Khi máy in phun ra từng lớp bột mới, bộ gia nhiệt hồng ngoại sẽ lập tức nấu chín.
+
+Quá trình này cho phép thực phẩm giữ nguyên hình dạng trong khi tiêu diệt mọi vi khuẩn có hại. Nhóm nghiên cứu cho biết, việc nấu ngay lập tức giúp ngăn ngừa tình trạng xẹp và biến dạng khi thực phẩm in phải chờ đợi để nướng.
+
+Quy trình in 3D bột từ tinh bột mà không xử lý nhiệt trong 30 phút (trên) và quy trình in 3D bột có xử lý LIG trong 30 phút. Ảnh: Advanced Materials
+
+Phân tích chỉ ra, máy in 3D có chất lượng vượt trội so với các phương pháp nấu ăn truyền thống. Sử dụng kính hiển vi điện tử quét (SEM), nhóm nghiên cứu phát hiện, các mẫu thức ăn nấu bằng tia hồng ngoại vẫn duy trì cấu trúc bên trong nhất quán mà không bị phồng lên đáng kể như thức ăn nướng trong lò.
+
+Phân tích tia X cũng cho thấy thành phẩm có độ xốp đồng đều, đồng nghĩa chúng được nấu chín kỹ mà không ảnh hưởng đến tính toàn vẹn cấu trúc. Bên cạnh đó, mô phỏng COMSOL cũng xác nhận rằng nhiệt độ được phân phối đều, nhiệt chỉ đi xuyên qua 1 - 2 mm từ lớp trên cùng, tránh tình trạng nấu quá chín các lớp bên dưới.
+
+Về mặt an toàn thực phẩm, phương pháp mới ức chế đáng kể sự phát triển của vi khuẩn sau khi nấu. Các loại thực phẩm nấu chín truyền thống thường có lượng lớn vi khuẩn sinh sôi chỉ sau 48 giờ. Tuy nhiên, thực phẩm được xử lý hồng ngoại chỉ có 0 - 6 cụm vi khuẩn ở 100 độ C, trong khi số cụm vi khuẩn trong các mẫu nướng bằng lò và nồi chiên không dầu lên đến hơn 200. Ưu điểm của phương pháp mới bắt nguồn từ việc lập tức xử lý nhiệt độ cao từng lớp in.
+
+Nhóm nghiên cứu cho biết, công nghệ mới mang lại nhiều lợi ích vượt xa việc in thực phẩm đơn giản. Ví dụ, việc kết hợp công cụ thiết kế AI với khả năng nấu ăn mở ra tiềm năng sản xuất thực phẩm thương mại tự động. Hiệu quả năng lượng và kích thước nhỏ gọn của máy in 3D mới cũng rất thiết thực với các nhà hàng và tiệm bánh muốn cung cấp cho khách hàng những món ăn tùy chỉnh theo yêu cầu mà không cần đào tạo chuyên sâu.
+
+Máy in 3D mới cũng hữu ích trong lĩnh vực chăm sóc sức khỏe, khi việc kiểm soát chính xác thành phần và khẩu phần vô cùng quan trọng. Cỗ máy có thể sản xuất thức ăn tự động theo các chế độ ăn riêng biệt trong khi vẫn đảm bảo chất lượng nhất quán và tính an toàn.
+
+Thu Thảo (Theo Interesting Engineering)

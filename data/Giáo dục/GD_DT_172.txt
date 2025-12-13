@@ -1,0 +1,15 @@
+Dự thảo định nghĩa sách giáo khoa điện tử là sách giáo khoa bản in đã được chuyển thể sang định dạng số, cho phép người học đọc, nghe, nhìn bằng các phương tiện điện tử sau khi được Bộ GD&ĐT thẩm định và phê duyệt.
+
+Yêu cầu về tính năng công nghệ của sách giáo khoa điện tử được đặt ở mức cao. Theo đó, sách giáo khoa điện tử phải là sản phẩm số đa nền tảng, có khả năng tương thích tốt với các thiết bị điện tử như máy tính, điện thoại, máy đọc sách và hỗ trợ truy cập cho người khuyết tật.
+
+Ngoài các tính năng cơ bản như tìm kiếm, đánh dấu, ghi chú, phóng to, thu nhỏ nội dung, chọn đáp án, kéo thả, nghe lặp lại, nhập văn bản…, sách giáo khoa điện tử phải liên kết được với các hệ thống quản lý học tập, tích hợp trí tuệ nhân tạo (AI) và công nghệ thực tế ảo (VR).
+
+Đặc biệt, dự thảo yêu cầu sách phải có tính năng cho phép tải về ngay cả khi không có kết nối Internet ổn định, đảm bảo người dùng luôn sử dụng được.
+
+Về mặt hạ tầng và bảo mật, dự thảo yêu cầu hệ thống máy chủ lưu trữ dữ liệu phải đặt tại Việt Nam, có tên miền Internet Việt Nam. Sách giáo khoa điện tử phải tuân thủ nghiêm ngặt Luật An ninh mạng, bảo mật dữ liệu cá nhân, có biện pháp bảo vệ người học khỏi các mối nguy hại trên mạng, đảm bảo không chứa các liên kết hay nội dung độc hại, phản cảm.
+
+Đáng chú ý, dự thảo quy định cấm hoàn toàn chèn quảng cáo, nội dung kinh doanh, gợi ý mua sắm hoặc giới thiệu bên ngoài vào sách giáo khoa điện tử. Điều này nhằm đảm bảo tính sư phạm, giữ sự tập trung của học sinh và tránh thương mại hóa nội dung giáo dục.
+
+Về quy trình chuyển thể từ bản in sang bản điện tử, Điều 8 quy định đơn vị chuyển thể phải phối hợp với các cơ sở giáo dục phổ thông để tổ chức thực nghiệm kỹ thuật và đánh giá trải nghiệm người dùng trên các nhóm đối tượng học sinh, giáo viên đại diện.
+
+Số tiết thực nghiệm tối thiểu phải bằng 10% tổng số tiết quy định trong chương trình giáo dục phổ thông của mỗi môn học và hoạt động giáo dục, nhằm đảm bảo chất lượng và tính ổn định kỹ thuật trước khi sách được đưa vào sử dụng đại trà.

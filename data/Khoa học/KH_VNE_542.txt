@@ -1,0 +1,19 @@
+Các nhà khoa học Việt Nam và Hàn Quốc đã phát triển một hệ thống giám sát thông minh, sử dụng cảm biến kỹ thuật số để bảo trì và quản lý các cây cầu cũ.
+
+Nhóm nghiên cứu lắp đặt thử nghiệm hệ thống giám sát tại một cây cầu ở Việt Nam. Ảnh: KICT
+
+Hệ thống giám sát do Viện Kỹ thuật công trình và Công nghệ xây dựng Hàn Quốc (KICT) và Đại học Giao thông Vận tải (Việt Nam) phát triển cho phép biết rõ tình trạng "sức khỏe" của các cây cầu cũ có quy mô vừa và nhỏ.
+
+Hệ thống này có khả năng phân tích biến dạng cấu trúc, tính toán độ lún theo phương thẳng đứng của cầu với mức độ chính xác 95%. Chỉ với một số cảm biến và thông tin tọa độ đầu vào, hệ thống có thể cung cấp dữ liệu theo thời gian thực thông qua giao diện đồ họa người dùng (GUI), giúp người sử dụng dễ dàng vận hành và theo dõi tình trạng công trình.
+
+Theo nhóm nghiên cứu phần lớn các hệ thống giám sát trước đây hoạt động dựa trên cảm biến analog. Cảm biến này cho tín hiệu đầu ra liên tục nhưng dễ bị nhiễu điện, khiến dữ liệu thu thập kém chính xác và khó xử lý khi có nhiều loại tín hiệu khác nhau. Ngoài ra, do cảm biến analog cần phải nối dây trực tiếp 1:1 giữa từng cảm biến với bộ thu, nên độ phức tạp về cấu hình và chi phí lắp đặt sẽ tăng đáng kể khi hệ thống mở rộng quy mô.
+
+Để giải quyết vấn đề trên, KICT đã sử dụng công nghệ cảm biến kỹ thuật số với khả năng chống nhiễu cao, đảm bảo chất lượng dữ liệu ổn định. Công nghệ này cũng sở hữu tốc độ truyền và xử lý dữ liệu vượt trội, giúp khắc phục các nhược điểm của cảm biến analog.
+
+Ở hệ thống mới phát triển, nhóm nghiên cứu đã sử dụng giao thức truyền thông nối tiếp BUS, cho phép tích hợp và truyền dữ liệu từ nhiều cảm biến thông qua một dây dẫn duy nhất. Nhờ đó, việc lắp đặt trở nên đơn giản, tiết kiệm chi phí và giúp tối ưu hóa cấu hình hệ thống, dễ mở rộng khi cần thiết.
+
+Tại Việt Nam, việc bảo trì đang tập trung vào những cây cầu lớn, có nhịp dài, trong khi các cầu nhỏ và trung bình chưa được giám sát an toàn. Nhóm nghiên cứu đã thử nghiệm hệ thống giám sát thông minh mới trong điều kiện thực tế tại Việt Nam. Hiện tại, nhóm nghiên cứu đã chuyển giao công nghệ giám sát và thuật toán phân tích cho công ty ATECH SOLUTION, Inc. nhằm thương mại hóa sản phẩm.
+
+Kim Byung-Suk, trưởng nhóm nghiên cứu cho biết, hệ thống giám sát thông minh dựa trên cảm biến kỹ thuật số dễ sử dụng, cách lắp đặt đơn giản và giao diện thân thiện với người dùng, giúp giám sát những cây cầu dễ dàng và tiết kiệm chi phí hơn.
+
+Lê Hùng (Theo Eurekalert)

@@ -1,0 +1,43 @@
+Sinh viên Nhật Bản trình bày mô hình AI hỗ trợ người già đi lạc - Ảnh: TRỌNG NHÂN
+
+Mô hình AI này là một trong nhiều đề tài nghiên cứu thú vị của sinh viên Nhật - Việt trong mạng lưới các trường KOSEN, được trình bày tại hội nghị Student Research Symposium 2025 tại Trường cao đẳng Kỹ thuật Cao Thắng ngày 11-12.
+
+Ứng dụng AI chăm sóc người già
+
+Nhóm sinh viên Nhật Bản từ hai trường Anan KOSEN, Tokyo KOSEN gây ấn tượng khi phát triển một hệ thống AI có tên Caretalker, sở hữu khả năng nhận biết và can thiệp tâm lý để ngăn người già mắc chứng sa sút trí tuệ đi lạc.
+
+Nhóm bắt đầu bằng một câu hỏi làm sao để bảo vệ người bệnh sa sút trí tuệ khỏi đi lạc nhưng vẫn tôn trọng cảm xúc của họ? Các thiết bị giám sát thường dùng giải pháp khóa cửa, báo động khiến bệnh nhân bị tổn thương.
+
+Bạn Ryusei Kido nói Caretalker được thiết kế để nói chuyện và trấn an. AI phải hiểu được ý định thật của người lớn tuổi. Hệ thống phân tích lời nói trong mối liên hệ với hồ sơ cá nhân, nghề nghiệp quá khứ, thời điểm trong ngày và lịch sử trò chuyện.
+
+Ví dụ khi AI nghe câu "Tôi đi làm đây" của một cụ già lúc nửa đêm, hệ thống đánh giá là dấu hiệu của người già lẩm cẩm chứ không phải một kế hoạch thật sự.
+
+Nhận diện nguy cơ, AI không nói "đừng đi" hay "không được" vì có thể gây căng thẳng cho người bệnh. Thay vào đó AI hỏi những câu nhẹ nhàng: Hôm nay bác thấy trong người thế nào? Ngày xưa bác làm công việc gì nhỉ?, Bác kể tôi nghe thêm về chuyện đó được không?...
+
+Theo sinh viên Ishitaro Ninomiya, đối thoại tích cực giúp người bệnh bình tĩnh lại, giảm dần xung động muốn rời khỏi nhà. Đây chính là điểm đột phá tâm lý mà nhóm sinh viên hướng tới.
+
+Cùng với khả năng can thiệp sớm, Caretalker còn ghi lại những thời điểm người bệnh rối loạn giao tiếp tại nhà mà bác sĩ thường không nhìn thấy trong các buổi khám. Nhờ đó, gia đình và nhân viên y tế có thông tin đầy đủ về diễn biến hằng ngày, giúp điều chỉnh thuốc và phương pháp chăm sóc chính xác hơn.
+
+Bộ thiết bị được nhóm thiết kế nhỏ gọn gồm nhiều thành phần từ vi xử lý, cảm biến giọng nói, bộ quay theo hướng người dùng và giao diện hiển thị đơn giản. Dữ liệu được xử lý một phần trực tiếp tại thiết bị để giảm độ trễ, phần còn lại được đồng bộ lên máy chủ và cập nhật liên tục vào ứng dụng của gia đình.
+
+Sinh viên Trường cao đẳng Kỹ thuật Cao Thắng trình bày nghiên cứu bằng tiếng Anh tại chương trình - Ảnh: TRỌNG NHÂN
+
+Nhiều mô hình tối ưu hóa độ chính xác
+
+Ngoài Caretalker, hội nghị còn có nhiều đề tài cho thấy tư duy thực tiễn của sinh viên Nhật Bản và Việt Nam.
+
+Nhóm sinh viên Hayata Mori, Shota Hayashi và Rui Tajima (Trường Gifu KOSEN) mang đến bộ thẻ bài mô phỏng lập trình dành cho học sinh tiểu học. Mỗi lá bài thể hiện một khái niệm lập trình như lặp lại, rẽ nhánh, tăng biến, xử lý tuần tự… với màu sắc và hình minh họa đơn giản.
+
+Hai người chơi buộc phải sắp xếp các thẻ để đạt điểm cao nhất, giống như viết một đoạn mã tối ưu. Sau khi chơi, học sinh sẽ chuyển sang lập trình bằng khối lệnh rồi chạy chương trình trên một bộ điều khiển nhỏ.
+
+100% học sinh lớp thử nghiệm nói trò chơi rất vui, trong khi hơn 85% cảm thấy khả năng hiểu lập trình được cải thiện rõ rệt.
+
+Còn nhóm sinh viên PLG_GROUP (Trường cao đẳng Kỹ thuật Cao Thắng) trình bày mô hình tự động hóa nhà kính, cho phép điều khiển tưới tiêu, bón phân, ánh sáng, độ ẩm, nhiệt độ và pH theo thời gian thực.
+
+Hệ thống sử dụng cảm biến và bộ điều khiển vận hành hoàn toàn tự động giúp giảm 30-50% chi phí nước, phân và lao động, phù hợp với nhu cầu tăng năng suất, chuẩn hóa chất lượng theo VietGAP/GlobalGAP…
+
+Một nhóm sinh viên khác từ Trường cao đẳng Kỹ thuật Cao Thắng phát triển thiết bị kiểm tra nồng độ cồn sử dụng cảm biến độ chính xác cao kết hợp nhận diện vân tay.
+
+Thiết bị đồng bộ dữ liệu theo thời gian thực, có lưu trữ dự phòng và được thiết kế như một giải pháp an toàn cho nhà máy. Thuật toán điều khiển và mô-đun cảnh báo được sinh viên xây dựng đầy đủ như một thiết bị công nghiệp, cho thấy trình độ ứng dụng khá vững.
+
+KOSEN là gì? KOSEN là mô hình đào tạo kỹ sư thực hành đã tồn tại hơn sáu thập kỷ và được xem là "xương sống" trong chiến lược phát triển công nghiệp tại Nhật Bản. KOSEN tuyển học sinh từ lớp 10 và đào tạo liên tục 5 năm, kết hợp kiến thức cơ bản với thực hành kỹ thuật, hướng đến mục tiêu tạo ra những kỹ sư trẻ có khả năng làm việc ngay trong môi trường sản xuất. Mạng lưới KOSEN hiện có hơn 50 trường trải dài khắp nước Nhật như Ariake, Anan, Tokyo, Gifu hay Kochi… Đây cũng là hệ thống đang hợp tác sâu rộng với nhiều trường nghề tại Việt Nam trong đào tạo nhân lực công nghệ cao.

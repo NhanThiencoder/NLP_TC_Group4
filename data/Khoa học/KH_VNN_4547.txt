@@ -1,0 +1,43 @@
+Việc dùng máy khi đang cắm sạc không tự động phá hủy pin, tuy nhiên những điều kèm theo (như nhiệt độ cao, sạc nhanh, và thói quen giữ pin lâu ở mức 100%) mới là những yếu tố làm giảm dung lượng theo thời gian.
+
+Không nên để pin điện thoại cạn kiệt 0% mới sạc. Ảnh: 9to5mac
+
+Hầu hết điện thoại hiện nay dùng pin lithium-ion. Khi bạn vừa dùng máy vừa sạc, năng lượng từ bộ sạc sẽ vừa cung cấp cho điện thoại vừa vào pin.
+
+Điều này có thể làm quá trình sạc chậm hơn một chút hoặc gây dao động nhiệt, nhưng hệ thống quản lý pin (PMIC) trong điện thoại có nhiệm vụ điều phối để tránh quá sạc.
+
+Nói cách khác, dùng máy trong lúc sạc không làm pin “nổ” hay bị phóng nổ ngay lập tức, nhưng những hệ quả phụ (như tăng nhiệt) mới là vấn đề.
+
+Nhiệt độ: “kẻ thù số 1” của pin
+
+Các chuyên gia pin và tài liệu kỹ thuật đều chỉ ra rằng nhiệt độ cao là yếu tố chính khiến pin mất dung lượng nhanh.
+
+Khi bạn chơi game nặng, xem video hoặc gọi video trong lúc sạc, đặc biệt là sạc nhanh, thiết bị dễ sinh nhiệt.
+
+Nếu pin thường xuyên được giữ ở nhiệt độ cao trong khi ở trạng thái đầy (hoặc gần đầy), phản ứng hóa học bên trong pin sẽ tăng tốc quy trình lão hóa, khiến dung lượng giảm sớm hơn.
+
+Vì vậy, vấn đề không phải là “vừa sạc vừa dùng” một cách tuyệt đối, mà là việc vừa sạc vừa dùng rồi khiến máy nóng lên liên tục.
+
+Sạc nhanh và giữ 100% lâu ảnh hưởng thế nào?
+
+Công nghệ sạc nhanh rất tiện lợi nhưng thường tác động lên nhiệt và tốc độ dòng sạc, hai thứ có thể tăng tốc độ lão hóa pin nếu dùng thường xuyên.
+
+Ngoài ra, giữ pin ở mức 100% liên tục (ví dụ cắm sạc qua đêm, rồi vẫn để ở 100% với nhiệt độ cao) cũng làm pin “mệt” hơn theo thời gian.
+
+Các hãng lớn đã thêm tính năng như Optimized Battery Charging để hạn chế thời gian pin ở mức 100% và giảm hao mòn trong dài hạn. Nếu bạn muốn tối ưu, hãy bật các chế độ này hoặc đặt giới hạn sạc (ví dụ 80%) nếu máy hỗ trợ.
+
+Theo khuyến cáo của các hãng smartphone như Apple, Samsung và các chuyên gia công nghệ:
+
+Tránh để máy nóng khi sạc. Nếu thấy máy quá nóng khi vừa sạc vừa chơi game, hãy tạm dừng hoặc rút sạc. Nhiệt độ là yếu tố dễ kiểm soát nhất.
+
+Dùng sạc, dây cáp có thương hiệu/chuẩn. Bộ sạc kém chất lượng có thể gây nhiệt hoặc dòng không ổn định.
+
+Bật tính năng tiết kiệm và tối ưu sạc nếu có. Apple, Samsung và nhiều hãng khác đều cung cấp cơ chế tối ưu hóa sạc để giảm thời gian pin ở mức cao nhất.
+
+Không cần cực đoan: Sạc mọi lúc mọi nơi (không để pin xuống 0% rồi mới sạc) là tốt với pin lithium-ion; thói quen “trung bình” (sạc khi còn 20–30%, rút khi đạt ~80–90%) sẽ tốt cho tuổi thọ pin, nhưng cũng phải cân đối với nhu cầu sử dụng.
+
+Vừa sạc vừa dùng không phải “tử huyệt” của pin nếu bạn cẩn thận, quan trọng là đừng để máy quá nóng, tránh sạc nhanh cực độ khi thiết bị đang nóng, và tận dụng các tính năng tối ưu sạc của nhà sản xuất.
+
+Nếu bạn dùng điện thoại theo thói quen bình thường - sạc đêm có bật tối ưu, dùng bộ sạc chính hãng, và không ép máy hoạt động quá tải khi đang cắm sạc - thì pin sẽ hao mòn theo thời gian như một bộ phận tiêu hao bình thường, chứ không “chai” sớm chỉ vì vừa sạc vừa dùng.
+
+(Tổng hợp)

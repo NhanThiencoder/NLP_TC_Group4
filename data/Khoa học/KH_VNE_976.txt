@@ -1,0 +1,19 @@
+MỹCác nhà nghiên cứu phát triển khung phần mềm ExBody2 giúp robot chuyển động, thậm chí nhảy múa, uyển chuyển và giống người hơn.
+
+Robot hình người nhảy waltz cùng con người Robot hình người thực hiện nhiều chuyển động khéo léo. Video: Xuxin Cheng
+
+Khung phần mềm ExBody2 được phát triển bởi các nhà nghiên cứu tại Đại học California San Diego, Đại học California Berkeley, Viện Công nghệ Massachusetts (MIT) và Nvidia, cho phép robot thực hiện những chuyển động chân thực dựa trên bản quét chi tiết và hình ảnh theo dõi chuyển động của con người, Live Science hôm 6/2 đưa tin.
+
+Trong video của nhóm nghiên cứu, một robot được đào tạo qua ExBody2 nhảy waltz cùng con người, đấu võ và tập thể dục. Ngoài ra, nó cũng mô phỏng chuyển động của một nhà nghiên cứu theo thời gian thực.
+
+Hiện tại, bộ dữ liệu của ExBody2 chủ yếu tập trung vào các chuyển động của phần thân trên. Trong nghiên cứu đăng trên cơ sở dữ liệu ArXiv, nhóm tác giả giải thích, họ lo ngại rằng đưa quá nhiều chuyển động vào nửa dưới của robot sẽ khiến nó mất ổn định.
+
+ExBody2 hoạt động bằng cách thu thập các chuyển động mô phỏng dựa trên bản quét chuyển động của con người, chuyển chúng thành dữ liệu dùng được cho robot. Khung phần mềm này có thể tái tạo những chuyển động phức tạp, cho phép robot di chuyển ít cứng nhắc hơn và thích ứng với nhiều nhiệm vụ khác nhau mà không cần đào tạo lại nhiều.
+
+ExBody2 sử dụng học tăng cường, một nhánh của công nghệ học máy trong đó robot được cung cấp lượng lớn dữ liệu để đảm bảo nó chọn con đường tối ưu trong mọi tình huống. Các kết quả tốt được gán điểm tích cực, cho phép tái tạo chính xác chuyển động mà không làm robot mất ổn định.
+
+Khung phần mềm này cũng có thể dùng các video chuyển động ngắn, ví dụ như vài giây nhảy múa, để tổng hợp thành khung chuyển động mới, giúp robot hoàn thành những chuyển động kéo dài hơn.
+
+Bằng cách mô phỏng chính xác chuyển động của người, nhóm nghiên cứu hy vọng robot hình người trong tương lai có thể thực hiện nhiều nhiệm vụ hơn, ví dụ những nhiệm vụ đòi hỏi chuyển động tinh tế như lấy đồ từ kệ, di chuyển cẩn thận xung quanh con người hoặc máy móc khác.
+
+Thu Thảo (Theo Live Science)

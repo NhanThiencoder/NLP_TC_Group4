@@ -1,0 +1,17 @@
+Title: Nền tảng số “tạo bứt phá về năng suất, chất lượng, hiệu quả và sức cạnh tranh” cho ngành nông nghiệp
+
+Chuyển đổi số ngành nông nghiệp cần một tầm nhìn xa, phải bắt đầu từ nông dân và phải dựa trên nên tảng số, dữ liệu số. Mọi chính sách đều hướng đến nông dân, nông thôn, doanh nghiệp, hợp tác xã. Mọi nông dân, nông thôn, doanh nghiệp, hợp tác xã cũng phải tham gia vào quá trình chuyển đổi số. Bởi lẽ, cùng với sự phát triển mạnh mẽ của khoa học - công nghệ, đổi mới sáng tạo, chuyển đổi số là một trong những khâu đột phá lớn, góp phần “tạo bứt phá về năng suất, chất lượng, hiệu quả và sức cạnh tranh” cho ngành nông nghiệp.
+
+Ảnh minh hoạ
+
+Bên cạnh đó, một trong những thách thức lớn nhất khi triển khai nông nghiệp thông minh là thay đổi nhận thức của nông dân về chuyển đổi số. Để thành công, không chỉ cần sự tham gia tích cực từ chính quyền địa phương, Hội đồng nhân dân, liên minh hợp tác xã mà còn cần sự hỗ trợ từ các doanh nghiệp công nghệ.
+
+Để tiếp sức ngành nông nghiệp chuyển đổi số, từ rất sớm, VNPT Technology đã khởi động đồng thời các dự án nghiên cứu phát triển bao gồm: nền tảng ONE IoT Platform, ứng dụng ONE Farm. Đây là công cụ kiểm soát toàn bộ quá trình từ sản xuất đến thu hoạch, chế biến và vận chuyển theo chuẩn thiết kế, đáp ứng các mô hình trang trại ứng dụng công nghệ cao và nghiên cứu thiết kế, sản xuất các thiết bị IoT cho nông nghiệp. Hiện, công ty đã đầu tư xây dựng phòng thí nghiệm nông nghiệp tại tổ hợp Công nghệ cao, Khu công nghệ cao Hòa Lạc phục vụ công tác nghiên cứu phát triển, cải tiến các công nghệ vào nuôi trồng thực tế trên nhiều loại cây trồng cũng như phương thức canh tác khác nhau. Mục đích, giải pháp liên tục được cải tiến và cập nhật phù hợp hơn với thực tiễn.
+
+Đến nay, giải pháp nông nghiệp thông minh của VNPT Technology đã được triển khai cho các khách hàng tại nhiều tỉnh thành như Bắc Ninh, Ninh Bình, Phú Yên, Bình Dương,… mang lại nhiều kết quả khả quan.
+
+Dữ liệu do các cảm biến thu thập được đưa về bộ xử lý tập trung gọi là IoT Gateway. Với công nghệ xử lý tại biên (Edge Computing), IoT Gateway có thể phân tích và đưa ra các lệnh điều khiển tại chỗ mà không cần chờ hệ thống máy chủ phân tích. Kết quả làm giảm đáng kể thời gian trễ khi điều khiển các hệ thống tưới, điều hòa không khí, đóng - mở và điều khiển các cơ cấu chấp hành... Hơn nữa, cơ chế này cho phép hệ thống vẫn hoạt động bình thường ngay cả khi không có kết nối Internet đến hệ thống máy chủ.
+
+Và nhằm tạo điều kiện thuận lợi cho việc quản lý, giải pháp cung cấp các giao diện thông tin trực quan, thao tác đơn giản ngay tại các tủ điều khiển cũng như trên ứng dụng trên điện thoại di động. Người nông dân có thể giám sát mọi hoạt động sản xuất và đưa ra các quyết định cần thiết mọi lúc, mọi nơi. Nói một cách đơn giản, những lợi ích về kinh tế, thời gian, nhân lực cả về năng suất và chất lượng đầu ra của sản phẩm đã khiến cho mô hình nông nghiệp công nghệ cao trở thành một điểm sáng trong ngành nông nghiệp.
+
+Duy Khánh và nhóm PV, BTV

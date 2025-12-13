@@ -1,0 +1,11 @@
+Title: Xây dựng mô hình Mạng thông tin công cộng về nông nghiệp, nông thôn
+
+Mục tiêu của Đề tài nhằm xác định, lựa chọn các công nghệ viễn thông phù hợp cho ứng dụng CNTT-TT phục vụ nông nghiệp và phát triển nông thôn ở Việt Nam, xây dựng mô hình cung cấp thông tin phục vụ vùng nông thôn, vùng sâu, vùng xa.
+
+Đề tài "Nghiên cứu đề xuất, triển khai thử nghiệm các mô hình, giải pháp phát triển, ứng dụng CNTT&TT phục vụ nông nghiệp và phát triển nông thôn ở Việt Nam” do PGS.TS Hoàng Minh, Giám đốc Học viện Công nghệ Bưu chính Viễn thông làm chủ nhiệm vừa được nghiệm thu cấp Nhà nước.
+
+Kết quả đáng chú ý nhất của Đề tài là xây dựng được mô hình và sơ đồ thiết kế mạng nội dung thông tin công cộng (PCN) có khả năng cung cấp và phân phối nội dung thông tin qua mạng CNTT-TT gồm diễn đàn trao đổi thông tin và mạng xã hội, cho phép các tổ chức, cá nhân tìm kiếm và trao đổi thông tin với chuyên gia và những người khác
+
+Đề tài cũng đã xây dựng được 6 mô hình viễn thông cho 6 vùng nông thôn điển hình của Việt Nam gồm vùng đồng bằng sông Hồng, vùng trung du và miền núi phía Bắc, vùng Bắc Trung Bộ và duyên hải miền Trung, vùng nông thôn Tây Nguyên, vùng nông thôn Đông Nam Bộ, vùng nông thôn Đồng bằng sông Cửu Long. Hiện VNPT Vĩnh Phúc và Công ty Cổ phần Tập đoàn Công nghệ CMC đã sẵn sàng tiếp nhận chuyển giao mô hình phù hợp nhất.
+
+Ngoài ra, Đề tài đã đề xuất xây dựng 5 nhóm chính sách thúc đẩy phát triển ICT cho nông thôn, lộ trình phát triển ICT nông thôn giai đoạn 2013 - 2015 và định hướng đến năm 2020. Sản phẩm đã sẵn sàng chuyển giao và được Viện Chiến lược TT&TT thuộc Bộ TT&TT chấp thuận.
