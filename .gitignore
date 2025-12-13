@@ -1,0 +1,53 @@
+# --- 1. DỮ LIỆU (QUAN TRỌNG NHẤT) ---
+# Bỏ qua thư mục Data (nơi chứa hàng nghìn file txt bạn crawl về)
+Data/
+data/
+datasets/
+
+# Bỏ qua các file dữ liệu lẻ nếu lỡ để bên ngoài
+*.csv
+*.txt
+*.json
+*.xlsx
+*.xls
+*.zip
+*.rar
+
+# --- 2. CÁC FILE MÔ HÌNH (MODELS) ---
+# File model thường rất nặng (vài trăm MB đến GB), không nên push lên Git
+*.pkl
+*.h5
+*.pth
+*.pt
+*.onnx
+*.sav
+
+# --- 3. PYTHON & MÔI TRƯỜNG ---
+# File cache của Python (tự sinh ra khi chạy code)
+__pycache__/
+*.pyc
+
+# Thư mục môi trường ảo (Virtual Environment)
+venv/
+env/
+.venv/
+.env
+
+# --- 4. NOTEBOOK (JUPYTER) ---
+# File checkpoint rác của Jupyter Notebook
+.ipynb_checkpoints
+
+# --- 5. IDE & HỆ ĐIỀU HÀNH ---
+# Cấu hình của VS Code hoặc PyCharm (không nên share vì mỗi máy mỗi khác)
+.vscode/
+.idea/
+
+# File rác của MacOS và Windows
+.DS_Store
+Thumbs.db
+
+# --- 6. KHÁC ---
+# Driver Selenium (nếu bạn để chung folder)
+chromedriver.exe
+geckodriver.exe
+debug.log
