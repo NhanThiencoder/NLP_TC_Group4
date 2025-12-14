@@ -1,3 +1,0 @@
-Ứng dụng trí tuệ nhân tạo đang trở thành “trợ lý số” giúp cán bộ công chức rút ngắn thời gian xử lý công việc, tối ưu nhiều khâu trung gian và nâng cao phục vụ người dân. Qua các lớp tập huấn về AI, cán bộ tại Cao Bằng có thể soạn thảo văn bản, lập kế hoạch, quản lý hồ sơ nhanh chóng, minh bạch hơn. Nhiều đơn vị như Công an phường An Khê, TP. Đà Nẵng cũng triển khai Trợ lý ảo, đánh dấu bước tiến quan trọng trong chuyển đổi số, góp phần xây dựng bộ máy hiện đại, liêm chính và phục vụ Nhân dân tốt hơn
-
-(Nguồn: Cục Chuyển đổi số quốc gia)

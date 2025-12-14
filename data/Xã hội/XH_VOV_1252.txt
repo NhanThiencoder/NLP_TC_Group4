@@ -1,9 +1,0 @@
-Lâm Đồng diễn tập thực chiến bảo đảm an ninh mạng
-
-Chương trình nhằm nâng cao năng lực xử lý sự cố, rèn luyện kỹ năng thực chiến và tăng cường phối hợp ứng cứu trong bối cảnh tấn công mạng ngày càng tinh vi. Ngay sau lễ khai mạc, 19 đội tuyển bước vào phần thi CTF trên hệ thống mô phỏng và hệ thống thật, thực hiện các bài kiểm tra về phát hiện, vá lỗ hổng và phòng thủ trước nhiều tình huống tấn công.
-
-Sự kiện thu hút sự tham gia của nhiều lực lượng: Đội Ứng cứu sự cố an toàn thông tin mạng tỉnh; cán bộ công nghệ thông tin; giảng viên, sinh viên các trường đại học; lực lượng quân sự; đại diện sở, ngành và 124 xã, phường, đặc khu. Sự kết hợp giữa lực lượng chuyên nghiệp và lực lượng trẻ tạo nên không khí thi đấu sôi nổi, thực chất.
-
-Chương trình kéo dài đến hết ngày 12/12 với nội dung phân tích kết quả CTF, tập huấn bảo đảm an toàn hệ thống thông tin theo cấp độ và nâng cao nhận thức an ninh mạng cho hơn 2.000 đại biểu. Kết thúc chương trình, Ban Tổ chức sẽ tổng kết, trao thưởng và đề ra giải pháp hoàn thiện phương án bảo vệ hệ thống thông tin của tỉnh, góp phần giữ vững an ninh, an toàn không gian mạng trong tiến trình chuyển đổi số quốc gia.
-
-VOV.VN - Bộ trưởng Bộ Công an Lương Tam Quang cho biết, Luật An ninh mạng cấm sử dụng trí tuệ nhân tạo (AI) hoặc công nghệ mới để giả mạo video, hình ảnh, giọng nói của người khác trái quy định của pháp luật.

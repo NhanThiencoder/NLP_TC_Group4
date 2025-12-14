@@ -1,7 +1,0 @@
-Bảo hiểm xã hội Việt Nam đã ban hành Kế hoạch số 3119/QĐ-BHXH về triển khai xây dựng Cơ sở dữ liệu quốc gia về bảo hiểm và các cơ sở dữ liệu chuyên ngành, thực hiện theo Quyết định 2570/QĐ-BTC của Bộ Tài chính. Đây là bước đi quan trọng nhằm hoàn thiện hạ tầng dữ liệu phục vụ chuyển đổi số của hệ thống bảo hiểm, đồng thời đáp ứng yêu cầu kết nối, chia sẻ dữ liệu liên thông giữa các bộ, ngành trong thời gian tới.
-
-Từ cơ sở dữ liệu quốc gia về dân cư, hệ thống bảo hiểm xã hội đã tạo lập được dữ liệu sổ tay y tế với các thông tin cơ bản, góp phần giảm chi phí số hóa dữ liệu cho nghành y tế.
-
-Một trong những yêu cầu then chốt là bảo đảm dữ liệu “đúng, đủ, sạch, sống, thống nhất, dùng chung”. Các hệ thống gồm cấp mã số bảo hiểm xã hội, quản lý bảo hiểm y tế hộ gia đình, xét duyệt chính sách, tiếp nhận hồ sơ, quản lý thu - sổ thẻ và giám định bảo hiểm y tế đều phải được chuẩn hóa trước khi đưa vào đồng bộ với Trung tâm Dữ liệu quốc gia.
-
-(Nguồn: Cục Chuyển đổi số quốc gia)
