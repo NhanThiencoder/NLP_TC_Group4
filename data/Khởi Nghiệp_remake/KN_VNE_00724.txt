@@ -1,0 +1,57 @@
+Có cơ hội ở Google (Mỹ) nhưng Lê Yên Thanh vẫn về Việt Nam, khởi nghiệp bằng ý tưởng của chính mình từ thời sinh viên: Làm bản đồ xe bus.
+
+Trung tuần tháng 6, Phenikaa công bố đã đầu tư 1,5 triệu USD vào BusMap, đưa startup này gia nhập lĩnh vực công nghệ trong hệ sinh thái đa ngành của tập đoàn, với tên gọi mới là Phenikaa MaaS.
+
+CEO BusMap, nay là CEO Phenikaa MaaS chính là Lê Yên Thanh, người đã trải qua hành trình nhiều năm nuôi dưỡng ứng dụng BusMap miễn phí viết từ thời sinh viên.
+
+Thay bản đồ giấy bằng bản đồ số
+
+Ứng dụng BusMap được Lê Yên Thanh viết vào năm 2013, khi còn là sinh viên trường Đại học Khoa học Tự Nhiên, Đại học Quốc gia TP HCM. Khi đó anh thường đi học hàng ngày bằng xe bus với chiếc bản đồ giấy rất to.
+
+Học công nghệ thông tin và cũng có kiến thức về thuật toán từ trước nên Thanh nghĩ đến việc có thể làm một bản đồ số xe bus thuận tiện hơn nhiều so với bản đồ giấy. Đó là một ứng dụng có thể đưa ra lời giải cho các bất tiện chính Thanh gặp phải như tình hình di chuyển thực tế của các tuyến xe, cách tìm lộ trình mới dễ dàng hơn khi tuyến cũ dừng hoạt động hoặc cuối ngày khi tuyến mình cần đi đã hết giờ hoạt động...
+
+"Ban đầu nó là ứng dụng nhỏ thôi. Mình mang đi thi thì được thầy cô, giám khảo góp ý nhiều và hoàn thiện dần khi học năm 3-4", Thanh kể. BusMap hoàn toàn miễn phí cho người dùng, hạn chế việc chèn quảng cáo vì muốn người dùng có trải nghiệm tốt nhất. Kinh phí duy trì, anh góp nhặt từ việc mang nó đi thi ở nhiều nơi.
+
+Cũng nhờ uy tín từ việc chiến thắng tại nhiều cuộc thi startup và được Trung tâm Phát triển Khoa học và Công nghệ Trẻ trực thuộc Thành đoàn TP HCM giới thiệu, BusMap được Sở Giao thông - Vận tải TP HCM chấp thuận chia sẻ dữ liệu GPS của xe bus. Tính năng cập nhật thông tin di chuyển của xe theo thời gian thực trở nên hoàn thiện, giúp người dùng biết chính xác khi nào xe đến, tiết kiệm thời gian chờ đợi.
+
+CEO Phenikaa MaaS Lê Yên Thanh. Ảnh: Nhân vật cung cấp.
+
+Năm thứ tư đại học, Lê Yên Thanh sang thực tập 4 tháng tại Google Mỹ. Kết thúc khóa thực tập, anh có 3 con đường để chọn. Một là được Google giữ lại làm việc. Hai là theo đuổi con đường du học và trở thành nghiên cứu sinh sau đại học. Ba là về nước để khởi nghiệp.
+
+Thanh chọn về Việt Nam, đầu quân cho một công ty khởi nghiệp để trau dồi kinh nghiệm và kiến thức, chuẩn bị cho việc lập startup riêng vào tháng 3/2019. "Khoảng thời gian khó khăn nhất là khi đã ra trường, làm cho công ty khởi nghiệp. Khi ấy lượng người dùng BusMap rất nhiều và mình phải đứng trước quyết định có duy trì nó để tiếp tục hỗ trợ miễn phí cho người hay đi xe bus, hay dừng lại để theo đuổi những dự án khởi nghiệp khác", anh kể lại.
+
+Cuối cùng, Thanh chọn BusMap. Thời điểm đó, ứng dụng đạt 500.000 lượt tải. Thành lập công ty xong, anh cùng đội ngũ sáng lập bắt đầu xây dựng mô hình kinh doanh. Ban đầu, họ hướng đến mô hình B2C, tức là xây dựng sản phẩm và khai thác kinh doanh trên lượng người dùng. BusMap khi ấy tiếp tục đi "chinh chiến" tại các cuộc thi khởi nghiệp. Và họ được vinh danh Giải thưởng Đổi mới sáng tạo và Khởi nghiệp TP HCM (I-Star 2019).
+
+"Trong quá trình đó, các giám khảo và nhà đầu tư đánh giá mô hình B2C sẽ khó với BusMap vì người dùng đa phần không có thu nhập cao, nên mình quyết định chuyển sang mô hình B2B, cung cấp những giải pháp về quản lý và bản đồ xe bus cho doanh nghiệp", anh nói.
+
+Cú bắt tay với Phenikaa
+
+Tháng 9/2019, BusMap thắng giải nhất ở "Viet Startup Contest in Japan". Tại đó, Lê Yên Thanh có dịp gặp gỡ ông Lê Anh Sơn, thành viên của hội đồng giám khảo. Đến tháng 2/2020, ông Lê Anh Sơn đầu quân cho Phenikaa, trở thành Viện Phó Viện Nghiên cứu và Công nghệ Phenikaa của tập đoàn.
+
+Ông Sơn kết nối BusMap với Chủ tịch Phenikaa Hồ Xuân Năng. "Qua trao đổi, mình thấy định hướng các giải pháp cho thành phố thông minh Phenikaa đang triển khai là những điều mà startup mình đang muốn theo đuổi nên chủ động ngỏ lời họ đầu tư và được ông Hồ Xuân Năng đồng ý", Thanh kể. Trong thông điệp phát đi khi BusMap "sang trang", Phenikaa đánh giá đội ngũ BusMap là những người trẻ tài năng, có khát vọng cống hiến và chủ động sáng tạo nắm giữ công nghệ lõi.
+
+Dưới sự hỗ trợ của Phenikaa, với tên gọi mới, Phenikaa MaaS cùng với việc mở rộng quy mô và định hướng phát triển, sẽ đẩy mạnh đưa sản phẩm ra thị trường, cùng với việc hoàn thiện về mặt công nghệ lõi, công nghệ bản đồ, IoT, AI. Hiện hầu hết giải pháp là do đội ngũ của Phenikaa MaaS tự phát triển nhưng vẫn còn cần một vài công nghệ công ty đang hoàn thiện. Sắp tới anh muốn tự làm chủ toàn bộ.
+
+Lê Yên Thanh làm việc cùng đội ngũ trong giai đoạn chưa giãn cách xã hội. Ảnh: Nhân vật cung cấp.
+
+CEO của Phenikaa MaaS đặt ra mục tiêu trong 2-3 năm tới trở thành công ty hàng đầu cung cấp giải pháp công nghệ giao thông tại Việt Nam và lâu dài là mở rộng ra thị trường nước ngoài.
+
+Anh giải thích, nếu xét theo hướng là startup cung cấp giải pháp công nghệ cho giao thông, anh không có đối thủ trực tiếp. Còn xét từng sản phẩm về bản đồ, giải pháp xe bus thì sẽ có đối thủ riêng rẽ. "Đó là thế mạnh của mình, khi có thể kết hợp tất cả giải pháp lại với nhau, từ phần mềm với phần cứng", anh nói.
+
+Ứng dụng BusMap vì thế vẫn miễn phí cho người dùng, công ty tiếp tục phát triển giải pháp quản lý xe bus đưa đón lao động cho doanh nghiệp, khu công nghiệp hay xe bus đưa đón học sinh cho các trường học.
+
+Hiện giải pháp quản lý xe đưa đón học sinh của họ đã triển khai cho 4 trường quốc tế và có khách hàng ở Trung Đông. Công ty cũng đang thử nghiệp các giải pháp quản lý xe đưa đón nhân viên cho doanh nghiệp, xây dựng giải pháp quản lý xe VinBus cho VinGroup, hay quản lý xe công ở Đà Nẵng.
+
+"Tất cả là nền tảng từ công nghệ bản đồ và các thuật toán từ ứng dụng BusMap phát triển lên, nhờ vậy tiết kiệm kinh phí và thời gian hơn nhiều so với các đối thủ khác", Thanh nói.
+
+Từ năm ngoái đến nay, startup của Thanh còn gây ấn tượng bởi giải pháp bản đồ dịch tễ, phối hợp với Trung tâm thông tin Dịch vụ công 1022 Đà Nẵng xây dựng. Họ xây dựng xong giải pháp trong chưa đầy một tuần khi thành phố này bùng dịch năm ngoái, và sau đó tiếp tục hỗ trợ triển khai cho Hải Dương.
+
+Sang năm 2021, làn sóng Covid-19 lần thứ tư nổ ra, Đà Nẵng và công ty quyết định giới thiệu và đồng hành cung cấp giải pháp này cho các tỉnh thành có nhu cầu. "Từ đầu năm đến giờ đã triển khai miễn phí cho hơn 10 tỉnh", Thanh nói.
+
+Những ngày này, đội ngũ của Phenikaa MaaS với gần 50 nhân sự tiếp tục duy trì làm việc từ xa để chống dịch. Dịch bệnh không mấy ảnh hưởng nhiều đến công ty và Thanh cho hay vẫn đang tuyển thêm nhân sự.
+
+Nhìn lại chặng đường của mình, anh đánh giá khởi nghiệp không phải là con đường dành cho tất cả. Nó không chỉ cần quyết tâm và đam mê, mà người khởi nghiệp muốn lao vào cần hoàn thiện trước 3 yếu tố: công nghệ, con người và tài chính.
+
+Thứ nhất, phải có kinh nghiệm và công nghệ để xây dựng được sản phẩm đúng nhu cầu thị trường. Thứ hai là mối quan hệ để khi thành lập công ty có thể tuyển được những người cùng chí hướng. Và thứ ba là đủ tiềm lực tài chính để duy trì. "Khi có đủ 3 yếu tố đấy thì mới nên bắt tay vào con đường khởi nghiệp", anh chia sẻ.
+
+Viễn Thông

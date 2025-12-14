@@ -1,0 +1,47 @@
+Bên cạnh những doanh nhân đã làm nên sự nghiệp rạng rỡ là những doanh nhân mới gây dựng sự nghiệp cùng nhiều ước mơ, hoài bão.
+
+Riêng với Vũ Thế Tuấn, anh cùng những lập trình viên tuổi đời còn rất trẻ, chưa đến 30, đã chung tay xây dựng một sản phẩm hết sức mới mẻ với người Việt: Icheck. Tâm niệm của anh khi gây dựng sự nghiệp là tạo ra được sản phẩm bảo vệ được quyền lợi của người tiêu dùng và doanh nghiệp trước nạn hàng giả, hàng kém chất lượng hoành hành.
+
+Anh Vũ Thế Tuấn đã làm được điều đó khi sản phẩm Icheck của anh giờ đây đã nhiều người biết đến, hơn 8 triệu lượt người dùng đã sử dụng sản phẩm của anh. Và, điều đáng nói hơn, anh cung cấp Icheck cho người dùng hoàn toàn miễn phí.
+
+Nguyên do nào đẩy đưa anh đến với ý tưởng xây dựng và phát triển Icheck?
+
+ICheck là ứng dụng hoàn toàn thuần Việt do nhóm tác giả Mai Huy Toàn, Đỗ Anh Ba, Lê Duy Khánh, Ngô Xuân Đức và Đặng Trung Đức, những lập trình viên dưới 30 tuổi, phát triển. Đây là sản phẩm đầu tiên của Công ty Cổ phần iCheck do Vũ Thế Tuấn làm Tổng giám đốc. Ra đời nhằm bảo vệ quyền lợi của người tiêu dùng và các doanh nghiệp trước nạn hàng giả, hàng kém chất lượng, iCheck vẫn được cung cấp miễn phí cho người dùng.
+
+Trong những năm gần đây, thực trạng hàng giả, hàng nhái, hàng kém chất lượng, không rõ nguồn gốc là vấn đề không của riêng bất cứ ai, bất cứ cơ quan, tổ chức nào mà nó còn là vấn đề của toàn xã hội. Trong khi đó, người tiêu dùng thì lại đang quá thiếu thông tin về những sản phẩm mà hàng ngày sử dụng. Chính vì đó, nhu cầu tìm hiểu nguồn gốc, suất xứ của sản phẩm ngày càng tăng. ICheck ra đời để đáp ứng nhu cầu của người tiêu dùng.
+
+Chúng tôi quyết định nghiên cứu và phát triển ứng dụng iCheck Scanner với mong muốn bảo vệ quyền lợi của người tiêu dùng, giúp người tiêu dùng tiếp cận được những sản phẩm tốt, thật sự có chất lượng, qua đó xây dựng một cộng đồng những người tiêu dùng thông minh.
+
+Sau hơn 1 năm phát triển, iCheck Scanner đang có tổng số lượt cài gần 8 triệu lượt cài đặt với số người sử dụng hàng tháng là 2,8 triệu lượt. Ứng dụng này thu hút trung bình 10.000 lượt cài đặt mới mỗi ngày. Để đáp ứng yêu cầu phát triển iCheck đang có đội ngũ gần 40 nhân sự cùng tham gia vận hành và phát triển sản phẩm (từ kỹ thuật, kinh doanh, marketing…) thay vì vài anh em như lúc ban đầu.
+
+Vấn đề là tiền đâu để xây dựng nên Icheck và quan trọng hơn là giữ được sản phẩm này khi các anh đang làm miễn phí cho cộng đồng?
+
+Chúng tôi phải bỏ ra chi phí không hề nhỏ, trong đó lớn nhất là các khoản chi phí cho nhân sự và vận hành hệ thống. Tới thời điểm hiện tại, iCheck vẫn là một ứng dụng không hề thu một khoản phí nào từ người sử dụng. Thậm chí là chúng tôi cũng hỗ trợ các doanh nghiệp đăng tải thông tin sản phẩm của họ một cách miễn phí hoàn toàn. Chúng tôi quan niệm rằng cứ “cho” đi rồi tự khắc một ngày “giá trị” sẽ đến với mình.
+
+Ban đầu, ngoài việc phát triển ứng dụng, chúng tôi còn phải trả khá nhiều tiền để iCheck đến được với người dùng trước khi có được sự lan tỏa như hiện nay. Có những giai đoạn, iCheck phải trả tới gần 20.000 đồng/1 người dùng mới. Trong suốt giai đoạn đầu, các thành viên sáng lập phải chi rất nhiều tiền cho ứng dụng và mới chỉ thu lại được một phần thông qua quảng cáo.
+
+Rất may mắn trong giai đoạn mở rộng và phát triển, iCheck nhận được sự đầu tư và hỗ trợ không chỉ về mặt tài chính mà còn cả trong định hướng xây dựng và phát triển chiến lược từ anh Hải (ông Nguyễn Văn Hải, cựu phó tổng giám đốc VinaPhone - chủ tịch quỹ đầu tư thiên thần Queenbee). Chúng tôi tin rằng là dưới sự ủng hộ và giúp đỡ từ anh Hải trên cương vị chủ tịch Hội đồng quản trị, iCheck sẽ ngày càng lớn mạnh và phát triển hơn nữa. Câu chuyện không chỉ dừng lại ở số tiền đầu tư bao nhiêu mà còn là kinh nghiệm và tầm nhìn đã được khẳng định suốt bao nhiêu năm nay của anh Hải.
+
+Ông Nguyễn Văn Hải (phải) và CEO iCheck Vũ Thế Tuấn tại lễ ký kết hợp đồng đầu tư.
+
+Khi nhận được một khoản đầu tư lớn cũng đồng nghĩa với rất nhiều thách thức và cơ hội mới cho iCheck. Tất cả anh chị em trong công ty sẽ đều phải lao động hết công suất để đảm bảo tiến độ và chất lượng sản phẩm theo đúng lộ trình phát triển. Cùng với đó, mọi người cũng sẽ nhận được lương thưởng và các mức đãi ngộ tốt hơn phù hợp với công sức mà mọi người đã đóng góp.
+
+Trước Icheck đã có nhiều sản phẩm tương tự, Icheck làm thế nào để khác biệt và tồn tại?
+
+Về phương diện kỹ thuật, tôi gặp thách thức để tối ưu hóa tính năng quét mã vạch QR-code. Hiện nay, trên thị trường đã có rất nhiều ứng dụng có khả năng tương tự. Tiền thân của iCheck là ứng dụng Barcode Việt cũng đã là một ứng dụng có tính năng truy xuất thông tin như thế. Câu hỏi đặt ra là làm thế nào để iCheck khác biệt được với các sản phẩm khác trên thị trường.
+
+Để đạt được dấu ấn, iCheck đẩy mạnh mục tiêu truy xuất thông tin hàng hóa, sản phẩm và biến nó trở thành công cụ để người tiêu dùng có thể chủ động đánh giá chất lượng sản phẩm cũng như đưa ra cảnh báo để cộng đồng người tiêu dùng có thể dựa vào để đưa ra những lựa chọn thông minh cho bản thân.
+
+Việc xây dựng cho iCheck một cộng đồng thay vì chỉ là một ứng dụng đọc mã vạch thông thường là điều chúng tôi đang hướng tới. Tuy nhiên, tôi cũng phải thẳng thắn thừa nhận đây là thách thức lớn nhất mà iCheck cần đạt được để thành công hơn nữa. Tạo cho người dùng thói quen đánh giá sản phẩm không phải dễ dù điều này rất có lợi cho họ.
+
+ICheck lấy cơ sở dữ liệu từ đâu để đánh giá sản phẩm?
+
+ICheck sự hợp tác với Tổ chức mã vạch, mã số quốc tế (GS1) thuộc Tổng cục đo lường chất lượng để có thể sử dụng được nguồn dữ liệu chính thống của hơn 1 triệu sản phẩm và 66.000 nhà sản xuất cả trong nước và ngoài nước.
+
+Đối với những sản phẩm không nằm trong hệ thống cơ sở dữ liệu của iCheck và GS1, iCheck cho phép người sử dụng tự đóng góp thông tin về sản phẩm bao gồm tên, giá thành, nơi sản xuất, hình dáng, cách nhận biết sản phẩm chính hãng…. Tuy nhiên, chúng tôi cũng sẽ tiến hành kiểm duyệt các đánh giá của người dùng để đảm bảo dữ liệu trên hệ thống chính xác nhất, giúp ngăn chặn các hành động chơi xấu trong kinh doanh.
+
+Kế hoạch chi tiêu của iCheck sau khi nhận được vốn đầu tư là gì?
+
+ICheck sẽ tiếp tục mở rộng thêm nhân sự để đáp ứng việc phát triển sản phẩm trong thời gian tới, tập trung hoàn thiện các tính năng trong iCheck cũng như hệ thống tem chống giả EVS QR-Code để có thể đưa giải pháp chống giả ưu việt này đến với các doanh nghiệp và người tiêu dùng tại Việt Nam.
+
+Mục tiêu của chúng tôi là trong tương lai, 60% người sử dụng smartphone tại Việt Nam sẽ sử dụng iCheck. Xa hơn nữa, chúng tôi muốn ứng dụng vươn ra phạm vi toàn cầu. Cùng với đó, chúng tôi mong tem chống hàng giả sẽ được đón nhận nhằm tạo ra một biện pháp chống làm nhái công nghệ cao để người tiêu dùng trở thành các nhà thông thái.

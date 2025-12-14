@@ -1,0 +1,73 @@
+- Vì sao anh lại từ bỏ công việc lập trình, vốn được coi là một nghề “hot” trong những năm đầu thập niên 2010, mà không có bất cứ gì đảm bảo cho cuộc sống ổn định hơn?
+
+- Mình từng làm việc ở vài công ty công nghệ và sở hữu trong tay năng lực không tệ. Tuy nhiên, công việc gây cho mình không ít áp lực hay thậm chí là sự chán nản. Mình cảm thấy bị cuốn vào vòng luẩn quẩn của việc sai đâu đánh đó. Giống Thiên Lôi, mình liên tục phải chạy theo yêu cầu kinh doanh của công ty, ít có thời gian dừng lại để suy ngẫm và sáng tạo gì đó. Chính vì vậy, mình quyết định dừng lại một thời gian để tìm cảm hứng.
+
+- Quyết định bỏ việc để theo đuổi đam mê riêng là điều vô cùng khó khăn mà không phải ai cũng dám làm. Cá nhân anh phải chịu áp lực gì khi đưa ra quyết định có thể gọi là bước ngoặt của cuộc đời này?
+
+- Ban đầu, mình cũng chỉ có ý nghĩ nghỉ ngơi trong thời gian ngắn. Tuy nhiên, sau thời gian đi làm trở lại ở một số công ty gia công phần mềm, mình thấy không thể gắn bó lâu với những công việc đó. Chúng lại khiến mình cảm giác như một con robot. Chính vì thế, mình lại ở nhà và nhận việc thời vụ bằng cách lập trình web. Khi đó, cha mẹ rất lo lắng và liên tục hối thúc mình đi làm lại.
+
+- Điều gì khiến anh cảm thấy khủng khiếp nhất trong thời gian ở nhà để theo đuổi ước mơ riêng nhưng lại chưa gặt hái được thành tựu gì từ đó?
+
+- Trong thời gian ở nhà mình phải nhận rất nhiều chỉ trích. Thậm chí, có một người họ hàng khá thành công còn nói thẳng với mình rằng đi làm là việc của đàn ông, phụ nữ mới ở nhà. Lúc đó mình rất xấu hổ nhưng không biết phải thanh minh ra sao vì chưa có điều gì nổi bật. Trong khi đó, không phải ai cũng hiểu về kỹ thuật để mình có thể giải thích.
+
+Nguyễn Thanh Tú, người vừa được Facebook trao gói hỗ trợ khởi nghiệp trị giá 40.000 USD.
+
+Một năm trước sự thành công vang dội của game Flappy Bird, mình đã có ý định viết ứng dụng cho điện thoại. Tuy nhiên, mình chỉ tính làm các ứng dụng cho trẻ em nhằm giúp chúng vừa chơi vừa học, đặc biệt là tiếng Anh. Nhưng lúc đó mình chỉ là lập trình viên cho web nên có nhiều hạn chế về mặt công nghệ, khiến game dành cho di động có tốc độ rất chậm và hạn chế về đồ hoạ.
+
+Trước đây, mình cũng có viết vài game nhưng do hạn chế về kỹ thuật lập trình nên chúng không thể chạy mượt mà trên di động dù chạy rất tốt trên máy tính. Với những game dành cho di động đòi hỏi phải tối ưu hoá bộ nhớ nhiều hơn vì bộ nhớ của những dòng điện thoại thời đó (giai đoạn trước năm 2011) rất nhỏ.
+
+- Sự có mặt của cô con gái nhỏ tạo động lực như thế nào cho anh trong hành trình chinh phục ước mơ và đạt được thành công bước đầu như hôm nay?
+
+- Con gái là món quà tuyệt nhất mà mình nhận được từ trước tới nay. Tuy nhiên, sau niềm vui đó là những nỗi lo khác, từ những điều nhỏ nhoi nhất tới việc chăm sóc, giáo dục con. Lúc đó, mình chỉ biết nỗ lực hết sức để vượt qua khó khăn đang đeo bám. Áp lực nuôi con nên mình nhận lập trình nhiều website hơn. Việc viết game cũng phải dừng lại vì không đủ thời gian và trí óc để làm song song 2 việc.
+
+Nhà mình ở ngoại thành nên khi con bị bệnh hay đi chích ngừa ở các cơ sở y tế bằng xe máy là cực hình. Lúc đi, cả nhà có thể dậy sớm nhưng khi về là lúc trời nắng gay gắt. Nhìn con gái bơ phờ, mặt đỏ như gấc, mình chỉ muốn cố gắng hơn để con được đi taxi cho đỡ mệt.
+
+- Anh có thể chia sẻ về hoàn cảnh ra đời của tựa game đầu tay Shark Journey (Cá mập phiêu lưu ký)?
+
+- Trước khi làm Shark Journey mình cũng có vài ý tưởng nhưng phân vân chưa chọn được ý tưởng nào để đi sâu vào thực hiện. Trong lúc đó, mình đưa con gái tới chơi ở hồ cá Koi nhưng con cứ gọi cá Koi là Shark làm mình rất tức cười. Mình chợt suy nghĩ tới công việc và nảy ra ý tưởng về Shark Journey.
+
+Tuy nhiên, mình cũng phải mất cả năm để tìm hình ảnh, chọn âm thanh cũng như các phương pháp xây dựng game phù hợp rồi bắt tay vào thử nghiệm. Khi chạy thử nghiệm, mình không có kinh phí quảng cáo nên không nhiều người để mắt tới nó. Trải qua quá trình nghiên cứu và tìm hiểu từ những game thành công, mình quyết định tích hợp mạng xã hội vào game để mọi người chia sẻ rộng rãi. Từ đó, game được chia sẻ và đón nhận từ rất nhiều người.
+
+- Anh lấy kinh phí ở đâu để quảng cáo cho đứa con tinh thần của mình trong khi vẫn lo bỉm sữa cho cô con gái bé bỏng?
+
+- Sau khi tham khảo từ các cách làm tăng lượng người tải game, mình cũng thử quảng cáo. Kinh phí lấy từ việc làm thời vụ lập trình web và một số công việc tay chân khác. Bà xã không thích mình làm game nhưng cũng không phản đối dữ dội. Cô ấy vẫn cố gắng đi làm để lo các khoản chi tiêu trong gia đình.
+
+Quảng cáo tạo ra sự tăng trưởng rất hiệu quả nhưng kinh phí có hạn nên mình không quảng cáo nhiều. Từ một số nhỏ người dùng truy cập qua quảng cáo, mình kỳ vọng vào sự lan toả từ họ.
+
+- Khi viết Shark Journey, anh có nghĩ nó sẽ thành công?
+
+- Như tất cả các lập trình viên khác, mình cũng mong muốn đổi đời từ ứng dụng của mình. Tuy nhiên, những gì diễn ra trong thực tế khó hơn rất nhiều so với tưởng tượng. Ban đầu, khi mới phát hành game lên các kho ứng dụng, Shark Journey đạt được lượng tải về có thể chấp nhận với khoảng vài chục lượt tải xuống mỗi ngày.
+
+Shark Journey, game giúp Thanh Tú gặp hái được những thành công đầu tiên.
+
+Khi bắt đầu có chút hy vọng, lượng người chơi lại từ từ giảm xuống. Thậm chí, có nhiều người dùng gỡ bỏ game. Lúc đó, mình rất hoang mang và không biết nguyên nhân tại sao. Đã có lúc, mình tưởng Shark Journey sẽ chết yểu. Tuy nhiên, qua tìm hiểu từ những phản hồi ít ỏi từ người dùng, mình tìm ra vấn đề và khắc phục nó.
+
+Người dùng chê giao diện game quá tẻ nhạt quá, tầm thường giống ứng dụng trên Window. Có bạn người Thổ Nhĩ Kỳ cho rằng game khó chơi quá và các phím bấm quá nhạy. Một anh người Mỹ thì bảo là game quá ngu ngốc với quảng cáo che hết tầm nhìn.
+
+Ban đầu, mình rất choáng váng khi nghe những lời này nhưng nó là phương hướng để mình nâng cấp game ngay lập tức. Với những thay đổi từ cách hiển thị quảng cáo, mình cũng dựng vài video để hướng dẫn chơi để họ sử tay cầm dễ hơn cũng như cách vượt qua các màn. May mắn là người dùng đón nhận và game lại tiếp tục tăng trưởng.
+
+Hiện tại trên Google play đã gần chạm mốc 10.000 người tải game. Tổng cộng trên Amazon store, Google play and Apple app store và các store nhỏ khác, số lượt tải game đã vượt qua 20.000. Tiền game mang lại một ngày có thể đủ tiền bỉm sữa và các chi phí khác cho con gái nhỏ trong cả tháng.
+
+- Anh từng chia sẻ việc vợ chồng bất đồng trong lúc anh viết game. Thậm chí, có ngày vợ không cho tiền ăn sáng và ăn trưa để anh tự suy nghĩ về chuyện khởi nghiệp. Lúc đó anh có cảm thấy mình bị tổn thương vì là một người đàn ông mà chưa thể chăm lo cho gia đình?
+
+- Lúc đó mình hơi buồn. Tuy nhiên, mình hiểu bà xã và cô ấy có lý do để làm vậy. Mình ở nhà quá lâu, lại không kiếm đủ để chi tiêu khiến cô ấy nghĩ mấy ý tưởng của mình là vớ vẩn và không biết bao giờ thành công. Trong khi đó, việc chi tiêu vẫn diễn ra hàng ngày. Những lúc như vậy, mình chỉ biết im lặng đi qua phòng làm việc đóng cửa lại, bật máy tính lên với hi vọng Shark Journey sớm đạt được thành công.
+
+- Hiện tại, Shark Journey đã có những thành công bước đầu. Anh làm thế nào để giành được gói hỗ trợ khởi nghiệp 40.000 USD của Facebook? Nó mang lại cho anh những lợi thế gì?
+
+- Với hi vọng để Shark Journey sớm vươn ra thế giới, mình mong một khoản đầu tư để nâng tầm cho game bằng các cải tiến đồ hoạ và gia tăng kinh phí quảng cáo. Chính vì vậy, mình đã nộp lên đơn lên FBStart với hy vọng mong manh vì cả thế giới có cả triệu người khởi nghiệp nộp đơn như mình. Bất ngờ là FBstart lại ấn tượng và tài trợ cho game của mình.
+
+Tú và cô con gái nhỏ - động lực mạnh mẽ cho anh trên con đường chinh phục thành công.
+
+Mình thấy nhiều người hiểu sai về gói tài trợ của Facebook. Đây là gói công cụ và dịch vụ hỗ trợ trị giá 40.000 USD chứ không phải tiền mặt. Tuy nhiên, giá trị mà gói hỗ trợ mang lại có thể hơn 40.000 USD rất nhiều. Facebook không muốn làm hư lập trình viên bằng món tiền mặt, bù lại, họ giúp nâng tầm của ứng dụng lên để vươn ra toàn cầu bằng các dịch vụ phân tích dữ liệu, tìm ra điểm mạnh điểm yếu của ứng dụng, quảng cáo miễn phí trên Facebook, trợ giúp về đồ hoạ....
+
+Nếu được người dùng chấp nhận thì thành quả thu được sẽ lớn hơn 40.000 USD rất nhiều. Về trước mắt, mình có thể kiếm được tiền quảng cáo từ việc người dùng cài đặt và sử dụng game thông qua hơn tỷ người dùng trên Facebook.
+
+- Anh có dự định gì cho tương lai của Game này cũng như tạo ra các sản phẩm mới hay không?
+
+- Mình dự tính sẽ phát hành phiên bản Shark Journey không quảng cáo vì quảng cáo gây khá nhiều phiền phức cho một số người. Tuy nhiên, người chơi cần bỏ ra một khoản phí nhỏ để có thể chơi phiên bản này.
+
+Gần đây mình đã phát hành thử nghiệm 2 ứng dụng dành cho trẻ em trên Apple app store, Google play và Amazon store để lấy ý kiến người dùng. Một ứng dụng học những nốt nhạc đầu tiên cho trẻ em thông qua chiếc đàn Xylophone và một ứng dụng học màu sắc trong tiếng Anh rất nhiều hoạt hình vui nhộn.
+
+- Có ai trong giới lập trình Việt Nam gây ấn tượng với anh và trở thành hình mẫu cho anh hay không?
+
+- Mình sinh năm 1982, không còn trẻ nữa nên cũng không có hình mẫu như lúc mới ra trường. Hiện nay, mình cũng đã tìm được con đường đi của riêng mình.

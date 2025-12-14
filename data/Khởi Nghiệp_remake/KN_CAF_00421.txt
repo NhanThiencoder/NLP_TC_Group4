@@ -1,0 +1,53 @@
+Liên quan đến chiến lược phát triển một startup, ông Hùng Đinh , CEO DesignBold, đồng thời là sáng lập quỹ VIC Partners - một quỹ đầu tư mạo hiểm tập trung hỗ trợ các startups ở giai đoạn đầu tại Việt nam và Đông Nam Á, đã đầu tư vào nhiều startup như TopCV, ColorMe, HappySkin, WisePass... có một bài chia sẻ về chiến lược phát triển của startup giai đoạn đầu khá thú vị, chúng tôi xin chia sẻ lại với các độc giả.
+
+Hôm qua, sau khi ngồi với một CEO trẻ tuổi trong một cuộc họp gần 3 tiếng đồng hồ nhưng không mang lại kết quả, cả đêm tôi gần như không ngủ. Tôi trằn trọc vì đã thất bại trong việc thuyết phục startup đó thay đổi chiến lược trọng yếu về sản phẩm trong thời gian sắp tới của công ty.
+
+Chiều nay tôi có cuộc họp lần thứ 2, sợ lại vẫn thất bại. Tôi đành chia sẻ những dòng này để gửi gắm startup đó. Nhưng trước khi gửi đi, tôi rất mong nhận thêm ý kiến từ bạn bè, đặc biệt là những anh chị em đã và đang khởi nghiệp như tôi.
+
+Trước hết, tôi kể cho mọi người vài mẩu chuyện, tạm gọi là "làm một việc nhỏ, thật lớn"
+
+1. JA Purity
+
+Một trong những thành công đầu tiên của bản thân tôi là startup JoomlArt. Và rất ít người biết được thành công đó, lại có 1 sự góp phần rất lớn của 1 dự án nhỏ - làm lớn; đó là sản phẩm JA Purity. JA Purity đạt khoảng 50 triệu lượt tải trong vòng 5 năm. Sản phẩm nhỏ này chúng tôi mất 1 tháng để làm, 6 tháng để vận động marketing đưa nó vào thành 1 phần không thể tách rời của Joomla, nó là chiến lược marketing thành công nhất của công ty trong suốt 10 năm.
+
+Một sản phẩm vẻn vẹn chưa đến 500 dòng code, được sử dụng bởi 50 triệu người, nhờ đó, chúng tôi trở thành công ty lớn nhất trên thế giới về Joomla, 1 ví dụ về "làm 1 việc nhỏ, thật lớn".
+
+2. Diêm Thống Nhất
+
+Ảnh: Dân Việt.
+
+Từ khi sinh ra đến bây giờ, cứ mỗi lần nhìn thấy bao diêm ở hàng nước ven đường hay ở nhà hàng 5 sao, thì tôi vẫn chưa thấy một thương hiệu nào khác ngoài "Diêm Thống Nhất". Startup này được thành lập từ 1956 tại Đức Giang, Gia Lâm; kiên định chỉ làm diêm và diêm, mãi đến 2014 (nghĩa là sau 58 năm) startup mới chịu sản xuất bật lửa.
+
+Sản xuất bật lửa đâu khó đâu, nhưng tôi tin là nhà sáng lập cũng là người thích "làm 1 việc nhỏ thật lớn". Startup sau này IPO thành công, hàng năm, công ty bán ra trên 100 triệu bao diêm, doanh thu năm 2018 là 118,1 tỉ đồng.
+
+3. Sách Tiki
+
+Tiki là sàn thương mại điện tử duy nhất "made in Vietnam" có đủ sức chống chọi với vô vàn các ông lớn nước ngoài. Trong 2-3 năm đầu tiên, Tiki làm cực tốt một việc là "bán sách trực tuyến" và gần như không bán bất kỳ một thứ gì khác. Bây giờ, mua hàng trên mạng chúng ta có cả tá sự lựa chọn, nhưng nếu là sách, có lẽ nhiều người đồng ý với tôi là sẽ luôn nghĩ tới Tiki.
+
+Cách đây 2 tháng, tôi đặt một đơn hàng gồm 7 món lặt vặt trên Tiki, giá trị gần 2 triệu đồng. Nhưng gần 3 tuần sau, món hàng duy nhất tôi nhân được là 2 chiếc khăn mặt trị giá 80.000 đồng. Hình như gần 2 triệu không được hoàn trả vào thẻ, hơi buồn, tôi không chắc là sẽ mua những thứ khác ở Tiki nữa, nhưng nếu là sách, thì tôi vẫn sẽ luôn trung thành với Tiki. Thành quả của việc Tiki đã "làm 1 việc nhỏ thật lớn" trong những ngày đầu.
+
+4. Dây thừng
+
+Siam Brothers Việt Nam là startup chuyên về "dây thừng" lớn nhất Việt nam. 2017, startup lãi chính xác 130 tỉ đồng chỉ việc sản xuất và bán dây thừng, startup IPO thành công vào tháng 5/2017.
+
+Công nghệ sản xuất và đầu tư 1 dây chuyền làm dây thừng liệu để bắt đầu chắc cũng chỉ loanh quanh vài tỉ. Công ty nhà anh em Siam chắc cũng không cần phải thuê kỹ sư lương tháng 5.000 USD về lập trình. Khách hàng là nông dân, còn phải mua dây thừng, thì chắc cũng không có thời gian chơi smartphone và lướt Facebook, nên chắc chắn startup cũng không cần chi quá nhiều ngân sách cho hoạt động quảng cáo như các doanh nghiệp hiện nay vẫn làm.
+
+Rõ ràng, công nghệ để "làm việc nhỏ siêu lớn" cũng thường thường chứ không cần đao to búa lớn.
+
+5. TopCV
+
+Khi quyết định đồng hành cùng Trần Trung Hiếu - CEO TopCV, ngoài sự chững chạc và khâm phục tài năng của Hiếu thì có 1 yếu tố tôi rất thích khi Hiếu làm với 300% sự tập trung, đó là CV. Khi phỏng vấn nhân sự cho công ty tôi, thì cứ 10 bạn thì tôi phát hiện ra là có ít nhất 2 đến 3 bạn dùng CV in từ TopCV. Đó là dấu hiệu của việc TopCV đã làm lớn được một việc nhỏ: Giúp các bạn sinh viên làm CV. Sau 2 năm thì TOPCV đến nay đã có hơn 2 triệu người dùng, định giá công ty đã tăng hơn 15 lần từ lúc chúng tôi tham gia.
+
+6. Shopee
+
+Ảnh: Shopee.
+
+Ít ồn ào hơn các công ty TMĐT khác, Shopee không chi cả trăm triệu USD cho quảng cáo và truyền thông. Shopee chi trăm triệu cho duy nhất 1 việc: "miễn phí giao hàng" cho các merchant tham gia hoạt động trên sàn Shopee. Tôi thực sự khâm phục chiến lược này của Shoppee. Giao hàng là một việc nhỏ trong vô vàn thứ phải làm của một sàn TMĐT, nhưng 1 "chiến lược nhỏ tầm vóc" của startup này. Shopee phát triển thần tốc với 1 chiến lược duy nhất, nhưng chơi lớn nhất. Không có số liệu chính xác, nhưng tôi dám cá Shopee đã bán thành công hàng trăm triệu sản phẩm "giao hàng miễn phí" để làm nên một Shopee lớn mạnh như ngày hôm nay.
+
+Trên đây là 6 mẩu chuyện "làm một việc nhỏ, thật lớn" làm nên những thành công của các startup mà mình được biết, là những bài học xương máu của bản thân, là minh chứng sống về chiến lược quan trọng mà tôi thường hay chia sẻ khi cố vấn cho các bạn trẻ khởi nghiệp .
+
+Quay lại câu chuyện của tôi với vị CEO trẻ tuổi. Cuộc tranh luận xoay quanh việc tôi cố gắng thuyết phục vị giám đốc tập trung vào đúng một sản phẩm và phải biết từ chối thẳng thừng khi khách hàng yêu cầu làm thêm sản phẩm khác. Quan điểm của CEO thì ngược lại: Sau khi cung cấp 1 sản phầm, thì cố gắng bán thêm 1 vài sản phẩm khác để giữ chân khách hàng. Có như vậy thì mới gia tăng được tỉ lệ quay lại của khách hàng và góp phần gia tăng doanh số.
+
+Không phải vị CEO là không có lý, nhưng rõ ràng, đây không phải là tư duy của khởi nghiệp đột phá, mà là tư duy truyền thống của một doanh nghiệp truyền thống. Nếu đạt được sự phát triển, thì startup sẽ dàn hàng ngang để phát triển dần dần, còn nếu kỳ vọng một sự phát triển "thần tốc" thì cần phải dũng cảm tập trung vào 1 chiến lược duy nhất, hoặc 1 sản phẩm duy nhất, đóng gói (packaging) thật kỹ, tiêu chuẩn hoá (standardise) và công thức (formularise) để tối ưu vận hành, có như vậy startup mới tăng trưởng (scaling) để đạt được cảnh giới thần kỳ (hypergrowth) - cảnh giới ước mơ của bất kỳ công ty nào.
+
+Nhớ nhé, nếu khởi nghiệp, hãy bắt đầu bằng "một việc nhỏ, thật lớn"...

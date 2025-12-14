@@ -1,0 +1,35 @@
+Trong thế giới cryptocurrency (tiền điện tử) vào lúc này, dường như mọi thứ đều đang được đẩy lên trở thành những quả ‘bong bóng’ khổng lồ.
+
+Bên cạnh những đợt tăng giá ‘siêu phi mã’ của vài đồng tiền chỉ trong vài tuần, những giấc mơ tỷ phú trong một đêm trở thành hiện thực (ví dụ như trong sự kiện bitcoin phân tách hồi đầu tháng 8), người ta cũng nhắc đến những thương vụ gọi vốn cả chục triệu USD, thông qua tiền điện tử, chỉ trong vài phút, của các startup trên toàn thế giới (các ICO – Initial Coin Offering).
+
+Mới đây, một startup tại Singapore có CEO là người Việt đã khiến giới đầu tư phải choáng ngợp bởi số vốn rất khủng mà mình đã gọi được chỉ trong một thời gian rất ngắn. Cụ thể, Kyber Network – startup với mô hình sàn giao dịch cryptocurrency phi tập trung (decentralized exchange) – với CEO người Việt là anh Loi Luu (Lợi Lưu) đã gọi được số vốn lên tới 52 triệu USD, tương đương với khoảng 1.200 tỷ đồng, chỉ trong vài giờ đồng hồ.
+
+CEO Kyber Network thông báo trên trang cá nhân về thương vụ Token Sale thành công
+
+Trong sách trắng (white paper) và một loạt các trang thảo luận về mình, Kyber Network đều mô tả mình trước tiên như là một sàn giao dịch tiền điện tử phi tập trung có tính thanh khoản cao, có thể đảm bảo những giao dịch tức thì với tỷ giá ổn định.
+
+Xa hơn, Kyber Network cũng hướng đến việc thực thi các giao dịch tài chính phức tạp hơn trên nền tảng của mình chứ không chỉ đơn thuần thực hiện mua bán tiền điện tử. Ví dụ, đó có thể là giao dịch các hợp đồng kỳ hạn, các hợp đồng hoán đổi hay cho phép các ví tiền có thể nhận thanh toán từ bất kỳ đồng tiền nào chứ không riêng bitcoin và ethereum.
+
+Nói chung, với những gì Kyber Network trình bày, đây sẽ là mô hình sàn giao dịch hoàn thiện nhất trong tất cả các sàn giao dịch cryptocurrency đang tồn tại. Thêm một điểm đặc biệt về đội ngũ Kyber Network, bên cạnh việc có nhiều thành viên người Việt và gốc Việt, là trong đó có sự hiện diện của nhà tư vấn (advisor) trẻ tuổi Vitalik Buterin – cha đẻ đồng ethereum, đồng thời cũng được xem là một trong số những ‘ông trùm’ trong thế giới tiền điện tử.
+
+Trong thương vụ Token Sale của mình, Kyber Network đã phát hành đồng tiền điện tử của riêng mình mang tên KNC. Giá niêm yết được startup này bán là 1 KNC đổi lấy khoảng 0,43 USD (600 KNC tương đương 1 ethereum).
+
+Bình luận của giới startup trong và ngoài nước (tên các tài khoản đã được giấu vì tính cá nhân)
+
+Kết quả, khoảng 120 triệu đồng KNC đã bán ‘hết veo’ chỉ trong vài giờ đồng hồ. Kyber Network đã huy động được số vốn lên đến 200.000 ethereum, tương đương với 60 triệu USD hay 1.200 tỷ đồng.
+
+Từ trước đến nay, những thương vụ gọi vốn ‘khủng nhất’ của startup Việt có thể kể đến như ví điện tử Momo gọi vốn 28 triệu USD, GotIt! gọi vốn 9 triệu USD…Như vậy, con số ‘vô tiền khoáng hậu’ 52 triệu USD có được chỉ trong vài giờ của Kyber Network chính là thành tích gọi vốn ấn tượng nhất của các startup Việt cho đến lúc này.
+
+Ngay sau thời điểm Token Sale kết thúc là vào khoảng giữa tháng 9, giới startup trong và ngoài nước đã dành nhiều lời chúc mừng tới Kyber Network và CEO Loi Luu. Sau hơn 1 tuần kể từ lúc thương vụ Token Sale kết thúc, Kyber Network đã tiếp tục không để các nhà đầu tư phải thất vọng khi mà giá niêm yết bán trên các sàn của đồng KNC đã tăng tính bằng lần so với giá bán khi Token Sale.
+
+Một nhà đầu tư viết trên trang cá nhân: "Kyber Network, dự án chiếm lấy trái tim của tôi, bán với giá gấp 5 lần giá Token Sale, đạt được mục tiêu tôi đề ra. Xin cảm ơn"
+
+Theo trang coinmarketcap, giá trị của 1 KNC ở thời điểm lên sàn là 1.85 USD. Hiện tại, giá trị KNC đang ở mức đỉnh cao nhất là 1.97 USD.
+
+Token Sale hiện đang là một hình thức gọi vốn đang rất được quan tâm trong giới startup. Ưu điểm của hình thức này là các starup có thể gọi những được số vốn rất khủng dù chỉ với sự chuẩn bị có phần 'sơ sài' hơn rất nhiều nếu so với các thương vụ funding truyền thống trước đây.
+
+Tất nhiên, điều này cũng sẽ mang lại những rủi ro đôi khi là rất lớn cho các nhà đầu tư chỉ dùng niềm tin để rót vốn vào startup. Trong một buổi gặp mặt của giới quan tâm đến Token Sale diễn ra tại Hà Nội mới đây, ông Zach Piester - Giám đốc quỹ đầu tư mạo hiểm Intrepid đến từ Singapore - đã nhận định rằng hiện tại có tới 95% số dự án Token Sale là lừa đảo (scam).
+
+Token sale là hình thức huy động vốn đầu tư hợp pháp của các công ty khởi nghiệp. Khi thực hiện các đợt Token sale, công ty sẽ bán đi một phần các cổ phiếu cryptocurrency (cryptocoin) dưới dạng token cho những khách hàng tham gia đầu tiên hoặc nhà đầu tư mạo hiểm để đổi lấy tiền, thường là tiền điện tử dưới dạng bitcoin hoặc ethereum.
+
+Các token được bán ra sẽ có thể sẽ được sử dụng như một phần trong mô hình kinh doanh của công ty. Đồng thời, mỗi công ty sẽ vẽ ra một lộ trình cho đến khi nào token của mình được bán trên các sàn giao dịch thế giới. Các nhà đầu tư đã mua token từ ban đầu sẽ kỳ vọng giá tăng ở thời kỳ này để kiếm lợi.

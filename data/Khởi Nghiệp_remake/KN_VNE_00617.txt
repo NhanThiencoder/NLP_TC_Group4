@@ -1,0 +1,33 @@
+Anh Vũ Nhật Anh - CTO TopCV dạy môn Khởi nghiệp tại FUNiX với chủ đề phát triển ý tưởng khởi nghiệp cho hơn 150 sinh viên Trường Quốc tế, Đại học Quốc gia Hà Nội.
+
+Co-Founder TopCV chia sẻ, đội ngũ nhà sáng lập nhìn thấy vấn đề thị trường tuyển dụng từ những năm 2014, từ đó, phát triển công cụ viết CV trực tuyến nhằm giải quyết bài toán đó.
+
+Đến nay, sau 7 năm, TopCV đã trở thành Nền tảng công nghệ ứng dụng sâu Trí tuệ nhân tạo (AI) và Recruitment Marketing, mang đến các giải pháp toàn diện giúp doanh nghiệp giải quyết nhiều bài toán xoay quanh vấn đề tuyển dụng, từ tạo nguồn CV, sàng lọc, gợi ý ứng viên đến đánh giá và đo lường sự hiệu quả. Để có được sự tăng trưởng và thành công ngày hôm nay, quá trình nỗ lực hình thành và xây dựng ý tưởng khởi nghiệp của nhóm founder đóng vai trò rất lớn.
+
+Buổi chia sẻ của Co-founder TopCV Vũ Nhật Anh (phải) trong khuôn khổ môn Khởi nghiệp theo mô hình FUNiX Way. Ảnh: FUNiX
+
+Theo anh Vũ Nhật Anh, ý tưởng khởi nguồn của TopCV bắt đầu với thực trạng hàng trăm nghìn sinh viên đại học, cao đẳng thất nghiệp vì thiếu nhiều yếu tố như kỹ năng, kiến thức, thậm chí cách viết CV ứng tuyển. Trong khi đó, nhiều doanh nghiệp vẫn khát nhân lực. Từ đây, anh Trần Trung Hiếu - một trong hai founder đã nảy ra ý tưởng xây dựng một công cụ giúp người dùng tạo ra CV online - bước khởi đầu tốt nhất.
+
+"Chúng tôi biết rằng mình đang làm một sản phẩm rất mới, dù rất nhỏ. Nhóm xác định sẽ làm nó thật tốt và hoàn toàn miễn phí" - anh chia sẻ.
+
+Các tiêu chí nhóm đưa ra để giải quyết bài toán này là công cụ phải đơn giản, để người dùng chỉ cần có máy tính, có mạng là làm được. Ngoài ra, giao diện cũng cần quen thuộc, xây dựng sẵn các tiêu chuẩn của một CV để người dùng dễ dàng tạo và điền thông tin. CV cũng được thiết kế sẵn, đảm bảo tính thẩm mỹ, cùng tính năng đa ngôn ngữ Anh, Nhật, Việt; gợi ý viết giúp tạo ra thành phẩm chuyên nghiệp.
+
+Với lợi thế là kỹ sư công nghệ thông tin, nhóm khởi nghiệp TopCV đã tự code, kiêm nhiệm nhiều vai trò từ thiết kế, tạo nội dung, quay video quảng bá sản phẩm, đọc email chăm sóc khách hàng... Nhờ đánh trúng nhu cầu thị trường, số lượng người dùng tăng lên nhanh chóng với tỷ lệ khách hàng trung thành đến hơn 50% trong khi chưa phải đầu tư chi phí quảng cáo hay marketing chuyên biệt.
+
+"Đến năm 2018, TopCV vẫn giữ tốc độ tăng trưởng 200-300%, lượng người dùng cũ quay lại vẫn chiếm tới trên 40%, chứng tỏ hướng đi đúng đắn của sản phẩm cũng như độ phù hợp với khách hàng mục tiêu", anh nói thêm.
+
+Theo CTO TopCV, có ba bài học lớn về quá trình phát triển ý tưởng khởi nghiệp của startup. Thứ nhất là giai đoạn đầu, sản phẩm không cần phải tìm lời giải cho một bài toán lớn, chỉ cần nhỏ nhưng giải quyết tốt bài toán của người dùng. Thứ hai, người khởi nghiệp cần hình thành thói quen thu thập và phân tích dữ liệu từ những ngày đầu, không nên chỉ dựa vào khảo sát vì rất khó nắm bắt insight của số đông. Thứ ba, sản phẩm phải mang lại giá trị thực cho người dùng. Điều này thể hiện rất rõ qua số lượng người dùng trung thành.
+
+CTO TopCV chia sẻ về sự phát triển của startup công nghệ. Ảnh: FUNiX
+
+Về cách TopCV giải quyết những khó khăn quen thuộc của người làm khởi nghiệp như vốn, định kiến..., anh đưa ra ví dụ: do tạo ra ấn tượng quá mạnh với người dùng là một công cụ tạo CV, khi mở rộng phát triển mảng việc làm, mục tiêu trở thành một nền tảng tuyển dụng, start-up này đã gặp khó trong quá trình giáo dục lại thị trường. Công ty mất tới ba năm điều chỉnh để định vị lại TopCV là công ty công nghệ trong lĩnh vực HRTech (công nghệ nhân sự) như ngày nay.
+
+Về tài chính, nhóm khởi nghiệp lúc đầu đều là sinh viên mới ra trường, chịu áp lực khá lớn về vấn đề này. Các thành viên buộc phải lựa chọn vừa làm vừa khởi nghiệp hay nghỉ việc để tập trung cho công ty. Với ngân sách rất eo hẹp, nhóm phải tối ưu từng chi phí để vận hành website.
+
+Ở khía cạnh chuyên môn, các nhà sáng lập không có hình mẫu để tham khảo, học hỏi. Đều là kỹ sư phần mềm làm việc cho công ty outsource, nhóm phải tự mò mẫm toàn bộ khi chuyển sang làm sản phẩm.
+
+"Tuy khó khăn nhưng bù lại, nhờ có sức trẻ, chưa vướng bận gia đình, đồng thời có sự ăn ý, nhóm vẫn theo đuổi đến cùng ý tưởng và startup của mình" - anh Nhật Anh chia sẻ.
+
+Hiện tại, TopCV vẫn ưu tiên tập trung phát triển tại Việt Nam vì đây vẫn là một thị trường lớn, có nhiều bài toán thách thức. Công ty có kế hoạch tiếp tục đầu tư mạnh vào con người, công nghệ để mang tới nhiều giải pháp toàn vẹn, phục vụ thật tốt những khách hàng của mình trong lĩnh vực việc làm, tuyển dụng và HRTech nói chung.
+
+Quỳnh Anh

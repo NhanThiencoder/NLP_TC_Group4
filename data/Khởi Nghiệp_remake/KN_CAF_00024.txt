@@ -1,0 +1,67 @@
+Cơn sốt tiền số đã bùng nổ suốt nhiều năm, và giờ đây Phố Wall cuối cùng cũng bắt đầu chấp nhận sự thật. Rất nhiều startup đã nổi lên nhờ cơn sốt này, trong đó có Injective Foundation. Đây là công ty cung cấp cho các nhà đầu tư một nền tảng an toàn để tái định hình thị trường toàn cầu. CEO công ty là Eric Chen cho biết blockchain lớp 1 của mình là một trong những mạng lưới tiền số lớn nhất từng được xây dựng, dẫn đầu ngành về hoạt động người dùng, giao dịch và khối lượng tiền tệ.
+
+Kể từ khi thành lập năm 2018, Injective đã xử lý hơn 2 tỷ giao dịch on-chain, với hơn 1,5 triệu ví trên hệ thống. Công ty đã huy động được 56 triệu USD từ các nhà đầu tư lớn như Binance, BitGo, Pantera, Jump — và cả tỷ phú Mark Cuban, cựu nhà đầu tư trong chương trình Shark Tank.
+
+“Sứ mệnh rất đơn giản: Tạo ra một hệ thống tài chính thực sự tự do và công bằng thông qua phi tập trung hóa”, Chen chia sẻ với Fortune. “Điều đó được thực hiện bằng cách trao cho mọi nhà phát triển, tổ chức tài chính và người dùng các công cụ cần thiết để tái tạo thị trường toàn cầu theo cách hoàn toàn minh bạch và không cần xin phép”.
+
+Trong bảy năm qua, Injective đã phát triển thành một công ty trị giá 1,34 tỷ USD - và ở tuổi 26, đây mới chỉ là sự khởi đầu của Chen. Ấn tượng hơn, anh đã sáng lập công ty khi mới 19 tuổi và đang học tại Đại học New York (NYU). Khi đó, Chen vừa học tài chính, vừa đào Ethereum ngay tại ký túc xá, đồng thời thực tập tại Innovating Capital ở bộ phận quỹ phòng hộ. Chứng kiến những bất cập của thị trường truyền thống, Chen quyết định bỏ học ở NYU để xây dựng công ty tỷ USD của riêng mình.
+
+Injective kể từ đó đã đạt nhiều bước tiến lớn; Deutsche Telekom (công ty viễn thông của T-Mobile) tham gia với vai trò trình xác thực (validator), mang đến hạ tầng mạng tiêu chuẩn Fortune 500. Cboe Global Markets - sàn giao dịch quyền chọn lớn nhất tại Mỹ - cũng đã nộp hồ sơ xin niêm yết quỹ, thể hiện sự quan tâm mạnh mẽ của tổ chức và đặt Injective vào nhóm các mạng lưới có tiềm năng sở hữu ETF niêm yết tại Mỹ.
+
+Do sự tăng trưởng mạnh mẽ của công ty, Chen cho biết anh không thể nhớ lần cuối mình hoàn toàn rời xa công việc là khi nào. Một số món đồ công nghệ xa xỉ giúp anh duy trì tinh thần giữa lịch trình bận rộn, gồm tấm phủ nệm Eight Sleep trị giá 2.900 USD, vòng Oura Ring, và mô phỏng đua xe. Anh không bao giờ đi chợ, mà thường ăn ngoài ở New York hoặc đặt đồ ăn qua DoorDash. Dù hiếm khi nghỉ dưỡng xa xỉ, Chen vẫn sống “lối sống toàn cầu” nhờ công việc, với các chuyến công tác tới Seoul, London, Toronto, Abu Dhabi và Singapore trong năm nay.
+
+Dưới đây là bài phỏng vấn nhanh với CEO Eric Chen: ﻿
+
+Về mặt tài chính﻿
+
+PV: Khoản đầu tư tốt nhất của anh là gì?
+
+Chen: Tấm phủ nệm Eight Sleep khoảng 2.900 USD. Nó giúp tôi ngủ hiệu quả tối đa và giảm rủi ro mất năng suất do chất lượng giấc ngủ kém.
+
+Còn khoản tệ nhất?
+
+Tôi không nghĩ có khoản nào là “tệ nhất” cả. Mỗi quyết định, dù thành công hay thất bại, đều dạy tôi điều gì đó và định hình cách tôi suy nghĩ về sau. Tôi luôn tiếp cận mọi việc với tư duy học hỏi, biến cả những khoản đầu tư kém thành giá trị dài hạn.
+
+Anh đi làm bằng phương tiện gì?
+
+Tôi sống ở New York, nên thường chỉ cần đi bộ nhanh từ nhà tới văn phòng.
+
+Anh có đầu tư cổ phiếu không?
+
+Tôi chủ yếu mua và giữ tiền số qua các ứng dụng của Injective. Tôi áp dụng chiến lược DCA vào các tài sản yêu thích và dùng bot giao dịch AI lập trình để tự động hóa hầu hết các giao dịch, vì tôi quá bận để theo dõi thị trường sát sao.
+
+Lời khuyên cho bản thân năm 20 tuổi?
+
+Hãy đầu tư nhiều Bitcoin hơn.
+
+Đồng hồ yêu thích?
+
+Apple Watch — đơn giản nhưng hiệu quả.
+
+Trang phục đi làm điển hình?
+
+Không cố định — có thể là quần short, polo và dép tông, hoặc sơ mi và quần chinos khi họp quan trọng.
+
+Về khía cạnh thư giãn
+
+PV: Anh thường chơi môn thể thao nào để giải tỏa căng thẳng?
+
+Tennis — vừa vận động vừa tập trung tinh thần.
+
+PV: Món thưởng lớn nhất cho bản thân?
+
+Sau sự kiện ở Bỉ, tôi thuê đường đua thật để lái xe cùng bạn bè.
+
+PV: Ăn mừng thăng chức?
+
+Thường không mua đồ, mà đi xem hòa nhạc hoặc biểu diễn.
+
+PV: Kỳ nghỉ tiếp theo?
+
+Bắc Macedonia, dự đám cưới một lập trình viên Injective đời đầu.
+
+PV: Ngày nghỉ mỗi năm?
+
+Hầu như không có ngày nghỉ đúng nghĩa — ngay cả khi đi chơi, tôi vẫn “online 24/7”.
+
+Theo: BI

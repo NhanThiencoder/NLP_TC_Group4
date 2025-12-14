@@ -1,0 +1,157 @@
+Nội dung nổi bật:
+
+
+
+
+
+- Christian Gheorghe, bán băng đĩa ở Rumani, có bằng thạc sĩ kỹ sư cơ khí, tự học tiếng Anh và sang nước Mỹ với vỏn vẹn 26 USD.
+
+
+
+
+
+- Ông làm nghề lái xe limo cho đến khi gặp một ông chủ công ty phần mềm. Họ đã kết hợp để thành lập startup. Sau đó Gheorghe tự lập doanh nghiệp, bán dự án với giá rất cao và có nhiều thành công trong lĩnh vực phân tích kinh doanh/dữ liệu lớn.
+
+
+
+
+
+
+
+
+
+Christian Gheorghe, nhà sáng lập Tidemark, đã rời Rumani đến Mỹ vào đầu những năm 1990, với hành trang là 26 USD và chẳng có tí vốn tiếng Anh nào. Ông sống ở một nhà nghỉ nhỏ và lái một chiếc limo để kiếm sống qua ngày. nhà sáng lập, đã rời Rumani đến Mỹ vào đầu những năm 1990, với hành trang là 26 USD và chẳng có tí vốn tiếng Anh nào. Ông sống ở một nhà nghỉ nhỏ và lái một chiếc limo để kiếm sống qua ngày.
+
+
+
+
+
+Hành trình từ Cộng hòa Rumani đến Mỹ của đời ông thực sự đáng khâm phục. Ở Rumani, Gheorghe kiếm sống bằng nghề bán đĩa nhạc và tự học một chút tiếng Anh nhờ nghe tiếng hát của ban nhạc Pink Floyd.
+
+
+
+
+
+Khi bán được kha khá đĩa nhạc, ông mua cho mình một chiếc máy tính Commodore 64 knock-off với mức giá tương đương số tiền ông kiếm được trong cả 1 năm. "Mọi người hỏi tôi, ông có điên không thế?", Gheorghe cười khi nhớ lại.
+
+
+
+
+
+Ông đã tự học code để hack vào các trò chơi video trên chiếc máy tính đó.
+
+
+
+
+
+Trước khi sang Mỹ, Gheorghe đã tham gia đào tạo chính quy và nhận bằng thạc sĩ ở Rumani với chuyên môn kỹ sư cơ khí, ngành khoa học máy tính. Nhưng tấm bằng đó không được thừa nhận khi đến Mỹ.
+
+
+
+
+
+Sau khi đặt chân lên vùng đất mới, ông tình cờ kiếm được công việc của một tài xế lái limo. Nhờ đó ông gặp một người tên Adrew Saxe, vị này đã giúp ông phát triển sự nghiệp mới của mình. Khi đi xe của Gheorghe, Saxe đã nhận thấy sự quan tâm của Gheorghe về máy tính, và ông đã nói Gheorghe hãy đến gặp ông ở văn phòng.
+
+
+
+
+
+Saxe điều hành một công ty tư vấn phần mềm máy tính. Saxe đã thuê Gheorghe và cả hai đã cùng nhau xây dựng một công ty chung. Đó là một trong những doanh nghiệp làm "dữ liệu lớn" sớm nhất, mặc dù họ không phát triển nó sau đó nữa.
+
+
+
+
+
+Họ đã bán công ty này cho Exprerian, và Gheorghe đảm nhận vai trò CTO (giám đốc công nghệ) cho Experian trong một vài năm.
+
+
+
+
+
+Gheorghe thành lập startup thứ hai, TIAN, và sáp nhập nó với một công ty đặt tên là OutlookSoft. Năm 2007, SAP đã ngỏ lời và mua lại OutlookSoft với giá 500 triệu USD.
+
+
+
+
+
+OutlookSoft tiến hành thu thập một dạng dữ liệu lớn gọi là những phân tích kinh doanh, nơi các công ty có thể mổ xẻ, lựa chọn ngẫu nhiên, báo cáo và dự đoán các xu hướng kinh doanh của mình bằng cách chọn lọc qua các giao dịch tài chính của họ.
+
+
+
+
+
+OutlookSoft là một trong số hàng loạt các công ty phân tích kinh doanh được mua lại bởi những nhà cung cấp phần mềm doanh nghiệp lớn trong khoảng thời gian đó như: Oracle mua Hyperion, IBM mua Cognos, còn SAP mua OutlookSoft.
+
+
+
+
+
+Và kết quả là, vài năm sau Gheorghe đảm trách chức CTO ở SAP.
+
+
+
+
+
+Hiện tại, Gheorghe đang làm việc ở startup thứ tư rất thành công của mình, sau khi đã bán những dự án trước đó.
+
+
+
+
+
+Cách đây khoảng 4 năm, Gheorghe sáng lập một startup mới - Tidemark. Nó có tất cả những dấu hiệu để trở thành một thương vụ đầu tư đáng giá.
+
+
+
+
+
+Tidemark cũng thực hiện phân tích kinh doanh/dữ liệu lớn, nhưng nó được thiết kế cho kỷ nguyên hiện đại: vận hành trên máy tính bảng và được "lên mây".
+
+
+
+
+
+Chú thích: EDGE (Enhanced Data Rates for GSM Evolution) là một công nghệ di động được nâng cấp từ GPRS cho phép truyền dự liệu với tốc độ lên đến 384 kbit/s cho người dùng cố định hoặc di chuyển chậm; và 144kbit/s cho người dùng di chuyển tốc độ cao. Quan trọng hơn, nó được thiết kế để trở thành cái mà Gheorghe gọi là một "cuộc cách mạng công nghệ EDGE" với một "giao diện giống với Siri". Điều đó đồng nghĩa với việc giới kinh doanh có thể sử dụng nó mà không cần sự trợ giúp từ bộ phận IT để tạo ra các báo cáo được lập trình sẵn. Quan trọng hơn, nó được thiết kế để trở thành cái mà Gheorghe gọi là một "cuộc cách mạng công nghệ EDGE" với một "giao diện giống với Siri". Điều đó đồng nghĩa với việc giới kinh doanh có thể sử dụng nó mà không cần sự trợ giúp từ bộ phận IT để tạo ra các báo cáo được lập trình sẵn.
+
+
+
+
+
+Tất cả những việc họ phải làm chỉ là hỏi Tidemark một câu hỏi, bất kỳ câu hỏi nào, về cách kinh doanh mà họ đang tiến hành như: Tại sao sản phẩm này không bán được? Điều gì sẽ xảy ra nếu ghép nhiều hơn 3 người vào dự án này? Doanh số bán hàng quý tới sẽ là bao nhiêu?
+
+
+
+Tidemark sẽ trả lời các câu hỏi trên thông qua các biểu đồ và đồ thị. Nó thậm chí còn ghi rõ tên của những người trong công ty có thể hỗ trợ dự án nữa. Nó giống như Google kết hợp với Wolfram|Alpha, cá nhân hóa cho công việc của bạn, trên chính chiếc máy tính bảng của bạn.
+
+
+
+
+
+Đương nhiên, Gheorghe không phải là người duy nhất thiết kế phần mềm phân tích trên nền tảng đám mây cho thiết bị di động. Một startup 'hot' khác có thể kể đến đang làm giống thế và làm rất tốt là Anaplan.
+
+
+
+
+
+Tuy vậy, cách tiếp cận của Tidemark - đặt một câu hỏi - lại rất khác biệt. Điều đó đã thu hút nhiều sự chú ý và lái công ty đi đúng hướng.
+
+
+
+
+
+Trong 18 tháng đầu tiên ra mắt sản phẩm của mình, công ty của Gheorghe đạt doanh thu 45 triệu USD, tăng trưởng 300% mỗi năm. Đến nay Tidemark có khoảng 45 khách hàng, trung bình cứ 180 người kinh doanh thì có một khách hàng sử dụng sản phẩm của ông, Gheorghe tiết lộ.
+
+
+
+
+
+Tidemark đã gọi được số vốn lên đến 80 triệu USD từ Andreessen Horowitz, Greylock Partners, Redpoint Ventures, Silicon Valley Bank, và nhiều đơn vị khác nữa.
+
+
+
+
+
+
+
+
+
+Kiến Anh
