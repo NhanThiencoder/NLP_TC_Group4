@@ -1,575 +1,446 @@
 import os
 import time
-import random
 import re
-import requests
-
 from bs4 import BeautifulSoup
 from newspaper import Article
-from playwright.sync_api import sync_playwright, TimeoutError as PlaywrightTimeoutError
+
+# --- SELENIUM ---
+from selenium import webdriver
+from selenium.webdriver.chrome.service import Service
+from selenium.webdriver.chrome.options import Options
+from selenium.webdriver.common.by import By
+from webdriver_manager.chrome import ChromeDriverManager
 
 # =========================================================
-# 1. CẤU HÌNH THƯ MỤC / TOPIC / SOURCE
+# 1. CẤU HÌNH & DANH SÁCH NGUỒN
 # =========================================================
-BASE_DIR = os.path.dirname(os.path.abspath(__file__))
-DATA_ROOT_FOLDER = os.path.join(BASE_DIR, "Crawled_Data")
-print("SAVE TO FOLDER:", DATA_ROOT_FOLDER)
+DATA_ROOT_BASE = "Data_BatDongSan"
 
-TOPICS = {
-    # Du lịch – target 2700
-    "DuLich": {
-        "abbr": "DL",
-        "target_total": 2700,
-        "tolerance_max": 300,
-        "folder": os.path.join(DATA_ROOT_FOLDER, "Du lịch"),
+SOURCES = [
+# ================= DU LỊCH (DL) =================
+    #{ "topic": "DuLich", "abbr": "DL", "name": "DT", "url": "https://dantri.com.vn/du-lich.htm", "type": "page", "regex": r'\.htm$', "container": ".singular-content, .e-magazine__body" },
+    { "topic": "DuLich", "abbr": "DL", "name": "VNN", "url": "https://vietnamnet.vn/du-lich", "type": "page", "regex": r'vietnamnet\.vn\/.*\.html$', "container": ".content-detail" },
+    { "topic": "DuLich", "abbr": "DL", "name": "VOV", "url": "https://vov.vn/du-lich", "type": "page", "regex": r'vov\.vn\/.*\.vov$', "container": ".article-content" },
+
+    # ================= GIA ĐÌNH (GD) =================
+    { "topic": "GiaDinh", "abbr": "GD", "name": "TN", "url": "https://thanhnien.vn/doi-song/gia-dinh.htm", "type": "click", "regex": r'thanhnien\.vn\/.*\.htm$', "container": ".detail-content" },
+    { "topic": "GiaDinh", "abbr": "GD", "name": "TT", "url": "https://tuoitre.vn/gia-dinh.htm", "type": "click", "regex": r'tuoitre\.vn\/.*\.htm$', "container": ".detail-content" },
+    { "topic": "GiaDinh", "abbr": "GD", "name": "ZING", "url": "https://znews.vn/doi-song/gia-dinh.html", "type": "click", "regex": r'znews\.vn\/.*\.html$', "container": ".the-article-body" },
+    { "topic": "GiaDinh", "abbr": "GD", "name": "VNE", "url": "https://vnexpress.net/doi-song/to-am", "type": "page", "regex": r'-p\d+|to-am', "container": ".fck_detail" },
+    { "topic": "GiaDinh", "abbr": "GD", "name": "DT", "url": "https://dantri.com.vn/doi-song/gia-dinh.htm", "type": "page", "regex": r'\.htm$', "container": ".singular-content" },
+    { "topic": "GiaDinh", "abbr": "GD", "name": "VNN", "url": "https://vietnamnet.vn/doi-song/gia-dinh", "type": "page", "regex": r'vietnamnet\.vn\/.*\.html$', "container": ".content-detail" },
+    { "topic": "GiaDinh", "abbr": "GD", "name": "VOV", "url": "https://vov.vn/doi-song/gia-dinh", "type": "page", "regex": r'vov\.vn\/.*\.vov$', "container": ".article-content" },
+    # 1. VNEXPRESS (Page Mode)
+    {
+        "topic": "BatDongSan", "abbr": "BĐS", "name": "VNE",  # Đã sửa abbr thành BĐS
+        "url": "https://vnexpress.net/bat-dong-san",
+        "type": "page",
+        "regex": r'-p\d+|bat-dong-san',
+        "container": ".fck_detail"
     },
-    # Chứng khoán – target 2600
-    "ChungKhoan": {
-        "abbr": "CK",
-        "target_total": 2600,
-        "tolerance_max": 300,
-        "folder": os.path.join(DATA_ROOT_FOLDER, "Chứng khoán"),
+    # 2. DÂN TRÍ (Page Mode)
+    {
+        "topic": "BatDongSan", "abbr": "BĐS", "name": "DT",
+        "url": "https://dantri.com.vn/bat-dong-san.htm",
+        "type": "page",
+        "regex": r'\.htm$',
+        "container": ".singular-content, .e-magazine__body"
     },
-    # Bất động sản – target 2800
-    "BatDongSan": {
-        "abbr": "BĐS",
-        "target_total": 2800,
-        "tolerance_max": 300,
-        "folder": os.path.join(DATA_ROOT_FOLDER, "Bất động sản"),
+    # 3. TUỔI TRẺ (Click/Scroll Mode)
+    {
+        "topic": "BatDongSan", "abbr": "BĐS", "name": "TT",
+        "url": "https://tuoitre.vn/bat-dong-san.htm",
+        "type": "click",
+        "regex": r'tuoitre\.vn\/.*\.htm$',
+        "container": ".detail-content"
     },
-    # Ẩm thực – target 2900
-    "AmThuc": {
-        "abbr": "AT",
-        "target_total": 2900,
-        "tolerance_max": 300,
-        "folder": os.path.join(DATA_ROOT_FOLDER, "Ẩm thực"),
+    # 4. THANH NIÊN (Click/Scroll Mode)
+    {
+        "topic": "BatDongSan", "abbr": "BĐS", "name": "TN",
+        "url": "https://thanhnien.vn/bat-dong-san.htm",
+        "type": "click",
+        "regex": r'thanhnien\.vn\/.*\.htm$',
+        "container": ".detail-content"
     },
-}
-
-SOURCES = {
-    # Du lịch: Lao Động + Zing + VOV + VTV
-    "DuLich": [
-        {"source": "LD",   "url": "https://laodong.vn/du-lich"},
-        {"source": "ZING", "url": "https://znews.vn/du-lich.html"},
-        {"source": "VOV",  "url": "https://vov.vn/du-lich"},
-        {"source": "VTV",  "url": "https://vtv.vn/doi-song/du-lich.htm"},
-    ],
-    # Chứng khoán: chỉ Lao Động
-    "ChungKhoan": [
-        {"source": "LD", "url": "https://laodong.vn/kinh-te/chung-khoan"},
-        {"source": "LD", "url": "https://laodong.vn/tags/chung-khoan-31135.ldo"},
-    ],
-    # BĐS: chỉ Lao Động
-    "BatDongSan": [
-        {"source": "LD", "url": "https://laodong.vn/bat-dong-san"},
-        {"source": "LD", "url": "https://laodong.vn/tags/thi-truong-bat-dong-san-4494.ldo"},
-        {"source": "LD", "url": "https://laodong.vn/tags/bat-dong-san-nha-o-430069.ldo"},
-    ],
-    # Ẩm thực: TT, TN, NLD, VNE, VNN, LD
-    "AmThuc": [
-        # Tuổi Trẻ
-        {"source": "TT",  "url": "https://tuoitre.vn/van-hoa/am-thuc.htm"},
-        # Thanh Niên
-        {"source": "TN",  "url": "https://thanhnien.vn/doi-song/am-thuc.htm"},
-        # Người Lao Động
-        {"source": "NLD", "url": "https://nld.com.vn/du-lich-xanh/am-thuc.htm"},
-        # VnExpress – ẩm thực / cooking
-        {"source": "VNE", "url": "https://vnexpress.net/du-lich/am-thuc"},
-        {"source": "VNE", "url": "https://vnexpress.net/doi-song/noi-tro/food"},
-        {"source": "VNE", "url": "https://vnexpress.net/doi-song/cooking/mon-an"},
-        {"source": "VNE", "url": "https://vnexpress.net/doi-song/cooking/thuc-don"},
-        # Vietnamnet
-        {"source": "VNN", "url": "https://vietnamnet.vn/doi-song/am-thuc"},
-        {"source": "VNN", "url": "https://vietnamnet.vn/mon-ngon-moi-ngay-tag14888584744236181834.html"},
-        # Lao Động – ẩm thực
-        {"source": "LD",  "url": "https://laodong.vn/du-lich/am-thuc"},
-        {"source": "LD",  "url": "https://laodong.vn/tags/am-thuc-5075.ldo"},
-    ],
-}
-
-MAX_PAGES_PER_SOURCE = 80
-REQUEST_TIMEOUT = 10
-SLEEP_BETWEEN_REQUESTS = (1.0, 3.0)
-
-
-# =========================================================
-# 2. HÀM HỖ TRỢ
-# =========================================================
-def ensure_folder(folder: str):
-    os.makedirs(folder, exist_ok=True)
-
-
-def normalize_url(base_url: str, href: str) -> str:
-    if not href:
-        return ""
-    if href.startswith("http://") or href.startswith("https://"):
-        return href
-    if href.startswith("//"):
-        return "https:" + href
-    from urllib.parse import urljoin
-    return urljoin(base_url, href)
-
-
-def count_existing_articles(folder: str, abbr: str) -> int:
-    if not os.path.isdir(folder):
-        return 0
-    return sum(
-        1
-        for f in os.listdir(folder)
-        if f.lower().endswith(".txt") and f.startswith(f"{abbr}_")
-    )
-
-
-def get_page_url(base_url: str, source: str, page: int) -> str:
-    if page == 1:
-        return base_url
-
-    if source == "LD":
-        return f"{base_url}?page={page}"
-
-    if source in {"TT", "TN", "VNN"}:
-        return f"{base_url}?page={page}"
-
-    if source == "VNE":
-        return f"{base_url}-p{page}"
-
-    if source in {"ZING", "VOV", "VTV"}:
-        return f"{base_url}?page={page}"
-
-    return base_url
-
-
-def fetch_html_requests(url: str) -> str:
-    headers = {
-        "User-Agent": (
-            "Mozilla/5.0 (Windows NT 10.0; Win64; x64) "
-            "AppleWebKit/537.36 (KHTML, like Gecko) "
-            "Chrome/120.0 Safari/537.36"
-        )
+    # 5. VIETNAMNET (Page Mode)
+    {
+        "topic": "BatDongSan", "abbr": "BĐS", "name": "VNN",
+        "url": "https://vietnamnet.vn/bat-dong-san",
+        "type": "page",
+        "regex": r'vietnamnet\.vn\/.*\.html$',
+        "container": ".content-detail"
+    },
+    # 6. VOV (Page Mode)
+    {
+        "topic": "BatDongSan", "abbr": "BĐS", "name": "VOV",
+        "url": "https://vov.vn/kinh-te/dia-oc",
+        "type": "page",
+        "regex": r'vov\.vn\/.*\.vov$',
+        "container": ".article-content"
+    },
+    # 7. ZINGNEWS (Click/Scroll Mode)
+    {
+        "topic": "BatDongSan", "abbr": "BĐS", "name": "ZING",
+        "url": "https://znews.vn/bat-dong-san.html",
+        "type": "click",
+        "regex": r'znews\.vn\/.*\.html$',
+        "container": ".the-article-body"
     }
-    try:
-        resp = requests.get(url, headers=headers, timeout=REQUEST_TIMEOUT)
-        if resp.status_code == 200:
-            return resp.text
-        print(f"    + HTTP {resp.status_code} khi GET {url}")
-        return ""
-    except Exception as e:
-        print(f"    + Lỗi requests tới {url}: {e}")
-        return ""
+]
+
+TARGET_PER_SOURCE = 1000
+MAX_PAGES = 100
+MAX_CLICKS = 100
 
 
-def get_rendered_html(url: str) -> str:
-    """Dùng Playwright để render trang (cho Lao Động, dùng domcontentloaded)."""
-    try:
-        with sync_playwright() as p:
-            browser = p.chromium.launch(headless=True)
-            page = browser.new_page()
+# =========================================================
+# 2. HÀM QUẢN LÝ FILE
+# =========================================================
+def get_next_index(folder, topic_abbr, source_name):
+    if not os.path.exists(folder): return 1
+    max_idx = 0
+    prefix = f"{topic_abbr}_{source_name}_"
+    for f in os.listdir(folder):
+        if f.startswith(prefix) and f.endswith(".txt"):
             try:
-                page.goto(url, wait_until="domcontentloaded", timeout=60000)
-            except PlaywrightTimeoutError as e:
-                print(f"    + Timeout Playwright khi goto {url}: {e}. Dùng content hiện tại.")
-            page.wait_for_timeout(4000)
-            html = page.content()
-            browser.close()
-            return html
-    except Exception as e:
-        print(f"    + Lỗi Playwright khi load {url}: {e}")
-        return ""
-
-
-# =========================================================
-# 3. LẤY LINK BÀI
-# =========================================================
-def collect_links_for_source(topic_key: str,
-                             topic_cfg: dict,
-                             source_cfg: dict,
-                             need: int,
-                             global_seen: set):
-    base_url = source_cfg["url"]
-    source = source_cfg["source"]
-    links = []
-    page = 1
-
-    print(f"\n>>> CRAWL topic={topic_key}, source={source}, cần thêm ~{need} link")
-    while len(links) < need and page <= MAX_PAGES_PER_SOURCE:
-        page_url = get_page_url(base_url, source, page)
-        print(f"  - {topic_key}/{source}: page {page} -> {page_url}")
-
-        if source == "LD":
-            html = get_rendered_html(page_url)
-        else:
-            html = fetch_html_requests(page_url)
-
-        if not html:
-            print("    + Không lấy được HTML, dừng source.")
-            break
-
-        soup = BeautifulSoup(html, "html.parser")
-        article_links = []
-
-        # ---------- Lao Động ----------
-        if source == "LD":
-            for a in soup.select("a[href]"):
-                href = normalize_url(base_url, a.get("href"))
-                if not href:
-                    continue
-                if "laodong.vn" not in href:
-                    continue
-                if "/video/" in href:
-                    continue
-                if not re.search(r"-\d+\.(?:ldo|html)$", href):
-                    continue
-
-                if topic_key == "DuLich":
-                    if "du-lich" not in href:
-                        continue
-                elif topic_key == "ChungKhoan":
-                    if "chung-khoan" not in href:
-                        continue
-                elif topic_key == "BatDongSan":
-                    if "bat-dong-san" not in href:
-                        continue
-                elif topic_key == "AmThuc":
-                    if "am-thuc" not in href and "du-lich" not in href:
-                        continue
-
-                article_links.append(href)
-
-        # ---------- Tuổi Trẻ ----------
-        elif source == "TT":
-            for a in soup.select("a[href]"):
-                href = normalize_url(base_url, a.get("href"))
-                if not href:
-                    continue
-                if "tuoitre.vn" not in href:
-                    continue
-                if "video" in href:
-                    continue
-                if not re.search(r"-\d+\.htm$", href):
-                    continue
-                article_links.append(href)
-
-        # ---------- Thanh Niên ----------
-        elif source == "TN":
-            for a in soup.select("a[href]"):
-                href = normalize_url(base_url, a.get("href"))
-                if not href:
-                    continue
-                if "thanhnien.vn" not in href:
-                    continue
-                if "video" in href:
-                    continue
-                if not re.search(r"-\d+\.html$", href):
-                    continue
-                article_links.append(href)
-
-        # ---------- Người Lao Động (ẩm thực NLD) ----------
-        elif source == "NLD":
-            for a in soup.select("a[href]"):
-                href = normalize_url(base_url, a.get("href"))
-                if not href:
-                    continue
-                if "nld.com.vn" not in href:
-                    continue
-                if "video" in href:
-                    continue
-                if not href.endswith(".htm"):
-                    continue
-                article_links.append(href)
-
-        # ---------- VnExpress ----------
-        elif source == "VNE":
-            for a in soup.select("a[href]"):
-                href = normalize_url(base_url, a.get("href"))
-                if not href:
-                    continue
-                if "vnexpress.net" not in href:
-                    continue
-                if "/video/" in href:
-                    continue
-                if not re.search(r"-\d+\.html$", href):
-                    continue
-                article_links.append(href)
-
-        # ---------- Vietnamnet ----------
-        elif source == "VNN":
-            for a in soup.select("a[href]"):
-                href = normalize_url(base_url, a.get("href"))
-                if not href:
-                    continue
-                if "vietnamnet.vn" not in href:
-                    continue
-                if "video" in href:
-                    continue
-                if not re.search(r"-\d+\.html$", href):
-                    continue
-                article_links.append(href)
-
-        # ---------- Zing ----------
-        elif source == "ZING":
-            for a in soup.select("a[href]"):
-                href = normalize_url(base_url, a.get("href"))
-                if not href:
-                    continue
-                if "znews.vn" not in href:
-                    continue
-                if "video" in href:
-                    continue
-                if not re.search(r"-post\d+\.html$", href):
-                    continue
-                if topic_key == "DuLich" and "du-lich" not in href:
-                    continue
-                article_links.append(href)
-
-        # ---------- VOV ----------
-        elif source == "VOV":
-            for a in soup.select("a[href]"):
-                href = normalize_url(base_url, a.get("href"))
-                if not href:
-                    continue
-                if "vov.vn" not in href:
-                    continue
-                if "video" in href or "podcast" in href:
-                    continue
-                if not href.endswith(".vov"):
-                    continue
-                if topic_key == "DuLich" and "/du-lich" not in href:
-                    continue
-                article_links.append(href)
-
-        # ---------- VTV ----------
-        elif source == "VTV":
-            for a in soup.select("a[href]"):
-                href = normalize_url(base_url, a.get("href"))
-                if not href:
-                    continue
-                if "vtv.vn" not in href:
-                    continue
-                if "video" in href:
-                    continue
-                if not href.endswith(".htm"):
-                    continue
-                if topic_key == "DuLich" and "/du-lich" not in href:
-                    continue
-                article_links.append(href)
-
-        if not article_links:
-            print(f"    + Không tìm được link bài nào trên trang {page}.")
-            break
-
-        new_this_page = 0
-        for link in article_links:
-            if not link:
+                match = re.search(r'_(\d+)\.txt$', f)
+                if match:
+                    num = int(match.group(1))
+                    if num > max_idx: max_idx = num
+            except:
                 continue
-            if "podcast" in link or len(link) < 15:
-                continue
-            if link in global_seen:
-                continue
-            global_seen.add(link)
-            links.append(link)
-            new_this_page += 1
-            if len(links) >= need:
-                break
-
-        print(f"    + Link mới trang {page}: {new_this_page} (tổng {len(links)}/{need})")
-
-        if new_this_page == 0:
-            break
-
-        page += 1
-        time.sleep(random.uniform(*SLEEP_BETWEEN_REQUESTS))
-
-    if not links:
-        print("    + Không thu được link nào, bỏ qua nguồn này.")
-    return links
+    return max_idx + 1
 
 
 # =========================================================
-# 4. EXTRACT NỘI DUNG BÁO
+# 3. SETUP DRIVER
 # =========================================================
-def extract_ld_article_text(url: str) -> str:
-    """Lấy nội dung Lao Động bằng Playwright + BeautifulSoup."""
-    html = get_rendered_html(url)
-    if not html:
-        return ""
-    soup = BeautifulSoup(html, "html.parser")
+def setup_driver():
+    options = Options()
+    options.add_argument("--disable-notifications")
+    options.add_argument("--start-maximized")
 
-    candidates = []
-    candidates.extend(soup.select("article"))
-    candidates.extend(soup.select('div[class*="content"]'))
-    candidates.extend(soup.select('div[class*="article"]'))
-    candidates.extend(soup.select('div[class*="detail"]'))
-    candidates.extend(soup.select('div[class*="body"]'))
+    # Chiến thuật: none (Siêu nhanh, không đợi gì cả) hoặc eager
+    # Với Dân Trí bị lỗi renderer, ta dùng 'eager' nhưng kết hợp try-catch
+    options.page_load_strategy = 'eager'
 
-    root = candidates[0] if candidates else soup
+    # --- CÁC CỜ CHỐNG LỖI RENDERER & TIMEOUT ---
+    options.add_argument("--disable-gpu")
+    options.add_argument("--disable-dev-shm-usage")  # Khắc phục lỗi thiếu bộ nhớ share
+    options.add_argument("--no-sandbox")
+    options.add_argument("--dns-prefetch-disable")  # Tắt tìm nạp DNS trước
+    options.add_argument("--disable-features=NetworkService")  # Giúp ổn định hơn
 
-    paragraphs = []
-    for p in root.find_all("p"):
-        txt = p.get_text(strip=True)
-        if not txt or len(txt) < 10:
-            continue
-        paragraphs.append(txt)
+    # Chặn ảnh triệt để
+    prefs = {
+        "profile.managed_default_content_settings.images": 2,
+        "profile.default_content_setting_values.notifications": 2,
+        "profile.managed_default_content_settings.stylesheets": 2,
+        # Chặn cả CSS nếu cần (nhưng có thể làm hỏng layout lấy tin)
+        "profile.managed_default_content_settings.cookies": 2,
+        "profile.managed_default_content_settings.javascript": 1,  # Vẫn phải bật JS
+        "profile.managed_default_content_settings.plugins": 2,
+        "profile.managed_default_content_settings.popups": 2,
+        "profile.managed_default_content_settings.geolocation": 2,
+        "profile.managed_default_content_settings.media_stream": 2,
+    }
+    options.add_experimental_option("prefs", prefs)
+    options.add_experimental_option("excludeSwitches", ["enable-automation"])
+    options.add_experimental_option('useAutomationExtension', False)
 
-    return "\n".join(paragraphs).strip()
+    service = Service(ChromeDriverManager().install())
+    driver = webdriver.Chrome(service=service, options=options)
+
+    # Tăng thời gian timeout lên 60s (để tránh lỗi -0.00x quá sớm)
+    driver.set_page_load_timeout(60)
+    driver.set_script_timeout(60)
+
+    return driver
 
 
-def extract_article_text_generic(url: str) -> str:
-    """Ưu tiên newspaper3k, fallback BeautifulSoup."""
+# =========================================================
+# 4. HÀM CRAWL & XỬ LÝ (ĐÃ SỬA ĐỂ QUẢN LÝ TAB)
+# =========================================================
+
+def extract_content_selenium(driver, url, container_selector):
+    """
+    Hàm này chỉ chạy khi đã ở trong Tab mới.
+    """
     try:
-        art = Article(url)
-        art.download()
-        art.parse()
-        text = ((art.title or "") + "\n\n" + (art.text or "")).strip()
-        if text and len(text) > 200:
-            return text
-    except Exception:
+        driver.get(url)
+        time.sleep(1)  # Chờ load nhẹ
+        text = driver.execute_script(f"""
+            var container = document.querySelector('{container_selector}');
+            return container ? container.innerText : '';
+        """)
+        return text
+    except:
+        return ""
+
+
+def remove_ads(driver):
+    try:
+        driver.execute_script("""
+            var selectors = ['iframe', '.ads', '.banner', '#sticky', '.sticky', '.video-box', 'header', '.cms-pagging'];
+            selectors.forEach(s => {
+                var els = document.querySelectorAll(s);
+                els.forEach(e => e.remove());
+            });
+        """)
+    except:
         pass
 
-    html = fetch_html_requests(url)
-    if not html:
-        return ""
 
-    soup = BeautifulSoup(html, "html.parser")
-
-    for tag in soup(["script", "style", "noscript"]):
-        tag.decompose()
-
-    candidates = []
-    for div in soup.find_all(["article", "div"]):
-        txt = div.get_text(" ", strip=True)
-        if len(txt) > 300:
-            candidates.append(div)
-
-    root = candidates[0] if candidates else soup
-
-    paragraphs = []
-    for p in root.find_all("p"):
-        txt = p.get_text(strip=True)
-        if not txt or len(txt) < 10:
-            continue
-        paragraphs.append(txt)
-
-    return "\n".join(paragraphs).strip()
+from selenium.common.exceptions import TimeoutException, WebDriverException
 
 
-def extract_article_text(url: str, source: str) -> str:
-    if source == "LD":
-        return extract_ld_article_text(url)
-    return extract_article_text_generic(url)
+def get_links_page_mode(driver, source_cfg):
+    collected_links = set()
+    base_url = source_cfg['url']
+    print(f"   📄 PAGE MODE: {source_cfg['name']}")
 
+    # Biến đếm số lần liên tiếp không thấy link (để thoát nếu hết bài thật)
+    empty_streak = 0
 
-# =========================================================
-# 5. LƯU NỘI DUNG BÀI
-# =========================================================
-def save_articles(topic_cfg: dict, source_cfg: dict, links: list):
-    folder = topic_cfg["folder"]
-    abbr = topic_cfg["abbr"]
-    source = source_cfg["source"]
+    for page in range(1, MAX_PAGES + 1):
+        if len(collected_links) >= TARGET_PER_SOURCE + 10: break
 
-    ensure_folder(folder)
+        # Logic tạo URL
+        if page == 1:
+            current_url = base_url
+        else:
+            if "vnexpress" in base_url:
+                current_url = f"{base_url}-p{page}"
+            elif "dantri" in base_url:
+                clean = base_url.replace(".htm", "").replace(".html", "")
+                current_url = f"{clean}/trang-{page}.htm"
+            else:
+                sep = "&" if "?" in base_url else "?"
+                current_url = f"{base_url}{sep}page={page}"
 
-    existing_files = [
-        f for f in os.listdir(folder)
-        if f.lower().endswith(".txt") and f.startswith(f"{abbr}_{source}_")
-    ]
-    next_index = len(existing_files) + 1
-
-    saved = 0
-    idx = next_index
-
-    print(f"    + Lưu vào {folder}, source={source}, bắt đầu từ #{idx}")
-    for url in links:
+        # --- XỬ LÝ KẾT NỐI & CHECK LỖI 503 ---
         try:
-            text = extract_article_text(url, source)
-            if not text or len(text) < 200:
-                continue
+            driver.get(current_url)
+            time.sleep(2)  # Chờ load
 
-            filename = f"{abbr}_{source}_{idx:05d}.txt"
-            filepath = os.path.join(folder, filename)
-            with open(filepath, "w", encoding="utf-8") as f:
-                f.write(url + "\n\n" + text)
+            # 1. KIỂM TRA LỖI 503 / 403 / BẢO TRÌ
+            page_title = driver.title.lower()
+            page_src = driver.page_source.lower()
 
-            saved += 1
-            idx += 1
-            print(".", end="", flush=True)
-            time.sleep(random.uniform(0.3, 1.0))
+            if "503" in page_title or "service unavailable" in page_src or "server maintaining" in page_src:
+                print(f"      🛑 PHÁT HIỆN LỖI 503 (Bị chặn/Server bận) tại trang {page}")
+                print("      💤 Đang tạm nghỉ 60 giây để server mở lại...")
+                time.sleep(60)  # Nghỉ 1 phút để "nguội" máy
+
+                # Thử reload lại trang này một lần nữa
+                driver.refresh()
+                time.sleep(5)
+
+                # Kiểm tra lại sau khi reload
+                if "503" in driver.title:
+                    print("      ❌ Vẫn bị chặn. Dừng nguồn này để tránh ban IP.")
+                    break
+
+        except TimeoutException:
+            print(f"      ⚠️ Timeout trang {page} -> Ép dừng tải và quét tiếp.")
+            try:
+                driver.execute_script("window.stop();")
+            except:
+                pass
         except Exception as e:
-            print(f"\n    + Lỗi khi lưu bài {url}: {e}")
+            print(f"      ❌ Lỗi lạ: {e}")
             continue
 
-    print(f"\n    + Đã lưu {saved} bài từ source={source}")
-    return saved
+        # --- QUÉT LINK ---
+        try:
+            html = driver.page_source
+            raw_links = re.findall(r'href=["\'](.*?)["\']', html)
 
+            count_new_in_page = 0
+            for href in raw_links:
+                if href.startswith("/"): href = "https://" + base_url.split("/")[2] + href
+                if not href.startswith("http"): continue
 
-# =========================================================
-# 6. MAIN
-# =========================================================
-def main():
-    print(f"DATA_ROOT_FOLDER = {DATA_ROOT_FOLDER}")
+                if re.search(source_cfg['regex'], href):
+                    if not any(b in href for b in ['/video', '/podcast', '/media']):
+                        if href not in collected_links:
+                            collected_links.add(href)
+                            count_new_in_page += 1
 
-    total_new_all_topics = 0
+            if count_new_in_page == 0:
+                print(f"      -> Không thấy link mới ở trang {page}.")
+                empty_streak += 1
+            else:
+                empty_streak = 0  # Reset nếu tìm thấy bài
 
-    for topic_key, topic_cfg in TOPICS.items():
-        folder = topic_cfg["folder"]
-        abbr = topic_cfg["abbr"]
-        target_total = topic_cfg["target_total"]
-        tolerance_max = topic_cfg["tolerance_max"]
-
-        ensure_folder(folder)
-
-        current = count_existing_articles(folder, abbr)
-        remaining = max(0, target_total - current)
-
-        print("\n" + "=" * 60)
-        print(f">>> CHỦ ĐỀ: {topic_key} ({abbr})")
-        print(f"  - Target: {target_total}, cho phép thiếu ≤ {tolerance_max}")
-        print(f"  - Đang có: {current} bài trong folder: {folder}")
-        print(f"  - Còn thiếu để đạt target: {remaining} bài")
-
-        if remaining <= 0:
-            print("  -> ĐÃ ĐỦ HOẶC VƯỢT TARGET, BỎ QUA.")
-            continue
-
-        total_saved_topic = 0
-        global_seen = set()
-
-        for source_cfg in SOURCES.get(topic_key, []):
-            if remaining <= 0:
+            # Nếu 3 trang liên tiếp không có bài nào -> Chắc chắn là hết bài hoặc lỗi -> Dừng
+            if empty_streak >= 3:
+                print("      🛑 Dừng quét vì 3 trang liên tiếp không có bài mới.")
                 break
 
-            source = source_cfg["source"]
-            print(f"\n>>> XỬ LÝ SOURCE = {source}  (còn cần ~{remaining} bài để đạt target)")
+        except Exception as e:
+            print(f"      ⚠️ Lỗi quét link: {e}")
 
-            links = collect_links_for_source(topic_key, topic_cfg, source_cfg, remaining, global_seen)
-            if not links:
+    return list(collected_links)
+
+
+def get_links_click_mode(driver, source_cfg):
+    # (Giữ nguyên logic click/scroll của bạn)
+    collected_links = set()
+    url = source_cfg['url']
+    print(f"   🖱️ CLICK/SCROLL MODE: {source_cfg['name']}")
+
+    try:
+        driver.get(url)
+    except:
+        pass
+    time.sleep(3)
+
+    BUTTON_XPATHS = [
+        "//a[contains(text(), 'Xem thêm')]", "//button[contains(text(), 'Xem thêm')]",
+        "//div[contains(@class, 'view-more')]//a", "//div[@class='list__viewmore']//a"
+    ]
+
+    for i in range(MAX_CLICKS):
+        remove_ads(driver)
+        driver.execute_script("window.scrollTo(0, document.body.scrollHeight);")
+        time.sleep(1.5)
+
+        clicked = False
+        for xpath in BUTTON_XPATHS:
+            try:
+                btns = driver.find_elements(By.XPATH, xpath)
+                for btn in btns:
+                    if btn.is_displayed():
+                        driver.execute_script("arguments[0].click();", btn)
+                        clicked = True
+                        time.sleep(2)
+                        break
+                if clicked: break
+            except:
                 continue
 
-            saved = save_articles(topic_cfg, source_cfg, links)
-            total_saved_topic += saved
-            remaining = max(0, target_total - (current + total_saved_topic))
+        try:
+            html = driver.page_source
+            raw_links = re.findall(r'href=["\'](.*?)["\']', html)
+            for href in raw_links:
+                href = href.strip()
+                if href.startswith("/"): href = "https://" + url.split("/")[2] + href
+                if not href.startswith("http"): continue
 
-            print(f">>> Sau source {source}: còn cần ~{remaining} bài để đạt target")
-
-        final_total = current + total_saved_topic
-        final_missing = max(0, target_total - final_total)
-
-        print(f"\n>>> KẾT THÚC CHỦ ĐỀ {topic_key}:")
-        print(f"    - Trước khi crawl: {current} bài")
-        print(f"    - Sau khi crawl:  {final_total} bài (target {target_total})")
-        print(f"    - Thiếu còn lại:  {final_missing} bài")
-
-        if final_missing == 0:
-            print("    -> ĐÃ ĐỦ TARGET.")
-        elif final_missing <= tolerance_max:
-            print(f"    -> CHƯA ĐỦ NHƯNG THIẾU TRONG NGƯỠNG CHO PHÉP (≤ {tolerance_max}).")
-        else:
-            print(f"    -> THIẾU QUÁ NHIỀU (> {tolerance_max}), CÓ THỂ WEB KHÔNG CÓ ĐỦ BÀI.")
-
-        total_new_all_topics += total_saved_topic
-
-    print("\n" + "=" * 60)
-    print(f"TỔNG CỘNG: thêm mới {total_new_all_topics} bài cho tất cả chủ đề.")
+                if re.search(source_cfg['regex'], href):
+                    if not any(b in href for b in ['/video', '/podcast', '/media', 'javascript:']):
+                        collected_links.add(href)
+        except:
+            pass
+        if len(collected_links) >= TARGET_PER_SOURCE + 10: break
+    return list(collected_links)
 
 
+# =========================================================
+# 5. CHƯƠNG TRÌNH CHÍNH (LOGIC TỐI ƯU RAM)
+# =========================================================
 if __name__ == "__main__":
-    main()
+
+    # ❌ KHÔNG setup driver ở ngoài vòng lặp
+    # driver = setup_driver()
+
+    for source in SOURCES:
+        # ✅ SETUP DRIVER MỚI CHO TỪNG NGUỒN (XẢ RAM)
+        print(f"\n🔄 Khởi động trình duyệt mới cho nguồn: {source['name']}...")
+        driver = setup_driver()
+
+        try:
+            topic_folder = source['topic']
+            topic_abbr = source['abbr']
+            source_name = source['name']
+
+            save_dir = os.path.join(DATA_ROOT_BASE, topic_folder)
+            os.makedirs(save_dir, exist_ok=True)
+
+            print(f"\n{'=' * 60}")
+            print(f"🚀 [{topic_abbr}] NGUỒN: {source_name}")
+
+            # 1. Tìm STT
+            current_idx = get_next_index(save_dir, topic_abbr, source_name)
+
+            # 2. Lấy link (Dùng tab hiện tại)
+            links = []
+            if source['type'] == 'click':
+                links = get_links_click_mode(driver, source)
+            else:
+                links = get_links_page_mode(driver, source)
+
+            links = list(links)[:TARGET_PER_SOURCE]
+            print(f"✅ Tìm thấy {len(links)} link. Đang xử lý...")
+
+            # 3. Lưu file (MỞ TAB -> XỬ LÝ -> ĐÓNG TAB)
+            saved_count = 0
+
+            # Lưu lại handle của tab gốc (Tab chứa danh sách link)
+            original_window = driver.current_window_handle
+
+            for i, link in enumerate(links):
+                try:
+                    filename = f"{topic_abbr}_{source_name}_{current_idx}.txt"
+                    filepath = os.path.join(save_dir, filename)
+
+                    if os.path.exists(filepath):
+                        current_idx += 1
+                        continue
+
+                    print(f"   [{i + 1}/{len(links)}] -> {filename}", end="\r")
+
+                    content = ""
+
+                    # Bước A: Thử dùng Newspaper3k trước (Nhẹ, không cần trình duyệt)
+                    try:
+                        article = Article(link)
+                        article.download()
+                        article.parse()
+                        content = article.text.strip()
+                    except:
+                        pass
+
+                    # Bước B: Nếu Newspaper thất bại, dùng Selenium Tab mới
+                    if len(content) < 200:
+                        # 1. Mở tab mới trắng tinh
+                        driver.switch_to.new_window('tab')
+
+                        # 2. Lấy nội dung
+                        content = extract_content_selenium(driver, link, source['container'])
+
+                        # 3. Đóng tab này ngay lập tức
+                        driver.close()
+
+                        # 4. Quay về tab gốc để đảm bảo driver không bị lạc
+                        driver.switch_to.window(original_window)
+
+                    if len(content) < 100: continue
+
+                    with open(filepath, "w", encoding="utf-8") as f:
+                        f.write(f"Url: {link}\n\n{content}")
+
+                    saved_count += 1
+                    current_idx += 1
+
+                except Exception as e:
+                    # Nếu có lỗi khi thao tác tab, đảm bảo quay về tab gốc
+                    try:
+                        if len(driver.window_handles) > 1:
+                            driver.close()
+                        driver.switch_to.window(original_window)
+                    except:
+                        pass
+
+            print(f"\n🏁 Hoàn thành {source_name}: Đã lưu {saved_count} bài.")
+
+        except Exception as e:
+            print(f"Lỗi khi chạy nguồn {source['name']}: {e}")
+
+        finally:
+            # ✅ Đóng trình duyệt sau khi xong 1 nguồn để giải phóng hoàn toàn RAM
+            print(f"🛑 Đóng trình duyệt của {source['name']}")
+            driver.quit()
+
+    print("\n🎉 TẤT CẢ HOÀN TẤT!")
