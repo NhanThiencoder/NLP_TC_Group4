@@ -1,7 +1,0 @@
- 2005: xuất hiện hơn 5.000 lỗi bảo mật 
-
-Trong số 5.198 lỗi này có 812 lỗi nằm trong các ứng dụng chạy trên môi trường Windows. 2.328 lỗi của các ứng dụng chạy trên các hệ điều hành Unix, Linux, Mac và 2.058 lỗi liên quan đến các ứng dụng chạy trên các hệ điều hành khác. 
-
-
-
-

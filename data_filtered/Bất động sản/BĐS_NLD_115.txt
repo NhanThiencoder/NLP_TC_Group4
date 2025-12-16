@@ -1,9 +1,0 @@
-Bộ Nông nghiệp và Môi trường vừa có văn bản gửi UBND các tỉnh, thành phố về việc tổng kết, đánh giá kết quả triển khai thực hiện chiến dịch 90 ngày làm giàu, làm sạch Cơ sở dữ liệu quốc gia về đất đai theo Kế hoạch số 515/KH-BCA-BNN&MT.
-
-Theo đó, Bộ yêu cầu báo cáo tổng kết của các tỉnh, thành phố phải phản ánh đầy đủ thực trạng cơ sở dữ liệu đất đai trước khi triển khai chiến dịch; mức độ chuẩn hóa thông tin theo nguyên tắc “đúng - đủ - sạch - sống”; kết quả rà soát, phân loại dữ liệu theo ba nhóm; tình hình thu thập Giấy chứng nhận, xác thực thông tin chủ sử dụng đất qua Cơ sở dữ liệu quốc gia (CSDLQG) về dân cư; kết quả tạo lập dữ liệu mới và đồng bộ lên hệ thống trung ương.
-
-Trong đó, báo cáo cần nêu rõ số lượng Giấy chứng nhận đã được xác thực thông tin chủ sử dụng qua CSDLQG về dân cư; số lượng Giấy chứng nhận đã quét (scan) và xử lý theo quy định về dữ liệu đất đai phi cấu trúc, lưu trữ dưới định dạng tệp tin PDF (không chỉnh sửa được); số lượng Giấy chứng nhận đã được trích xuất và nhập các trường thông tin từ Giấy chứng nhận vào CSDL đất đai; số lượng Giấy chứng nhận về đất ở, nhà ở đã được tạo lập vào CSDL đất đai.
-
-Bộ đặc biệt lưu ý việc đánh giá hiệu quả ứng dụng cơ sở dữ liệu đất đai trong cải cách thủ tục hành chính, cắt giảm hồ sơ giấy, rút ngắn thời gian giải quyết cho người dân; mức độ kết nối, chia sẻ với các hệ thống thuế, tài chính, dịch vụ công; và tình hình bảo đảm an ninh, an toàn dữ liệu trong quá trình vận hành.
-
-Đồng thời, các địa phương tổng hợp bài học kinh nghiệm, những tồn tại, hạn chế; phân tích nguyên nhân chủ quan, khách quan và đề xuất nhiệm vụ thời gian tới, đặc biệt là duy trì cập nhật dữ liệu như một công việc thường xuyên.

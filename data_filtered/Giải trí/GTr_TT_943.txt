@@ -1,8 +1,0 @@
- FPT xây dựng hệ thống thông tin quản lý ngân sách và kho bạc
-
-Theo hợp đồng này, FPT sẽ cung cấp phần cứng, xây dựng hệ thống, đào tạo, triển khai và hỗ trợ vận hành hệ thống kho bạc Nhà nước tại 64 tỉnh, thành và hơn 600 quận, huyện. 
-
-TABMIS là dự án được Ngân hàng thế giới tài trợ với tổng giá trị hợp đồng khoảng 44 triệu USD nhằm tăng cường tính minh bạch trong việc chấp hành ngân sách và năng lực giải trình của cơ quan tài chính các cấp, đồng thời hỗ trợ việc ra quyết định đối với các cơ quan quản lý Nhà nước. 
-
-
-

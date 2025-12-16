@@ -1,5 +1,0 @@
-Hiện một tuyến từ đầu đường Lữ Gia vào trong trường đua đang rào chắn, tập kết máy móc, vật liệu xây dựng để thi công.
-
-Theo quy hoạch, tuyến số một kết nối từ đường Lê Đại Hành đến Lý Thường Kiệt, dài 514 m, rộng 32 m, 6 làn xe. Tuyến thứ hai nối từ đường Lữ Gia đến Dự Phóng 1, dài 481 m, rộng 26 m, 4 làn xe. Tuyến thứ ba kết nối từ đường Lê Đại Hành đến Dự Phóng 2, dài 367 m, rộng 13 m, hai làn xe.
-
-Tuyến thứ 4 kết nối từ Lý Thường Kiệt đến đường Dự Phóng 1, dài 617 m, rộng 13 m, hai làn xe. Tuyến còn lại từ đường Ba Tháng Hai đến Dự Phóng 4, dài gần 100 m, rộng 15 m, hai làn xe.

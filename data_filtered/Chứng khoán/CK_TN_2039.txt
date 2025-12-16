@@ -1,3 +1,0 @@
-Trong hai ngày cuối tuần 27 - 28.2, HNX đã gấp rút gửi bảng khảo sát đến các công ty chứng khoán (CTCK) về phương án dự phòng chuyển một số mã CK trên HOSE sang giao dịch trên hệ thống của HNX.
-
-Theo đó, các CTCK được khảo sát về thời gian cần thực hiện chỉnh sửa hệ thống phần mềm nhằm đáp ứng trường hợp chuyển một số mã CK hiện giao dịch trên HOSE sang giao dịch tại một bảng mới trên hệ thống của HNX. Các mã CK vẫn được giữ nguyên các quy định giao dịch như tại HOSE về biên độ, kết cấu phiên, bước giá. Tại hệ thống của Trung tâm lưu ký chứng khoán Việt Nam, các CK này có thể được đổi định danh thành CK thuộc HNX hoặc giữ nguyên là thuộc HOSE...

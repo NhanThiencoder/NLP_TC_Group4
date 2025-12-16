@@ -1,9 +1,0 @@
- Tự động tắt máy theo ý muốn
-
-Để sử dụng tính năng tự động tắt máy theo giờ đã định, người dùng nhấp vào mục Timer, vào Add để nhập giờ tắt máy. Nên ghi chú nội dung tắt máy vào mục “Title” để dễ dàng sử dụng lại sau này khi cần. 
-
-Người dùng cũng có thể thêm vào các cảnh báo bằng âm thanh trước khi tắt máy bằng cách nhấp vào mục “Sound”, đánh dấu vào ô “Enable sound alarm”, sau đó “Browse” đến file âm thanh mà mình thích. 
-
-
-
-

@@ -1,6 +1,0 @@
- Bảo mật thông tin máy tính bằng giải pháp mã nguồn mở (NLĐ)- Hơn 100 nhân viên, chuyên gia công nghệ thông tin thuộc các đơn vị Nhà nước, doanh nghiệp tư nhân tại TPHCM đã tham gia hội thảo “Kinh nghiệm chuyển đổi sang phần mềm mã nguồn mở của Chính phủ Đức” do Bộ Khoa học và Công nghệ chủ trì diễn ra ngày 20-1.
-
-Nội dung hội thảo tập trung vào khả năng chuyển đổi các phần mềm cơ bản sang phần mềm mã nguồn mở trên hệ thống máy chủ và máy trạm. Đồng thời, tăng khả năng an ninh và bảo mật các thông tin, dữ liệu trong các đơn vị Nhà nước bằng giải pháp phần mềm mã nguồn mở. Ông Hoàng Lê Minh, Phó Giám đốc Sở Bưu chính Viễn thông TPHCM, cảnh báo tình trạng vi phạm bản quyền các phần mềm hiện nay khá phổ biến, kể cả trong các đơn vị Nhà nước. Người sử dụng khi mua máy vi tính thương hiệu VN thường gỡ bỏ phần mềm mã nguồn mở Linux (được cài sẵn) để cài lại phần mềm không có bản quyền. Trong năm 2004, TPHCM đã tiến hành kiểm tra và xử phạt các trường hợp vi phạm bản quyền phần mềm, có vụ phạt từ 30 - 50 triệu đồng. 
-
-
-

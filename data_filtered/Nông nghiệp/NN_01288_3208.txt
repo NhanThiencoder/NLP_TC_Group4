@@ -1,9 +1,0 @@
-Title: Giải pháp IoT cho nông nghiệp dành giải cao nhất Microsoft Imagine Cup 2017
-
-Khởi động tháng 11/2016 và vừa kết thúc trong tháng 4/2017, cuộc thi Cúp sáng tạo Microsoft Imagine Cup 2017 đã thu hút gần 100 ý tưởng đến từ hơn 30 trường đại học khắp cả nước.
-
-Trong vòng 1, từ 100 ý tưởng đầu tiên, ban tổ chức đã lựa chọn được 40 ý tưởng để tiến hành xây dựng các dự án thử nghiệm.
-
-Sau 5 tháng thử thách, vượt qua các vòng thi, 6 đội xuất sắc nhất đã được lựa chọn để trình bày ý tưởng và những thử nghiệm tại vòng Chung kết Quốc gia của Microsoft Imagine Cup 2017 tại Việt Nam.
-
-Ông Vũ Minh Trí, Tổng Giám đốc Microsoft Việt Nam đánh giá, học sinh và sinh viên tham dự Cúp Sáng tạo Microsoft Imagine Cup 2017 đã rất nhạy bén với xu hướng công nghệ khi lựa chọn khá nhiều dự án IoT.

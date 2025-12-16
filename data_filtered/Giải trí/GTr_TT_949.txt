@@ -1,9 +1,0 @@
- Dịch vụ tra cứu thông tin Basao-VNN
-
-Dịch vụ Basao-VNN sẽ được cung cấp thử nghiệm từ ngày 15/04/2004 đến ngày 15/07/2004. Các dịch vụ trong thời gian thử nghiệm của Basao-VNN bao gồm: Tra cứu thông tin về giao thông (dịch vụ tìm đường dành cho các loại phương tiện chủ yếu là tại Hà Nội và TP. Hồ Chí Minh); Tra cứu thông tin tổng hợp (trang vàng) kết hợp với khả nǎng định vị trực tiếp trên bản đồ số. 
-
-Riêng chuyên mục kinh doanh bất động sản (cho phép đǎng tin mua bán, cho thuê nhà, đất trên bản đồ số, tư vấn tài chính, Ngân hàng); Tra cứu bản đồ Việt và 61 tỉnh thành (bản đồ địa giới hành chính); Tra cứu các loại bản đồ của TP. Hồ Chí Minh (quy hoạch, hiện trạng tỉ lệ 1/2000) và quy hoạch Hà Nội; Chuyên mục Nhà hàng - Khách sạn (cho phép đǎng tin quảng cáo, định vị nhà hàng, khách sạn trên bản đồ số); Thuê không gian lưu trữ thông tin bản đồ trên Basao-VNN. 
-
-
-
-

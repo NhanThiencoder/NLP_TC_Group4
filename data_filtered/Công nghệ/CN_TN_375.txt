@@ -1,9 +1,0 @@
-Theo TheVerge, ứng dụng Adware Doctor đã bí mật ghi lại dữ liệu ứng dụng và lịch sử duyệt web của người dùng, sau đó gửi đến một máy chủ đặt tại Trung Quốc.
-
-Apple đã được thông báo về các hoạt động đáng ngờ của Adware Doctor hơn một tháng trước đây bởi chuyên gia bảo mật Patrick Wardle nhưng chỉ loại bỏ ứng dụng mới đây. Trước khi bị gỡ bỏ, Adware Doctor nhận được rất nhiều đánh giá năm sao của người dùng và thuộc nhóm các ứng dụng hàng đầu trên kho ứng dụng dành cho Mac cùng với Final Cut Pro và Logic Pro X.
-
-Adware Doctor là một ứng dụng quét các máy tính Mac để tìm phần mềm độc hại và xóa các tập tin đáng ngờ. Ban đầu, ứng dụng là một phiên bản lừa đảo của ứng dụng Adware Medic từ Malwarebytes, và Apple đã xóa khỏi App Store cho đến khi nó đổi tên thành Adware Doctor để qua mặt.
-
-Adware Doctor ngụy trang các yêu cầu truy cập dữ liệu từ những ứng dụng khác và các tiến trình đang hoạt động dưới danh nghĩa là một công cụ quét phần mềm độc hại. Nó có khả năng bỏ qua quá trình “hộp cát - sandboxing” và xử lý truy cập bằng cách sao chép mã của Apple được tìm thấy trong phần Hỏi và Đáp kỹ thuật để truy xuất danh sách tất cả các quy trình. Bằng những cách này, nó có thể đọc tất cả lịch sử trình duyệt của người dùng và ghi nhớ các ứng dụng họ đã tải xuống.
-
-Các chuyên gia bảo mật cho biết máy chủ ở Trung Quốc hiện đã tắt nhưng cảnh báo nó có thể hoạt động lại bất cứ lúc nào.

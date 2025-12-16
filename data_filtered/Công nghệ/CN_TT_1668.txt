@@ -1,8 +1,0 @@
- Motorola ra mắt điện thoại dùng hệ điều hành Linux
-
-Điện thoại E680 sử dụng chip intel xScale 300MHz, bộ nhớ trong 50MB, hỗ trợ thẻ nhớ ngoài SD (lên đến 1GB), màn hình 3D cảm ứng 65K màu, tích hợp camera zoom số 8x có độ phân giải 640x480. Với cấu hình này E680 cho phép thực hiện nhiều chức năng cùng lúc như: nghe nhạc (hoặc nghe FM), nhắn tin, chơi game... 
-
-Ngoài ra, E680 còn hỗ trợ nhiều chuẩn video, âm thanh như: MPEG4, H.263, RV, MP3, WMA, AAC, AMR, RA ... Hiện nay, khách hàng mua E680 sẽ được tặng thêm thẻ nhớ ngoài SD 64MB. 
-
-
-

@@ -1,6 +1,0 @@
-Tại cuộc triển lãm điện tử đang diễn ra ở Las Vegas (Mỹ), hãng công nghệ D-Link (Đài Loan) đã trình làng thiết bị bảo vệ máy tính mang tên DI-103.
-
-Chỉ dày 2,54 cm và chiếm diện tích 103 cm2, DI-103 đóng vai trò như một bức tường lửa, có thể chặn các cửa sổ pop-up và lọc thư rác cũng như các phần mềm gián điệp. Thiết bị này thích hợp với cả máy nối internet theo phương thức dial-up và băng rộng. Theo nhà sản xuất, hiện DI-103 chỉ hỗ trợ cho các máy tính có hệ điều hành Windows hoặc Mac OS X. Trong vài tháng tới, sẽ có sản phẩm hỗ trợ hệ điều hành Linux.
-
-
-

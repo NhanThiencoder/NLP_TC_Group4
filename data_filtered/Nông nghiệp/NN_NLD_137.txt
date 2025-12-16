@@ -1,9 +1,0 @@
-Theo Bloomberg, việc xây dựng trung tâm dữ liệu diễn ra quá nhanh có nguy cơ khiến nhiều dự án làm đường, xây cầu và hạ tầng khác bị chậm lại do nguồn lực phải chia sẻ cho nhiều công trình cùng lúc.
-
-Năm 2025, chính quyền các bang và địa phương tại Mỹ được cho là đã phát hành lượng trái phiếu ở mức kỉ lục năm thứ hai liên tiếp. Các nhà chiến lược dự báo con số này có thể tăng thêm khoảng 600 tỉ USD trong năm tới, phần lớn nhằm tài trợ cho các dự án hạ tầng công cộng.
-
-Trong khi đó, số liệu từ Cục Điều tra Dân số Mỹ cho thấy chi tiêu tư nhân cho xây dựng trung tâm dữ liệu hiện vượt 41 tỉ USD mỗi năm, gần tương đương mức chi của chính quyền bang và địa phương cho hạ tầng giao thông.
-
-Các dự án lớn này đang cạnh tranh trực tiếp về nhân lực xây dựng, trong bối cảnh ngành xây dựng đối mặt tình trạng thiếu lao động do lực lượng lớn công nhân đến tuổi nghỉ hưu, cùng tác động từ các chính sách siết chặt nhập cư tại Mỹ.
-
-Trao đổi với Bloomberg, ông Andrew Anagnost - Giám đốc điều hành hãng phần mềm kiến trúc và thiết kế Autodesk, cho rằng không có nghi ngờ gì việc xây dựng trung tâm dữ liệu đang “hút cạn nguồn lực từ các dự án khác”. Ông cảnh báo rằng nhiều dự án hạ tầng có thể không thể triển khai nhanh như kỳ vọng ban đầu.

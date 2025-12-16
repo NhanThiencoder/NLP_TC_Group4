@@ -1,4 +1,0 @@
-Trung tâm Nghiên cứu công nghệ kỹ thuật Sài Gòn-SaigonCTT phối hợp với hãng Sun Microsystems và Khu Công nghệ phần mềm đại học Quốc gia TP.HCM triển khai chương trình đào tạo dài hạn "Sun College Program - Chuyên gia lập trình Java" dành cho đối tượng sinh viên các trường đại học. 
-
-
-

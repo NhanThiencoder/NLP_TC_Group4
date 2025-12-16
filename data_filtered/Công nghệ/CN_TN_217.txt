@@ -1,6 +1,0 @@
-Công ty Telnet JSC-nhà phân phối và tích hợp hệ thống trong các ứng dụng Tin học-Viễn thông ngày 11/3 đã giới thiệu ra thị trường Việt Nam thiết bị đa năng cổng thoại không dây (SMC Wireless Travel Voice Gateway) của hãng SMC.
-
-Cổng thoại không dây tích hợp các chức năng của wireless gateway và công nghệ VOIP giúp kết nối internet băng thông rộng và cổng FXO để gọi hoặc nhận các cuộc thoại VOIP. Ngoài ra, người dùng có thể chuyển văn phòng thành một điểm truy nhập không dây (hotspot) thông qua thiết bị này nhờ các tính năng bảo mật sẵn có như Network Address Translation, SPI Firewall và VPN pass-through, khả năng bật/tắt SSID broadcast và lọc địa chỉ MAC... Giá bán lẻ 180 USD/cái (chưa gồm thuế VAT).
-
-
-

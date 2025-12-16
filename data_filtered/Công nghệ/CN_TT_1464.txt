@@ -1,7 +1,0 @@
- “Gợi ý” dịch vụ mới của Google
-
-Dịch vụ thử nghiệm mới của Google: Google Suggest là một sáng kiến hay trong lý thuyết bởi qua chứng minh thực tiễn, dịch vụ trở thành một công cụ để tìm kiếm các câu trả lời cho những câu hỏi đặc biệt. Dịch vụ được tạo ra để có thể lấp đầy những yêu cầu theo nhiều loại cho một từ có liên quan đến. Những câu hỏi được đề nghị này sẽ dựa trên những gì mà người dùng khác tìm kiếm trước đây. 
-
-
-
-

@@ -1,6 +1,0 @@
-Các nhà khoa học thuộc Trung tâm hợp tác nghiên cứu các thiết kế tương tác của Úc (ACID) đang chế tạo một thiết bị có thể thay thế chiếc remote phức tạp điều chỉnh ti vi, với tên gọi là "chuột ti vi".
-
-Bằng cách kẹp thiết bị này vào lòng bàn tay, bạn có thể tắt hoặc mở ti vi, thay đổi kênh hay thu lại một chương trình truyền hình. Lòng bàn tay ngửa ra hoặc úp xuống đồng nghĩa với lệnh chạy nhanh tới trước hay "tua" lại, trong khi muốn đổi kênh kế tiếp bạn chỉ cần dựng đứng bàn tay lên hoặc ngược lại. Hiện các nhà khoa học đang tìm cách nâng cao công dụng của chuột ti vi và hy vọng sẽ tung sản phẩm trên ra thị trường vào cuối năm tới.
-
-
-

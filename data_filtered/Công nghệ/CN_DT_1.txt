@@ -1,6 +1,0 @@
-
-Khái niệm RSS
-
-RSS là viết tắt của cụm “Really Simple Syndication” hay “Rich Site Summary”. Tạm dịch là đồng bộ hóa vô cùng đơn giản. Nói theo cách khác, thì RSS sử dụng để tóm lược những thông tin phong phú.
-
-RSS vào cuối năm 90s đã được phát triển nên bởi Netscape và đã được ứng dụng nhiều trong những weblog, web tin tức. Đây cũng là 1 công nghệ internet vô cùng hữu hiệu, giúp cho người dùng hoàn toàn có thể cập nhật tin tức từ rất nhiều những trang web đa dạng khác nhau mà không cần phải truy cập trực tiếp vào trong trang web đó. Thứ duy nhất mà họ cần sử dụng đó chính là chương trình về đọc tin RSS chuyên biệt (News aggregator, News reader và RSS feeds reader).

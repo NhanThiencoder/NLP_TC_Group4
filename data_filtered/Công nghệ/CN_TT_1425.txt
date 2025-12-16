@@ -1,7 +1,0 @@
- Tìm vị trí đặt máy ATM qua ĐTDĐ
-
-Với giao diện tiếng Việt nên cách sử dụng ATMInfor rất đơn giản và dễ dàng. Bạn chỉ cần bấm chọn tên ngân hàng rồi chọn địa điểm cần tìm máy ATM là xong. 
-
-
-
-
