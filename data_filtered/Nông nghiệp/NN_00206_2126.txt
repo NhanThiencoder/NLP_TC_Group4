@@ -1,0 +1,43 @@
+Title: Bộ nông nghiệp tập trung xây dựng và kết nối cơ sở dữ liệu ngành
+
+Nông dân cần thông tin thị trường để điều tiết sản xuất
+
+Đang liên kết với 825 hộ nông dân trồng hồ tiêu theo tiêu chuẩn quốc tế, song ông Lê Anh Sơn - Giám đốc Hợp tác xã Bình Minh (Đắk Nông) nhận thấy, gần 7 năm hoạt động, nông dân luôn đối mặt nhiều thách thức trong việc tối ưu hóa lợi nhuận từ sản xuất.
+
+Ông chỉ rõ, sản xuất phải gắn với thị trường. Tuy nhiên, người nông dân vẫn thiếu kiến thức và những thông tin dự báo thị trường. Sau khi thu hoạch, họ phải bán ồ ạt hoặc gửi cà phê, hồ tiêu cho đại lý do thiếu kho bãi đạt chuẩn để lưu trữ. Điều này làm gia tăng nguồn cung quá mức trong thời điểm thu hoạch, dẫn đến giá trị xuất khẩu bị ảnh hưởng nặng nề.
+
+Đơn cử, thu hoạch cà phê vào tháng 2/2023, giá chỉ 50.000-51.000 đồng/kg, nếu có kho lưu trữ đến tháng 4 sẽ bán được 134.000-134.200 đồng/kg. Tương tự, giá hồ tiêu từ 70.000-72.000 đồng/kg vào tháng 6/2023, một năm sau đã leo lên 176.000-180.000 đồng/kg, cao hơn gấp đôi.
+
+Nông dân cần thông tin dự báo thị trường để làm căn cứ xây dựng kế hoạch sản xuất hàng hóa.
+
+Bà Nguyễn Thị Loan - HTX Nông nghiệp và Dịch vụ Thành Đạt (Đắk Lắk) cho biết, những năm qua, quá trình đàm phán, mở cửa thị trường xuất khẩu nông lâm thủy sản của các ngành chức năng, trong đó có Bộ NN-PTNT đã mang lại rất nhiều lợi ích cho nông dân nông dân.
+
+Đối với HTX Thành Đạt, để đáp ứng được các yêu cầu của thị trường xuất khẩu, HTX chủ động phối hợp với UBND xã xây dựng chương trình mã số vùng trồng cây sầu riêng, chuẩn hóa theo quy trình tiêu chuẩn xuất khẩu chính ngạch cho 126 hộ với 248ha.
+
+Tuy nhiên, bà cũng nhận thấy những tiêu chuẩn của thị trường xuất khẩu, mà cụ thể là Trung Quốc đối với trái sầu riêng nói riêng, các loại nông sản khác nói chung là ngày càng cao. Do đó, nông dân cần những thông tin dự báo về thị trường tiêu thụ để sản xuất hàng hóa cho phù hợp.
+
+Theo Bộ trưởng NN-PTNT Lê Minh Hoan, câu chuyện thị trường luôn có sự thay đổi bất ngờ như thế. Bà con nông dân phải luôn nhớ sản xuất cái gì, cho ai và sản xuất như thế nào.
+
+Người ta không mua một sản phẩm nữa mà bây giờ người ta mua cách anh tạo ra sản phẩm đó có bền vững, đảm bảo an toàn thực phẩm, bảo vệ môi trường nay không... Khi nắm bắt được thông tin dự báo thị trường, việc lập kế hoạch và điều tiết hoạt động sản xuất sẽ đúng và trúng hơn.
+
+Đẩy mạnh xây dựng và kết nối cơ sở dữ liệu
+
+Hiện nay, có 7.558 mã số vùng trồng và 1.558 mã số cơ sở đóng gói phục vụ xuất khẩu cho các loại quả tươi (thanh long, xoài, vú sữa, chuối, bưởi, chanh leo, chanh không hạt, nhãn, vải, ớt, thạch đen, sầu riêng...) được phép xuất khẩu sang các thị trường như Trung Quốc, Mỹ, Úc, New Zealand, Hàn Quốc, Nhật Bản…
+
+Ảnh minh hoạ
+
+Đây là điều kiện đầu tiên để xuất khẩu sản phẩm nông sản chính ngạch vào các thị trường. Ngoài ra, thông qua các mã số vùng trồng, ngành nông nghiệp cũng nắm bắt được diện tích sản xuất, sản lượng hàng hóa, từ đó đưa ra những dự báo về thị trường tiêu thụ.
+
+Bộ NN-PTNT cho biết, bộ này đã và đang hỗ trợ doanh nghiệp, HTX chuyển đổi số trong nông nghiệp. Theo đó, bộ sẽ tiếp tục đẩy mạnh phát triển và hướng đến đồng bộ các công cụ phục vụ chuyển đổi số trong lĩnh vực nông nghiệp nông thôn, số hóa, tạo lập dữ liệu, chuẩn hóa cơ sở dữ liệu đất đai nông nghiệp, cây trồng, vật nuôi, thủy sản, thủy lợi, phòng chống thiên tai, dịch bệnh.
+
+Ngoài ra, tiến hành kết nối, chia sẻ cơ sở dữ liệu quốc gia, cơ sở dữ liệu ngành, lĩnh vực phục vụ chỉ đạo, điều hành của các cơ quan nhà nước và sản xuất, kinh doanh của người dân, doanh nghiệp.
+
+Phát triển các mô hình nông nghiệp thông minh ứng dụng công nghệ số trong nông nghiệp nông thôn. Phát triển quản lý chuỗi cung ứng nông sản theo ứng dụng blockchain, quản lý nông sản từ quá trình sản xuất, thu hoạch, sơ chế, bảo quản, vận chuyển, chế biến và tiêu thụ sản phẩm tạo sự minh bạch thông tin, đảm bảo truy xuất nguồn gốc sản phẩm.
+
+Xây dựng và nhân rộng các mô hình làng thông minh, làng nông thuận thiên ứng dụng công nghệ số.
+
+Nâng cao năng lực, hiệu quả hội nhập kinh tế quốc tế về nông nghiệp và nông thôn, mở rộng hợp tác với các quốc gia, các tổ chức quốc tế để tranh thủ, thu hút nguồn vốn, phát triển thị trường, tiếp cận khoa học công nghệ phục vụ cho các mục tiêu phát triển của ngành.
+
+Xây dựng hệ thống quản lý thông tin, dữ liệu, truy xuất nguồn gốc cá sấu, dịch bệnh trên cá sấu Để ngành hàng cá sấu của tiếp tục phát triển bền vững, cần xây dựng hệ thống quản lý thông tin, dữ liệu, truy xuất nguồn gốc cá sấu, dịch bệnh trên cá sấu nhằm đạt tiêu chuẩn chất lượng xuất khẩu.
+
+Anh Phương và nhóm PV, BTV

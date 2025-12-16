@@ -1,0 +1,29 @@
+Title: AI giúp tăng cường độ chính xác và tốc độ trong quá trình sản xuất nông nghiệp
+
+Tiến sĩ Trần Quý, Viện trưởng Viện Phát triển kinh tế số Việt Nam nhấn mạnh tầm quan trọng của AI trong phát triển nông nghiệp hiện đại là không thể phủ nhận. Theo đó, sử dụng trí tuệ nhân tạo (AI) có thể giúp nông dân tối ưu hóa quy trình sản xuất, tăng cường năng suất và giảm thiểu chi phí, đồng thời giảm thiểu tác động tiêu cực đến môi trường, qua đó góp phần thúc đẩy phát triển nền nông nghiệp hiện đại và bền vững.
+
+Theo đánh giá, nhu cầu và triển vọng ứng dụng AI trong nông nghiệp tại Việt Nam là rất lớn bởi nó giúp ngành này giải quyết được rất nhiều vấn đề vướng mắc đang đặt ra hiện nay liên quan đến quy trình quản lý, sản xuất và tiêu thụ sản phẩm nông nghiệp…
+
+Ảnh minh hoạ
+
+Cụ thể, áp dụng AI trong sản xuất nông nghiệp có thể giúp tăng cường hiệu quả sản xuất, giảm chi phí và nhân công một cách đáng kể thông qua dự báo thời tiết chính xác hơn; tối ưu hóa nước, phân bón và thuốc trừ sâu; theo dõi sức khỏe động vật; sử dụng robot tự động hóa trong gieo trồng, tưới tiêu, thu hoạch.
+
+Đơn cử, khi tưới nước cho cây, chúng ta không biết được trong nước có dư, thiếu thành phần gì, và trong cây hiện tại cần lượng nước bao nhiêu. Ứng dụng AI vào tác vụ này giúp can thiệp đúng, biết được nên bỏ chất gì và giữ chất gì trong nguồn nước, qua đó giúp tiết kiệm tài nguyên, đồng thời mang lại hiệu quả cao.
+
+Cũng theo ông Trần Quý, các công nghệ AI như học máy và khai phá dữ liệu cho phép nông dân quản lý tốt hơn các hoạt động sản xuất. Theo đó, AI có thể dự đoán kết quả mùa vụ dựa trên thông tin về thời tiết, loại cây trồng, độ ẩm đất, lượng nước được sử dụng và các yếu tố khác. Điều này giúp nông dân lên kế hoạch sản xuất tốt hơn và quản lý tài nguyên một cách thông minh hơn…
+
+Ngoài ra, AI còn giúp tăng cường độ chính xác và tốc độ trong quá trình sản xuất. Với khả năng thu thập và xử lý dữ liệu nhanh chóng và chính xác, các hệ thống AI có thể giúp phát hiện các vấn đề trong sản xuất sớm hơn và đưa ra các giải pháp nhanh chóng.
+
+Chia sẻ về những thách thức trong ứng dụng AI vào nông nghiệp tại Việt Nam, ông Trần Quý cho biết do các vấn đề về tư duy, thể chế, tiếp cận công nghệ, khả năng tài chính cho nên việc ứng dụng AI tại Việt Nam, đặc biệt trong mảng nông nghiệp chưa được nhiều.
+
+“Tư duy của người nông dân vẫn là tư duy cũ, sản xuất theo phương thức truyền thống. Mặt khác, nguồn nhân lực ở Việt Nam dồi dào giá rẻ nên ứng dụng AI trong nông nghiệp chưa mạnh” - ông Quý cho hay.
+
+Trong bối cảnh đó, muốn đưa AI vào nông nghiệp, trước hết cần phải thay đổi tư duy làm nông nghiệp của người nông dân, chuyển từ tư duy truyền thống sang tư duy ứng dụng công nghệ vào sản xuất.
+
+Cụ thể, phải tuyên truyền, nâng cao nhận thức, giúp người dân hiểu rằng, để cạnh tranh được với sản phẩm, hàng hóa từ các nước khác, sản phẩm mình làm ra cần có chất lượng tốt chứ không chỉ là vấn đề năng suất. Cần phải có tư duy cạnh tranh thay vì tư duy “giải cứu sản phẩm”.
+
+
+
+
+
+Anh Phương và nhóm PV, BTV

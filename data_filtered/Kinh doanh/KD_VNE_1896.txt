@@ -1,0 +1,33 @@
+Title: Nỗi lo bong bóng AI khi SoftBank bán hết cổ phần Nvidia
+
+Đại gia viễn thông Nhật Bản thoái vốn khỏi Nvidia trong bối cảnh nhiều ngân hàng cảnh báo bong bóng, làm dấy lên lo ngại cơn sốt AI đã đạt đỉnh.
+
+Ngày 11/11, tại báo cáo tài chính quý, SoftBank cho biết đã bán toàn bộ 32,1 triệu cổ phiếu hãng chip Nvidia trong tháng 10. Việc này nhằm huy động vốn cho chiến lược trí tuệ nhân tạo (AI) quy mô lớn của CEO SoftBank Masayoshi Son. Ông là một trong những nhà đầu tư táo bạo nhất giới công nghệ.
+
+SoftBank cần số tiền này cho nhiều sáng kiến, trong đó có dự án Stargate trị giá 500 tỷ USD để mở rộng năng lực trung tâm dữ liệu tại Mỹ và 40 tỷ USD cam kết rót vào OpenAI - công ty mẹ ChatGPT. Chi tiết khoản đầu tư này chưa được công bố.
+
+Dù vậy, việc họ bán ra ở thời điểm này khiến nhiều nhà đầu tư ngờ vực định giá của ngành AI đang vượt xa giá trị thực tế. Cổ phiếu Nvidia phiên 11/11 giảm gần 3%, ngược chiều với thị trường chung. Hãng cung cấp dịch vụ đám mây AI CoreWeave cũng hạ dự báo doanh thu do một hợp đồng bị trì hoãn. Cổ phiếu hãng này vì thế mất tới 16%.
+
+Vài tuần gần đây, cảnh báo về nguy cơ bong bóng AI ngày càng tăng khi CEO Morgan Stanley và CEO Goldman Sachs đều dự báo thị trường cổ phiếu có thể sắp điều chỉnh. Michael Burry - giám đốc quỹ nổi tiếng với khoản đặt cược thị trường nhà đất Mỹ rơi vào khủng hoảng 2008 - cũng dự báo cổ phiếu Nvidia và Palantir đi xuống.
+
+CEO SoftBank Masayoshi Son là nhà đầu tư nổi tiếng trong giới công nghệ. Ảnh: Reuters
+
+Một số nhà phân tích nói rằng việc thoái vốn cho thấy CEO Son nhìn ra đà tăng phi mã giúp vốn hóa hãng chip Mỹ cán mốc 5.000 tỷ USD tháng trước có thể đang hạ nhiệt. Cổ phiếu này đã tăng hơn 1.200% trong 3 năm qua.
+
+Dù vậy, một số cũng chỉ ra SoftBank từng phán đoán sai về triển vọng của Nvidia. Họ đã bỏ lỡ hơn 100 tỷ USD lợi nhuận khi bán cổ phiếu hãng chip năm 2019, trước khi làn sóng AI xuất hiện. Sau đó, SoftBank đã mua lại cổ phiếu hãng này.
+
+"Xét về thời điểm, khó có thể nói Masayoshi Son bán cổ phiếu Nvidia đúng lúc. Việc này chỉ đơn giản là phân bổ nguồn lực, huy động vốn để đặt cược ở nơi khác", C J Muse - Giám đốc cấp cao tại Cantor Fitzgerald nhận định.
+
+Ngoài cổ phần Nvidia, SoftBank cũng bán khoảng 9,2 tỷ USD cổ phiếu nhà mạng T-Mobile. Việc này giúp Son có thêm tiền củng cố tầm ảnh hưởng trong lĩnh vực AI đang khát vốn. "Việc chốt lời lúc này giúp ông ấy đảm bảo nguồn vốn cần thiết cho các ứng dụng AI và hạ tầng siêu lớn phía sau chúng, gồm OpenAI, Oracle và dự án Stargate", Michael Ashley Schulman - Giám đốc đầu tư của Running Point Capital Advisors - nhận định.
+
+Dù vậy, việc tăng đặt cược vào OpenAI sẽ khiến SoftBank liên quan nhiều hơn đến startup này. OpenAI đang là trung tâm của hàng loạt giao dịch phức tạp, khiến nhà đầu tư lo ngại bong bóng.
+
+Năm nay, cổ phiếu SoftBank đã tăng hơn gấp đôi và ngày càng phụ thuộc vào mối quan hệ với OpenAI. Tháng trước, mã này tăng vọt sau thông tin startup tái cấu trúc để tách khỏi mô hình phi lợi nhuận ban đầu.
+
+OpenAI đang xem xét niêm yết với định giá có thể lên tới 1.000 tỷ USD vào năm sau. Việc này hứa hẹn mang lại lợi nhuận khổng lồ cho các nhà đầu tư như Microsoft và SoftBank.
+
+Định giá của OpenAI cũng giúp lợi nhuận ròng quý II của SoftBank tăng hơn gấp đôi. Tuy nhiên, hãng chưa công bố chi tiết về cách họ dự định tài trợ cho các dự án hạ tầng có tổng giá trị khoảng 1.400 tỷ USD. Startup này kỳ vọng doanh thu năm nay đạt 20 tỷ USD và gần đây đã rút lại phát biểu về việc cần vay vốn do chính phủ bảo lãnh.
+
+Tuy nhiên, Vision Fund - quỹ đầu tư của SoftBank từng nhiều lần khiến tập đoàn này chịu khoản lỗ nặng vì hoạt động của mình. Vì thế, "thương vụ thoái vốn này chẳng khác nào một ván bài mạo hiểm", Schulman kết luận.
+
+Hà Thu (theo Reuters)

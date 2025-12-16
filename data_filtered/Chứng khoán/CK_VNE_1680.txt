@@ -1,0 +1,25 @@
+Cơ chế đối tác bù trừ trung tâm (CCP) cho chứng khoán được lên kế hoạch triển khai từ năm 2027, giúp tăng thanh khoản và ổn định thị trường.
+
+Ủy ban Chứng khoán Nhà nước (SSC) vừa công bố kế hoạch triển khai hoạt động thanh toán bù trừ chứng khoán theo cơ chế CCP. Đây được xem là một trong những tiêu chí còn hạn chế khiến chứng khoán Việt Nam chưa được nâng hạng.
+
+Theo kế hoạch từ quý III, Bộ Tài chính dự kiến đưa ra hướng dẫn hạch toán kế toán cho nghiệp vụ phát sinh khi triển khai cơ chế mới. Song song đó, SSC sẽ duyệt đề án thành lập Công ty TNHH MTV Bù trừ Chứng khoán Việt Nam thuộc Tổng công ty Lưu ký và Bù trừ Chứng khoán (VSD) để thực hiện chức năng CCP.
+
+Sang quý I/2026, SSC lên kế hoạch ban hành hướng dẫn đăng ký, lưu ký và thanh toán giao dịch chứng khoán mới. Còn VSD sẽ đào tạo, tập huấn và kiểm thử hệ thống với thành viên, phối hợp rà soát và chuẩn bị hạ tầng kỹ thuật. Quá trình trên có thể kéo dài cả năm 2026.
+
+Đến quý đầu năm 2027, SSC dự kiến triển khai cơ chế CCP cho thị trường chứng khoán cơ sở.
+
+Nhà đầu tư đang theo dõi bảng giá chứng khoán. Ảnh: An Khương
+
+CCP là một cơ chế áp dụng cho giao dịch chứng khoán, trong đó công ty đảm nhiệm vận hành cơ chế này (tương lai là Công ty TNHH MTV Bù trừ chứng khoán Việt Nam) trở thành tổ chức trung gian đứng giữa bên mua và bán. Tức là, khi triển khai, mỗi bên tham gia giao dịch chứng khoán chỉ có nghĩa vụ với CCP, chứ không trực tiếp với bên đối tác.
+
+Khi một giao dịch được khớp lệnh, công ty thực hiện CCP sẽ trở thành người mua với tất cả người bán và là người bán với các bên mua. Cụ thể, CCP cam kết giao chứng khoán với bên bán, và thanh toán tiền với bên mua. Cơ chế này sẽ tính toán nghĩa vụ ròng (netting) cho từng bên để giảm số lượng giao dịch thực hiện, nhờ đó hạ chi phí liên quan.
+
+Vai trò nổi bật của cơ chế này còn là giảm thiểu rủi ro. Nếu một bên mất khả năng thanh toán, CCP vẫn đảm bảo giao dịch hoàn tất nhờ quỹ bảo đảm và các cơ chế an toàn khác, giúp tăng tính thanh khoản và ổn định cho thị trường.
+
+Sơ đồ minh họa cơ chế CCP trong giao dịch chứng khoán. Đồ họa: Tất Đạt
+
+Trước đó, theo Thông tư 68 của Bộ Tài chính, nhà đầu tư nước ngoài mua cổ phiếu không yêu cầu có đủ tiền, tức ký quỹ 100% (non pre-funding), trước khi đặt lệnh. Tuy nhiên CCP vẫn được các chuyên gia và đơn vị phân tích đánh giá đóng quan trọng trong việc triển khai giao dịch non-prefunding, thu hút vốn ngoại và đáp ứng các tiêu chí nâng hạng thị trường.
+
+Theo báo cáo của Ngân hàng Thế giới (WB), 80% hệ thống thanh toán trên toàn cầu đã áp dụng cơ chế CCP cho hoạt động thanh toán bù trừ thanh toán chứng khoán. Tại Việt Nam, CCP đã được áp dụng cho thị trường phái sinh từ năm 2017.
+
+Tất Đạt

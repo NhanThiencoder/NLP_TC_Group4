@@ -1,0 +1,9 @@
+Trung tâm này có nhiệm vụ kiểm soát giao thông trên các tuyến đường chính, nút giao khu vực trung tâm TP, với nhiều chức năng như điều khiển đèn tín hiệu, giám sát và cung cấp thông tin giao thông, hỗ trợ xử lý vi phạm.
+
+
+
+Với hệ thống camera đã có và lắp đặt thêm, trung tâm sẽ cập nhật và chia sẻ dữ liệu của 762 camera. Đồng thời, trong hệ thống còn có 136 camera đo đếm lưu lượng chuyên dụng, 188 tụ điều khiển thông minh ở các nút giao trọng điểm trên 78 tuyến đường. Ngoài ra, dữ liệu từ 67.000 thiết bị giám sát hành trình (GPS) của các đơn vị kinh doanh vận tải tại TP cũng được cập nhật vào trung tâm, cung cấp thông tin để chủ động điều tiết phù hợp.
+
+Hệ thống giám sát giao thông thông qua hệ thống camera đang thực hiện tại Trung tâm Quản lý đường hầm sông Sài Gòn
+
+Giai đoạn 2, sau năm 2020 sẽ hoàn thành Trung tâm Điều hành giao thông thông minh có quy mô toàn TP, với tổng vốn đầu tư 250 triệu USD. Khi hoàn thành, trung tâm này sẽ quản lý trực tiếp toàn bộ hệ thống điều khiển giao thông của TP HCM cũng như cung cấp các thông tin, dữ liệu, phục vụ cho việc xử lý các vi phạm, xử lý các sự cố… Việc xây dựng Trung tâm Điều hành giao thông thông minh TP HCM để quản lý và điều hành toàn bộ hệ thống giao thông của TP là một trong những giải pháp, nhiệm vụ trọng tâm mà Thành ủy, UBND TP đã đặt ra và được đưa vào Chương trình giảm ùn tắc giao thông, giảm tai nạn giao thông giai đoạn 2016-2020 của TP.

@@ -1,0 +1,31 @@
+Camera AI là giải pháp công nghệ đột phá, giúp tự động hóa việc xử phạt vi phạm và hướng tới mạng lưới giám sát toàn diện nhằm nâng cao ý thức và an toàn giao thông.
+
+Chỉ nửa ngày thí điểm, 2 camera AI lắp đặt tại một tuyến đường ở TP Hà Nội đã phát hiện gần 1.800 trường hợp vi phạm giao thông - một con số khiến nhiều người ngỡ ngàng.
+
+Hiệu quả tức thì
+
+Theo Cục Cảnh sát giao thông (CSGT) - Bộ Công an, kết quả thí điểm sau nửa ngày (từ 0 giờ đến 12 giờ ngày 24-9) với 2 camera AI thế hệ mới nhất tại phố Phạm Văn Bạch, TP Hà Nội đã cho thấy hiệu quả rõ rệt. Hệ thống đã tự động phát hiện 343 trường hợp người điều khiển xe máy không đội mũ bảo hiểm; 1.452 trường hợp vượt đèn đỏ (1.339 xe máy, 113 ô tô) và 3 trường hợp xe máy đi ngược chiều.
+
+Cục CSGT cho biết các trường hợp vi phạm này sẽ được đối chiếu với hệ thống cơ sở dữ liệu đăng ký xe để xác minh chủ phương tiện. Sau khi được cán bộ Trung tâm Chỉ huy giao thông kiểm duyệt, hồ sơ sẽ được chuyển cho Công an TP Hà Nội để thực hiện các thủ tục xử phạt.
+
+Ghi nhận thực tế vào ngày 25-9 tại nút giao Phạm Văn Bạch cho thấy ý thức của người tham gia giao thông đã được nâng cao, hầu hết đều chấp hành nghiêm chỉnh. Ông Nguyễn Văn Chiến (trú tại phường Yên Hòa, TP Hà Nội) cho biết tình trạng vi phạm vốn xảy ra thường xuyên "như cơm bữa" tại đây đã giảm hẳn nhờ hệ thống camera AI.
+
+Camera AI lắp đặt trên đường Phạm Văn Bạch, TP Hà Nội
+
+Chuyên gia giao thông Khương Kim Tạo đánh giá camera AI là giải pháp giúp xử lý triệt để các lỗi là nguyên nhân trực tiếp gây tai nạn như vượt đèn đỏ, chạy quá tốc độ, đi vào đường cấm. Ông nhấn mạnh: "Việc ứng dụng AI trong nhận diện khuôn mặt còn giúp lực lượng chức năng xử lý được đúng người, đúng hành vi, qua đó sẽ nâng cao được ý thức tự giác chấp hành".
+
+Thiếu tướng Đỗ Thanh Bình, Cục trưởng Cục CSGT, cho biết thời gian tới, CSGT sẽ phối hợp lắp đặt hơn 5.000 camera giám sát trên các tuyến cao tốc, quốc lộ và đường đô thị. Bên cạnh đó, hệ thống AI đang được "huấn luyện" để nhận diện và ghi nhận vi phạm không thắt dây an toàn của người ngồi trên ô tô để làm căn cứ xử phạt.
+
+Khó "lọt lưới" hệ thống giám sát AI
+
+Theo đại diện Cục CSGT, cục đang phát triển hệ thống giám sát và xây dựng các Trung tâm Chỉ huy giao thông hiện đại tại Bộ Công an, TP Hà Nội và TP HCM. Hệ thống này sẽ tích hợp dữ liệu từ camera AI mới, camera truyền thống và cả camera do người dân cung cấp, sau đó sử dụng AI để tổng hợp và phân tích.
+
+Hoạt động của Trung tâm Chỉ huy giao thông được ví như một "khoa cấp cứu", luôn có người túc trực để phát hiện và xử lý sự cố, tai nạn một cách nhanh chóng và hiệu quả nhất. Hiện tại, hệ thống "mắt thần" này đã được triển khai tại TP Hà Nội, TP HCM và trên 4 tuyến cao tốc trọng điểm: Nội Bài - Lào Cai, Đà Nẵng - Quảng Ngãi, TP HCM - Long Thành - Dầu Giây và TP HCM - Trung Lương.
+
+Với cơ chế này, Trung tâm Chỉ huy giao thông có thể tự động nhận diện vi phạm giao thông, hành vi gây rối hay truy vết hành trình xe tình nghi mà không cần lực lượng CSGT phải chặn bắt xe trực tiếp trên đường. Hiện tại, AI đã có thể nhận diện được khoảng 20 hành vi vi phạm phổ biến của cả ô tô lẫn xe máy và đang tiếp tục được phát triển thêm.
+
+Khi phát hiện vi phạm, hệ thống camera AI sẽ tự động trích xuất hình ảnh làm bằng chứng, xác định chủ phương tiện qua dữ liệu đăng ký xe và tạo hồ sơ điện tử. Dựa vào dữ liệu này, lực lượng CSGT sẽ gửi thông báo vi phạm tới chủ xe nhanh chóng qua ứng dụng VNeTraffic.
+
+Mở rộng mạng lưới camera AI Đại diện Trung tâm Quản lý Điều hành giao thông đô thị - Sở Xây dựng TP HCM cho biết từ cuối năm 2024, hệ thống camera giám sát hành vi với 31 thiết bị tích hợp AI đã được đầu tư lắp đặt và đưa vào sử dụng tại một số tuyến đường như Điện Biên Phủ, Pasteur, Nguyễn Thị Minh Khai và một số tuyến khác trên địa bàn TP Thủ Đức, quận 12. Khác với camera thông thường, hệ thống camera AI này có khả năng phân tích, nhận diện biển số và tự động phát hiện các hành vi vi phạm. "Qua thời gian thí điểm, tình hình giao thông tại một số nút giao trọng điểm như Hàng Xanh, ngã năm Đài Liệt sĩ đã cơ bản ổn định. Sắp tới, trên cơ sở đề xuất của Phòng CSGT - Công an TP HCM, Trung tâm Quản lý Điều hành giao thông đô thị sẽ phối hợp khảo sát, báo cáo Sở Xây dựng để đề xuất lắp đặt bổ sung tại các khu vực có tình hình trật tự an toàn giao thông phức tạp như xung quanh bệnh viện, trường học…" - đại diện Trung tâm Quản lý Điều hành giao thông đô thị cho hay. Th.Hồng
+
+Hàng ngàn camera AI giám sát an ninh, giao thông Tại TP Hà Nội, Công an thành phố quản lý trên 720 camera các loại phục vụ công tác bảo đảm an ninh trật tự. Bên cạnh đó, đơn vị đang triển khai 4 dự án camera giám sát với khoảng 3.700 camera có ứng dụng AI để nâng cao hơn nữa hiệu quả công tác bảo đảm an ninh trật tự, quản lý điều hành giao thông. Các hệ thống camera này có nhiều tính năng hiện đại như: quay quét 360 độ, nhận diện rõ sự vật, hiện tượng, đối tượng ở khoảng cách xa 500 - 700 m; hoạt động trong mọi điều kiện thời tiết, môi trường khắc nghiệt; có các tính năng cảnh báo tụ tập đám đông, nhận diện đối tượng. Bên cạnh đó, camera AI phục vụ quản lý giao thông đô thị thông minh, tự động điều chỉnh hệ thống đèn tín hiệu giao thông theo thời gian thực; có thể tạo hiệu ứng "làn sóng xanh"; tự động nhận diện, cập nhật các phương tiện vi phạm trên hệ thống; cảnh báo về vi phạm môi trường, vỉa hè..., hướng đến hạn chế thấp nhất lực lượng CSGT phải trực tiếp chỉ huy giao thông. Công an TP Hà Nội đang tiếp tục triển khai hệ thống camera tích hợp AI thứ 2 với tổng số 1.837 chiếc.

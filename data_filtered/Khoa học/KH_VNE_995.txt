@@ -1,0 +1,23 @@
+Nhóm nghiên cứu EDABK của Đại học Bách khoa Hà Nội nghiên cứu, thiết kế và chế tạo thử nghiệm thành công chip trí tuệ nhân tạo (AI) thế hệ mới lấy cảm hứng từ cách thức hoạt động của bộ não con người.
+
+Chip EDABK-Brain do nhóm phát triển đã giành giải Nhất cuộc thi thiết kế chip quốc tế Silicon Design Challenge lần thứ 3, do hãng eFabless tổ chức và Google đồng tài trợ năm 2024.
+
+PGS Nguyễn Đức Minh, trưởng nhóm nghiên cứu cho biết, ý tưởng cốt lõi là mô phỏng cấu trúc hoạt động của bộ não để thiết kế thế hệ chip AI mới, nhằm giảm thiểu năng lượng tiêu thụ. Các hệ thống AI hiện đại như GPT của OpenAI cần tới hàng chục nghìn GPU để huấn luyện, tiêu tốn lượng điện năng khổng lồ. Trong khi đó, bộ não con người chỉ tiêu thụ khoảng 20W mà vẫn xử lý thông tin phức tạp hiệu quả. "Chúng tôi muốn học theo cơ chế này để tối ưu hóa hiệu năng chip AI", PGS Minh nói.
+
+Chip AI thế hệ mới EDABK-Brain. Ảnh: NVCC
+
+Kiến trúc chip truyền thống dựa trên mô hình Von Neumann, với sự phân tách giữa bộ nhớ và bộ xử lý. Tuy nhiên, nhóm nghiên cứu của Đại học Bách khoa áp dụng kiến trúc "in-memory computing" (tính toán ngay tại bộ nhớ), giúp phần tử tính toán và bộ nhớ nằm gần nhau. Kiến trúc này mô phỏng mạng neuron dạng xung, tương tự hoạt động của hệ thần kinh sinh học, giúp tăng tốc xử lý và giảm thiểu tiêu hao năng lượng.
+
+Bên cạnh việc ứng dụng kiến trúc mới, nhóm còn tận dụng trí tuệ nhân tạo để hỗ trợ thiết kế chip. TS Hoàng Phương Chi, thành viên nhóm nghiên cứu, cho biết: "nhóm sử dụng các công cụ AI, bao gồm cả ChatGPT, để tối ưu hóa quá trình thiết kế, giúp rút ngắn thời gian phát triển từ ý tưởng đến sản phẩm hoàn thiện chỉ trong 12 ngày". Tuy nhiên, TS Chi nhấn mạnh để đạt được thành quả này, nhóm đã có hơn ba năm nghiên cứu nền tảng, bắt đầu từ năm 2020 và công bố công trình đầu tiên tại hội thảo khoa học châu Âu vào năm 2021.
+
+Chip EDABK-brain do nhóm phát triển có quy mô nhỏ hơn so với các sản phẩm thương mại của IBM hay Intel. Nó được chế tạo trên tiến trình 130 nm với 256 nơ-ron và 65.000 khớp nối thần kinh, trong khi các chip tiên tiến nhất hiện nay đạt tới hàng triệu nơ-ron. Dù còn hạn chế về quy mô, nhưng theo PGS Nguyễn Đức Minh, đây là bước khởi đầu quan trọng, đặt nền tảng cho các nghiên cứu tiếp theo.
+
+Nhóm nghiên cứu đo thử chip tại phòng thí nghiệm. Ảnh: NVCC
+
+Hiện nay, các tập đoàn lớn như IBM và Intel cũng đang theo đuổi hướng phát triển chip AI lấy cảm hứng từ bộ não. Tuy nhiên, nhóm của Đại học Bách khoa Hà Nội tập trung vào xây dựng hệ thống mở hoàn toàn (open-source), bao gồm cả công cụ thiết kế, tổng hợp và huấn luyện mô hình. Đây là yếu tố giúp nhóm giành giải thưởng tại cuộc thi thiết kế chip quốc tế.
+
+PGS Nguyễn Đức Minh cho biết, chip có thể tích hợp vào các thiết bị đeo thông minh như kính thực tế tăng cường (AR), máy đo điện tim, điện não nhằm phát hiện sớm các bất thường sinh học. Nhờ tiêu thụ ít năng lượng, chip có thể hoạt động lâu dài mà không cần nguồn cung cấp lớn.
+
+Hiện tại, nhóm tiếp tục nghiên cứu, phát triển các phiên bản chip AI tiên tiến hơn, góp phần vào xu hướng toàn cầu trong xây dựng các hệ thống tính toán tiết kiệm năng lượng và có khả năng xử lý các tác vụ AI phức tạp tại biên (Edge AI) - tức là xử lý thông tin ngay tại thiết bị mà không cần máy chủ trung tâm, giúp phản hồi nhanh hơn nhưng tiêu thụ năng lượng thấp.
+
+Nhật Minh

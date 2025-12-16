@@ -1,0 +1,20 @@
+ Báo động nghiêm trọng về lỗ hổng WMF của Windows
+
+Trong phát biểu trên các phương tiện thông tin ngày thứ tư vừa rồi, Symantec nói rằng một số lượng lớn các đoạn mã chương trình bao gồm cả sâu (một loại virus), được phát hiện là đang tận dụng lỗ hổng bảo mật này của Windows qua rất nhiều phương tiện trung gian như web, thư điện tử và tin nhắn trực tuyến. 
+
+Bởi vì bản vá chính thức sẽ không thể có mặt trước ngày 10-1-2006, cho nên, Symantec phải công bố báo động cấp 3 lần thứ hai trong 18 tháng trở lại đây đối với lỗ hổng bảo mật này. Lần gần nhất là trước sự xuất hiện của virus Mydoom.M . 
+
+Một số khuyến cáo đối với tất cả mọi người sử dụng Internet được truyền đi trên mạng, tránh bị những thiệt hại không đáng có : 
+
+1. Cẩn thận khi làm việc với các tập tin .wmf, theo dõi kỹ mọi động thái của máy khi làm việc. 
+
+2. Tắc các chương trình preview (xem trước) trong các trình e-mail (như Outlook, Pegasus...), đồng thời cài đặt các chương trình để theo dõi những hoạt động không bình thường của máy tính. 
+
+3. Nếu có thể cập nhật các bản vá không chính thức (không phải của Microsoft) để phòng tránh trong trường hợp bất khả kháng. 
+
+4. Phải hết sức cẩn trọng khi duyệt những trang web không đáng tin cậy, nhất là những trang web đã duyệt trong thời gian một tuần vừa qua. 
+
+Lỗ hổng bảo mật này được phát hiện vào tuần trước, hiện đang bị tấn công hàng loạt. Theo báo cáo của F-secure thì 99% máy tính trên toàn thế giới đều có lỗ hổng này. F-Secure và Internet Storm Center đều khuyến cáo người dùng cài đặt các bản vá không chính thức... 
+
+
+

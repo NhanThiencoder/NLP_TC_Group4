@@ -1,0 +1,31 @@
+Hệ thống camera được lắp đặt trên đường Phạm Văn Bạch (Hà Nội) - Ảnh: HỒNG QUANG
+
+Tự động nhận diện thông qua những hình ảnh rất sắc nét
+
+Thông tin "Hà Nội bắt đầu lắp camera AI phạt nguội, nửa ngày phát hiện 1.798 vi phạm" nhận được nhiều sự quan tâm của người dân. Trong đó hầu hết các ý kiến cho rằng có camera Al sẽ giúp ý thức đi đường của tài xế tốt hơn, văn minh và giảm áp lực cho cảnh sát giao thông.
+
+Thông tin với Tuổi Trẻ Online chiều 26-9, đại diện Cục Cảnh sát giao thông (Bộ Công an) cho biết hiện đơn vị đang thí điểm lắp đặt khoảng 10 camera trên các tuyến giao thông của nội đô Hà Nội và một số cao tốc.
+
+Tới đây hàng ngàn camera như thế này sẽ được lắp đặt trên toàn quốc.
+
+Hiện nay có nhiều loại camera giám sát, xử lý vi phạm giao thông. Thực hiện đề án hướng tới hiện đại hóa lực lượng, Cục Cảnh sát giao thông sẽ ứng dụng khoa học công nghệ để tận dụng toàn bộ các dữ liệu có được từ hệ thống camera hiện hành.
+
+Các camera đời cũ hơn sẽ được tận dụng hình ảnh ghi nhận, sau đó sẽ sử dụng AI để huấn luyện, nhận diện vi phạm.
+
+Đối với các camera mới có tích hợp sẵn trí tuệ nhân tạo (camera AI), sẽ có nhiều tính năng tự động nhận diện thông qua những hình ảnh rất sắc nét. Đây là phương tiện hỗ trợ đắc lực cho lực lượng cảnh sát giao thông.
+
+"Các camera hiện hành vẫn được tận dụng sử dụng, không phải thay thế. Các camera AI mới sẽ được lắp thêm trên các tuyến đường", đại diện Cục Cảnh sát giao thông nói.
+
+Camera AI trên cao tốc Nội Bài - Lào Cai có thể nhận diện rõ bên trong tài xế không thắt dây an toàn - Ảnh: Công an cung cấp
+
+Có thể đo tốc độ xe chạy, đo đếm lưu lượng xe để cảnh báo ùn tắc...
+
+Về tính năng, ngoài tự động phát hiện vi phạm, các camera AI thế hệ mới còn có thể đo tốc độ xe chạy; đo đếm lưu lượng xe để cảnh báo ùn tắc, điều chỉnh chu kỳ đèn giao thông; tự động phát hiện tai nạn giao thông và cảnh báo đến trung tâm chỉ huy để điều phối lực lượng tới giải quyết...
+
+Ngoài ra, trí tuệ nhân tạo trong camera AI còn có thể được huấn luyện để phát hiện các hành vi mang tính chất định tính như: Không đội mũ bảo hiểm, không chấp hành hiệu lệnh đèn tín hiệu, không chấp hành vạch kẻ đường, đi sai làn, chuyển làn không có tín hiệu báo rẽ, đi ngược chiều, dừng đỗ xe không đúng nơi quy định…
+
+Các camera AI còn có thể nhận diện biển số xe, màu sắc, chủng loại phương tiện liên tục để truy vết; từ đó tra cứu đối soát với cơ sở dữ liệu về đăng ký xe để phát hiện nếu xe có dấu hiệu bất minh.
+
+"Ngay cả khi tài xế cố tình dán, che biển số thì camera AI cũng có tính năng tự động nhận diện và cảnh báo tới lực lượng làm nhiệm vụ tại địa điểm gần nhất để xử lý", theo đại diện Cục Cảnh sát giao thông.
+
+Sẽ gửi thông báo chỉ sau 2 tiếng vi phạm Đại diện Cục Cảnh sát giao thông cho biết các vi phạm ghi nhận từ hệ thống camera sẽ trực tiếp truyền về trung tâm chỉ huy. Từ đây, trên cơ sở dữ liệu đăng ký xe và cơ sở dữ liệu quốc gia về dân cư, sẽ tự động xác định được chủ xe. Trước khi gửi thông báo vi phạm, cán bộ cảnh sát giao thông trực hệ thống sẽ lọc trực tiếp dữ liệu để đảm bảo tính chính xác. Tới đây, các vi phạm sẽ được gửi tới chủ xe thông qua hệ thống VNeTraffic, mục tiêu là chỉ sau 2 tiếng thực hiện hành vi, chủ xe đã nhận được thông báo. Lực lượng chức năng cũng sẽ kiểm soát chặt chẽ việc quản lý đăng ký xe, sang tên đổi chủ… để đảm bảo người vi phạm chấp hành nghiêm các chế tài phạt nguội.

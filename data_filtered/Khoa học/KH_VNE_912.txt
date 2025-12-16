@@ -1,0 +1,17 @@
+PhápĐội ngũ phụ trách xây dựng lò phản ứng ITER đang sử dụng các công cụ AI để tăng đáng kể tốc độ và độ chính xác trong quá trình lắp ráp.
+
+Lò ITER đang trong quá trình xây dưng. Ảnh: Innovation Newsnetwork
+
+Ở khu vực đông nam nước Pháp, một đội ngũ gồm 2.000 nhà vật lý, nhà khoa học và công nhân đang bận rộn xây dựng nhà máy nhiệt hạch lớn nhất thế giới mang tên Lò phản ứng Nhiệt hạt nhân Thử nghiệm Quốc tế (ITER). Mục tiêu của họ là đưa cơ sở vào hoạt động năm 2033 và một loạt công cụ trí tuệ nhân tạo (AI) đang được triển khai để hoàn thành công việc đòi hỏi độ chính xác cao ở quy mô chưa từng thấy, Interesting Engineering hôm 27/3 đưa tin.
+
+Phản ứng nhiệt hạch mô phỏng điều kiện của Mặt Trời để hợp nhất đồng vị hydro deuterium và tritium, hình thành heli đồng thời giải phóng năng lượng lớn. Phần lớn quá trình diễn ra trong khoang lò phản ứng có tên tokamak. Trong khoang hình bánh vòng này, nhiên liệu nhiệt hạch được nung tới trạng thái plasma nóng, nơi nhiệt độ cao gấp 10 lần lõi Mặt Trời, khiến phản ứng nhiệt hạch trở nên khả thi.
+
+Tại ITER, các nhà nghiên cứu đang làm việc để xây dựng lò tokamak lớn nhất thế giới nhằm nghiên cứu chi tiết quá trình phản ứng nhiệt hạch. Tuy nhiên, hoàn thành dự án này là một nhiệm vụ khổng lồ do quy mô xây dựng và số lượng bộ phận lớn, đòi hỏi sự trợ giúp của AI.
+
+Lò tokamak ở ITER sẽ được lắp ráp với 9 phần, 5 phần được chế tạo ở châu Âu, 4 phần sản xuất ở Hàn Quốc, trong khi Nga và Ấn Độ sẽ cung cấp một số linh kiện. Làm từ một loại thép không gỉ đặc biệt, những phần này sẽ được sắp xếp và hàn lại với nhau. Một loạt lượt quét siêu âm phức tạp sẽ đảm bảo mối hàn không bị lỗi. Quá trình tạo ra lượng dữ liệu cần phân tích cực lớn, vì vậy nhóm nghiên cứu đã xây dựng mô hình AI ở trình soạn thảo Visual Studio Code của Microsoft, nơi nhiều ngôn ngữ mã hóa có thể được dùng để thăm dò dữ liệu và tiết kiệm hàng giờ kiểm tra chất lượng và độ chính xác của mối hàn. Nhóm nghiên cứu cũng có thể sử dụng mô hình để xác định vật liệu cần dùng làm lớp lót lò khoang lò phản ứng từ bên trong.
+
+Nỗ lực cộng tác trong dự án ITER quy tụ hơn 30 nước, đòi hỏi hệ thống quản lý tài liệu tiêu chuẩn hóa trong hơn 20 năm. Hơn 1,5 triệu tài liệu được tạo ra trong suốt thời gian này, và việc tìm kiếm thông tin giống như "mò kim đáy bể". Vào quý I năm 2024, bộ phận Công cụ dự án IT ở ITER xây dựng một chatbox AI) để làm công việc này và cải tiến dần trong năm. Đầu năm nay, công cụ AI tóm tắt tài liệu và phân loại thông tin trong một cơ sở dữ liệu lớn. Lợi thế của việc này là người sử dụng có thể gửi yêu cầu tới cơ sở dữ liệu và thu lại phản hồi hữu dụng thay vì nhận những giải đáp khớp với từ khóa.
+
+Sử dụng công cụ từ OpenAI, chatbot hỗ trợ những câu hỏi bằng tiếng Trung Quốc, Hàn Quốc, Nhật Bản, Nga, Hindu và có thể tiếp cận bởi 120 đối tác của dự án. Do tài liệu ITER cũng chứa nhiều từ viết tắt, đội phát triển công cụ xây dựng một chatbox khác trả lời câu hỏi chuyên về vấn đề đó. Họ cũng làm việc để hệ thống tài liệu dễ ghép nối với các mô hình ngôn ngữ lớn khác, cho phép trao đổi luồng thông tin dễ dàng hơn.
+
+An Khang (Theo Interesting Engineering)

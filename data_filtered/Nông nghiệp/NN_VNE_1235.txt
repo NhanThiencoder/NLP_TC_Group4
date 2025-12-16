@@ -1,0 +1,27 @@
+Còn vài ngày trước hạn 1/10, hàng trăm nghìn xe đang dùng "tài khoản thu phí" của doanh nghiệp vẫn chưa thể chuyển đổi thành "tài khoản giao thông".
+
+Các tài khoản thu phí của chủ phương tiện buộc phải chuyển sang tài khoản giao thông trước 1/10, nếu không, sẽ không thể qua được trạm thu phí không dừng. Tuy nhiên, đến nay - chỉ còn cách thời hạn này vài ngày, hàng trăm nghìn xe vẫn khó chuyển đổi.
+
+Ôtô được dán thẻ thu phí không dừng ETC tại cao tốc TP HCM - Long Thành - Dầu Giây. Ảnh: Quỳnh Trần
+
+Theo đại diện VETC, đơn vị cung cấp dịch vụ thu phí không dừng, hầu hết khách hàng doanh nghiệp đều muốn thanh toán qua tài khoản ngân hàng của doanh nghiệp.
+
+Nhưng thực tế, tài khoản ngân hàng bản chất không phải một phương tiện thanh toán không dùng tiền mặt. "Phương tiện thanh toán", theo quy định của Ngân hàng Nhà nước, gồm séc, lệnh chi, ủy nhiệm chi, nhờ thu, ủy nhiệm thu, thẻ ngân hàng... Như vậy, tài khoản ngân hàng cần phải có ủy nhiệm chi mới có thể tự động thanh toán.
+
+Tuy nhiên, việc trừ phí thu không dừng trực tiếp từ tài khoản ngân hàng thông qua ủy nhiệm chi hiện chưa thể thực hiện bởi các rào cản kỹ thuật. Hiện tại, hệ thống thu phí điện tử không dừng phải xử lý giao dịch tức thời với thời gian thực - tốc độ xử lý không quá 200 ms (tức 0,2 giây) với tỷ lệ 99,7%. Trong khi đó, tốc độ kết nối với tài khoản của ngân hàng chậm hơn, chỉ đạt khoảng 50% nên không thể đáp ứng.
+
+Cùng với đó, doanh nghiệp hiện cũng chưa thể liên kết tài khoản giao thông với ví điện tử, như cách làm của các tài khoản giao thông cá nhân. Bởi theo VETC, đến nay, chưa có đơn vị trung gian thanh toán nào triển khai hình thức ví điện tử dành riêng cho doanh nghiệp.
+
+Một số giải pháp thay thế như thanh toán qua thẻ tín dụng đã được nghiên cứu, song mức phí hiện tại của ngân hàng và tổ chức thẻ còn khá cao (khoảng 2% mỗi giao dịch). Điều này khiến chi phí phát sinh lớn cho các doanh nghiệp vận tải có tần suất giao dịch thường xuyên.
+
+Một số doanh nghiệp cũng đề cập ý tưởng mở tài khoản ví riêng cho từng lái xe và chuyển tiền vào đó để thanh toán phí đường bộ. Tuy nhiên, cách làm này lại phát sinh nhiều hạn chế như doanh nghiệp không thể quyết toán thuế từ tài khoản cá nhân, khó kiểm soát dòng tiền nằm trong ví của từng lái xe. Cùng với đó, doanh nghiệp phải bố trí thêm đội ngũ kế toán để quản lý việc nạp tiền cho hàng loạt tài xế, làm tăng chi phí vận hành.
+
+Trước tình trạng này, VETC cho biết đang phối hợp chặt chẽ với Cục Đường bộ Việt Nam, Ngân hàng Nhà nước và các tổ chức trung gian thanh toán để xây dựng các tiêu chuẩn chung, cũng như tìm kiếm giải pháp khả thi cho doanh nghiệp.
+
+Công ty này đã kiến nghị với Ngân hàng Nhà nước xem xét chỉ đạo các ngân hàng, tổ chức trung gian thanh toán, thẻ giảm hoặc miễn phí dịch vụ giao dịch cho các giao dịch thu phí điện tử đường bộ. VETC cũng muốn các đơn vị tối ưu giải pháp kỹ thuật để đáp ứng yêu cầu xử lý nhanh, an toàn, chính xác cho mỗi lượt xe qua trạm.
+
+Từ 1/10, xe thuộc tài khoản doanh nghiệp vẫn sử dụng tài khoản thu phí của VETC, ePass để qua trạm như hiện tại. Hai bên cho biết đang phối hợp với các trung gian thanh toán, cơ quan quản lý xây dựng giải pháp thanh toán phù hợp cho khách hàng doanh nghiệp. Các đơn vị cho biết sẽ sớm thông báo tới khách hàng doanh nghiệp khi có thông tin chính thức.
+
+Theo thống kê của Cục Đường bộ, đến ngày 25/9, 3 triệu tài khoản giao thông đã kết nối với phương tiện thanh toán không dùng tiền mặt trong số hơn 5,8 triệu xe trên cả nước. Khoảng 900.000 trong tổng số 2,8 triệu tài khoản chưa chuyển đổi có phát sinh giao dịch trong tháng 9. Các tài khoản giao thông cá nhân chưa chuyển đổi đến nay cũng gặp vướng mắc liên kết với tài khoản ngân hàng hoặc chưa quan tâm, chưa có nhu cầu lưu thông qua trạm thu phí.
+
+Anh Tú

@@ -1,0 +1,69 @@
+TTCT - Các nghiên cứu về hệ thống giao thông toàn cầu cho thấy một nghịch lý là những nỗ lực giảm ùn tắc giao thông lại gây thêm ùn tắc. Nhưng những cách làm truyền thống từ trước đến giờ hoàn toàn có thể được cải thiện nhờ hệ thống giao thông thông minh.
+
+Một mô hình mô phỏng hệ thống giao thông thông minh
+
+Ùn tắc giao thông mang lại những tổn thất rất lớn: chi phí hạ tầng đắt đỏ, mất năng suất lao động, ô nhiễm không khí, lãng phí nhiên liệu và sự bực bội cho những người tham gia giao thông.
+
+Các đô thị lớn ở Việt Nam, đặc biệt là Hà Nội và TP.HCM - đối mặt với vấn đề ùn tắc giao thông nhiều năm qua, đã và đang nỗ lực giải quyết bằng các giải pháp khác nhau như xây dựng cầu vượt, đường vành đai, hạn chế và điều tiết giao thông (bao gồm cả hạn chế taxi trên một số tuyến phố vào các giờ nhất định), thu phí đỗ xe, thu hẹp không gian đỗ xe, thiết lập các tuyến đường thu phí đường bộ.
+
+Nhưng tất cả thường chỉ có hiệu quả trong thời gian ngắn, bởi cùng với sự phát triển theo cấp số nhân của các đô thị, sự xuất hiện ngày càng nhiều doanh nghiệp khởi nghiệp và sự phát triển của các ngành công nghiệp, khả năng quản lý giao thông ngày càng hạn chế.
+
+Nhìn lại một vài giải pháp gần đây
+
+Xây dựng đường sắt đô thị được coi là một giải pháp mới, chẳng hạn hệ thống tàu điện ngầm ở TP.HCM nhằm giải quyết giao thông từ khu vực ngoại ô vào nội thành. Tàu điện ngầm đúng là một giải pháp nhưng cũng chính là một nguyên nhân gây ra ùn tắc giao thông.
+
+Để đi tàu điện ngầm, người dân vẫn phải sử dụng phương tiện cá nhân để đi đến ga tàu. Nghĩa là chính quyền thành phố phải dành một phần lớn quỹ đất liền kề khu vực nhà ga để xây dựng các bãi đỗ xe cho hành khách đi tàu. Khi tàu điện ngầm trở thành phương tiện được nhiều người lựa chọn cũng có nghĩa là các bãi đỗ xe này sẽ lại chật ních khiến rất nhiều người phải quay trở lại sử dụng ôtô, xe máy vì không tìm được chỗ đỗ xe.
+
+Việc mở thêm bãi đỗ xe cũng là một vấn đề: giá đất khu vực xung quanh ga tàu điện ngầm sẽ bị đẩy lên cao, biến khu đất trở thành một điểm hấp dẫn cho các dự án cao cấp chứ không phải là bãi đỗ xe và các dịch vụ công nữa. Ở Washington, người dân phải chờ hàng năm để có thể đến lượt đăng ký một chỗ đỗ xe trong bãi của ga tàu điện ngầm, trong thời gian chờ đợi đó họ đâu còn lựa chọn nào khác là lại phải sử dụng xe hơi.
+
+Một giải pháp khác là phát triển mô hình cụm liên kết (Cluster) gồm các yếu tố dân sinh, doanh nghiệp, nhà ở và các tiện ích khác để người dân có thể sống và làm việc ở trong cùng một khu vực mà không cần phải di chuyển xa.
+
+Để các cụm liên kết này có thể hoạt động một cách kinh tế, các nhà đầu tư cho xây dựng các tòa cao ốc với trung tâm mua sắm lớn, văn phòng và các dịch vụ. Tuy nhiên, thực tế là các cụm liên kết này không lâu sau đó sẽ trở thành nam châm thu hút cư dân từ các khu vực khác trong thành phố, và thế là lại không tránh khỏi ùn tắc giao thông.
+
+Ở khu vực mới đang phát triển của Hà Nội là quận Cầu Giấy, hai cao ốc của Indochina Plaza với một số lượng lớn các căn hộ cao cấp, văn phòng cho thuê, trung tâm thương mại và nhà hàng lại nằm ngay ngã tư của hai tuyến đường cao tốc chính cùng tuyến đường cao tốc trên cao, sát Đại học Quốc gia. Hậu quả là ùn tắc giao thông vốn có ở khu vực này càng trở nên tồi tệ.
+
+Một giải pháp nữa là khiến cho chi phí mua và duy trì ôtô thật đắt để người dân bỏ ý định sở hữu ôtô (Việt Nam trở thành một trong những quốc gia có giá ôtô đắt nhất thế giới).
+
+Nhưng theo một nghiên cứu mới đây của ĐH Quốc gia Singapore, việc tăng giá xe ôtô không khiến việc đi lại bằng loại phương tiện này giảm đi: những người có điều kiện kinh tế cho rằng giá xe cao thì việc sở hữu một chiếc xe càng chứng tỏ tiềm lực tài chính mạnh, còn với các công ty thì ôtô đắt tiền cũng chính là chi phí kinh doanh và tất nhiên chi phí mua xe công chính là từ tiền thuế của người dân.
+
+Công nghệ thông tin có phải là giải pháp?
+
+Chính phủ rõ ràng là không thể ngừng các hoạt động như xây dựng đường cao tốc, hạn chế lưu thông giao thông, cung cấp các hệ thống giao thông công cộng, khuyến khích phát triển cụm liên kết hoặc áp giá ôtô. Tuy nhiên, theo những nghiên cứu đã thực hiện ở Mỹ và châu Âu, các phương pháp này không chỉ gây thêm ùn tắc về lâu dài mà còn rất tốn kém. Vậy mỗi quốc gia phải làm thế nào để có thể phát triển một hệ thống giao thông ít ùn tắc?
+
+Nhiều chuyên gia đang cân nhắc sử dụng các hệ thống giao thông thông minh (ITS). London đã thành công trong việc sử dụng các ITS để giảm lượng giao thông xuống bằng ngưỡng của những năm 1980. Một số thành phố ở Việt Nam đã bắt đầu thí điểm thực hiện giải pháp này.
+
+Vậy các ITS hoạt động như thế nào?
+
+Bằng việc sử dụng công nghệ thông tin tiên tiến, các phương tiện giao thông thông minh, cấu trúc hạ tầng thông minh nhận và gửi thông tin thông qua các bộ cảm biến, bộ dò, camera giám sát, thiết bị giám sát trên không, rađa và vệ tinh để hỗ trợ việc quản lý hệ thống giao thông và người đang điều khiển phương tiện giao thông. Chẳng hạn, nhiều thành phố đã sử dụng máy quay video để điều khiển giao thông (dù việc này không hiệu quả vào ban đêm, trong điều kiện thời tiết xấu), thực hiện kết hợp máy quay video có bộ cảm biến nhiệt không bị ảnh hưởng bởi điều kiện ánh sáng...
+
+Người điều khiển phương tiện giao thông (ôtô, xe tải, xe buýt và xe máy) nhận được các tin nhắn trên máy tính hoặc các thiết bị cầm tay thông báo về các vụ tai nạn, các tình huống khẩn cấp, các điểm tắc nghẽn giao thông, thời gian đi lại, các tuyến đường lựa chọn... Các thông tin này giúp người điều khiển phương tiện đưa ra quyết định tốt hơn cho hành trình của mình.
+
+Cơ quan quản lý hạ tầng giao thông (cầu, đường, ga tàu, đường tàu, đèn hiệu giao thông, bãi đỗ xe, trạm thu phí, trực thăng giám sát giao thông...) nhận thông tin từ hệ thống này, sử dụng các thông tin đó để điều khiển hệ thống giao thông bằng cách thay đổi thời gian biểu của các đèn hiệu giao thông, đưa các thông báo lên bảng điện tử hoặc biển báo, phát các thông báo trên sóng phát thanh, mở hoặc đóng các tuyến đường và làn đường, điều xe cấp cứu, ứng phó tình huống tai nạn...
+
+Thực tế chính máy tính chứ không phải con người đang đưa ra hầu hết quyết định để điều khiển hệ thống giao thông.
+
+Các phương tiện giao thông bao gồm cả xe máy và các phương tiện giao thông công cộng (xe buýt và tàu điện) có thể trao đổi thông tin trong toàn hệ thống. Các cơ quan luật pháp và các dịch vụ khẩn cấp đều được lồng ghép trong hệ thống này. Ở châu Âu, hệ thống điện thoại cấp cứu tự động “eCall” được trang bị trên các phương tiện giao thông công cộng để ngay khi tai nạn xảy ra, hệ thống này sẽ được kích hoạt tự động đến tổng đài để thông báo địa điểm xảy ra tai nạn và yêu cầu dịch vụ cấp cứu.
+
+Ở Stockholm, tất cả taxi đều được trang bị các hệ thống định vị toàn cầu GPS để phản hồi lập tức đến trung tâm điều khiển giao thông, người dân cũng trang bị thiết bị này cho mọi phương tiện giao thông... ITS của Singapore có thể dự báo tốc độ trong thành phố chính xác đến 90%. Theo báo cáo của các cơ quan quản lý giao thông toàn cầu, ITS đã tạo bước đột phá trong việc lập kế hoạch cho các phương tiện giao thông công cộng.
+
+Trên hệ thống đường cao tốc, người điều khiển giao thông có thể cho đóng các làn đường để hỗ trợ giao thông giờ cao điểm. Các tuyến đường thu phí giao thông có thể áp dụng hệ thống thu phí điện tử để các phương tiện đảm bảo tốc độ khi qua trạm thu phí. Các trạm thu phí trên tuyến đường cao tốc Thăng Long - Nội Bài đang áp dụng công nghệ này.
+
+Các phương tiện được trang bị hệ thống ngăn ngừa va chạm giúp tài xế phát hiện các điều kiện lái xe không an toàn. Google đã rất thành công trong việc sản xuất dòng ôtô không người lái, hoàn toàn dùng máy tính điều khiển. Các phương tiện giao thông công cộng - xe buýt và tàu điện - đều có hệ thống định vị đối tượng tự động để giúp sắp xếp lịch xe. Các xe tải có thể kết nối với các trạm điều hành để thuận lợi trong việc kiểm tra xe định kỳ.
+
+Mục đích của ITS là để liên kết các hệ thống vốn tách rời nhau vào cùng một hệ thống tích hợp chung. Công nghệ không bao giờ dừng lại ở bề nổi của vấn đề.
+
+Các cách làm truyền thống hoàn toàn có thể được tăng cường nhờ ITS. Ví dụ như ở Stockholm, người ta đã cho đặt các bộ cảm biến tại những điểm giao thông quan trọng khắp thành phố. Khi tình trạng ùn tắc ở một điểm nào đó trở nên nghiêm trọng, hệ thống sẽ xác định được các ôtô đang có mặt, sau đó chủ phương tiện sẽ nhận được thông báo nộp phí ùn tắc.
+
+Tương lai sẽ thế nào? Giả sử bạn đang lái xe đến ga tàu điện ngầm nhưng lại không rõ liệu còn chỗ trong bãi đỗ xe hay không, tàu hôm nay có chạy đúng giờ không, đi xe buýt có tốt hơn không, hoặc có nên lái xe vào nội thành luôn không?
+
+Các hệ thống thông tin này hiện còn tách rời nhưng chúng hoàn toàn có thể được tích hợp trên cùng một màn hình máy tính hoặc các thiết bị khác ngay trên xe (gọi chung là “Internet of things” - có thể hiểu là một thế giới mà các thiết bị thông minh giao tiếp được với nhau thông qua một mạng thông tin).
+
+Rất nhiều phương tiện giao thông đã được trang bị hệ thống định vị toàn cầu GPS. GPS có thể chỉ dẫn cho tài xế thay đổi hành trình do có tai nạn trên đường hoặc do đường đang phải sửa. Thông tin về việc thay đổi tuyến đường như vậy có thể được ngay lập tức gửi về trung tâm, sau đó được chuyển qua các thiết bị GPS trên các phương tiện khác.
+
+Ủy ban châu Âu đã ban hành tiêu chuẩn yêu cầu các hãng sản xuất ôtô trang bị các hệ thống trao đổi thông tin xe với xe (vehicle-to-vehicle) và xe với cấu trúc hạ tầng (vehicle-to-infrastructure).
+
+Tuy nhiên, tại sao chúng ta chỉ dừng lại ở các ITS? Việc xây dựng hệ thống truyền tải năng lượng thông minh - gồm cả sản xuất, truyền tải và phân phối - vẫn đang được tiến hành. Nước, môi trường, truyền thông, hàng không, mọi lĩnh vực khác đều đang được đưa vào hệ thống quản lý thông minh.
+
+Trong tương lai không xa, tất cả hệ thống này, bao gồm các ITS, sẽ được tích hợp với nhau. Có thể kể tên hai công nghệ hiện đại nhất hiện nay là Smart Planet của IBM và Smart Cities của Cisco Systems.
+
+(*): PhD, viện sĩ hàn lâm - Học viện Hành chính quốc gia Hoa Kỳ.

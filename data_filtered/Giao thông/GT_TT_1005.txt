@@ -1,0 +1,35 @@
+Đây được xem là bước tiến quan trọng trong việc triển khai kế hoạch thu phí tự động không dừng, được dự báo là sẽ mang lại lợi ích to lớn trong tương lai gần.
+
+Tiết kiệm tiền, tăng minh bạch
+
+Bộ Giao thông vận tải mới đây đã ban hành quyết định công bố danh mục dự án thu phí tự động không dừng và kiểm soát tải trọng xe trên toàn quốc - giai đoạn I, áp dụng đối với Quốc lộ 1 và đường Hồ Chí Minh đoạn qua Tây Nguyên.
+
+Trong bối cảnh giao thông thông minh hiện nay đang được áp dụng trên toàn thế giới, việc Bộ Giao thông vận tải quyết định áp dụng hệ thống thu phí tự động không dừng trên Quốc lộ 1 và đường Hồ Chí Minh đoạn qua Tây Nguyên được xem là một bước ngoặt quan trọng trong tiến trình công nghệ hóa hoạt động quản lý, vận hành giao thông tại Việt Nam.
+
+Hiện nay, trên các quốc lộ cả nước hầu hết đều áp dụng công nghệ thu phí một lần dừng, công nghệ này cần phải huy động một lượng lớn nhân lực thực hiện các công việc, trong khi hiệu quả lại không cao. Chính vì vậy, Bộ Giao thông vận tải đã lựa chọn công nghệ thu phí không dừng để tiếp cận công nghệ tốt nhất hiện có nhằm khắc phục các tồn tại nêu trên.
+
+Bộ Giao thông vận tải đã tổ chức nghiên cứu, tham khảo, so sánh với nhiều công nghệ khác nhau để đưa ra thống nhất lựa chọn công nghệ thu phí RFID của Mỹ.
+
+Theo tính toán của các chuyên gia, mỗi lần dừng xe nộp phí sẽ làm chậm hành trình của các phương tiện từ 2-3 phút, tăng thời gian lưu thông từ 4-5% và tiêu tốn thêm 7-8% nhiên liệu khi lưu thông trên đường cao tốc. Nếu thu phí không dừng sẽ giúp tiết kiệm chi phí in vé giấy khoảng 70 tỉ đồng/năm, tiết kiệm nhiên liệu 233 tỉ đồng/năm; giảm thời gian tham gia giao thông 2.800 tỉ đồng/năm, tiết kiệm chi phí quản lý giao thông 360 tỉ đồng/năm…
+
+Ngoài ra, thu phí tự động không dừng còn tăng tính minh bạch trong quản lý, giảm ô nhiêm môi trường, hao mòn phương tiện, giảm thanh toán bằng tiền mặt, cung cấp thông tin cho công tác quy hoạch, quản lý Nhà nước…
+
+Thực tế áp dụng công nghệ này tại Đài Loan cho thấy cả các chủ phương tiện, các trạm thu phí lẫn cơ quan quản lý Nhà nước đều được hưởng lợi.
+
+Áp dụng đồng bộ trên toàn quốc
+
+Theo dự thảo tờ trình của Bộ Giao thông vận tải, về nguyên tắc chuyển đổi sang việc thu phí từ bằng tay sang hình thức tự động không dừng phải bảo đảm không làm tăng mức phí sử dụng đường bộ mà chủ phương tiện phải trả, bảo đảm quyền thụ hưởng phí của các chủ đầu tư và hỗ trợ việc quản lý Nhà nước về giao thông.
+
+Sau khi nghiên cứu kinh nghiệm quốc tế và các điều kiện thực tiễn của Việt Nam, Bộ Giao thông vận tải dự kiến sẽ lựa chọn mô hình thu phí tự động không dừng chung, thống nhất cho tất cả các phương tiện giao thông thuộc diện chịu phí và các trạm thu phí trên toàn quốc. Việc điều hành, quản lý tài khoản và thu phí sẽ được tiến hành chung thông qua một hệ thống điều hành và cơ sở dữ liệu trung tâm.
+
+Về lộ trình thực hiện, sẽ không quy định thời hạn cuối cùng chủ phương tiện phải thực hiện gắn thiết bị, theo đó việc gắn thiết bị sẽ kéo dài ít nhất 30 tháng theo định kỳ đăng kiểm. Trong thời gian này, vẫn duy trì hình thức thu phí bằng tiền mặt.
+
+Để việc thu phí tự động không dừng được xây dựng đồng bộ trên toàn quốc, bảo đảm vận hành liên tục, nhanh chóng, chính xác, hiệu quả và an toàn, Bộ Giao thông vận tải cũng sẽ xây dựng một quy chuẩn kỹ thuật quốc gia về trạm thu phí tự động không dừng áp dụng cho tất cả các dự án đang và sẽ triển khai.
+
+Đối với các dự án đã được ký kết, chủ đầu tư và cơ quan Nhà nước có thẩm quyền sẽ phải tiến hành đàm phán điều chỉnh hợp đồng dự án tương ứng với việc thay đổi thiết kế, cải tạo và vận hành trạm thu phí tự động không dừng.
+
+Bên cạnh hệ thống thu phí không dừng, Bộ Giao thông vận tải cũng nghiên cứu áp dụng công nghệ cân xe tự động cảm biến thạch anh thay thế cho hệ thống cân tĩnh đang được sử dụng hiện nay. Công nghệ này được đánh giá phù hợp với nhiều loại hình thái thời tiết, tốc độ xe có thể dao động từ 1-230km/h, độ chính xác lên tới 98%.
+
+Khi xe đi qua hệ thống cân tự động này, thông tin về tải trọng phương tiện quá tải sẽ được hiển thị ngay trên bảng điện tử VMS đặt bên lề đường. Tất cả hình ảnh, thông tin, dữ liệu chi tiết về tải trọng mọi phương tiện đi qua trạm cân đều được chuyển về lưu trữ tại trung tâm dữ liệu và kết quả cân xe sẽ được sử dụng để xử phạt các phương tiện vi phạm tải trọng.
+
+Trong tương lai, hệ thống thu phí và kiểm soát tải trọng sẽ hoạt động song hành, góp phần tạo ra diện mạo mới cho ngành giao thông vận tải.

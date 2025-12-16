@@ -1,0 +1,7 @@
+Trên những giao lộ lớn thường có vòng xoay hoặc có đèn tín hiệu, nhưng tại rất nhiều giao lộ nhỏ khác không thể xây vòng xoay vì nó chiếm diện tích và vướng víu trong quá trình lưu thông. Việc gắn các loại đèn tín hiệu ở những nơi này cũng không thể làm được vì tốn kém kinh phí, hơn nữa nếu có quá nhiều cũng làm nghẽn mạch máu giao thông.
+
+Nhưng cái được của vòng xoay là xe khi vào vòng xoay đều phải chạy chậm, từ từ tuần tự ôm vòng xoay và rẽ theo hướng cần lưu thông. Chúng ta có thể chọn tâm điểm của giao lộ để kẻ vòng xoay (diện tích vòng xoay lớn hay nhỏ phụ thuộc độ lớn của giao lộ), đồng thời yêu cầu mọi phương tiện khi chuyển hướng sang trái bắt buộc phải ôm “vòng xoay mềm” này mà lưu thông. Làm được như vậy thì phương tiện khi cần rẽ trái sẽ không bị khuất tầm nhìn và buộc mọi phương tiện khi rẽ không thể chuyển hướng với tốc độ cao. Từ đó, tai nạn giao thông có thể được hạn chế.
+
+“Vòng xoay mềm” có thể thực hiện trên tất cả các loại đường nhựa nóng, hoặc bêtông ximăng, trên tất cả thôn cùng, ngõ hẻm. Kinh phí thực hiện cũng không lớn lắm. Tuy nhiên không hiểu sao chưa được thực hiện nhiều trên các con đường?
+
+Tôi đề nghị ngành giao thông nghiên cứu áp dụng nhiều “vòng xoay mềm” này. Trong quá trình thực hiện nếu có các loại sơn phản quang thì càng tốt. Tại những điểm cần thiết có thể khoan dưới đường, lắp những loại đèn led, thu năng lượng mặt trời đồng thời chịu được tải trọng lớn của xe lưu thông thì sẽ tốt hơn nhiều và góp phần kéo giảm tai nạn giao thông.

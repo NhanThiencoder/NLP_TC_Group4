@@ -1,0 +1,16 @@
+Một số kinh nghiệm với Windows XP (Phần IV) 
+
+
+
+
+III/ Tùy biến thanh công cụ của I.E trong WinXP:Bạn cảm thấy quá nhàm chán với thanh công cụ màu xám mặc định của Internet Explorer (IE) và bạn muốn cho nó sinh động với những tấm ảnh nền bạn đưa vào? Hoặc bạn muốn đưa thêm vào thanh công cụ các nút lệnh để gọi nhanh một chương trình trên máy, ví dụ như chương trình từ điển chẳng hạn? Trong Windows XP bạn có thể dễ dàng thực hiện việc này mà không cần phải sửa đổi thủ công Registry hoặc cài thêm các phần mềm giúp tùy biến Windows.Vào Start  Run, gõ gpedit.msc và bấm OK. Cửa sổ Group Policy xuất hiện. Trong khung bên trái bạn tìm đến mục User Configuration  Windows Settings  Internet Explorer Maintenance. Trong khung bên phải bạn nhấp đôi chuột vào mục Browser Toolbar Customizations. Hộp thoại Browser Toolbar Customizations xuất hiện. 
+
+Để thay đổi ảnh nền cho thanh công cụ, tại khung Background bạn chọn mục Customize toolbar background bitmap. Sau đó nhập vào đường dẫn đến file ảnh Bitmap (.BMP) trên máy trong khung bên cạnh. Có thể bấm nút Browse để duyệt nhanh đến file ảnh này.Lưu ý: Bạn nên chọn ảnh nền có kích thước phù hợp với thanh công cụ và đủ sáng để có thể thấy rõ dòng chữ tiêu đề của các nút lệnh và menu. Nếu bạn đang áp dụng các Theme thì ảnh nền bạn vừa đưa vào có thể không hiển thị được trên Toolbar. Để giải quyết vấn đề này bạn phải chuyển sang dùng Theme mặc định của Windows: bấm chuột phải lên Desktop, chọn Properties. Vào thẻ Themes, tại mục Theme bạn chọn Windows Classic trong danh sách đổ xuống. Bấm OK.Nếu không muốn dùng ảnh nền nữa, bạn có thể chọn mục Use Windows default toolbar background bitmap.Cũng trong hộp thoại Browser Toolbar Customizations, bạn có thể thêm vào một số nút lệnh trên thanh công cụ của IE như sau: Tại khung Buttons bạn bấm nút Add.
+
+Một hộp thoại khác xuất hiện. Tại mục Toolbar caption bạn hãy nhập vào dòng chú thích cần hiển thị khi người dùng rê chuột lên nút lệnh. Tại mục Toolbar Action bạn đưa vào đường dẫn đến chương trình cần thi hành trên máy (khi người dùng bấm vào nút lệnh, chương trình này sẽ được gọi). Có thể bấm nút Browse để duyệt qua các file. Đưa vào đường dẫn đến file biểu tượng màu (.ICO) tại mục Toolbar color icon và biểu tượng đen trắng tại mục Toolbar grayscale icon. Kích thước của biểu tượng phải là 20 x 20 pixel. Đánh dấu chọn mục This button should be shown on the toolbar by default nếu muốn nút lệnh này được hiển thị mặc định trên thanh công cụ (nếu không người dùng có thể gọi nút lệnh ra bằng cách bấm chuột phải lên thanh công cụ của IE, chọn Customize). Bấm OK để trở về hộp thoại Browser Toolbar Customizations.Để sửa một nút lệnh mà bạn tự thêm vào (không phải nút lệnh mặc định của IE), bạn chọn nút lệnh trong danh sách và bấm nút Edit, sau đó sửa lại theo ý muốn. Để xóa một nút lệnh, bạn chọn nó trong danh sách và bấm nút Remove.Ngoài ra, nếu bạn muốn xóa tất cả các nút lệnh ngoại trừ các nút lệnh chuẩn của IE, hãy đánh dấu chọn mục Delete existing toolbar buttons, if present.Sau khi xác lập xong, bấm nút OK để đóng hộp thoại này lại. Sau đó bạn đóng tất cả các cửa sổ IE đang mở và mở chúng lại, bạn sẽ thấy sự thay đổi tức thì.
+
+IV/ Gỡ bỏ IE 6 trong Windows XP: 
+
+
+
+

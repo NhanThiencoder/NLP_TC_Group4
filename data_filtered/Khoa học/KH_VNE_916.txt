@@ -1,0 +1,17 @@
+Trung QuốcRobot G1 của Unitree phát triển kỹ năng võ thuật thông qua học tăng cường và áp dụng trơn tru khi đối đầu với một người cầm gậy.
+
+Robot kungfu đánh bại con người trong cuộc đấu tay đôi Robot G1 tiếp đất vững vàng sau khi đá bay cây gậy trong tay đối thủ. Video: Unitree
+
+Công ty robot Trung Quốc Unitree Robotics chia sẻ video cho thấy độ nhanh nhẹn và khả năng giữ thăng bằng của robot hình người nhỏ gọn G1. Trong clip dài 15 giây, một người cầm gậy liên tục lùi lại khi robot vung chân đá bay món vũ khí trong lúc thực hiện cú xoay 720 độ, Interesting Engineering hôm 5/3 đưa tin. Cách đây một tuần, robot G1 của Unitree từng học cách làm chủ các thế võ kungfu, giờ đây nó có thể đối đầu với con người và giành phần thắng.
+
+Unitree liên tục cập nhật thuật toán của G1, cho phép nó học hỏi và xử lý nhiều chuyển động. Cập nhật mới nhất tăng cường khả năng giữ thăng bằng và mở rộng phạm vi chuyển động của nó. Hồi tháng 2, G1 cũng thể hiện sự nhanh nhẹn và thăng bằng tốt trong một video với những bước nhảy trơn tru và bước chân chính xác ngay cả khi bị quấy rầy. Trong tháng 1, Unitree hé lộ hệ thống đi bộ và chạy của G1, làm nổi bật độ ổn định và khả năng kiểm soát tốt của nó trên đoạn đường dốc và bề mặt kém bằng phẳng.
+
+Với khớp xoay tự do (DoF) 23 độ và độ ổn định được cải thiện, G1 bộc lộ mức độ điều phối chuyển động và linh hoạt đặc biệt. Tuy nhiên, Unitree cũng khuyến cáo không nên điều chỉnh robot theo cách gây nguy hiểm hoặc dạy nó kỹ năng chiến đấu thực sự. Được thiết kế cho nhiệm vụ khó khăn hoặc lặp lại ở nhà riêng, nhà máy và bệnh viện, G1 là minh chứng cho quan điểm coi robot hình người như bạn đồng hành trong công việc và cuộc sống của Unitree.
+
+Cao 1,32 m và nặng 35 kg, G1 có thể gập gọn với kích thước 69 x 45 x 30 cm để lưu trữ dễ dàng. Mẫu robot trang bị nhiều công nghệ tiên tiến, bao gồm Lidar 3D, camera điều chỉnh độ sâu RealSense và microphone khử ồn để phản hồi mệnh lệnh bằng giọng nói. G1 hoạt động nhờ bộ pin 9.000 mAh cung cấp hai giờ vận hành với tính nhanh đổi pin nhanh để sử dụng lâu hơn. Robot cũng sở hữu bộ xử lý trung tâm (CPU) 8 lõi hiệu suất cao, khớp nối ở tay, chân và thân, cho phép xoay 23 độ. Thiết kế của G1 giúp nó di chuyển nhanh nhẹn và đạt tốc độ đi bộ 2 m/s.
+
+Quá trình huấn luyện bắt đầu trong môi trường ảo, sử dụng công cụ mô phỏng Isaac của Nvidia, trong đó robot học hỏi hành vi phức tạp trước khi chế tạo. Thông qua học tăng cường, G1 hoàn thiện kỹ năng trong mô phỏng. Quá trình Sim2Real chuyển hành động đã học hỏi sang robot thực, cho phép ứng dụng thực tế. Unitree cũng chia sẻ bộ dữ liệu toàn thân nguồn mở nhằm nâng cao chuyển động tự nhiên của robot hình người như H1, H1-2, và G1. Bộ dữ liệu sẽ cải thiện sức phối hợp và linh hoạt.
+
+Với công nghệ chụp hình chuyển động LAFAN1, tập dữ liệu hoàn toàn tương thích với robot chính của Unitree. Nó bao gồm một thuật toán chuyển hướng, tích hợp lưới tương tác và chuyển động đảo ngược, tối ưu hóa chuyển động thông qua xem xét hạn chế ở tư thế, vị trí khớp và tốc độ. Nhờ tập dữ liệu nguồn mở, Unitree muốn khuyến khích giới nghiên cứu và những người quan tâm khám phá các ứng dụng mới của robot hình người trong bối cảnh thực tế.
+
+An Khang (Theo Interesting Engineering)

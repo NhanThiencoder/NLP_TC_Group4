@@ -1,0 +1,15 @@
+Công ty Agibot sẽ mở nhà máy mới ở Phố Đông, Thượng Hải nhằm tăng sản lượng robot hình người lên 5.000, sánh ngang sản lượng với công ty của tỷ phú Elon Musk.
+
+Agibot sẽ tăng cường sản xuất hàng loạt robot hình người trong năm nay. Ảnh: Agibot
+
+Công ty khởi nghiệp robot Agibot hay còn gọi là Zhiyuan Robotics ở Thượng Hải đang đặt mục tiêu sản lượng ngang với công ty robot Optimus của tỷ phú Elon Musk, theo Interesting Engineering. Công ty hướng tới triển khai sản phẩm mới trong môi trường công nghiệp, thay thế con người ở những công việc chuyên môn nhằm cung cấp giá trị hữu hình cho khách hàng. Agibot hy vọng có thể giao 3.000 - 5.000 robot, tăng mạnh từ mức dưới 1.000 robot vào năm ngoái.
+
+Thành lập vào tháng 2/2023 bởi Peng Zhihui, người từng tham gia chương trình "Genius Youth" của Huawei, Agibot giới thiệu mẫu robot hình người đầu tiên mang tên Raise A1 vào tháng 8/2023. Tháng 3/2025, AgiBot ra mắt Genie Operator-1 (GO-1), một mô hình AI xử lý hình ảnh và dữ liệu video để tăng cường khả năng của robot hình người nhằm diễn giải hành động của con người và thực hiện công việc thực tế.
+
+Agibot đã trở thành công ty robot chủ chốt ở Thượng Hải với một cơ sở tại khu Lingang. Công ty đã lên kế hoạch mở rộng với một nhà máy mới ở Phố Đông, tăng sản xuất thêm hơn 400 robot mỗi tháng, theo Yao Maoqing, giám đốc điều hành phòng trí tuệ hiện thân của Agibot. Agibot ước tính việc ứng dụng robot hình người trong gia đình sẽ cần thêm khoảng 5 năm. Hiện nay, sản lượng robot công nghiệp của Trung Quốc tăng 27% lên 91.088 đơn vị trong tháng 1 và 2, còn sản lượng robot dịch vụ tăng từ 36% lên 1,5 triệu đơn vị, theo dữ liệu của chính phủ.
+
+Ngoài chuyên về robot hiện thân cao cấp nhất, Agibot cũng tập trung vào phát triển hệ sinh thái tiên tiến. Mẫu robot hình người đầu bảng của công ty là Yuanzheng A2, cao 175 cm, nặng 55 kg, trang bị cảm biến AI. A2 có thể xử lý văn bản, audio, dữ liệu hình ảnh và thực hiện công việc như xâu kim. Agibot cũng cung cấp A2 Max, cùng với các mẫu robot dịch vụ A2-W, X1, và X1-W. Để cạnh tranh với robot Optimus của Tesla, Agibot hướng tới dẫn đầu trong mở rộng thị trường robot. Đầu tháng này, công ty giới thiệu Lingxi X2, một robot hình người đa dụng cực kỳ linh hoạt kết hợp AI cao cấp.
+
+Để tăng tốc huấn luyện và phát triển robot, AgiBot sử dụng GO-1 được thiết kế để tăng cường hiệu suất công việc thực tế của robot hình người. GO-1 sử dụng AI ngôn ngữ - hình ảnh để diễn giải hành động của con người thông qua xử lý dữ liệu ảnh và video. GO-1 sử dụng chương trình khung Vision-Language-Latent-Action (ViLLA), kết hợp hiểu biết về bối cảnh, kế hoạch hành động và xử lý. GO-1 được xây dựng nhờ sử dụng AgiBot World, tập dữ liệu quy mô lớn chứa hơn một triệu hướng đi của robot trong 217 nhiệm vụ. Trong các thử nghiệm gần đây, GO-1 nâng tốc độ hoàn thành nhiệm vụ từ 46% lên 75%, chứng minh hiệu quả trong những hoạt động như rót và phục vụ nước. AgiBot cho biết tính dễ thích nghi của mô hình cho phép nó học hỏi và trau chuốt khả năng liên tục.
+
+An Khang (Theo Interesting Engineering)

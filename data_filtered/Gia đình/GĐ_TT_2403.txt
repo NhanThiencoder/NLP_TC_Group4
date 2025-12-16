@@ -1,0 +1,38 @@
+
+Chatbot Claude của Anthropic đã phá kỷ lục về tốc độ tăng trưởng khi đạt mốc 100 triệu người dùng thường xuyên chỉ hai tháng sau khi ra mắt - Ảnh: verdict.co.uk
+
+70% thanh thiếu niên Mỹ sử dụng chatbot ít nhất một lần
+
+Một nghiên cứu mới cho thấy gần một phần ba thanh thiếu niên Mỹ nói rằng họ sử dụng chatbot AI hàng ngày.
+
+Nghiên cứu này đánh giá mức độ sử dụng chatbot AI của giới trẻ, công cụ vốn được cho là đã gây ra những lo ngại nghiêm trọng về an toàn liên quan đến tác động đến sức khỏe tâm thần, đồng thời có thể dẫn dắt trẻ em tiếp xúc với những nội dung không phù hợp.
+
+Nghiên cứu của Trung tâm Nghiên cứu Pew, đánh dấu lần đầu tiên nhóm này khảo sát thanh thiếu niên về việc sử dụng chatbot AI nói chung, cho thấy gần 70% thanh thiếu niên Mỹ đã sử dụng chatbot ít nhất một lần. Và trong số những người sử dụng chatbot AI hàng ngày, 16% cho biết họ sử dụng nhiều lần mỗi ngày hoặc "gần như liên tục".
+
+Chatbot AI được quảng bá như một công cụ học tập và làm bài tập về nhà cho giới trẻ, nhưng một số thanh thiếu niên cũng tìm đến chúng để bầu bạn hoặc tìm kiếm các mối quan hệ lãng mạn.
+
+Điều đó đã góp phần đặt ra câu hỏi liệu giới trẻ có nên sử dụng chatbot hay không. Một số chuyên gia lo ngại rằng việc sử dụng chúng, ngay cả trong bối cảnh học tập, cũng có thể cản trở sự phát triển.
+
+Trung tâm Nghiên cứu Pew đã khảo sát gần 1.500 thanh thiếu niên Mỹ trong độ tuổi từ 13 đến 17 cho báo cáo này, và nhóm đối tượng được thiết kế để đại diện cho giới tính, độ tuổi, chủng tộc và sắc tộc, cũng như thu nhập hộ gia đình.
+
+ChatGPT là chatbot AI phổ biến nhất, với hơn một nửa số thanh thiếu niên cho biết đã sử dụng nó. Các chatbot hàng đầu khác theo thứ tự là Gemini của Google, Meta AI, Copilot của Microsoft, Character.AI và Claude của Anthropic.
+
+Tỉ lệ nữ và nam gần như bằng nhau - lần lượt là 64% và 63% - cho biết họ đã sử dụng chatbot AI. Thanh thiếu niên từ 15 đến 17 tuổi có khả năng sử dụng chatbot cao hơn một chút (68%) so với nhóm từ 13 đến 14 tuổi (57%). Và khảo sát cho thấy, tỉ lệ sử dụng tăng nhẹ khi thu nhập hộ gia đình tăng lên.
+
+Gần 70% thanh thiếu niên da đen và gốc Tây Ban Nha cho biết họ đã sử dụng chatbot AI, cao hơn một chút so với 58% thanh thiếu niên da trắng.
+
+Các công ty AI đã thúc đẩy việc đưa chatbot vào trường học
+
+Những phát hiện này xuất hiện sau khi hai công ty AI lớn, OpenAI và Character.AI, phải đối mặt với các vụ kiện từ các gia đình cáo buộc rằng các ứng dụng này đóng vai trò trong các vụ tự tử hoặc các vấn đề sức khỏe tâm thần của con cái họ.
+
+OpenAI sau đó cho biết họ sẽ triển khai các biện pháp kiểm soát của phụ huynh và giới hạn độ tuổi. Character.AI đã ngừng cho phép thanh thiếu niên tham gia vào các cuộc trò chuyện qua lại với các nhân vật do AI tạo ra.
+
+Meta cũng bị chỉ trích hồi đầu năm nay sau khi có báo cáo cho rằng chatbot AI của họ tham gia vào các cuộc trò chuyện tình dục với trẻ vị thành niên. Công ty cho biết họ đã cập nhật chính sách của mình và năm tới sẽ cho phép phụ huynh chặn thanh thiếu niên trò chuyện với các nhân vật AI trên Instagram.
+
+Ít nhất một nhóm an toàn trực tuyến, Common Sense Media, đã khuyên các bậc phụ huynh không nên cho phép trẻ em dưới 18 tuổi sử dụng chatbot AI giống như người bạn đồng hành, nói rằng chúng tiềm ẩn "những rủi ro không thể chấp nhận được" đối với giới trẻ.
+
+Một số chuyên gia cũng bày tỏ lo ngại rằng việc sử dụng AI cho việc học tập có thể khuyến khích gian lận, mặc dù những người khác cho rằng công nghệ này có thể cung cấp hỗ trợ học tập cá nhân hóa hơn.
+
+Trong khi đó, các công ty AI đã thúc đẩy việc đưa chatbot của họ vào trường học. OpenAI, Microsoft và Anthropic đều đã cho ra mắt các công cụ dành cho học sinh và giáo viên. Đầu năm nay, các công ty này cũng đã hợp tác với các công đoàn giáo viên để thành lập học viện giảng dạy bằng AI dành cho các nhà giáo dục.
+
+Đặc biệt, Microsoft đã tìm cách định vị Copilot của mình là lựa chọn an toàn nhất cho phụ huynh, với Giám đốc điều hành AI Mustafa Suleyman nói với CNN vào tháng 10 rằng ứng dụng này sẽ không bao giờ cho phép các cuộc trò chuyện lãng mạn hoặc tình dục giữa người lớn và trẻ em.

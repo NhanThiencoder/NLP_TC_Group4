@@ -1,0 +1,46 @@
+Bùi Lê Chí Bảo, tác giả nền tảng dạy và học, hỗ trợ bằng AI Selfomy hiện được 30 trung tâm trên toàn quốc sử dụng - Ảnh: C.T.
+
+Khá bất ngờ khi tiền thân của Selfomy là một website hỏi đáp bài tập cho học sinh do Bảo cùng bạn bè mày mò tự làm từ hơn chục năm trước.
+
+Từ web học sinh đến startup triệu người dùng
+
+Chí Bảo tốt nghiệp ngành khoa học máy tính ĐH Goldsmiths (University of London, Vương quốc Anh), có ba năm làm việc tại công ty công nghệ ở Mỹ, tự viết code tập làm web từ hồi lớp 6. Tóm tắt gọn về anh bạn này là thế.
+
+Nhưng không chỉ vậy, website hỏi đáp về học tập nói trên sau bốn năm từng lọt top 500 website có lượt truy cập nhiều nhất Việt Nam (theo xếp hạng của SimilarWeb). Giai đoạn 2017-2023, trung bình mỗi tháng đạt 1 triệu người dùng hoạt động.
+
+Selfomy đang hoạt động khá bền vững thì đụng chuyện. Chương trình giáo dục phổ thông có nhiều thay đổi, nhất là sự xuất hiện của ChatGPT khiến Selfomy có nguy cơ lung lay, lại đúng thời điểm Bảo cần tập trung cho việc tốt nghiệp ĐH.
+
+Là "đứa con tinh thần" dày công vun đắp nhưng khó khăn bủa vây buộc Bảo phải cắn răng chia tay phần lớn cộng sự nhưng vẫn ấp ủ ngày trở lại.
+
+Nhìn ra vấn đề mình biết đây là thời khắc cần ứng dụng kiến thức đã học cùng kinh nghiệm ba năm làm cho công ty công nghệ ở Mỹ để bắt đầu chuỗi ngày buộc Selfomy hóa giải, trả lời những câu hỏi đang đặt ra ấy.
+
+
+
+BÙI LÊ CHÍ BẢO
+
+Startup 2025: Anh Bùi Lê Chí Bảo chia sẻ về ứng dụng hỗ trợ dạy học Selfomy
+
+AI giải bài toán quá tải ở trung tâm ngoại ngữ
+
+Đầu năm 2024, Bảo tình cờ nghe về những thách thức, khó khăn mà các trung tâm luyện thi ngoại ngữ đang gặp phải. Có trung tâm luyện thi các chứng chỉ IELTS, TOEIC, SAT tốn nhiều thời gian chấm bài thủ công, giáo viên quá tải với bài thi viết và nói, học viên ít cơ hội cải thiện bài làm.
+
+Tìm hiểu, anh bạn này biết nhiều trung tâm chưa có nền tảng cho phép cá nhân hóa lộ trình học ngoại ngữ. Việc quản lý thủ công qua giấy tờ và con người khó theo dõi tiến độ chi tiết cho từng học viên. Chưa kể khó đồng bộ dữ liệu khi phần lớn trung tâm quản lý bằng nhiều công cụ khác nhau.
+
+"Quá nhiều vấn đề cần xử lý mà chắc chắn chỉ có thể giải quyết được hết những bài toán đặt ra nếu biết tận dụng công nghệ", Chí Bảo tự tin.
+
+Trung tâm ngoại ngữ có nhận ra vấn đề không? Câu trả lời là có. Họ đã tìm và đề xuất nhiều cách khác nhau để giải quyết song việc mua tài khoản luyện thi sau đó chia sẻ cho nhiều học viên cùng sử dụng là điều tối kỵ. Trong khi nếu sử dụng trang web miễn phí để học viên luyện thi và làm bài tập lại chưa chắc mang đến hiệu quả tốt.
+
+Mặt khác, sử dụng các ứng dụng soạn thảo văn bản miễn phí để giao bài tập, chấm bài cho học viên dần xuất hiện lỗ hổng, hạn chế đăng tải nội dung học tập theo giáo trình riêng của giáo viên.
+
+"Có trung tâm ngoại ngữ đã xây dựng đội ngũ công nghệ thông tin hoặc thuê công ty phần mềm xây nền tảng riêng. Tuy nhiên hướng đi này khá đắt đỏ, tốn thời gian, chi phí vận hành mà có khi phải vá lỗi cũng không ít", Bảo cười.
+
+Selfomy phiên bản mới: nền tảng dạy và học ứng dụng AI
+
+Chí Bảo nhìn ra cơ hội trong ma trận câu hỏi đặt ra đó. Và Selfomy phiên bản mới trình làng, trở thành nền tảng dạy và học cho các trung tâm ngoại ngữ. Nền tảng có thể giúp thi thử, giao và quản lý bài tập về nhà, luyện thi và chấm bài hoàn toàn với sự hỗ trợ của AI.
+
+Selfomy mà Bảo xây dựng tạo ra môi trường luyện thi như thật hoàn toàn. Các tính năng giám sát, thông báo lịch học, chấm bài và khích lệ học viên tự học… cũng được tích hợp ở nền tảng này.
+
+Trang web chính thức của Selfomy ghi nhận những con số ban đầu khá ấn tượng với 65.000 người dùng, trên 1,5 triệu lượt xem. Hiện Selfomy đang là đối tác "cho thuê nền tảng" của khoảng 30 trung tâm ngoại ngữ trên toàn quốc.
+
+Từ góc lớp nhỏ đến cộng đồng học tập trăm ngàn người Trên trang web chính thức, nhiều người sẽ khó lòng bỏ qua mục "Câu chuyện của chúng tôi" với những lời tâm sự về hành trình và sứ mệnh của Selfomy. Ở đó là trăn trở của những người tạo ra nền tảng này với câu hỏi "Làm thế nào để việc học thú vị và chủ động hơn hay liệu có thể nào tự học mà vẫn giỏi được hay không?". Đội ngũ làm ra Selfomy khẳng định họ với nhiệt huyết của tuổi trẻ đã cùng nhau tạo nên Selfomy mà khởi đầu là một trang web dành cho bạn bè trong lớp có thể trao đổi bài vào năm 2013. Những người trẻ ấy tự tin: "Selfomy đã trở thành một nền tảng, cộng đồng học tập năng động tại Việt Nam cùng giúp đỡ hàng trăm ngàn bạn mỗi tháng gặp khó khăn trong học tập".
+

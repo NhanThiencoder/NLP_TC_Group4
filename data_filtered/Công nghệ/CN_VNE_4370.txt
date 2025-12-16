@@ -1,0 +1,12 @@
+Virus tấn công dịch vụ IM của Microsoft
+
+Hôm qua bộ phận MSN của hãng này thừa nhận đang phải đối phó với một trục trặc khiến người sử dụng không thể đăng nhập vào hệ thống nhắn tin nhanh trong 2 ngày cuối tuần trước.
+
+
+
+Qua những gì chúng tôi ghi nhận, virus cố gắng phát tán vào tất cả những mối liên lạc trong danh sách contact ở công cụ MSN Messenger, Oliver Friedrichs, Giám đốc trung tâm phản ứng nhanh của Symantec, cho biết. Tuy nhiên, trong 24 giờ qua, chúng tôi mới chỉ thấy có 34 trường hợp thông báo - một con số không đáng kể.
+
+Đến đầu giờ chiều hôm qua, một đại diện của Microsoft cho biết công ty đã khắc phục được vấn đề. Người phát ngôn này không bình luận gì về mối liên hệ giữa sự cố và virus Funner.
+
+
+

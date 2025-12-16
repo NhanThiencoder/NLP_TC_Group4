@@ -1,0 +1,21 @@
+Sau ba tháng thử nghiệm, DNSE chính thức ra mắt Lệnh AI, công cụ giao dịch giúp tối ưu giá và hiệu quả khớp lệnh, đặc biệt với các giao dịch khối lượng lớn.
+
+Công cụ này sử dụng AI để chia nhỏ lệnh lớn thành nhiều lệnh nhỏ, đặt ở mức giá tối ưu hơn hoặc bằng ngưỡng giá mục tiêu của nhà đầu tư, giúp giảm thiểu tác động đến giá, nâng cao khả năng khớp lệnh theo xu hướng thị trường.
+
+Theo các chuyên gia, lệnh có khối lượng lớn thường khiến giá biến động mạnh, khó khớp hết ở mức kỳ vọng. Nếu chia nhỏ thủ công, nhà đầu tư phải liên tục theo dõi bảng giá và đặt lệnh, dễ bỏ lỡ cơ hội. Lệnh AI khắc phục điểm yếu này bằng cách thu thập, phân tích dữ liệu thị trường để xác định chiến lược giao dịch phù hợp. Từng lệnh nhỏ được tự động gửi đi với khối lượng và mức giá tối ưu, linh hoạt điều chỉnh trong thời gian thực.
+
+Lệnh AI của DNSE hỗ trợ phân bổ lệnh khối lượng lớn, tối ưu giá và hiệu quả giao dịch. Ảnh: DNSE
+
+Ông Nguyễn Hoàng Giang, Chủ tịch HĐQT DNSE cho biết, Lệnh AI được phát triển nhằm hỗ trợ nhà đầu tư giao dịch hiệu quả hơn và đây là một trong những công cụ chiến lược của công ty nhằm phục vụ khối lượng lệnh giao dịch lớn thời gian tới, trong bối cảnh thị trường đang có những phiên giao dịch thanh khoản kỷ lục và có triển vọng tăng trưởng mạnh mẽ, thu hút khối lượng lớn nhà đầu tư tham gia.
+
+"Tính năng này giúp tối ưu giá và khối lượng khớp lệnh, giải phóng nhà đầu tư khỏi áp lực phải liên tục theo dõi thị trường, để họ có thêm thời gian tập trung vào chiến lược dài hạn", ông Giang nhấn mạnh.
+
+Lệnh AI giải phóng nhà đầu tư khỏi áp lực phải liên tục theo dõi thị trường. Ảnh: DNSE
+
+Sau giai đoạn ba tháng triển khai thử nghiệm trên app Entrade X by DNSE, gần 6.500 nhà đầu tư đã sử dụng tính năng này, gần 5.700 lệnh đã được khớp thành công. Trước đó, DNSE từng ra mắt trợ lý chứng khoán ảo Ensa dưới hình thức chatbot và đã được vinh danh là "Giải pháp AI đột phá lĩnh vực tài chính" tại AI Awards 2024. Việc liên tục giới thiệu các sản phẩm công nghệ mới thể hiện cam kết của DNSE trong việc "đơn giản hóa đầu tư" thông qua công nghệ.
+
+Theo các chuyên gia, việc hệ thống giao dịch KRX đi vào vận hành, cùng triển vọng nâng hạng thị trường từ cận biên lên mới nổi, có thể giúp thu hút thêm dòng vốn trong và ngoài nước. Thanh khoản gia tăng liên tục cho thấy nhu cầu giao dịch nhanh, linh hoạt và an toàn đang ở mức cao.
+
+Trong xu hướng này, các công cụ hỗ trợ như Lệnh AI được đánh giá có tiềm năng giúp nhà đầu tư hạn chế rủi ro, nắm bắt cơ hội và nâng hiệu quả giao dịch. Nếu được ứng dụng rộng rãi, những giải pháp AI có thể góp phần định hình thói quen giao dịch mới, thúc đẩy quá trình số hóa thị trường chứng khoán.
+
+Minh Ngọc

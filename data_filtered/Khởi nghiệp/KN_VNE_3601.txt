@@ -1,0 +1,117 @@
+Notion là một ứng dụng giúp quản lý học tập, xây dựng thời gian biểu sử dụng trên máy tính và điện thoại, máy tính bảng.
+
+Ứng dụng này phù hợp đối với những ai có sở thích lập kế hoạch, xây dựng thời gian biểu cho công việc và học tập. Công cụ này hỗ trợ học tập hiệu quả bằng việc tạo ra các template để theo dõi quá trình học tập. Người quản lý có thể bán và chia sẻ các mẫu notions cho các bạn sinh viên học sinh.
+
+
+
+Mô tả dự án
+
+Notion là một ứng dụng ghi chép có thể sử dụng trên máy tính và điện thoại, thậm chí là máy tính bảng. Ứng dụng này phù hợp đối với những bạn có sở thích lập kế hoạch, xây dựng thời gian biểu cho công việc và học tập. Notion còn là công cụ giúp quản lý học tập một cách hiệu quả. Bằng việc tạo ra các template để quản lý quá trình học tập, mọi người có thể bán và chia sẻ các mẫu notions cho các bạn sinh viên học sinh.
+
+Với Notion, người dùng có thể sắp xếp mọi thứ tùy theo ý thích và nhu cầu chỉ trên một trang giấy. Để bắt đầu, hãy tạo một trang mới, đặt tên, icon và ảnh cover theo ý thích.
+
+Giao diện Notions
+
+Tiếp theo, sẽ tạo các trang nhỏ theo đại diện số môn học bằng cách nhập lệnh/page để tiện ghi chú sau này. Kèm theo đó là 1 danh sách Việc cần làm và nhắc nhở quan trọng bên cạnh.
+
+Tất nhiên, thời khóa biểu luôn là thông tin cần thiết đối với học sinh, sinh viên nên bạn có thể dùng tính năng kéo thả để chia cột tùy ý của Notion.
+
+Các thông tin về bài kiểm tra, thời hạn nộp bài cho tất cả các môn sẽ được nhìn khái quát và có kế hoạch hơn khi bạn dùng database bảng tính /table của Notion. Ngoài ra, 1 cuốn lịch với đầy đủ các ngày và các dấu mốc quan trọng cũng sẽ giúp lên kế hoạch chuẩn bị tốt hơn.
+
+Cách cài đặt cho từng hạng mục:
+
+Ghi chú bài học cho từng môn học
+
+Sau khi tạo từng trang nhỏ cho mỗi môn học, các bạn có thể ghi chú các thông tin quan trọng khi nghe giảng tại đây.
+
+Bước 1: Để tiện theo dõi, mình sẽ dùng database dạng bảng bằng cách nhập lệnh /table - Inline. Sửa tên cột và định dạng thành:
+
+Tên bài học
+
+Tuần - Select
+
+Ghi chú - Multi-select
+
+Giao diện Notions
+
+Bước 2: Sau khi ghi thêm tên bài học vào bảng, Notion sẽ tự động cài đặt thành 1 trang nhỏ mới khi bạn bấm nút Open as Page và ở đây bạn có thể ghi chú bài của mình, kèm theo các hình ảnh minh họa nếu cần thiết. Bạn có thể tải ảnh từ máy tính để bàn hoặc trực tiếp nhấn chuột phải để sao chép hình ảnh từ Google và quay lại Notion để dán.
+
+Giao diện Notions
+
+Các thông tin cốt lõi trong bài học bạn có thể ghi hoặc tạo nhãn dán vào cột Ghi chú. Việc này sẽ giúp bạn nhớ tốt hơn và cũng đơn giản hơn khi cần tìm lại nữa.
+
+Sau này, khi cần mở lại bất kỳ bài học nào, bạn chỉ cần đơn giản bấm thẳng vào tên bài học là được nhé!
+
+Bước 3: Ngoài ra, bạn hãy tận dụng Toggle - Danh sách ẩn hiện của Notion trong các trường hợp ôn tập cho bài kiểm tra. Chỉ cần nhấn dấu ">" và nút Space trên phím > nhập câu hỏi > xuống hàng > nhập câu trả lời.
+
+Giao diện Notions
+
+Tạo bảng tính điểm
+
+Việc theo dõi điểm số sẽ rất cần thiết khi bạn đi học bởi bạn cần phân bổ thời gian, công sức hợp lý tuỳ thuộc theo từng bài kiểm tra.
+
+Bước 1: Tạo /table - Full page trong trang môn học để theo dõi thông tin điểm số với các cột và định dạng:
+
+Tên bài kiểm tra
+
+Ngày - Date
+
+Điểm số - Number
+
+Phần trăm - Number
+
+Thành điểm - Formular
+
+Giao diện Notions
+
+Bước 2: Bạn cần nhập công thức ở cột Thành điểm để Notion tự động tính điểm cho bạn. Chỉ cần chọn 2 cột Điểm số và Phần trăm chèn thêm dấu * (phép nhân) ở giữa > nhấn nút Done bên cạnh là được! Tất nhiên, bạn hãy thay đổi sao cho phù hợp với cơ cấu tính điểm của trường bạn nhé.
+
+Giao diện Notions
+
+Bước 3: Đưa chuột vào hàng bên dưới bảng tính và nhấn Calculate > chọn Sum ở cột Phần trăm để đảm bảo tổng các bài là 100% > chọn Sum ở cột Thành điểm để xem tổng điểm cho môn học này của bạn.
+
+Giao diện Notions
+
+Theo dõi lịch bài kiểm tra hoạt động
+
+Với database dạng bảng Table, bạn có thể áp dụng vào rất nhiều thứ, chẳng hạn như ghi nhận và theo dõi toàn bộ các bài kiểm tra cho tất cả môn học của bạn.
+
+Bước 1: Nhập lệnh /table - Full page để tạo trang mới cho việc theo dõi lịch này. Thay đổi các cột và định dạng như sau:
+
+Trạng thái - Check-box
+
+Môn học - Select
+
+Bài kiểm tra - Text
+
+Ngày - Date
+
+Lưu ý - Text
+
+Giao diện Notions
+
+Bước 2: Mặc dù tổng hợp tất cả các môn trong 1 bảng duy nhất, bạn có thể áp dụng tính năng Filter của Notion để lọc lại thông tin cần thiết. Chọn Filter > Add a Filter > đặt điều kiện. Bạn sẽ thấy Notion tự động thay đổi thông tin hiển thị mà không làm những dữ liệu bị ảnh hưởng.
+
+Giao diện Notions
+
+Bước 3: Ngoài ra, ở màn hình chính, bạn cũng có thể kết nối dữ liệu bằng cách nhập lệnh /Create linked database > chọn bảng mà bạn đã làm ở bước 1. Mình gợi ý rằng bạn hãy đặt 1 filter khác về Ngày để lọc các bài kiểm tra trong 1 tháng/1 tuần tới ở màn hình này để dễ theo dõi thời hạn nhất.
+
+Giao diện Notions
+
+Lên kế hoạch tổng quan với lịch đầy đủ
+
+Nếu chỉ nhìn lịch với ngày tháng năm và các cột mốc như hướng dẫn vừa rồi, bạn cũng sẽ khó hình dung và sắp xếp thời gian để hoàn thành đúng thời hạn. Do vậy, chúng ta có thể thêm 1 cuốn lịch hoàn chỉnh lên hẳn trang Notion này!
+
+Bước 1: Tương tự như cách trên, bạn hãy kết nối dữ liệu với trang lịch kiểm tra/hoạt động mà bạn đã tạo, chỉ cần nhập lệnh /Create linked database > chọn tên.
+
+Giao diện Notions
+
+Bước 2: Tuy nhiên, chúng ta muốn nhìn thấy dạng lịch thay vì dạng bảng như ban đầu. Lúc này, bạn bấm vào Add a view > chọn dạng Calendar > Create.
+
+Giao diện Notions
+
+Bước 3: Để thông tin được hiển thị theo cách bạn muốn, hãy vào mục Properties, sau đó gạt nút bật ở các đề mục bạn muốn.
+
+Giao diện Notions
+
+Với mỗi template tạo ra nhóm có thể bán các mẫu phức tạp sẽ dao động từ 20.000 đến 40.000 đồng, còn các mẫu đơn giản thì sẽ chia sẻ miễn phí cho các bạn dùng.

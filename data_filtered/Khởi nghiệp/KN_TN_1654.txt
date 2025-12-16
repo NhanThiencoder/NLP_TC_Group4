@@ -1,0 +1,23 @@
+Chủ nhân của dự án là nhóm sinh viên đến từ Trường ĐH Nguyễn Tất Thành (TP.HCM), Trường ĐH Tài nguyên và Môi trường (TP.HCM) gồm: Võ Hữu Quang Duy (nhóm trưởng), Đỗ Vinh Đường, Nguyễn Đức Minh, Văn Hữu Đạt, Lê Hồng Phước.
+
+
+
+Nhóm sinh viên thực hiện dự án "Nấm bào ngư thảo dược HMG" NVCC
+
+Theo Duy, hiện nay nguyên liệu chính để trồng nấm bào ngư là mùn cưa ngày càng khan hiếm và giá thành cao. Nhu cầu về nguồn nguyên liệu thay thế vô cùng cấp thiết. Để giải quyết bài toán này, nhóm đã quyết định nghiên cứu dùng bã thuốc từ các công ty dược làm nguyên liệu thay thế để trồng nấm.
+
+Bên cạnh đó, hiện nay các sản phẩm về cải thiện sức khỏe được nhiều người quan tâm, để có sản phẩm gia tăng sức khỏe cho người tiêu dùng và nâng cao giá trị của nấm bào ngư, nhóm đã áp dụng kỹ thuật công nghệ kinh tế tuần hoàn bằng cách sử dụng bã thảo dược từ nhà máy đông y làm nguyên liệu chính để trồng nấm.
+
+"Điểm đặc biệt của ý tưởng này là nấm bào ngư sẽ được trồng trên nền thảo dược có hoạt chất tác dụng kháng viêm, tăng đề kháng, giảm cholesterol. Theo ứng dụng mô hình tuần hoàn, nấm bào ngư được trồng ra sẽ có chức năng tương tự. Phôi sau khi thu hoạch nấm sẽ được xử lý để ra phân bón hữu cơ vi sinh", Duy nói.
+
+Để sản phẩm được ra đời, nhóm Duy đã tiến hành quy trình công nghệ gồm nhiều giai đoạn. Đầu tiên, bã thảo dược sẽ được vận chuyển về trại nấm để tiến hành xử lý sơ bộ. Ở các giai đoạn sau, nhóm sẽ ủ vật liệu rồi đóng nguyên liệu vào túi, đồng thời hấp khử trùng để cho ra được các bịch phôi nấm từ bã thuốc. Từ đó, nhóm sẽ tiến hành cấy meo, ủ tơ khoảng từ 25 ngày đến 1 tháng và tưới bịch phôi. Cuối cùng sẽ thu được sản phẩm nấm bào ngư thảo dược.
+
+Đến nay, nhóm Duy đã cung ứng phôi làm từ bã thảo dược cho nhiều trại trồng nấm, phân bón cung cấp cho nông dân ở các tỉnh Tiền Giang, Bến Tre. Còn sản phẩm nấm bào ngư được bán nhiều trên các trang thương mại điện tử, mạng xã hội.
+
+Bên cạnh đó, để việc trồng nấm bào ngư thành công, nhóm Duy đã áp dụng chuyển đổi số bằng công nghệ trồng khép kín với những thiết bị như: máy xay bã thuốc, hấp khử trùng phôi nấm, hệ thống thông gió, phun sương và máy đóng phôi nấm.
+
+"Điều quan trọng giúp nấm bào ngư phát triển là các yếu tố về dinh dưỡng, pH nhiệt độ và ánh sáng xung quanh. Từ đó tích hợp IoT vào công nghệ nuôi trồng, giúp kiểm soát chặt chẽ về môi trường trồng nấm. Hệ thống được trang bị các cảm biến riêng biệt nhằm lấy đúng thông số và chính xác nhất", Quang Duy nói.
+
+Nhận định về sản phẩm của nhóm, thạc sĩ Trần Thành, chuyên viên nghiên cứu Viện Ứng dụng công nghệ và phát triển bền vững (Trường ĐH Nguyễn Tất Thành), cho hay dự án mang tính bảo vệ môi trường cao và hướng đến sự phát triển bền vững. Giúp giữ và chuyển hóa những thành phần dược tính như polysaccharide và saponin với công dụng kháng viêm, tăng đề kháng, giảm cholesterol của bã thảo dược sang nấm bào ngư.
+
+"Đây là một dự án với ý tưởng khá mới khi phát triển cây nấm trên nền thảo dược, điều này không chỉ mang lại dinh dưỡng cao hơn mà còn làm tăng giá trị cho nấm bào ngư", thạc sĩ Trần Thành nhìn nhận.

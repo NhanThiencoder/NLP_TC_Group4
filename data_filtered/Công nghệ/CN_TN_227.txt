@@ -1,0 +1,8 @@
+MSI vừa giới thiệu tại Việt Nam mainboard K8NGM2 với các tính năng mới. K8NGM2 được hỗ trợ con chip mới nhất của NVIDIA nForce4. Thử nghiệm cho thấy K8NGM2 chạy tốt trong môi trường 64-bits với card đồ họa tích hợp.
+
+K8NGM2 với con chip nForce được hỗ trợ GeForce 6150/6100 hoạt động tốt với card đồ họa tích hợp. Bên cạnh chuẩn tốc độ xử lý thông thường của một mainboard, K8NGM2 còn có khả năng xử lý hình ảnh với ngõ ra DVI-D mà mọi game thủ đều yêu thích. Người sử dụng có thể cài đặt thêm card đồ họa vào PCI-Express để nâng cao chất lượng hình ảnh hơn. Mainboard K8NGM2 cũng cho phép người sử dụng nâng cấp máy tính nếu sau này có nhu cầu mới phát sinh.
+
+Qua thử nghiệm cho thấy, các nhu cầu về một “rạp hát tại nhà” của hầu hết những người yêu “hi-tech” hiện nay đều được K8NGM2 của MSI đáp ứng đầy đủ. Mainboard này cũng hỗ trợ chuẩn Microsoft WMV HD cho phép offload giải mã code video từ CPU vào GPU, hình ảnh rõ nét hơn, không bị giật hình. K8NGM2 có ngõ ra kép bao gồm TV-out cho phép dễ dàng kết nối với bất kỳ thiết bị trình chiếu nào với độ phân giải sắc nét.
+
+
+

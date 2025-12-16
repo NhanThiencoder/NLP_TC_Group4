@@ -1,0 +1,25 @@
+Title: Nền tảng IoT cho nông nghiệp cảnh báo khi có thay đổi trong canh tác
+
+Chuyển đổi số là xu hướng tất yếu trong nông nghiệp. Tuy nhiên, quá trình này vẫn còn một số khó khăn, rào cản do ứng dụng công nghệ số còn mới mẻ, hạ tầng kết nối chưa đồng bộ, hạn chế về hệ thống dữ liệu, chất lượng nguồn lực chưa đáp ứng…
+
+Theo ông Bùi Tiến Dũng, Giám đốc dự án Vconnex, ứng dụng Nền tảng IoT ứng dụng cho nông nghiệp kết nối thông minh sẽ hỗ trợ tích cực cho đội ngũ quản lý trang trại và người lao động tham gia sản xuất. Qua đó, thuận tiện trong theo dõi sinh trưởng, phát triển của cây trồng, vật nuôi, kịp thời có những điều chỉnh phù hợp và giảm bớt sức lao động.
+
+Thực tế, nền tảng đã được triển khai tại một số dự án như Trang trại công nghệ cao Delco Bắc Ninh, HTX ổi Thanh Kiên Bình Dương. Sau khi áp dụng các ứng dụng thông minh, doanh thu và năng suất đều tăng lên đáng kể, cho thấy thành công từ chuyển đổi số.
+
+Giải pháp nông nghiệp kết nối thông minh của Vconnex được thiết kế để triển khai trên nhiều đơn vị diện tích khác nhau, với khả năng tùy biến cao và nhân rộng không giới hạn. Giải pháp giúp tối ưu nguồn nhân lực vận hành, giảm thiểu chi phí đầu tư gia tăng năng suất cây trồng, vật nuôi và giảm thiểu chất thải, bảo vệ môi trường hiệu quả. Với những hành động đã được thiết lập trước, giải pháp nông nghiệp kết nối thông minh giúp hệ thống vận hành giảm đi đáng kể những công việc thủ công. Thay vì phải có người bật, tắt hệ thống tưới tiêu, bây giờ có thể điều khiển từ xa, thậm chí không cần người điều khiển hàng ngày mà vẫn có thể tự động hoạt động theo thiết lập sẵn có.
+
+Hệ thống Nông nghiệp kết nối hoạt động dựa trên nguyên lý kết nối các thiết bị thông qua IoT gateway và kết nối với Cloud thông qua mạng Internet. Giải pháp được thiết kế đảm bảo một vòng kết nối khép kín mang lại sự minh bạch và hiệu quả dài hạn cho mọi người mọi nhà, đảm bảo chất lượng, vệ sinh an toàn của thực phẩm "từ nông trại tới bàn ăn".
+
+Giải pháp tối ưu với mọi quy mô, loại hình canh tác, sản xuất và vùng sinh thái tại Việt Nam; Đưa công nghệ vào nông nghiệp, mang cách mạng công nghiệp 4.0 gần hơn với người nông dân Việt Nam.
+
+Kinh nghiệm từ HTX ổi Thanh Kiên
+
+Năm 2019, Hợp tác xã (HTX) Nông nghiệp ổi Thanh Kiên được bình chọn là 1/5 HTX tiêu biểu của tỉnh Bình Dương. Danh hiệu này đạt được, nhờ những thành quả trong việc áp dụng nông nghiệp thông minh vào trồng và thu hoạch ổi sạch. Sau khi áp dụng nông nghiệp thông minh, sản lượng ổi thu hoạch của HTX Nông nghiệp ổi Thanh Kiên đã tăng lên đáng kể. Sản lượng thu hoạch ổi hàng ngày ước tính rơi vào khoảng 800kg ổi trên 1ha.
+
+Giải pháp nông nghiệp thông minh Vconnex cung cấp cho HTX Nông nghiệp ổi Thanh Kiên gồm có: hệ thống máy móc, thiết bị và phần mềm quản lý tập trung cho toàn bộ hợp tác xã. Theo đó, toàn bộ lượng nước, lượng phân, nhiệt độ, độ ẩm… cho cây ổi đều được tính toán và thiết lập phù hợp với từng giai đoạn phát triển của cây. Giải pháp nông nghiệp thông minh Vconnex giúp HTX Nông nghiệp ổi Thanh Kiên tăng tính chính xác trong quá trình canh tác.
+
+Những giá trị về nhiệt độ, độ ẩm, ánh sáng, … sẽ được các thiết bị cảm ứng thu lại và đẩy dữ liệu lên hệ thống. Hệ thống quản lý trung tâm sẽ nhận dữ liệu và đưa ra các hành động phù hợp như phun sương, tưới nước, tưới phân… từ đó giúp tối ưu hệ thống quản lý, giám sát và vận hành.
+
+Ứng dụng công nghệ IoT vào nông nghiệp thông minh, toàn bộ quá trình trồng ổi tại HTX Thanh Kiên đều được quản lý bằng ứng dụng trên điện thoại di động. Các tác vụ tự động như giám sát các thông số môi trường, điều khiển các hệ thống hoạt động theo thiết lập sẵn, thông báo, cảnh báo kịp thời khi có những thay đổi diễn ra đều được thao tác và quản lý chỉ qua những thao tác ngay trên điện thoại.
+
+Khi dùng giải pháp, các chủ trang trại, hợp tác xã nông nghiệp có thể bỏ ra nguồn lực tiết kiệm nhất (nhân lực, vật lực, thời gian, chi phí) nhưng kết quả thu lại cao nhất (năng suất, sản lượng, doanh thu,…).

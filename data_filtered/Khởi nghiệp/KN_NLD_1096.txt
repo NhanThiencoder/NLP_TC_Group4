@@ -1,0 +1,37 @@
+Một vài năm trở lại đây, thuật ngữ “startup” trở nên phổ biến trên toàn thế giới để mô tả một vài dự án kinh doanh mạo hiểm, những ứng dụng mới ra mắt tại thung lũng Silicon và thậm chí cả những công ty công nghệ lớn. Tuy nhiên "startup" thật sự có nghĩa là gì, có rất ít người hiểu rõ.
+
+"Startup" là gì?
+
+“Startup là một công ty hoạt động nhằm giải quyết một vấn đề mà giải pháp không phải là hiển nhiên và dĩ nhiên không có gì đảm bảo thành công cả”, theo Neil Blumenthal – Đồng sáng lập và đồng CEO của Warby Parker.
+
+Còn Adora Cheung - Đồng sáng lập và CEO của Homjoy - một trong những startup đình đám nhất tại Mỹ trong năm 2013 thì cho rằng: “Startup là một trạng thái tinh thần. Khi mọi người gia nhập công ty của bạn và đưa ra những quyết định cứng rắn thay vì chấp nhận sự ổn định để đổi lấy lời hứa tăng trưởng mạnh và sự phấn khích mang lại những thay đổi ngay lập tức".
+
+Cuối cùng, từ điển Heritage của Mỹ nói rằng "startup" là “một doanh nghiệp hay công việc kinh doanh vừa mới đi vào hoạt động”. Nhưng cái khó ở đây là nguồn này không ghi rõ "mới" là bao nhiêu. Điều đó khiến cho nhiều người hiểu lầm cho rằng startup có tuổi đời chỉ 1-2 năm.
+
+Theo Paul Graham – lập trình viên và nhà đầu tư mạo hiểm nổi tiếng với vai trò sáng lập viên của Y-Combinator (quỹ đầu tư mạo hiểm chỉ đầu tư cho các ý tưởng mới) – nhận định: “Một công ty 5 năm tuổi cũng có thể là một startup”.
+
+Như vậy, thời gian không phải là thước đo chuẩn để xác định một công ty có phải là startup hay không. Theo CEO Warby Parker, startup là một tổ chức được thiết kế nhằm cung cấp sản phẩm và dịch vụ trong những điều kiện không chắc chắn nhất. Các startup được thiết kế cho những tình huống không thể mô hình hóa và độ rủi ro không nhất thiết phải lớn nhưng chưa tính toán được.
+
+Dưới đây là một số nhận định chủ quan về startup. Chúng ta hãy cùng bàn luận về nó.
+
+Mục tiêu của startup là để bán mình?
+
+Có rất nhiều startup thành công sau đó đã bán mình cho nhà đầu tư khác.
+
+Vốn đầu tư đối với startup rất quan trọng, và điều này thường được mang đến bởi các nhà đầu tư. Tuy nhiên, việc quyết định bán công ty hay không phụ thuộc nhiều vào quyết định của các sáng lập viên. Đương nhiên, đó không phải là mục tiêu của tất cả các startup. Bởi nếu thế, làm sao chúng ta lí giải được sự thành công vượt bậc của những công ty như Facebook hay Google?
+
+Thông thường, các startup đều muốn sau này không còn là startup. Thời hạn cho quá trình chuyển giao này thường là 3 năm. Khi đó, thường có một số yếu tố xuất hiện: được mua lại bởi một công ty lớn hơn, hay có hơn 1 văn phòng, doanh thu lớn hơn 20 triệu USD, có hơn 80 nhân viên hay ban quản trị có trên 5 người. Đặc biệt, khi một công ty đã có lợi nhuận thì thường được coi là đã "tốt nghiệp" startup.
+
+Một đặc điểm then chốt gắn liền với các startup là khả năng tăng trưởng. Như Graham giải thích, startup được thiết kế để tăng trưởng không giới hạn và nhanh nhất có thể. Đây cũng chính là đặc điểm để phân biệt startup với doanh nghiệp nhỏ. Một doanh nghiệp nhỏ sẽ được vận hành trong một phạm vi nhất định và được giới hạn bởi người sáng lập. Doanh nghiệp nhỏ cũng muốn phát triển càng nhanh càng tốt tuy nhiên bị giới hạn bởi yêu cầu trước tiên là lợi nhuận – điều này đi ngược lại với startup.
+
+Startup phải có sáng tạo đỉnh cao về khoa học công nghệ?
+
+Điều này đúng, nhưng chưa đủ. Định nghĩa startup không phải chỉ xuất hiện trong lĩnh vực công nghệ. Có một điều chắc chắn là các startup thường ứng dụng công nghệ để giải quyết các vấn đề và sự xuất hiện của công nghệ ở khắp mọi nơi.
+
+Sự sáng tạo trong startup cần được hiểu một cách rộng rãi, không nhất thiết là tạo ra công nghệ mới chưa từng có.
+
+Ngay cả những sáng chế tiên tiến nhất cũng luôn được xây dựng dựa trên các công nghệ cũ. Nhiều công ty startup không sáng chế ở khía cạnh sản phẩm, mà sử dụng các sáng chế khác: điều chỉnh những công nghệ hiện tại cho mục đích mới, đặt ra một mô hình kinh doanh mới để mở ra các giá trị trước đây chưa được tìm ra, hoặc thậm chí mang sản phẩm hay dịch vụ đến một địa điểm mới hoặc nhóm khách hàng trước đây chưa được phục vụ. Trong tất cả các trường hợp này, sự sáng tạo đổi mới là chìa khóa đưa đến thành công cho công ty.
+
+Bởi vì sáng tạo vốn là mạo hiểm, có thể lợi nhuận quá lớn về kinh tế cho các công ty startup có thể tận dụng rủi ro theo một cách mới – nhưng đây không phải là một phần tất yếu của công ty startup. Vấn đề nằm ở chỗ: “mức độ của sự sáng tạo mà doanh nghiệp muốn đạt được là gì?”
+
+Và khi một startup phát triển đến một mức độ đủ lớn, tạo ra hàng triệu USD lợi nhuận, chúng ta hiểu danh xưng startup đã không còn đúng với họ nữa rồi.

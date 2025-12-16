@@ -1,0 +1,37 @@
+Hậu quả của những sự cố như vậy có thể còn nghiêm trọng hơn nhiều trong tương lai, nếu trí tuệ nhân tạo (AI) trở thành trung tâm của công việc và đời sống như các “ông lớn công nghệ” vẫn hứa hẹn.
+
+Hôm 20/10, sự cố tại Amazon Web Services (AWS) khiến nhiều người không thể đặt lịch khám bác sĩ hoặc truy cập dịch vụ ngân hàng trực tuyến. Nhưng hãy tưởng tượng, nếu lần tới, một sự cố tương tự làm tê liệt các công cụ AI mà bác sĩ đang dùng để chẩn đoán bệnh, hoặc làm ngưng trệ các hệ thống tài chính tự động, hậu quả sẽ khủng khiếp đến mức nào.
+
+Hơn 2.000 doanh nghiệp và dịch vụ bị ảnh hưởng do sự cố tại Amazon Web Services hôm 20/10. Ảnh: Cnet
+
+Dù hiện tại kịch bản đó còn mang tính giả định, ngành công nghệ đang đẩy nhanh tốc độ phát triển các “tác nhân AI” (AI agents) – những hệ thống có thể thay con người thực hiện công việc – khiến doanh nghiệp, trường học, bệnh viện và tổ chức tài chính ngày càng phụ thuộc vào dịch vụ điện toán đám mây.
+
+Một khảo sát toàn cầu với gần 1.500 công ty do McKinsey & Company công bố hồi tháng 5 cho thấy 78% doanh nghiệp đã ứng dụng AI trong ít nhất một lĩnh vực hoạt động, tăng 55% so với năm trước.
+
+“Nếu hệ thống gặp sự cố và bạn phụ thuộc vào AI để ra quyết định, chắc chắn hiệu suất công việc sẽ bị ảnh hưởng”, Tim DeStefano, giáo sư nghiên cứu tại Trường Kinh doanh McDonough (Đại học Georgetown), nhận định.
+
+Sự cố hôm thứ Hai ảnh hưởng rộng vì hàng nghìn doanh nghiệp dựa vào dịch vụ đám mây cho các hoạt động nền tảng, như máy chủ ảo, lưu trữ dữ liệu hoặc công cụ phát triển. Cách vận hành này thường hiệu quả, linh hoạt và tiết kiệm nhưng khi AWS “ngã gục”, nó ảnh hưởng đến một phần lớn của Internet.
+
+Dù vậy, phải thừa nhận rằng các hệ thống đám mây này hoạt động cực kỳ ổn định xét trên quy mô toàn cầu. Tuy nhiên, các sự cố như trên đặt ra câu hỏi: làm sao để đảm bảo độ tin cậy cao hơn nữa cho các dịch vụ công nghệ trọng yếu.
+
+AWS hiện phục vụ hàng triệu khách hàng, từ các chuỗi bán lẻ, nhà hàng, công ty tài chính đến cơ quan chính phủ, chiếm khoảng 37% thị phần điện toán đám mây toàn cầu, theo Gartner. Cùng với Microsoft và Google, ba “ông lớn” này kiểm soát gần 70% thị trường.
+
+Sự tập trung hóa hạ tầng Internet ngày càng lớn trong kỷ nguyên AI. Theo nhà phân tích Jacob Bourne của hãng nghiên cứu Emarketer, Amazon, Microsoft và Google vẫn là những nhà cung cấp chủ đạo cho ứng dụng AI, tương lai của họ gắn chặt với nhu cầu tăng trưởng trong lĩnh vực này.
+
+“Điện toán đám mây gần như là điều kiện tiên quyết để dùng AI”, DeStefano nói. “Các máy tính chạy AI rất mạnh và đắt đỏ, trong khi phần cứng tại chỗ khó nâng cấp theo nhu cầu. Vì thế, việc thuê dung lượng đám mây linh hoạt hơn nhiều”.
+
+Tuy nhiên, Bourne cảnh báo càng nhiều doanh nghiệp sử dụng AI, rủi ro gián đoạn càng tăng, do các mô hình AI tiêu tốn năng lượng khổng lồ. Các nhà cung cấp lớn như Amazon, Microsoft và Google đang chi hàng tỷ USD xây dựng trung tâm dữ liệu mới để đáp ứng nhu cầu này.
+
+Nguy cơ sẽ trở nên nghiêm trọng nếu các công ty giao quá nhiều nhiệm vụ quan trọng cho AI – một xu hướng đang tăng tốc, dù còn nhiều tranh cãi. Các hãng công nghệ đang dùng AI để viết mã, ngân hàng cắt giảm nhân sự nhờ tự động hóa, thậm chí Amazon xem xét dùng robot AI để tự động hóa 75% khâu vận hành kho hàng, theo New York Times.
+
+“Đó là giấc mơ của công nghệ, nhưng nếu có sự cố mà con người không kịp can thiệp, chúng ta đang đặt toàn bộ niềm tin vào AI”, Bourne cảnh báo.
+
+Song, mối đe dọa này không phải không thể tránh được. Sự chuyển dịch sang AI cũng mang lại cơ hội để xây dựng lại một hạ tầng Internet linh hoạt và bền vững hơn. Các đối thủ nhỏ như Oracle và CoreWeave đang giành thị phần nhờ các dịch vụ đám mây chuyên biệt cho AI. Một số doanh nghiệp cũng bắt đầu dùng nhiều nhà cung cấp đám mây khác nhau để dự phòng.
+
+Ngoài ra, các hãng AI lớn như Meta và OpenAI đang đầu tư hàng tỷ USD xây dựng trung tâm dữ liệu riêng, giảm tải cho hệ thống chung. Ngành công nghệ cũng đang nỗ lực tối ưu hóa mô hình AI để có thể chạy trực tiếp trên điện thoại hoặc máy tính cá nhân, thay vì phụ thuộc hoàn toàn vào đám mây.
+
+Cuối cùng, AI cũng có thể trở thành công cụ phát hiện và khắc phục lỗi bảo mật, giúp ngăn chặn các sự cố như của AWS nếu các công ty sẵn sàng đầu tư nghiêm túc cho mục tiêu đó thay vì chỉ tập trung vào chatbot hay ứng dụng giải trí.
+
+“Chúng ta hoàn toàn có lộ trình để khiến AI phục vụ con người theo cách tốt nhất”, Bourne nói. “Chỉ là, dường như chúng ta vẫn chưa đi đúng hướng”.
+
+(Theo CNN)

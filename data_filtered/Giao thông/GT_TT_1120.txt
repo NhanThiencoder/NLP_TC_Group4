@@ -1,0 +1,65 @@
+TTCT - Dữ liệu sai thì chính sách giao thông cũng trật.
+
+Ảnh: Shutterstock
+
+Số lần cảnh sát dừng xe để kiểm tra hoặc phạt lỗi vi phạm, lượt tài xế bị lập biên bản hay số người chết vì tai nạn giao thông đều là những số liệu có ý nghĩa khi phân tích các chính sách giao thông và tìm cách điều chỉnh sao cho tốt hơn.
+
+Trong thực tế, các số liệu này có thể không được thu thập một cách đầy đủ hay nhất quán hoặc chưa được phân tích thấu đáo. Và dữ liệu chưa tốt thì khó có chính sách hiệu quả.
+
+Tai nạn tăng vì cảnh sát bớt kiểm tra?
+
+Trong giai đoạn đầu của đại dịch COVID-19 năm 2020, số lượt người đi đường bị cảnh sát dừng xe giảm mạnh ở Mỹ. Điều này cũng dễ hiểu, bởi các biện pháp phòng dịch khi ấy góp phần hạn chế xe cộ trên đường và cũng hạn chế luôn việc cảnh sát "tiếp xúc gần" với người dân.
+
+Điều đáng chú ý mà các số liệu chỉ ra: trong những năm sau khi dịch đã đi qua, có một điểm chung giữa nhiều thành phố là dù số lượng xe cộ trên đường đã trở về mức bình thường, cảnh sát không còn mặn mà với việc dừng xe người vi phạm nữa.
+
+Ở các thành phố như Baltimore, New Orleans hay San Francisco, lượt dừng xe tính đến cuối năm 2023 đều nằm ở mức chưa đến một nửa so với trước dịch, theo số liệu do The New York Times tổng hợp.
+
+Tại các thành phố như Seattle hay New York, nơi cảnh sát không công khai thống kê về tổng số lượt dừng xe, số biên bản vi phạm giao thông được lập trực tiếp (không tính phạt nguội qua camera) cũng giảm đáng kể. Cụ thể, số biên bản giao thông ở Seattle năm 2023 đã giảm 83% so với năm 2019, còn ở New York giảm 37% so với năm 2018.
+
+Đáng nói, việc lực lượng thực thi pháp luật giảm bớt hiện diện trên đường diễn ra trong bối cảnh số người chết do tai nạn giao thông gia tăng ở Mỹ. Tại thành phố Philadelphia, nơi có số lượt cảnh sát dừng xe giảm 49% so với trước dịch, số người chết vì tai nạn giao thông đã tăng 58% từ năm 2019-2022.
+
+Tất nhiên rất khó khẳng định liệu có mối liên hệ trực tiếp nào giữa giảm hành pháp với tăng số thương vong trên đường hay không nhưng chỉ riêng khả năng tồn tại mối liên hệ giữa chúng cũng đủ khiến người trong cuộc quan ngại.
+
+Charles T. Brown - CEO Công ty nghiên cứu chính sách công Equitable Cities, một đơn vị có kinh nghiệm làm việc với các cộng đồng địa phương về vấn đề cải cách lực lượng cảnh sát và cải thiện an toàn giao thông - cho rằng dù khó bỏ qua khả năng này, song cũng không có nghĩa là cần quay lại kiểu thực thi pháp luật truyền thống để đảo ngược xu hướng (số người chết vì tai nạn giao thông ngày càng tăng).
+
+Hai cây bút Emily Badger và Ben Blatt - đồng tác giả bài viết phân tích các dữ liệu nói trên cho tờ The New York Times - cho rằng khó có thể tìm được mẫu số chung giữa các địa phương ghi nhận xu hướng cảnh sát giảm dừng xe người đi đường.
+
+Xu hướng này xuất hiện ở Denver - nơi có chương trình giám sát giao thông bằng camera nhưng cũng có ở cả Austin - nơi camera giao thông bị cấm theo luật của tiểu bang Texas. Người ta thấy xu hướng này tại Seattle - nơi đối mặt với tình trạng thiếu hụt nhân lực ngành cảnh sát và ở cả Nashville, nơi số lượng cảnh sát vẫn luôn duy trì ổn định.
+
+Một giả thiết được đặt ra là các sở cảnh sát ở Mỹ muốn giảm bớt tương tác không cần thiết giữa cảnh sát và người dân để tránh lặp lại câu chuyện thương tâm của George Floyd - một người đàn ông da màu đã chết sau khi bị cảnh sát ở Minneapolis ghì cổ xuống mặt đường bằng đầu gối trong suốt hơn 9 phút vào năm 2020, tạo nên làn sóng phẫn nộ trong lòng nước Mỹ.
+
+"Đã có rất nhiều bất công. Nhưng khi có người chết vì những người lái xe phóng nhanh trên đường thì đó cũng là một sự bất công" - Damian Kevitt, người bị đứt lìa một chân sau khi bị một chiếc xe hơi chạy quá tốc độ tông trúng trong lúc đạp xe, cảm thán. "Người dân đang chết vì giờ đây hầu như cảnh sát không thực thi luật giao thông ở thành phố Los Angeles".
+
+Số liệu của thành phố dường như ủng hộ nhận định này: trước dịch, cảnh sát Los Angeles dừng xe kiểm tra hơn 500.000 lần mỗi năm, nhưng con số này vào năm 2023 chỉ còn chưa đến 220.000 lần.
+
+Việc của đâu riêng cảnh sát
+
+Theo các chuyên gia, để việc thực thi pháp luật của cảnh sát có thể cải thiện an toàn giao thông một cách thực chất, nó cần phải góp phần thay đổi ý thức của tài xế một cách phổ quát - tức là không chỉ tác động đến hành vi của những tài xế bị phạt lỗi vi phạm mà thôi.
+
+Những năm 1980 và 1990, luật buộc tài xế thắt dây an toàn bắt đầu có hiệu lực tại các tiểu bang ở Mỹ và quy định về lái xe khi có nồng độ cồn trong người cũng được siết chặt. Đi kèm là các chiến dịch ra quân rầm rộ của cảnh sát để kiểm tra người vi phạm trên đường, khiến tỉ lệ tử vong vì tai nạn xe cơ giới giảm đáng kể.
+
+"Một số nghiên cứu cho thấy việc thực thi pháp luật của cảnh sát có ảnh hưởng đến an toàn giao thông. Tuy nhiên liệu những lợi ích này có còn tồn tại sau khi cảnh sát rời đi không thì không rõ ràng" - Badger và Blatt viết.
+
+Một số nghiên cứu khác gợi ý cảnh sát không thể lẻ loi trong công cuộc kéo giảm tai nạn giao thông, mà đội ngũ kỹ sư thiết kế cầu đường cũng quan trọng không kém. Trong những năm trước đại dịch ở thành phố Burlington bang Vermont, số lần dừng xe của cảnh sát giảm nhưng số vụ tai nạn nghiêm trọng cũng giảm theo, một phần là nhờ thành phố đã cho thiết kế lại gờ giảm tốc và vạch qua đường một cách hợp lý hơn, cảnh sát trưởng thành phố Jon Murad cho biết.
+
+Các chương trình hướng tới tầm nhìn không thương vong vì tai nạn giao thông (còn gọi là Vision Zero) ở nhiều thành phố tại Mỹ cũng đã cố gắng kết hợp việc thực thi pháp luật của cảnh sát với các chiến dịch thiết kế lại đường sá và giáo dục người dân. Thiếu một trong hai nhân tố đều có thể ảnh hưởng đến kết quả.
+
+Chẳng hạn tại New York, Vision Zero đã giúp kéo giảm tỉ lệ thương vong do tai nạn giao thông trong nhiều năm cho đến trước dịch nhưng chuỗi thành công này đã bị đảo ngược trong giai đoạn dịch, theo một nghiên cứu xuất bản năm 2024 trên tạp chí American Journal of Public Health. Điểm khác biệt lớn nhất, theo nhóm nghiên cứu, chính là sự sụt giảm trong việc thực thi pháp luật của cảnh sát.
+
+Dữ liệu: đủ nhưng phải đúng
+
+"Những khu vực có dữ liệu tốt thường diễn ra các cuộc tranh luận về chính sách, thứ không thể xảy ra ở nơi có dữ liệu kém" - Badger và Blatt viết. Theo đó, những thành phố ở Mỹ được lấy làm ví dụ trong bài báo phân tích không hẳn là những nơi có sự thay đổi đáng chú ý nhất về cách làm việc của cảnh sát, mà là những nơi "dữ liệu cho phép [các tác giả] thấy được" sự thay đổi đó.
+
+Vì không có một tiêu chuẩn toàn quốc nào cho việc thu thập dữ liệu về số lần dừng xe của cảnh sát, hai nhà báo đã cố gắng tổng hợp số liệu từ càng nhiều thành phố càng tốt. "Nhiều thành phố chúng tôi muốn đưa vào bài báo nhưng không thể vì dữ liệu không đầy đủ" - bộ đôi giải thích.
+
+Việc thiếu vắng dữ liệu đáng tin cậy và có thể đối chiếu lẫn nhau không chỉ khiến công việc của cánh nhà báo gặp khó khăn, mà còn khiến cộng đồng địa phương mù mờ về những gì đang diễn ra tại nơi họ sinh sống.
+
+"Thu thập dữ liệu cũng là một cách để cải cách ngành cảnh sát" thông qua việc giúp cảnh sát biết được hành động của họ đang được giám sát bằng những con số biết nói và từ đó thay đổi hành vi.
+
+Tính chính xác của dữ liệu cũng là một mối quan tâm lớn, nhất là khi các thành phố phụ thuộc vào sự trung thực của viên cảnh sát viết báo cáo. Trong nhiều trường hợp, các sĩ quan đã bị cáo buộc cố ý hoặc vô tình báo cáo sai về sắc tộc của tài xế bị dừng xe, qua đó làm cho thiên kiến sắc tộc nếu có (tài xế da màu bị cảnh sát kiểm tra nhiều hơn người da trắng) trông có vẻ nhỏ hơn so với thực tế.
+
+Việc một số bang như California yêu cầu cảnh sát ghi nhận nhóm nhân khẩu học của tài xế - chẳng hạn như liệu họ có phải người gốc Latin hoặc thuộc cộng đồng LGBT hay không - mà không được phép đặt câu hỏi trực tiếp cũng góp phần khiến dữ liệu bị ảnh hưởng bởi cảm tính.
+
+Ngay cả một số liệu tưởng chừng không thể tranh cãi như số người chết vì tai nạn giao thông cũng có đủ kiểu đếm tùy theo địa phương. Mỗi năm ở Mỹ có khoảng 40.000 người chết vì tai nạn giao thông nhưng khó tìm ra con số độc lập cho từng thành phố.
+
+"Ở một số thành phố, dữ liệu này được sở cảnh sát thu thập, trong khi ở những thành phố khác lại là sở giao thông. Một số thành phố cũng loại trừ khỏi số liệu của họ những ca tử vong xảy ra trên đường cao tốc liên bang hoặc tiểu bang đi qua địa phận thành phố" - The New York Times liệt kê những khó khăn khi thu thập dữ liệu.

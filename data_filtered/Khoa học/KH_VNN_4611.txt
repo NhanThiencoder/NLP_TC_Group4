@@ -1,0 +1,87 @@
+Năm 2025, Railgun – ‘quái vật điện từ’ từng bị Mỹ ‘bỏ rơi’ năm 2021 – đang trở lại mạnh mẽ. General Atomics đề xuất lắp Railgun cho phòng thủ tên lửa Guam, trong khi Nhật Bản làm nên lịch sử với phát bắn đầu tiên trên tàu chiến, trúng mục tiêu ở tốc độ Mach 7 chỉ trong 6 phút. Không khói lửa, không thuốc nổ, chỉ thuần túy lực Lorentz đẩy đạn 10kg lao vút 370km – công nghệ này có thể ‘xóa sổ’ cả hạm đội trước khi đối phương kịp phản ứng. Khám phá ngay nguyên lý ‘phép màu’ điện từ và thông số ‘khủng’ khiến Trung Quốc, Nga phải chạy đua.
+
+Ảnh: RiaNovosti
+
+Video: BFBS Forces News
+
+Railgun, hay còn gọi là súng điện từ đường ray, là một trong những phát minh công nghệ vũ khí tiên tiến nhất thế giới hiện nay.
+
+Không giống như các loại pháo truyền thống sử dụng thuốc nổ để đẩy đạn, Railgun tận dụng lực điện từ thuần túy để phóng đạn với tốc độ siêu thanh, đạt tới hàng nghìn mét mỗi giây.
+
+Công nghệ này hứa hẹn thay đổi cách thức tác chiến hải quân, với khả năng bắn trúng mục tiêu ở khoảng cách hàng trăm kilomet mà không cần đầu đạn nổ, giúp giảm chi phí và tăng độ an toàn.
+
+Chương trình phát triển Railgun của Hải quân Mỹ đã dẫn dắt thế giới trong lĩnh vực này suốt hơn hai thập kỷ, dù gặp phải không ít trở ngại.
+
+Bài viết sẽ khám phá nguyên lý hoạt động, các thông số kỹ thuật chính và hành trình phát triển của Railgun, dựa trên các nguồn navweaps.com, navalnews.com, nextgendefense.com, scmp.com, newatlas.com, hi-tech.mail.ru, neolurk.org... từ Mỹ và Nga.
+
+Hệ thống vũ khí Railgun. Ảnh: General Atomics
+
+Nguyên lý hoạt động đơn giản nhưng mạnh mẽ
+
+Để hiểu Railgun, hãy tưởng tượng một động cơ điện tuyến tính khổng lồ được thu nhỏ vào một khẩu súng.
+
+Thiết bị gồm hai thanh ray kim loại song song – thường làm từ đồng tinh khiết không oxy, đôi khi phủ lớp bạc để tăng độ dẫn điện – được kết nối với nguồn năng lượng điện khổng lồ ở một đầu.
+
+Giữa hai thanh ray là một viên đạn dẫn điện, gọi là armature, đóng vai trò như một cầu nối di động.
+
+Khi một dòng điện cực mạnh, lên đến 1-5 triệu ampe, chạy qua thanh ray đầu tiên, qua viên đạn và trở về thanh ray thứ hai, nó tạo ra một từ trường mạnh mẽ khoảng 10 tesla.
+
+Lực Lorentz – sự tương tác giữa dòng điện và từ trường – sinh ra một lực đẩy khổng lồ, đẩy viên đạn lao đi dọc theo các thanh ray với gia tốc cực lớn, chỉ trong vài mili giây.
+
+Có ba loại armature chính: loại rắn làm từ nhôm hoặc hợp kim titan cho độ bền cao; loại plasma, nơi viên đạn được hóa hơi thành khí dẫn điện để giảm ma sát; và loại lai kết hợp cả hai để tối ưu hiệu suất.
+
+Ưu điểm lớn nhất của Railgun là không cần thuốc nổ, giúp tránh rủi ro cháy nổ trên tàu chiến và đơn giản hóa việc vận chuyển đạn dược.
+
+Tuy nhiên, thách thức nằm ở nhiệt độ cực cao từ ma sát và dòng điện, gây mài mòn thanh ray nhanh chóng.
+
+Để khắc phục, các nhà nghiên cứu sử dụng hệ thống làm mát bằng nitơ lỏng hoặc vật liệu composite tiên tiến, giúp kéo dài tuổi thọ của nòng súng.
+
+Súng điện từ của Nhật Bản (JMSDF). Ảnh: newatlas.com
+
+Các thông số kỹ thuật nổi bật của Railgun
+
+Chương trình Railgun của Hải quân Mỹ, khởi động từ những năm 1980 và chính thức mang tên "Velocitas Eradico" (tốc độ tiêu diệt) từ năm 2005, tập trung vào việc tích hợp công nghệ này lên tàu khu trục lớp Zumwalt (DDG-1000).
+
+Các thông số được thiết kế để đạt hiệu suất vượt trội, với năng lượng đầu nòng dao động từ 32 đến 64 megajun (MJ) – tương đương năng lượng cần thiết để đẩy một chiếc xe buýt nặng 5 tấn chạy với tốc độ 509 km/h.
+
+Vận tốc đầu nòng là điểm mạnh nhất, đạt từ 2.500 đến 3.390 mét mỗi giây, tương đương Mach 7 đến 10 – gấp đôi tốc độ của pháo thông thường (khoảng 800 m/s).
+
+Trong thử nghiệm năm 2010, Mỹ đã lập kỷ lục với viên đạn nặng 3,2kg bay ở tốc độ 3.390 m/s. Khối lượng đạn thường từ 3,2 đến 10kg, sử dụng loại hyper-velocity projectile (HVP) có khả năng dẫn đường bằng GPS hoặc quán tính, giúp duy trì độ chính xác ở khoảng cách xa.
+
+Về tầm bắn, Railgun có thể tiếp cận mục tiêu từ 160 đến 370km (100 đến 200 hải lý), với thời gian bay chỉ khoảng 6 phút đến mục tiêu xa nhất.
+
+Điều này nhờ quỹ đạo phẳng và tốc độ cao, lý tưởng cho việc đánh chặn tên lửa siêu thanh.
+
+Tốc độ bắn liên tục được thiết kế ở mức 6 đến 12 phát mỗi phút, nhưng đòi hỏi nguồn năng lượng khổng lồ lên đến 15-30 megawatt (MW), được cung cấp bởi hệ thống điện tích hợp (IPS) trên tàu với tổng công suất 78 MW.
+
+Nòng súng dài khoảng 10 mét, không có rãnh xoắn để giảm ma sát, và sử dụng tụ điện hoặc máy phát xung bù làm nguồn năng lượng chính.
+
+Chi phí mỗi viên đạn chỉ khoảng 25.000 USD – rẻ hơn nhiều so với tên lửa thông thường (1 triệu USD) – vì không cần đầu nổ, chỉ dựa vào động năng để phá hủy mục tiêu.
+
+Tuổi thọ nòng súng đã cải thiện từ chỉ 12 phát ban đầu lên hơn 1.000 phát nhờ các tiến bộ vật liệu, dù vẫn là điểm yếu lớn.
+
+Nhật Bản lần đầu tiên lắp đặt Railgun trên tàu chiến: Nguồn: @HNlEHupY4Nr6hRM/hi-tech.mail.ru
+
+Hành trình phát triển và những thách thức lớn
+
+Hải quân Mỹ đã đầu tư hơn 500 triệu USD từ năm 2005 đến 2021, hợp tác chặt chẽ với các công ty như General Atomics và BAE Systems.
+
+Các mốc son bao gồm thử nghiệm đầu tiên năm 2006 với năng lượng 8 MJ và vận tốc 2.520 m/s; kỷ lục 33 MJ năm 2010 tại Trung tâm Chiến tranh Bề mặt Dahlgren; và nguyên mẫu 32 MJ năm 2012, dự kiến lắp đặt trên tàu Zumwalt từ 2016-2020.
+
+Đạn dược đa dạng, từ loại rắn chịu gia tốc 40g để xuyên giáp, đến loại mảnh văng với hàng nghìn viên vonfram chống xe tăng, hay loại nổ cao cho mục tiêu mềm.
+
+Dù vậy, chương trình bị tạm dừng năm 2021 do các vấn đề kỹ thuật dai dẳng: mài mòn nòng chỉ chịu được vài chục phát, tốc độ bắn thấp hơn mong đợi, và nhu cầu năng lượng quá lớn khiến tàu chiến khó duy trì hoạt động lâu dài.
+
+Mỹ đã chuyển hướng sang tên lửa siêu thanh và vũ khí laser, nhưng công nghệ đạn HVP vẫn được tái sử dụng cho pháo thông thường.
+
+Các nguồn Nga đánh giá cao tầm bắn vượt trội của Railgun Mỹ (200-400km), nhưng lưu ý nó kém hơn tên lửa S-300V4 về tốc độ (Mach 6 so với Mach 9).
+
+Hiện nay, Nhật Bản đang hợp tác với Mỹ để tiếp tục nghiên cứu, mở ra hy vọng cho sự trở lại. Nhật Bản làm nên lịch sử với phát bắn đầu tiên trên tàu chiến, trúng mục tiêu ở tốc độ Mach 7 chỉ trong 6 phút.
+
+Hướng tới vũ khí tương lai
+
+Railgun không chỉ là một khẩu súng, mà là biểu tượng của sự kết hợp giữa vật lý điện từ và kỹ thuật quân sự, mang lại hỏa lực tầm xa với chi phí thấp và độ an toàn cao.
+
+Dù chương trình Mỹ gặp trở ngại, công nghệ này vẫn đang được theo dõi sát sao ở châu Âu và châu Á, với tiềm năng ứng dụng trong phòng thủ tên lửa và oanh tạc mặt đất.
+
+Với những cải tiến về vật liệu chịu nhiệt và nguồn năng lượng hiệu quả hơn, Railgun có thể sớm trở thành "vũ khí của hải quân thế kỷ 21", thay đổi hoàn toàn cán cân sức mạnh trên biển.

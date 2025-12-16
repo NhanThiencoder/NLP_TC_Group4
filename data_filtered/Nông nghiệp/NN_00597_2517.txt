@@ -1,0 +1,33 @@
+Title: Ứng dụng GIS góp phần cải thiện hệ thống thông tin nông nghiệp
+
+Những năm gần đây, Việt Nam đặc biệt chú trọng và khuyến khích chuyển đổi số trong lĩnh vực nông nghiệp. Vì những lợi ích mà nền tảng công nghệ số mang lại cho ngành nông nghiệp là không hề nhỏ. Trong đó, việc ứng dụng GIS trong nông nghiệp được xem là tiền đề để người sản xuất có thể dễ dàng theo dõi được từ sự phát triển của cây trồng, thổ nhưỡng, mùa màng, sâu bệnh.... cho tới việc thu thập thông tin, giá cả thị trường xuất khẩu nông sản.
+
+Nếu những năm trước đó số liệu cho thấy cây măng cụt đã từng trồng phát triển rộng và đã thành công trong nhiều năm trước đó, những số liệu này sẽ được lưu trữ. Nếu trong một vài mùa vụ cây trồng không phát triển tốt như trước, bằng sử dụng GIS có thể phân tích số liệu và tìm ra nguyên nhân của hiện tượng đó.
+
+Ảnh minh hoạ
+
+Cách nay ít lâu, Đề tài KC-07-03 “Xây dựng và sử dụng CSDL phục vụ phát triển nông nghiệp và Phát triển nông thôn” của Viện Quy hoạch và Thiết kế Nông nghiệp là một trong các ứng dụng GIS vào công tác quy hoạch nông nghiệp.
+
+Mục tiêu của đề tài là xây dựng CSDL nông nghiệp và nông thôn thống nhất tập trung trên nền GIS (thống nhất về khuôn dạng, hệ toạ độ và cấu trúc dữ liệu gồm cả dữ liệu địa lý và phi địa lý), gắn với các mô hình phân tích thông tin nhằm trợ giúp quá trình lập kế hoạch và quy hoạch sử dụng các nguồn tài nguyên thiên nhiên và phát triển bền vững.
+
+Các loại dữ liệu phi không gian bao gồm: Tài nguyên đất, khí hậu nông nghiệp, tình hình sử dụng đất nông nghiệp, hiệu quả kinh tế sử dụng đất, thuỷ lợi, tình hình sản xuất nông lâm nghiệp, số liệu thống kê nông nghiệp (năng suất, sản lượng, diện tích một số cây trồng chính..), thông tin về sâu bệnh và đặc biệt là số liệu về dân số, lao động nông thôn, kinh tế hộ…
+
+Khuôn dạng chuẩn của dữ liệu –xBase file cho phép tổng hợp, sắp xếp tìm kiếm dữ liệu, đồng thời tương thích với cấu trúc liên hệ dữ liệu thuộc tính trong CSDL GIS và thuận lợi trong kết nối dữ liệu không gian và dữ liệu phi không gian.
+
+Trong quy hoạch đánh giá phân loại đất, GIS là công cụ trợ giúp nhằm thu thập dữ liệu chuyên đề, xử lý dữ liệu địa lý, tích hợp dữ liệu để xây dựng các bản đồ đơn vị đất, mô phỏng kết quả đánh giá đất thông qua các bản đồ thích nghi cho từng loại hình sử dụng đất. Mỗi đơn vị đất là một khu vực địa lý khác biệt với các tính chất về thổ nhưỡng, địa hình, thuỷ văn khí hậu.
+
+Để có kết quả khi thực hiện bài toán thích ứng trong môi trường GIS, thường phải tuân thủ theo qui trình phân tích đa chỉ tiêu gồm: xây dựng bộ chỉ tiêu đánh giá; lựa chọn các lớp bản đồ phục vụ xây dựng bản đồ đơn vị đất. Sau đó đánh giá và phân loại mức độ thích hợp theo ALES và đưa ra các bản đồ chuyên đề, đây chính là thông tin tổng hợp trợ giúp quá trình lập kế hoạch và ra quyết định.
+
+Nghiên cứu khả năng thích ứng của cây trồng cần thu thập các số liệu sinh học và phi sinh học liên quan đến cây trồng được lựa chọn quy hoạch tại vùng đất đó. Các yếu tố phi sinh học gồm: số liệu đất được phân thành các mức thích nghi khác nhau, số liệu khí hậu (lượng mưa, sự phân bố mưa; nhiệt độ và tổng tích ôn theo thời gian sinh trưởng…) và các yếu tố sinh học như sâu bệnh, thời gian sinh trưởng và các yêu cầu sinh học của cây được xác định theo các mức thích ứng khác nhau.
+
+Yếu tố kinh tế xã hội của địa phương được xem xét và đưa vào phân tích để có kết luận tổng thể về tính thích ứng của cây theo quan điểm nền nông nghiệp hàng hoá hiện nay.
+
+Khi đã có những bản đồ thích nghi, việc quyết định phương án quy hoạch tổng thể sẽ chuyển đến các nhà hoạch định chính sách.
+
+Ở một số nơi GIS còn được ứng dụng để theo dõi sự lan tràn của cỏ dại. Với việc kết hợp ứng dụng viễn thám với GIS sẽ cung cấp một cách nhanh chóng, chính xác bản đồ cỏ dại ở các thời kỳ . Điều này là rất quan trọng đối với các nhà nông học. Họ có thể sử dụng các thông tin thu thập được để ngăn ngừa sự lan tràn của các loài cỏ dại phá hoại mùa màng.
+
+Và dĩ nhiên, cỏ dại cũng không phải là vấn đề duy nhất GIS có thể giải quyết, thực tế GIS có thể giải quyết được nhiều vấn đề khác. Nhiều dự án đã được thực hiện để theo dõi sự di chuyển của côn trùng, hoặc sâu bệnh. Nếu một loại động vật hay côn trùng nào phá hoại đồng ruộng, với GIS nó có thể bị theo dõi và tìm ra dấu vết.
+
+Nói tóm lại, GIS được đánh giá rất hữu ích, đặc biệt trong bối cảnh Việt Nam hiện nay. Việc ứng dụng GIS trong nông nghiệp được xem là tiền đề để người sản xuất có thể dễ dàng theo dõi được sự phát triển của cây trồng, thổ nhưỡng, mùa màng, sâu bệnh và rất nhiều yếu tố khác.
+
+Duy Khánh và nhóm PV, BTV

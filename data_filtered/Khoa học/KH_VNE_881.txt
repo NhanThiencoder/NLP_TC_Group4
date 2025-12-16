@@ -1,0 +1,15 @@
+MỹCác nhà nghiên cứu thu được điện áp 18 microvolt với thiết bị thử nghiệm gồm một ống trụ làm bằng chất dẫn điện yếu.
+
+Chuyển động quay và từ trường của Trái Đất có thể tạo ra điện. Ảnh: iStock
+
+Nhóm nhà vật lý từ Đại học Princeton, Phòng thí nghiệm Sức đẩy Phản lực của Viện Công nghệ California (CIT) và Spectral Sensor Solutions, đề xuất tạo ra điện bằng năng lượng từ chuyển động quay của Trái Đất. Trong nghiên cứu mới, công bố trên tạp chí Physical Review Research hôm 19/3, họ đã thử nghiệm lý thuyết bằng cách sử dụng một thiết bị đặc biệt tương tác với từ trường Trái Đất.
+
+Trong thập kỷ qua, nhóm nghiên cứu cân nhắc ý tưởng tạo ra điện với chuyển động quay và từ trường của Trái Đất, thậm chí từng xuất bản một nghiên cứu mô tả khả năng này vào năm 2016. Nghiên cứu này vấp phải sự hoài nghi vì các lý thuyết trước đó cho rằng đây là việc bất khả thi: Bất kỳ điện áp nào do một thiết bị như vậy tạo ra sẽ bị triệt tiêu khi các electron tự sắp xếp lại trong quá trình tạo ra trường điện.
+
+Trong nghiên cứu mới, nhóm nhà khoa học thắc mắc điều gì sẽ xảy ra nếu ngăn chặn sự triệt tiêu này và thu giữ điện áp. Để tìm hiểu, họ chế tạo thiết bị đặc biệt gồm một ống trụ làm bằng ferrite mangan-kẽm, một chất dẫn điện yếu, đóng vai trò như lá chắn từ tính. Sau đó, họ định hướng ống trụ theo hướng bắc-nam với góc 57 độ. Điều này khiến thiết bị vuông góc với cả chuyển động quay lẫn từ trường của Trái Đất.
+
+Tiếp theo, nhóm nghiên cứu đặt các điện cực ở mỗi đầu của ống trụ để đo điện áp, sau đó tắt đèn để ngăn chặn hiệu ứng quang điện. Họ phát hiện 18 microvolt điện được tạo ra trên ống trụ mà không thể quy cho bất kỳ nguồn nào khác, chứng minh lượng điện này xuất hiện do năng lượng từ Trái Đất quay.
+
+Các nhà khoa học lưu ý rằng họ đã tính đến điện áp có thể sinh ra do chênh lệch nhiệt độ giữa hai đầu ống trụ và không đo được điện áp nào như vậy khi thay đổi góc hay điều khiển ống trụ. Dù vậy, kết quả sẽ cần được xác minh bởi những chuyên gia khác tiến hành cùng loại thí nghiệm trong nhiều tình huống nhằm đảm bảo rằng không có nguồn phát điện nào khác mà nhóm bỏ sót. Nhóm chuyên gia cũng cho biết, nếu phát hiện của họ là chính xác, lượng điện sản xuất ra có thể tăng lên mức hữu ích để sử dụng trong thực tế.
+
+Thu Thảo (Theo Phys)

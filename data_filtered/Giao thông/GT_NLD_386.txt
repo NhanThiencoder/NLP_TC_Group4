@@ -1,0 +1,29 @@
+Phó Thủ tướng Thường trực Trương Hòa Bình, Chủ tịch Ủy ban An toàn giao thông Quốc gia, vừa yêu cầu Bộ Giao thông Vận tải (GTVT) khẩn trương nghiên cứu nâng cấp hệ thống thiết bị giám sát hành trình (GSHT), bảo đảm chức năng giám sát trực tuyến, phát hiện ngay các hành vi vi phạm để cảnh báo cho chủ xe và tài xế.
+
+
+
+Lại... thiếu tiền
+
+Theo GS-TS Từ Sỹ Sùa, giảng viên cao cấp Trường ĐH GTVT Hà Nội, dữ liệu từ thiết bị GSHT hiện được sử dụng rất bị động. Đây thuần túy chỉ là công cụ ghi nhận dữ liệu để đối chiếu, hậu kiểm mà chưa phát huy tác dụng trong khâu ngăn ngừa vi phạm.
+
+Cần giám sát hành trình ôtô để kịp thời ngăn chặn những vi phạm về an toàn giao thông
+
+Theo ông Sùa, trong tất cả các vụ tai nạn giao thông (TNGT), thiết bị GSHT chỉ có vai trò là một ổ lưu dữ liệu về tốc độ của xe; chưa gửi được cảnh báo tức thời khi xe vượt tốc độ cho phép đến cơ quan chức năng nhằm góp phần ngăn chặn TNGT. "Nếu thông tin về việc tài xế chạy quá tốc độ được phát hiện và cảnh báo sớm, có lẽ nhiều vụ TNGT đã không để lại hậu quả thảm khốc như vậy" - ông nhận xét.
+
+Mới đây, Tổng cục Đường bộ Việt Nam đã đề xuất Bộ GTVT phương án đầu tư, nâng cấp hệ thống GSHT, bảo đảm chức năng trực tuyến, phát hiện ngay các hành vi vi phạm giao thông để cảnh báo cho chủ xe và tài xế.
+
+Đến nay, hệ thống xử lý dữ liệu GSHT đang hoạt động gồm 19 máy chủ đặt tại Công ty CP Hanel. Số lượng máy này đã đáp ứng việc tiếp nhận và xử lý dữ liệu của hơn 1 triệu phương tiện trên toàn quốc. Tuy nhiên, từ năm 2015 đến nay, nguồn kinh phí để duy trì và nâng cấp hệ thống máy chủ chưa được bố trí.
+
+"Do khó khăn về tài chính để đầu tư nâng cấp nên vào tháng 9-2018, hệ thống đã bị quá tải khi số lượng phương tiện truyền dữ liệu theo lộ trình của Nghị định 86/2014 (quy định về kinh doanh và điều kiện kinh doanh vận tải bằng ôtô) tăng nhanh" - đại diện Tổng cục Đường bộ Việt Nam cho biết.
+
+Ngoài ra, hệ thống hiện tại chưa bảo đảm có đủ tài nguyên để bổ sung các tính năng khác phục vụ yêu cầu quản lý của Tổng cục Đường bộ Việt Nam và các sở GTVT, cũng như chưa thể cung cấp tài khoản cho các đơn vị kinh doanh vận tải. Từ thực trạng này, Tổng cục Đường bộ Việt Nam đề xuất theo hướng mua bản quyền sử dụng phần mềm để bảo đảm hệ thống hoạt động ổn định, đáp ứng các yêu cầu khai thác và sử dụng.
+
+Giám sát cả trách nhiệm chủ xe
+
+Liên quan đến việc bảo đảm chức năng trực tuyến, phát hiện ngay các hành vi vi phạm (đi sai làn đường, quá tốc độ, ngắt thiết bị GSHT...), lãnh đạo Tổng cục Đường bộ Việt Nam cho biết hệ thống GSHT hiện nay của tổng cục có thể giám sát trực tuyến trên nền bản đồ số, giám sát trực tuyến các phương tiện đang hoạt động, theo dõi được các phương tiện không có dữ liệu. Hệ thống này cũng có chức năng giám sát các phương tiện quá tốc độ và kiểm tra, xem lại hành trình của xe.
+
+Nhằm khắc phục và hỗ trợ các đơn vị kinh doanh vận tải theo dõi, khai thác, sử dụng dữ liệu phục vụ công tác quản lý hoạt động vận tải, Tổng cục Đường bộ Việt Nam dự kiến sau khi hạ tầng công nghệ thông tin cho phép đáp ứng, tổng cục sẽ cung cấp tài khoản cho toàn bộ đơn vị kinh doanh vận tải để trực tiếp theo dõi, quản lý hoạt động của các phương tiện do mình quản lý.
+
+Theo quy định tại QCVN 31:2014/BGTVT, thiết bị GSHT phải có chức năng cảnh báo cho tài xế khi lái xe chạy quá tốc độ hoặc khi thời gian lái xe liên tục quá 4 giờ. Do đó, đơn vị kinh doanh vận tải phải bố trí bộ phận theo dõi thường xuyên trên phần mềm giám sát trực tuyến của mình để đưa ra cảnh báo kịp thời đối với các trường hợp tài xế chạy quá tốc độ, chạy sai hành trình hoặc lái xe quá 4 giờ.
+
+GS-TS Từ Sỹ Sùa cho rằng cơ quan quản lý không cần thiết phải giám sát trực tiếp đến từng tài xế, vì việc này không khả thi và cũng không đủ nguồn lực để làm. "Vì vậy, việc yêu cầu doanh nghiệp phải giám sát tốt tài xế của mình cần được thể chế hóa bằng văn bản quy phạm pháp luật. Doanh nghiệp phải có trách nhiệm ứng dụng công nghệ để quản lý an toàn, trong đó có giám sát tốc độ, lộ trình lái xe và nhắc nhở tài xế kịp thời. Cơ quan quản lý giám sát bằng việc kiểm tra ngẫu nhiên, đột xuất để xử lý vi phạm" - ông phân tích.

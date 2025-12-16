@@ -1,0 +1,11 @@
+Hỏi về lỗi dump (1)
+
+Tôi đang dùng Windows 2000 server, P4, Ram 256 +128, ổ cứng Maxtor 20G. Tôi mới thay một thanh Ram 256 bằng một thanh giống hệt. Sau khi dùng máy một thời gian ngắn thì máy báo lỗi dump và tự khởi động lại. Tôi phải làm thế nào có phải cài lại Windows không?
+
+Kakalot
+
+Hồi âm:
+
+
+
+

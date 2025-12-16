@@ -1,0 +1,55 @@
+Ngày 28/10, tại sa mạc Mojave nắng cháy, chiếc X-59 QueSST của NASA đã cất cánh lần đầu tiên - không ầm ĩ, mà nhẹ nhàng như một lời thì thầm. Đây không chỉ là chuyến bay thử; đây là chìa khóa mở ra kỷ nguyên hàng không thương mại nhanh gấp đôi, êm ái gấp bội, nhờ công nghệ đột phá từ Lockheed Martin. Hãy cùng khám phá "siêu phẩm" này.
+
+Phi công thử nghiệm NASA Nils Larson hạ mái che của X-59 trong các thử nghiệm trên mặt đất tại Palmdale vào tháng 7/2025. Ảnh: Lockheed Martin.
+
+Video: Trung tâm Nghiên cứu Bay Armstrong của NASA (NASA Armstrong Flight Research Center)
+
+Dự án X-59 QueSST (Quiet Supersonic Technology) là kết quả của sự hợp tác chặt chẽ giữa NASA và bộ phận Skunk Works lừng danh của Lockheed Martin, nhằm giải quyết vấn đề cốt lõi của hàng không siêu thanh: tiếng nổ âm thanh (sonic boom).
+
+Từ những năm 1970, quy định nghiêm ngặt của Cục Hàng không Liên bang Mỹ (FAA) đã cấm bay siêu thanh trên đất liền do tiếng nổ gây khó chịu và ô nhiễm tiếng ồn, khiến các biểu tượng như Concorde phải "nghỉ hưu" sớm.
+
+X-59 ra đời để thay đổi điều đó, bằng cách chứng minh rằng siêu thanh có thể "yên tĩnh" như một tiếng thình thịch nhẹ nhàng thay vì vụ nổ chói tai.
+
+Chuyến bay thử đầu tiên kéo dài 52 phút, từ nhà máy Plant 42 ở Palmdale đến Trung tâm Nghiên cứu Bay Armstrong của NASA, đã vượt qua giai đoạn kiểm tra an toàn cơ bản ở tốc độ thấp (khoảng 240 dặm/giờ), mở đường cho các thử nghiệm tốc độ cao hơn vào năm 2026.
+
+Một bản render đồ họa về phần bên trong buồng lái của X-59, bao gồm hệ thống XVS. Ảnh: Lockheed Martin.
+
+Công nghệ cốt lõi của X-59 nằm ở thiết kế khí động học đột phá, lấy cảm hứng từ các mô hình toán học phức tạp và thử nghiệm gió ngầm.
+
+Mũi máy bay được kéo dài sắc nhọn, chiếm đến một phần ba chiều dài tổng thể (khoảng 30,4 mét), hoạt động như một "bộ phân tán sóng xung kích".
+
+Thay vì để các sóng áp suất từ mũi, cánh và đuôi hợp nhất thành một vụ nổ lớn, thiết kế này phân tán chúng dần dần qua thân máy bay mảnh mai, tạo ra một "sonic thump" chỉ tương đương tiếng cửa đóng nhẹ – giảm cường độ tiếng ồn xuống mức có thể chấp nhận được cho các khu dân cư.
+
+Để hỗ trợ điều này, động cơ được đặt ở phía trên đuôi sau, tránh tạo thêm sóng xung kích từ bên dưới, đồng thời sử dụng một cửa hút không khí không có van phân luồng (diverter-less bump inlet) để hướng sóng xung kích lên trên, giảm thiểu nhiễu loạn.
+
+Máy bay siêu thanh X-59, do Tập đoàn Lockheed Martin chế tạo, đã thực hiện thành công chuyến bay thử đầu tiên. Ảnh: NASA
+
+Một thách thức lớn khác là tầm nhìn cho phi công: Với mũi dài che khuất hoàn toàn phía trước, X-59 loại bỏ cửa sổ truyền thống và thay bằng Hệ thống Tầm nhìn Bên ngoài (eXternal Vision System - XVS).
+
+Hệ thống này sử dụng các camera độ phân giải cao 4K để truyền hình ảnh thời gian thực lên màn hình 4K trong buồng lái, mang lại góc nhìn rộng hơn và an toàn hơn so với kính chắn gió thông thường.
+
+Phi công Nils Larson, người điều khiển chuyến bay đầu tiên, ngồi ở vị trí gần giữa máy bay, nơi ông có thể tập trung vào dữ liệu mà không bị phân tâm bởi thiết kế khí động.
+
+Các linh kiện khác được tái sử dụng thông minh từ các máy bay hiện có để tiết kiệm chi phí và thời gian: Vòm kính và ghế ngồi từ T-38 Talon, càng đáp từ F-16 Fighting Falcon, hệ thống hỗ trợ sự sống từ F-15 Eagle, giúp X-59 trở thành một "siêu phẩm lai tạp" hiệu quả.
+
+Hình ảnh mô hình tỷ lệ nhỏ X-59, chụp bên trong Đường hầm Gió Siêu Thanh của Trung tâm Nghiên cứu Glenn NASA trong một thử nghiệm sonic boom. Ảnh: NASA
+
+Về thông số kỹ thuật, X-59 được tối ưu hóa cho sứ mệnh nghiên cứu chứ không phải sản xuất hàng loạt, với trọng tâm vào hiệu suất siêu thanh yên tĩnh.
+
+Máy bay có sải cánh hẹp chỉ khoảng 9,1 mét, kết hợp cánh tam giác quét ngược sắc nhọn (sharply swept delta wing) để giảm lực cản ở tốc độ cao.
+
+Động cơ duy nhất là loại turbofan F414-GE-100 – biến thể của động cơ trên F/A-18E/F Super Hornet – cung cấp lực đẩy mạnh mẽ để đạt tốc độ Mach 1.4 (tương đương 1.490 km/h hoặc 925 dặm/giờ), nhanh hơn âm thanh khoảng 40%.
+
+Độ cao hoạt động tối đa lên đến khoảng 16,8km (55.000 feet), cho phép bay ở tầng bình lưu cao, nơi không khí loãng hơn và tiếng ồn lan tỏa ít hơn.
+
+Toàn bộ thân máy bay sử dụng vật liệu composite nhẹ và hợp kim tiên tiến, giúp giảm trọng lượng tổng thể xuống mức phù hợp cho các chuyến bay thử nghiệm kéo dài, đồng thời duy trì hình dạng mảnh mai để tối ưu hóa dòng chảy không khí.
+
+Ảnh: Lockheed Martin
+
+Sau chuyến bay đầu tiên thành công, X-59 sẽ trải qua ba giai đoạn thử nghiệm chính: Giai đoạn 1 mở rộng giới hạn tốc độ đến siêu thanh; Giai đoạn 2 xác nhận đặc tính âm thanh; và Giai đoạn 3 thu thập phản hồi từ cộng đồng qua các chuyến bay trên đầu các thành phố Mỹ, sử dụng ứng dụng di động để ghi nhận mức độ khó chịu từ "sonic thump".
+
+Dữ liệu này sẽ được trình lên Tổ chức Hàng không Dân dụng Quốc tế (ICAO) vào năm 2030, có thể dẫn đến nới lỏng quy định, mở cửa cho thế hệ máy bay thương mại siêu thanh mới – tưởng tượng một chuyến bay New York đến London chỉ mất 3-4 giờ, với tiếng ồn không lớn hơn máy bay thông thường.
+
+X-59 không chỉ là một chiếc máy bay thử nghiệm; nó là chìa khóa mở ra kỷ nguyên hàng không bền vững và nhanh chóng hơn, nơi tốc độ không còn đánh đổi bằng sự khó chịu.
+
+Với những bước tiến này, NASA và Lockheed Martin đang vẽ nên bức tranh tương lai nơi bầu trời thuộc về tất cả mọi người, không chỉ những ai chịu đựng được tiếng gầm của quá khứ.

@@ -1,0 +1,12 @@
+ SpyAxe - Chương trình chống Spyware cài đặt bởi Trojan
+
+Nếu máy bạn vô tình bị nhiễm một loại Trojan là Zlob.cy (tên đầy đủ là Trojan-Downloader.Win32.Zlob), Trojan này sẽ âm thầm cài đặt một bản của chương trình chống Spyware có tên SpyAxe. Chương trình này sẽ tự động quét máy bạn, làm cho mọi thứ trở nên ỳ ạch, sau đó, nó thông báo máy bạn đã nhiễm chính con Trojan-Downloader.Win32.Zlob, là con Trojan đã cài nó. 
+
+Tuy nhiên khi bạn yêu cầu diệt Trojan thì SpyAxe yêu cầu bạn trả một khoản tiền là 49,50 USD cho bản quyền. Ngoài ra, màn hình của bạn thường xuyên xuất hiện những câu cảnh báo về tình trạng nhiễm SpyWare và Trojan cộng với hàng tá quảng cáo liên tục xuất hiện. Nếu bạn không giữ được bình tĩnh, bạn sẽ tắt máy ngay tức khắc vì quá bối rối. 
+
+F-Secure cho biết tốc độ lây nhiễm của loại Chương trình chống Spyware này rất nhanh. Theo khảo sát của F-Secure, mỗi giờ tại Mỹ có khoảng 1.000-2.500 máy tính bị lây nhiễm. Nguồn gốc của SpyAxe vẫn chưa thể xác định được. 
+
+Chương trình để loại bỏ Trojan trên là Smitrem có thể download tại website bleepingcomputer.com . Đây là trang Web của cộng đồng các nhà phát triển chương trình chống SpyWare. Chương trình này có thể loại bỏ rất nhiều các Trojan khác như Trojan-Spy.HTML.Smitfraud.c một thời gây sóng gió… Các bạn có thể tham khảo thêm rất nhiều cách thức phòng tránh Spyware tại đây. 
+
+
+

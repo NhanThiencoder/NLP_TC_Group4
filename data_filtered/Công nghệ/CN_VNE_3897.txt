@@ -1,0 +1,11 @@
+Hỏi về chip và Internet Explorer 6.0 (1)
+
+
+Phạm Thanh An
+
+Hồi âm:
+
+Chip Centrino khác chip P4 về mặt cấu trúc và nhìn chung rất khó so sánh với nhau. Đúng ra thì Centrino là phiên bản nâng cấp của Pentium 4 Mobile với công thưc sau: Centrino = Pentium-M + Intel 855 chipset + Intel 802.11b. Điểm khác biệt lớn nhất, và cũng là điểm khiến Centrino rất mạnh là loại chip này có tới 1MB bộ nhớ thứ cấp - còn gọi là L2 Cache - (gấp đôi của Pentium 4 Mobile). Nếu so sánh thì Centrio 1.5Ghz sẽ có hiệu suất đâu đó ở giữa P4 Mobile 2.0Ghz và P4 Mobile 2.2Ghz (nếu đem so sánh với P4 dành cho máy để bàn thì rất khấp khiễng). Về chuyện IE6.0, máy của bạn như vậy là bị nhiễm spyware rồi. Hãy dùng phần mềm Spybot Search  Destroy hoặc Ad-Aware 6.0để quét.
+
+
+

@@ -1,0 +1,7 @@
+Thông tư quy định nhà đầu tư được thực hiện giao dịch trong ngày sau khi đã ký hợp đồng giao dịch trong ngày với công ty chứng khoán (CK). Công ty CK có quyền lựa chọn mã CK có trong danh sách niêm yết, đăng ký giao dịch được phép giao dịch ký quỹ để thực hiện giao dịch trong ngày cho nhà đầu tư.
+
+Trường hợp tổng số CK của các lệnh bán đã thực hiện nhiều hơn tổng số CK của các lệnh mua đã thực hiện hoặc ngược lại thì công ty CK có trách nhiệm thanh toán thay cho nhà đầu tư số tiền hoặc CK thiếu hụt tại ngày thanh toán.
+
+Tùy vào tình hình thị trường, Ủy ban Chứng khoán nhà nước triển khai hoạt động giao dịch trong ngày và ban hành quy chế hướng dẫn giao dịch trong ngày...
+
+Theo quy định hiện hành, thời gian giao dịch và thanh toán của CK trên thị trường là T+2, tức là sau khi mua CK thì 2 ngày sau nhà đầu tư mới có thể bán ra. Do đó quy định tại Thông tư 120/2020 đã mở đường cho phép nhà đầu tư giao dịch CK trong ngày (giao dịch T+0).

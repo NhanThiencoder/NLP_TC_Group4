@@ -1,0 +1,39 @@
+Ý tưởng khởi nghiệp của Georgios Chrysanthakopoulos bắt nguồn từ mong muốn mang tới giải pháp giúp xử lý côn trùng, sâu bệnh của cây trồng cho nhà nông mà không gây hại. Không những thân thiện với môi trường, đây còn là một công nghệ có nhiều tính năng ưu việt.
+
+"Đó chính xác là những chú robot có sử dụng công nghệ laser", Chrysanthakopoulos cho biết.
+
+"Chúng tôi muốn xây dựng một hệ thống tự trị (autonomous system) nhằm giải quyết nhu cầu thực tế và bức thiết trong nông nghiệp. Tôi từng đọc báo về thực trạng sử dụng thuốc diệt cỏ tại các nông trại và những hệ quả cho người nông dân. Việc sử dụng chất hóa học trong nông nghiệp có thể gây ra tổn thất về mùa màng".
+
+Cựu kỹ sư Microsoft hiện là CEO và sáng lập của dCentralized Systems.
+
+Sau khi nghiên cứu và tìm hiểu về những công ty đã và đang hoạt động trong lĩnh vực tương tự, anh nhận thấy tiềm năng rất lớn trong việc tạo ra các robot 100% không sử dụng chất hóa học, ứng dụng công nghệ laser và năng lượng mặt trời để tác động đến thực vật.
+
+Hiện tại, Chrysanthakopoulos là CEO và sáng lập của dCentralized Systems, có trụ sở tại Seattle, chuyên sản xuất robot sử dụng năng lượng mặt trời, tích hợp công nghệ tia laser, được sử dụng để tỉa lá, diệt sâu bệnh cho cây trồng.
+
+Chrysanthakopoulos đã có tới 16 năm làm việc tại Microsoft, sau đó là Google và các công ty công nghệ lớn khác như F5 Networks, VMware. ''Tôi cảm thấy mình đã đạt đến sự thành công nhất định trong nghề nghiệp tại đó. Giờ là lúc để khám phá điều gì mới mẻ hơn'', anh chia sẻ.
+
+Khi làm việc tại Microsoft, Chrysanthakipoulos cho biết, anh từng phụ trách dự án về robot và mạng thần kinh nhân tạo, nhưng rất tiếc dự án bị dừng lại sau đó.
+
+''Công việc thì vất vả, nhưng khá thú vị'', Chrysanthakipoulos nói. ''Tôi muốn tiếp tục với lĩnh vực này. Mong muốn đó thúc giục tôi phải làm tới''.
+
+dCentralized cung cấp giải pháp về robot trong nông nghiệp với các tiêu chí gọn nhẹ, an toàn với môi trường, chi phí thấp, được sử dụng trong các nông trại có diện tích ít hơn 8 hecta, nhằm phục vụ đối tượng là những nhà nông không có đủ vốn để đầu tư vào máy móc quy mô lớn.
+
+Sản phẩm robot của chi phí khoảng 1.000 USD, có thể đóng gói và vận chuyển dễ dàng, cũng như người nông dân có thể tự lắp ráp robot.
+
+''Họ sẽ được trải nghiệm công việc của một kỹ sư robot. Nó đơn giản như việc xếp những miếng BBQ với nhau'', vị CEO này cho biết.
+
+Sản phẩm robot của dCentralized.
+
+Những máy robot cần được ''huấn luyện'' ngoài trời để nhận dạng các loại thực vật cụ thể. Theo đó, dCentralized đang thử nghiệm phương pháp đặt một vòng tròn bằng nhựa khoanh vùng mà robot hoạt động trong vườn hay nông trại. Robot có thể xác định vị trí vòng, lưu lại hình ảnh của lá, cỏ trong khu vực được giới hạn để nhận dạng mục tiêu. Sau đó, robot sử dụng công nghệ laser để cắt, tỉa lá. Robot còn có khả năng trao đổi và truy dấu dữ liệu để xử lý công việc trong thời gian ngắn.
+
+Thêm vào đó, người dùng có thể sử dụng robot của hãng như những người bảo vệ với tính năng phát hiện thực thể chuyển động như người, động vật.
+
+Startup được thành lập vào tháng 2 và hiện đang hợp tác cùng với Adlai Felser, một trong các đơn vị trong ngành sản xuất robot và sẽ bắt đầu phân phối sản phẩm cho hãng này vào tháng 7 tới. dCentralized đặt mục tiêu chế tạo 100 robot/năm. Không chỉ dừng lại ở mảng kinh doanh robot, công ty còn muốn cung cấp các dịch vụ chăm sóc cây trồng theo mùa.
+
+Mặc dù có nền tảng công nghệ vững chắc, nhưng vị CEO không tránh khỏi những khó khăn khi gọi vốn, một phần vì ý tưởng khác lạ của mình.
+
+Chrysanthakipoulos mất khoảng 2 năm để khởi chạy dự án và hiện tại, vẫn tiếp tục cấp vốn cho startup. Những thách thức và khó khăn từ ''con đẻ'' của mình dường như càng khiến anh cảm thấy hào hứng với những kế hoạch và thử nghiệm công nghệ sắp tới.
+
+''Điều đó giống như đang được sống trong giấc mơ của một người kỹ sư vậy''. Anh chia sẻ.
+
+Phạm Vân (Theo Geekwire)

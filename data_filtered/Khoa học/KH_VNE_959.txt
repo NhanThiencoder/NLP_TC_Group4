@@ -1,0 +1,15 @@
+Đường truyền liên lạc lượng tử dài nhất thế giới được thiết lập giữa Trung Quốc và Nam Phi với quãng đường kỷ lục là 12.900 km.
+
+Trạm mặt đất ở Stellenbosch. Ảnh: Ignus Dreyer/ Đại học Stellenbosch
+
+Đường truyền nối liền trạm mặt đất ở Đại học Khoa học và Công nghệ Trung Quốc (USTC) ở Bắc Kinh và Đại học Stellenbosch ở Nam Phi, thông qua vệ tinh lượng tử nhỏ mang tên Jinan-1 và tận dụng lợi thế của vật lý lượng tử để tạo ra mã hóa "không thể phá vỡ", New Atlas hôm 28/3 đưa tin.
+
+Bản thân thông tin truyền đi là thông tin cổ điển, bao gồm ảnh Vạn lý Trường thành ở Trung Quốc và ảnh của Stellenbosch, nhưng được mã hóa qua phương pháp phân phối khóa lượng tử (QKD). Vệ tinh mã hóa khóa mật mã thành những photon riêng lẻ, sau đó truyền chúng tới mỗi trạm mặt đất. Sau khi cả hai bên đều có khóa, các trạm có thể liên lạc an toàn qua vệ tinh.
+
+Khóa mật mã được mã hóa theo trạng thái lượng tử của photon, do hiệu ứng lượng tử hay còn gọi là "tác động ma quái từ xa", trạng thái thay đổi ngay khi có bất cứ ai tìm cách quan sát chúng. Trên thực tế, điều này có nghĩa nếu bên thứ ba cố gắng truy cập và đọc dữ liệu đang truyền, hành động của họ sẽ làm thay đổi trạng thái lượng tử của photon và làm rối loạn tin nhắn. Kết quả là dữ liệu không chỉ vô dụng với tin tặc mà còn cảnh báo cho người nhận về hành vi xâm phạm.
+
+Về cơ bản, phương pháp trên không thể xâm nhập do được bảo vệ bởi quy luật của vật lý lượng tử. Trong thử nghiệm hiện nay, vệ tinh có thể truyền hơn 250 triệu photon lượng tử mỗi giây, tạo ra hơn một triệu khóa an toàn chỉ trong một lần truyền từ vệ tinh tới trạm mặt đất. Khoảng cách hơn 12.900 km giữa hai trạm mặt đất lập kỷ lục mới về khoảng cách đối với liên lạc lượng tử.
+
+Trước đây, chính nhóm nghiên cứu từng truyền thành công thông tin bằng QKD giữa Trung Quốc và Áo qua khoảng cách 7.600 km. Thành tựu đó được thực hiện nhờ vệ tinh cũ hơn mang tên Micius. Jinan-1, phóng năm 2022, không chỉ mạnh hơn mà còn nhỏ hơn nhiều, chỉ bằng 1/10 bản tiền nhiệm. Các trạm mặt đất cũng có trọng lượng nhỏ hơn đáng kể từ 13 tấn giảm còn 100 kg. Vệ tinh và trạm mặt đất nhỏ cao cấp hơn có thể giúp xây dựng Internet lượng tử an toàn và nhanh hơn trên toàn cầu.
+
+An Khang (Theo New Atlas)

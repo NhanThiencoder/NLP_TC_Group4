@@ -1,0 +1,59 @@
+Title: Trung Quốc lắp 300.000 robot/năm: Cuộc đua không đối thủ
+
+Câu chuyện về sự trỗi dậy của ngành công nghiệp robot Trung Quốc bùng nổ từ một cuộc tranh cãi nảy lửa trên mạng xã hội X (Twitter cũ) vào giữa tháng 11 vừa qua. Tâm điểm của sự chú ý là UBTECH Robotics - một "kỳ lân" công nghệ của Thâm Quyến.
+
+Khi công ty này tung ra đoạn video ghi lại cảnh hàng trăm robot hình người Walker S2 xếp hàng thẳng tắp trong nhà kho, đồng loạt quay đầu, vẫy tay theo nhịp và bước vào container vận chuyển, người xem đã liên tưởng ngay đến những thước phim viễn tưởng trong tác phẩm đình đám "I, Robot". Khung cảnh quá trơn tru, quá đồng bộ và mang màu sắc tương lai đến mức Brett Adcock - nhà sáng lập kiêm CEO của Figure, một công ty robot hàng đầu tại Mỹ - đã không thể tin vào mắt mình.
+
+"Hãy nhìn vào phần phản chiếu. Robot phía trước là thật, còn mọi thứ đằng sau đều là giả. Chỉ cần thấy ánh đèn trần phản chiếu là biết ngay đó là CGI (công nghệ mô phỏng hình ảnh bằng máy tính)", vị CEO người Mỹ quả quyết trên trang cá nhân. Lời cáo buộc này không chỉ là một nhận xét về kỹ thuật, mà còn phản ánh tâm lý chung của phương Tây: Sự hoài nghi sâu sắc về năng lực thực sự của công nghệ Trung Quốc.
+
+Tuy nhiên, đáp trả lại sự nghi ngờ đó không phải là sự im lặng, mà là một lời khẳng định đanh thép từ phía UBTECH. Đại diện công ty này tuyên bố video là "100% cảnh quay thực tế", được quay liền mạch một lần và mời những người chỉ trích hãy trực tiếp đến Thâm Quyến để "mở mang tầm mắt". Theo họ, sự nghi ngờ của người Mỹ xuất phát từ việc thiếu hiểu biết về sức mạnh chuỗi cung ứng và khả năng sản xuất quy mô lớn mà Trung Quốc đang nắm giữ.
+
+Đoàn quân robot Trung Quốc hoàn hảo đến mức CEO một công ty robot Mỹ cáo buộc: "Đây chắc chắn là giả" (Ảnh: UBTech).
+
+Câu chuyện "thật - giả" này chỉ là bề nổi của tảng băng chìm. Nó hé lộ một thực tế mà giới đầu tư và các nhà hoạch định chính sách phương Tây đang phải đối mặt: Trung Quốc không còn là công xưởng gia công giá rẻ, mà đang chuyển mình trở thành một cường quốc robot với tốc độ và quy mô khiến cả thế giới phải e dè.
+
+Cơn lũ robot trong nhà máy và cuộc đổi ngôi ngoạn mục
+
+Theo báo cáo mới nhất từ Liên đoàn Robot Quốc tế (IFR), một cuộc "đổi ngôi" ngoạn mục đã diễn ra âm thầm nhưng quyết liệt trong ngành công nghiệp robot toàn cầu.
+
+Trung Quốc hiện dẫn đầu tuyệt đối trong cuộc đua đưa robot vào nhà máy. Chỉ riêng trong năm vừa qua, các nhà máy tại quốc gia tỷ dân này đã lắp đặt gần 300.000 robot mới. Con số này không chỉ là một kỷ lục, mà nó còn mang một ý nghĩa thống kê đáng sợ: Số lượng robot mới tại Trung Quốc nhiều hơn tổng số robot được lắp đặt tại toàn bộ phần còn lại của thế giới.
+
+Để dễ hình dung về khoảng cách này, hãy nhìn sang Mỹ - nền kinh tế lớn nhất thế giới - nơi các nhà máy chỉ lắp đặt khoảng 34.000 robot trong cùng kỳ.
+
+Sự chênh lệch này không phải là ngẫu nhiên. Nó là kết quả của một chiến lược quốc gia dài hơi mang tên "Made in China 2025", nơi Bắc Kinh xác định robot là mặt trận chiến lược để tái cấu trúc nền kinh tế. Trong hơn một thập kỷ, dòng vốn khổng lồ từ ngân sách nhà nước, các khoản vay ưu đãi từ ngân hàng quốc doanh đã chảy vào lĩnh vực này, tạo nên một gia tốc hiếm thấy.
+
+Điều đáng ngại hơn cho các đối thủ phương Tây là Trung Quốc không chỉ nhập khẩu và sử dụng. Họ đang nhanh chóng làm chủ công nghệ. Nếu như trước đây, các nhà máy Trung Quốc tràn ngập cánh tay robot của Nhật Bản hay Đức, thì nay gió đã đổi chiều. Năm ngoái, gần 60% số robot được lắp đặt tại Trung Quốc là sản phẩm nội địa. Thị phần sản xuất robot toàn cầu của Trung Quốc đã tăng vọt lên 33%, trong khi "cựu vương" Nhật Bản ngậm ngùi tụt xuống mức 29%.
+
+Các chuyên gia phân tích chỉ ra rằng, Trung Quốc đang sở hữu một lợi thế kép mà không quốc gia nào có được: Một thị trường nội địa khổng lồ để tiêu thụ sản phẩm, và một năng lực sản xuất phần cứng linh hoạt cho phép họ thử nghiệm sai và sửa lỗi với tốc độ ánh sáng. Chu trình "thử - sai - cải tiến - lặp lại" tại Thâm Quyến hay Hợp Phì diễn ra nhanh hơn nhiều so với thung lũng Silicon.
+
+Khi một nguyên mẫu được chứng minh hiệu quả, hệ thống nhà máy tại đây có thể sản xuất hàng nghìn đơn vị chỉ trong vài tuần - điều giải thích cho những hình ảnh "đội quân robot" mà CEO người Mỹ ngỡ là kỹ xảo.
+
+Trung Quốc đang sản xuất và lắp đặt robot trong các nhà máy với tốc độ vượt xa mọi quốc gia khác, trong khi Mỹ - quốc gia xếp hạng thứ ba - bị bỏ rất xa phía sau (Ảnh: NYT).
+
+Cuộc chiến sinh tồn của 150 kỳ lân
+
+Bên cạnh mảng robot công nghiệp (cánh tay máy) đã định hình rõ nét, một cuộc đua khác khốc liệt hơn đang diễn ra: Robot hình người. Đây chính là nơi mà sự cạnh tranh tại Trung Quốc đang đạt đến mức "nóng chảy".
+
+Đầu năm nay, thế giới ghi nhận khoảng 100 công ty phát triển robot hình người. Nhưng chỉ vài tháng sau, riêng tại Trung Quốc, con số này đã vọt lên 150. Sự bùng nổ này mạnh mẽ đến mức Ủy ban Cải cách và Phát triển Quốc gia Trung Quốc (NDRC) đã phải phát đi cảnh báo về tình trạng "đổi mới trùng lặp" và dư thừa nguồn lực.
+
+Tại sao lại có sự bùng nổ này? Câu trả lời nằm ở sự kết hợp giữa dòng vốn đầu tư mạo hiểm và sự hậu thuẫn từ chính phủ, được ước tính lên tới 138 tỷ USD cho chiến dịch thúc đẩy robot quốc gia. Các startup như Unitree Robotics ở Hàng Châu đang làm đảo lộn thị trường khi tuyên bố bán những mẫu robot hình người cơ bản với giá chỉ khoảng 6.000 USD - mức giá "không tưởng" nếu so sánh với các sản phẩm hàng chục, thậm chí hàng trăm nghìn USD của Boston Dynamics (Mỹ).
+
+Nhiều chuyên gia kinh tế phương Tây nhìn vào hiện tượng này và gọi đó là "bong bóng". Tuy nhiên, lịch sử kinh tế cho thấy bong bóng không phải lúc nào cũng xấu. Tiến sĩ Robert Ambrose, cựu lãnh đạo bộ phận Robot & AI của NASA, đã so sánh tình trạng hiện tại của Trung Quốc với bong bóng dot-com tại Mỹ những năm 1990. Khi đó, hàng loạt công ty internet đã phá sản, nhà đầu tư mất trắng, nhưng từ đống tro tàn đó, những gã khổng lồ như Amazon hay Google đã trỗi dậy và thống trị thế giới.
+
+Tại Trung Quốc, áp lực sinh tồn giữa 150 công ty đang tạo ra một đấu trường La Mã thực sự. Để sống sót, họ buộc phải liên tục đổi mới, cắt giảm chi phí và thương mại hóa sản phẩm nhanh nhất có thể. Chính sự khốc liệt này là động lực tạo ra những sản phẩm có tính "sát thương" cao về giá và hiệu năng. Ngay cả khi 100 công ty phá sản, 50 công ty còn lại vẫn đủ sức áp đảo số lượng doanh nghiệp Mỹ.
+
+Dù vậy, điểm yếu chí mạng của "đội quân" này vẫn nằm ở trái tim của những con robot: Chip bán dẫn và cảm biến cao cấp. Trung Quốc có thể sản xuất khung vỏ, khớp nối và lập trình AI điều khiển, nhưng những linh kiện tinh vi nhất vẫn phải phụ thuộc vào công nghệ của Đức hoặc Nhật Bản. Như nhận định của Lian Jye Su, chuyên gia từ Omdia: "Nếu muốn lắp ráp một robot hình người đỉnh cao thực sự, sẽ gần như không có linh kiện Made in China bên trong".
+
+Tại Trung Quốc, có khoảng 150 doanh nghiệp đang phát triển robot hình người (Ảnh: UBTech).
+
+Lời cảnh báo cho nước Mỹ và tương lai của địa chính trị
+
+Cuộc đua robot hiện nay không đơn thuần là câu chuyện về kinh doanh hay lợi nhuận, mà nó đang trở thành nền móng mới cho sức mạnh địa chính trị của thế kỷ 21.
+
+Tiến sĩ Robert Ambrose đã đưa ra một so sánh đầy ám ảnh: Năm 1900, đường phố New York tràn ngập xe ngựa. Chỉ 13 năm sau, cũng tại nơi đó, ô tô đã thống trị hoàn toàn. Sự thay đổi chóng mặt đó đã đưa nước Mỹ trở thành siêu cường kinh tế nhờ ngành công nghiệp ô tô. Ngày nay, robot đang đóng vai trò tương tự. Quốc gia nào làm chủ được lực lượng lao động máy móc này sẽ giải quyết được bài toán già hóa dân số, đưa sản xuất quay trở lại nội địa và nắm giữ ưu thế quân sự.
+
+Trung Quốc đang dùng AI để "soi" từng cỗ máy trong nhà máy, tối ưu hóa hiệu suất đến từng giây, điều mà phương Tây vẫn chưa thực sự triển khai đồng bộ. Sự kết hợp giữa AI và Robot trí tuệ nhân tạo hiện thân) đang giúp Trung Quốc bù đắp cho chi phí nhân công đang ngày càng đắt đỏ, duy trì vị thế "công xưởng thế giới".
+
+Trong khi đó, nước Mỹ dường như đang bị tụt lại trong chính cuộc chơi mà họ từng dẫn đầu về đổi mới sáng tạo. Dù vẫn sở hữu những bộ óc thiên tài và văn hóa khởi nghiệp "hỗn loạn nhưng đột phá", sự thiếu vắng các chính sách hỗ trợ đồng bộ từ chính phủ đang khiến các công ty Mỹ hụt hơi trước dòng vốn khổng lồ của đối thủ bên kia bán cầu.
+
+Lời cảnh báo của Tiến sĩ Ambrose có lẽ là điều đáng để giới đầu tư và hoạch định chính sách phải suy ngẫm sâu sắc nhất lúc này: "Nếu chúng ta không làm gì, Nhật Bản có thể sẽ vươn lên vị trí số hai. Trung Quốc chắc chắn sẽ là số một. Còn nước Mỹ? Chúng ta sẽ trượt dài trong một cuộc đua xuống đáy. Và viễn cảnh tụt hậu đó, theo tôi, không giống phong cách của nước Mỹ chút nào".

@@ -1,0 +1,18 @@
+Title: Tham vấn ý kiến về triển khai nền tảng dữ liệu số về nông nghiệp, truy xuất nguồn gốc
+
+Hội nghị là dịp tham vấn ý kiến của các tỉnh, thành khác về việc triển khai thực hiện truy xuất nguồn gốc. Đây là cơ sở để Bộ rà soát, bổ sung, cập nhật, hoàn thiện về mặt thể chế trong chuyển đổi số lĩnh vực nông nghiệp.
+
+Năm 2023 được chọn là năm dữ liệu quốc gia để khẳng định sự quan trọng về dữ liệu vì đây là nền tảng để thực hiện chuyển đổi số. Chuyển đổi số ngành Nông nghiệp và Phát triển nông thôn dựa trên 3 trụ cột: Chính phủ số, kinh tế số nông nghiệp và nông thôn, nông dân số.
+
+Ảnh minh hoạ
+
+Ngành Nông nghiệp có rất nhiều nội dung cần phải làm trong chuyển đổi số, bao gồm các vấn đề như trong công tác quản lý của Nhà nước; trong ứng dụng tiến bộ khoa học - kỹ thuật vào sản xuất để giảm chi phí đầu vào, giảm công lao động; trong thực hiện truy xuất nguồn gốc sản phẩm.
+
+
+Hệ thống đã xây dựng được 3 phân hệ chính gồm: Cổng thông tin truy xuất nguồn gốc ; Hệ thống quản lý, cập nhật thông tin, dữ liệu về truy xuất nguồn gốc dành cho đối tượng là cơ quan quản lý nhà nước và doanh nghiệp; Cho phép khai thác sử dụng bằng ứng dụng trên thiết bị di động trong việc tìm kiếm, truy vết, tra cứu thông tin nguồn gốc sản phẩm.
+
+Thời điểm hiện tại, hệ thống đang kết nối, chia sẻ dữ liệu với 8 hệ thống truy xuất nguồn gốc của 8 tỉnh, thành phố và có hơn 3.964 doanh nghiệp với bộ mã truy xuất nguồn gốc của 16.987 sản phẩm nông sản thực phẩm.
+
+Dự kiến đến tháng 11 tới, Bộ sẽ hoàn thành được kiến trúc dữ liệu nông nghiệp. Đây là động lực để các địa phương xúc tiến xây dựng kiến trúc dữ liệu chung cho ngành Nông nghiệp, xây dựng trục kết nối liên thông cơ sở dữ liệu, có sự đồng bộ từ trung ương xuống địa phương.
+
+Lương Bằng và nhóm PV, BTV

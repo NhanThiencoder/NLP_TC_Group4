@@ -1,0 +1,17 @@
+UBND tỉnh An Giang kiến nghị và đề xuất Bộ Xây dựng chuẩn hóa quy trình cấp phép xây dựng điện tử và tích hợp toàn trình lên Cổng Cổng Dịch vụ công Quốc gia; thống nhất định dạng bản vẽ điện tử nộp trực tuyến.
+
+Đối với nội dung trên, Cục Kinh tế - Quản lý đầu tư xây dựng (Bộ Xây dựng) có ý kiến như sau:
+
+Tại Thông báo số 35-TB/TGV ngày 11.7.2025, Ban Chỉ đạo Trung ương về phát triển khoa học, công nghệ, đổi mới sáng tạo và chuyển đổi số giao các bộ, ngành: “Chủ trì, phối hợp với Bộ Công an, Bộ Tài chính, Bộ Khoa học và Công nghệ, Văn phòng Chính phủ và các địa phương trên cơ sở kết quả tái cấu trúc quy trình thủ tục hành chính, thực hiện xây dựng và cung cấp các dịch vụ công trực tuyến thuộc thẩm quyền giải quyết của cấp tỉnh, cấp xã theo mô hình tập trung, tích hợp trên Cổng Dịch vụ công quốc gia, đảm bảo thống nhất, đồng bộ, dễ thực hiện, giúp tiết kiệm thời gian, công sức, kinh phí và tránh đầu tư trùng lặp. Hoàn thành trước ngày 1.1.2026”.
+
+Thực hiện nhiệm vụ được giao, Bộ Xây dựng giao Trung tâm Công nghệ thông tin triển khai xây dựng Hệ thống thông tin giải quyết thủ tục hành chính thuộc phạm vi quản lý theo mô hình tập trung từ trung ương đến đến cấp tỉnh, cấp xã.
+
+Trong đó, đối với thủ tục hành chính về cấp giấy phép xây dựng, Bộ Xây dựng sẽ nghiên cứu để hướng tới bài toán thẩm định cấp phép toàn trình và có hướng dẫn cụ thể hóa quy trình, hồ sơ, bản vẽ thiết kế xây dựng điện tử nộp trực tuyến thông qua Cổng Dịch vụ công Quốc gia.
+
+Để đáp ứng việc chuẩn hóa quy trình cấp phép xây dựng điện tử và tích hợp toàn trình lên Cổng Dịch vụ công Quốc gia, Bộ Xây dựng giao Trung tâm Công nghệ thông tin triển khai xây dựng hệ thống thông tin, cơ sở dữ liệu quốc gia hoạt động xây dựng.
+
+Hệ thống dự kiến đưa vào vận hành từ 1.1.2026 và hỗ trợ địa phương trong quá trình giải quyết thủ tục hành chính liên quan đến lĩnh vực cấp phép xây dựng.
+
+Theo đó, hệ thống có hỗ trợ các định dạng dữ liệu GIS, CAD, SCAN (PDF, TIFF), BIM (IFC), các định dạng file ảnh như JPEG, PNG nhằm phục vụ các thủ tục thẩm định và cấp giấy phép xây dựng.
+
+Trong giai đoạn triển khai hiện nay, khuyến nghị Ủy ban nhân dân tỉnh An Giang đề nghị/yêu cầu các chủ đầu tư nộp hồ sơ trong quá trình xin cấp phép xây dựng có các định dạng như trên để phục vụ công tác lưu trữ, khai thác và đảm bảo việc đáp ứng thông tin dữ liệu cần quản lý trên các hệ thống cung cấp dịch vụ công lĩnh vực xây dựng và hệ thống thông tin, cơ sở dữ liệu quốc gia về hoạt động xây dựng.

@@ -1,0 +1,29 @@
+Modem trục trặc sau khi đổi hệ điều hành (2)
+
+Chao cac ban. PC cua toi luc truoc chay Win 98 va toi vao Internet qua modem duoc. Nhung toi vua cai dat he dieu hanh Windows 2003 Server thay cho Win 98 thi lai o the vao Internet duoc nua. Anh chi vui long chi giup.
+
+Hoang Hiep
+
+Hồi âm:
+
+
+TOM
+
+Modem cua ban van binh thuong, loi do phan mem hay sai sot trong thao ra thao vao ma thoi. Cu the la do cac nguyen nhan sau: 
+
+1.Cai khong dung driver. 
+
+2.Loi windows. 
+
+3.Hoac do sai sot trong qua trinh lap dat, chua lap dat chac chan cable dien, hay la dau noi cong COM cua modem. 
+
+Cac buoc khac phuc: 
+
+1.An lai cong COM noi voi Modem o ca hai dau, bat chat cac vit co dinh vao. 
+
+2.Cai lai driver. 
+
+3.Xem ban windows co bi loi khong, bang cach su dung ban windows sach se, va cai dat lai. 
+
+
+

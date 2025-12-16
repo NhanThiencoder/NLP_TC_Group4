@@ -1,0 +1,53 @@
+Một con ‘quái vật thép’ khổng lồ, phủ đầy những que sắt nhọn tua tủa, lao mình qua chiến trường Ukraine. Đó chính là ‘lông nhím’ - công nghệ bảo vệ thô sơ nhưng hiệu quả chết người của xe tăng Nga, khiến hàng loạt UAV tự sát FPV của Ukraine bị hỏng hóc hoặc nổ tung từ xa, trước khi kịp tiếp cận mục tiêu. Đằng sau vẻ ngoài ‘xấu xí’ ấy là một giải pháp chiến lược thông minh, đang buộc cả hai bên phải suy nghĩ lại về tương lai của tác chiến thiết giáp hiện đại. Liệu đây có phải là bước ngoặt công nghệ rẻ tiền thay đổi cục diện xung đột Nga-Ukraine 2025?
+
+Xe tăng 'lông nhím' Nga. Ảnh: trenchart.us
+
+Video: Armourdesia Military Hardware
+
+Trong bối cảnh cuộc xung đột Nga-Ukraine kéo dài, drone FPV (First Person View – góc nhìn thứ nhất), những "máy bay không người lái tự sát" nhỏ gọn, giá rẻ và tốc độ cao, đã trở thành nỗi ám ảnh của các phương tiện bọc thép.
+
+Chúng có thể lao thẳng vào mục tiêu với độ chính xác chết người, mang theo đầu nổ đủ để xuyên thủng lớp giáp truyền thống.
+
+Trước mối đe dọa này, quân đội Nga đã nhanh chóng triển khai một giải pháp ‘DIY’ (Do It Yourself - tự chế) mang tên ‘lông nhím’ (hedgehog hoặc porcupine tanks).
+
+Không phải là công nghệ cao siêu với radar hay tên lửa đánh chặn, ‘lông nhím’ đơn giản là một lớp khung thép được hàn chồng chéo lên nóc và các bề mặt dễ bị tấn công của xe tăng, như T-72 hay T-90.
+
+Công nghệ cốt lõi của ‘lông nhím’ nằm ở thiết kế vật lý thông minh, tận dụng điểm yếu của drone FPV.
+
+Những chiếc drone này thường chỉ dài khoảng 30-50cm, với cánh quạt mỏng manh và đầu nổ nhỏ (thường là lựu đạn RPG hoặc tự chế).
+
+Khi tiếp cận xe tăng, chúng dễ dàng bị các que sắt nhọn (thường là thanh thép đường kính 10-20mm, dài 50-100cm) cản trở.
+
+Theo các phân tích từ chiến trường, que sắt sẽ "cào xé" cánh quạt drone ngay khi chúng lao vào, khiến máy bay mất thăng bằng và rơi tự do từ khoảng cách 1-2 mét – đủ xa để tránh gây thiệt hại nghiêm trọng cho lớp giáp chính của xe tăng.
+
+Nếu drone mang đầu nổ, va chạm với khung thép sẽ kích hoạt vụ nổ sớm, tạo ra hiệu ứng "non-contact" – nổ ở khoảng cách an toàn, chỉ gây xước xát nhẹ thay vì phá hủy hoàn toàn.
+
+Ảnh: Konstantin Mikhaltsevsky/RIA Novosti
+
+Sự phát triển của "lông nhím" không dừng lại ở phiên bản cơ bản. Ban đầu, từ năm 2022, chúng chỉ là những "cope cages" – lồng thép đơn giản hàn lên nóc xe để chống tên lửa chống tăng Javelin.
+
+Đến năm 2024-2025, Nga đã nâng cấp thành các cấu hình đa tầng: lớp ngoài cùng là lưới thép mỏng để làm lệch hướng drone, lớp giữa là que nhọn chống propeller, và lớp trong là tấm kim loại phản xạ để phân tán mảnh vụn.
+
+Một số xe tăng thậm chí được trang bị "porcupine nâng cao" với các thanh sắt xoắn ốc hoặc lưới điện thoại di động tái chế, tăng khả năng che phủ lên đến 80% bề mặt dễ bị tấn công.
+
+Chi phí chỉ khoảng 500-1.000 USD mỗi bộ, so với hàng triệu USD cho hệ thống chống drone điện tử – một lợi thế lớn cho Nga trong cuộc chiến tiêu hao.
+
+Hiệu quả thực tế của "lông nhím" đã được chứng minh qua hàng loạt quan sát từ cả hai bên.
+
+Các chuyên gia Ukraine thừa nhận rằng, drone FPV thường "rơi rụng" khi tiếp cận xe tăng Nga được bảo vệ, với tỷ lệ thành công tấn công giảm từ 70% xuống còn dưới 30% ở một số khu vực.
+
+Trong các trận đánh gần Kharkov hay Donetsk, hình ảnh xe tăng Nga sống sót sau hàng chục cuộc tấn công drone đã lan truyền rộng rãi, buộc Kiev phải phát triển drone mới với đầu nổ lớn hơn hoặc đường bay thấp hơn.
+
+Một chiếc BREM "nhím"- kiểu xe BREM được hàn/ốp thêm nhiều lớp khung + lồng thép chống drone nhìn giống con nhím đầy gai. Ảnh WarTranslated.
+
+Tuy nhiên, "lông nhím" không phải là bất bại: nó làm giảm tốc độ di chuyển của xe tăng (do trọng lượng thêm 200-500kg), hạn chế tầm nhìn cho kíp lái, và dễ bị phá hủy bởi pháo binh hoặc drone lớn hơn.
+
+Dù vậy, nó đại diện cho sự thích nghi nhanh chóng của Nga, biến "sự xấu xí" thành vũ khí sống còn.
+
+Nhìn rộng hơn, "lông nhím" không chỉ là một mẹo chiến thuật mà còn là bài học về tương lai tác chiến.
+
+Trong kỷ nguyên drone giá rẻ, giáp thép truyền thống đang lỗi thời, và các giải pháp lai giữa cơ khí đơn giản với trí tuệ chiến trường đang lên ngôi.
+
+Nga đã xuất khẩu ý tưởng này sang các đồng minh, trong khi Ukraine cũng thử nghiệm phiên bản tương tự trên xe Bradley của mình.
+
+Liệu "lông nhím" có trở thành tiêu chuẩn mới cho xe tăng toàn cầu? Chỉ thời gian mới trả lời, nhưng rõ ràng, trong cuộc xung đột Nga-Ukraine, những que sắt nhọn này đã cứu sống hàng trăm phương tiện – và thay đổi cách chúng ta nghĩ về phòng thủ.

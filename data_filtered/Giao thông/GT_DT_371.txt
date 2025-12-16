@@ -1,0 +1,41 @@
+Thời gian qua, Cục CSGT (Bộ Công an) tiến hành lắp đặt camera AI trên một số tuyến cao tốc và mới đây nhất là trên phố Phạm Văn Bạch (Hà Nội). Qua đó đã phát hiện hàng loạt phương tiện vi phạm. Chất lượng hình ảnh từ camera AI "siêu nét", thông tin rõ ràng khiến nhiều người quan tâm.
+
+Liên quan đến vấn đề này, phóng viên Dân trí đã có cuộc trao đổi với Đại tá Phạm Quang Huy, Phó Cục trưởng Cục CSGT (Bộ Công an).
+
+Đại tá Phạm Quang Huy, Phó Cục trưởng Cục CSGT (Bộ Công an) (Ảnh: Trần Thanh).
+
+Thưa Đại tá, camera AI được Cục CSGT lắp đặt có gì khác biệt so với các loại camera khác?
+
+- Camera AI khác camera thông thường là có khả năng sử dụng trí tuệ nhân tạo để phân tích, nhận diện và xử lý hình ảnh/video theo thời gian thực, từ đó nâng cao tính chính xác khi xử lý vi phạm.
+
+Ngoài ra, camera AI có thể nhận diện khuôn mặt, phát hiện hành vi, phân loại đối tượng, phương tiện và gửi cảnh báo. Bên cạnh đó, các phần mềm ứng dụng cũng được nghiên cứu để áp dụng cho việc khai thác dữ liệu hiệu quả hơn.
+
+Việc ứng dụng camera AI và phần mềm quản trị thông minh giúp lực lượng chức năng giám sát an ninh, quản lý giao thông tốt hơn. Đây là một giải pháp giám sát thông minh và hiệu quả, mang lại khả năng phân tích, quản trị và phản hồi thông tin vượt trội so với các loại camera truyền thống.
+
+Thông qua camera AI, cảnh sát có thể dễ dàng phát hiện, xử lý các trường hợp vi phạm dễ dàng, hình ảnh phương tiện sắt nét (Ảnh: Trần Thanh).
+
+Camera AI sẽ hiệu quả khi được phối hợp với phần mềm quản trị thông minh, kết nối dữ liệu về trung tâm dữ liệu, từ đó sẽ đọc ra được đặc điểm phương tiện, chủ phương tiện và các thông tin liên quan.
+
+Lực lượng CSGT trên cơ sở đó sẽ chuyển thông tin vi phạm nhanh nhất tới chủ xe thông qua ứng dụng VNeTraffic và trang web của Cục CSGT.
+
+Vậy camera AI nhận diện các hành vi vi phạm giao thông như thế nào, thưa Đại tá?
+
+- Đối với camera AI, sau khi ghi nhận xe vi phạm, hệ thống sẽ lập tức trích xuất được ảnh/clip liên quan. Nội dung bao gồm tuyến đường, thời gian vi phạm, hành vi vi phạm… Trên cơ sở dữ liệu đăng ký xe sẽ nhận diện được ngay chủ xe này là ai.
+
+Hiện camera AI có thể nhận diện được khoảng 20 hành vi vi phạm và đang liên tục được phát triển thêm, bao gồm cả ô tô và xe máy. Cảnh sát từ đây có thể coi như tuần tra trên môi trường điện tử. Trọng tâm là đảm bảo an ninh, an toàn sức khỏe, tính mạng, tài sản của nhân dân lên trên hết, trước hết.
+
+Hình ảnh camera AI mới được Cục CSGT lắp đặt tại phố Phạm Văn Bạch (Ảnh: Trần Thanh).
+
+Việc chuyển trạng thái quản lý từ thủ công sang công nghệ giúp tăng cường sự an toàn, thuận lợi cho người dân, góp phần nâng cao ý thức chấp hành pháp luật, xây dựng môi trường giao thông văn hóa văn minh, thu hút đầu tư, phát triển kinh tế xã hội.
+
+Từ đó, nâng cao hiệu quả giám sát ghi nhận vi phạm một cách chính xác minh bạch, hạn chế ùn tắc giao thông và giảm tai nạn giao thông.
+
+Với những tính năng như vậy, Cục CSGT sẽ ứng dụng camera AI như thế nào trong quản lý giao thông?
+
+- Cục CSGT vận hành Trung tâm thông tin chỉ huy với những công nghệ hiện đại, kết hợp với ứng dụng trí tuệ nhân tạo (AI) sẽ đáp ứng đầy đủ các yêu cầu quản lý nhà nước trong lĩnh vực giao thông, bao gồm cả việc kết nối dữ liệu đăng ký xe, đăng kiểm, đào tạo sát hạch giấy phép lái xe, thuế, hải quan, y tế và dữ liệu khác của Bộ Công an liên quan đến quản lý con người và phương tiện.
+
+Nếu trước kia chúng ta duy trì công tác quản lý bằng thủ công, tức là cán bộ chiến sĩ phải xuất hiện để giải quyết trực tiếp các vụ việc, thì tới đây việc này sẽ duy trì bằng công nghệ, hoạt động 24/24 giờ.
+
+Toàn bộ công tác điều phối, phân tích, ghi nhận và xử lý của trung tâm hoàn toàn tự động hóa, hướng tới lập biên bản và nộp phạt online, người vi phạm không cần tới trụ sở cảnh sát, không tiếp xúc trực tiếp với CSGT.
+
+Xin cảm ơn Đại tá!

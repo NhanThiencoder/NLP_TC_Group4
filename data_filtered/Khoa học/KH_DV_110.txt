@@ -1,0 +1,59 @@
+Thiết kế
+
+Huawei P9 có thiết kế nguyên khối kim loại cứng cáp, độ hoàn thiện cao. Nếu như các dòng smartphone khác thường bị lồi ra tại vị trí của cụm camera sau thì P9 ngược lại, camera kép và đèn flash kép đều phẳng so với mặt lưng. Chi tiết này cho thấy Huawei đã đầu tư rất nhiều cho công đoạn thiết kế P9.
+
+Mặt sau của Huawei P9.
+
+Ở mặt sau, P9 có nút cảm ứng dấu vân tay rất nhạy với vị trí thiết kế hợp lý để mở khóa bằng ngón trỏ. Trong khi ở mặt trước, màn hình có dạng giọt nước 2.5D độc đáo, viền siêu mỏng và diện tích khả dụng chiếm 73% bề mặt. Để tạo được tỉ lệ màn hình khả dụng ấn tượng này, Huawei đã đưa 3 phím điều hướng vào bên trong vùng màn hình cảm ứng.
+
+Nếu như các dòng smartphone Android thường gặp hai vấn đề chính là loa ngoài ở mặt lưng khiến trải nghiệm âm nhạc bị ảnh hưởng khi đặt máy lên bàn, và các phím điều hướng không có đèn nền khiến khó sử dụng trong bóng tôi, thì Huawei đã khắc phục chúng trên P9. Theo đó, loa ngoài đã được hãng thiết kế ở cạnh dưới, trong khi 3 phím điều hướng trong vùng màn hình cảm ứng sẽ tận dụng được ánh sáng của đèn nền.
+
+Màn hình P9 có viền siêu mỏng.
+
+Camera
+
+Trước khi ra mắt tại London (Anh), Huawei P9 đã nhận được sự chú ý lớn từ truyền thông bởi mối hợp tác với hãng máy ảnh hơn 90 năm kinh nghiệm Leica. Thực tế cho thấy, camera P9 cho ảnh chụp có màu sắc trung thực, sắc nét, nhưng khả năng chụp thiếu sáng chưa tốt (cần có sự hỗ trợ của chế độ chụp tay). Riêng chế độ chụp ảnh trắng đen trên P9 hứa hẹn sẽ tạo nên một trào lưu chơi ảnh hoài cổ cho các nhiếp ảnh gia.
+
+Bộ đôi camera trên P9 còn đi kèm loạt chế độ chụp ảnh, như Beauty (làm đẹp khuôn mặt), HDR (chụp ngược sáng), Panorama (chụp toàn cảnh). Đặc biệt hơn cả chính là chế độ Night Shoot (chụp ban đêm), Light Painting (chụp hiệu ứng ánh sáng), Slow-mo (chụp chuyển động chậm) hay chụp ảnh trước lấy nét sau (làm mờ hậu cảnh),... Nếu các chế độ trên chưa đủ đáp ứng nhu cầu chụp ảnh, người dùng có thể sử dụng chế độ chụp ảnh chuyên nghiệp (Pro).​
+
+So sánh ảnh chụp ban đêm ở chế độ tự động bằng LG G5 (trái) và Huawei P9 (phải).
+
+Ảnh chụp bằng P9 ở chế độ ban đêm (trái) và chế độ chỉnh tay (phải).
+
+Qua thử nghiệm, hầu hết các chế độ chụp đều có thấy hiệu quả rõ ràng. Riêng chế độ chụp anh trước lấy nét sau lại hoạt động chưa thật sự tốt. Nó dường như chỉ lấy nét vùng ảnh theo chiều ngang, chứ không thể hiện rõ độ sâu của đối tượng cần lấy nét cũng như hậu cảnh.
+
+Hiệu năng
+
+Huawei P9 sở hữu màn hình hiển thị Full HD 5,2-inches, tích hợp bộ xử lý 8 nhân 64-bit Kirin 955 (gồm 4 nhân tốc độ 2.5GHz và 4 nhân chạy ở xung nhịp 1.8GHz), 3GB RAM và bộ nhớ trong 32GB (hỗ trợ thẻ nhớ mở rộng tối đa thêm 128GB). Với cấu hình này, không khó hiểu khi máy có khả năng chơi game đưa xe Asphalt 8 mượt mà dù đã chỉnh độ phân giải trong game về mức cao nhất, song máy nóng lên khá nhanh.
+
+Để dùng thẻ nhớ, người dùng phải hi sinh khe gắn SIM 2.
+
+Chấm điểm bằng phần mềm AnTuTu Benchmark quen thuộc, Huawei P9 đạt điểm số rất cao, cao hơn nhiều các dòng smartphone khác như LG V10, Samsung Galaxy A9 Pro, Galaxy Note5 hay Google Nexus 6. Ngược lại, P9 lại thua điểm tổng quan so với LG G5, Samsung Galaxy S7 Edge, iPhone 6S và thậm chí là iPhone SE.
+
+So sánh riêng giữa P9 (87.702 điểm) và S7 Edge (134.599 điểm), mặc dù P9 thua về điểm tổng nhưng nó lại vượt trội hơn hẳn S7 ở cả khả năng xử lý đơn nhân và đa nhiệm. Lưu ý, phép so sánh này chỉ mang tính tham khảo, bởi hai sản phẩm sử dụng vi xử lý của hai hãng khác nhau.
+
+Huawei P9 "ăn" S7 Edge ở cả khả năng xử lý tác vụ đơn nhiệm và đa nhiệm.
+
+Thời lượng pin
+
+Theo thử nghiệm thực tế, thỏi pin 3.000mAh trên Huawei P9 có thể lướt web liên tục hơn 8 giờ 30 phút, xem phim liên tục hơn 9 giờ 10 phút, hoặc chơi game liên tục được hơn 4 giờ. Thử nghiệm ở độ sáng màn hình 70%, âm lượng loa ngoài ở mức 70% và thời lượng pin từ 100% xuống 10%.
+
+Thời lượng sử dụng như trên là khá ấn tượng nhưng Huawei lại “quên” trang bị công nghệ sạc nhanh cho P9. Với củ sạc đi kèm, P9 được sạc đầy từ 0% lên 100% pin trong 2 giờ 15 phút, trong khi thời gian sạc đầy 100% pin trung bình chỉ khoảng 1 giờ 30 phút. Thậm chí chiếc Lumia 950 XL (pin 3.340mAh) sử dụng cổng sạc USB Type-C tương tự P9 còn có khả năng sạc nhanh hơn rất nhiều.
+
+Ưu điểm:
+
+- Thiết kế đột phá.
+
+- Camera chụp ảnh đẹp, nét, nhiều chế độ.
+
+- Cảm ứng dấu vân tay nhạy.
+
+- Hiệu năng tốt.
+
+- Pin khá.
+
+Nhược điểm:
+
+- Sạc chậm.
+
+- Máy nhanh nóng khi chơi game hạng nặng.

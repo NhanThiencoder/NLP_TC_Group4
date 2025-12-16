@@ -1,0 +1,15 @@
+Website tìm nhà trọ được thực hiện bởi Vũ Tuấn Anh, Nguyễn Hòa Hợp, Dương Thị Tiểu Yến, sinh viên Trường ĐH Kỹ thuật - Công nghệ Cần Thơ và đã xuất sắc đoạt giải nhất cuộc thi Ý tưởng học sinh, sinh viên khởi nghiệp khu vực ĐBSCL lần 2 năm 2023.
+
+
+
+3 sinh viên Trường ĐH Kỹ thuật - Công nghệ Cần Thơ và giao diện trang web tìm nhà trọ của nhóm THANH DUY
+
+Tuấn Anh cho biết 3 thành viên của nhóm lúc mới lên Cần Thơ nhập học ai cũng vất vả trong việc tìm trọ. Đa số nhà trọ không có thông tin tham khảo nên phải đi hỏi từng nơi, xem từng chỗ. Trong thời gian ngắn khó thể tìm được nơi ưng ý, nhiều tân sinh viên đành ở tạm. Sau đó, sự bất tiện và tốn kém chi phí khi phải dời chỗ trọ, cộng với một số vấn đề khác phát sinh như phải đặt cọc để giữ chỗ trọ từ xa, trong khi chỉ xem qua ảnh chụp họ không thể thấy hết đường vào, chỗ đậu xe, các góc khuất trong phòng trọ.
+
+Trước thực trạng này, Tuấn Anh cùng 2 người bạn của mình nghiên cứu công nghệ thực tế ảo để hiển thị toàn cảnh nhà trọ nhằm hạn chế việc thuê trọ không như ý. Theo đó, chủ nhà trọ sẽ quay video nhiều vị trí của phòng và bối cảnh xung quanh. Qua phần mềm, video được xử lý tạo hình ảnh không gian thực tế ảo xoay 3600 rồi đưa lên website. Chỉ cần kéo màn hình điện thoại, người dùng giống như đang đi xem phòng trọ trực tiếp. "Đây là điểm độc đáo, sáng tạo của website. Việc hướng dẫn quay video, sử dụng phần mềm được nhóm làm mẫu và úp lên trang web để ai cũng có thể tham khảo", Tuấn Anh chia sẻ. Ngoài điểm nổi bật trên, website còn tích hợp các dịch vụ hữu ích khác như bản đồ, đánh giá của khách hàng.
+
+Lợi thế của 3 sinh viên này là cùng học ngành công nghệ thông tin. Kiến thức về lập trình, marketing được phát huy nên chi phí thiết kế website không đáng kể. Cái khó là làm sao nhóm huy động được một hệ thống dữ liệu phong phú về các nhà trọ để cập nhật lên hệ thống. Một phần nhóm tự tìm kiếm và sử dụng nguồn thông tin cung cấp từ Trường ĐH Kỹ thuật - Công nghệ Cần Thơ. Bên cạnh đó, website có thể dễ dàng tìm kiếm trên Google, fanpage, TikTok, YouTube.
+
+Lợi nhuận của nhóm nhận được là từ việc trả phí của các chủ nhà trọ khi đăng bài quảng cáo trên website. Nhóm có hẳn đội hậu cần tư vấn, chăm sóc khách hàng và kiểm tra lại thông tin những nhà trọ đăng quảng cáo cho đúng sự thật.
+
+Cô Nguyễn Nhựt Quỳnh, giảng viên Trường ĐH Kỹ thuật - Công nghệ Cần Thơ, cho biết công nghệ thực tế ảo là một điểm cộng, giúp người dùng tin tưởng hơn vì thấy được thực trạng của nhà trọ. Do đó, website này có tiềm năng ứng dụng vào thực tiễn cao. Công việc sắp tới của nhóm là viết app sử dụng trên nền tảng Android, Aaismex và phần Chatbot trả lời tự động với khách hàng có nhu cầu thuê trọ.

@@ -1,0 +1,27 @@
+Google là một trong những tập đoàn hàng đầu thế giới, và những người đang làm việc cho họ cũng có thể coi là những tài giỏi bậc nhất. Chẳng thế mà mới đây, một vị cựu lãnh đạo của Google đã đứng ra xây dựng một startup cho riêng mình và ông tuyên bố nó sẽ sớm trở thành một dự án tỷ đô trong thời gian tới.
+
+Câu chuyện bắt đầu từ tháng 8 năm ngoái khi Dan Cobley - một cựu lãnh đạo của Google tại Anh quyết định rời khỏi gã khổng lồ công nghệ này để tập trung phát triển cho dự án của mình. Startup của ông có tên là SalaryFinance, là một fintech company (financial technology company - công ty công nghệ tài chính) chuyên xử lý các khoản vay nợ công và nợ thẻ tín dụng của người dân tại Anh quốc.
+
+Cụ thể hơn, có thể bạn chưa biết rằng người dân ở các quốc gia phát triển có thói quen sử dụng các khoản vay tín dụng để chi trả các khoản chi phí lớn như mua nhà, xe hơi,... và trả chúng dần dần bằng thu nhập cá nhân. Tuy vậy cơ chế này sẽ khiến họ phải trả thêm một khoản lãi kha khá trong suốt một thời gian dài. SalaryFinance sẽ cung cấp cho người dân một khoản vay duy nhất để xử lý chúng, và người dân sẽ trả lại tiền cho SalaryFinance bằng các khoản trích trong tiền lương của họ.
+
+Theo tuyên bố của SalaryFinance, hành động của họ có thể giúp người dân tiết kiệm được đến 1 phần 3 số tiền lãi thực tế họ phải trả.
+
+Ý tưởng về SalaryFinance đến khi đồng sáng lập SalaryFinance, ông Asesh Sarkar biết được việc người giúp việc của mình đang gặp rắc rối về tiền bạc. Cô phải dành phần lớn tiền lương của mình vào việc chi trả các khoản vay và nợ tín dụng, và cô thực sự phải vật lộn với chuyện đó. Với kinh nghiệm làm việc trong ngành ngân hàng trong 13 năm, ông Sarkar đã cung cấp cho cô một khoản vay đủ để trả hết những khoản nợ kia và giờ thì cô chỉ phải chịu lãi 8% cho những khoản vay này. Việc này giúp cô cảm thấy thoải mái và nhiệt tình hơn rất nhiều trong công việc.
+
+Dịch vụ của SalaryFinance giúp các khoản vay tài chính của người dân trở nên dễ chịu hơn
+
+Những khoản vay như thế này đang trở nên rất phổ biến tại các quốc gia lớn như Mexico, Brazil và một bộ phận lớn ở nước Mỹ. Tại Anh, cũng đã có một số tổ chức bắt đầu cung cấp các dịch vụ tương tự, nhưng SalaryFinance đang muốn trở thành cái tên quen thuộc nhất đối với người dân tại đây. Ông Asesh Sarkarcho biết: "Chúng tôi đang tìm cách để thực hiện điều này trên quy mô quốc gia và chúng tôi đang nói chuyện với nhà tuyển dụng lớn".
+
+Để thực hiện tham vọng của mình, ông Cobley và Sarkar đã làm việc với các công ty lớn trên khắp nước Anh để đề nghị hợp tác. Trước mắt, họ công bố đã đạt được thỏa thuận với Saga - một doanh nghiệp hơn 50 tuổi với hơn 15.000 nhân viên tại Anh, Agilysys - một công ty gia công phần mềm với quy mô 2.000 nhân sự và AO.com - một đơn vị cung cấp hàng gia dụng cũng với quy mô hơn 2.000 người.
+
+Hiện SalaryFinance đang hoạt động với khoản tiền lên đến 3 triệu bảng Anh (khoảng 4,5 triệu USD) đến từ quỹ đầu tư mạo hiểm của chính ông Cobley mang tên Brightbridge. Số tiền này được sử dụng vào việc xây dựng nền tảng và chi trả cho các chi phí vận hành hệ thống. Còn lại các khoản vay sẽ được chi trả bởi 2 công ty cho vay theo mô hình peer-to-peer lớn nhất của Anh: Zopa và Ratesetter.
+
+Startup của Cobley là một động thái tăng thêm sự căng thẳng cho sự thách thức của các fintech đối với sức mạnh truyền thống của hệ thống ngân hàng. Theo ông Sarkar, trung bình mỗi người lao động tại Anh đang phải chịu một khoản vay không được đảm bảo rơi vào khoảng 4.000 bảng Anh (hơn 6.100 USD). Với nỗ lực của SalaryFinance, họ cho biết khoản lãi phải trả cho những khoản vay này sẽ giảm xuống chỉ còn 1/3 (lấy lãi 7,9% so với lãi trung bình 22% hiện nay của ngân hàng). Với sự vượt trội này, họ đang kỳ vọng vào một sự phát triển thần tốc của SalaryFinance.
+
+Lợi thế của các gói tài chính mà SalaryFinance có sức ảnh hưởng mạnh mẽ đến các doanh nghiệp tại Anh. Giờ đây họ đã có thể sử dụng chúng như một công cụ để tuyển dụng và giữ chân các nhân sự của mình. Như ông Cobley đã nói: "Có rất nhiều thứ cạnh tranh hơn tiền lương. Các tổ chức đang dần tìm kiếm các giải pháp để hoàn thiện các gói tài chính mà chúng còn có giá trị hơn cả việc tăng tiền lương".
+
+Về cơ bản, SalaryFinance hoạt động như một quỹ cho vay độc lập. Nó khác với ngân hàng truyền thống ở chỗ lãi suất phải trả cho nó là dễ chịu hơn rất nhiều. Với công nghệ của mình, SalaryFinance chỉ mất 30 phút để hoàn thành một khoản vay, và nó tương thích với tất cả các loại hình thanh toán hiện có.
+
+Vấn đề duy nhất mà SalaryFinance đang phải đối mặt hiện nay là người dân đang tỏ ra e dè với họ. Theo ông Cobley, người dân vốn đã quen thuộc với những khoản lãi lớn từ ngân hàng chưa thể làm tin nổi với những ưu đãi đến từ SalaryFinance. Nhiệm vụ của SalaryFinance giờ đây là phải cho người dân thấy được họ tuyệt vời chính xác như những gì mà họ đang cam kết.
+
+Theo BusinessInsider

@@ -1,0 +1,51 @@
+Nhà khoa học trẻ nhất giải thưởng Quả cầu Vàng 2023
+
+Năm 2019, TS Phạm Huy Hiệu nhận học bổng tiến sĩ toàn phần của chính phủ Pháp để theo học tại Viện Đại học Toulouse về Khoa học Máy tính. Quãng thời gian học tại Pháp chính là thời điểm anh bắt đầu với hướng nghiên cứu về trí tuệ nhân tạo ứng dụng trong y tế thông minh và y tế số.
+
+Sau khi tốt nghiệp với tấm bằng xuất sắc, TS Hiệu trở về Việt Nam phụ trách vị trí chuyên gia nghiên cứu và trưởng nhóm nghiên cứu cơ bản tại Viện Nghiên cứu Dữ liệu lớn (VinBigData). Anh hiện là giảng viên tại Viện Kỹ thuật và Khoa học Máy tính, kiêm Phó Giám đốc Trung tâm Nghiên cứu Sức khỏe thông minh, Trường Đại học VinUni.
+
+Được biết, lựa chọn quay trở về nước cống hiến từ đầu đã được anh quyết định từ trước thời điểm du học. Anh muốn trở về để tham gia trực tiếp vào hoạt động nghiên cứu khoa học tại Việt Nam, đặc biệt là các vấn đề cấp thiết và mang tính thách thức như công nghệ và y tế.
+
+TS Phạm Huy Hiệu, chủ nhân của Giải thưởng Quả cầu Vàng năm 2023 (Ảnh: NVCC).
+
+Khi nói về cơ duyên đối với lĩnh vực nghiên cứu về công nghệ y tế, anh cho hay, y tế là lĩnh vực quan trọng hàng đầu bởi điều này liên quan tới sức khỏe, ảnh hưởng tới cuộc sống của tất cả mọi người bất kể tầng lớp.
+
+Trong thời gian gần đây, trí tuệ nhân tạo và khoa học dữ liệu đã phát triển tới mức độ hoàn thiện rất cao và mở ra hàng loạt ứng dụng trong y tế. Anh chọn công nghệ y tế vì Việt Nam đang đứng trước những thách thức lớn về chăm sóc sức khỏe cộng đồng do tình trạng thiếu bác sĩ và nhu cầu chăm sóc sức khỏe tăng cao, và công nghệ là giải pháp tiềm năng nhất để giải bài toán này.
+
+Với những nỗ lực và đóng góp to lớn đối với nền khoa học trong nước, Phạm Huy Hiệu là nhà khoa học trẻ tuổi nhất trở thành chủ nhân Quả cầu Vàng năm 2023 ở độ tuổi 31.
+
+Chủ nhân của nhiều phát minh, sáng chế có giá trị khoa học và thực tiễn
+
+Anh là chủ nhân của nhiều phát minh, sáng chế có giá trị khoa học và thực tiễn cao, tiêu biểu như Giải pháp "Phần mềm chẩn đoán hình ảnh y tế VinDr dựa trên công nghệ trí tuệ nhân tạo", Giải pháp "VAIPE: Hệ thống theo dõi và hỗ trợ chăm sóc sức khỏe thông minh cho người Việt", 50 bài báo khoa học trên các tạp chí và hội thảo quốc tế uy tín, giải thưởng Quả cầu Vàng 2023 cùng hàng loạt giải thưởng danh giá khác.
+
+"Một cách sơ lược, VinDr là phần mềm trí tuệ nhân tạo có khả năng hỗ trợ chẩn đoán theo thời gian thực, phát hiện các loại tổn thương và bệnh lý trên hình ảnh y khoa (X-quang, CT, MRI).
+
+Phần mềm giúp sàng lọc bệnh nhân ở quy mô lớn, giúp các bác sĩ chẩn đoán nhanh và chính xác hơn. Giải pháp đã được triển khai ở nhiều bệnh viện trên cả nước và được đội ngũ bác sĩ tin tưởng sử dụng", anh Hiệu nói về công trình nghiên cứu của mình.
+
+TS Phạm Huy Hiệu (ngoài cùng bên trái) sở hữu nhiều công trình nghiên cứu khoa học giá trị thực tiễn cao (Ảnh: NVCC).
+
+Giải pháp này cung cấp một nền tảng di động cho phép thu thập, quản lý, phân tích dữ liệu sức khỏe của các cá nhân. Thói quen sử dụng thuốc, nhịp tim, huyết áp, chỉ số chiều cao, cân nặng cũng như các chỉ số sức khỏe quan trọng khác như tín hiệu ECG sẽ được thu thập thông qua điện thoại thông minh và được phân tích nhằm đưa các khuyến cáo về việc sử dụng thuốc an toàn, cảnh báo uống nhầm thuốc, uống thuốc ngoài đơn kê và chẩn đoán sớm các bệnh lý.
+
+Anh cùng các đồng nghiệp đã hoàn thiện các tính năng của phần mềm và đang cùng các đối tác triển khai đánh giá hiệu quả của nó trong thực tế. Đối với hệ thống chăm sóc sức khỏe tại Việt Nam, VAIPE có ý nghĩa ở chỗ nó giúp mọi người chủ động quản lý sức khỏe của mình thông qua việc số hóa và phân tích dữ liệu y tế cá nhân.
+
+Với việc đã công bố 50 bài báo khoa học, trong đó có 20 bài báo trên các tạp chí Q1, anh không nghĩ rằng mình có phát hiện lớn nào cho khoa học. Tuy nhiên, anh cho rằng, anh và các đồng nghiệp cũng đã có những đóng góp có ý nghĩa nhất định.
+
+"Đóng góp lớn nhất là việc định nghĩa các bài toán y tế số mới tại Việt Nam, sử dụng dữ liệu của người Việt để giải quyết các thách thức y tế cộng đồng tại Việt Nam. Nhiều bài toán trong số đó là bài toán mới ngay cả với cộng đồng khoa học quốc tế", TS Hiệu cho biết.
+
+Từng nhận được nhiều giải thưởng uy tín như Quả cầu Vàng, The ISCN Excellence Awards và The DAAD Fellows, anh rất vui vì công việc nghiên cứu của mình được Trung ương Đoàn, Bộ Khoa học và Công nghệ cùng các tổ chức quốc tế ghi nhận.
+
+"Đối với tôi, giải thưởng không phải là mục tiêu của công việc, nhưng nó lại có ý nghĩa lớn lao trong việc củng cố và khẳng định những gì chúng tôi đang làm là quan trọng và có ý nghĩa", anh chia sẻ.
+
+Thách thức trong hành trình nâng tầm nền y tế số Việt
+
+Hành trình nghiên cứu của TS Phạm Huy Hiệu đã gặp không ít khó khăn (Ảnh: NVCC).
+
+Bên cạnh đó, thách thức trong công việc còn đến từ việc làm sao để xác định đúng những bài toán nghiên cứu, tập hợp được đội ngũ sinh viên đủ kỹ năng và đam mê, thu thập được đủ dữ liệu có chất lượng và phát triển được những giải pháp có tác động thực sự tới cộng đồng.
+
+Đây là vấn đề khó và đòi hỏi nhiều thời gian và nguồn lực. Cách duy nhất để vượt qua những khó khăn này là hiểu rõ mục tiêu và ý nghĩa công việc của mình để duy trì động lực và chia sẻ nó với đồng nghiệp và sinh viên.
+
+Công việc nghiên cứu của anh cũng đòi hỏi nhiều thời gian, sự kiên trì và nỗ lực, điều này khiến anh khó có thể cân bằng cuộc sống và công việc. Việc dành thời gian cho công việc đồng nghĩa với việc phải cắt ngắn thời gian cho gia đình và những sở thích hay dự định cá nhân khác. Bù lại, anh cảm thấy vô cùng may mắn vì được gia đình ủng hộ và chia sẻ.
+
+Về những kế hoạch và dự định cho tương lai trong lĩnh vực nghiên cứu y tế và công nghệ, TS Phạm Huy Hiệu khẳng định: "Trí tuệ nhân tạo (AI) đang phát triển với tốc độ rất nhanh chóng, mở ra tiềm năng to lớn để phát triển các ứng dụng y tế thông minh.
+
+Trong thời gian tới, tôi và đồng nghiệp sẽ nỗ lực hướng tới việc đưa y tế (medicine) và kỹ thuật (engineering) hòa quyện thành khoa học liên ngành, giúp bác sĩ chẩn đoán nhanh và chính xác hơn với sự hỗ trợ của trí tuệ nhân tạo và khoa học dữ liệu, để từ đó giúp mọi người nâng cao sức khỏe và chất lượng sống".

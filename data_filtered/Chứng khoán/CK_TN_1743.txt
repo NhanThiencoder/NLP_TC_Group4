@@ -1,0 +1,21 @@
+Theo AP, Giám đốc điều hành mới của FTX John Ray III hôm 12.11 cho biết sẽ tắt giao dịch hoặc rút tiền và thực hiện các bước để đảm bảo tài sản của khách hàng. FTX cũng phối hợp với các cơ quan quản lý và thực thi pháp luật để giải quyết những vấn đề đang diễn ra.
+
+Hiện không rõ chính xác số tiền liên quan là bao nhiêu, nhưng theo ước tính hôm 12.11 của công ty phân tích Elliptic, có khoảng 477 triệu USD đã bị thiếu từ sàn giao dịch. Ông Tom Robinson, đồng sáng lập của Elliptic, cho biết một số khác đã được chuyển ra khỏi tài khoản của FTX, nhưng đó có thể là do FTX chuyển tài sản sang kho lưu trữ.
+
+Bloomberg
+
+FTX là một trong những sàn giao dịch tiền điện tử lớn nhất thế giới tính đến thời điểm này. Tuy nhiên, nó đã thiếu hụt hàng tỉ USD khi yêu cầu bảo vệ phá sản vào hôm 11.11. Cựu giám đốc điều hành kiêm người sáng lập Sam Bankman-Fried cũng đã từ chức. Theo hồ sơ phá sản, FTX định giá tài sản của mình từ 10 đến 50 tỉ USD và niêm yết hơn 130 công ty liên kết trên khắp thế giới.
+
+Việc làm sáng tỏ những vấn đề liên quan đến sàn giao dịch tiền điện tử khổng lồ một thời đang tạo ra làn sóng chấn động trong ngành. Các chính trị gia và nhà quản lý kêu gọi giám sát chặt chẽ hơn đối với lĩnh vực này. Trong khi đó, các chuyên gia cho biết diễn biến câu chuyện sẽ không ngừng trong những ngày tới.
+
+“Chúng ta sẽ phải chờ xem hậu quả là gì, nhưng tôi nghĩ chúng ta sẽ chứng kiến ​​nhiều quân cờ domino bị đổ và rất nhiều người sẽ mất tiền. Đó thực sự là bi kịch”, chuyên gia tài chính và kinh tế độc lập Frances Coppola nói.
+
+Thời gian và mức độ truy cập số tài sản bị thiếu hụt khiến bà Coppola và các nhà phân tích khác phải đưa ra giả thuyết rằng đó có thể là việc nội bộ. FTX hôm 11.11 xác nhận có “quyền truy cập trái phép” vào tài khoản của mình, chỉ vài giờ sau khi công ty nộp đơn xin bảo hộ phá sản theo Chương 11. Sàn giao dịch này cũng cho biết đang chuyển nhiều tài sản kỹ thuật số nhất có thể cho một “bên giám sát ví lạnh” (cold wallet custodian) mới, về cơ bản đây là cách lưu trữ tài sản ngoại tuyến không cho phép điều khiển từ xa.
+
+“Có vẻ như các bên thanh lý đã không hành động đủ nhanh để ngăn chặn một số việc bòn rút tiền từ FTX sau khi nó nộp đơn phá sản. Điều đó thật tồi tệ và cho thấy sự việc này phức tạp đến mức nào”, bà Coppola nói.
+
+Ban đầu, một số người hy vọng có lẽ tất cả khoản tiền bị thiếu là do các bên thanh lý hoặc các nhà quản lý phá sản đang cố gắng chuyển tài sản đến một nơi an toàn hơn. Nhưng sẽ là bất thường nếu điều đó xảy ra vào ngày xin bảo hộ phá sản, theo Molly White, chuyên gia nghiên cứu tiền điện tử và đồng sự của Phòng thí nghiệm Đổi mới Thư viện tại Đại học Harvard (Mỹ).
+
+“Nó rất khác so với những gì một nhà thanh lý có thể làm nếu họ đang cố gắng đảm bảo tiền”, bà White nói, đồng thời nhấn mạnh có những dấu hiệu cho thấy khả năng có sự tham gia của nội gián. “Có vẻ như ai đó không phải là người trong cuộc có thể thực hiện một vụ hack lớn như vậy, với rất nhiều quyền truy cập vào hệ thống FTX”.
+
+Sự sụp đổ của FTX làm nổi bật nhu cầu về việc tiền điện tử cần phải được quản lý nhiều hơn giống như tài chính truyền thống. “Tiền điện tử không còn ở giai đoạn đầu nữa. Chúng tôi đã thấy có những người bình thường bỏ tiền tiết kiệm cả đời của họ vào đó”, bà Copola nói.

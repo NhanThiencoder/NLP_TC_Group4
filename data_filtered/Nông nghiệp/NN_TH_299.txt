@@ -1,0 +1,4 @@
+TP.HCM: Diễn tập phòng chống dịch CGC và đại dịch cúm trên người
+
+Cuộc diễn tập quy mô sẽ diễn ra vào ngày 18/12 tại huyện Củ Chi. Tình huống giả định là tại Xí nghiệp X trên địa bàn huyện có 1 công nhân mắc bệnh cúm A đã tử vong và lây lan cho 3 trong số 5 công nhân sống cùng phòng trọ. Từ đó bệnh đã lây lan cho các công nhân khác trong cùng xí nghiệp. Có 14 công nhân đang được điều trị tại khu cách ly điều trị của huyện Củ Chi, trong đó  có 3 trường hợp diễn tiến nặng. Có tới 60 người có tiếp xúc với 15 ca bệnh thì 20 công nhân tiếp xúc trục tiếp sẽ được đưa vào khu cách ly kiểm dịch và tổ chức cách ly kiểm dịch tại nhà cho 40 công nhân. Như vậy, tại Xí nghiệp X diễn tiến dịch xảy ra rất nhanh, gây hoang mang cho công nhân Xí nghiệp và nhân dân địa phương. BCĐ phòng chống dịch huyện Củ Chi và Trung tâm Y tế huyện Củ Chi sẽ diễn tập thực hành các biện pháp phòng chống dịch và xử  lý môi trường.
+

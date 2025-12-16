@@ -1,0 +1,43 @@
+Trong lúc cả thế giới đang điên cuồng chạy đua vũ khí không người lái giá rẻ và hiệu quả, Anh Quốc lặng lẽ tung ra con át chủ bài có thể khiến mọi loại tên lửa hành trình truyền thống trở nên “lạc hậu đắt đỏ”: TigerShark – UAV/Drone bay một chiều (one-way effector) tầm xa hoàn toàn mới, được thiết kế để tiêu diệt mục tiêu cách 750km chỉ với chi phí chưa tới 200.000 USD mỗi quả. Khi tên lửa Storm Shadow còn đang tốn hàng triệu USD mỗi lần bắn, người Anh đã lặng lẽ tạo ra thứ vũ khí khiến cả thế giới phải kinh ngạc.
+
+Sơ đồ cấu tạo TigerShark được MGI công bố tại DSEI UK 2025. Nguồn: MGI Engineering
+
+Ra mắt chính thức tại triển lãm quốc phòng DSEI 2025 (London, tháng 9/2025), TigerShark ngay lập tức gây sốc khi được công bố là phiên bản “anh cả” của SkyShark – mẫu drone kamikaze đã gây bão mùa hè 2025.
+
+Nếu SkyShark được ví như “dao găm” tầm trung (250km, đầu đạn 20kg), thì TigerShark chính là “thanh đại đao” thực sự của Không quân Hoàng gia Anh và các đồng minh.
+
+Về mặt công nghệ, TigerShark là sản phẩm 100 % chuỗi cung ứng nội địa Anh do MGI Engineering (công ty từng tham gia phát triển công nghệ Formula 1) chế tạo.
+
+Điểm đột phá lớn nhất nằm ở việc sử dụng động cơ phản lực cỡ nhỏ hoàn toàn mới do chính các kỹ sư Anh phát triển, thay vì phụ thuộc vào dòng TJ-100/150 phổ biến từ Cộng hòa Séc như hầu hết drone Shahed, Geran hay Kalashnikov của Nga.
+
+Động cơ này cho phép TigerShark đạt tốc độ tối đa 750 km/h (gần Mach 0.7) trong suốt hành trình, biến nó thành một trong những drone tấn công nhanh nhất thế giới ở phân khúc giá rẻ.
+
+Ảnh: news-pravda.com
+
+Thông số kỹ thuật công nghệ chính thức được công bố khiến giới chuyên gia phải trầm trồ:
+
+Tầm bay tối đa 750km (có thể mở rộng thêm nhờ thùng nhiên liệu phụ); tải trọng chiến đấu lên tới 300kg (gấp 15 lần SkyShark và tương đương tên lửa hành trình Storm Shadow ở phiên bản nhẹ).
+
+Tốc độ hành trình 650–750 km/h, độ cao bay từ 50m tới 12.000m, có khả năng bay thấp sát mặt đất để tránh radar.
+
+Hệ thống dẫn đường quán tính kết hợp GPS kháng nhiễu và dẫn đường quang học cuối hành trình (AI nhận diện mục tiêu tự động).
+
+Khả năng hoạt động trong môi trường mất GPS hoàn toàn nhờ hệ thống định vị quán tính tiên tiến và trí tuệ nhân tạo onboard.
+
+Kích thước khi gấp cánh có thể phóng từ container 20 feet hoặc ống phóng trên xe tải dân sự.
+
+Giá thành dự kiến mỗi quả khi sản xuất hàng loạt dưới 200.000 USD (rẻ hơn 10–15 lần so với Storm Shadow/SCALP).
+
+Đặc biệt, TigerShark được thiết kế để tấn công sâu vào hậu phương đối phương mà không cần máy bay mẹ hay sân bay. Nó có thể được phóng theo bầy đàn (swarm) từ xe tải, tàu container cải tiến hoặc thậm chí từ ray phóng trên tàu chiến.
+
+Nguồn ảnh: Calibre Defence
+
+Với khả năng mang đầu đạn nổ phá 300kg hoặc đầu đạn thông minh đa năng, TigerShark đủ sức tiêu diệt cầu lớn, kho đạn, sở chỉ huy, nhà máy điện và thậm chí cả tàu chiến đối phương nếu được triển khai từ biển.
+
+Tháng 11/2025, nguyên mẫu TigerShark đã hoàn thành giai đoạn thử nghiệm trên không tại Anh và đang trong quá trình thử nghiệm chiến đấu thực tế tại Ukraine – nơi được chọn làm “bãi thử” chính thức giống như SkyShark trước đó.
+
+Các chuyến bay thử nghiệm đầu tiên với tải trọng thật dự kiến diễn ra vào cuối tháng 11 hoặc đầu tháng 12/2025, nếu thành công, việc giao hàng loạt cho Ukraine có thể bắt đầu ngay từ Quý 1/2026.
+
+Với TigerShark, Anh không chỉ chứng minh khả năng tự chủ công nghệ vũ khí dẫn đường chính xác mà còn mở ra một kỷ nguyên mới: thời kỳ mà tên lửa hành trình triệu đô bị thay thế bởi những “sát thủ một chiều” chỉ vài trăm nghìn USD nhưng vẫn đủ sức đánh sâu hàng trăm cây số.
+
+Khi TigerShark chính thức đi vào biên chế, cán cân sức mạnh trên chiến trường hiện đại chắc chắn sẽ thay đổi mãi mãi.

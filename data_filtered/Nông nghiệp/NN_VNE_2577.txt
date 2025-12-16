@@ -1,0 +1,19 @@
+Công nghệ phân tích các dải quang phổ từ đèn phản xạ ánh sáng qua vỏ giúp nhận biết thời gian thu hoạch nông sản tốt nhất, được phát triển bởi các nhà khoa học Bỉ.
+
+Chia sẻ tại hội thảo trực tuyến với chủ đề "Công nghệ thu hoạch cây ăn quả với cảm biến quang phổ" diễn ra chiều 29/3, GS Wouter Saeys, Đại học KU Leuven (Bỉ), chia sẻ về bộ cảm biến sử dụng trong thu hoạch cây ăn trái. Hội thảo do Quỹ VinFuture tổ chức trong chuỗi các chủ đề về công nghệ có tính ứng dụng cao được thế giới quan tâm gồm nông nghiệp, y tế, giao thông thông minh và những xu hướng công nghệ mới.
+
+GS Wouter Saeys, tác giả chính của nghiên cứu cho biết, thời gian thu hoạch làm ảnh hưởng đến hình thái, hương vị và thời gian bảo quản, lưu trữ trái cây. Với trái lê (táo), nếu hái sớm một ngày thời gian bảo quản chúng sẽ giảm đi 3 tuần, do đó nhóm nghiên cứu về công nghệ giúp đưa ra dự báo ngày thu hoạch tốt nhất.
+
+GS Wouter Saeys chia sẻ về công nghệ dự báo thu hoạch trái cây tại hội thảo trực tuyến. Ảnh chụp màn hình
+
+Các chuyên gia thực hiện phép đo quét phổ ánh sáng thông qua đèn phản xạ ánh sáng từ vỏ hoặc chiếu vào bên trong thịt quả để nhận biết các chỉ số chín của trái cây. Bằng cách tối ưu các màu đo về màu sắc, kích thước và lượng đường của quả, kết hợp với công nghệ phân tích sẽ đưa ra các chỉ số để biết được ngày chín. Nhóm đã thử nghiệm đo trên 150 quả tại vườn bằng đánh giá cảm biến và tìm được thời điểm thu hoạch tốt nhất. "Dữ liệu về thời gian chín của từng loại quả kết hợp với các phổ nhận được giúp xác định tuổi sinh học để dự báo thời gian thu hoạch tốt nhất cho người nông dân", GS Saeys cho hay.
+
+Ông cho biết thêm, công nghệ còn có thể hỗ trợ nhận diện các chỗ úng thối trên quả dựa trên cảm biến sinh học. Nhóm dự kiến đưa ra máy cảm biến có thể ứng dụng thực tế ngay tại vườn và mong muốn cải tiến, thiết kế phù hợp hơn để có thể sử dụng cho các loại trái cây có vỏ dày như chuối, dưa...
+
+Vải thiều Bắc Giang. Ảnh: Ngọc Thành
+
+Tại hội thảo, các nhà khoa học đánh giá công nghệ sẽ giúp dự báo được thời điểm tối ưu trong thu hoạch và bản quản nông sản. Các chuyên góp ý, nhóm cần cải tiến thiết bị nhỏ gọn, hoặc phát triển robot cảm biến hái trái cây có thể nhận biết được độ chín của quả. Đồng thời, phát triển hệ thống đo lường di động, ứng dụng trí tuệ nhân tạo, kết nối dữ liệu thực nhanh chóng tới người nông dân để thu được thông tin đầy đủ và chính xác.
+
+PGS.TS Trần Thị Định, Học viện Nông nghiệp Việt Nam, cho biết, hiện các nhà khoa học trong nước cũng phát triển nhiều công nghệ thu hoạch và bảo quản trái cây để chuyển giao cho các đơn vị. Dựa trên nhu cầu chuỗi cung ứng cũng như các khó khăn trong canh tác, nhiều giải pháp công nghệ được thiết kế ứng dụng trong chế biến và bảo quản để nâng cao chất lượng sản phẩm. Trong số này có công nghệ: chiếu xạ, lưu kho lạnh hoặc chế biến giúp nâng giá trị sản phẩm nông sản (quả vải được bảo quản tới 37 ngày, thanh long 55 ngày). Ngoài ra có thể nâng cao giá trị nông sản bằng cách chế biến thành sản phẩm như mứt, nước quả, rượu.
+
+Như Quỳnh

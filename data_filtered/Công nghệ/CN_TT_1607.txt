@@ -1,0 +1,12 @@
+ Đã có bản vá lỗ hổng nghiêm trọng cho IE
+
+Bản vá lỗi có Mã hiệu là MS05-054 có thể tải tại security bulletin MS05-054 . Bản vá này đồng thời cũng sửa luôn ba lỗi bảo mật khác, trong đó có một lỗi được đánh giá là nghiêm trọng. Lỗi này xuất hiện trên mọi phiên bản trình duyệt của tất cả các phiên bản của Windows. 
+
+Bản vá này cũng đồng thời cũng khắc phục luôn sự cố về bảo mật trên các đĩa nhạc CD của Sony gần đây (sự kiện này khiến Sony thu hồi hơn 2,1 triệu đĩa nhạc có chương trình gián điệp vốn là chương trình theo dõi khách hàng của mình). Những đoạn mã ActiveX do đĩa phát tán sẽ vô dụng trên trình duyệt được cập nhật. 
+
+Cùng ngày, Microsoft cũng phát hành bản vá mã hiệu MS05-055. Bản vá này khắc phục lỗi trong files NTOSKRNL.EXE, người dùng máy tính có thể sửa đổi data code trên bộ nhớ để có thể từng bước dừng các APC (thủ tục gọi nhân không đồng bộ) và phát tán thông tin sai lệch. Lỗi này chỉ có trên dòng Windows 2000, ngay trên Windows 2000 service pack 4. 
+
+Microsoft khuyến cáo người dùng cập nhật bản vá này càng sớm càng tốt. 
+
+
+

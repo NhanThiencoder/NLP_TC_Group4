@@ -1,0 +1,35 @@
+Một công ty khởi nghiệp ở Mỹ đang tham vọng phát triển trí tuệ nhân tạo có thể tiến hành nghiên cứu tìm ra thuốc mới và phát hiện khoa học, trong thời gian cực ngắn.
+
+John Gregoire (phải) rời Viện Công nghệ California để chỉ đạo nghiên cứu ở Lila. Ảnh: New York Times
+
+Công ty Lila Sciences mới đây đã chia sẻ tham vọng cách mạng hóa khoa học thông qua trí tuệ nhân tạo (AI). Công ty khởi nghiệp ở Cambridge, Massachusetts đã làm việc bí mật suốt hai năm nhằm chế tạo siêu trí tuệ nhân tạo để giải quyết những thách thức lớn nhất của nhân loại.
+
+Dựa vào đội ngũ nhà khoa học giàu kinh nghiệm và 200 triệu USD kinh phí ban đầu, Lila đang phát triển một chương trình AI được huấn luyện dựa trên dữ liệu thí nghiệm và xuất bản, cũng như quy trình và tư duy khoa học. Sau đó, công ty khởi nghiệp để phần mềm AI tiến hành thí nghiệm trong phòng lab tự động với vài nhà khoa hỗ trợ.
+
+Trong những dự án chứng minh công nghệ, AI của Lila tạo ra nhiều kháng thể mới để đối phó với dịch bệnh và phát triển vật liệu mới nhằm thu giữ carbon từ khí quyển. Lila biến các thí nghiệm đó thành kết quả thực tế ở phòng thí nghiệm trong vòng vài tháng, trong khi thông thường cần tới vài năm. Thí nghiệm của Lila thuyết phục nhiều nhà khoa học tin tưởng AI sẽ sớm thực hiện chu kỳ giả thuyết - thí nghiệm - kiểm tra nhanh hơn bao giờ hết. Trong một số trường hợp, AI thậm chí có thể vượt xa trí tưởng tượng của con người với các phát minh. "AI sẽ tiếp sức cho quá trình tiến hóa tiếp theo của phương pháp khoa học", Geoffrey von Maltzahn, giám đốc điều hành của Lila, tiến sĩ kỹ thuật y sinh và vật lý y khoa từ Viện Công nghệ Massachusetts, cho biết.
+
+Thôi thúc đổi mới quy trình phát hiện khoa học dựa trên sức mạnh của AI tạo sinh, vốn thu hút mối quan tâm của cộng đồng với sự ra đời của ChatGPT của OpenAI cách đây hơn hai năm. Công nghệ mới được huấn luyện với dữ liệu trên Internet và có thể giải đáp những câu hỏi, viết báo cáo và soạn email trôi chảy giống như con người. Thế hệ AI mới đã khởi động cuộc chạy đua thương mại và đầu tư không giới hạn từ các công ty công nghệ bao gồm OpenAI, Microsoft và Google.
+
+Lila áp dụng cách tiếp cận tập trung vào khoa học để huấn luyện AI tạo sinh, cung cấp cho nó những bài báo nghiên cứu, ghi chép thí nghiệm và dữ liệu từ phòng thí nghiệm khoa học đời sống và khoa học vật liệu đang phát triển nhanh chóng của công ty. Đội ngũ ở Lila tin rằng điều đó sẽ đem đến cho công nghệ cả chiều sâu trong khoa học và khả năng đa dạng, tương tự cách chatbot viết thơ và mã máy tính.
+
+Tuy nhiên, Lila và mọi công ty đang tìm cách khai thác siêu trí tuệ nhân tạo sẽ đối mặt những thách thức lớn. Trong khi AI cách mạng hóa nhiều lĩnh vực, bao gồm phát hiện thuốc, chưa rõ liệu công nghệ này chỉ là một công cụ hữu dụng hay đang trên đà sánh ngang hoặc vượt qua mọi khả năng của con người.
+
+Do Lila hoạt động bí mật, các nhà khoa học bên ngoài không thể đánh giá kết quả của họ và thành tựu khoa học ban đầu không nhất thiết đảm bảo thành công, bởi những chướng ngại vật không thể dự đoán trước thường nổi lên sau này.
+
+Lila được thành lập bên trong Flagship Pioneering, nhà đầu tư mạo hiểm đã tạo ra nhiều công ty công nghệ sinh học, bao gồm công ty sản xuất vaccine Covid-19 Moderna. Flagship tiến hành nghiên cứu khoa học, tập trung vào những đột phá nhiều khả năng diễn ra trong vòng vài năm và có thể chứng minh giá trị thương mại, theo Noubar Afeyan, nhà sáng lập kiêm giám đốc điều hành Flagship. Lila là kết quả từ sự sáp nhập hai dự án công ty ban đầu ở Flagship, một tập trung vào vật liệu mới và một về sinh học. Hai nhóm tìm cách giải quyết vấn đề tương tự nhau và tuyển dụng cùng người, vì vậy họ kết hợp lực lượng với nhau, theo Molly Gibson, nhà sinh vật học máy tính và đồng sáng lập Lila.
+
+Đội ngũ ở Lila đã hoàn thành 5 dự án nhằm chứng minh khả năng của AI do họ phát triển, phiên bản cực mạnh của một trong số những trợ lý tinh vi đang gia tăng gọi là tác nhân. Trong mỗi trường hợp, các nhà khoa học vốn không có chuyên môn ở chủ đề, gõ yêu cầu về những gì họ muốn chương trình AI đạt được. Sau khi sàng lọc yêu cầu, nhà khoa học làm việc với AI như một đối tác, tiến hành thí nghiệm và kiểm tra kết quả hết lần này tới lần khác, dần dần tiến tới mục tiêu mong muốn.
+
+Một trong những dự án đó tìm thấy chất xúc tác mới để sản xuất hydro xanh, bao gồm sử dụng điện để tách nước thành hydro và oxy. AI được hướng dẫn chất xúc tác cần phải dồi dào hoặc dễ sản xuất, khác với iridium, tiêu chuẩn thương mại hiện nay. Với sự hỗ trợ của AI, hai nhà khoa học tìm thấy chất xúc tác mới trong 4 tháng, quá trình kéo dài hàng năm nếu sử dụng phương pháp thông thường.
+
+Thành công đó góp phần thuyết phục John Gregoire, nhà nghiên cứu xuất chúng về vật liệu mới để sản xuất năng lượng sạch, rời Viện Công nghệ California năm ngoái để gia nhập Lila trong vai trò trưởng phòng nghiên cứu khoa học vật lý. George Church, nhà di truyền học ở Harvard nổi tiếng với nghiên cứu tiên phong về giải trình tự hệ gene và tổng hợp ADN, gần đây cũng trở thành nhà khoa học chủ chốt của Lila.
+
+Những dự án ban đầu vẫn còn cả chặng đường dài trước khi tạo sản phẩm sẵn sàng tung ra thị trường. Hiện nay, Lila đang làm việc với đối tác để thương mại hóa ý tưởng ra đời từ phòng thí nghiệm. Lila đang mở rộng diện tích phòng thí nghiệm ở tòa nhà Flagship 6 tầng ở Cambridge, dọc sông Charles. Trong hai năm tới, Lila lên kế hoạch chuyển sang một tòa nhà riêng biệt, tăng diện tích phòng thí nghiệm thêm hàng nghìn m2, mở văn phòng tại San Francisco và London.
+
+"Mục tiêu của chúng tôi thực sự là cung cấp AI để tiến hành phương pháp khoa học nhằm đưa ra những ý tưởng mới, cuối cùng tiến vào phòng thí nghiệm và kiểm tra ý tưởng đó", Gibson chia sẻ.
+
+Trước đó giới chuyên gia đồng ý một trong những tiềm năng ứng dụng lớn của AI là thúc đẩy cũng như cách mạng phát hiện và phát triển khoa học. Được nạp lượng dữ liệu khoa học khổng lồ, AI hứa hẹn tạo ra các loại thuốc mới để chiến đấu với dịch bệnh, thay đổi nông nghiệp nhằm cung cấp lương thực cho dân số thế giới và vật liệu giúp sản xuất năng lượng xanh, tất cả với một phần nhỏ thời gian so với nghiên cứu truyền thống.
+
+Nhiều công ty công nghệ như Microsoft và Google đang tạo ra công cụ AI phục vụ nghiên cứu khoa học và cộng tác với các đối tác trong những lĩnh vực như phát hiện thuốc. Đặc biệt, giải Nobel Hóa học năm ngoái được trao cho nhóm nhà khoa học sử dụng AI để dự đoán và tạo ra protein.
+
+An Khang (Theo New York Times)

@@ -1,0 +1,27 @@
+Title: Tạo không gian chuyển đổi số thống nhất trong toàn ngành nông nghiệp
+
+Thực tiễn cho thấy những thành công của nông nghiệp gần đây cũng có nhiều đóng góp từ việc triển khai hệ thống giải pháp phát triển khoa học công nghệ tận dụng thành tựu của nền công nghiệp 4.0 và chuyển đổi số trong nông nghiệp là một giải pháp tổng thể góp phần nâng cao hiệu quả toàn ngành, tạo đột phá trong phát triển nhanh, bền vững, nâng cao giá trị gia tăng, hiệu quả.
+
+Tiến hành nông nghiệp thông minh là tất yếu trong thời đại ngày nay. Tại Việt Nam, thời gian qua, chuyển đổi số đã bước đầu mang lại những kết quả tích cực không chỉ trong chất lượng, năng suất mà còn cải thiện đáng kể về cách thức quản lý, phương thức kinh doanh trong lĩnh vực nông nghiệp.
+
+Trong kết nối chuỗi giá trị, chuyển đổi số sẽ giúp ngành nông nghiệp Việt Nam có thể thay đổi từ mô hình sản xuất nhỏ lẻ, kém hiệu quả sang mô hình sản xuất mới, có sự liên kết chuỗi giá trị…
+
+Ảnh minh hoạ
+
+Trong trồng trọt, công nghệ IOT, Big Data bắt đầu được ứng dụng thông qua các sản phẩm công nghệ số như phần mềm cho phép phân tích các dữ liệu về môi trường, loại cây và giai đoạn sinh trưởng của cây, người tiêu dùng có thể truy xuất và theo dõi các thông số này theo thời gian thực…
+
+Công nghệ IOT, Blockchain đang được áp dụng rộng ở trang trại chăn nuôi quy mô lớn.
+
+Trong lâm nghiệp, ứng dụng công nghệ DND mã mạch trong quản lý giống lâm nghiệp và lâm sản; công nghệ GIS và ảnh viễn thám để xây dựng các phần mềm phát hiện sớm và cảnh báo cháy rừng từ ảnh vệ tinh, phần mềm giám sát và phát hiện sớm mất rừng, suy thoái rừng...
+
+Trong thủy sản, cũng chuyển đổi số mạnh mẽ như việc sử dụng thiết bị dò cá sử dụng sóng siêu âm, máy đo dòng chảy, điện thoại vệ tinh; máy thu lưới vây (đứng); hệ thống thu - thả lưới chụp, công nghệ GIS và hệ thống định vị toàn cầu (GPS) giúp quản lý đội tàu khai thác hải sản xa bờ.
+
+Ứng dụng công nghệ sinh học chọn lọc, lai tạo các giống có năng suất, chất lượng cao, có khả năng kháng bệnh, chịu đựng tốt với môi trường, công nghệ nuôi thủy sản tuần hoàn (RAS), công nghệ biofloc, công nghệ nano, công nghệ nuôi lồng trên biển, công nghệ nuôi cá nước lạnh.
+
+Công nghệ trí tuệ nhân tạo đã được sử dụng trong nuôi tôm nhằm phân tích các dữ liệu về chất lượng nước; quản lý thức ăn và sức khỏe của tôm nuôi. Công nghệ tự động hóa đã được áp dụng khá rộng rãi trong khâu chế biến thủy sản từ phân loại, hấp, đóng gói, dây chuyền sản xuất..., giúp giảm chi phí sản xuất, bảo đảm chất lượng sản phẩm thủy sản...
+
+Tuy nhiên, tại Việt Nam, chuyển đổi số ngành nông nghiệp vẫn còn vô vàn những khó khăn do nhận thức và chọn hướng đi đúng về chuyển đổi số của chính quyền, người dân và doanh nghiệp còn đang lúng túng, chưa đầy đủ… nhất là hợp tác xã, hộ nông dân; thiếu cơ sở dữ liệu lớn về ngành nông nghiệp; các cơ sở dữ liệu chuyên ngành nông nghiệp còn rời rạc, thiếu kết nối, tích hợp và chia sẻ với nhau.
+
+Hơn nữa, sản xuất, canh tác nông nghiệp tại Việt Nam còn manh mún, nhỏ lẻ, khó áp dụng công nghệ cao; các doanh nghiệp nông nghiệp đầu tư vào chuyển đổi số chưa nhiều; chất lượng nguồn nhân lực có chuyên môn cao trong nông nghiệp số còn hạn chế.
+
+Nguyễn Lê và nhóm PV, BTV

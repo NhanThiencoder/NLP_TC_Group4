@@ -1,0 +1,15 @@
+Tối 12/10, Cục CSGT (C08, Bộ Công an) cho biết, tính từ 12h ngày 11/10 đến 12h ngày 12/10, camera AI tại km20 tuyến cao tốc Nội Bài - Lào Cai ghi nhận hơn 9.200 phương tiện đi qua với tốc độ trung bình 62km/h. Trong số đó, camera đã phát hiện 26 trường hợp không thắt dây đai an toàn.
+
+Một tài xế ô tô điều khiển xe đi vào làn buýt BRT trên đường Lê Văn Lương bị camera AI phát hiện (Ảnh: Cục CSGT).
+
+C08 cho biết, các trường hợp vi phạm này đều được CSGT gửi thông báo tới chủ phương tiện để xử lý theo quy định.
+
+Theo Cục CSGT, cùng thời gian trên, hệ thống camera AI được thí điểm lắp đặt tại nút giao phố Phạm Văn Bạch - Hoàng Quán Chi (TP Hà Nội) đã tự động phát hiện 168 trường hợp người điều khiển xe máy không đội mũ bảo hiểm, 323 trường hợp vượt đèn đỏ, 1 trường hợp đi ngược chiều.
+
+Ngoài ra, camera AI tại đường Lê Văn Lương đã phát hiện 14 ô tô đi sai làn đường. Theo C08, những trường hợp này đã được Cục CSGT chuyển cho Công an TP Hà Nội và các đơn vị chức năng để thực hiện thủ tục xử lý vi phạm.
+
+Trao đổi với phóng viên Dân trí, Đại tá Phạm Quang Huy, Phó Cục trưởng Cục CSGT (Bộ Công an), cho biết camera AI khác camera thông thường là có khả năng sử dụng trí tuệ nhân tạo để phân tích, nhận diện và xử lý hình ảnh/video theo thời gian thực, từ đó nâng cao tính chính xác khi xử lý vi phạm.
+
+Ngoài ra, camera AI có thể nhận diện khuôn mặt, phát hiện hành vi, phân loại đối tượng, phương tiện và gửi cảnh báo. Bên cạnh đó, các phần mềm ứng dụng cũng được nghiên cứu để áp dụng cho việc khai thác dữ liệu hiệu quả hơn.
+
+Hiện camera AI có thể nhận diện được khoảng 20 hành vi vi phạm và đang liên tục được phát triển thêm, bao gồm cả ô tô và xe máy.

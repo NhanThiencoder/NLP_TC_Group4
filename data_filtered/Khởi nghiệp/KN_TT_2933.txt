@@ -1,0 +1,63 @@
+Pitch Deck - Thuyết trình để gọi vốn - Ảnh chụp màn hình Visme
+
+>> Phần 1: Bạn có biết: Nhà đầu tư thiên thần, vòng gọi vốn... là gì?
+
+Định giá (Valuation)
+
+Là hoạt động dùng các kỹ thuật, phương pháp để xác định giá trị hiện tại hoặc giá trị tương lai bằng tiền của một công ty hay một tài sản.
+
+Giá trị của công ty được phản ánh qua nhiều khía cạnh như thành phần, cấu trúc vốn, doanh thu, lợi nhuận, phương thức điều hành, quản lý, triển vọng trong tương lai, giá trị thị trường của tài sản công ty và nhiều số liệu khác.
+
+Định giá trước tiền (Pre-money valuation)
+
+Đây là giá trị công ty khởi nghiệp trước khi được nhà đầu tư cấp vốn, có thể hiểu là giá trị ước tính của công ty không gồm các khoản tài trợ từ bên ngoài.
+
+Định giá sau tiền (Post-money valuation)
+
+Đây là giá trị ước tính của công ty khởi nghiệp sau khi đã được vốn từ nhà đầu tư.
+
+Thuyết trình để gọi vốn (Pitch deck)
+
+Các công ty khởi nghiệp cần phải trình bày về sản phẩm, dịch vụ của mình bao gồm ý tưởng, mục đích, thị trường, đối tượng khách hàng hướng đến, đã làm được những gì, kế hoạch phát triển trong tương lai, phương thức kinh doanh, tình hình tài chính, vận hành công ty nhằm thuyết phục nhà đầu tư rót vốn vào dự án của mình.
+
+Việc thuyết trình này cần được chuẩn bị kỹ vì nó có ảnh hưởng không nhỏ tới quyết định "xuống tiền" của nhà đầu tư và tương lai của dự án.
+
+Ra mắt (Launch)
+
+Đây là lúc các công ty khởi nghiệp đưa sản phẩm, dịch vụ ra thị trường dưới dạng bản dùng thử nghiệm hoặc chính thức. Qua đây, nhóm dự án có thể đánh giá được phản ứng của khách hàng. Nếu nhận được phản ứng tích cực, công ty khởi nghiệp có thể thu hút thêm nhà đầu tư cho các vòng gọi vốn tiếp theo để phát triển sản phẩm.
+
+Mua xong thuê lại (Acqui-hired)
+
+Acquihire là thuật ngữ được tạo ra từ sự kết hợp giữa hai từ "acquisition" và "hire", nghĩa là "mua lại" và "thuê". Một công ty lớn sẽ mua lại một công ty nhỏ hơn (có thể đang có nguy cơ phá sản) để tuyển dụng các nhân viên tài năng của họ. Việc mua lại hướng tới mục tiêu săn lùng nhân sự.
+
+Dân khởi nghiệp phải biết kiểm soát tỉ lệ đốt tiền -- Ảnh chụp màn hình: PCG
+
+Tỉ lệ đốt tiền (Burn rate)
+
+Thuật ngữ này tạm dịch tỉ lệ đốt tiền hoặc tốc độ đốt tiền của công ty khởi nghiệp. Nó là lượng tiền mặt được chi tiêu trong mỗi tháng trước khi tạo ra doanh thu. Đây là một trong những chỉ số tài chính mà các nhà đầu tư đặc biệt quan tâm để đưa ra quyết định "xuống tiền".
+
+- Có 2 loại Burn Rate:
+
++ Gross Burn là tổng chi phí hoạt động mà công ty khởi nghiệp phải gánh chịu mỗi tháng.
+
++ Net burn là tổng số tiền thực tế mà công ty khởi nghiệp mất đi mỗi tháng.
+
+Chuyển hướng chiến lược (Pivot)
+
+Khái niệm này miêu tả công ty khởi nghiệp chuyển hướng chiến lược trong mô hình kinh doanh để tìm hướng mới tốt hơn khi mô hình cũ không phát triển hoặc thất bại. Công ty khởi nghiệp có thể chuyển hướng sản phẩm, dịch vụ, khách hàng mục tiêu, phương thức quản trị... Mỗi lần thay đổi được gọi là một điểm chuyển hướng - điểm pivot.
+
+Khả năng mở rộng (Scalability)
+
+Công ty khởi nghiệp luôn hướng tới sự phát triển bền vững và tiềm năng tăng trưởng thông qua việc số lượng người sử dụng sản phẩm, dịch vụ tăng lên, tạo doanh thu, lợi nhuận, có thể mở rộng quy mô và nhân rộng mô hình kinh doanh.
+
+Chiếc lược rút lui (Exit strategy)
+
+Các doanh nhân thường lập ra chiến lược rút lui, thoái vốn thông qua việc mua/ bán/ sáp nhập/ niêm yết đại chúng (IPO) công ty khởi nghiệp. Đây là cách để người sáng lập chuyển quyền sở hữu và kiếm tiền để trả lại cho các nhà đầu tư.
+
+Không gian làm việc chung (Co-working space)
+
+Đây là một xu hướng đang phổ biến khi giúp các công ty khởi nghiệp nhỏ, mới thành lập tiết kiệm chi phí thuê không gian làm việc. Theo đó, các công ty khác nhau sẽ chia sẻ không gian làm việc và các tiện ích chung mà chỉ cần trả một khoản phí nhỏ hơn là thuê cả văn phòng cho một đội ngũ nhân sự ít người.
+
+Niêm yết đại chúng (IPO - Initial Public Offering)
+
+Đây là một hình thức kêu gọi đầu tư khi cổ phần hóa công ty, đưa cổ phiếu của doanh nghiệp ra thị trường chứng khoán thông qua việc phát hành lần đầu ra công chúng. Như vậy, doanh nghiệp có cơ hội được biết đến nhiều hơn và thu hút đầu tư nếu kinh doanh tốt. Những người mua cổ phiếu của công ty sẽ sở hữu một phần của công ty đó.

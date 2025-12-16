@@ -1,0 +1,35 @@
+Dự án WordsMine của Phan Thành Ân - Video: NGUYỄN HOÀNG - MAI HUYỀN - CÔNG TUẤN
+
+Phan Thành Ân bắt đầu dự án WordsMine vì bức xúc khi phải tra từ vựng học ngoại ngữ - Ảnh: QUANG ĐỊNH
+
+Anh Phan Thành Ân, nhà sáng lập WordsMine, từng là kỹ sư phần mềm tại SAP Vietnam - tập đoàn phần mềm đa quốc gia về giải pháp doanh nghiệp, từng làm việc tại Singapore, Hàn Quốc, Đức...
+
+Dân công nghệ như tôi có khi mất tới 40% thời gian để xử lý vấn đề ngôn ngữ. Việc đó diễn ra mỗi ngày gây tốn nhiều thời gian, dễ nản lòng. Giải quyết được điều này, lĩnh vực công nghệ và số hóa của Việt Nam sẽ tăng trưởng tương xứng hơn.
+
+
+
+Anh Phan Thành Ân (nhà sáng lập WordsMine)
+
+Từ bức xúc mất nhiều thời gian cho ngôn ngữ
+
+Dự án WordsMine được anh Ân ấp ủ từ những ngày còn ngồi lập trình ở SAP. Nhiều lúc viết code gặp khó khăn, anh Ân phải tìm tài liệu nước ngoài để nghiên cứu giải pháp. Vừa nghiên cứu chuyên môn, vừa lọ mọ tra nghĩa từ vựng khiến quá trình làm việc của anh chậm hẳn.
+
+"Ngày nào cũng mất thời gian để tra từ như vậy quá tốn thời gian. Ra nước ngoài làm việc, ngôn ngữ tiếp tục là rào cản. Ý tưởng về việc tự code một ứng dụng giải quyết vấn đề bắt đầu nhen nhóm", anh Ân nhớ lại.
+
+Anh Ân lập ra phần mềm WordsMine với sứ mệnh giúp người dùng nâng cao trải nghiệm học ngoại ngữ thông qua các hoạt động thường ngày, mọi lúc, mọi nơi bằng việc tập trung tăng vốn từ vựng của người học.
+
+Học mỗi từ như gắn với một kỷ niệm
+
+Nhóm của anh Phan Thành Ân bàn bạc phát triển WordsMine - Ảnh: ĐTCC
+
+Theo anh Ân, dù học bất kỳ thứ tiếng nào, chúng ta luôn bắt đầu bằng từ vựng. Hiện nay có khá nhiều ứng dụng hiện hữu trên thị trường. WordsMine khác biệt ở chỗ ra đời là để giải quyết các vấn đề thường gặp như tra từ vựng mới nhiều lần và hay quên.
+
+WordsMine giúp người dùng cải thiện trải nghiệm học ngoại ngữ một cách xuyên suốt hơn, theo đúng ngữ cảnh, dễ dàng ghi nhớ, thông qua các hoạt động mỗi ngày như lướt web, đọc ebook, nghe nhạc.
+
+Chẳng hạn khi đang đi chợt thấy một tấm poster trên đường phố, người dùng chỉ cần mở điện thoại, dùng app WordsMine chụp lại hoặc scan bảng hiệu đó là hiểu được nghĩa từ, đồng thời từ đó và ngữ cảnh đó được lưu lại. Do đã lưu từ vựng và ngữ cảnh cụ thể lại trong bộ nhớ dự phòng của WordsMine nên người dùng có thể ôn tập lại khi rảnh rỗi.
+
+"Học mỗi từ như gắn với một kỷ niệm nho nhỏ khiến mình dễ nhớ từ hơn là học theo bài giảng có sẵn. Giao diện thân thiện, dễ tương tác, và luôn có đội ngũ kỹ thuật sẵn sàng hỗ trợ người học khi gặp khó khăn, đồng hành cùng người học, giúp tiến bộ nhanh chóng", chị Lê Trang, một người dùng, nhận xét.
+
+Trong thời gian sắp tới, nhóm anh Ân sẽ cho ra mắt phiên bản WordsMine Premium - trợ lý đồng hành 24/7 để giúp bạn trẻ mới đi làm giải quyết những "nỗi sợ tiềm ẩn": không hiểu tài liệu chuyên ngành, không tự tin về ngoại ngữ do thiếu vốn từ vựng.
+
+Chuỗi sự kiện Tuổi Trẻ Start-up Award năm nay Dự kiến diễn ra tại Đại học Kinh tế TP.HCM vào ngày 26-4, Talkshow Cảm hứng khởi nghiệp năm nay có chủ đề "Trong khủng hoảng tìm thấy cơ hội?", với sự tham dự của hàng nghìn bạn trẻ và các chuyên gia uy tín. Ngài Philipp Rösler, lãnh sự danh dự Việt Nam tại Thụy Sĩ, nguyên phó thủ tướng Đức gốc Việt, là một trong những diễn giả chính của chương trình năm nay. Lễ vinh danh và trao hỗ trợ các start-up tiêu biểu cũng sẽ được diễn ra ngay sau đó. Ngoài việc được vinh danh trên mặt báo, những câu chuyện khởi nghiệp còn có cơ hội tiếp cận với nhiều quỹ đầu tư cũng như được quảng bá đến công chúng. Ban tổ chức sẽ chọn các start-up tiêu biểu để hỗ trợ một khoản kinh phí với sự đồng hành của các đơn vị: VinaCapital, FE Credit, No.1, Thái Bình Group, IDICo, Volvo, Tín Nghĩa Corp., Saigontourist Group, Sân Golf Thủ Đức..., trong đó tiếp tục có 1 suất hỗ trợ đặc biệt dành cho start-up được Hội đồng thẩm định bình chọn, trị giá 100 triệu đồng, từ GIBC. Các start-up, nhóm bạn trẻ có ý tưởng khởi nghiệp hay và có tính thực tế cao, ứng dụng công nghệ, tạo lợi thế cạnh tranh, vận dụng AI, có tính bền vững, đóng góp cho cộng đồng, có giải pháp xanh, hướng đến môi trường... hoặc bạn đọc có các câu chuyện thiết thực phía sau những chân dung khởi nghiệp, có thể gửi bài viết tự giới thiệu về địa chỉ email: tuoitrestartupaward@tuoitre.com.vn. MINH HUỲNH

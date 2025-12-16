@@ -1,0 +1,12 @@
+
+Theo Bkav, một chiến dịch tấn công mạng toàn cầu mang tên ClickFix đang nhắm đến Việt Nam với mục tiêu là khách sạn, homestay, resort và cơ sở lưu trú. Kẻ xấu giả mạo các nền tảng đặt phòng nổi tiếng như Booking.com, Expedia… gửi email nội dung dạng "Xác nhận đặt phòng", "Khiếu nại khách hàng", "Cập nhật thanh toán", "Hủy đặt phòng"... ngụy trang giống email thật rồi đính kèm link hoặc tệp Excel giả hóa đơn/thông tin đặt phòng có chứa virus.
+
+Cảnh báo email chứa virus giả mạo Booking.com ẢNH: BKAV
+
+Vì khó phân biệt email thật/giả, người dùng dễ mất cảnh giác, nhấp vào một liên kết hoặc mở tệp đính kèm là mã độc sẽ kích hoạt. Từ đó, tin tặc có thể chiếm quyền điều khiển thiết bị, đánh cắp dữ liệu khách hàng dẫn đến rò rỉ thông tin cá nhân hoặc cài thêm phần mềm gián điệp để xâm nhập sâu vào hệ thống.
+
+Theo nghiên cứu của các chuyên gia Bkav, chiến dịch tấn công ClickFix sử dụng PureRAT, một dạng mã độc giành quyền truy cập từ xa (RAT - Remote Access Trojan) nhằm giám sát hoạt động người dùng, đánh cắp mật khẩu, mở rộng phạm vi tấn công nội bộ, ẩn náu lâu dài và khó phát hiện. Đáng lo ngại hơn, ClickFix có dấu hiệu vận hành theo mô hình "Attack-as-a-Service" nghĩa là tin tặc có thể mua sẵn công cụ và tấn công mà không cần kỹ thuật cao siêu.
+
+Việt Nam có hàng chục nghìn cơ sở lưu trú gồm khách sạn, homestay, resort... đang có mặt trên nền tảng đặt phòng nổi tiếng như Booking.com, Agoda, Traveloka, Airbnb… Đây cũng chính là nhóm dễ trở thành nạn nhân bởi nhân viên lễ tân và bộ phận đặt phòng thường chưa được đào tạo bài bản về an ninh mạng, dễ bị đánh lừa bởi các email đặt phòng giả mạo có giao diện gần như thật.
+
+Bkav khuyến nghị, khi kỳ nghỉ lễ Tết Dương lịch và Tết Nguyên đán đang đến gần, nhu cầu đặt phòng du lịch tăng cao, người dân và đội ngũ nhân viên cơ sở lưu trú cần cảnh giác cao độ. Cụ thể, kiểm tra kỹ địa chỉ email gửi đến; không mở tệp đính kèm, link lạ; ưu tiên truy cập các nền tảng đặt phòng bằng ứng dụng hoặc trang chủ chính thức; cài đặt hệ thống giám sát email, phần mềm diệt virus, giải pháp chống mã độc toàn diện vì các phần mềm có sẵn kèm hệ điều hành chỉ được thiết kế để đáp ứng nhu cầu bảo vệ ở mức cơ bản của khách hàng và không đủ khả năng chống lại các ransomware, virus hiện đại được thiết kế nằm vùng lâu dài, ăn sâu vào hệ thống.

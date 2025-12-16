@@ -1,0 +1,31 @@
+Là doanh nghiệp nắm giữ thị phần lớn nhất trong ngành sữa và các sản phẩm từ sữa tại Việt Nam, Vinamilk từng đối mặt với thách thức trong việc quản lý và kiểm soát quy trình giao nhận như đảm bảo hàng được giao đúng và đủ đến tay khách hàng, rút ngắn thời gian giao hàng... Doanh nghiệp ước tính, riêng quy trình kiểm tra ảnh giao hàng thủ công đòi hỏi một đội ngũ nhân viên đông đảo, với chi phí vận hành lên đến hơn 3 triệu USD mỗi năm.
+
+Thay vì mở rộng nhân sự, Vinamilk đã lựa chọn hướng đi khác: áp dụng giải pháp trí tuệ nhân tạo để tự động hóa toàn bộ quy trình xử lý hình ảnh. Hệ thống mới có khả năng xử lý tự động khối lượng ảnh khổng lồ, đảm bảo độ chính xác cao và tiết kiệm đáng kể chi phí vận hành.
+
+Từ thách thức đến giải pháp đột phá
+
+Xuất hiện trong sự kiện lớn nhất năm của Amazon Web Services (AWS - nền tảng điện toán đám mây hàng đầu thế giới do Amazon phát triển) tại Việt Nam với hơn 1.700 người tham dự, Vinamilk thu hút sự quan tâm đặc biệt của giới chuyên môn khi là doanh nghiệp ngành hàng tiêu dùng nhanh (FMCG) duy nhất có gian hàng giới thiệu về hành trình chuyển đổi số. Nhiều người tham dự sự kiện bày tỏ sự bất ngờ khi một doanh nghiệp sản xuất lại có mặt tại một sự kiện chuyên về công nghệ, để trình diễn năng lực công nghệ nội tại của mình.
+
+Gian hàng Vinamilk thu hút sự quan tâm của nhiều khách tham dự tại sự kiện AWS Cloud Day Việt Nam 2025. Ảnh: AWS
+
+Điểm đặc biệt trong hành trình chuyển đổi số của Vinamilk là việc xây dựng môi trường làm việc khuyến khích sáng tạo và đổi mới. Nhân viên được tự do khám phá và ứng dụng các công nghệ mới, để phát triển những giải pháp giúp tối ưu hóa hoạt động kinh doanh. Với các đặc điểm trên, Vinamilk đã lựa chọn AWS làm nền tảng cốt lõi, từ đó làm chủ công nghệ và hành trình chuyển đổi số của mình.
+
+“Không chỉ giúp tiết giảm chi phí nhân công, hệ thống điều phối đơn hàng tự động do Vinamilk phát triển còn mở ra cánh cửa gia tăng hiệu quả vận hành và khả năng mở rộng quy mô vượt trội. Hiện hệ thống này đã tích hợp các đại lý bán hàng sử dụng AI và hệ thống gợi ý sản phẩm thông minh để hỗ trợ gia tăng tỷ lệ chuyển đổi đơn hàng và tăng doanh số", ông Eric Yeo - Tổng giám đốc AWS Việt Nam đánh giá trong khuôn khổ sự kiện.
+
+Ông Eric Yeo - Tổng giám đốc AWS Việt Nam, phát biểu tại sự kiện. Ảnh: Minh Anh
+
+Nền tảng còn có khả năng mở rộng linh hoạt để phục vụ các chiến dịch khuyến mãi lớn, cũng như rút ngắn đáng kể thời gian giao hàng. Thực tế, tại sự kiện mua sắm 11/11/2024 của sàn thương mại điện tử Shopee, hệ thống này đã giúp Vinamilk xử lý lượng đơn hàng tăng gấp 18 lần so với ngày thường một cách dễ dàng.
+
+Làm chủ công nghệ để kiểm soát tốc độ đổi mới
+
+Cùng với tái định vị thương hiệu, theo báo cáo thường niên 2025 của Vinamilk, chuyển đổi số là một trong những dự án chiến lược trọng điểm của doanh nghiệp trong cuộc chuyển mình vừa qua. Tầm nhìn của đơn vị dẫn đầu ngành sữa Việt là xây dựng một hệ sinh thái số toàn diện kết nối chặt chẽ từ khâu sản xuất, phân phối đến bán hàng và tương tác trực tiếp với nhà bán lẻ, người tiêu dùng.
+
+“Mục tiêu cuối cùng là tối ưu mọi khía cạnh vận hành nhằm tạo ra lợi thế cạnh tranh vượt trội và bền vững”, trích từ báo cáo.
+
+Nếu trước đây, việc tối ưu một tính năng có thể khiến doanh nghiệp mất 2-3 tháng; thì nay đội kỹ thuật nội bộ có thể hoàn thành yêu cầu chỉ trong vài tuần, thậm chí 2-3 ngày với các tính năng đơn giản. Điển hình là trong đợt phát động chiến dịch Tiếp ứng 1:1 (Bạn đóng góp 1 thùng, Vinamilk đóng góp thêm 1 thùng), Vinamilk đã lập trình trang web đặt hàng trong vòng 24 giờ, kịp thời hỗ trợ đồng bào miền Bắc bị ảnh hưởng bởi cơn bão Yagi hồi cuối năm 2024.
+
+Ứng dụng chuyển đổi số mạnh mẽ giúp Vinamilk chủ động trong chiến lược phát triển và cải thiện trải nghiệm cho người tiêu dùng. Ảnh: Minh Anh
+
+Những bước tiến gần đây của Vinamilk trên thị trường thương mại điện tử có thể được xem như thành công ban đầu cho chiến lược táo bạo này. Theo báo cáo của Metric, Vinamilk là thương hiệu thuần Việt duy nhất góp mặt top 10 Thương hiệu có doanh số cao nhất năm 2024 (số liệu từ 4 sàn Shopee, Lazada, Tiki và Sendo), tăng gần một nửa so với 2023. Với kết quả này, thương hiệu hiện đứng thứ 7 trong nhóm các thương hiệu có doanh số cao nhất trên các sàn thương mại điện tử tại Việt Nam, tăng 2 bậc so với cùng kỳ.
+
+Tú Uyên

@@ -1,0 +1,14 @@
+ Xuất hiện trojan chuyên ăn cắp dữ liệu giao dịch ngân hàng
+
+Con trojan này chuyên lây lan qua mạng nhắn tin trực tuyến MSN Messenger và có khả năng ăn cắp tài khoản -mật khẩu rất siêu khi người dùng giao dịch điện tử trên các mạng ngân hàng lớn nhất ở Tây Ban Nha. 
+
+Con trojan Nabload.u thường lây lan bằng cách tự động gửi đến các địa chỉ nằm trong sổ địa chỉ (address book) của máy bị lây nhiễm một đường dẫn đến một trang web mà khi người dùng ngây thơ chui vào trang web này thì con Nabload.u sẽ tự động nhảy vào máy tính. 
+
+Ngoài ra trojan Nabload.u cũng tự động tải về máy bị lây nhiễm một phần mềm gián điệp mang tên Banker.bsx chuyên ăn cắp tài khoản - mật khẩu của 10 mạng ngân hàng trực tuyến lớn nhất ở Tây Ban Nha, trong đó có các ngân hàng tầm cỡ như Venezolano de Credito, Banco Provincial, Banco Universal… 
+
+Luis Corrons, giám đốc của Panda Software nhận định Nabload.u là dạng trojan lai ghép với phần mềm gián điệp hết sức hiện đại và đa năng. Nó có khả năng ăn cắp dữ liệu cực nhanh và hầu như thoát khỏi mọi biện pháp truy quét của các công cụ bảo mật. 
+
+Panda Software xếp hạng trojan Nabload.u vào dạng “rất nguy hiểm” chỉ sau mức độ trầm trọng nhất là “cực kỳ nguy hiểm”. 
+
+
+

@@ -1,0 +1,12 @@
+Thử nghiệm hệ thống tên miền tiếng Việt 
+
+Trong tháng 3, Trung tâm Internet Việt Nam (VNNIC) sẽ đưa vào thử nghiệm hệ thống tên miền tiếng Việt. Hệ thống này được ứng dụng cho các trình duyệt IE6, Nescape 7.1, Outlook Express. Trong thời gian 6 tháng thử nghiệm, các đối tượng được miễn phí đăng ký tên miền.
+
+
+Trong thời gian thử nghiệm, ngoài việc được miễn phí đăng ký tên miền, khách hàng còn được lựa chọn hosting trang web của mình, được sở hữu 1 địa chỉ e-mail theo tên miền của mình dưới dạng email_address@domain_name.vn. 
+
+
+Ông Đỗ Quang Trung, Trưởng phòng khai thác và duy trì hệ thống máy chủ tên miền (DNS) quốc gia .vn khu vực 2 (TP HCM), cho biết, trong thời gian thử nghiệm hạn chế từ tháng 10/2003, đã có khoảng 800 tên miền tiếng Việt được đăng ký và sử dụng. Nhờ hệ thống này, tên miền được đặt rõ nghĩa hơn, tránh được sự mập mờ thương hiệu dễ dẫn đến tranh chấp. Theo ông Trung, việc sử dụng tên miền tiếng Việt trên Internet là một cách quảng bá thương hiệu Việt rất tốt ra thế giới. Đồng thời, nó khẳng định được vị thế của Việt Nam vì hiện nay các nước đều có hệ thống tên miền theo tiếng bản ngữ. 
+
+
+

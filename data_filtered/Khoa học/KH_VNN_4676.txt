@@ -1,0 +1,51 @@
+Hộ chiếu số của hàng hoá là cuộc chơi toàn cầu
+
+Tại Diễn đàn Khoa học công nghệ, Đổi mới sáng tạo và Chuyển đổi số tỉnh Hưng Yên được tổ chức vào ngày 29/10, ông Nguyễn Phú Dũng, Phó Viện trưởng Viện Khoa học Dữ liệu – Hiệp hội Dữ liệu Quốc gia, đã giới thiệu Nền tảng Quốc gia về định danh, xác thực và truy xuất nguồn gốc sản phẩm hàng hóa (NDATrace), thu hút sự chú ý của nhiều chuyên gia và doanh nghiệp.
+
+Đây là giải pháp hạ tầng dữ liệu tiên phong trong khuôn khổ Đề án 06 (Đề án Phát triển ứng dụng dữ liệu về dân cư, định danh và xác thực điện tử phục vụ chuyển đổi số quốc gia giai đoạn 2022 - 2025, tầm nhìn đến năm 2030).
+
+Theo ông Dũng, trong bối cảnh kinh tế dữ liệu toàn cầu, truy xuất nguồn gốc không còn là lựa chọn mà là yêu cầu bắt buộc, nhất là với các mặt hàng xuất nhập khẩu hoặc lĩnh vực chịu ràng buộc tiêu chuẩn cao như thực phẩm, dược phẩm, linh kiện điện tử. Nhiều quốc gia đã triển khai các hệ thống quy mô lớn để hiện thực hóa điều đó.
+
+Liên minh châu Âu (EU) đang xây dựng nền tảng Trace4EU, cho phép 30 đối tác thuộc 14 nước thành viên chia sẻ dữ liệu xuyên biên giới, tiến tới áp dụng Digital Product Passport – hộ chiếu số cho hàng hóa.
+
+Tại Mỹ, nền tảng IBM Food Trust ứng dụng blockchain giúp Walmart, Nestlé hay Unilever truy vết từng lô thực phẩm chỉ trong vài giây. Trung Quốc cũng phát triển BSN Blockchain phục vụ định danh và xác thực dược phẩm, thiết bị y tế và sản phẩm xuất khẩu.
+
+Điểm chung của các mô hình tiên tiến này, theo ông Dũng, là dữ liệu minh bạch, xác thực độc lập và liên thông toàn cầu – yếu tố giúp hàng hóa dễ dàng vượt qua hàng rào kỹ thuật và gia tăng niềm tin với người tiêu dùng quốc tế.
+
+Nhiều quốc gia đã triển khai các hệ thống quy mô lớn để truy xuất nguồn gốc hàng hoá.
+
+Xuất phát từ yêu cầu cấp thiết giải quyết các vấn đề khó khăn, thách thức trên, Hiệp hội Dữ liệu Quốc gia, với sự đồng hành của các bộ, ngành và cộng đồng doanh nghiệp, đã nghiên cứu và phát triển Nền tảng Quốc gia về định danh, xác thực và truy xuất nguồn gốc sản phẩm, hàng hoá (NDATrace).
+
+Hệ thống NDATrace được xây dựng trên chuẩn GS1 quốc tế và công nghệ blockchain quốc gia, hướng tới mục tiêu định danh, xác thực và truy xuất toàn bộ vòng đời sản phẩm Việt Nam – từ sản xuất, phân phối đến tiêu dùng – bằng một mã số duy nhất.
+
+Mục tiêu xuyên suốt của nền tảng là chuẩn hóa, liên thông và minh bạch hóa dữ liệu về sản phẩm hàng hóa Việt Nam phục vụ tiêu dùng trong nước và xuất khẩu quốc tế.
+
+Điểm đặc biệt, NDATrace không hoạt động độc lập mà là một phần trong hệ sinh thái hạ tầng dữ liệu quốc gia, gồm các lớp: NDAChain: chuỗi khối quốc gia bảo toàn dữ liệu; NDADID: nền tảng định danh phi tập trung quốc gia và NDATrace: lớp ứng dụng cho định danh, xác thực và truy xuất hàng hoá.
+
+Cấu trúc này giúp mọi dữ liệu truy xuất đều được định danh, ký xác thực và lưu bất biến, đảm bảo tính toàn vẹn và niềm tin trong toàn bộ chuỗi cung ứng.
+
+“Chúng ta đang bước vào thời kỳ mà mọi sản phẩm đều cần có ‘hộ chiếu số’, minh chứng nguồn gốc, chất lượng và hành trình di chuyển của nó”, ông Dũng nói.
+
+Mục tiêu xuyên suốt của nền tảng là chuẩn hóa, liên thông và minh bạch hóa dữ liệu về sản phẩm hàng hóa Việt Nam phục vụ tiêu dùng trong nước và xuất khẩu quốc tế. Ảnh: Bảo Kiên
+
+Khắc phục các điểm nghẽn cố hữu
+
+Tại Việt Nam, hoạt động truy xuất nguồn gốc tuy đã được nhiều bộ ngành, địa phương quan tâm nhưng vẫn phân tán, thiếu đồng bộ và chưa có chuẩn thống nhất. Mỗi cơ quan, mỗi tỉnh hoặc doanh nghiệp lại sử dụng một hệ thống riêng, dữ liệu không kết nối, định danh không tương thích, khiến chi phí cao mà vẫn khó xác thực độc lập.
+
+Điều này dẫn tới những hệ quả nhức nhối: hàng giả, hàng nhái vẫn tràn lan; doanh nghiệp gặp rào cản khi xuất khẩu do thiếu chứng nhận truy xuất đáng tin cậy; cơ quan quản lý khó kiểm soát luồng hàng hóa; trong khi người tiêu dùng lại không có công cụ đơn giản để kiểm tra thật – giả.
+
+Và NDATrace ra đời nhằm khắc phục triệt để các điểm nghẽn đó.
+
+Luồng truy xuất hàng hoá được xây dựng trên nền tảng dữ liệu giúp dễ dàng truy xuất.
+
+Mỗi sản phẩm khi được gắn mã định danh duy nhất (UID) theo chuẩn GS1 Digital Link sẽ mang theo toàn bộ dữ liệu về quy trình sản xuất, vận chuyển, phân phối, thậm chí phản hồi của người tiêu dùng. Dữ liệu này được xác thực bằng chứng chỉ số, lưu vết trên blockchain, không thể bị chỉnh sửa hay làm giả.
+
+Đáng chú ý, NDATrace không chỉ phục vụ quản lý nhà nước mà còn mở cho doanh nghiệp và người dân. Doanh nghiệp có thể tích hợp dễ dàng với hệ thống sản xuất hoặc ERP hiện có, tiết kiệm chi phí vận hành; cơ quan quản lý có thể giám sát thị trường theo thời gian thực, phát hiện sớm gian lận, hàng giả; còn người dân chỉ cần quét mã QR hoặc chạm NFC là biết ngay sản phẩm chính hãng, nguồn gốc ở đâu, do ai sản xuất.
+
+“Đó chính là cách công nghệ dữ liệu phục vụ trực tiếp người dân, bảo vệ doanh nghiệp và giúp Nhà nước điều hành minh bạch hơn”, ông Dũng nhấn mạnh khi nói về NDATrace.
+
+NDATrace được vận hành theo kiến trúc mở, chuẩn quốc tế, liên thông toàn cầu, tương thích với hệ thống EBSI của châu Âu và BSN của Trung Quốc, qua đó giúp sản phẩm Việt Nam dễ dàng được công nhận truy xuất minh bạch khi xuất khẩu. Không chỉ là công cụ kỹ thuật, NDATrace còn là hạ tầng dữ liệu quốc gia phục vụ kinh tế minh bạch và thương mại số hóa, hướng tới mục tiêu “mỗi sản phẩm Việt đều có một định danh số đáng tin cậy, được bảo chứng bởi Nhà nước.
+
+Theo ông Dũng, khi được triển khai đồng bộ, NDATrace sẽ mang lại ba lợi ích chiến lược: nâng cao hiệu lực quản lý thị trường, ngăn chặn gian lận, hàng giả, và tối ưu chi phí xã hội nhờ dùng chung một nền tảng duy nhất.
+
+Quan trọng hơn, NDATrace sẽ giúp xây dựng thương hiệu quốc gia “Made in Vietnam” minh bạch và bền vững, tạo nền tảng cho một nền kinh tế dữ liệu hiện đại, nơi thông tin trở thành tài sản chung, góp phần khẳng định năng lực cạnh tranh của Việt Nam trên bản đồ số toàn cầu.

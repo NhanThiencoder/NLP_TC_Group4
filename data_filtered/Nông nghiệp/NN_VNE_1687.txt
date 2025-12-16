@@ -1,0 +1,39 @@
+Dragon Capital đề xuất thí điểm token hóa ETF, qua đó cho phép nhà đầu tư mua bán bằng nhiều hình thức, trong đó có tiền số như Bitcoin.
+
+Dragon Capital ngày 17/7 công bố đề xuất dự án thí điểm token hóa quỹ giao dịch hoán đổi danh mục (ETF). Đề xuất do công ty quản lý quỹ nghiên cứu và Hiệp hội Blockchain Việt Nam (VBA) cố vấn chuyên môn, xác thực nội dung.
+
+Tính đến năm 2024, số lượng tài khoản tài sản số tại Việt Nam đã vượt số lượng tài khoản chứng khoán, ước đạt 10,15 triệu - cao hơn 17% so với 8,66 triệu tài khoản chứng khoán.
+
+Theo Chainalysis, Việt Nam ghi nhận hơn 100 tỷ USD giao dịch tài sản số trên chuỗi khối (blockchain) trong giai đoạn tháng 7/2021-6/2022, chưa kể giao dịch hàng chục tỷ USD mỗi tháng trên các sàn tập trung. Việt Nam liên tục vào nhóm 5 quốc gia có Chỉ số Chấp nhận tài sản số toàn cầu của Chainalysis cao nhất suốt 4 năm liên tiếp, trong đó có 2 năm đứng đầu, phản ánh sự tham gia mạnh mẽ của nhà đầu tư cá nhân.
+
+Dựa trên thực trạng này, Dragon Capital đề xuất dự án thí điểm token hóa ETF nhằm tạo ra các sản phẩm tài chính đổi mới được bảo chứng bằng tài sản thực (RWAs) và cung cấp bởi các công ty tài chính dưới sự giám sát của cơ quan quản lý. Mục tiêu là thu hút nhà đầu tư cá nhân vào thị trường vốn được quản lý, kết hợp giữa đổi mới và an toàn, đồng thời pha trộn các yếu tố của sản phẩm tài chính truyền thống với tính tiện dụng của tài sản số.
+
+Sơ lược vòng đời của ETF được token hóa. Đồ họa: Tất Đạt
+
+Token hóa tài sản (asset tokenization) là quá trình chuyển đổi quyền sở hữu hoặc giá trị của một tài sản vật lý hoặc tài sản kỹ thuật số thành các token. Những token này đại diện cho một phần hoặc toàn bộ giá trị của tài sản và có thể được giao dịch trên các nền tảng blockchain. Token hóa thường giúp tăng tính thanh khoản, giảm chi phí giao dịch và mở ra cơ hội đầu tư cho nhiều người hơn.
+
+Theo đề xuất của Dragon Capital, quy trình hoạt động bắt đầu với sự hợp tác giữa công ty quản lý tài sản và nhà cung cấp chỉ số, có thể là một Sở giao dịch chứng khoán (như HoSE). Qua đó, hai loại ETF riêng biệt được thành lập gồm ETF truyền thống và ETF được token hóa.
+
+Để bắt đầu token hóa ETF, một lượng cổ phiếu dự trữ tương ứng được cất trong ngân hàng lưu ký và được thế chấp với tỷ lệ 1:1 với token. Công ty quản lý tài sản hợp tác các nhà cung cấp công nghệ và các nền tảng token hóa để phát triển hợp đồng thông minh, chọn nền tảng cho việc phát hành... Dragon Capital đề xuất sử dụng Blockchain ERC-1400 vì tính linh hoạt về cơ chế phục hồi và tính năng xác minh danh tính (KYC), luật chống "rửa tiền" (AML).
+
+Sau khi lập được token ETF, quá trình phân phối sẽ cần sự hợp tác với các tổ chức tạo lập thị trường tài sản số sơ cấp hoặc các đối tác được ủy quyền. Ban đầu, trọng tâm là các sàn giao dịch tập trung (CEX) hoạt động tại Việt Nam và các ví không lưu ký (non-custodial wallets), đảm bảo tuân thủ các yêu cầu KYC phổ biến trên các nền tảng này, nơi hơn 70% dòng vốn tài sản số tại Việt Nam được tập trung. Cách tiếp cận này đảm bảo sự giám sát của Chính phủ và tuân thủ các quy định.
+
+Sau đó, các sàn giao dịch tài sản số tại Việt Nam và ví không lưu ký (non-custodial wallet) xử lý việc phân phối token cho các nhà đầu tư thông qua giao dịch thứ cấp. Các phương pháp thanh toán có thể bao gồm ngân hàng, ví điện tử, thẻ thanh toán, các dịch vụ thanh toán nước ngoài hay ví di động tiền số. Sau khi mua token, các nhà đầu tư có thể tự do chọn phương thức lưu ký và thanh toán phù hợp với sở thích của mình, từ đó quản lý tài sản hiệu quả trong khuôn khổ ETF được token hóa.
+
+Nhà đầu tư đang theo dõi diễn biến của một ETF truyền thống được niêm yết trên sàn HoSE. Ảnh: Tất Đạt
+
+Điểm nhấn của việc token hóa ETF nằm ở quá trình giao dịch thứ cấp giữa các nhà đầu tư. Dragon Capital đánh giá quá trình này đại diện cho một giai đoạn quan trọng trong vòng đời của chúng, vì cho phép các nhà đầu tư giao dịch tài sản trên thị trường mở. Theo đó, ETF được token hóa có thể giao dịch thứ cấp thông qua 3 hình thức.
+
+Thứ nhất, nhà đầu tư mua trực tiếp từ sàn giao dịch tập trung. Ví dụ, khi một nhà đầu tư A ra lệnh mua token ETF, họ sẽ chuyển tiền vào tài khoản ngân hàng của sàn. Sau đó, sàn giao dịch sẽ phát hành token ETF vào tài khoản của A. Bước này đặc biệt quan trọng trong giai đoạn đầu của giao dịch thứ cấp, nơi các token cần được phân phối rộng rãi hơn đến cơ sở nhà đầu tư.
+
+Thứ hai, nhà đầu tư có thể giao dịch trên thị trường P2P (ngang hàng). Ví dụ, một nhà đầu tư A đặt lệnh mua token ETF trên sàn giao dịch. Cùng thời điểm, một nhà đầu tư B cũng đặt lệnh bán. Nếu hai bên kết nối, B sẽ nạp token ETF vào sàn giao dịch và sàn sẽ giữ token trong lưu ký. Sau đó, A chuyển tiền vào tài khoản ngân hàng (hoặc ví di động) của nhà đầu tư B. Khi B xác nhận đã nhận chuyển khoản, sàn giao dịch sẽ chuyển giao token ETF trong lưu ký vào tài khoản của A. Tương tự, nhà đầu tư A có thể bán lại token ETF trên thị trường P2P bằng quy trình này.
+
+Thứ ba, nhà đầu tư có thể trao đổi các tài sản số khác lấy token ETF trên sàn giao dịch tập trung. Ví dụ, nhà đầu tư A đang nắm giữ các tài sản số khác trên sàn giao dịch, chọn một cặp giao dịch phù hợp để mua token ETF, chẳng hạn như Bitcoin - token ETF. Sau đó, A thực hiện lệnh mua. Nhà đầu tư B đang nắm giữ token ETF trên sàn giao dịch, đồng thời cũng chọn một cặp giao dịch phù hợp và thực hiện lệnh bán. Sàn sẽ khớp lệnh mua và bán thông qua sổ lệnh (orderbook) và các giao dịch sẽ được thực hiện.
+
+Theo Dragon Capital, việc cho phép chuyển đổi các tài sản số khác thành token ETF có thể mang lại dòng vốn đáng kể vào thị trường tài chính Việt Nam. Hiện tại, khi người dùng mua tài sản số bằng đồng (VND), thường tương đương với việc mua tài sản nước ngoài. Bằng cách cho phép các nhà đầu tư đổi tài sản số nước ngoài lấy token ETF, dòng vốn sẽ được chuyển hướng trở lại vào thị trường trong nước. "Cơ chế này không chỉ giúp giữ vốn trong Việt Nam mà còn củng cố hệ sinh thái tài chính địa phương", công ty quản lý quỹ này nhận định.
+
+Thông qua việc token hóa, Dragon Capital kỳ vọng có thể tăng cường sự tham gia của nhà đầu tư cá nhân vào thị trường, bảo vệ quyền lợi của nhà đầu tư và củng cố hệ thống tài chính với các khung pháp lý. Cơ quan quản lý sẽ có khả năng duy trì tính toàn vẹn của việc phát hành token, giám sát giao dịch trên thị trường thứ cấp, điều tiết các nhà cung cấp dịch vụ và bảo vệ nhà đầu tư cá nhân.
+
+Hơn nữa, sự giám sát quy định sẽ cho phép áp dụng thuế hợp lý với tài sản số và quản lý dòng vốn, qua đó thúc đẩy một thị trường tài chính ổn định và tăng độ thẩm thấu của thị trường vào nhiều tầng lớp dân cư. "Đạt được điều này là yếu tố then chốt cho sự phát triển của một thị trường vốn trưởng thành, giúp Việt Nam trở thành một trung tâm tài chính quốc tế", Dragon Capital cho biết.
+
+Tất Đạt

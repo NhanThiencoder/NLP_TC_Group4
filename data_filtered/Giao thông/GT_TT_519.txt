@@ -1,0 +1,23 @@
+Ảnh: Android Central
+
+Giờ đây Google Maps không chỉ mách nước cho bạn cách thức đến một nơi nào đó và ước lượng khoảng thời gian cần đi, mà còn gợi ý cho bạn thời điểm xuất phát nào thuận lợi hơn cả cho quãng đường di chuyển.
+
+
+
+Theo trang Android Police, có thể thấy ý tưởng này hoàn toàn giống với công cụ Google từng triển khai trước đó với một biểu đồ cho thấy mức độ đông, thưa khách ra sao của một cửa hàng vào thời điểm nhất định trong ngày.
+
+Nhìn vào biểu đồ đó, người dùng sẽ biết cửa hàng bán lẻ họ muốn tới có đang sẵn sàng phục vụ họ nhất hay không để quyết định việc ghé vào.
+
+Biểu đồ thời gian về lộ trình cụ thể vừa được cung cấp khá lặng lẽ trên Google Maps của những người dùng thiết bị Android. Hiện chưa có thông tin về tính năng này trên thiết bị iOS.
+
+Theo đó biểu đồ cột thời gian giúp người dùng dễ dàng nhận ra mật độ giao thông trên lộ trình muốn đi vào những giờ cụ thể trong ngày. Công cụ này thậm chí còn "mách" trước cho người dùng về khả năng tìm chỗ đậu xe tại vị trí họ định tới.
+
+Google Maps cho phép bổ sung địa điểm hỗ trợ xe lăn TTO - Ứng dụng bản đồ số Google Maps vừa cung cấp tính năng cho phép người dùng bổ sung thông tin về những địa điểm hỗ trợ xe lăn tại khu vực họ sống.
+
+Biểu đồ mới này sẽ xuất hiện ngay phía trên các điểm đến khi bạn chọn xong lộ trình muốn đi. Cách hiển thị cũng tương tự như trong biểu đồ thời gian Google dùng để cho biết mật độ khách tới một cửa hàng cụ thể.
+
+
+
+Biểu đồ mới giúp người dùng dễ nhận biết hơn về mật độ giao thông trên lộ trình định đi, từ đó quyết định thời điểm khởi hành cho phù hợp.
+
+Trên biểu đồ này thể hiện rõ khoảng thời gian ước tính nếu bạn đi ngay lúc này (được tô đậm hoặc bằng màu xanh, vàng hay đỏ tùy theo điều kiện giao thông hiện tại) và khoảng thời gian ước tính nếu bạn khởi hành sớm hơn nửa giờ hoặc muộn hơn vài giờ sau đó.

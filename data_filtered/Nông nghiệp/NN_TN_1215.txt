@@ -1,0 +1,19 @@
+Một trong hai robot nặng gần 454 kg và có kích thước của một chiếc ô tô. Nó có nhiệm vụ nhặt khay cây và vận chuyển chúng trong phạm vi nhà kính. Robot thứ hai là cánh tay robot, chịu trách nhiệm tất cả nhiệm vụ cần thao tác khéo léo, chẳng hạn như gieo hạt và cấy ghép.
+
+
+
+Khi một khay cây trưởng thành, robot đầu tiên mang nó đến khu vực xử lý. Tại đây, cánh tay robot di chuyển cây con trong các khay được đóng gói này vào thùng chứa có nhiều không gian hơn. Điều này tối ưu hóa hiệu quả không gian, vì trong suốt vòng đời của chúng, thực vật chỉ được cấp cho đủ chỗ mà nó cần.
+
+Nhà đồng sáng lập kiêm CEO Iron Ox Brandon Alexander cho hay chỉ trong vòng 1 mẫu Anh (khoảng 0,4 ha) nông trại robot, Iron Ox có sức hoạt động tương đương như ở trang trại ngoài trời với diện tích 30 mẫu Anh. Công ty muốn xây dựng nhiều nông trại nhỏ hơn gần trung tâm đô thị để sản phẩm tươi mới hơn khi được giao đi.
+
+“Hiện tại sản phẩm tươi thật sự không tươi. Nó di chuyển trung bình 322 km từ nông trại đến cửa hàng thực phẩm, điều này đồng nghĩa với việc rất nhiều người đang ăn rau diếp hoặc dâu được thu hoạch khoảng 1 tuần rồi”, ông Alexander cho hay.
+
+Robot tại Iron Ox cũng dùng công nghệ máy học và trí tuệ nhân tạo (AI) để phát hiện sâu bệnh. Chúng loại bỏ cây bị nhiễm bệnh hay bị sâu trước khi vấn đề lan rộng hơn. Nhà đồng sáng lập kiêm giám đốc công nghệ Iron Ox Jon Binney nói: “Vì vậy, chúng không chỉ là các robot có thể di chuyển cây xung quanh một cách rất hiệu quả, mà còn là robot có thể giúp bạn tránh cho cây trở nên tệ hơn”.
+
+Iron Ox không phải là nông trại trong nhà duy nhất được hãng mạo hiểm công nghệ hậu thuẫn. Nông trại Bowery và Plenty cũng có hướng đi tương tự, đặt mục tiêu dùng công nghệ mới nhất để trồng và sản xuất cây trồng bền vững gần thành phố. Dù vậy, Iron Ox vẫn là hãng đầu tiên tự động hóa hoàn toàn quá trình trồng cây, 100% xây dựng hệ thống trang trại bằng khả năng của robot.
+
+“Một trong những điều tuyệt vời của robot là chúng không thực sự mệt mỏi và không quan tâm đến giờ giấc hoạt động. Miễn là chúng có đủ pin, chúng sẽ tiếp tục làm”, ông Binney chia sẻ.
+
+Dù Iron Ox phát triển sản phẩm sử dụng đèn LED, trong tương lai, hãng kỳ vọng có thể xây dựng nhà kính ánh sáng tự nhiên để tận dụng năng lượng mặt trời miễn phí. Cuối cùng, công ty đặt mục tiêu sản xuất các sản phẩm không biến đổi gen, không có thuốc trừ sâu với giá rẻ như ngành nông nghiệp truyền thống.
+
+Lúc đầu, Iron Ox chỉ trồng rau xanh và thảo mộc, dù hãng có kế hoạch mở rộng sang nhiều loại cây trồng khác như cà chua trong những năm tới. Công ty có kế hoạch bắt đầu bán hàng từ cuối năm nay. Đến nay, Iron Ox huy động được 6 triệu USD tiền vốn.

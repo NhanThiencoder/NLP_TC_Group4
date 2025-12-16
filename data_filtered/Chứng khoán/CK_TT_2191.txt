@@ -1,0 +1,23 @@
+Uống bia mà như chơi cổ phiếu - ý tưởng thú vị này đang gây sốt ở Trung Quốc.
+
+Lấy cảm hứng từ những sàn giao dịch nổi tiếng như Phố Wall, Qingdao Beer Exchange (tạm dịch: Sàn Giao dịch bia Thanh Đảo) là một quán bia độc đáo, nơi giá bia biến động theo thời gian thực, phụ thuộc vào nhu cầu của khách hàng.
+
+Tọa lạc tại Thanh Đảo, được mệnh danh là thủ phủ bia của Trung Quốc, quán bar này mang đến một trải nghiệm mới lạ khi mỗi loại bia đều có mức giá riêng. Thậm chí, giá sẽ liên tục thay đổi dựa trên số lượng được mua trong ngày.
+
+Màn hình lớn treo vị trí trung tâm quán bar hiển thị giá và dữ liệu bán các loại bia theo thời gian thực.
+
+Một màn hình tròn lớn treo giữa không gian chính hiển thị giá và dữ liệu bán hàng theo thời gian thực. Loại bia nào được ưa chuộng và bán chạy thì giá sẽ tăng (hiển thị màu đỏ), còn loại nào ít được chọn thì giá giảm (hiển thị màu xanh).
+
+Để tránh biến động quá mạnh, giá mỗi loại bia chỉ được phép tăng hoặc giảm tối đa 10% mỗi ngày, và sẽ được điều chỉnh về giá gốc vào hôm sau. Dựa trên dữ liệu bán hàng mỗi tuần, quán sẽ xem xét điều chỉnh giảm giá gốc hoặc tạm thời mở rộng biên độ dao động giá lên 20% để tăng tính hấp dẫn.
+
+Uống bia như chơi chứng khoán
+
+Li Chao - người sáng lập mô hình độc đáo này chia sẻ: "Giống như thị trường thật, bia càng được chuộng thì giá càng tăng, bia ít người uống thì giá giảm. Mọi thứ đơn giản mà lại rất thú vị. Việc khách cần làm là cầm ly, quét mã QR, rót bia và ngắm thị trường biến động ngay trước mắt. Cảm giác như trở thành một nhà giao dịch bia thực thụ".
+
+Ý tưởng nảy sinh khi anh chứng kiến sự phổ biến của các máy rót bia tự động ở các thành phố lớn khác, và muốn tạo nên một trải nghiệm tương tác hơn cho khách. Với bảng giá khổng lồ và không khí nhộn nhịp như sàn chứng khoán, quán đã nhanh chóng gây tiếng vang. Từ khi mở cửa đầu tháng 5 đến nay, hàng trăm nghìn tín đồ bia đã đổ về trải nghiệm.
+
+Qingdao Beer Exchange hiện có 30 vòi bia, phục vụ 10 loại khác nhau, từ bia Tsingtao truyền thống đến các phiên bản trái cây đầy thú vị khác như bia vải, bia đào và bia chanh dây.
+
+Từ ngày 31-5 đến 2-6, mỗi ngày quán đón hơn 10.000 lượt khách với tổng lượng bia bán ra trong một ngày vượt 1,2 triệu ml.
+
+Một mô hình thú vị kết hợp giữa ẩm thực và công nghệ, giúp việc uống bia không chỉ là chuyện giải khát, mà còn là một cuộc chơi đầy bất ngờ cho những ai thích cảm giác "lướt sóng", mà lần này là... sóng bia!

@@ -1,0 +1,37 @@
+Title: Thứ trưởng Nguyễn Hoàng Hiệp: Sẽ ban hành khung kiến trúc dữ liệu nông nghiệp
+
+Thứ trưởng Bộ NN-PTNT Nguyễn Hoàng Hiệp cho biết, thời gian thực hiện sẽ trong quý III năm nay.
+
+Sản xuất nông nghiệp luôn là thế mạnh của Việt Nam. Hàng năm, sản phẩm nông lâm thủy sản không chỉ đáp ứng nhu cầu tiêu dùng của 100 triệu dân trong nước, đảm bảo an ninh lương thực mà còn xuất khẩu thu về vài chục tỷ USD.
+
+Thế nên, nông nghiệp là ngành nhiều dữ liệu, song cũng là ngành thu thập được ít dữ liệu nhất nên khó quản lý sản xuất và đưa ra các dự báo về sản lượng, về thị trường tiêu thụ hay giá cả nông sản.
+
+Thực tế, tại các địa phương và doanh nghiệp, chuyển đổi số đang được đẩy mạnh trong lĩnh vực nông nghiệp, thậm chí số hóa đến tận gốc cây, con vật nuôi. Song, cơ sở dữ liệu lớn vẫn còn thiếu và chưa có sự đồng bộ từ cơ quan trung ương đến địa phương.
+
+Bởi vậy, các địa phương và doanh nghiệp kiến nghị cần xây dựng bản đồ số, dữ liệu số và hệ sinh thái số trên nền tảng dùng chung. Từ đó, địa phương và người nông dân chủ động xây dựng kế hoạch sản xuất, dự báo thị trường nông sản sao cho cung - cầu được cân bằng.
+
+Ngành nông nghiệp có nhiều dữ liệu cần thu thập để phục vụ cho việc hoạch định chiến lược sản xuất và dự báo thị trường.
+
+Thứ trưởng Bộ NN-PTNT Nguyễn Hoàng Hiệp cho rằng, chuyển đổi số phải bắt đầu từ dữ liệu. Song, làm thế nào để dữ liệu đúng - đủ - sạch là vấn đề khó. Quý III năm nay, Bộ sẽ ban hành kiến trúc dữ liệu của ngành nông nghiệp, sau đó đồng bộ với các địa phương.
+
+Ông nhấn mạnh, đây là một nhiệm vụ lớn và phức tạp nhưng buộc phải làm. Bởi nếu không có khung kiến trúc dữ liệu, các đơn vị, đặc biệt là các xã, ngành và địa phương sẽ không biết cách triển khai dữ liệu của mình. Thiếu dữ liệu sẽ cản trở quá trình chuyển đổi số.
+
+Theo đó, Bộ NN-PTNT đã cam kết triển khai trong năm nay, bắt đầu từ tháng 7, để rà soát và điều chỉnh cơ sở dữ liệu, tập trung vào dữ liệu tàu cá. Dữ liệu này phải đảm bảo đúng, đủ và sạch để quản lý hiệu quả, liên quan đến việc giảm thiểu thẻ vàng IUU từ EU.
+
+Ngoài ra, Bộ NN-PTNT cũng tập trung vào việc quản lý truy xuất nguồn gốc rừng theo tiêu chuẩn EU. Đây là những nhiệm vụ quan trọng để đảm bảo xuất khẩu các sản phẩm nông nghiệp không bị ảnh hưởng bởi các quy định quốc tế.
+
+“Bộ ưu tiên làm cơ sở dữ liệu trước ở lĩnh vực trọng điểm và giao cho một số địa phương, ngành lựa chọn làm thí điểm”, Thứ trưởng cho hay.
+
+Ông Đặng Duy Hiển - Phó Giám đốc Trung tâm Chuyển đổi số và Thống kê nông nghiệp, cho biết, ngành nông nghiệp muốn chuyển đổi số toàn diện cần hoàn thiện quy hoạch - đảm bảo hướng đầu tư; quy chuẩn - giúp các địa phương và bộ liên kết dữ liệu và quy chế.
+
+Bộ đã xây dựng kiến trúc Chính phủ điện tử 3.0 dựa trên 5 thành phần: nghiệp vụ, dữ liệu, ứng dụng, công nghệ và an toàn thông tin. Kiến trúc này phải đảm bảo sự liên thông, chia sẻ dữ liệu đúng thẩm quyền và quy định pháp luật. Kiến trúc Chính phủ điện tử 3.0 sẽ áp dụng từ năm nay, với các thành phần và sơ đồ tổng thể chi tiết, tập trung vào việc chia sẻ và tích hợp dữ liệu, ông Hiển thông tin.
+
+Theo Bộ trưởng Bộ Thông tin và Truyền thông Nguyễn Mạnh Hùng, chuyển đổi số nông nghiệp giúp tiết giảm được 23% chi phí sản xuất. Tuy nhiên, chuyển đổi số lại khó ở phần hạ tầng dữ liệu.
+
+Điều đáng nói, không có dữ liệu thì không có chuyển đổi số. Cho nên, việc đầu tiên cần làm là xây dựng cơ sở dữ liệu số ngành nông nghiệp. Cách thu thập dữ liệu là thông qua nền tảng số.
+
+Các doanh nghiệp công nghệ số Việt Nam hoàn toàn đủ năng lực để xây dựng các nền tảng số dùng chung cho ngành nông nghiệp, có thể giúp ngành nông nghiệp chuyển đổi số thành công nếu có sự phối hợp của ngành, Bộ trưởng Nguyễn Mạnh Hùng khẳng định. Theo đó, khi có một phần mềm, một nền tảng số có thể có hàng triệu người dùng chung, khai thác được dữ liệu để đưa ra được chiến lược sản xuất, đáp ứng các tiêu chuẩn, quy chuẩn của thị trường.
+
+Cà Mau xây dựng hệ thống QL nông sản từ khâu thu thập dữ liệu đến giai đoạn phân phối ra thị trường Ngành nông nghiệp tỉnh Cà Mau chú trọng xây dựng hệ thống quản lý chuỗi sản phẩm nông sản, từ khâu thu thập dữ liệu, đánh giá tác động, xây dựng kế hoạch sản xuất, phân phối ra thị trường.
+
+Anh Phương và nhóm PV, BTV

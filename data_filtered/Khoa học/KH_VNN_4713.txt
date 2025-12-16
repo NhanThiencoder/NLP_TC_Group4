@@ -1,0 +1,41 @@
+“Chúng tôi biết rằng đây sẽ là ngày hội lớn nhất trong lịch sử trao đổi và tương tác dữ liệu”, Jeff Shafer, Phó chủ tịch cấp cao phụ trách Truyền thông Lenovo, phát biểu tại họp báo trực tuyến chiều 6/11. Theo ông, lượng dữ liệu truyền tải, xử lý và hiển thị trong kỳ World Cup 2026 sẽ vượt xa mọi sự kiện thể thao từng có.
+
+Lenovo là đối tác công nghệ chính thức của FIFA World Cup 2026, cung cấp toàn bộ danh mục công nghệ, từ thiết bị đầu cuối như smartphone, laptop, desktop, PC đến hạ tầng máy chủ, bộ nhớ, giải pháp AI và công nghệ thông tin cho giải đấu. Thông thường, một sự kiện lớn như World Cup sẽ cần 6 đến 10 công ty làm điều này.
+
+Nacho Fresco, Giám đốc Công nghệ tại FIFA, nhấn mạnh công nghệ là thành phần thiết yếu để giải đấu diễn ra ổn định và an toàn: "Từ phần mềm đến phần cứng, cho đến AI, công nghệ đóng vai trò quan trọng, then chốt... đảm bảo FIFA World Cup tiếp tục là một trong những sự kiện thể thao lớn nhất và tốt nhất thế giới", ông nói.
+
+Hạ tầng biên và dữ liệu thời gian thực
+
+Để đáp ứng quy mô đó, FIFA và các đối tác công nghệ triển khai mô hình điện toán biên (edge computing) – hệ thống xử lý dữ liệu trực tiếp tại sân vận động, thay vì chuyển về trung tâm. Cách này giúp giảm độ trễ và tăng tính ổn định cho các công nghệ trọng tài và giám sát trận đấu.
+
+Tháng 10/2024, Lenovo trở thành Đối tác Công nghệ Chính thức đầu tiên của FIFA. Ảnh: Lenovo
+
+Santiago Manso, Giám đốc mảng thể thao của Lenovo, cho biết các thử nghiệm trước đó như FIFA Club World Cup và Beach Soccer World Cup đã chứng minh hiệu quả của mô hình này.
+
+“Công nghệ giúp rút ngắn thời gian quyết định và nâng cao độ chính xác của hệ thống VAR, đồng thời bảo đảm trải nghiệm thống nhất giữa các sân vận động”, ông nói.
+
+Dữ liệu từ hàng nghìn camera và cảm biến được thu thập, phân tích tức thì để hỗ trợ trọng tài, huấn luyện viên và bộ phận sản xuất truyền hình.
+
+Theo Nacho Fresco, “công nghệ không chỉ hiện diện công khai, mà còn là yếu tố thiết yếu để giải đấu có thể được tổ chức và được thưởng thức”.
+
+Các thiết bị của Lenovo sẽ được trang bị cho ban tổ chức, vận động viên và nhân sự truyền thông của FIFA, giúp họ làm việc hiệu quả tại các thành phố đăng cai, hỗ trợ ghi nhận nội dung tại chỗ, vận hành truyền thông, phối hợp tổ chức và triển khai các hoạt động tương tác với người hâm mộ.
+
+AI thay đổi trải nghiệm của người hâm mộ
+
+Song song với việc hỗ trợ vận hành, AI và phân tích dữ liệu còn mở rộng trải nghiệm cho người xem. Hệ thống hạ tầng biên và mạng 5G cho phép khán giả truy cập thông tin, xem lại pha bóng và theo dõi các thống kê nâng cao ngay trên thiết bị cá nhân.
+
+Art Hu, Giám đốc Công nghệ Lenovo, cho biết mục tiêu là tạo ra trải nghiệm liền mạch, nơi dữ liệu, phân tích và hình ảnh được đồng bộ trong thời gian thực, giúp người hâm mộ cảm nhận sâu hơn từng khoảnh khắc của trận đấu.
+
+Nhờ lượng dữ liệu lớn và AI xử lý nhanh, các nội dung phát sóng, bình luận và tường thuật cũng trở nên phong phú, nhiều góc nhìn hơn.
+
+Mỗi người xem có thể lựa chọn trải nghiệm theo sở thích – từ góc quay chiến thuật đến phân tích chiến lược của đội bóng yêu thích.
+
+Cùng với cơ hội, quy mô kết nối hàng tỉ thiết bị cũng đặt ra yêu cầu cao về an ninh mạng và tính liên tục của hệ thống. Jeff Shafer cho biết mọi hạ tầng phục vụ World Cup 2026 đều được thiết kế theo nguyên tắc “security by design” – an ninh được tích hợp ngay từ giai đoạn kiến trúc, cùng cơ chế sao lưu kép và mã hóa dữ liệu đầu cuối.
+
+Dịch vụ Aset Recovery Services (ARS) của Lenovo hỗ trợ xử lý thiết bị công nghệ theo hướng bền vững, đồng thời giảm thiểu rủi ro bảo mật thông qua quy trình tiêu hủy dữ liệu an toàn.
+
+Theo Santiago Manso, các giải pháp được xây dựng cho World Cup như hạ tầng biên, năng lực xử lý dữ liệu thời gian thực, nền tảng AI không chỉ phục vụ một sự kiện, mà còn có thể nhân rộng sang nhiều lĩnh vực khác.
+
+Từ VAR, camera phân tích chuyển động, đến AI tổng hợp dữ liệu khán giả, tất cả đều cho thấy công nghệ đang định hình lại cách tổ chức và thưởng thức bóng đá.
+
+World Cup 2026 không chỉ là cuộc so tài giữa các đội tuyển, mà còn là nơi thể thao và công nghệ hòa vào nhau. Bóng đá bước vào kỷ nguyên mới, nơi dữ liệu không chỉ phản ánh trận đấu mà trở thành một phần của trận đấu.

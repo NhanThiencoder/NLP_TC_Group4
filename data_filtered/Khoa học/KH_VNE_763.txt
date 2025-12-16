@@ -1,0 +1,21 @@
+Các nhà khoa học Trung Quốc phát triển giao diện não - máy tính hai chiều, tăng hiệu suất gấp 100 lần so với giao diện cũ.
+
+Giao diện não - máy tính cho phép người dùng điều khiển máy móc bằng suy nghĩ. Ảnh: iStock
+
+Nhóm nghiên cứu từ Đại học Thiên Tân và Đại học Thanh Hoa phát triển giao diện não - máy tính (BCI) thích ứng hai chiều đầu tiên trên thế giới, có thể sớm được tích hợp vào các thiết bị đeo, thiết bị di động cho mục đích y tế và tiêu dùng. Nghiên cứu mới công bố trên tạp chí Nature Electronics hôm 17/2.
+
+Từ những năm 1970, BCI đã cho phép người dùng điều khiển máy móc bằng suy nghĩ thông qua việc chuyển đổi tín hiệu não thành lệnh. Nghiên cứu ban đầu tập trung vào hỗ trợ người khuyết tật, nhưng ngày nay, BCI có thể ứng dụng cho trò chơi, điều khiển drone không cần tay và nhiều công nghệ tương tác khác.
+
+BCI truyền thống có một hạn chế lớn: chúng hoạt động chỉ một chiều. Điều này đồng nghĩa, não không nhận được phản hồi để có thể điều chỉnh và trau chuốt thao tác điều khiển. Qua thời gian, sự thiếu thích ứng này dẫn đến hiệu suất suy giảm.
+
+Hệ thống mới cho phép não và máy học hỏi lẫn nhau, không giống BCI truyền thống chỉ giải mã tín hiệu não. Sự tương tác này đảm bảo hiệu suất ổn định qua thời gian, là bước quan trọng giúp BCI đáng tin cậy hơn trong các ứng dụng hàng ngày.
+
+Trong nghiên cứu mới, nhóm chuyên gia phát hiện các thay đổi trong tín hiệu não không chỉ là những biến động ngẫu nhiên do cảm xúc hay mệt mỏi mà chịu tác động bởi cách não tương tác với BCI. Dựa vào đó, họ phát triển một khung vòng kép sử dụng chip memristor - linh kiện phần cứng tiết kiệm năng lượng mô phỏng mạng neuron - để tạo ra sự tương tác tự nhiên hơn giữa não và máy.
+
+"So với BCI kỹ thuật số truyền thống, hệ thống vòng kép của chúng tôi tăng hiệu suất gấp hơn 100 lần, đồng thời giảm mức tiêu thụ năng lượng 1.000 lần", chuyên gia Xu Minpeng từ Đại học Thiên Tân, đồng tác giả nghiên cứu mới, cho biết.
+
+Công nghệ mới cũng cho phép người dùng thực hiện nhiều nhiệm vụ phức tạp hơn. BCI truyền thống thường chỉ cung cấp hai bậc tự do, ví dụ như di chuyển drone lên xuống hoặc trái phải. Tuy nhiên, hệ thống mới cung cấp 4 bậc tự do, thêm chuyển động tiến lùi và xoay, tất cả được điều khiển chỉ bằng tín hiệu não.
+
+Nhóm nghiên cứu đã thực hiện các thử nghiệm kéo dài 6 giờ với 10 người tham gia và nhận thấy, hệ thống thích ứng tăng độ chính xác khoảng 20% so với BCI không thích ứng. Với khả năng tương tác hai chiều giữa não và máy, hệ thống mới là bước tiến lớn hướng tới việc đưa BCI vào cuộc sống hàng ngày, từ phục hồi chức năng y tế đến điện tử tiêu dùng.
+
+Thu Thảo (Theo Interesting Engineering)

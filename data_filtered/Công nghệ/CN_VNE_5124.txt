@@ -1,0 +1,16 @@
+Lỗi error 720 khi kết nối modem (2)
+
+Ở nhà, tôi dùng win xp trên pentium 4, modem 56k internal để kết nối internet qua dial call (dùng card trả trước). Trong lúc dial để kết nối, đến phần " Register your computer on network " (sau khi "verifying username and password), thì xuất hiện error 720 và không kết nối được. Tôi đã kết nối được khoảng 1 tháng thì xảy ra lỗi trên . Và tôi cũng đã check card internet và modem, tất cả đều còn tốt. Xin các anh chỉ giúp cách khắc phục. Cảm ơn các anh nhiều.
+
+Hữu Lộc
+
+Hồi âm:
+
+
+TOM
+
+
+Error 734: The PPP link control protocol terminated.1. Bạn thử kiểm tra lại các thông số mạng hay quay số (dial-up) cóđược hoàn toàn chính xác chưa? Nếu bạn không chắc thì bạn liên lạc với nhà cung cấp dịch vụ để họ cung cấp các thông tin chính xác.2. Nếu bạn đang sử dụng hệ điều hành WINNT thì bạn hãy tắt chức năng: "PPP LCP extensions".
+
+
+

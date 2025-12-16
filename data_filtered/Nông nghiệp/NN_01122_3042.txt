@@ -1,0 +1,35 @@
+Title: Grab đã "đốt" hơn 100 triệu USD ở thị trường Việt Nam, và giờ họ muốn đầu tư vào các startup nông nghiệp
+
+Trong khuôn khổ phiên hiến kế về khởi nghiệp và các mô hình kinh doanh mới của Diễn đàn Kinh tế Tư nhân (ViEF), trước những chia sẻ của các startup Việt Nam như Tiki, Logivan về vấn đề khó tiếp cận nguồn vốn, đại diện của Grab - ông Jerry Lim cũng chia sẻ về một chương trình giúp thu hút dòng vốn từ các nhà đầu tư trong khu vực đến Việt Nam.
+
+Chương trình mà CEO Grab Việt Nam nhắc tới là Grab Ventures Velocity - chương trình hỗ trợ scale up cho các startup giai đoạn post-seed.
+
+Các vòng gọi vốn/nhận đầu tư mà một startup thường trải qua gồm 3F (gọi vốn từ Family - gia đình, Friends - Bạn bè, Fools - Những kẻ khờ tin tưởng vào những ý tưởng điên rồ), Seed, Series A, Series B, Series C… sau đó là giai đoạn Exit (thoái vốn) của nhà đầu tư.
+
+Các khoản đầu tư ở vòng Seed thường xê dịch ở mức vài trăm nghìn USD đến 1,5 triệu USD.
+
+Quy mô gọi vốn tham khảo của từng vòng. Nguồn: Valhalla Capital.
+
+Với trường hợp cụ thể của Grab, siêu ứng dụng này đã gọi vốn tới Series H với khoản đầu tư ở vòng này lên tới 4,5 tỷ USD.
+
+Grab Ventures Velocity sẽ hỗ trợ các startup không chỉ phát triển trong khu vực nội địa, mà còn có thể tận dụng nền tảng công nghệ cũng như mạng lưới của Grab để mở rộng.
+
+"Rất nhiều quý vị biết rằng Grab khởi nghiệp trong lĩnh vực giao thông vận tải, nhưng hiện nay Grab không chỉ đơn thuần hoạt động trong lĩnh vực này. Chúng tôi còn có GrabFood trong lĩnh vực thực phẩm, logistic, thanh toán và nhiều hoạt động khác trong tương lai. Với Grab Ventures, một trong lĩnh vực chúng tôi tập trung là Nông nghiệp của Việt Nam", CEO Grab Việt Nam cho biết.
+
+Grab Ventures là dự án hợp tác đầu tư mạo hiểm của Grab, được công bố từ tháng 7/2018. Chia sẻ với Trí thức trẻ, ông Jerry cho biết Grab đang tìm kiếm các công ty tham gia vào Grab Ventures Velocity đợt 2 (đợt 1 đã kết thúc vào tháng 1/2019) - những công ty ứng dụng công nghệ giúp chuỗi cung ứng nông nghiệp hiệu quả hơn ở các nước Đông Nam Á, bao gồm cả Việt Nam.
+
+Một nông hộ trồng một trang trại rau, lượng rau này gia nhập thị trường thế nào? Đầu tiên là đi qua "cửa" của người thương lái. "Cửa" thứ hai là các nhà phân phối (bán buôn). Và "cửa" thứ ba là các nhà bán lẻ - siêu thị, cửa hàng tiện ích… Qua đủ 3 "cửa" đó, rau của người nông dân mới tới được tay của người tiêu dùng.
+
+"Bạn có thể thấy chuỗi cung ứng của một mớ rau phải qua rất nhiều giai đoạn, rất không hiệu quả bởi mớ rau ấy phải đi qua nhiều "cửa", và tất cả các thành phần trung gian ấy đều muốn lợi nhuận".
+
+Một mớ rau của người nông dân phải đi qua 3 "nhà": Thương lái, Nhà phân phối, Nhà bán lẻ, và "nhà" nào cũng muốn có lợi nhuận
+
+"Rồi đến cuối ngày, khi từng "cửa" ấy đều muốn có lợi nhuận, cái giá mà người dùng cuối phải trả sẽ cao hơn rất nhiều, bởi họ phải trả cho tất cả khoản lợi nhuận mà từng doanh nghiệp đảm nhận một khâu trung gian trên mong muốn", ông Jerry nói.
+
+Khoản tiền người dùng cuối phải trả còn bao gồm cả tỷ suất hư hại - vốn khá cao trên các dòng thực phẩm tươi. Một điểm dễ thấy là cứ đến cuối ngày, nhiều siêu thị giảm giá tới 50% cho các sản phẩm rau tươi. Giảm giá tới mức đó thì họ làm thế nào để cân đối được lợi nhuận? Họ cân đối lại bằng cách tăng giá các sản phẩm rau tươi ở thời điểm trong ngày. Tức một mớ rau tươi bán ra đã được cộng gộp thêm giá của những mớ rau hư hại trong quá trình vận chuyển hoặc có thể kém tươi phải bán hạ giá/bỏ đi sau khi nằm trên kệ siêu thị suốt một ngày.
+
+"Chúng ta có thể ứng dụng công nghệ để giúp chuỗi cung ứng đó hiệu quả hơn, ví như có thể mang thực phẩm tươi từ nông trại tới bàn ăn của người tiêu dùng. Chúng ta có thể xây dựng một chuỗi cung ứng ngắn nhất, hiệu quả nhất có thể. Với công nghệ, chúng ta có thể giới hạn các "cửa" trung gian trong chuỗi cung ứng, hoặc giúp quá trình vận chuyển hiệu quả hơn…"
+
+"Grab là doanh nghiệp dành sự tập trung rất nhiều vào khách hàng. Trong trường hợp này, người tiêu dùng sẽ nhận được nông sản tươi hơn, theo một phương thức nhanh chóng hơn, và rẻ hơn. Những điều này đều có thể thực hiện được nhờ công nghệ", ông Jerry nói.
+
+Tính đến nay, Grab đã đầu tư hơn 100 triệu USD cho thị trường Việt Nam. Hiện Grab có hơn 190.000 đối tác tài xế trên toàn quốc. Có khoảng 1/4 người Việt Nam hiện đang sử dụng dịch vụ của Grab. Với GrabFood, số lượng đơn hàng đã tăng 87 lần vào thời điểm cuối tháng 3/2019 so với cuối tháng 6/2018.

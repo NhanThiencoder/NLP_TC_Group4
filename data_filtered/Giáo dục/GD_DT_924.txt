@@ -1,0 +1,27 @@
+Trong khuôn khổ chuyến thăm, gặp gỡ giảng viên, sinh viên và các nhà khoa học tại ĐH Bách khoa Hà Nội, Ngoại trưởng Blinken tham quan một số nghiên cứu về trí tuệ nhân tạo (AI), robot và thiết bị đèn tảo lọc không khí.
+
+Đây là những nghiên cứu nổi bật được các nhà khoa học Việt phát triển thời gian qua.
+
+Ngoại trưởng Mỹ Antony Blinken đã có chuyến thăm ĐH Bách khoa Hà Nội vào chiều 15/4. Ông được giới thiệu công nghệ lọc không khí bằng tảo. (Ảnh: T.Đ).
+
+Tại sự kiện, TS Nguyễn Phi Lê - Trường Công nghệ Thông tin và Truyền thông, ĐH Bách khoa Hà Nội giới thiệu hệ thống quan trắc không khí di động Fi-Mi. Theo bà, thiết bị Fi-Mi có kích thước nhỏ gọn, chỉ 10cm mỗi chiều, được đặt trên các phương tiện giao thông, như xe buýt, để thu thập thông tin chất lượng không khí. Dữ liệu được nhóm nghiên cứu sử dụng AI phân tích và đưa ra dự đoán chất lượng không khí theo thời gian thực.
+
+Để những thiết bị Fi-Mi hoạt động và thu thập dữ liệu, người dùng cần lắp những thiết bị này trên các phương tiện giao thông. Dữ liệu thu được sẽ truyền về hệ thống và được ứng dụng AI phân tích, dự đoán chất lượng không khí trong tương lai theo không gian, thời gian, đặc biệt có thể dự đoán chất lượng không khí tại những địa điểm mà phương tiện không đi qua.
+
+Bàn tham quan tiếp theo là hệ thống robot đánh cờ sử dụng công nghệ xử lý hình ảnh 3D và trí tuệ nhân tạo (Robot Chess) của PGS. TS Mạc Thị Thoa - Trường Cơ khí, ĐH Bách khoa Hà Nội.
+
+Robot này có thể cử động linh hoạt, thực hiện được các động tác nắm, nhả và thao tác nâng cao giúp người dùng có các trải nghiệm về chơi cờ. Thiết bị được tích hợp thuật toán xử lý hình ảnh theo thời gian thực, cảm biến và trí tuệ nhân tạo (AI).
+
+Sự kiện cũng giới thiệu sản phẩm đèn tảo Aloxy dùng để lọc không khí, hấp thu CO2, sinh oxy tươi, sử dụng IoT tích hợp cảm biến để tự động điều chỉnh tối ưu.
+
+Sản phẩm này sử dụng vi tảo - giống tảo lục có trong môi trường tự nhiên ở Việt Nam, được PGS. TS Đoàn Thái Yên - Viện Khoa Học và Công Nghệ Môi Trường, Đại học Bách khoa Hà Nội, thuần hóa từ tự nhiên. Bằng cơ chế sinh dược tự nhiên, đây là đèn tảo đầu tiên ở Việt Nam có khả năng hấp thụ CO2 và sinh oxy tươi.
+
+Ngoại trưởng Mỹ theo dõi màn trình diễn thi đấu robot của học sinh Việt Nam (Ảnh: T.N).
+
+Sau phần tham quan các dự án, Ngoại trưởng Blinken theo dõi màn trình diễn thi đấu robot của các em học sinh Việt Nam đang chuẩn bị cho Giải vô địch VEX thế giới sắp tới tại Dallas, Texas.
+
+Hồi tháng 9/2022, STEAM for Vietnam phối hợp với Trung tâm Hoa Kỳ và ĐH Bách khoa Hà Nội tổ chức Giải vô địch VEX IQ Robotics toàn quốc.
+
+Trong lần đầu tiên được tổ chức tại Việt Nam, giải đấu chứng kiến gần 300 trận thi đấu kịch tính của 49 đội thi đến từ 20 tỉnh, thành phố. Hiện Việt Nam cử 20 đội chiến thắng tham gia Giải vô địch thế giới VEX tại Texas vào tháng 5 tới.
+
+Sự tham gia của Ngoại trưởng Blinken trong sự kiện lần này cũng đã nêu bật những hỗ trợ của Hoa Kỳ trong lĩnh vực STEAM, vốn rất quan trọng đối với sự phát triển không ngừng của Việt Nam trong việc phát triển kinh tế, thúc đẩy sự thịnh vượng của khu vực và nuôi dưỡng một thế hệ các nhà khoa học mới.

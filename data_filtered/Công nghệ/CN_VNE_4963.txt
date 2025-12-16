@@ -1,0 +1,59 @@
+Ngày xuân vui cùng những tiện ích miễn phí
+
+Những ngày Tết Nguyên đán là thời gian rỗi rãi để ta lướt web và tìm những phần mềm không mất tiền nhằm tăng tiện nghi cho chiếc PC. Các chương trình sau đây sẽ có thể có ích cho những ai thích khám phá, nghe nhạc và chơi game.
+
+Phần mềm
+
+
+
+WebWasher Classic: Chương trình này kiểm soát các nội dung quảng cáo trên Internet, quản lý cookies. WebWasher Classic cũng có khả năng ngăn chặn truy cập tới các trang web cụ thể hoặc chỉ cho phép truy cập những site nhất định, một chức năng rất hữu dụng đối với các bậc phụ huynh. Có thể download tiện ích này tại đây.
+
+ZoneAlarm: Là lựa chọn hàng đầu trong các ứng dụng tường lửa miễn phí, ZoneAlarm chặn những kẻ xâm nhập Internet, ngăn spyware liên lạc với nơi gửi chúng đến. Chương trình có tại đây.
+
+
+Browser Hijack Blaster: Ngăn chặn các website "ma" thay đổi trang chủ của người sử dụng. Browser Hijack Blaster là một phần mềm gác trình duyệt tuyệt hảo có khả năng ngăn chặn các ứng dụng khác (chủ yếu là spyware) thay đổi thiết lập Windows. Tiện ích này có tại đây.
+
+
+
+
+Add/Remove Pro 2.08: Không phải phần mềm nào khi cài vào máy rồi cũng có thể gỡ ra (remove) một cách dễ dàng. Hoặc nhiều lúc, người ta lỡ tay xóa mất tập tin uninstall của những phần mềm thì thật tồi tệ. Tuy nhiên, dùng Add/Remove Pro 2.08 người sử dụng có thể tháo gỡ bất cứ chương trình "cứng đầu cứng cổ" nào. Chương trình có tại: superwin.swmirror.com/adrmpro2.exe
+
+
+
+
+CPU-Z: Đây là công cụ kiểm tra và hỗ trợ rất nhiều họ CPU. Ngoài ra, chương trình còn cung cấp thông tin về bộ nhớ đệm (cache L1, L2) của CPU, thông tin về RAM, maiboard... Với CPU-Z, người sử dụng sẽ biết CPU của mình có bị overclock không mà chẳng cần dùng đến tiện ích Processor Frequency ID Utility của hãng Intel. Chương trình này tương thích với Windows 9x, Me, 2000 và XP. Dễ sử dụng, không cần cài đặt. Tải về tại đây.
+
+
+X-Setup Pro: Phần mềm này điều chỉnh và phục hồi những thứ linh tinh trong PC như thiết lập hiển thị âm thanh và nhiều chương trình khác trong số gần 1.700 thông tin liên quan đến giao diện người dùng mà chương trình quản lý. Thậm chí, người sử dụng có thể tạo tập tin đặc biệt cho phép chuyển các thông số trên máy bạn sang máy khác hoặc để sao lưu dự phòng. X-Setup Pro có tại đây. 
+
+Kill-Win: Tiện ích này cho phép người dùng định thời biểu tắt máy, khởi động lại log-in, log-off... Chương trình phù hợp với dân công nghệ thông tin chuyên nghiệp. Địa chỉ download tại đây. 
+
+DriverFiles.net: Đây là website với nhiều trình điều khiển, có thể nhanh chóng hiển thị nhiều tập tin khác nhau bao gồm cả phiên bản beta và không chính thức cho hầu hết các thiết bị ngoại vi và linh kiện.
+
+Games miễn phí
+
+
+
+
+WorthPlaying Files (files.worthplaying.com) có giao diện đơn giản gần giống Google, site này cho người sử dụng tìm game bằng từ khóa. Bên cạnh đó, người sử dụng cũng có thể lục lọi theo mục game hành động, phiêu lưu mạo hiểm, đua xe, giả lập và nhập vai.
+
+Phần mềm nghe nhạc miễn phí:
+
+
+BetterPropaganda (betterPropaganda.com): Trang web tin tức và giới thiệu nhạc này có nhiều bài nhạc MP3 miễn phí, cả những ban nhạc nước ngoài rất mới như Modest Mouse, Interpol...
+
+Vietnamaudio.com: (vietnamaudio.com) website của nhóm tác giả người Việt từng đoạt giải 3 trong cuộc thi Trí tuệ Việt Nam. Tại đây, các fan âm nhạc có thể đọc thông tin về lĩnh vực mình yêu thích, nghe các bài hát MP3 và download chúng.
+
+Garageband.com: (garageband.com). Những nghệ sỹ tự do thường đưa tác phẩm của họ lên trang web này. Garageband có nhiều bài nhạc từng một thời có mặt trên MP3.com
+
+
+Jubster1.3.1: Đây là chương trình tìm và tải nhạc cực kỳ tiện lợi. Chỉ cần người sử dụng gõ tên bài hát hoặc tên ca sỹ rồn ấn nút start Search, các liên kết đến các bài hát sẽ hiện ra, cùng với biểu tượng ở bên cạnh cho biết bài hát đó có thể tải được hay không. Muốn tải tập tin nào thì đánh dấu và ấn nút download. Jubster1.3.1Hỗ trợ tải nhiều tập tin cùng lúc. Sau khi tải, người sử dụng có thể nghe bằng cách nhấn nút Library rồi nhấn nút play. Tải phần mềm này tại đây. 
+
+Video miễn phí:
+
+Atomfilms (atomfilms.shockware.com): Trang web này cho phép đăng ký miễn phí để có thể truy cập vào một trong những bộ sưu tập phim ngắn lớn nhất trên Net. Atomfilms có hài kịch, kịch sân khấu, phim hành động và nhạc phim từ các nghệ sỹ như Polyphonic Spree và Pete Yorn.
+
+WMV HD (wmvhd.com): Tại địa chỉ này, người sử dụng có thể thưởng thức thế hệ video chất lượng cao của tương lai nhưng cũng cần một hệ thống mạnh. Cấu hình PC tối thiểu phải là: PCU 2,4 GHz và RAM 385 MB.
+
+
+

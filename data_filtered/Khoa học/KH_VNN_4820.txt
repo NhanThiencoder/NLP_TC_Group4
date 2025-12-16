@@ -1,0 +1,85 @@
+Năm 2025, khi chiến trường Ukraine tiếp tục dạy bài học đắt giá về sự sống còn của giáp thép, MBDA - ông lớn vũ khí châu Âu - đã giới thiệu tại DSEI London với Akeron MBT 120 – tên lửa bắn từ nòng pháo 120mm sử dụng AI và đầu dò hồng ngoại để tấn công ngoài tầm nhìn, cho phép Leopard 2 hay Challenger 3 'bắn lén' mục tiêu Nga từ vị trí ẩn náu. Với trọng lượng chỉ 20kg, tầm bắn 5km và khả năng top-attack xuyên giáp, Akeron MBT 120 không chỉ là vũ khí, mà là cuộc cách mạng công nghệ giúp NATO lật ngược thế cờ, giảm thiểu rủi ro và tối ưu hóa hỏa lực trong kỷ nguyên drone thống trị.
+
+Tư tưởng kỹ thuật quân sự phương Tây thực tế đã bỏ qua sự phát triển của tên lửa bắn từ nòng pháo, và phải tới gần đây họ mới quay trở lại với sản phẩm này. Ảnh: EDR
+
+Giới thiệu về Akeron MBT 120: Từ ý tưởng đến vũ khí thực chiến
+
+Akeron MBT 120 không phải là một quả đạn thông thường mà là một hệ thống tên lửa dẫn đường thông minh, được thiết kế đặc biệt để phóng từ nòng pháo chính của xe tăng chiến đấu chủ lực (MBT - Main Battle Tank) tiêu chuẩn NATO.
+
+Được công bố tại triển lãm DSEI 2025 ở London, sản phẩm của MBDA (ông lớn vũ khí châu Âu) nhắm đến việc khắc phục điểm yếu lớn nhất của xe tăng hiện đại: khả năng sống sót khi phải lộ diện để tấn công.
+
+Thay vì bắn trực tiếp qua tầm nhìn (LOS), Akeron MBT 120 hoạt động ở chế độ ngoài tầm nhìn (NLOS - Non-Line Of Sight), nhận tọa độ mục tiêu từ drone, quan sát viên tiền phương hoặc hệ thống chỉ huy, rồi tự động lao vào đánh úp từ trên cao (top-attack).
+
+Điều này không chỉ tăng tầm sát thương mà còn cho phép xe tăng ẩn náu sau địa hình, bắn xong là rút lui ngay lập tức – một chiến thuật "bắn tỉa" hoàn hảo trên chiến trường hỗn loạn.
+
+Sự ra đời của Akeron MBT 120 được thúc đẩy bởi kinh nghiệm từ cuộc xung đột Nga-Ukraine, nơi xe tăng Nga và Ukraine thường bị tiêu diệt bởi hỏa lực tầm xa mà không kịp phản ứng.
+
+MBDA đã kết hợp công nghệ dân sự tiên tiến như trí tuệ nhân tạo (AI) và cảm biến hồng ngoại để tạo ra một vũ khí vừa rẻ, vừa dễ tích hợp, không đòi hỏi nâng cấp lớn cho NATO.
+
+Minh họa về việc phóng đạn dẫn đường NLOS MBDA Akeron MBT 120 xe tăng chủ lực (Ảnh: MBDA)
+
+Công nghệ cốt lõi: Bắn và quên (Fire-And-Forget) kết hợp AI và tấn công từ trên (Top-Attack)
+
+Điểm nổi bật nhất của Akeron MBT 120 nằm ở hệ thống dẫn đường "bắn và quên" (fire-and-forget), sử dụng đầu dò hồng ngoại (IR) thụ động kết hợp với cảm biến điện quang.
+
+Không giống các tên lửa cũ cần laser chiếu liên tục, Akeron chỉ cần dữ liệu ban đầu về vị trí mục tiêu rồi tự bay theo quỹ đạo leo cao, lượn vòng và lao xuống từ trên (top-attack) – nhắm thẳng vào phần giáp mỏng nhất trên nóc xe tăng đối phương.
+
+Công nghệ trí tuệ nhân tạo (AI) tích hợp giúp tên lửa tự nhận diện và phân biệt mục tiêu, thậm chí điều chỉnh giữa chừng nếu mục tiêu di chuyển, giảm thiểu sai sót do địa hình phức tạp hoặc nhiễu điện tử.
+
+Để phóng từ nòng pháo 120mm, tên lửa Akeron MBT 120 sử dụng động cơ rocket tăng tốc thấp với nhiên liệu khói thấp, giảm mài mòn nòng súng và giữ bí mật vị trí bắn.
+
+Tốc độ đạt mức siêu thanh thấp (khoảng Mach 1-1.5, tương đương 1.235-1.845km/h), giúp Akeron MBT 120 nhanh chóng tiếp cận mục tiêu mà không bị đánh chặn dễ dàng.
+
+Đầu nổ dạng nổ lõm (shaped charge) được tối ưu cho top-attack, đủ sức xuyên thủng giáp của các xe tăng T-72 hay T-80 Nga, với tùy chọn thêm lớp mảnh vụn để đối phó mục tiêu mềm hoặc bộ binh.
+
+Quan trọng hơn, hệ thống thụ động này miễn nhiễm với các biện pháp đối phó laser như Shtora-1 của Nga, chỉ có thể bị cản bởi hệ thống bảo vệ chủ động (APS) dựa trên radar ở góc trên – nhưng Akeron có thể vượt qua bằng cách bắn loạt hoặc phối hợp đa nền tảng.
+
+Tích hợp đơn giản là chìa khóa thành công: Chỉ cần một mô-đun lập trình nhỏ gắn vào hệ thống điều khiển hỏa lực hiện có (tương tự đạn lập trình DM11 của Rheinmetall), Akeron MBT 120 có thể lưu trữ và nạp tự động như đạn thường, không làm chậm nhịp chiến đấu.
+
+Akeron MBT 120 hoạt động ở chế độ ngoài tầm nhìn trực tiếp, nhận tọa độ mục tiêu từ drone hoặc quan sát viên tiền phương trước khi leo cao và lao xuống theo quỹ đạo tấn công từ trên để đánh vào các điểm yếu nhất của phương tiện bọc thép. (Nguồn ảnh: Army Recognition)
+
+Thông số kỹ thuật: Nhỏ gọn nhưng mạnh mẽ
+
+Với kích thước gọn gàng, Akeron MBT 120 dễ dàng "ẩn mình" trong kho đạn xe tăng NATO. Đường kính chuẩn 120mm, chiều dài chỉ 984mm và trọng lượng khoảng 20kg, nó khớp hoàn hảo với tiêu chuẩn STANAG 4385 của NATO, cho phép sử dụng trên các mẫu xe như Leopard 2 Đức, Challenger 3 Anh hay thậm chí M1 Abrams Mỹ sau điều chỉnh nhỏ.
+
+Tầm bắn linh hoạt từ 1-5km ở chế độ NLOS, vượt trội so với đạn động năng thông thường (APFSDS) chỉ hiệu quả dưới 3km ở địa hình mở.
+
+Sau khi phóng, tên lửa Akeron MBT 120 bay theo quỹ đạo parabol cao, đạt tốc độ siêu thanh thấp để tránh radar mặt đất, và kết thúc bằng cú đánh từ trên xuống với đầu nổ nổ lõm – sức công phá đủ để vô hiệu hóa xe tăng hiện đại mà không cần đầu nổ tandem phức tạp.
+
+Sản xuất hàng loạt dự kiến bắt đầu trong hai năm tới, với chi phí thấp nhờ thiết kế ITAR-free (không bị ràng buộc xuất khẩu Mỹ), giúp NATO dễ dàng trang bị rộng rãi mà không lo logistics.
+
+Nguồn hình ảnh: topwar.ru
+
+So sánh với "kẻ thù": Akeron MBT 120 vượt trội như thế nào so với 9M119 Refleks?
+
+Để đánh giá sức mạnh thực sự, không thể không so sánh Akeron MBT 120 với 9M119 Refleks – tên lửa bắn từ nòng pháo 125mm kinh điển của Nga, được sử dụng trên xe tăng T-72 và T-90 từ những năm 1980.
+
+Refleks cũng là một ATGM (tên lửa chống tăng) phóng từ pháo chính, với tầm bắn lên đến 5km và đầu nổ nổ lõm, nhưng công nghệ của nó đã lỗi thời so với "đàn em" châu Âu.
+
+Về dẫn đường, Refleks dựa hoàn toàn vào laser beam-riding: cần tầm nhìn trực tiếp và chiếu laser liên tục từ xe bắn, khiến xe tăng Nga phải lộ diện ít nhất 10-15 giây – thời gian chết người trên chiến trường đầy drone.
+
+Ngược lại, Akeron MBT 120 với hệ thống IR thụ động và AI cho phép bắn NLOS, nhận tọa độ từ UAV rồi tự săn mục tiêu, giảm thời gian tiếp xúc xuống chỉ vài giây.
+
+Do đó, xe tăng NATO có thể ẩn náu sau đồi hoặc rừng, bắn rồi chạy, trong khi Refleks buộc phải "ôm bom" và dễ bị phản công.
+
+Về quỹ đạo và sức sát thương, cả hai đều dùng đầu nổ nổ lõm, nhưng Akeron ưu tiên top-attack để khai thác điểm yếu giáp mái (chỉ 20-50mm trên T-72), trong khi Refleks chủ yếu tấn công trực diện hoặc bên hông, kém hiệu quả hơn trước giáp composite hiện đại.
+
+Tốc độ siêu thanh thấp của Akeron cũng giúp nó khó bị APS như Arena Nga đánh chặn hơn so với Refleks subsonic (dưới 900km/h).
+
+Hơn nữa, Akeron tương thích hoàn hảo với hệ thống NATO 120mm, dễ bảo trì và mở rộng, trong khi Refleks dành riêng cho pháo 125mm Liên Xô, hạn chế xuất khẩu và nâng cấp.
+
+Akeron MBT 120 không chỉ "vượt xa" Refleks về tính linh hoạt và bí mật mà còn đại diện cho sự chuyển dịch từ "bắn trực tiếp" sang "chiến tranh mạng lưới" – nơi xe tăng trở thành nút thắt trong hệ thống chỉ huy, phối hợp với drone và AI để thống trị khoảng cách xa.
+
+Trong khi Refleks vẫn hiệu quả ở tầm gần, Akeron hứa hẹn sẽ là "cơn ác mộng" cho giáp thép Nga ở Ukraine và xa hơn.
+
+Nguồn hình ảnh: topwar.ru
+
+Nguồn hình ảnh: topwar.ru
+
+Tương lai xe tăng NATO đang thay đổi
+
+Akeron MBT 120 không chỉ là một tên lửa, mà là minh chứng cho sự thích nghi nhanh chóng của NATO trước mối đe dọa hiện đại.
+
+Với công nghệ fire-and-forget, trí tuệ nhân tạo (AI) thông minh và tích hợp dễ dàng, Akeron MBT 120 biến xe tăng từ "lá chắn di động" thành "súng bắn tỉa tầm xa", tăng khả năng sống sót và sát thương lên gấp bội.
+
+Khi các cuộc thử nghiệm sắp hoàn tất, thế giới sẽ sớm chứng kiến cách vũ khí này định hình lại cán cân sức mạnh trên chiến trường châu Âu.

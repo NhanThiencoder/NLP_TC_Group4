@@ -1,0 +1,53 @@
+Từ Mỹ đến Nhật Bản, từ nhà riêng đến văn phòng, các thiết bị vốn để bảo vệ người dùng lại đang vô tình biến thành “cửa sổ” phơi bày đời sống riêng tư trước hàng triệu ánh mắt lạ.
+
+Khi camera an ninh mở toang cửa cho hacker
+
+Các chuyên gia Bitsight cảnh báo, hầu hết những camera này đều có thể truy cập chỉ bằng một trình duyệt web, không cần kỹ năng tấn công đặc biệt.
+
+Điều đó nghĩa là bất kỳ ai cũng có thể xem hình ảnh từ camera tại nhà, công ty, thậm chí bệnh viện - chỉ cần biết địa chỉ IP.
+
+Đáng chú ý, Bitsight còn tìm thấy các cuộc thảo luận trên dark web - nơi những kẻ xấu trao đổi, mua bán quyền truy cập vào những camera bị lộ. Điều này chứng minh rủi ro không còn là giả thuyết mà đang xảy ra hàng ngày.
+
+Theo Bigsight, khoảng 14.000 camera an ninh tại Mỹ bị lộ hình ảnh trên mạng. Ảnh: Bitsight
+
+Phân tích thông tin cho thấy Mỹ đứng đầu danh sách với khoảng 14.000 camera lộ hình ảnh trực tiếp, tiếp theo là Nhật Bản, Áo, Séc và Hàn Quốc. Các thiết bị này chủ yếu dùng giao thức HTTP hoặc RTSP - vốn không an toàn nếu không được mã hóa.
+
+Trong số đó, nhiều camera nằm tại nhà dân, công sở, nhà máy, hay phương tiện giao thông công cộng, vô tình để lộ thông tin cá nhân, bí mật thương mại, hoặc hình ảnh nhạy cảm.
+
+Một số ít được lắp cố ý để phát cảnh thiên nhiên hoặc công cộng, nhưng phần lớn là do người dùng thiếu kiến thức bảo mật hoặc để nguyên mật khẩu mặc định.
+
+Hacker không cần tấn công mà người dùng "tự mời"
+
+Theo các chuyên gia an ninh mạng, việc cài đặt camera Wi-Fi quá dễ khiến rủi ro tăng cao. Người dùng chỉ cần cắm điện, kết nối mạng và quên mất rằng thiết bị đang tự phát tín hiệu ra toàn cầu.
+
+Một số hãng sản xuất giá rẻ còn bị phát hiện tích hợp “cửa hậu” (backdoor) ngay trong phần mềm, cho phép người khác truy cập mà chủ sở hữu không hề hay biết.
+
+Thực tế, trong năm 2022, nghiên cứu của Norton ghi nhận hơn 1,5 tỷ thiết bị IoT, bao gồm camera Wi-Fi, đã bị xâm nhập hoặc lợi dụng qua botnet.
+
+Tháng 1/2023, 3.000 camera gia đình được phát hiện công khai trên mạng, chiếu thẳng vào phòng ngủ, phòng trẻ em và cửa ra vào.
+
+Buộc thôi việc Chủ tịch HĐQT Trường THPT Tô Hiến Thành vụ 'thân mật' với phụ nữ Hội đồng trường THPT Tô Hiến Thành (xã Hải Hậu, tỉnh Ninh Bình) đã họp và thống nhất buộc thôi việc đối với ông N.V.Đ, Chủ tịch HĐQT trường, người xuất hiện trong clip thân mật với phụ nữ tại phòng làm việc.
+
+Camera bị lộ không chỉ làm mất quyền riêng tư. Một khi xâm nhập được, hacker có thể dò mật khẩu Wi-Fi, kiểm soát các thiết bị khác trong nhà, hoặc sử dụng camera làm bàn đạp tấn công hệ thống công ty.
+
+Với doanh nghiệp, rò rỉ hình ảnh từ camera văn phòng có thể khiến bí mật sản xuất, dữ liệu khách hàng, kế hoạch kinh doanh bị lộ.
+
+Trong môi trường nhà máy, việc phát trực tuyến dây chuyền hoạt động còn gây thiệt hại kinh tế nghiêm trọng nếu đối thủ cạnh tranh theo dõi được.
+
+5 nguyên tắc vàng bảo vệ camera an ninh
+
+Các chuyên gia khuyến nghị người dùng cần kiểm tra và bảo mật lại toàn bộ camera an ninh, đặc biệt là thiết bị kết nối Wi-Fi:
+
+- Đổi mật khẩu mặc định ngay sau khi lắp đặt, đặt mật khẩu mạnh, không dùng chung mật khẩu với dịch vụ khác.
+
+- Tắt quyền truy cập từ xa nếu không cần thiết.
+
+- Cập nhật firmware thường xuyên vì các bản vá bảo mật có thể chặn lỗ hổng đã biết.
+
+- Kiểm tra xem camera có thể truy cập công khai hay không bằng cách thử đăng nhập từ thiết bị ngoài mạng gia đình.
+
+- Với doanh nghiệp, nên giới hạn truy cập qua VPN hoặc tường lửa, đồng thời giám sát đăng nhập bất thường.
+
+Sự cố của hơn 40.000 camera chỉ là phần nổi của tảng băng. Khi hàng trăm triệu thiết bị giám sát đang được bán ra mỗi năm, người dùng đang tự biến mình thành mục tiêu tấn công nếu bỏ qua bảo mật cơ bản.
+
+(Tổng hợp)

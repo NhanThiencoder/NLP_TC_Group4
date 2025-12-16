@@ -1,0 +1,37 @@
+Title: Nông nghiệp 4.0 mang thực phẩm sạch đến người tiêu dùng
+
+Tập đoàn De Heus (Hà Lan) vừa công bố hợp tác với Microsoft Việt Nam để triển khai ứng dụng nông nghiệp 4.0 trên toàn bộ hệ thống quản lý và vận hành của mình ở Việt Nam và các nước khác trong khu vực Châu Á.
+
+Với dân số thế giới được dự đoán sẽ tăng lên khoảng 9,8 tỷ dân vào năm 2050, nhu cầu về thực phẩm an toàn và lành mạnh theo đó cũng sẽ tiếp tục gia tăng. Viện Tài nguyên Thế giới ước tính nhu cầu thực phẩm trên toàn cầu sẽ tăng 56%, trong đó nhu cầu thực phẩm làm từ động vật tăng gần 70%. Đây sẽ là một thách thức lớn đối với người chăn nuôi và các công ty sản xuất lương thực trên toàn thế giới.
+
+Thách thức từ sự phát triển không ngừng
+
+Tập đoàn De Heus (Hà Lan) là một tập đoàn hoạt động trên quy mô toàn cầu, với hơn 100 năm kinh nghiệm trong việc cung cấp các giải pháp tiên tiến về dinh dưỡng động vật, hiện đang có mặt tại hơn 75 quốc gia, bao gồm 82 nhà máy trải dài ở các khu vực trọng điểm chăn nuôi của thế giới với hơn 6.000 nhân viên trên toàn cầu, De Heus tự hào nằm trong top 10 các tập đoàn sản xuất thức ăn chăn nuôi lớn nhất thế giới.
+
+Nông nghiệp 4.0 mang thực phẩm sạch đến người tiêu dùng
+
+Trải qua hơn 12 năm gia nhập thị trường thức ăn chăn nuôi, chăn nuôi, thực phẩm tại Việt Nam, De Heus luôn nỗ lực đóng góp những giá trị bền vững trong phát triển nông nghiệp và góp phần đưa thực phẩm sạch đến gần hơn với người tiêu dùng Việt Nam.
+
+Tính đến nay, De Heus Việt Nam đã có những bước phát triển vượt bậc so với nhiều doanh nghiệp trong ngành với 9 nhà máy sản xuất thức ăn chăn nuôi được trang bị công nghệ hiện đại của châu Âu tại những tỉnh thành trọng yếu của đất nước.
+
+Từ năm 2015, Việt Nam chính thức trở thành trụ sở chính của De Heus tại khu vực Châu Á, điều này đã nâng cao sự tự tin của De Heus trong việc phát triển những hoạt động của mình tại khu vực. Bên cạnh Việt Nam, De Heus cũng đã bước đầu vận hành rất thành công tại Myanmar, Cam-pu-chia, Indonesia và Ấn Độ.
+
+Đi cùng với tốc độ phát triển nhanh chóng trong một thời gian ngắn, De Heus Việt Nam cũng phải đối diện với rất nhiều thử thách trong việc quản lý và vận hành các chi nhánh, nhà máy tại những thị trường khác nhau trong khu vực. Thực tế cho thấy tại mỗi địa điểm nơi De Heus đặt trụ sở hoạt động sản xuất, hệ thống vận hành được xây dựng trên nền tảng công nghệ phân tán, việc quản lý và hợp nhất dữ liệu trở nên phức tạp, dẫn tới sự tốn kém về thời gian, nhân lực, chi phí vận hành, và theo đó ảnh hưởng đến năng suất cũng như những quyết định kinh doanh quan trọng.
+
+Ông Gabor Fluit, Tổng Giám đốc De Heus khu vực Châu Á, cho biết: “Ở mỗi chi nhánh và nhà máy, chúng tôi có các hệ thống quản lý và vận hành khác nhau với những cơ chế xác thực riêng, điều đó khiến mọi thứ rất phức tạp trong việc phân quyền và hợp nhất dữ liệu, phục vụ kinh doanh. Do đó, chúng tôi muốn tiêu chuẩn hóa định danh người sử dụng trên toàn bộ hệ thống cho mỗi đối tượng người dùng (ví dụ như nhân viên, người chăn nuôi,…) khi truy cập trên tất cả các ứng dụng và dịch vụ của De Heus, từ đó giúp chúng tôi dễ dàng phân tích thông tin của người dùng, nhằm đưa ra những quyết định kinh doanh chính xác hơn.
+
+Mặt khác, trong giai đoạn đại dịch Covid-19 chưa được kiểm soát triệt để trên toàn cầu, nhu cầu về một môi trường làm việc an toàn, linh hoạt với khả năng tương tác, chia sẻ dữ liệu và hội họp trực tuyến ở mọi nơi giữa các chi nhánh và nhà máy của De Heus lại càng trở nên cấp thiết.”
+
+Chăn nuôi theo hướng nông nghiệp 4.0
+
+Để có thể vượt qua khó khăn, tiếp tục giữ vững tốc độ phát triển cũng như nhanh chóng thích nghi với giai đoạn bình thường mới, nâng cao hiệu suất hoạt động và năng lực cạnh tranh trong khu vực, De Heus đã quyết định số hóa toàn bộ hệ thống quản lý và vận hành của mình trong khu vực Châu Á, nhằm tối ưu hóa việc sử dụng dữ liệu phân tích.
+
+Ông Poc Ma, Giám đốc CNTT của De Heus khu vực Châu Á, cho biết: “Với kế hoạch mang tính chiến lược như vậy, việc lựa chọn các đối tác công nghệ có uy tín và kinh nghiệm trên thế giới là điều mà De Heus Việt Nam yêu cầu thực hiện vô cùng cẩn trọng. Tập đoàn đã tin tưởng và triển khai giải pháp đám mây toàn diện của Microsoft, bao gồm Microsoft 365 và Azure cho toàn bộ hệ thống quản lý và vận hành tại khu vực Châu Á. Bên cạnh đó, chúng tôi cũng đang triển khai Dynamic 365 FO cho thị trường Indonesia và có kế hoạch mở rộng sang các thị trường khác trong khu vực trong thời gian tới.”
+
+Ngày nay, việc ứng dụng công nghệ cao trong bộ máy vận hành được xem là một trong những yếu tố tiên quyết để nâng cao năng lực cạnh tranh của một doanh nghiệp trong bất cứ lĩnh vực nào. Ngành chăn nuôi cũng không phải là ngoại lệ. Dynamic 365 giúp De Heus thu thập, hợp nhất và phân tích thông tin khách hàng theo thời gian thực, từ đó hỗ trợ De Heus nhanh chóng đáp ứng các nhu cầu thay đổi liên tục theo từng ngày, triển khai các giải pháp quản lý chăn nuôi hiện đại và hiệu quả cho khách hàng cũng như các đối tác trong toàn bộ chuỗi cung ứng.
+
+Theo một báo cáo gần đây về chỉ số xu hướng công việc thường niên của Microsoft, 81% lực lượng lao động tại Việt Nam mong muốn hình thức làm việc từ xa vẫn được linh hoạt áp dụng đồng thời với hình thức làm việc truyền thống sau khi dịch bệnh kết thúc. Mô hình làm việc kết hợp (hybrid work) này hiện được xem là mô hình lý tưởng cho kỷ nguyên làm việc mới. Do đó, thông qua việc triển khai Microsoft 365, De Heus đã tin tưởng, trao quyền cho nhân viên, thúc đẩy sự linh hoạt và sáng tạo, với hy vọng mọi người có thể cộng tác và làm việc một cách hiệu quả và bảo mật trong mọi hoàn cảnh, ở bất cứ đâu, trên bất kỳ thiết bị cá nhân nào.
+
+Bà Phan Tú Quyên, Giám đốc Marketing và Vận hành, Microsoft Việt Nam, cho biết: “Để nâng cao năng lực cạnh tranh trong lĩnh vực chăn nuôi thì một trong những yếu tố tiên quyết là việc ứng dụng công nghệ. Đẩy mạnh các giải pháp ứng dụng công nghệ cao trên nền tảng số và nâng cao chất lượng dịch vụ cho người nông dân là chìa khóa mở ra hướng đi bền vững cho ngành chăn nuôi Việt Nam trong thời kỳ hội nhập. Tôi tin rằng De Heus Việt Nam sẽ luôn sát cánh cùng người chăn nuôi tiến xa hơn đúng với tinh thần và giá trị cốt lõi mà De Heus theo đuổi.”
+
+M.H.

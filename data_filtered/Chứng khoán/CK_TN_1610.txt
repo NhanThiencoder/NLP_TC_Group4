@@ -1,0 +1,11 @@
+Sáng 5.7, một số công ty chứng khoán thông báo các lệnh giao dịch tại Sở Giao dịch chứng khoán TP.HCM (HOSE) gặp vấn đề về kết nối đường truyền dẫn tới gián đoạn quá trình đăng nhập và giao dịch trực tuyến. Nhà đầu tư có nhu cầu giao dịch sẽ phải liên hệ trực tiếp với nhân viên môi giới.
+
+Một số công ty bị gián đoán kết nối với HOSE sáng 5.7 do bị cúp điện tại Trung tâm Dữ liệu dự phòng tại Công viên phần mềm Quang Trung NGỌC THẮNG
+
+Đầu giờ chiều cùng ngày, HOSE phát đi thông báo cho biết vào lúc 10 giờ phiên giao dịch sáng 5.7, hệ thống của một số công ty chứng khoán đã bị gián đoạn kết nối tới HOSE. Nguyên nhân là do sự cố mất điện ở Trung tâm Dữ liệu dự phòng tại Công viên Phần mềm Quang Trung đã làm gián đoạn kết nối của một số công ty chứng khoán đặt thiết bị công nghệ thông tin tại đây. HOSE khẳng định hệ thống giao dịch của HOSE vẫn hoạt động bình thường.
+
+Đến hơn 11 giờ, sự cố mất điện tại Trung tâm Dữ liệu dự phòng đã được khắc phục. Kết nối của các công ty chứng khoán bị ảnh hưởng đã được khôi phục và hoạt động bình thường trở lại.
+
+Mở cửa phiên giao dịch buổi chiều, VN-Index đang tăng hơn 3 điểm lên 1.283 điểm; HNX-Index giảm nhẹ 0,45 điểm xuống 241,4 điểm. Tổng cộng giá trị giao dịch trên thị trường đang khoảng 15.000 tỉ đồng.
+
+Ngoài một số công ty chứng khoán đặt thiết bị công nghệ tại Công viên Phần mềm Quang Trung, Trung tâm Dữ liệu dự phòng của HOSE cũng được đặt tại địa chỉ này. Trung tâm dữ liệu đạt tiêu chuẩn Tier III và được xem là một Data Center với trang thiết bị công nghệ mang tầm cỡ trong khu vực Đông Nam Á. Trung tâm được khởi công từ năm 2013 và đến tháng 5.2014, trung tâm đã chính thức được đưa vào sử dụng...

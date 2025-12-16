@@ -1,0 +1,29 @@
+Nhà ga T2 Nội Bài áp dụng nhận diện khuôn mặt, qua an ninh trong 1-3 giây
+
+Từ 19/12, nhà ga quốc tế T2 sân bay Nội Bài triển khai mô hình sân bay thông minh, áp dụng nhận diện khuôn mặt giúp hành khách làm thủ tục, kiểm tra an ninh tự động.
+
+Cảng hàng không quốc tế Nội Bài bắt đầu triển khai mô hình sân bay thông minh tại nhà ga T2, lần đầu cho phép hành khách bay quốc tế trải nghiệm quy trình làm thủ tục tự động hóa, thay thế nhiều khâu kiểm tra thủ công, rút ngắn thời gian chờ đợi.
+
+Tại các cửa vào nhà ga, hành khách có thể tra cứu thông tin chuyến bay thông qua hệ thống màn hình đa năng tích hợp cảm ứng, đồng thời tìm vị trí quầy làm thủ tục, sơ đồ nhà ga, nhà hàng và các dịch vụ tiện ích với vài thao tác đơn giản.
+
+Ở khu vực check-in, thay vì xếp hàng tại các quầy truyền thống, hành khách có thể tự làm thủ tục tại 24 kiốt check-in tự động để lựa chọn chỗ ngồi và in thẻ lên tàu bay. Hệ thống gửi hành lý tự động cho phép hành khách tự cân, in và dán thẻ hành lý, giúp chủ động thời gian, không phụ thuộc vào nhân viên phục vụ.
+
+Đối với hành khách quốc tịch Việt Nam có hộ chiếu gắn chip, sân bay lắp đặt thiết bị đọc hộ chiếu kết hợp hệ thống nhận diện sinh trắc học khuôn mặt, giúp kết nối thông tin hành khách với cơ sở dữ liệu, qua đó các khâu làm thủ tục diễn ra nhanh chóng, chính xác hơn.
+
+Hệ thống kiểm soát an ninh tự động. Ảnh: Phương Linh
+
+Khi vào khu vực kiểm soát an ninh, hệ thống cổng tự động ứng dụng sinh trắc học nhận diện khuôn mặt sẽ đối khớp dữ liệu và mở cửa trong vòng 1-3 giây, thay thế quy trình kiểm tra thủ công trước đây mất khoảng 1-2 phút. Trường hợp chưa sử dụng sinh trắc học, hành khách có thể quét mã vạch trên thẻ lên tàu bay để mở cửa tự động.
+
+Sau đó, hành khách tiếp tục qua hệ thống cổng kiểm soát xuất cảnh tự động và thực hiện xác thực khuôn mặt lần thứ hai trước khi vào khu vực soi chiếu an ninh.
+
+Tại khu vực soi chiếu, nhà ga được trang bị hệ thống máy soi cắt lớp phân tích hình ảnh hành lý đa chiều, giúp nhân viên an ninh kiểm tra kỹ lưỡng mà không bỏ sót vật phẩm nguy hiểm. Cổng từ kết hợp máy quét cơ thể cho phép phát hiện chính xác cả vật thể kim loại và phi kim loại; hình ảnh hiển thị dưới dạng "avatar trung tính", bảo đảm quyền riêng tư của hành khách.
+
+Khu vực xuất nhập cảnh tự động. Ảnh: Phương Linh
+
+Theo đại diện Cảng hàng không quốc tế Nội Bài, việc thí điểm áp dụng sinh trắc học nhận diện khuôn mặt đánh dấu bước tiến mới trong chuyển đổi số toàn diện, giúp rút ngắn tối đa thời gian chờ đợi và nâng cao trải nghiệm của hành khách. Song song với các khâu tự động, sân bay vẫn duy trì các quầy làm thủ tục và kiểm tra an ninh theo phương thức truyền thống để bảo đảm phục vụ linh hoạt.
+
+Cùng với việc áp dụng công nghệ mới, từ tháng 12, nhà ga hành khách quốc tế T2 đã hoàn thành mở rộng mặt sàn, tăng thêm quầy làm thủ tục và khu vực soi chiếu, nâng công suất khai thác từ 10 lên 15 triệu hành khách mỗi năm.
+
+Dự án mở rộng được triển khai trên diện tích khoảng 412.000 m2, gồm mở rộng hai cánh nhà ga và khu vực trung tâm, bổ sung hệ thống cầu ống lồng. Đảo làm thủ tục được mở rộng, nâng số quầy check-in từ 24 lên 120; băng tải trả hành lý tăng từ 2 lên 8; số cầu ống lồng từ 15 lên 29, đồng thời bổ sung hệ thống lưu trữ hành lý đến sớm và hành lý quá cảnh.
+
+Đoàn Loan

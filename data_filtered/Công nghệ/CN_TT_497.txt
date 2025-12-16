@@ -1,0 +1,9 @@
+ Tiếng Việt cho máy PDA dùng Windows Moblie 2005 
+
+Sản phẩm này có thể xem là thuần Việt với 100% công sức của người Việt, không như bản WM2003 chỉ đơn giản là biên dịch lại từ tiếng Nga. Kỹ thuật của WM5 có rất nhiều điểm khác WM2003 và khá phức tạp trong các vấn đề bảo mật... 
+
+
+Cách cài đặt khá đơn giản, tương tự như cài đặt các ứng dụng cho WM5. Sau khi tải phần mềm về máy, bạn chỉ cần dùng file Explorer trỏ đến thư mục chứa file, mở file cài đặt và làm theo các hướng dẫn cho đến khi install xong. Trước khi chạy, người dùng gửi thông tin số đăng ký của máy và chờ cung cấp KEY miễn phí, khi có KEY bạn có thể chuyển sang giao diện tiếng Việt. 
+
+
+

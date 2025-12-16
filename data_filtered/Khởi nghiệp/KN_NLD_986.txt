@@ -1,0 +1,41 @@
+Ryan Petersen xác định mục tiêu của đời mình sẽ là áp dụng công nghệ thế kỷ 21 cho vận tải - ngành cổ xưa nhất thế giới. Và một điều chắc chắn là anh sẽ không ngại “đụng chạm” bất cứ ai trong quá trình theo đuổi giấc mơ của mình, cho dù là cả Steve Jobs.
+
+Khởi đầu bằng việc nhập khẩu xe máy và mô tô từ Trung Quốc để bán online tại Mỹ, Ryan Petersen phải đích thân đến làm việc tại Trung Quốc trong suốt 2 năm vì công việc của anh trở nên quá phức tạp khi phải làm việc với rất nhiều công ty dịch vụ vận tải khác nhau.
+
+Ryan nhận ra rằng việc vận chuyển quốc tế phải phụ thuộc vào quá nhiều bên trung gian. Một khi hàng hóa được hoàn tất tại nhà máy tại Trung Quốc, một công ty vận tải đường bộ sẽ đến nhận hàng và vận chuyển tới kho, tại kho, nếu hàng của bạn quá nhỏ thì bạn phải đợi để được gộp chung với hàng hóa của nhiều công ty khác cho đầy một container. Sau đó, một công ty khác sẽ vận chuyển container đến cảng và làm các thủ tục Hải quan. Sau đó hàng được xếp lên tàu của một công ty khác nữa để vận chuyển đến Mỹ, nơi mà hàng chục công ty khác đang chờ để tiếp tục xử lý lô hàng này.
+
+Qua tất cả các công đoạn đó, không một công ty nào cung cấp được phần mềm theo dõi thân thiện với người dùng, tất cả thông tin đều phải qua 1 loạt các chứng từ giấy hoặc rất nhiều cuộc điện thoại và email. Trong khi đó, vận tải quốc tế là một ngành có doanh thu đến 9 tỷ USD mỗi năm. Đó là lúc mà Ryan Petersen nhận ra hướng khởi nghiệp của mình.
+
+Dự án đầu tay: ImportGenius và hành động “chọc điên” Steve Jobs để kiếm 1 triệu USD
+
+Ryan khởi nghiệp với dự án ImportGenius. Tại Mỹ, các thông tin hàng hóa nhập khẩu luôn được công bố rộng rãi bởi Chi cục Hải Quan Hoa Kỳ, ImportGenius đã tổng hợp tất cả các thông tin đó lại, sắp xếp chúng một cách khoa học và bán lại với giá 200 USD mỗi tháng cho khách hàng.
+
+Đây là một dịch vụ nhắm tới những nhà đầu tư muốn nghiên cứu về đối tác của mình hoặc những công ty cung cấp dịch vụ logistics muốn tìm hiểu về khách hàng trước khi chào hàng.
+
+Dự án nghe có vẻ rất tiềm năng nhưng ImportGenius phải chật vật hơn một năm mới có được người khách đầu tiên. Ryan liền nghĩ, tại sao anh không thử viết một số tin tức dựa trên dữ liệu có sẵn để minh chứng cho lợi ích của ImportGenius?
+
+Anh chàng này phát hiện rằng Apple đang nhập đến 188 container với nội dung bên trong là “máy điện tử” từ kho dữ liệu của mình. Sau một hồi nghiên cứu thì Ryan nhận ra đây là thời điểm mà lượng hàng tồn kho cho iPhone đời đầu đang sụt giảm và lập tức đăng tải một bài Blog về chủ đề này.
+
+Sau đó Ryan còn gửi thông tin trên đến Mac Rumors, trang web chuyên về những tin “rò rỉ” của Apple. Chỉ qua vài ngày sau đó, hơn 100 tờ báo khác đều đăng tải nội dung “đồn” rằng Apple sắp tung ra sản phẩm mới. Ngay lập tức, Ryan nhận được một cuộc gọi từ nhân viên Hải Quan Mỹ, nhân viên này nói rằng Steve Jobs đã “nổi điên” khi biết được tin và gọi điện “hét ầm ĩ” cho cả Cục Hải Quan.
+
+Tổng cộng sau bài viết đó, ImportGenius có thêm hàng ngàn khách hàng mới và thu lại được hơn 1 triệu USD.
+
+Nhưng Ryan sớm nhận ra rằng ImportGenius chỉ là một công cụ hữu ích và sớm muộn gì chính quyền Mỹ cũng sẽ cải tiến kho dữ liệu của mình, anh ta chuyển quyền điều hành lại cho nhà đồng sáng lập để tiếp tục với một dự án tham vọng hơn.
+
+Flexport: cổng vận tải “tất cả trong một” và danh hiệu startup tỷ đô
+
+Flexport ra đời với mục đích “vực dậy” ngành dịch vụ lớn tuổi nhất thế giới bằng công nghệ thế kỷ 21. Khác với những gói bưu phẩm gửi qua UPS hoặc FedEx, không một công ty vận chuyển nào đủ mạnh để có thể tự tay xử lý một lô hàng lớn, do đó rất nhiều công ty phải hợp sức với nhau và lô hàng qua đó cũng bị chuyển qua tay rất nhiều lần.
+
+“Để chuyển hàng từ Trung Quốc về Mỹ. Bạn cần một xe tải ở Trung Quốc, bạn cần một xe tải ở Mỹ, và tiếp đó là một hoặc nhiều máy bay, tàu biển để kết nối giữa hai nước, chưa hết, bạn sẽ cần một số kho để gom hàng, xả hàng từ container …” Ryan cho biết.
+
+Biết được thực trạng, Ryan và công ty của mình đã phát triển Flexport - một phần mềm có thể truy cập bằng trình duyệt web để kết nối tất cả thông tin. Flexport cho phép các công ty trên khắp thế giới có thể mua dịch vụ, quản lý và theo dõi lô hàng của mình… tất cả trên cùng một trang web. Flexport cung cấp thông tin miễn phí và chỉ thu % lợi nhuận khi bạn vận chuyển hàng sử dụng phần mềm này.
+
+“Tất cả sẽ dựa trên ứng dụng Flexport” Ryan Petersen cho hay, tất cả các yêu cầu từng không được hỗ trợ bởi những công ty vận tải truyền thống sẽ được Flexport cung cấp, người dùng sẽ biết hàng của họ đang nằm ở đâu trong thời gian thực, chi phí vận chuyển toàn bộ ước tính là bao nhiêu, khả năng điều chỉnh đường đi của hàng, so sánh giữa vận chuyển đường biển và đường hàng không và cả thông tin để ra quyết định số lượng hàng nên chuyển đi là bao nhiêu…
+
+Flexport luôn muốn triệt tiêu những phiền hà mà hệ thống vận tải thế giới đang gặp phải, đơn cử như việc cung cấp địa điểm chính xác của hàng, 40% cuộc gọi đến các công ty vận tải liên quan tới vị trí hiện tại của hàng, việc này gây nhiều phiền toái khi nhân viên của công ty này phải gọi điện cho công ty khác để tìm được chính xác công ty đang vận chuyển hàng và từ đó thông báo ngược lại tới khách hàng.
+
+Và chỉ sau 4 năm thành lập, Flexport đã vừa gọi vốn thành công với số tiền 110 triệu USD trong Series C.
+
+Ryan còn gây chấn động hơn khi từ chối một nhà đầu tư đã định giá Flexport lên đến 1 tỷ USD. “Chúng tôi luôn tìm kiếm nhà đầu tư tốt nhất, và những nhà đầu tư có chủ định giúp đỡ công ty thường sẽ không đưa ra mức giá cao như vậy”, Ryan cho hay.
+
+Flexport hiện cũng đang nằm trong danh sách 25 công ty khởi nghiệp tỷ đô trong tương lai của Forbes.

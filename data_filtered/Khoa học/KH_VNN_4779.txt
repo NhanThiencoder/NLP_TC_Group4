@@ -1,0 +1,27 @@
+Cục Viễn thông đang chủ động phối hợp các đơn vị của Bộ Công an tổ chức đoàn kiểm tra liên ngành kiểm tra trực tiếp tại các doanh nghiệp viễn thông di động về công tác quản lý thông tin thuê bao, xử lý SIM rác, cuộc gọi quảng cáo không đúng quy định.
+
+Bộ KH&CN cho biết, từ năm 2023 đến nay, Bộ đã phối hợp Bộ Công an đối soát hơn 125 triệu thuê bao di động, trong đó chuẩn hóa 11 triệu và chặn 6 triệu thuê bao không chính chủ.
+
+Báo cáo của Bộ KH&CN cho biết Việt Nam nằm trong nhóm khoảng 20 quốc gia đã triển khai đối soát, xác thực thông tin thuê bao với cơ sở dữ liệu quốc gia về dân cư trước khi kích hoạt.
+
+Trong hai năm 2023-2024, Bộ đã thanh tra 8 doanh nghiệp viễn thông di động, tập trung vào các chi nhánh, điểm cung cấp dịch vụ và các tổ chức, cá nhân đăng ký số lượng lớn SIM bất thường. Các sai phạm đã bị xử phạt theo quy định.
+
+Chia sẻ với VietNamNet về vấn đề này, Cục Viễn thông (Bộ KH&CN), cho biết 6 triệu thuê bao không chính chủ nêu trên đã bị các doanh nghiệp viễn thông di động chặn sau khi đối soát không trùng khớp với cơ sở dữ liệu dân cư trong giai đoạn 2023-2024 vừa qua.
+
+Về công tác quản lý thông tin thuê bao, xử lý SIM rác, Bộ KH&CN đang phối hợp với Bộ Công an chỉ đạo các đơn vị, các doanh nghiệp nghiên cứu, tham khảo kinh nghiệm của Ngân hàng nhà nước để bên cạnh việc đối soát các thông tin trên giấy tờ sẽ triển khai bổ sung việc xác thực trường thông tin ảnh chân dung với CSDL quốc gia về dân cư.
+
+“Cục đang chủ động phối hợp các đơn vị của Bộ Công an tổ chức đoàn kiểm tra liên ngành kiểm tra trực tiếp tại các doanh nghiệp viễn thông di động về công tác quản lý thông tin thuê bao, xử lý SIM rác, cuộc gọi quảng cáo không đúng quy định”, đại diện Cục Viễn thông cho hay.
+
+Ngân hàng hiện xác thực đa tầng với CSDL dân cư như đối soát thông tin chữ – đối soát ảnh sinh trắc, xác minh tình trạng giấy tờ. Đây là chuẩn xác thực đang được xem là cao nhất hiện nay cho eKYC tài chính.
+
+Đây chính là kinh nghiệm mà Bộ KH&CN đang tham khảo để áp dụng cho quản lý thông tin thuê bao, nhằm tiến tới chặn SIM rác theo cơ chế giống ngân hàng: không khớp ảnh thì không kích hoạt.
+
+Nhiều ý kiến cho rằng, xác thực ảnh chân dung với CSDL quốc gia về dân cư không phải là “đảm bảo tuyệt đối 100%”, nhưng nâng độ chính xác lên mức rất cao, cao hơn rất nhiều so với chỉ đối soát họ tên – CCCD – ngày sinh như hiện nay.
+
+Lý do là CSDL quốc gia về dân cư chứa dữ liệu ảnh gốc đã được xác thực bởi cơ quan công an tức không dùng ảnh chụp tự do, không photoshop, không ảnh scan chỉnh sửa…
+
+Việc xác thực sinh trắc khuôn mặt có sai số thấp hơn xác thực bằng chữ hay số bởi nó rất khó tạo thuê bao ảo hoặc thuê bao ẩn danh.
+
+Khi kết hợp đối soát giấy tờ so khớp ảnh thật thì xác suất gian lận gần như không thể qua được. Như vậy, việc xác thực ảnh chân dung với CSDL dân cư không phải là tuyệt đối, nhưng đây là ngưỡng xác thực cao nhất đang áp dụng trên thị trường và nó sẽ tạo rào chắn gần như đóng kín các cánh cửa mà SIM rác có thể lọt qua.
+
+Nhiều người dân đang rất mong chờ những biện pháp mạnh mẽ và hiệu quả từ các cơ quan quản lý để tránh những hệ lụy vô cùng to lớn mà hàng ngày người dân đang phải đối mặt.

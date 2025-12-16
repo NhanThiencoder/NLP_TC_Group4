@@ -1,0 +1,41 @@
+Tọa đàm “Luật An ninh mạng 2025: Bước tiến bảo vệ an ninh dữ liệu” do Hiệp hội An ninh mạng Quốc gia tổ chức ngày 24/11.
+
+An ninh dữ liệu lần đầu được luật hóa – lấp khoảng trống pháp lý của kỷ nguyên số
+
+Thời gian qua, Bộ Công an – cơ quan chủ trì soạn thảo đã chủ động hoàn thiện hồ sơ Dự án Luật An ninh mạng 2025 trình Quốc hội. Dự thảo lần này bổ sung nhiều quy định quan trọng nhằm tạo nền tảng pháp lý vững chắc giúp Việt Nam ứng phó hiệu quả với thách thức an ninh mạng, bảo vệ an ninh quốc gia và quyền lợi công dân trong kỷ nguyên số. Trong đó, điểm mới có ý nghĩa chiến lược là việc luật hóa nội dung đảm bảo an ninh dữ liệu.
+
+Dự thảo chính thức bổ sung và định nghĩa “an ninh dữ liệu” như một cấu phần quan trọng của an ninh mạng quốc gia. Đây là lần đầu tiên dữ liệu - yếu tố cốt lõi của chuyển đổi số – được đặt ở vị trí trung tâm trong khung pháp lý về an ninh mạng. An ninh dữ liệu được hiểu là việc bảo đảm hoạt động thu thập, cập nhật, điều chỉnh, xử lý dữ liệu phục vụ chuyển đổi số quốc gia và phát triển kinh tế số.
+
+Trong bối cảnh phần lớn các cuộc tấn công mạng hiện nay đều nhằm đánh cắp, mã hóa hoặc phá hủy dữ liệu, việc bổ sung nội dung này giúp khắc phục khoảng trống pháp lý, đồng thời nâng cao khả năng bảo vệ các hệ thống thông tin trọng yếu. Khi cơ quan, tổ chức, doanh nghiệp phải tuân thủ yêu cầu bảo vệ dữ liệu theo luật, những đơn vị chưa đủ điều kiện kỹ thuật hoặc nhân lực sẽ buộc phải chuyển sang phương thức khai thác dữ liệu an toàn hơn, giảm tình trạng tự ý xây kho dữ liệu rủi ro.
+
+Thay vì lưu trữ phân tán, các đơn vị có thể khai thác dữ liệu trực tiếp từ các cơ sở dữ liệu quốc gia hoặc sử dụng dịch vụ dữ liệu tin cậy của cơ quan nhà nước, doanh nghiệp đủ điều kiện. Cách tiếp cận này giúp giảm nguy cơ rò rỉ, tối ưu chi phí vận hành, đồng thời nâng cao năng lực quản trị dữ liệu của doanh nghiệp và tổ chức trong dài hạn.
+
+An ninh dữ liệu gắn chặt chuyển đổi số quốc gia
+
+Tại Tọa đàm “Luật An ninh mạng 2025: Bước tiến bảo vệ an ninh dữ liệu” do Hiệp hội An ninh mạng Quốc gia tổ chức ngày 24/11, thượng tá Nguyễn Đình Đỗ Thi, Phó Trưởng phòng An ninh thông tin mạng, Cục An ninh mạng và phòng chống tội phạm sử dụng công nghệ cao, cho hay bảo đảm an ninh mạng, an ninh dữ liệu của tổ chức và cá nhân là yêu cầu xuyên suốt, không thể tách rời trong quá trình phát triển khoa học, công nghệ, đổi mới sáng tạo và chuyển đổi số. Dự thảo Luật An ninh mạng 2025 xác định các chính sách trọng tâm của Nhà nước về đảm bảo an ninh mạng và an ninh dữ liệu.
+
+Thứ nhất, ưu tiên bảo vệ an ninh mạng trong quốc phòng, an ninh, kinh tế - xã hội, khoa học - công nghệ và đối ngoại. Thứ hai, xây dựng không gian mạng an toàn, không gây phương hại tới an ninh quốc gia và trật tự xã hội. Thứ ba, tập trung nguồn lực xây dựng lực lượng chuyên trách, phát triển nhân lực chất lượng cao, đẩy mạnh nghiên cứu - phát triển công nghệ an ninh mạng. Thứ tư, khuyến khích tổ chức, cá nhân tham gia xử lý nguy cơ, phối hợp với cơ quan chức năng. Thứ năm, ưu tiên sử dụng sản phẩm, dịch vụ công nghiệp an ninh mạng của Việt Nam. Thứ sáu, tăng cường hợp tác quốc tế bảo vệ an ninh mạng.
+
+Thượng tá Nguyễn Đình Đỗ Thi, Phó Trưởng phòng An ninh thông tin mạng, Cục An ninh mạng và phòng chống tội phạm sử dụng công nghệ cao, phát biểu tại tọa đàm.
+
+Theo ông Vũ Ngọc Sơn, Trưởng Ban Nghiên cứu, tư vấn, phát triển công nghệ và hợp tác quốc tế, Hiệp hội An ninh mạng Quốc gia, việc đưa “an ninh dữ liệu” thành nội dung trọng tâm phản ánh đúng xu hướng toàn cầu. Dữ liệu được ví như “dầu mỏ mới” của nền kinh tế số. Khi dữ liệu bị rò rỉ hoặc bị chiếm đoạt, thiệt hại không chỉ dừng ở kinh tế mà còn ảnh hưởng tới an ninh quốc gia và lòng tin xã hội. Việc coi dữ liệu là tài nguyên chiến lược cần được bảo vệ theo chuẩn mực cao nhất là bước đi mang tính kiến tạo, thể hiện tư duy quản trị hiện đại của Việt Nam.
+
+Ông Vũ Ngọc Sơn, Trưởng Ban Nghiên cứu, tư vấn, phát triển công nghệ và hợp tác quốc tế, Hiệp hội An ninh mạng Quốc gia.
+
+Các rủi ro liên quan đến dữ liệu phải được kiểm soát nghiêm ngặt. Việc nhấn mạnh an ninh dữ liệu trong luật phản ánh tư duy quản lý hiện đại, phù hợp với bối cảnh dữ liệu trở thành yếu tố sống còn của mọi tổ chức. Đây là một bước đi chiến lược, kịp thời và vô cùng cần thiết. Nó không chỉ lấp đầy khoảng trống pháp lý, mà còn thể hiện tầm nhìn của Việt Nam trong việc chủ động kiến tạo một không gian mạng an toàn, minh bạch, coi việc bảo vệ dữ liệu là nền tảng cốt lõi để phát triển bền vững trong kỷ nguyên số.
+
+“Một trong những điểm mới của Dự thảo Luật An ninh mạng 2025 là đã nhấn mạnh vai trò và trách nhiệm đặc biệt của người đứng đầu cơ quan, tổ chức, doanh nghiệp trong bảo đảm an ninh mạng. Theo quy định, người đứng đầu không chỉ chịu trách nhiệm triển khai hoạt động bảo vệ trong phạm vi quản lý, mà còn phải đáp ứng yêu cầu về kiến thức và kỹ năng liên quan đến an ninh mạng. Quy định này phản ánh đúng thực tiễn: an ninh mạng chỉ thực sự hiệu quả khi được đặt ở vị trí ưu tiên trong quản trị và ra quyết định. Nếu người đứng đầu không hiểu về an ninh mạng, mọi chiến lược, quy trình, đầu tư kỹ thuật và phân công nhân sự đều có nguy cơ chỉ mang tính hình thức hoặc triển khai thiếu trọng tâm. Ngược lại, khi lãnh đạo có hiểu biết và kỹ năng đủ sâu, các quyết sách về bảo vệ hệ thống thông tin, về đầu tư công nghệ, về tổ chức nhân sự và vận hành dữ liệu sẽ đi đúng hướng, phát huy hiệu quả và bảo đảm tính bền vững”, ông Vũ Ngọc Sơn chia sẻ thêm.
+
+Doanh nghiệp nói gì về tác động của Luật An ninh mạng 2025?
+
+Theo ông Trần Công Quỳnh Lân, Phó Tổng Giám đốc VietinBank, việc tuân thủ sớm Luật An ninh mạng 2025 giúp ngân hàng củng cố vị thế tiên phong về an toàn thông tin, tạo lợi thế cạnh tranh so với các đơn vị chưa kịp hoàn thiện quy trình giám sát và bảo vệ dữ liệu. Đây cũng là cơ hội để VietinBank chuẩn hóa quản trị dữ liệu theo tiêu chuẩn quốc tế, phát triển khung quản trị dữ liệu (Data Governance Framework) và tạo nền tảng vững chắc cho các chương trình ứng dụng AI, phân tích dữ liệu trong tương lai.
+
+Ông Trần Công Quỳnh Lân, Phó Tổng Giám đốc VietinBank.
+
+Ở góc độ hạ tầng viễn thông, ông Lê Công Trung, Trưởng BU An ninh mạng, MobiFone, nhận định yếu tố con người vẫn là chìa khóa bảo vệ hệ thống. Đội ngũ kỹ thuật phải am hiểu sâu về mạng lõi, thiết bị, giao thức, có khả năng xử lý sự cố nhanh và tuân thủ kỷ luật bảo mật tuyệt đối. Theo ông, “an ninh mạng từ hạ tầng” là nền tảng bảo vệ không gian số quốc gia, đặc biệt trong giai đoạn chuyển đổi số mạnh mẽ của Việt Nam. MobiFone khẳng định tiếp tục đầu tư hiện đại hóa hạ tầng, phát triển dịch vụ an ninh mạng, đồng hành cùng cơ quan, tổ chức trong xây dựng môi trường số an toàn, tin cậy.
+
+Ông Lê Công Trung, Trưởng BU An ninh mạng, MobiFone: Yếu tố con người vẫn là chìa khóa bảo vệ hệ thống.
+
+Các ý kiến tại tọa đàm đều thống nhất rằng để triển khai hiệu quả quy định mới, cơ quan quản lý cần khẩn trương ban hành tiêu chuẩn, quy chuẩn kỹ thuật về an ninh mạng; doanh nghiệp cần chủ động xây dựng mô hình quản trị an ninh mạng và đặc biệt là quản trị dữ liệu toàn diện – bao gồm phân loại, mã hóa, lưu trữ an toàn, giám sát và ứng phó sự cố. Người dân cũng cần nâng cao nhận thức về quyền dữ liệu và trách nhiệm khi chia sẻ thông tin trên môi trường số.
+
+Dự thảo Luật An ninh mạng 2025 vì vậy được xem là bước đi chiến lược, tạo hành lang pháp lý đồng bộ cho phát triển kinh tế số, bảo vệ dịch vụ số thiết yếu và bảo đảm quyền lợi của người dân, doanh nghiệp trong không gian mạng. Đây là dấu mốc quan trọng trên hành trình xây dựng môi trường số an toàn, minh bạch và phát triển bền vững của Việt Nam.

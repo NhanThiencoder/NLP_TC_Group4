@@ -1,0 +1,21 @@
+Có một lớp học đặc biệt tại phố Trần Khát Chân - Hà Nội. Khóa học có 13 học viên, chỉ kéo dài trong 8 buổi với nội dung đặc biệt: dạy làm vi mạch điều khiển, hướng dẫn và tư vấn lập trình cho "não" robot. Thầy giáo là một sinh viên (SV) 21 tuổi, đến từ Trường ĐH Bách khoa Hà Nội.
+
+Hơn một năm trước, Nguyễn Huy Thanh mới là SV năm thứ 3, chưa biết gì về robot, vi mạch nhưng rồi cơn sốt robocon đã cuốn cậu SV này vào niềm đam mê mới. Thanh bộc bạch: "Hồi trước tụi mình bắt đầu từ con số không, phải mất đến 6 tháng mới làm cho những bánh xe của robot SPM chạy theo chương trình đã lập sẵn. Chính vì vậy, mình muốn giúp các bạn đam mê robot mà chưa có kinh nghiệm thực tế nắm được những kiến thức cơ bản, từ đó có thể chế tạo thứ "đồ chơi trí tuệ" này trong thời gian ngắn nhất".
+
+Với suy nghĩ này, Thanh đã quyết định mở lớp dạy học viên cách làm "não" robot trong căn nhà rộng hơn hai chục mét vuông cuối đường Trần Khát Chân, vốn là phòng trọ của một người bạn. "Tại sao Thanh chỉ hướng dẫn làm "não" robot ?", tôi hỏi. Thanh chỉ vào con robot chằng chịt dây và các bảng mạch: "Để làm robot cần có kiến thức về cơ khí, lập trình, điện tử, vi điều khiển... nhưng quan trọng nhất và tốn nhiều thời gian nhất là làm bộ não tức là trung tâm điều khiển sao cho robot đi đúng đường, đúng ý đồ chiến thuật, biết hoạt động theo chương trình mình lập ra".
+
+"Ông thầy sinh viên" cho các SV thực nghiệm trên con robot SPM kỷ niệm
+
+"Muốn có học viên phải quảng cáo", Thanh nghĩ thế và cậu cùng hai người bạn thân kiêm luôn công việc marketing. Ngay hôm sau, nhiều SV trong trường bàn tán về hàng trăm tờ rơi giới thiệu về một lớp dạy làm robot với cái tên bắt mắt: Robocon 2006.
+
+
+Với cuộc "tấn công tổng lực" trên nhiều “mặt trận” thông tin, cuối cùng, lớp học cũng đã được khai giảng. Học phí được ấn định là 250 ngàn đồng/SV/8 buổi... Trong căn nhà tại con phố nhỏ cuối đường Trần Khát Chân, "thầy giáo" Nguyễn Huy Thanh bắt đầu vạch ra trên tấm bảng trắng các vấn đề lý thuyết cơ bản. Thanh cho biết, tất cả tài liệu đã được phát ngay từ đầu khóa học. Còn về dụng cụ thực hành, mỗi học viên được trang bị một bảng mạch, một con chip, LED ma trận, LED 7 thanh điện trở, transitor, IC ổn áp, diode, động cơ, loa mini, nguồn và mạch nạp, thạch anh...
+
+Huy Thanh (áo trắng): “Đừng, phải lắp ngược lại! Thôi, vậy là mất 17 ngàn đồng rồi!”
+
+Hai vấn đề "xương" nhất - ráp mạch và làm sao để mọi người hiểu được file lập trình cho chip - cũng được Thanh thực hành ngay trên máy tính trước các học viên. Thời gian học quy định trong 2 giờ (từ 18 - 20h) nhưng chưa khi nào căn nhà ấy vắng tiếng học viên trước 21h. Có những học viên như Chí Dũng, một SV "mù tịt" về robot trước khi đến lớp, luôn đến sớm về muộn, liên tục hỏi thầy để rồi giờ đây cũng lắp mạch ngon lành. Một học viên khác tên Phương, từ Trường ĐH Thủy lợi, cũng đang chuẩn bị lắp ráp chú robot của mình, “quay” thầy như chong chóng bằng đủ câu hỏi.
+
+Khóa học đầu tiên kết thúc, ông thầy trẻ gần... cháy túi. Thế nhưng Thanh vẫn cười: "Có ngày các học viên làm cháy tới 13 con chip, tính sơ sơ mỗi con 17 ngàn là em đã mất 200 ngàn đồng. Nhưng không sao, cái quan trọng là những học viên đã có được cái họ cần. Từ những kỹ năng cơ bản, họ có thể làm ra những con robot của riêng mình. Mùa robocon tới, biết đâu chẳng có vài chú từ "lò" này mà ra. Nghĩ đến điều đó là em vui rồi".Lắc lắc chú robot nằm giữa nhà, cậu khẳng định chắc nịch: "Giữa tháng 11 tới, em sẽ khai giảng lớp mới".
+
+
+

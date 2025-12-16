@@ -1,0 +1,49 @@
+“Ai cũng nói điều đó là không thể, nhưng tôi có niềm tin”
+
+Raymond Kai-yu Tong, giáo sư Đại học Trung văn Hồng Kông, Trung Quốc, có cha mẹ là nhân viên công tác xã hội. Công việc chính của họ là hỗ trợ người khuyết tật. Do đó, từ khi còn nhỏ, Raymond thường được cha mẹ đưa đến các trung tâm chăm sóc người già khuyết tật để làm tình nguyện viên.
+
+Tại đó, Raymond vừa hỗ trợ các cụ ông, cụ bà trong sinh hoạt, vừa trò chuyện, tâm tình với họ.
+
+“Các trung tâm rất hiện đại. Người già được chăm sóc chu đáo bởi các nhân viên y tế và cả hệ thống robot hỗ trợ. Nhưng điều đó là chưa đủ với chính họ”, GS Raymond Kai-yu Tong, kể.
+
+GS Raymond Kai-yu Tong (Ảnh: VFT).
+
+Một ngày, cụ bà mà Raymond thường chăm sóc nhìn ông bật khóc và nói: “Raymond à, anh còn trẻ, anh là nhà khoa học. Anh có thể làm gì đó để tôi có thể lấy lại cuộc sống độc lập không?”.
+
+Cụ bà bị đột quỵ đã hơn 2 năm, đôi tay co quắp không còn khả năng cử động như người bình thường. Bà không muốn người khác chăm sóc mình, cũng không muốn robot giúp. Điều bà mong muốn là sống độc lập, không trở thành gánh nặng cho những người xung quanh, gia đình hay xã hội.
+
+Ý nguyện của cụ bà trong viện dưỡng lão đã bám theo Raymond suốt hơn 20 năm qua.
+
+“Khi ấy tôi còn trẻ, tôi có nhiều định hướng nghề nghiệp khác nhau chứ không nhất thiết phải theo con đường này. Nhưng khi nghe bà nói, tôi thực sự suy nghĩ.
+
+Nếu là nhân viên công tác xã hội như cha mẹ tôi, tôi chỉ có thể giúp họ đáp ứng những nhu cầu trước mắt. Còn nếu làm nhà khoa học, tôi có thể thay đổi cuộc đời họ”, GS Raymond Kai-yu Tong nói về lý do theo đuổi nghiên cứu cánh tay robot có khả năng đọc được suy nghĩ của con người suốt 2 thập kỷ qua.
+
+Trên hành trình sự nghiệp sau này, GS Raymond gặp nhiều hoàn cảnh tương tự và thấu hiểu hơn nỗi khao khát của người khuyết chức năng vận động. Một người cha bị đột quỵ vừa có con nhỏ khao khát được tự tay bế đứa con của mình. Một em bé bị liệt cánh tay sau phẫu thuật tim bẩm sinh muốn tự mình cầm nắm đồ vật.
+
+Không ít lần các bác sĩ đã nói với Raymond rằng “Điều đó là không thể. Anh không thể làm được gì đâu”. Song, vị giáo sư lớn lên qua những buổi tình nguyện tại viện dưỡng lão kiên định tin là “có thể”.
+
+Niềm hy vọng mới cho bệnh nhân đột quỵ và trẻ bại não
+
+Trong bài diễn thuyết truyền cảm hứng tại Tọa đàm Khoa học - Công nghệ VinFuture, GS Raymond Tong đã giới thiệu về “bàn tay hy vọng” và cơ nhân tạo XoMuscle - hai phát minh đưa ông trở thành một trong các nhà khoa học được trích dẫn nhiều nhất thế giới trong lĩnh vực robot phục hồi chức năng.
+
+Thiết bị “bàn tay hy vọng” là một bàn tay robot có khả năng “đọc” được ý định vận động từ não. Khi người bệnh đeo bàn tay này vào, robot sẽ giúp bàn tay thật thực hiện các động tác nắm - mở.
+
+Điều khác biệt giữa bàn tay robot của GS Raymond với các sáng chế trước đó là việc nó không làm thay cánh tay thật. Nó chỉ hỗ trợ cánh tay thật làm việc bằng cách kích hoạt các tín hiệu thần kinh, buộc não bộ học lại chức năng đã mất do tổn thương.
+
+Công nghệ tưởng như khoa học viễn tưởng này được ông xây dựng dựa trên cơ sở khoa học rằng: não người chỉ sử dụng khoảng 10% công suất trong trạng thái bình thường, còn 90% còn lại là “nguồn dự phòng” có thể đánh thức thông qua luyện tập đúng cách.
+
+Hành trình tạo ra bàn tay hy vọng không dễ dàng. Từ những phiên bản đầu tiên cồng kềnh và cứng nhắc, GS Raymond quan sát từng đốt ngón, từng chuyển động nhỏ của bàn tay người trong nhiều năm để cải tiến vật liệu, tạo ra bàn tay robot mềm hơn, nhẹ hơn và gần gũi hơn với cơ thể thật.
+
+Khi công nghệ robot mềm ra đời, nó mở ra hướng phát triển cho những thiết bị phục hồi chức năng tinh vi hơn. Từ nền tảng đó, nhóm nghiên cứu của GS Raymond tiếp tục tạo ra cơ nhân tạo mềm XoMuscle - một thiết bị có độ linh hoạt gần như cơ thật. Người bệnh có thể mang hoặc mặc XoMuscle để được hỗ trợ vận động, tập luyện ngay tại nhà.
+
+Những công nghệ này, vốn được thiết kế cho bệnh nhân đột quỵ, ngày nay đã được mở rộng sang phục hồi chức năng sau phẫu thuật và hỗ trợ trẻ bại não.
+
+Tại Úc, một em bé bại não chưa từng biết đi đã có thể tự đứng dậy sau 15 buổi tập với cơ nhân tạo. Nhờ cơ chế kết nối tín hiệu giữa não bộ và robot mà GS Raymond phát triển, tỷ lệ phục hồi vận động trước đây chỉ khoảng 10% nay có thể đạt tới 80%.
+
+Không chỉ dừng lại ở lĩnh vực y học, robot mềm còn được thử nghiệm trong thể thao và các hoạt động ngoài trời để tối ưu hóa sức mạnh cơ bắp. Xa hơn, GS Raymond tin rằng robot mềm sẽ trở thành nền tảng để phát triển những hệ thống có khả năng hỗ trợ toàn bộ cơ thể con người trong tương lai.
+
+Vào thứ 6 tuần này, ngày 5/12, GS Raymond Kai-yu Tong sẽ đến Trường Đại học Y Hà Nội thuyết trình giới thiệu về công nghệ robot mềm. “Chúng tôi mong muốn có thể ứng dụng cho các bệnh nhi tại Việt Nam”, GS Raymond Kai-yu Tong chia sẻ.
+
+Giáo sư Raymond Kai-yu Tong lấy bằng Tiến sĩ Kỹ thuật sinh học tại Anh. Hiện ông là Giáo sư Đại học Trung văn Hồng Kông kiêm Chủ tịch sáng lập Ban Kỹ thuật y sinh. Ông cũng là thành viên của Viện Hàn lâm Kỹ thuật y học và Sinh học Hoa Kỳ.
+
+Lĩnh vực nghiên cứu của ông tập trung vào robot phục hồi chức năng, giao diện não - máy tính, kỹ thuật thần kinh và kích thích điện chức năng.

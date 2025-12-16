@@ -1,0 +1,39 @@
+Năm 2035, khi Mỹ vẫn đang tranh cãi về NGAD giá 300 triệu USD/chiếc và Trung Quốc chỉ mới khoe mô hình J-36, Nhật Bản cùng Anh và Ý sẽ chính thức biên chế máy bay chiến đấu thế hệ thứ 6 thực thụ mang tên GCAP (còn gọi là Mitsubishi F-X). Đây không chỉ là một chiếc tiêm kích tàng hình nữa, mà là 'bộ não bay' điều khiển cả đàn drone chiến đấu, bắn vũ khí năng lượng định hướng, siêu hành trình Mach 1.8 không cần đốt tăng lực và có diện tích phản xạ radar nhỏ hơn cả F-22. Và điều đáng sợ nhất: giá chỉ bằng hai phần ba NGAD của Mỹ. Liệu đây có phải là cơn ác mộng mới của cả Bắc Kinh lẫn Washington?
+
+Máy bay chiến đấu thế hệ thứ 6 - GCAP (Global Combat Air Programme) sẽ có tải trọng vũ khí gấp đôi so với F-35. Ảnh: avweb.com
+
+Về hình dáng bên ngoài, tiêm kích thế hệ 6 GCAP sở hữu thiết kế cánh kim cương (cranked-arrow delta wing) kết hợp cánh mũi (canard) nhỏ phía trước, không đuôi đứng truyền thống, giúp giảm mạnh tín hiệu radar và hồng ngoại.
+
+Thân máy bay sử dụng vật liệu composite hấp thụ sóng radar thế hệ mới cùng lớp phủ tàng hình cải tiến từ dự án Tempest của Anh, khiến diện tích phản xạ radar (RCS) được ước tính chỉ còn dưới 0,001 m² ở dải tần X – thấp hơn đáng kể so với F-22 và F-35 hiện nay.
+
+Kích thước tổng thể hiện rõ tham vọng chiếm ưu thế không chiến đường dài: chiều dài khoảng 21–22 mét, sải cánh 14–15 mét, lớn hơn đáng kể F-35A và gần bằng F-15J hiện tại của Không quân Nhật Bản, cho phép mang tải trọng vũ khí và nhiên liệu khổng lồ.
+
+Trái tim của GCAP là cặp động cơ phản lực đẩy biến chu kỳ (variable-cycle) XF9-1 do IHI Corporation phát triển, mỗi chiếc cung cấp lực đẩy khô 11 tấn và 15–16 tấn khi đốt tăng lực, tổng lực đẩy tối đa vượt 32 tấn.
+
+Đặc biệt, động cơ này có thể chuyển đổi nhanh giữa chế độ tiết kiệm nhiên liệu cho hành trình siêu thanh dài và chế độ tối đa công suất cho siêu cơ động cận âm.
+
+Nhờ đó, GCAP đạt tốc độ tối đa trên Mach 2 và khả năng siêu hành trình (supercruise) bền vững Mach 1.6–1.8 mà không cần đốt tăng lực, ngang ngửa F-22 nhưng tầm bay xa hơn nhiều, ước tính bán kính chiến đấu trên 1.500 km chỉ với nhiên liệu trong thân, chưa tính thùng phụ.
+
+Điểm đột phá thực sự nằm ở hệ thống điện tử và trí tuệ nhân tạo (AI). GCAP được trang bị radar quét mảng pha chủ động (AESA) thế hệ mới sử dụng vật liệu gallium nitride (GaN) với số lượng phần tử T/R lên tới hơn 20.000, cho khả năng phát hiện mục tiêu tàng hình ở cự ly hơn 400 km.
+
+Hệ thống tác chiến điện tử tích hợp (Integrated Sensing & Non-Kinetic Effects) kết hợp cảm biến hồng ngoại phân bố 360 độ, cảm biến sóng milimet và khả năng gây nhiễu chủ động thông minh bằng AI.
+
+Ảnh: DALL-E
+
+Quan trọng hơn, máy bay có khoang vũ khí nội thất cực lớn (gấp đôi F-35) và 6–8 điểm treo ngoài khi không cần tàng hình tuyệt đối, cho phép mang đồng thời tên lửa không đối không Meteor, tên lửa hành trình JASSM-ER, tên lửa chống hạm Type 12 cải tiến và đặc biệt là vũ khí năng lượng định hướng (directed-energy weapon) đang được phát triển chung bởi BAE Systems và Mitsubishi Heavy Industries.
+
+Khả năng hoạt động như “máy bay mẹ” điều khiển đàn drone chiến đấu là tính năng định nghĩa thế hệ 6 thực sự của GCAP.
+
+Máy bay có thể dẫn dắt đồng thời 6–10 Loyal Wingman (UAV chiến đấu có khả năng phối hợp tác chiến trên không cùng máy bay phản lực có người lái) (Combat Collaborative Aircraft – CCA) do Nhật Bản, Anh và Ý cùng phát triển.
+
+Những drone này sẽ đảm nhận vai trò trinh sát, gây nhiễu, mang thêm vũ khí hoặc thậm chí tấn công cảm tử, trong khi phi công (hoặc AI trong tương lai) ngồi trên GCAP chỉ cần ra quyết định chiến thuật cấp cao.
+
+Hệ thống buồng lái sử dụng kính thực tế ảo tăng cường toàn phần, màn hình cảm ứng lớn và điều khiển bằng giọng nói kết hợp cử chỉ, giảm tải cho phi công xuống mức tối thiểu.
+
+Về chi phí, mỗi chiếc GCAP được dự tính khoảng 200–250 triệu USD (giá năm 2025), rẻ hơn đáng kể so với NGAD của Mỹ (dự kiến trên 300 triệu USD).
+
+Nhật Bản dự kiến mua ít nhất 120 chiếc để thay thế toàn bộ phi đội F-2, trong khi Anh và Ý mỗi nước khoảng 70–90 chiếc. Các quốc gia như Ả Rập Xê Út, Úc, Ấn Độ và thậm chí Indonesia đã bày tỏ sự quan tâm mạnh mẽ.
+
+Với việc đã hoàn thành thiết kế sơ bộ, bắt đầu chế tạo mô hình thử nghiệm kích thước thật và dự kiến động cơ XF9-1 bay thử năm 2027, GCAP đang là chương trình máy bay chiến đấu thế hệ 6 tiến nhanh nhất thế giới hiện nay.
+
+Khi chính thức biên chế năm 2035, GCAP không chỉ giúp Nhật Bản lấy lại vị thế cường quốc hàng không quân sự mà còn tạo nên một trật tự mới trên bầu trời châu Á – Thái Bình Dương, nơi mà cả F-35 lẫn J-20 đều sẽ phải nhường bước trước “quái vật bầu trời” đến từ xứ sở mặt trời mọc.

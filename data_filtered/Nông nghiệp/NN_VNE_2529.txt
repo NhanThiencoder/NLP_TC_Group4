@@ -1,0 +1,13 @@
+Trong khi nhiều người vẫn ao ước được dùng thử dịch vụ Internet không dây tốc độ cao, những con bò ở Anh đã được trải nghiệm 5G sớm.
+
+Theo Reuters, Cisco đang thử nghiệm cơ sở hạ tầng cho việc giới thiệu 5G trên toàn cầu bằng việc áp dụng thử vào các ngành công nghiệp khác nhau, trong đó bao gồm cả nông nghiệp. Cụ thể, công ty đang thử nghiệm 5G ở ba địa điểm tại khu vực nông thôn bằng cách cho nông dân truy cập thông tin vào vòng cổ của những con bò thông qua 5G. Những chiếc vòng cổ này cũng được gắn thẻ cho phép người quản lý theo dõi đàn bò từ xa, cũng như thông tin sức khỏe của chúng thông qua dữ liệu sinh trắc học.
+
+Những con bò được trải nghiệm dịch vụ 5G trước nhiều người dùng Internet. Ảnh: Steemit.
+
+Một trong ba địa điểm tham gia thử nghiệm là trung tâm đổi mới kỹ thuật nông nghiệp do chính phủ tài trợ, mang tên Agri-EPI ở Shepton Mallet, một thị trấn nhỏ phía tây nam nước Anh. Khoảng 180 con bò đã được trang bị vòng cổ và thẻ 5G.
+
+Theo các chuyên gia, trang trại thường có không gian rộng và những con bò dễ bị xáo trộn giữa các bãi chăn thả, khu vực vắt sữa hay một số địa điểm khác. Với vòng cổ 5G, nông dân có thể theo dõi các con vật vào mọi thời điểm trong ngày mà không cần phải ra ngoài để quan sát.
+
+Ngoài ra, vòng cổ thông minh 5G giúp tự động hóa quy trình vắt sữa bằng cách giao tiếp không dây với hệ thống vắt sữa, cho phép con bò tiếp cận trạm một cách thoải mái. Sau khi đi qua cổng, được kiểm tra ID, chúng sẽ được kết nối với robot vắt sữa, không cần có sự can thiệp của con người.
+
+"Chúng tôi có thể kết nối mọi con bò hay bất kỳ con vật nào trong trang trại này", Giám đốc Nick Chrissos từ Cisco chia sẻ. "Đó là những gì 5G có thể làm cho nông nghiệp, thực sự giải phóng sức mạnh của các trang trại ở khắp mọi nơi trên nước Anh cũng như toàn thế giới".

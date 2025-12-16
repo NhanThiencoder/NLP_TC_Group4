@@ -1,0 +1,14 @@
+ Anh sinh viên &amp; chàng robot “ma trận”
+
+Luân kể: hồi SV năm 2, một lần xem tivi thấy robot chuyển vật dụng cứ ám ảnh lấy Luân. Hỏi ra mới biết giá thành lên tới gần cả tỉ đồng. Luân âm thầm nuôi quyết tâm “mình cũng có thể chế tạo những con robot đơn giản với giá rẻ hơn nhiều và làm việc hiệu quả không kém”. Thế rồi phải mất cả năm trời mày mò sách vở, lội chợ Nhật Tảo (Q.10) tìm kiếm linh kiện điện tử, “robot chuyển hàng di chuyển theo ma trận” cũng ra lò. 
+
+Các giải pháp tiết kiệm cho robot do Luân chế tạo tập trung ở ba điểm. Luân đã tự chế tạo một loại đầu dò vạch tự động ADC, có tính thông minh và tin cậy, nhưng giá thành lại rất thấp so với bộ dò tích hợp nhập khẩu (giá phần cứng của một cảm biến dùng cho công trình này chỉ 1 USD so với giá gần 100 USD của hàng nhập khẩu). Hầu hết các robot cùng loại do nước ngoài chế tạo có bộ xử lý tín hiệu và điều khiển bằng PET, robot của Luân dùng vi điều khiển AT89C51 có thể linh hoạt áp dụng để vận chuyển nhiều loại hàng hóa khác nhau. 
+
+Tại hội nghị nghiên cứu khoa học SV ĐH bán công Tôn Đức Thắng lần 4 vừa qua, đề tài “Thiết kế và thi công robot chuyển hàng di chuyển theo ma trận” của Đào Trung Luân đã được trao giải A. Cũng với đề tài này, Luân vừa bảo vệ thành công luận án tốt nghiệp ĐH của mình và kiếm được đầy đủ sáu điểm 10 của hội đồng; đồng thời bước đầu đề tài được một công ty tự động hóa chú ý, đặt hàng. Đây là robot thông minh và dễ tính. Giao tiếp với người sử dụng rất thân thiện qua màn hình LCD, hiển thị hướng dẫn, trạng thái robot khá rõ ràng, nhập lệnh bằng phím dễ dàng. Nhận lệnh bằng bàn phím 4X4 nên công nhân không rành máy móc cao siêu cũng thao tác dễ dàng. Trong quá trình di chuyển gặp vật cản robot sẽ dừng lại và báo động, sau khi báo động mà chẳng ăn thua, robot lùi lại tìm đường đi khác. Khi không thực hiện được lệnh, báo động đàng hoàng. 
+
+Chú robot này có thể hoán cải dùng cho rất nhiều công việc khác nhau, nặng thì có thể bốc, chuyển gạch, hàng hóa to cồng kềnh; nhẹ nhàng thì có thể gắp một chiếc đĩa CD ngon lành. Tưởng tượng một cửa hàng có 65.000 đĩa CD, nhân viên chỉ cần nhập lệnh tên hay vị trí của đĩa là cánh tay thông minh tự đi tới ngăn chứa lấy mang về. Một giá trị cộng thêm của robot nữa là có thể di chuyển dễ dàng trong điều kiện nhà xưởng nhỏ, sàn mấp mô rất phổ biến ở nhà xưởng VN. 
+
+Đào Trung Luân tự tin: “Với nguyên lý của robot này, VN hoàn toàn có thể sản xuất những robot chuyển hàng tự động với giá cả thấp hơn rất nhiều robot nhập ngoại. Robot chuyển gạch (nhập ngoại) ở VN hiện nay trị giá khoảng 700 triệu đồng, nhưng hàng VN chất lượng tương đương chỉ khoảng 300 triệu và sẽ còn rẻ hơn nếu sản xuất hàng loạt”. 
+
+
+

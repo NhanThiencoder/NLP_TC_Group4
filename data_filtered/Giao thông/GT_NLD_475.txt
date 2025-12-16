@@ -1,0 +1,37 @@
+CLIP: Camera AI tại các giao lộ trung tâm TP HCM.
+
+Theo đại diện Phòng CSGT, Công an TP HCM, 31 camera AI của thành phố tập trung ở 8 tuyến đường chính gồm: Điện Biên Phủ, Võ Thị Sáu, Nguyễn Thị Minh Khai, Nguyễn Thị Định, Đặng Phúc Vịnh, Nguyễn Hữu Cảnh, Pasteur, Xô Viết Nghệ Tĩnh.
+
+Camera AI được lắp đặt ở giao lộ Pasteur - Nguyễn Thị Minh Khai. Trong ảnh, 3 xe máy dừng quá vạch sẽ bị camera AI ghi lại.
+
+Đây là những tuyến có lưu lượng xe cao, thường xảy ra vi phạm và có một số giao lộ trọng điểm thường xuyên ùn tắt giao thông giờ cao điểm.
+
+Đáng chú ý của camera AI là có thể nhận diện đa lỗi cùng lúc, tức là phát hiện lỗi vi phạm trên cùng một phương tiện hoặc nhiều phương tiện trong một khung hình.
+
+Các lỗi như vượt đèn đỏ, đi sai làn đường, không đội mũ bảo hiểm, chạy ngược chiều... sẽ bị camera AI ghi lại. Trong ảnh, một tài xế xe ôm công nghệ chạy ngược chiều.
+
+Sau khi phát hiện vi phạm, hệ thống AI sẽ trích xuất hình ảnh hoặc video liên quan, bao gồm: thời gian, địa điểm, hành vi vi phạm và đặc biệt là biển số xe (sử dụng công nghệ nhận diện biển số xe – ANPR).
+
+
+
+Dữ liệu này được chuyển về Trung tâm Chỉ huy giao thông hoặc cơ quan công an có thẩm quyền. Sau đó, cán bộ chức năng tại Trung tâm tiến hành kiểm tra, phân tích tính chính xác của dữ liệu vi phạm do camera AI cung cấp.
+
+Ngay sau đó, lực lượng chức năng sẽ lập danh sách phương tiện vi phạm, sau đó chuyển bộ phận tạo lập thông báo vi phạm; cán bộ tiếp nhận danh sách phương tiện vi phạm – nhập dữ liệu danh sách lên phần mềm xử lý vi phạm của Cục CSGT (Bộ Công an). Thời hạn 10 ngày kể từ ngày phát hiện vi phạm phải ra thông báo và gửi cho chủ phương tiện theo quy định.
+
+Xe máy khi đến các giao lộ có trụ đèn tín hiệu phải dừng trước vạch trắng. Trong ảnh các xe máy, ô tô đã tuân thủ theo quy định.
+
+Trong thời hạn quy định (10 ngày kể từ ngày phát hiện), cơ quan công an sẽ truy xuất thông tin về chủ phương tiện (tổ chức, cá nhân) thông qua cơ sở dữ liệu đăng ký xe hoặc cơ sở dữ liệu Quốc gia về dân cư.
+
+Sau khi xác định chính xác thông tin, tiến hành lập hồ sơ vi phạm theo quy định. Theo đó, người dân có thể tra cứu trên Trang thông tin điện tử của Cục CSGT.
+
+Tại Trung tâm Chỉ huy giao thông, dữ liệu sẽ được phân tích rõ ràng.
+
+Hai em nhỏ chạy xe máy điện tại giao lộ Điện Biên Phủ - Lê Quý Đôn. Tại giao lộ này camera AI nên tình huống trên sẽ bị ghi lại.
+
+Một xe máy dừng sai vạch ở giao lộ Điện Biên Phủ - Trương Định. Đây là giao lộ có gắn camera AI.
+
+Tình trạng vi phạm giao thông ở trung tâm TP HCM theo ghi nhận có giảm so với trước đây.
+
+Tại đường Hai Bà Trưng, đoạn giao đường Võ Thị Sáu (phường Tân Định, TP HCM) có lắp đặt camera AI. Trước đây, người dân khu vực không lạ gì chuyện người đi xe máy tự ý lấn làn, nối đuôi nhau chạy ngược chiều trên đường Hai Bà Trưng, đặc biệt giờ cao điểm sáng chiều. Song đến nay tình trạng trên đã giảm đáng kể.
+
+Một camera AI được gắn trên đường Hai Bà Trưng, đây là khu vực thường xuyên xảy ra tình trạng leo lề.

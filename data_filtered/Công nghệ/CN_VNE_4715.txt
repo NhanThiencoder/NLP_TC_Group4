@@ -1,0 +1,11 @@
+Sửa file IO.SYS (1)
+
+Tôi muôn sửa file IO.SYS nhưng dùng Edit de sửa thì nó không chạy được. Xin các bạn chỉ giúp có chương trình nào có thể sửa được hoặc sửa bằng các lệnh trong DOS thì làm thế nào? Xin cảm ơn.
+
+Anh Trung
+
+Hồi âm:
+
+
+
+

@@ -1,0 +1,49 @@
+Bộ Khoa học và Công nghệ đề xuất luật hóa quy định mã vạch để ứng dụng công nghệ trong truy xuất sản phẩm hàng hóa và phù hợp quy định quốc tế.
+
+Bộ Khoa học và Công nghệ đang dự thảo Luật sửa đổi, bổ sung một số điều của Luật Chất lượng sản phẩm, hàng hóa. Một trong điểm mới của dự luật là quy định về mã vạch với sản phẩm, hàng hóa.
+
+Theo đó, mã vạch là phương thức lưu trữ và truyền tải thông tin của mã số bằng: loại ký hiệu vạch tuyến tính (mã vạch một chiều); tập hợp điểm (Data Matrix, QRcode, PDF417, mã vạch hai chiều); chip nhận dạng qua tần số vô tuyến (RFID) và các công nghệ nhận dạng khác.
+
+Bộ Khoa học và Công nghệ giúp Chính phủ thống nhất quản lý nhà nước
+
+về ứng dụng công nghệ trong việc giám sát, quản lý chất lượng sản phẩm, hàng
+
+hóa, bao gồm mã số, mã vạch, truy xuất nguồn gốc sản phẩm, hàng hóa, nhãn điện tử và các công nghệ dựa trên nền tảng mã số, mã vạch.
+
+Theo cơ quan soạn thảo, ứng dụng công nghệ là một trong những biện pháp để quản lý chất lượng sản phẩm, hàng hóa, trong đó có ứng dụng mã số, mã vạch, ghi nhãn điện tử. Mã số, mã vạch là một công cụ hữu hiệu được ứng dụng phổ biến trong quản lý và được sử dụng bởi tất cả các bên trong chuỗi cung ứng như nhà sản xuất, bán lẻ, dịch vụ vận chuyển, cơ quan quản lý, người tiêu dùng.
+
+Trong bối cảnh cách mạng công nghiệp lần thứ tư, Mỹ, EU, Trung Quốc, Hàn Quốc, Nhật Bản, Úc, Thái Lan... cũng ứng dụng mã số, mã vạch trong việc giám sát, quản lý chất lượng sản phẩm. Ghi nhãn điện tử cũng giúp cho việc kết nối, thu thập, chia sẻ thông tin về sản phẩm.
+
+Từ đó, các bên tham gia trong chuỗi cung ứng có thể ứng dụng để truy xuất nguồn gốc, triệu hồi sản phẩm, quản lý sản xuất, bán hàng, kho bãi, giao nhận vận chuyển. Quy định về ghi nhãn điện tử là một cách hỗ trợ, bổ sung cho cách ghi nhãn bằng phương pháp vật lý truyền thống cho các nhà sản xuất truyền đạt thông tin, các nội dung bắt buộc theo quy định.
+
+Đây cũng là công cụ phục vụ nhà sản xuất giám sát chất lượng sản phẩm, truy tìm, xác định nguồn gốc, nguyên nhân sự cố liên quan đến sản phẩm. Người tiêu dùng tra cứu, tìm kiếm thông tin về chất lượng sản phẩm; tạo thuận lợi cho cơ quan nhà nước quản lý quá trình sản xuất và lưu thông.
+
+Theo Bộ Khoa học và Công nghệ, mã số, mã vạch giúp thúc đẩy thương mại và hội nhập quốc tế, tạo thuận lợi cho doanh nghiệp tham gia thương mại điện tử toàn cầu. Mã cũng tích hợp với dữ liệu hải quan và cơ quan thuế nhằm tạo thuận lợi cho khai báo, thông quan, tính thuế; hỗ trợ kiểm soát luồng hàng xuất nhập khẩu.
+
+Trong bối cảnh căng thẳng thương mại gia tăng giữa các quốc gia, gian lận xuất xứ đã ảnh hưởng lớn đến uy tín, sản xuất của các doanh nghiệp chân chính. Để ngăn chặn gian lận xuất xứ từ việc biến một nước nào đó thành điểm trung chuyển hàng xuất khẩu giả sang nước thứ ba, một số nước đã áp dụng các biện pháp trấn áp hàng giả và gian lận xuất xứ để đảm bảo uy tín của sản phẩm, hàng hóa của quốc gia mình.
+
+Mã số, mã vạch trên sản phẩm hàng hóa. Ảnh: HM
+
+Ở Việt Nam, cơ quan hải quan và các cơ quan quản lý có thẩm quyền chủ động phát hiện, ngăn chặn, xử lý các hành vi gian lận, làm giả xuất xứ, dán nhãn hàng hóa, xâm phạm quyền sở hữu trí tuệ, trung chuyển hàng hóa trái phép. Việc xác minh sử dụng mã nước ngoài để kịp thời phát hiện vi phạm, sẽ giúp nâng cao năng lực cạnh tranh trên thị trường quốc tế và minh bạch hóa nguồn gốc của các sản phẩm trên thị trường.
+
+Việc định danh, mã hóa và thu thập thông tin dạng máy đọc là tiền đề để có thể số hóa, trao đổi dữ liệu điện tử giữa các đơn vị trong chuỗi cung ứng và là nền tảng cho giải pháp truy xuất nguồn gốc điện tử. Đồng thời, Cổng thông tin truy xuất nguồn gốc sản phẩm, hàng hóa quốc gia có thể hỗ trợ hiển thị/tham chiếu/chuyển tiếp đến các dữ liệu chỉ dẫn địa lý, dữ liệu bản đồ trực tuyến, dữ liệu atlas điện tử khi các nguồn dữ liệu này sẵn sàng.
+
+Các hệ thống truy xuất nguồn gốc sản phẩm, hàng hóa sẽ được phép sử dụng các dữ liệu chỉ dẫn địa lý, dữ liệu bản đồ trực tuyến, dữ liệu atlas điện tử khi việc đồng bộ nêu trên sẵn sàng. Việc ứng dụng mã số, mã vạch trên nền tảng công nghệ như Blockchain, IoT, AI và các công nghệ mới khác sẽ tạo ra hệ sinh thái số, dữ liệu lớn (Big data) phù hợp với xu hướng phát triển của thế giới, là yếu tố cơ bản liên kết thông tin về điều kiện bảo đảm chất lượng sản phẩm.
+
+Đây được kỳ vọng là công cụ phục vụ nhà sản xuất giám sát chất lượng sản phẩm, truy tìm, xác định nguồn gốc, nguyên nhân sự cố liên quan đến sản phẩm; người tiêu dùng tra cứu, tìm kiếm thông tin về chất lượng sản phẩm, hàng hóa.
+
+Do đó, cơ quan soạn thảo cho rằng việc đưa vào luật quy định mã số mã vạch trong quản lý chất lượng sản phẩm, hàng hóa, dịch vụ, ghi nhãn điện tử là rất cần thiết.
+
+Góp ý nội dung này, Hiệp hội ngành công nghiệp thực phẩm châu Á (FIA) cho rằng không nên bổ sung quy định cụ thể về việc bắt buộc áp dụng mã số, mã vạch và mã truy xuất nguồn gốc vào Luật vì sẽ làm tăng gánh nặng thủ tục hành chính khi chưa có đánh giá tác động toàn diện. Hiện nay, các nước chủ yếu áp dụng theo phương thức tự nguyện.
+
+Cơ quan này đề nghị thay thế bằng điều khoản khuyến khích doanh nghiệp tăng cường truy xuất nguồn gốc hàng hóa. Điều này cũng phù hợp với quan điểm "Luật chỉ quy định những vấn đề khung, những vấn đề có tính nguyên tắc" của Quốc hội.
+
+Hiệp hội Eurocharm cũng đề nghị bỏ yêu cầu ghi mã số, mã vạch, mã truy xuất nguồn gốc trên nhãn. Hiệp hội này cho rằng yêu cầu này không phù hợp vì gây chồng chéo và mâu thuẫn với quy định hiện hành về ghi nhãn hàng hóa và tăng thủ tục hành chính, khó khăn cho sản xuất-kinh doanh.
+
+Doanh nghiệp có thể chọn lựa nhiều biện pháp để giúp truy xuất nguồn gốc, chứ không chỉ riêng mã số, mã vạch, ví dụ như mã QR. Hàng hóa lưu hành tại địa phương của các Doanh nghiệp nhỏ và siêu nhỏ cũng khó có thể đáp ứng được các yêu cầu này. Bên cạnh đó, Eurocharm cho rằng việc này không phù hợp với thông lệ quốc tế vì ghi mã số, mã vạch là tự nguyện chứ không bắt buộc.
+
+Bộ Khoa học và Công nghệ cho biết, dự luật quy định rõ việc thể hiện các thông tin về mã số, mã vạch, mã truy xuất nguồn gốc cho sản phẩm theo quy định của pháp luật. Do đó, khi pháp luật có yêu cầu bắt buộc phải thể hiện các thông tin này thì người sản xuất phải tuân thủ theo. Trường hợp pháp luật chưa có quy định, người sản xuất được khuyến khích thể hiện các thông tin này.
+
+Dự án Luật sửa đổi, bổ sung một số điều của Luật Chất lượng sản phẩm, hàng hóa sẽ được trình Quốc hội cho ý kiến tại kỳ họp tháng 5 và thông qua vào cuối năm nay.
+
+Sơn Hà

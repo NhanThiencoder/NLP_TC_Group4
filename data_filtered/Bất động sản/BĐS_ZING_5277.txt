@@ -1,0 +1,16 @@
+
+TP.HCM đang xây dựng phần mềm quản lý dự án toàn diện, áp dụng cho tất cả công trình trọng điểm trên địa bàn, trước mắt thí điểm tại nút giao An Phú và Tân Vạn.
+
+Nút giao An Phú được TP.HCM chọn là một trong hai dự án thí điểm ứng dụng phần mềm quản lý dự án toàn diện. Ảnh: Hoài Bảo.
+
+Tại buổi họp báo về tình hình kinh tế - xã hội trên địa bàn TP.HCM chiều 23/10, ông Nguyễn Kiên Giang, Phó trưởng phòng Quản lý bảo trì và khai thác công trình giao thông (Sở Xây dựng TP.HCM) cho hay TP.HCM đang xây dựng phần mềm quản lý dự án toàn diện, áp dụng cho tất cả dự án trọng điểm trên địa bàn thành phố đến năm 2030.
+
+Trước mắt sẽ thí điểm tại 2 nút giao An Phú và Tân Vạn, vì đây là 2 nút giao lớn và quan trọng trên địa bàn. Theo ông Giang, UBND TP.HCM đã giao Trung tâm Chuyển đổi số TP phối hợp Sở Xây dựng, Ban Giao thông TP để nghiên cứu ứng dụng AI tại 2 khu vực này để theo dõi tiến độ, giám sát giao thông. Đến nay, Trung tâm Chuyển đổi số TP.HCM đã có kết quả nghiên cứu.
+
+Đại diện Sở Xây dựng cho hay việc áp dụng AI trong quản lý dự án, công trình xây dựng cũng như các lĩnh vực khác đang là xu hướng của thế giới. Hiện, Việt Nam cũng đang nghiên cứu áp dụng AI, đặc biệt trong lĩnh vực xây dựng. Thủ tướng và Bộ Xây dựng cũng đã có những chỉ đạo, hướng dẫn áp dụng trong quản lý dự án, công trình xây dựng ứng dụng mô hình thông tin công trình (BIM).
+
+"Sở Xây dựng đang tham mưu UBND TP.HCM áp dụng BIM-GIS trong hoạt động xây dựng trên địa bàn, đáp ứng theo lộ trình của Chính phủ", ông Giang cho hay.
+
+Ứng dụng AI sẽ sử dụng dữ liệu hiện có từ các nhà thầu và đơn vị khác trong khu vực, bao gồm dữ liệu hình ảnh, camera, dữ liệu giao thông, dữ liệu BIM, GIS... Trong đó, mô hình BIM (mô hình thông tin công trình) và GIS (hệ thống thông tin địa lý) có thể dự báo tiến độ, giám sát chất lượng thi công, đảm bảo an toàn lao động và nhận diện tình trạng ùn tắc, phát tín hiệu cảnh báo tự động.
+
+Tại TP.HCM, tuyến metro số 1 (Bến Thành - Suối Tiên) là dự án tiêu biểu ứng dụng mô hình BIM.

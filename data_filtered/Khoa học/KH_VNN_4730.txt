@@ -1,0 +1,45 @@
+GS Trần Trung Dũng đang thay đổi số phận người bệnh ung thư xương bằng công nghệ in 3D – thứ cho phép “tạo lại” phần xương đã mất, giúp bệnh nhân trở lại cuộc sống bình thường. Ảnh: TK
+
+Khi in 3D trở thành “phao cứu sinh” cho bệnh nhân ung thư xương
+
+Ung thư xương, đặc biệt ở những vị trí phức tạp như xương chậu hay xương đùi, từ lâu gắn liền với “phán quyết” cắt cụt chi. Đây là lựa chọn nhằm bảo toàn tính mạng nhưng cũng là vết thương tâm lý và thể chất kéo dài cả đời đối với người bệnh.
+
+Những năm gần đây, y học thế giới phát triển các kỹ thuật tái tạo xương bằng implant kim loại thiết kế theo từng cá thể, nhưng chi phí quá đắt đỏ khiến phần lớn bệnh nhân không có cơ hội tiếp cận. Tại Việt Nam, việc tái tạo cấu trúc xương gần như bất khả thi trước khi công nghệ in 3D được ứng dụng.
+
+Chia sẻ tại tự kiện Tuần lễ Khoa học công nghệ, GS Trần Trung Dũng cùng đồng đội đã thay đổi thực tế này. Với nền tảng hội tụ giữa phẫu thuật chỉnh hình, công nghệ y sinh và kỹ thuật mô phỏng, nhóm của ông đã làm chủ kỹ thuật in 3D implant cá thể hóa cho các ca ung thư xương phức tạp nhất. Họ dựa vào dữ liệu hình ảnh CT, MRI của từng bệnh nhân, tạo mô hình xương ba chiều và thiết kế implant phù hợp tuyệt đối với giải phẫu người bệnh.
+
+Một trường hợp ung thư xương chậu từng buộc phải đối diện nguy cơ tàn tật vĩnh viễn. Nhóm bác sĩ đã thu thập hình ảnh, mô phỏng cấu trúc xương bị phá hủy và thiết kế implant thay thế toàn bộ vùng tổn thương. Ca phẫu thuật kết hợp cắt u, tái tạo và cố định implant 3D thành công. Hai năm sau phẫu thuật, bệnh nhân đi lại được, chức năng vận động phục hồi tốt và không gặp biến chứng đáng kể.
+
+Một bệnh nhân khác phải cắt bỏ gần toàn bộ xương đùi vì ung thư. Nhưng công nghệ in 3D đã tái tạo toàn bộ xương đùi bằng mô hình in 3D, giúp phục hồi cấu trúc nâng đỡ của chi dưới, đảm bảo khả năng vận động lâu dài. Những ca bệnh mà trước đây bác sĩ chỉ có thể lắc đầu vì không thể tái tạo giải phẫu, nay trở thành minh chứng cho bước tiến vượt bậc của y học Việt Nam.
+
+Điều giúp công nghệ này thành công là mô hình “xưởng thiết kế tại chỗ”. Xưởng in 3D đặt tại Việt Nam cho phép kỹ sư và bác sĩ cùng làm việc ngay trong môi trường bệnh viện. Bác sĩ hiểu giải phẫu, phẫu thuật; kỹ sư hiểu vật liệu, kết cấu và mô phỏng, khi họ phối hợp theo thời gian thực, implant tạo ra có độ chính xác cao và phù hợp tối ưu với phẫu thuật.
+
+Sự kết hợp liên ngành này đưa y học Việt Nam tiến gần hơn với các trung tâm y tế hàng đầu thế giới. Quan trọng hơn, nó giúp bệnh nhân được phục hồi đúng cấu trúc cơ thể thay vì phải chấp nhận mất mát suốt đời.
+
+GS Trần Trung Dũng cho hay, giá thành của implant 3D phụ thuộc vào ba yếu tố: thời gian thiết kế, quy mô sản xuất và mức độ sẵn sàng của hệ thống công nghệ. Việt Nam đang tạo ra cách tiếp cận mới cho cả ba yếu tố này. Ảnh: TK
+
+Vì sao thế giới trả 60.000 USD nhưng Việt Nam vẫn có thể làm được?
+
+Dù là bước tiến lớn, in 3D y tế vẫn đối mặt với một rào cản lớn nhất: chi phí. Tại Mỹ và châu Âu, giá một implant in 3D phục vụ phẫu thuật tái tạo xương có thể lên tới 30.000 đến 60.000 USD. Con số này vượt xa thu nhập trung bình và khả năng chi trả của hầu hết bệnh nhân, ngay cả khi có bảo hiểm thương mại.
+
+Ở Việt Nam, việc áp dụng công nghệ này càng khó khăn hơn vì bệnh nhân gần như phải trông chờ 100% vào hỗ trợ từ quỹ từ thiện. Hệ thống bảo hiểm y tế chưa có hành lang pháp lý để chi trả cho implant in 3D, khiến khả năng tiếp cận bị thu hẹp.
+
+Một câu hỏi đặt ra làm sao để Việt Nam có thể triển khai công nghệ in 3D cho các bệnh nhân ung thư xương với chi phí thấp hơn rất nhiều? Theo GS Trần Trung Dũng, giá thành của implant 3D phụ thuộc vào ba yếu tố: thời gian thiết kế, quy mô sản xuất và mức độ sẵn sàng của hệ thống công nghệ. Việt Nam đang tạo ra cách tiếp cận mới cho cả ba yếu tố này.
+
+Thứ nhất, AI đã rút ngắn đáng kể thời gian thiết kế. Trước đây, một kỹ sư phải mất từ hai đến bảy ngày để thiết kế implant dựa trên dữ liệu hình ảnh phức tạp. Nay, với sự hỗ trợ của AI, thời gian có thể rút xuống còn dưới hai giờ, thậm chí chỉ một giờ với những chi tiết cơ bản. Việc giảm thời gian thiết kế cũng đồng nghĩa giảm đáng kể chi phí nhân công, vốn là phần chi phí lớn nhất trong quy trình sản xuất implant 3D.
+
+Thứ hai, bệnh viện sẽ triển khai mô hình kết nối liên viện để thiết kế và in nhiều implant trong cùng một lượt. In 3D vốn có đặc thù: chi phí khấu hao máy, vật liệu và công vận hành gần như không thay đổi dù in 1 hay 20 sản phẩm trong cùng một phiên in. Khi các bệnh viện cùng hợp tác, gửi file thiết kế tới trung tâm in 3D, chi phí được chia nhỏ cho nhiều sản phẩm, giúp mỗi implant có giá thành giảm mạnh.
+
+Thứ ba, mô hình thiết kế đặt tại bệnh viện giúp tăng hiệu suất và giảm chi phí vận hành. Bác sĩ và kỹ sư vẫn có thể thực hiện 100% quy trình thiết kế – mô phỏng – kiểm thử tại chỗ mà không cần thông qua các hãng nước ngoài với giá dịch vụ cao. Từ đó, chi phí tạo ra implant 3D ở Việt Nam có thể chỉ bằng một phần so với các trung tâm ở châu Âu.
+
+Ngoài ra, hợp tác quốc tế với Nhật Bản và Hàn Quốc cũng giúp bệnh viện tiếp cận công nghệ mới, chuẩn hóa quy trình và đào tạo kỹ sư chuyên sâu, qua đó từng bước hình thành hệ thống thiết kế 3D bền vững, chất lượng cao nhưng chi phí hợp lý.
+
+Tuy vậy, để giải pháp này được nhân rộng, GS Dũng nhấn mạnh nhu cầu cấp thiết của việc hoàn thiện hành lang pháp lý. Nếu bảo hiểm y tế có thể chi trả một phần hoặc toàn bộ chi phí implant 3D, bệnh nhân sẽ có cơ hội tiếp cận công nghệ hiện đại mà không phải phụ thuộc vào quỹ từ thiện. Đây là bước then chốt để công nghệ 3D không chỉ là giải pháp cứu những ca nặng hiếm hoi mà trở thành một tiêu chuẩn mới trong điều trị ung thư xương.
+
+Làm chủ công nghệ và vươn ra khu vực
+
+Việc làm chủ toàn bộ chuỗi ứng dụng in 3D – từ chẩn đoán, mô phỏng, thiết kế đến sản xuất và phẫu thuật – đưa Việt Nam lên bản đồ đổi mới y học của khu vực. Công nghệ này không chỉ phục vụ điều trị trong nước mà còn có tiềm năng xuất khẩu tri thức và sản phẩm y tế.
+
+GS Dũng cho biết, theo chiến lược mới, dự kiến mở rộng mạng lưới bệnh viện tại Đông Nam Á. Đây không chỉ là bước đi về thị trường, mà còn mở ra cơ hội đưa implant in 3D đến với bệnh nhân khu vực, nơi nhu cầu điều trị ung thư xương rất lớn nhưng chi phí dịch vụ quốc tế còn quá cao.
+
+Không chỉ dừng lại ở ung thư xương, in 3D bệnh học còn có thể mở rộng sang tái tạo xương do tai nạn, biến dạng bẩm sinh, thay thế các cấu trúc phức tạp của khớp, thậm chí tạo ra mô hình mô phỏng cho đào tạo và lập kế hoạch phẫu thuật. Tất cả những điều này góp phần đưa y học Việt Nam tiệm cận chuẩn mực quốc tế và khẳng định vị thế mới của Việt Nam trên bản đồ công nghệ y sinh.

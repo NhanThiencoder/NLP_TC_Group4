@@ -1,0 +1,85 @@
+TTCT - Đã có nhiều tín hiệu đáng mừng từ thực tế khởi nghiệp, những chính sách hỗ trợ khởi nghiệp đã kịp thời ra đời, nhưng vẫn còn rất nhiều điều cần làm rõ...
+
+Vẫn còn nhiều băn khoăn liệu startup chỉ là công nghệ sáng tạo?
+
+Ngày 18-5-2016, Thủ tướng ban hành quyết định số 844/QĐ-TTg phê duyệt đề án “Hỗ trợ hệ sinh thái khởi nghiệp đổi mới sáng tạo quốc gia đến năm 2025”. Phong trào lan rộng từ trung ương đến các tỉnh thành phố trong cả nước, nơi thành lập “Quỹ hỗ trợ khởi nghiệp”, nơi là “Trung tâm hỗ trợ khởi nghiệp”.
+
+Đây là những tín hiệu đáng mừng. Để khởi nghiệp phát triển vững chắc, bài viết này trình bày những điều cần làm rõ về khởi nghiệp ở Việt Nam vào thời điểm hiện nay.
+
+Nguồn: Global Entrepreneurship index 2016
+
+Hiểu về khởi nghiệp
+
+Còn có nhiều cách hiểu khác nhau về khởi nghiệp. Khởi nghiệp có phải là khởi sự thành lập một doanh nghiệp? Nhiều ý kiến cho rằng khởi nghiệp là một khái niệm mới, một loại hình doanh nghiệp mới. Có thể tập hợp lại 4 cách hiểu chính về khởi nghiệp.
+
+“Khởi nghiệp là một công ty hoạt động nhằm giải quyết một bài toán mà lời giải không rõ ràng và sự thành công không chắc chắn” (Neil Blumenthal). “Một khởi nghiệp là một doanh nghiệp được thiết kế để tăng trưởng nhanh.
+
+Điều chủ yếu duy nhất là tăng trưởng. Chính tiêu điểm tăng trưởng, không bị giới hạn về địa lý, phân biệt khởi nghiệp với các doanh nghiệp nhỏ” (Paul Graham).
+
+“Khởi nghiệp là phải đổi mới sáng tạo. Lập nghiệp cũng có thể trở thành doanh nghiệp lớn nhưng startup phải là khoa học công nghệ, là điều thế giới chưa từng làm, còn bán cà phê, bán phở thì không thể gọi là khởi nghiệp” (Trương Gia Bình).
+
+“Khởi nghiệp là một hành trình thành lập và phát triển một doanh nghiệp dựa trên khoa học và công nghệ để tạo ra những sản phẩm hay cách thức phục vụ mới hoặc khác nhằm đáp ứng tốt hơn nhu cầu đời sống xã hội” (Nguyễn Thanh Mỹ).
+
+Báo chí, các hội thảo của các doanh nghiệp giới thiệu nhiều gương mặt khởi nghiệp với những dự án đã mang lại kết quả. Festival khởi nghiệp 2016 đã bầu chọn 5 giải thưởng.
+
+Có thể rút ra từ đây mấy nhận xét: Những con người khởi nghiệp thuộc mọi lứa tuổi nhưng đa số trẻ, thuộc thế hệ 8X đến 9X.
+
+Họ chủ động, dám nghĩ, chấp nhận rủi ro; có tiềm năng phát triển, kỹ năng tiếp cận và tiếp thu cái mới; kiên trì; nhiều tài. Các dự án khởi nghiệp đa dạng, không ít về dịch vụ, hầu hết đều áp dụng công nghệ, đặc biệt công nghệ thông tin. Phần lớn họ cho rằng khởi nghiệp là con đường đầy thử thách.
+
+Một nhà kinh tế nhận xét: “Điểm chung nhất ở họ là họ không chọn lối đi, cách làm bằng đầu tư vào những mối quan hệ, bằng “know-who”. Họ đã chọn lối đi bằng “know-how”, gian khó hơn, cực nhọc hơn để khởi nghiệp”.
+
+Hiểu về khởi nghiệp còn có ý cho rằng “không cần phân biệt giữa startup ở Việt Nam và nước ngoài”, “không nên đánh đồng “khởi nghiệp” ở Việt Nam với từ “startup””.
+
+“Chính vì vậy (...) mới có thuật ngữ “khởi nghiệp đổi mới sáng tạo” để chỉ “startup” và để phân biệt với “khởi nghiệp thông thường” như mở quán phở hay tiệm bán quần áo”. Tuy nhiên, sự phân ra hai loại hình khởi nghiệp vẫn chưa giải quyết được đặc thù cơ bản của khởi nghiệp là gì.
+
+Chắc chắn rằng các khởi nghiệp, ở thời buổi hiện nay, phải áp dụng công nghệ để đạt mục tiêu của dự án khởi nghiệp, nhưng cho dù vậy khởi nghiệp không phải chỉ là khởi nghiệp đổi mới sáng tạo.
+
+Vì thế, cách hiểu sau đây có thể là mẫu số chung của các cách hiểu đã đề cập và hợp nhất các loại hình khởi nghiệp: “Khởi nghiệp là một doanh nghiệp sử dụng khoa học và công nghệ để tạo ra những sản phẩm hay dịch vụ mới hoặc khác, phát triển nhanh và có khả năng mở rộng”.
+
+Hệ sinh thái khởi nghiệp
+
+Năm 1993, James F. Moore đưa ra khái niệm “hệ sinh thái doanh nghiệp” (Business Ecosystem) và ví nó với hệ sinh thái sinh học. “Đó là mạng lưới các tổ chức - bao gồm các nhà cung ứng, phân phối, khách hàng, các đối thủ, cơ quan nhà nước... - có liên quan đến việc đưa ra một sản phẩm hay dịch vụ cụ thể thông qua vừa cạnh tranh vừa hợp tác.
+
+Ý tưởng là mỗi doanh nghiệp trong “hệ sinh thái” tác động và bị tác động bởi các doanh nghiệp khác, tạo nên một mối quan hệ luôn thay đổi, trong đó mỗi doanh nghiệp phải linh hoạt và thích ứng để có thể tồn tại, giống như một hệ sinh thái sinh học”.
+
+Sau J.F. Moore, J. Bradford DeLong và nhiều nhà nghiên cứu kinh tế khác tiếp tục so sánh hệ sinh thái doanh nghiệp với hệ sinh thái sinh học.
+
+Phép ẩn dụ (metaphor) chỉ chuẩn khi mà hệ sinh thái doanh nghiệp (trong đó doanh nghiệp được xem như là một sinh vật) đáp ứng định nghĩa của hệ sinh thái. Xin nhắc lại tóm tắt: “Một hệ sinh thái là một quần xã sinh vật tồn tại trong mối tương tác hệ thống với các thành tố “phi sinh vật” (abiotic) của môi trường trong đó chúng tồn tại.
+
+Các thành tố sinh vật và phi sinh vật được liên kết với nhau thông qua chu trình tuần hoàn vật chất và năng lượng”.
+
+Sự so sánh ẩn dụ sẽ hoàn chỉnh và có ích nếu làm rõ ra ít nhất “quần xã doanh nghiệp” là gì; các thành tố “phi doanh nghiệp” là gì; các mối tương tác hệ thống trong quần xã doanh nghiệp và giữa quần xã doanh nghiệp với các thành tố phi doanh nghiệp; các thành tố doanh nghiệp và phi doanh nghiệp được liên kết với nhau thông qua chu trình tuần hoàn vật chất và năng lượng ra sao.
+
+Phải chăng các “quyển phi doanh nghiệp” tương tác hệ thống với “quyển doanh nghiệp” là: (1) Thượng tầng pháp lý và thể chế; (2) Hạ tầng giao thông và thông tin liên lạc; (3) Tài chính và tín dụng; (4) Nguồn nhân lực (bao gồm giáo dục - đào tạo và nghiên cứu khoa học); và (5) Văn hóa và xã hội?
+
+Đầu thập niên 2010, cụm từ “hệ sinh thái khởi nghiệp” được sử dụng. Theo Diễn đàn Kinh tế thế giới, hệ sinh thái khởi nghiệp bao gồm 8 yếu tố:
+
+Thị trường, Nguồn nhân lực, Nguồn vốn và tài chính, Hệ thống hỗ trợ khởi nghiệp (mentors, advisors), Khung pháp lý và cơ sở hạ tầng, Giáo dục và đào tạo, Các trường đại học, học viện và Văn hóa quốc gia.
+
+Sau đó hệ sinh thái khởi nghiệp đã được cải tiến bao gồm các yếu tố bên trong và bên ngoài. Yếu tố bên trong gồm: ý tưởng, sáng tạo, khởi nghiệp ở các giai đoạn khác nhau, doanh nghiệp, thành viên khởi nghiệp, nhà đầu tư... Yếu tố bên ngoài gồm: Quỹ đầu tư, trường đại học, tổ chức hỗ trợ, tập đoàn lớn, nhà cung cấp dịch vụ...
+
+Theo Mason C. và Brown R. (2014), hệ sinh thái khởi nghiệp là “tổng hợp các mối liên kết chính thức và phi chính thức giữa các chủ thể khởi nghiệp, tổ chức khởi nghiệp và các cơ quan liên quan và tiến trình khởi nghiệp tác động trực tiếp đến môi trường khởi nghiệp tại địa phương”.
+
+Khởi nghiệp là một loại hình doanh nghiệp riêng. Cũng rất cần làm rõ hệ sinh thái khởi nghiệp giống và khác thế nào với hệ sinh thái doanh nghiệp và nó đáp ứng ra sao các đặc trưng của hệ sinh thái như đã đề cập trên đây. Quốc gia khởi nghiệp là gì?
+
+Là một quốc gia có nhiều khởi nghiệp thành công? Là đất nước ban hành nhiều chính sách thuận lợi cho khởi nghiệp, là nơi có hệ sinh thái khởi nghiệp tốt để khởi nghiệp thành công?
+
+Trong khi chờ đợi khái niệm được làm rõ, các nhà nghiên cứu kinh tế sắp xếp các quốc gia theo 14 tiêu chí về khởi nghiệp (xem bảng).
+
+Về Đề án 844
+
+Đề án 844 của Chính phủ nhằm tạo lập môi trường thuận lợi để thúc đẩy, hỗ trợ quá trình hình thành và phát triển loại hình doanh nghiệp có khả năng tăng trưởng nhanh dựa trên khai thác tài sản trí tuệ, công nghệ, mô hình kinh doanh mới.
+
+Sự ra đời của đề án này là một sự động viên, khích lệ lớn với những người có ý định khởi nghiệp. Tuy nhiên, có hai nội dung cần làm rõ: (1) Đối tượng của đề án, như tên gọi, hình như chỉ là những khởi nghiệp đổi mới sáng tạo. (2) Có phải có hai hình thức hỗ trợ: khung pháp lý và tài chính? Và các tiêu chí để hỗ trợ tài chính chỉ dành cho loại hình khởi nghiệp đổi mới sáng tạo?
+
+Kết thúc bài viết, tôi có ba kiến nghị:
+
+1. Nhà nước hỗ trợ khởi nghiệp bằng tạo dựng hệ thống pháp lý với thể chế, cơ chế, chính sách thuận lợi cho khởi nghiệp là cơ bản. Công tác này là một quá trình. Bỏ điều 292 của Bộ luật hình sự là một ví dụ minh chứng. “Tích cực bổ sung, kiện toàn” hệ thống pháp lý sát với thực tế hơn là “khẩn trương hoàn thiện”, nhất là hội nhập sâu kéo theo giao thoa mạnh giữa luật pháp quốc gia và quốc tế.
+
+2. Cần làm rõ nội hàm của hệ sinh thái khởi nghiệp, đặc biệt trong điều kiện Việt Nam. Đơn cử một ví dụ: Bảo vệ sở hữu trí tuệ ở Silicon Valley (Mỹ) không đặt ra vì được mọi người tuân thủ, trong khi đây là một vấn đề cốt lõi đối với khởi nghiệp ở Việt Nam.
+
+3. Hỗ trợ các dự án khởi nghiệp tiềm năng là cần thiết. “800 dự án và 200 doanh nghiệp khởi nghiệp năm 2020; 2.000 dự án và 600 doanh nghiệp khởi nghiệp đến năm 2015” là những mục tiêu hỗ trợ của đề án 844. Phải chăng đây là hỗ trợ về tài chính?
+
+Cần làm rõ hỗ trợ tài chính từ ngân sách nhà nước là cho môi trường khởi nghiệp chung hay cho những dự án, doanh nghiệp cụ thể. Với những “tiêu chí” ở điều 1, phần II, hình như đối tượng hỗ trợ là những dự án, doanh nghiệp khởi nghiệp đổi mới sáng tạo cụ thể.
+
+Thực tế từ nhiều lĩnh vực đã qua cho thấy hỗ trợ tài chính ban đầu, cho dù với những tiêu chí, quy trình, thủ tục được quy định rõ, vẫn có thể bị “lách”, dẫn đến lãng phí và tiêu cực. Nên tưởng thưởng xứng đáng khi khởi nghiệp đạt kết quả.■

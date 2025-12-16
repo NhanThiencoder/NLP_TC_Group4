@@ -1,0 +1,31 @@
+Thị trường chứng khoán Mỹ đang bị phân tán mạnh. S&P 500 đang liên tục lập đỉnh mới chỉ nhờ 1 công ty duy nhất là Nvidia. Trong khi đó, các công ty vốn hoá nhỏ lại rớt giá và vẫn thấp hơn nhiều so với mức cao kỷ lục.
+
+Chỉ số Russell 2000 theo dõi các doanh nghiệp vốn hoá nhỏ giảm 17% so với mức đỉnh hồi tháng 11/2021 và không ghi nhận đà tăng nào trong năm nay. Còn trong S&P 500, trung bình các cổ phiếu giao dịch ở mức tương đương hồi đầu năm 2022 và hơn 1 nửa cổ phiếu trong chỉ số này đều giảm giá kể từ thời điểm đó.
+
+Điều tồi tệ hơn là, chỉ có 198 cổ phiếu trong S&P 500 ghi nhận đà tăng trong tháng này, dù chỉ số này lập đỉnh ở 11/13 phiên giao dịch.
+
+Tình trạng này đang khiến các nhà phân tích kỹ thuật lo ngại. Họ cho rằng mức tăng lớn của nhiều cổ phiếu mới giúp thị trường có đà tăng bền vững.
+
+Trên thực tế, xu hướng trên cho thấy 2 yếu tố đang thúc đẩy thị trường, đó là nhu cầu đối với chip là động lực cho lĩnh vực AI và mối lo ngại về nền kinh tế cũng như lãi suất.
+
+Yếu tố thứ nhất là “bàn đạp” của Nvidia, một số cổ phiếu khác và giúp thị trường liên tục lập đỉnh, đồng thời đưa nhà sản xuất chip trở thành doanh nghiệp có giá trị nhất thế giới. Nguyên nhân thứ 2 lại đẩy hầu hết cổ phiếu đi xuống, do dữ liệu kinh tế gây thất vọng đã làm giảm kỳ vọng tăng trưởng trong khi Fed tiếp tục lo ngại về tình hình lạm phát.
+
+Theo Wall Street Journal, điều đáng lo ngại là thị trường chứng khoán Mỹ phụ thuộc quá nhiều vào chỉ 1 cổ phiếu là Nvidia. Cổ phiếu này đã đóng góp 1/3 mức tăng trong tháng này của S&P 500 và 44% mức tăng kể từ đầu năm 2022. Nếu đà tăng của Nvidia chững lại - do nhu cầu với chip suy yếu, “cơn sốt” AI kết thúc hay ai cũng sở hữu cổ phiếu AI, thì S&P 500 sẽ phụ thuộc vào phần còn lại của thị trường. Vấn đề là, phần còn lại của thị trường không có đà tăng mạnh đến vậy.
+
+Nhà đầu tư mua S&P 500 qua các quỹ ETF nổi tiếng và có chi phí giao dịch thấp vì họ muốn mở rộng phạm vi ra nhiều công ty. Hiện tại, họ đang “ôm” rất nhiều cổ phiếu cùng ngành với Nvidia và chấp nhận rủi ro từ lĩnh vực AI. Động thái này cho đến nay vẫn mang về “trái ngọt”, nhất là khi “cơn sốt” AI vẫn chưa hạ nhiệt. Song, hiệu quả đa dạng hoá rủi ro của S&P 500 đang thấp hơn so với trước đây.
+
+Có thể, phần còn lại sẽ tăng trưởng nếu Nvidia chững lại. Tuy nhiên, những cổ phiếu khác được hưởng lợi từ “cơn sốt” AI được dự đoán khó có diễn biến bứt phá nếu Nvidia “mất nhiệt”. Vì thế, đà tăng sẽ phải phụ thuộc vào các cổ phiếu nhạy cảm với diễn biến của nền kinh tế, không phải nhóm Big Tech.
+
+Và Nvidia hiện đã có tỷ trọng lớn đến mức nếu sụt giảm có thể kéo cả thị trường đi xuống. Ví dụ ở phiên 20/6, S&P 500 lẽ ra đã tăng điểm nếu cổ phiếu hãng sản xuất chip này không sụt giảm.
+
+Vấn đề ở đây là các nhà đầu tư ngày càng lo ngại về vấn đề tăng trưởng và rủi ro Fed không hạ lãi suất đủ nhanh để hỗ trợ nền kinh tế. Lợi suất trái phiếu đang giảm, khi lợi suất trái phiếu Kho bạc kỳ hạn 2 năm giảm từ trên 4,7% vào cuối tháng 4 xuống còn 4,26%. Tuy nhiên, nhà đầu tư hầu như không cho rằng Fed sẽ hạ lãi suất vào tháng 8 và tháng 9, vì quan chức Fed cảnh báo rằng họ cần thêm bằng chứng cho thấy lạm phát đang về mục tiêu 2%.
+
+Quan điểm trên của giới đầu tư đã khiến các cổ phiếu vốn hoá nhỏ hơn S&P 500 giảm trong tháng này. Không được thúc đẩy bởi lợi suất giảm, mà các cổ phiếu này lại đi xuống khi lợi suất trái phiếu thấp hơn. Ngay cả những công ty nhỏ hơn trong Russell 2000, vốn có xu hướng nợ nhiều hơn và dễ bị tác động bởi lãi suất, cũng không được hưởng lợi.
+
+WSJ cho biết, nền kinh tế có diễn biến yếu hơn nhưng lại không có biện pháp nới lỏng vào thời điểm lãi suất cao đang gây tổn hại cho người tiêu dùng và doanh nghiệp nhỏ không phải là triển vọng khả quan với giới đầu tư.
+
+Tin mừng là thị trường luôn thay đổi. Nhà đầu tư có thể dễ dàng chuyển trạng thái lo lắng về nền kinh tế sang lạc quan về tốc độ tăng trưởng mạnh. Chỉ báo GDPNow của Fed Atlanta dự báo kinh tế Mỹ sẽ tăng trưởng 3% trong năm nay.
+
+Hơn nữa, với những nhà đầu tư thụ động của S&P 500, mọi lo ngại về nền kinh tế đã bị lu mờ trước đà tăng “khủng” của Nvidia, Apple và Microsoft. Bộ ba này ghi nhận mức tăng bằng toàn bộ cổ phiếu khác của S&P 500 cộng lại trong tháng 6.
+
+Tham khảo WSJ﻿

@@ -1,0 +1,22 @@
+Title: Đồng Tháp thí điểm nền tảng dữ liệu nông nghiệp dùng chung
+
+Phó Chủ tịch Ủy ban nhân dân tỉnh Đồng Tháp cho biết, VDAPES là nền tảng mở, do Đồng Tháp hợp tác với Công ty Cổ phần RYNAN Technologies Vietnam phát triển và vận hành. Bước đầu sẽ ứng dụng công nghệ số để số hóa dữ liệu quản lý; tiếp đến sẽ tự động thu thập, xử lý, thống kê số liệu thông qua ứng dụng công nghệ viễn thám; kết hợp công nghệ GIS cùng với giải thuật trí tuệ nhân tạo để dự báo.
+
+Nền tảng nông nghiệp số được tỉnh Đồng Tháp triển khai hướng đến tính đồng bộ, chia sẻ dữ liệu với các tỉnh, thành Đồng bằng sông Cửu Long. Do đó, ông Nguyễn Phước Thiện giao cho Sở Nông nghiệp và Phát triển nông thôn tiếp tục kết nối, chia sẻ thông tin về nền tảng VDAPES với Ủy ban nhân dân tỉnh Kiên Giang để cùng triển khai.
+
+Đồng Tháp đang đẩy mạnh chuyển đổi số lĩnh vực nông nghiệp.
+
+
+Đối với lĩnh vực chăn nuôi, thú y, dữ liệu toàn ngành chăn nuôi như hộ chăn nuôi, tiêm phòng vaccine, kiểm soát giết mổ, chứng chỉ hành nghề thú y đã được số hoá đồng bộ, cung cấp công cụ hỗ trợ cán bộ cập nhật, lưu trữ hệ thống dữ liệu ngành theo các thời gian báo cáo cụ thể.
+
+Với lĩnh vực thủy sản, nền tảng này thực hiện quản lý các dữ liệu ngành gồm hộ nuôi trồng thủy sản, giống thủy sản, dịch bệnh thủy sản; quản lý vùng nuôi thủy sản thông qua bản đồ vị trí cụ thể dễ dàng truy xuất, lưu trữ dữ liệu. Đối với lĩnh vực phát triển nông thôn, thực hiện số hóa dữ liệu phát triển nông thôn (hợp tác xã, hội quán, sản phẩm OCOP, tổ hợp tác, trang trại); xây dựng quy trình đánh giá và công nhận nông thôn mới trực tiếp trên nền tảng.
+
+Nền tảng Vdapes cũng số hóa và quản lý dữ liệu thủy lợi đối với ô bao, kênh, rạch, cống, trạm bơm; tích hợp dữ liệu hệ thống quan trắc nước thông minh, thu thập dữ liệu theo thời gian thực, thống kê cụ thể, trực quan về hình ảnh dữ liệu: mực nước, độ mặn, độ kiềm, độ pH, COD/BOD.
+
+Trong lĩnh vực lâm nghiệp, hỗ trợ quản lý lĩnh vực lâm nghiệp, số hóa dữ liệu về cơ sở kinh doanh, chế biến gỗ, cơ sở nuôi động vật hoang dã.
+
+Bên cạnh đó, nền tảng dữ liệu số còn thực hiện chia sẻ, tích hợp dữ liệu của ngành tài nguyên và môi trường nhằm chia sẻ dữ liệu quản lý để phục vụ công tác cảnh báo, dự báo đối với các tác động của môi trường (đất, nước, không khí) cùng phục vụ cho sản xuất nông nghiệp.
+
+Theo Sở NN&PTNT, để chuyển đổi số toàn diện ngành nông nghiệp trên địa bàn tỉnh, năm 2024 và những năm tiếp theo, ngành nông nghiệp sẽ tiếp tục tự động thu thập, xử lý, thống kê số liệu tiến độ sản xuất thông qua ứng dụng công nghệ viễn thám; tiến hành thu thập dữ liệu thống kê về ứng dụng cơ giới hóa trong nông nghiệp. Thông qua thiết bị giám sát IoT, ứng dụng thuật toán trí tuệ nhân tạo AI dự báo, cảnh báo thiên tai, dịch hại ảnh hưởng đến quá trình sản xuất, cũng như sản lượng cây trồng vật nuôi để chủ động thị trường tiêu thụ.
+
+Thành Huế và nhóm PV, BTV

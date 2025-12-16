@@ -1,0 +1,11 @@
+Lỗi illegal operation khi chạy các chương trình (1)
+
+Máy tính của tôi gần đây có hiện tượng hầu như chạy chương trình nào, như word, jetaudio, đĩa CD... đều hiện lên bảng có dòng chữ illegal operation, sau đó thì máy treo, tôi thường phải tắt đi khởi động lại hoặc dùng endtask mới tiếp tục được. Tôi nghi máy có virus nên dùng đĩa CD để diệt, nhưng cũng gặp hiện tượng trên. Trong bảng thông báo illegal operation, tôi vào details xem thì thường gặp những thông báo như: winword caused invalid page fault in module Kernel 32.Dll at .016f.bff 88396 ... hoặc là Autorun made un exemption in module... Tôi không hiểu là gì cả. Rất mong các bạn chỉ cho tôi cách để khắc phục tình trạng trên. Cảm ơn nhiều. 
+
+Nguyễn Vân Anh
+
+Hồi âm:
+
+
+
+

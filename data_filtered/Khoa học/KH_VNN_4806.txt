@@ -1,0 +1,27 @@
+Ra mắt đầu tuần này, ChatGPT Atlas không chỉ là phiên bản mở rộng của chatbot đang có hơn 800 triệu người dùng mỗi tuần, mà còn là nỗ lực biến ChatGPT thành “cánh cửa” kết nối mọi hoạt động trực tuyến, từ tìm kiếm web, truy cập mạng xã hội đến thực hiện tác vụ tự động.
+
+“Trình duyệt là nơi mọi công cụ, dữ liệu và ngữ cảnh của bạn hội tụ”, CEO Sam Altman viết trên blog. “Một trình duyệt tích hợp ChatGPT đưa chúng ta tiến gần hơn tới một ‘siêu trợ lý’ thực sự hiểu thế giới của bạn và giúp bạn đạt được mục tiêu”.
+
+Atlas được thiết kế với thanh tìm kiếm ChatGPT làm trung tâm. Người dùng có thể yêu cầu AI tóm tắt trang web, giải thích khái niệm, hoặc thực hiện tác vụ phức tạp như “tìm quán bar giá rẻ gần tàu điện ngầm ở New York và đặt bàn cho ba người”.
+
+Ngoài ra, còn có chế độ agent (tác nhân) cho phép ChatGPT hành động thay người dùng như đặt chỗ, gửi email hay lập kế hoạch du lịch.
+
+ChatGPT Atlas đối đầu với Google Chrome trên thị trường trình duyệt web. Ảnh: XDA Developers
+
+Đây là bước tiến quan trọng trong xu hướng rời xa các “danh sách liên kết màu xanh” truyền thống vốn là biểu tượng của tìm kiếm Google suốt hơn 20 năm.
+
+Theo khảo sát của Pew Research, người dùng ngày càng ít nhấp vào liên kết hơn khi tóm tắt AI hiển thị trên trang kết quả tìm kiếm Google. Đầu năm nay, một giám đốc Apple thừa nhận trước tòa về việc số lượng tìm kiếm trên các thiết bị của hãng lần đầu tiên giảm vào tháng 4, tín hiệu cho thấy hành vi tra cứu đang thay đổi.
+
+Theo Statcounter, Google hiện chiếm gần 72% lưu lượng web toàn cầu. Tập đoàn này cũng đang tích hợp sâu trí tuệ nhân tạo Gemini vào trình duyệt Chrome, với khả năng tóm tắt trang web, trả lời câu hỏi, thậm chí tự động thực hiện tác vụ như đặt phòng khách sạn hoặc thuê dịch vụ sửa đồ qua email và lịch người dùng.
+
+Tuy nhiên, giới phân tích nhận định OpenAI đang di chuyển nhanh hơn. Thay vì từng bước “AI hóa” sản phẩm như Google, Atlas đặt ChatGPT làm trung tâm ngay từ đầu – biến mỗi cú nhấp chuột thành một lệnh hội thoại với AI.
+
+Sự xuất hiện của Atlas diễn ra trong bối cảnh Google vừa vượt qua vụ kiện lịch sử của Bộ Tư pháp Mỹ (DOJ) liên quan đến vị thế độc quyền trong mảng tìm kiếm. Trong hồ sơ tòa án, thẩm phán Amit Mehta nhấn mạnh: “Các biện pháp khắc phục không chỉ nhằm đảm bảo cạnh tranh giữa các công cụ tìm kiếm truyền thống, mà còn ngăn quyền thống trị của Google lan sang lĩnh vực AI tổng hợp”.
+
+Điều đó cho thấy tầm quan trọng của AI trong cuộc chiến giành quyền kiểm soát “cổng vào Internet”, nơi mỗi cú tìm kiếm, quảng cáo và hành vi người dùng đều mang giá trị hàng tỷ USD.
+
+Sự ra đời của Atlas cũng thể hiện tham vọng mở rộng của OpenAI vượt ra khỏi chatbot. Công ty đang chuyển mình từ nền tảng hội thoại sang hệ sinh thái tích hợp, gồm trình duyệt, công cụ tìm kiếm, trợ lý AI và sắp tới là phần cứng tiêu dùng.
+
+Nếu điều này có vẻ quen thuộc, đó chính là “công thức thành công mà Google đã đi suốt hai thập kỷ”: thống trị bằng việc kiểm soát hệ sinh thái mà mọi người dùng Internet đều phải đi qua.
+
+(Theo CNN)

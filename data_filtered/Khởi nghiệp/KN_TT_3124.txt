@@ -1,0 +1,61 @@
+Nhóm nghiên cứu của anh Nguyễn Thế Hùng được giới thiệu trên VTV - Ảnh chụp màn hình
+
+"Hiện các cơ quan quản lý nhà nước thường dùng khung khổ pháp lý hiện tại áp đặt với các mô hình kinh doanh mới, làm triệt tiêu sức sáng tạo và gây ảnh hưởng khá tiêu cực tới DN. Bà Phạm Thị Ngọc Thủy
+
+Đặc thù đổi mới sáng tạo là đi vào cái mới, nhưng cũng chính do mới nên không dễ được làm.
+
+
+
+Miệt mài 3 năm xin cấp phép
+
+Nhóm start-up của anh Nguyễn Thế Hùng - tổng giám đốc Công ty cổ phần Phát triển nguồn mở VN (VINADES) - nghiên cứu, phát triển một hệ sinh thái đấu thầu với bộ công cụ phần mềm 11 gói khác nhau, phục vụ nhu cầu đa dạng của doanh nghiệp (DN) và dự kiến bán hàng trên website DauThau.info.
+
+Theo đó, phần mềm này khai thác các nguồn dữ liệu được công khai trên Hệ thống mạng đấu thầu quốc gia như thông tin về hoạt động mua sắm công (thông báo mời thầu, kế hoạch lựa chọn nhà thầu, dự án công bố...) nhưng không bao gồm tin tức.
+
+Từ các thông tin này, các phần mềm sẽ đánh giá, tổng hợp thông tin thầu, giúp nhà thầu có thêm phân tích giá trị, khắc phục được nạn "quân xanh, quân đỏ" hay các lỗi của hệ thống mua sắm công...
+
+Tuy vậy, khi đi làm thủ tục đăng ký trang thương mại điện tử bán hàng tại Cục Thương mại điện tử và kinh tế số (Bộ Công thương), VINADES mất tới 2 năm. DN không những phải mô tả hoạt động của website, bổ sung các thông tin mà còn bị yêu cầu phải xin giấy phép ICT (giấy phép trang tin điện tử tổng hợp).
+
+Hỏi Sở Thông tin và truyền thông Hà Nội, Cục Phát thanh truyền hình và thông tin điện tử (Bộ Thông tin và truyền thông) - những đơn vị cấp và quản lý giấy phép ICP, VINADES nhận được câu trả lời rằng website... không cần xin phép.
+
+Nhưng Bộ Công thương vẫn không đồng ý cấp phép. Lý do là phần mềm DauThau.info chưa được Trung tâm Đấu thầu qua mạng quốc gia (Cục Quản lý đấu thầu, Bộ Kế hoạch và đầu tư) cấp phép khai thác.
+
+Thông tin công khai, nhưng cấm khai thác?
+
+Một đại diện của Cục Thương mại điện tử và kinh tế số cho biết cơ quan này từ chối hồ sơ là dựa trên công văn số 199 mà Trung tâm Đấu thầu qua mạng (Cục Quản lý đấu thầu) phản hồi tới cục này vào tháng 10-2020: VINADES chưa được quyền khai thác dữ liệu từ Hệ thống mạng đấu thầu quốc gia và trung tâm này không cho phép bất cứ đơn vị nào khai thác vì mục đích thương mại.
+
+Việc tự ý truy cập, quét dữ liệu để thu lợi khi chưa được sự chấp thuận là vi phạm và...ảnh hưởng đến hiệu năng của hệ thống.
+
+Mặc dù VINADES đã có 2 lần gửi văn bản trực tiếp tới Bộ Kế hoạch và đầu tư và Văn phòng Chính phủ đề nghị cho công ty được khai thác dữ liệu công khai và đề xuất hệ thống dữ liệu đấu thầu là dữ liệu mở.
+
+Văn phòng Chính phủ, khi nhận được kiến nghị của DN vào tháng 11-2020, cũng đã chuyển yêu cầu tới Bộ Kế hoạch và đầu tư đề nghị xem xét, xử lý. Tuy vậy, đến ngày 26-4 DN này mới chính thức nhận được phản hồi qua đường công văn.
+
+Trong khi đó, ngày 22-4 trên báo Đấu Thầu (cơ quan của Bộ Kế hoạch và đầu tư) đăng tải thông tin về đề xuất của VINADES, cho rằng đây là trang tin hoạt động dưới hình thức "trang tin điện tử ứng dụng chuyên ngành" nên không phải cấp phép nhưng phải tuân theo quy định về trang tin điện tử chuyên ngành.
+
+Cụ thể, Luật đấu thầu quy định: hệ thống thông tin, đăng tải thông tin do Bộ Kế hoạch và đầu tư thống nhất quản lý dữ liệu thầu.
+
+Luật an toàn thông tin mạng nghiêm cấm đưa công cụ, phương tiện, phần mềm hoặc có hành vi cản trở, gây rối loạn hoạt động mạng, hệ thống thông tin...
+
+Vì vậy, việc VINADES cho phần mềm tự động thực hiện truy cập, quét dữ liệu phục vụ mục đích thu lợi, bán dữ liệu sẽ làm ảnh hưởng tính năng, an toàn hệ thống. Dữ liệu này cũng chưa được Bộ Kế hoạch và đầu tư công bố công khai là dữ liệu mở...
+
+Ai cũng nói chuyển đổi số, vậy mà...
+
+Ngay sau đó, VINADES đã có ngay văn bản gửi Bộ Kế hoạch và đầu tư, cho rằng các vấn đề được nêu ra trên chưa thuyết phục.
+
+Ông Hùng cho hay phần mềm DauThau.info sử dụng công nghệ và cách thức quét dữ liệu như Google, là công nghệ đọc máy phổ biến, tất cả quá trình số hóa đều phải sử dụng công cụ này.
+
+Vì thế, ứng dụng này không ảnh hưởng xấu mà còn giảm tải cho Hệ thống mạng đấu thầu quốc gia, người dùng dễ truy cập vào giờ cao điểm.
+
+"Nhiều năm nay, các nhà thầu truy cập cổng thông tin Hệ thống mạng đấu thầu quốc gia để tìm kiếm thông tin luôn trong tình trạng khó khăn khi vẫn phải sử dụng trình duyệt Internet Explorer phiên bản 9 đã lỗi thời, phải cài đặt Java và các ứng dụng phức tạp khác, dẫn tới việc điện thoại thông minh, máy tính bảng, máy dùng hệ điều hành khác không sử dụng được.
+
+Trong khi thông tin đấu thầu là công khai, cần được khuyến khích. Phần mềm của chúng tôi là công cụ chuyển đổi số trong lĩnh vực đấu thầu, mang lại hiệu quả cao hơn" - anh Hùng nói.
+
+Theo bà Phạm Thị Ngọc Thủy - giám đốc Văn phòng Ban IV (Ban nghiên cứu phát triển kinh tế tư nhân, thuộc Hội đồng Tư vấn cải cách thủ tục hành chính), đang còn nhiều đầu mối cơ quan quản lý nhà nước phụ trách vấn đề của DN nhưng chưa phát huy được cơ chế một cửa để DN tham vấn, giải quyết.
+
+Hiện các cơ quan quản lý nhà nước thường dùng khung khổ pháp lý hiện tại áp đặt với các mô hình kinh doanh mới, làm triệt tiêu sức sáng tạo và gây ảnh hưởng khá tiêu cực tới DN.
+
+Bị phạt, lại được giải thưởng Trên thực tế, nỗi lo rủi ro về mặt pháp lý đối với start-up của Nguyễn Thế Hùng trở thành hiện thực khi mới đây nhất vì hai thông tin được tổng hợp trên website mà công ty không những bị xử phạt mà còn bị thu hồi tên miền. Tuy nhiên, trớ trêu là ngày 24-4 tại Hà Nội, phần mềm DauThau.info đã vinh dự nhận giải Sao Khuê 2021 ở lĩnh vực sản phẩm, giải pháp số của ngành phần mềm/công nghệ thông tin VN. Trước đó, Công ty VINADES đã nhận được thư thông báo chúc mừng từ Hiệp hội Phần mềm và dịch vụ công nghệ thông tin VN vì DauThau.info được bình chọn là sản phẩm/giải pháp xuất sắc của ngành phần mềm/công nghệ thông tin.
+
+Đã kiến nghị tới Thủ tướng Trong báo cáo tổng hợp phản ảnh, kiến nghị của DN gửi tân Thủ tướng Phạm Minh Chính của Ban IV (thuộc Hội đồng Tư vấn cải cách thủ tục hành chính) vào đầu tháng 4, trường hợp start-up này đã được đưa ra với thực tế phải mất hơn 3 năm đi xin giấy phép ở nhiều cơ quan nhưng đến nay vẫn mắc kẹt và bị "án treo" trên đầu khi bị thu hồi tên miền, dù muốn hoạt động đúng quy định pháp luật nhưng không được các cơ quan liên quan thông tin phản hồi, cấp phép.
+
+Bộ Kế hoạch và Đầu tư: Sẽ có phản hồi cho doanh nghiệp Ông Nguyễn Thế Hùng kiến nghị trực tiếp tại trụ sở Bộ Kế hoạch và đầu tư tháng 3-2021 - Ảnh: NVCC Trực tiếp đặt câu hỏi này tới ông Trần Duy Đông - thứ trưởng Bộ Kế hoạch và đầu tư, lãnh đạo từng tiếp nhận phản ảnh của DN khi gặp khó khăn đi làm thủ tục tại một hội nghị của bộ này vào đầu tháng 3-2021, ông Đông xác nhận với Tuổi Trẻ về vụ việc. Tuy nhiên, khi kiểm tra với cơ quan chức năng liên quan là Cục Quản lý đấu thầu, ông Đông khẳng định "sẽ có văn bản phản hồi" và đề nghị liên hệ trực tiếp với cục trưởng. Tuy nhiên, cục trưởng Nguyễn Đăng Trương không có bất cứ phản hồi nào với phóng viên.

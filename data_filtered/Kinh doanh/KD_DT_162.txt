@@ -1,0 +1,91 @@
+Title: Khi bong bóng AI nổ, ai sẽ trụ vững?
+
+“Chúng ta có đang ở giai đoạn mà nhà đầu tư quá phấn khích với AI không? Ý kiến của tôi là có”, Sam Altman, CEO OpenAI, thẳng thắn thừa nhận trong một buổi gặp gỡ báo chí. Ông lặp lại từ “bong bóng” 3 lần chỉ trong 15 giây, như một lời cảnh báo lạnh lùng từ chính nhân vật trung tâm của cơn sốt trí tuệ nhân tạo.
+
+Nhưng trong khi Altman lên tiếng cảnh báo, phố Wall lại đang hưng phấn cực độ. Những startup AI chỉ vài nhân sự vẫn gọi vốn trăm triệu USD với định giá “điên rồ”, còn các nhà phân tích lạc quan như Dan Ives của Wedbush thì khẳng định “cuộc cách mạng AI mới chỉ ở thời khắc 1996 của Internet”, có nghĩa là bình minh của kỷ nguyên mới, chứ chưa phải đỉnh điểm bong bóng 1999.
+
+Một bên là nhà sáng tạo công nghệ thận trọng, một bên là giới tài chính liều lĩnh đặt cược hàng nghìn tỷ USD. Giữa hai luồng ý kiến trái ngược, bức tranh thực sự còn phức tạp hơn. Theo chuyên gia Faisal Hoque, không chỉ có một, mà là 3 bong bóng AI đang tồn tại song song và hiểu rõ chúng chính là chìa khóa để doanh nghiệp tìm lối thoát khi ngày “nổ tung” xảy đến.
+
+Giải phẫu bộ 3 bong bóng AI
+
+Nhà phân tích Faisal Hoque đã đưa ra một góc nhìn độc đáo, đó là cơn sốt AI hiện tại thực chất là sự chồng chéo của 3 loại bong bóng khác nhau, mỗi loại có tác động và rủi ro riêng.
+
+Bong bóng tài sản (đầu cơ): "Cơn sốt hoa tulip" thời hiện đại
+
+Đây là loại bong bóng dễ nhận thấy nhất. Cổ phiếu Nvidia được giao dịch ở mức giá gấp 50 lần lợi nhuận, Tesla ở mức choáng váng gấp 200 lần. Nhóm "7 gã khổng lồ" công nghệ đang được định giá dựa trên những kỳ vọng gần như vô hạn vào một tương lai do AI thống trị.
+
+Đây chính là phiên bản hiện đại của "cơn sốt hoa tulip" ở Hà Lan thế kỷ 17, khi các nhà đầu cơ đẩy giá tài sản lên cao hơn nhiều so với giá trị nội tại, chỉ vì một niềm tin đơn giản: sẽ luôn có người khác sẵn sàng trả giá cao hơn. Nhà kinh tế trưởng Torsten Sløk của Apollo Global Management còn đi xa hơn khi cho rằng 10 công ty lớn nhất S&P 500 hiện còn bị định giá quá cao hơn cả thời kỳ đỉnh điểm của bong bóng dot-com.
+
+Đối với hầu hết doanh nghiệp không trực tiếp tham gia cuộc chơi tài chính này, bong bóng đầu cơ có vẻ xa vời. Tuy nhiên, một cú sụp đổ thị trường chứng khoán chắc chắn sẽ gây ra những tổn thương lan tỏa cho toàn bộ nền kinh tế.
+
+Bong bóng hạ tầng: Cuộc đua 7.000 tỷ USD và bóng ma "cơn sốt đường sắt"
+
+Sam Altman có thể cảnh báo về bong bóng, nhưng chính ông cũng tuyên bố OpenAI sẵn sàng chi "hàng nghìn tỷ USD" để xây dựng các trung tâm dữ liệu. Các gã khổng lồ như Microsoft, Google, Amazon và Meta cũng đang đổ hàng tỷ USD vào GPU, hệ thống điện và cơ sở hạ tầng làm mát. McKinsey ước tính thế giới đang trong một "cuộc đua xây dựng trung tâm dữ liệu" trị giá tới 7.000 tỷ USD.
+
+Điều này gợi nhớ đến cuối thế kỷ 19, khi các nhà đầu tư đường sắt xây hàng nghìn km đường ray thừa thãi để đón đầu một nhu cầu không bao giờ đến. Hay gần hơn, cuối thập niên 90, các tập đoàn viễn thông trải thảm cáp quang xuyên đại dương, tạo ra một sự dư thừa công suất phải mất cả thập kỷ sau mới có thể khai thác hết.
+
+Nhà phân tích Harrison Kupperman của Praetorian Capital đã làm một phép tính sơ bộ đáng báo động: chỉ riêng khoản đầu tư vào trung tâm dữ liệu trong năm nay đòi hỏi các công ty công nghệ phải tạo ra thêm 40 tỷ USD doanh thu mỗi năm trong suốt thập kỷ tới chỉ để bù khấu hao. Con số này cao gấp đôi tổng doanh thu từ AI hiện tại (ước tính khoảng 15-20 tỷ USD). Khoảng chênh lệch khổng lồ này chính là định nghĩa của một bong bóng hạ tầng.
+
+Bong bóng thổi phồng kỳ vọng: Khi lời hứa vượt xa thực tế
+
+Đây có lẽ là quả bong bóng nguy hiểm nhất đối với các doanh nghiệp. Mạng xã hội, báo chí, và các phòng họp hội đồng quản trị đều tràn ngập những lời tung hô về khả năng biến đổi của AI. Nhưng thực tế lại phũ phàng hơn nhiều.
+
+Một nghiên cứu gần đây của MIT đã gây chấn động khi chỉ ra rằng 95% các dự án thử nghiệm AI trong doanh nghiệp không tạo ra bất kỳ lợi nhuận nào. Con số này cho thấy một khoảng cách khổng lồ giữa sự cường điệu và giá trị thực tế.
+
+Theo chuyên gia, chúng ta không chỉ đối mặt với một, mà có tới ba quả bong bóng đang phồng lên cùng lúc (Ảnh: Freepik).
+
+Bài học từ lịch sử: Dotcom và "mùa đông AI"
+
+Nếu bong bóng đang tồn tại, vậy đâu là những dấu hiệu cho thấy nó có thể sắp xì hơi, hoặc thậm chí là nổ tung? Những dữ liệu mới nhất đang vẽ nên một bức tranh đáng lo ngại.
+
+Theo một khảo sát định kỳ của Cục Thống kê Dân số Mỹ, lần đầu tiên kể từ khi bắt đầu thu thập dữ liệu vào tháng 11/2023, tỷ lệ các doanh nghiệp lớn (trên 250 nhân viên) sử dụng AI đã giảm rõ rệt trong 2 tháng qua, từ đỉnh 13,5% xuống còn khoảng 12%. Mặc dù ý định ứng dụng trong 6 tháng tới chưa giảm nhưng tốc độ tăng trưởng đã chững lại đáng kể.
+
+Đây là một tín hiệu cảnh báo quan trọng. Nó cho thấy sau giai đoạn thử nghiệm ban đầu, nhiều công ty đang bắt đầu nhận ra sự phức tạp và tốn kém của việc tích hợp AI vào quy trình kinh doanh. Họ đang rút lui.
+
+Sự chật vật này có nhiều điểm tương đồng với "mùa đông AI" những năm 1980, xoay quanh công nghệ "hệ chuyên gia". Khi đó, các công ty hàng đầu cũng đổ tiền vào ứng dụng, một số gặt hái thành công ban đầu, nhưng rồi dần nản lòng vì chi phí duy trì quá cao và hệ thống quá cứng nhắc, dễ dàng thất bại trước những tình huống phức tạp trong thế giới thực.
+
+Ngày nay, AI tạo sinh (GenAI) lại gặp vấn đề ngược lại: chúng không quá cứng nhắc, mà lại quá linh hoạt, thường xuyên "ảo giác" (tự bịa ra thông tin) hoặc đi những đường tắt khó lường. Việc tích hợp các mô hình ngôn ngữ lớn (LLM) không đi kèm "sách hướng dẫn sử dụng", đòi hỏi một khối lượng công việc khổng lồ để tùy chỉnh và kiểm soát, khiến nhiều doanh nghiệp loay hoay.
+
+Cả phe lạc quan và bi quan đều viện dẫn bong bóng dot-com để bảo vệ quan điểm của mình. Điều đó cho thấy bài học từ lịch sử không hề đơn giản.
+
+Vào cuối thập niên 90, những công ty như Pets.com đã đốt 300 triệu USD rồi phá sản, chỉ số NASDAQ mất 78% giá trị. Các chuyên gia khi đó hùng hồn tuyên bố Internet chỉ là "mốt nhất thời". Nhưng trong chính đống tro tàn đó, những gã khổng lồ tương lai lại âm thầm trỗi dậy. Amazon xây dựng mạng lưới hậu cần, Google hoàn thiện thuật toán tìm kiếm, PayPal giải quyết bài toán thanh toán.
+
+Thông điệp rất rõ ràng, đó là một công nghệ có thể bị thổi phồng quá mức, nhưng điều đó không phủ nhận tầm quan trọng cốt lõi của nó. Bong bóng vỡ không có nghĩa là công nghệ vô giá trị. Nó chỉ có nghĩa là có quá nhiều người đã quá hưng phấn và trả giá quá cao cho những ý tưởng chưa được kiểm chứng.
+
+Kịch bản tương tự rất có thể sẽ lặp lại với AI. Khi thị trường điều chỉnh, điều gần như chắc chắn sẽ xảy ra, những công ty chỉ biết chạy theo "trend" sẽ gục ngã. Nhưng những doanh nghiệp tập trung vào việc dùng AI để giải quyết các vấn đề kinh doanh thực tế sẽ là những người chiến thắng sau cùng.
+
+Chiến lược của người thực dụng: Kiếm lợi từ chính bong bóng
+
+Vậy một nhà lãnh đạo doanh nghiệp khôn ngoan nên làm gì giữa tâm bão? Chạy trốn khỏi AI không phải là một lựa chọn. Thay vào đó, hãy tiếp cận nó một cách thực dụng và thậm chí là tận dụng chính sự hỗn loạn của bong bóng.
+
+Để tránh rơi vào cái bẫy "95% thất bại", các doanh nghiệp thành công thường tuân theo 3 nguyên tắc vàng:
+
+Kiến trúc "đặt vấn đề lên trước"
+
+Đừng hỏi "Chúng ta có thể làm gì với AI?" mà hãy hỏi "Đâu là những điểm nghẽn lớn nhất trong hoạt động của chúng ta?". Con người đang lãng phí thời gian vào công việc lặp lại ở đâu? Quy trình nào thường xuyên gây ra lỗi? Dữ liệu bị tắc nghẽn ở đâu khiến quyết định bị trì hoãn? Chỉ sau khi xác định rõ vấn đề, hãy tìm đến AI như một giải pháp tiềm năng.
+
+Cân bằng danh mục đầu tư AI
+
+Đừng đặt tất cả trứng vào một giỏ. Thay vào đó, hãy pha trộn các dự án ngắn hạn và dài hạn, rủi ro thấp và cao.
+
+Thắng lợi nhanh (1-3 tháng): Sử dụng các công cụ AI có sẵn để tự động hóa việc xử lý văn bản, tóm tắt cuộc họp.
+
+Cược chiến lược (3-12 tháng): Xây dựng một giải pháp AI tùy chỉnh để tối ưu hóa một quy trình cốt lõi, chẳng hạn như dự báo nhu cầu hoặc quản lý tồn kho.
+
+Cú bứt phá (trên 12 tháng): Thử nghiệm các mô hình kinh doanh hoàn toàn mới dựa trên AI, ví dụ như hệ thống mua hàng tự động hoàn toàn.
+
+Tích hợp toàn diện
+
+Các dự án AI không nên tồn tại độc lập. Một hệ thống AI kiểm soát chất lượng trong nhà máy có thể cung cấp dữ liệu đầu vào cho một hệ thống AI bảo trì dự đoán. Dữ liệu từ đó lại có thể hỗ trợ một hệ thống AI khác tối ưu hóa chuỗi cung ứng. Khi các hệ thống "nói chuyện" với nhau, chúng tạo ra giá trị cộng hưởng lớn hơn nhiều so với tổng giá trị của từng dự án đơn lẻ.
+
+Sam Altman, CEO ChatGPT, lo bong bóng AI chực vỡ, trong khi phố Wall vẫn mải miết đặt cược (Ảnh: DIA TV).
+
+Có một nghịch lý thú vị, là bong bóng AI, thay vì là mối đe dọa, lại có thể là cơ hội lớn nhất cho những doanh nghiệp có cách tiếp cận thực dụng. Dòng vốn đầu cơ mạo hiểm đang tài trợ cho những hoạt động R&D khổng lồ mà không một ban giám đốc nào dám phê duyệt.
+
+Những nhân tài xuất chúng nhất đang rời bỏ công việc ổn định để xây dựng các công cụ AI mà sau này bạn có thể mua lại với giá rẻ. Cơ sở hạ tầng đang được xây dựng ở quy mô khổng lồ, hứa hẹn một tương lai với chi phí tiếp cận rẻ hơn.
+
+Có lẽ, món quà lớn nhất mà các cuộc tranh luận về bong bóng mang lại chính là sự… đánh lạc hướng. Khi giới bình luận và các nhà đầu tư còn đang bận rộn tranh cãi về giá cổ phiếu Nvidia hay định giá của các startup, những doanh nghiệp nghiêm túc lại có được một khoảng trống lý tưởng để âm thầm làm việc. Họ ít bị cạnh tranh về nhân sự hơn, ít bị soi xét hơn và ít phải chịu áp lực về tiến độ hơn.
+
+Cơn sốt dotcom đã để lại hạ tầng băng thông rộng và một thế hệ lập trình viên web. Bong bóng AI, khi nó điều chỉnh hoặc thậm chí là vỡ, sẽ để lại các cụm GPU mạnh mẽ và một thế hệ kỹ sư học máy tài năng.
+
+Lựa chọn thông minh nhất không phải là né tránh bong bóng, mà là để người khác gánh chịu rủi ro về vốn, còn bạn thì tập trung gặt hái những lợi ích về vận hành. Càng nhiều người ồn ào về bong bóng, cơ hội lại càng rộng mở cho những ai kiên định và có phương pháp.

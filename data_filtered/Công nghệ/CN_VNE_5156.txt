@@ -1,0 +1,9 @@
+Chọn định dạng tập tin phù hợp với hệ điều hành
+
+Trên thực tế, bất kể là MS-DOS, Windows 9x, Windows XP, Unix hay Linux đều sử dụng một hệ thống có chức năng hỗ trợ tổ chức, kiểm soát tập tin và dữ liệu lưu trên ổ đĩa, đảm bảo việc truy cập được nhanh chóng và an toàn. Các hệ thống tập tin có cùng chức năng nhưng bản chất lại rất khác nhau.
+
+Muốn cài đặt nhiều hệ điều hành trên cùng một máy tính, trước tiên phải biết loại hệ thống tập tin mà hệ điều hành đó hỗ trợ và sự khác biệt giữa những hệ thống này. 
+
+
+
+

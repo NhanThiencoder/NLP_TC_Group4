@@ -1,0 +1,25 @@
+Theo trang hỗ trợ của Apple, một trong những lỗi nghiêm trọng nhất được khắc phục trong iOS 26.1 là CVE-2025-43495, liên quan đến WebKit - nền tảng cốt lõi của trình duyệt Safari. Lỗi này có thể cho phép ứng dụng theo dõi thao tác bàn phím mà không cần quyền của người dùng.
+
+Ngoài ra, Apple cũng khắc phục một lỗi trong Kernel có thể khiến thiết bị tự động khởi động lại bất ngờ, cùng với một lỗ hổng trong tính năng Stolen Device Protection (CVE-2025-43422) cho phép kẻ tấn công vô hiệu hóa bảo vệ thiết bị bị đánh cắp khi có quyền truy cập vật lý.
+
+Người dùng iPhone cần cập nhật iOS 26.1 ngay. Ảnh: Du Lam
+
+Chuyên gia bảo mật Adam Boynton đánh giá iOS 26.1 là “một bản cập nhật quy mô lớn”, vá hơn 50 lỗ hổng trong Apple Neural Engine và WebKit, hai thành phần quan trọng ảnh hưởng trực tiếp đến khả năng xử lý AI và hiển thị nội dung web.
+
+“Nếu không được vá, các lỗi này có thể khiến dữ liệu bị hỏng hoặc rò rỉ thông tin nhạy cảm thông qua các nội dung web độc hại”, Boynton cảnh báo.
+
+Ngoài ra, Apple còn giới thiệu tính năng mới Background Security Improvements, cho phép các bản vá bảo mật được cài tự động trong nền mà người dùng không cần thao tác thủ công.
+
+“Đây là bước tiến quan trọng giúp hệ sinh thái iPhone được bảo vệ nhanh hơn và đồng bộ hơn”, Boynton nhận định. “Người dùng không nên trì hoãn việc cập nhật”.
+
+Cố vấn bảo mật Jake Moore đến từ ESET cho biết thêm, bản vá lần này xử lý hàng loạt lỗi trong WebKit, ngăn ngừa rò rỉ dữ liệu và lỗi sập trình duyệt khi truy cập trang web độc hại. “Cập nhật iOS 26.1 ngay sẽ giúp giảm thiểu rủi ro bị tấn công”, ông khuyến nghị.
+
+Đáng chú ý, iOS 26.1 được phát hành độc lập, không kèm bản cập nhật iOS 18. Theo Forbes, điều này cho thấy Apple đã ngừng cung cấp bản vá bảo mật thường kỳ cho iOS 18, ngoại trừ các bản vá khẩn cấp dành cho thiết bị cũ không thể nâng cấp lên iOS 26. Điều đó đồng nghĩa, người dùng muốn đảm bảo an toàn phải cập nhật lên iOS 26.1.
+
+Song song với iOS 26.1, Apple cũng tung ra iPadOS 26.1, macOS Tahoe 26.1, macOS Sequoia 15.7.2, macOS Sonoma 14.8.2, tvOS 26.1, watchOS 26.1, visionOS 26.1, cùng Safari 26.1 và Xcode 26.1. Tất cả đều chứa bản vá bảo mật quan trọng.
+
+Apple hiện đang phát triển iOS 26.2, dự kiến phát hành vào tháng 1/2026, với các tính năng mới như dịch trực tiếp qua AirPods, cải tiến giao diện Màn hình khóa và nâng cấp ứng dụng Nhắc nhở.
+
+iOS 26.1 khả dụng với iPhone 11 trở lên. Để cập nhật, vào Cài đặt > Cài đặt chung > Cập nhật phần mềm.
+
+(Theo Forbes)

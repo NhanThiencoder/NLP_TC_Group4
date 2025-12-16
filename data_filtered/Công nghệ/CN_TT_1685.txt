@@ -1,0 +1,8 @@
+ Học đàn guitar trên mạng
+
+Chương trình đưa ra các tính năng như chơi bản nhạc, in ấn, nhập và xuất ra các định dạng MIDI và ASCII: các bản nhạc và bản phối âm dạng này rất phổ biến và dễ dàng khai thác từ tài nguyên Internet. Guitar Pro còn cho phép dịch chuyển giọng và rất nhiều chức năng hữu ích khác cần kể đến: bảng hợp âm cho guitar, bộ đánh nhịp bài hát, chức năng chỉnh dây cho guitar điện... 
+
+
+
+
+

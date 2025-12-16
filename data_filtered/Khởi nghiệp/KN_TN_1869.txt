@@ -1,0 +1,7 @@
+Theo Engadget, Shooting Star là loại máy bay không người lái (drone) 4 cánh của Intel chuyên thực hiện những màn trình diễn ánh sáng trên bầu trời. Phần mềm đi kèm tự động hóa quá trình chuyển động, thông báo với những máy bay khác địa điểm bay để tạo ra những hình ảnh chúng ta thấy trên bầu trời.
+
+Thậm chí phần mềm này sẽ chọn drone dựa trên mức pin và chất lượng tiếp nhận GPS. Với những chiếc drone này, thay vì mất hàng tuần đề thiết kế những màn trình diễn ánh sáng, người dùng sẽ chỉ còn mất vài ngày. Bạn chỉ cần một người điều khiển để chạy tất cả mọi thứ, và ánh sáng LED tại trung tâm của drone có thể tỏa sáng với nhiều tùy chọn về màu sắc.
+
+Bên cạnh đó, phần cứng máy bay được thiết kế để giảm thiểu tối đa thiệt hại nếu gặp tai nạn. Sản phẩm được xây dựng với những chất liệu bằng bọt nhựa, nhựa dẻo và lồng quạt để bảo vệ người. Ngoài ra, Shooting Star có thể bay tốt dưới điều kiện mưa nhẹ. Thời gian bay ước tính của drone là 20 phút. Bên cạnh đó, phần cứng máy bay được thiết kế để giảm thiểu tối đa thiệt hại nếu gặp tai nạn. Sản phẩm được xây dựng với những chất liệu bằng bọt nhựa, nhựa dẻo và lồng quạt để bảo vệ người. Ngoài ra, Shooting Star có thể bay tốt dưới điều kiện mưa nhẹ. Thời gian bay ước tính của drone là 20 phút.
+
+Đầu năm nay Intel đã thử nghiệm màn trình diễn của 100 drone, và tháng 10 vừa qua là 500 chiếc. Đây hứa hẹn sẽ là một công nghệ cho tương lai đặc biệt cho các ca sĩ với những ý tưởng về ánh sáng. Intel hiện chưa công bố giá bán của Shooting Star.

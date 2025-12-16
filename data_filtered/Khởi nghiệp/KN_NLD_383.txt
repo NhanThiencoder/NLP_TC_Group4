@@ -1,0 +1,39 @@
+Cách đây chưa đầy 1 thập kỷ, 3 nhà sáng lập Segment là Peter Reinhardt, Calvin French-Owen và Ilya Volodarsky vẫn còn là sinh viên của Học viện Công nghệ Massachusetts (MIT). Họ sống cùng một ký túc xá và có chung ước mơ thành lập startup của riêng mình.
+
+Không lâu sau, 3 chàng sinh viên nảy ra ý tưởng cho một công ty công nghệ được chấp nhận tại "vườn ươm khởi nghiệp" Y Combinator và năm 2011, họ thành lập doanh nghiệp với 600.000 USD tài trợ.
+
+Dưới đây là những bài học quan trọng mà họ học được để đạt tới thành công như ngày nay:
+
+Mạnh dạn thể hiện mong muốn của mình
+
+Trước khi học tại MIT, Reinhardt, French-Owen và Volodarksy không biết nhiều về văn hóa khởi nghiệp. Đến khi đọc các bài viết của người đồng sáng lập Y Combinator, Paul Graham và cùng tham gia lớp học có tên "Hành trình của người sáng lập" vào năm 2010, mong muốn trở thành doanh nhân của họ mới hình thành.
+
+Mỗi tuần tại lớp học "Hành trình của người sáng lập" tại MIT, nhà sáng lập của một startup thành công sẽ chia sẻ câu chuyện của mình và trả lời câu hỏi của sinh viên. Khách mời đầu tiên là cựu sinh viên MIT - Adam Smith, người sáng lập công ty phần mềm email Xobni và công ty học máy Kite.
+
+Buổi chia sẻ của Smith khiến cả 3 vô cùng hào hứng. Cuối buổi, Volodarsky nảy ra một ý tưởng độc đáo: Mời Smith về ký túc xá uống bia! Ban đầu, Reinhardt cảm thấy việc làm này khá xấu hổ nhưng cuối cùng, họ đã mạnh dạn mời Smith. Kết quả là, trước sự ngạc nhiên của họ, Smith đồng ý.
+
+Khoảnh khắc đó, Reinhardt nhận ra rằng nhà sáng lập cũng là người bình thường, làm những việc bình thường và rất có thể họ cũng sẽ trở thành người sáng lập doanh nghiệp trong tương lai.
+
+Ba nhà sáng lập Segment ở thời điểm hiện tại.
+
+Đằng sau thành công là thất bại
+
+Sau cuộc gặp với Smith, Reinhardt, French-Owen và Volodarsky đã dành phần còn lại của năm học để cố gắng tạo ra sản phẩm mà họ có thể kinh doanh. Mùa xuân năm 2011, họ nghĩ ra ý tưởng về một công cụ giảng bài trong lớp học mang tên Segment, nộp đơn gia nhập Y Combinator và được chấp nhận.
+
+Với 1 năm còn lại ở MIT, họ xin bảo lưu rồi chuyển đến căn hộ 3 phòng ngủ ở San Francisco để sống và làm việc. Reinhardt trở thành CEO, French-Owen đảm nhiệm vai trò CTO trong khi Volodarsky là chủ tịch công ty. Họ mời một người bạn là Ian Storm Taylor, làm nhà thiết kế chính.
+
+Tuy nhận được 600.000 USD đầu tư của Y Combinator và một sản phẩm trọng tâm, dự án của 3 người đã thất bại bởi hầu hết sinh viên không sử dụng nó như dự định. Sau khi mở máy tính, họ bắt đầu lướt Internet thay vì tập trung vào bài giảng. Điều này khiến 3 nhà sáng lập phải dừng lại.
+
+Từ mùa thu năm 2011 đến mùa đông năm 2012, họ đã làm việc từ 80-100 giờ mỗi tuần để tạo ra sản phẩm mới cho Segment: Công cụ phân tích trang web để các công ty hiểu rõ hơn hành vi khách hàng. Thế nhưng đây cũng là một "thảm họa", Reinhardt cho biết. Hóa ra, đã có rất nhiều người chơi trên thị trường. Khi đó, cả 3 chỉ còn lại 100.000 USD và gần như 1 cơ hội cuối cùng.
+
+Reinhardt chia sẻ: "Việc được đầu tư 600.000 USD rất tuyệt vời với chúng tôi nhưng không lâu sau, chúng tôi phải trải qua hết lần thất bại này đến lần thất bại khác".
+
+Trực giác có thể "hoàn toàn sai", hãy lắng nghe phản hồi
+
+Nhóm sáng lập Segment quyết định phát hành một phiên bản của công cụ lập trình nội bộ mà họ tạo ra để xây dựng các sản phẩm trước đây và đặt tên là Analytics.js. Nó ngày càng trở nên phổ biến sau khi 3 người chia sẻ trên GitHub, nền tảng nổi tiếng dành cho các nhà phát triển. Khi đó, Taylor cho rằng nên biến Analytics.js thành sản phẩm thương mại nhưng Reinhardt phản đối.
+
+Để quyết định xem Taylor có đúng hay không, họ khởi chạy trên một cộng đồng nhà phát triển do Y Combinator điều hành. Trước sự ngạc nhiên của Reinhardt, hàng nghìn người đã quan tâm đến sản phẩm và liên hệ để tiếp cận với sản phẩm.
+
+Reinhardt nói: "Buổi ra mắt là bằng chứng rõ ràng cho thấy trực giác của tôi có thể hoàn toàn sai trong thế giới thực". Đây không phải lần duy nhất nhóm sáng lập Segment xem xét phản hồi để thay đổi. Năm 2016, họ ra mắt Warehouses và Sources sau khi tiếp nhận phản hồi. Kết quả là doanh thu đã tăng gấp 4 lần.
+
+Đến năm 2019, Segment huy động được 284 triệu USD và mang về hàng chục triệu USD doanh thu hàng năm trước khi được Twilio mua lại với giá 3,2 tỷ USD cách đây không lâu. Segment, công ty nổi tiếng với việc quản lý dữ liệu khách hàng của các thương hiệu lớn từ IBM đến Glossier.

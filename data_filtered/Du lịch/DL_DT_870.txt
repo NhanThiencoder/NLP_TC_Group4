@@ -1,0 +1,41 @@
+Bị chia tay vì điện thoại tự kết nối với Wifi khách sạn
+
+Một sự cố hy hữu xảy ra tại thành phố Trùng Khánh (Trung Quốc) đang gây nhiều tranh cãi trên cộng đồng mạng nước này.
+
+Vào kỳ nghỉ tuần lễ vàng hồi đầu tháng 5 vừa qua, một cặp đôi tới nhận phòng tại một khách sạn ở thành phố Trùng Khánh. Khi làm thủ tục, nữ du khách phát hiện quên mang theo căn cước công dân.
+
+Người này mở điện thoại để dùng căn cước công dân điện tử. Bất ngờ điện thoại của cô báo đã kết nối thành công với mạng Wifi của khách sạn mà không cần sử dụng mật khẩu.
+
+Nữ du khách chia sẻ câu chuyện của mình (Ảnh: News).
+
+Chứng kiến khoảnh khắc này, bạn trai của nữ du khách tỏ ra nghi ngờ. Chàng trai hỏi thẳng bạn gái có phải từng tới đây nghỉ với ai đó nên mạng Wifi mới tự động kết nối.
+
+Dù cô gái nhiều lần khẳng định chưa từng tới khách sạn, nhưng bạn trai vẫn không tin. Cả hai dẫn tới tranh cãi nảy lửa và cuối cùng họ quyết định đường ai nấy đi.
+
+Kết thúc chuyện tình của mình nhưng cô gái thấy ấm ức nên muốn tìm nguyên nhân của vụ việc.
+
+Theo lời cô gái, trước đây người này từng làm việc tại một khách sạn gần đó. Cơ sở lưu trú này có Wifi và mật khẩu vô tình trùng khớp với khách sạn nơi cặp đôi từng ghé qua. Bởi vậy, điện thoại của cô gái mới có thể tự động kết nối nhờ tính năng ghi nhớ mật khẩu.
+
+Để xác minh, một phóng viên đã thử nghiệm bằng cách kết nối với Wifi tại khách sạn mà nữ du khách từng làm việc.
+
+Sau đó, khi tới khách sạn nơi xảy ra vụ việc, kiểm tra điện thoại và phóng viên cũng thấy thiết bị này tự động kết nối Wifi mà không cần nhập mật khẩu. Điều này phần nào cho thấy lời giải thích của nữ du khách là có cơ sở.
+
+Về phần mình, khi sự việc được phanh phui, nữ du khách khẳng định muốn làm rõ điều này không phải vì muốn kết nối lại tình cảm với người cũ, mà để đòi lại danh dự.
+
+"Tôi chỉ muốn nhận lời xin lỗi của anh ấy. Chúng tôi chia tay chỉ vì sự trùng hợp ngẫu nhiên của công nghệ. Anh ta không được xúc phạm tới nhân phẩm của tôi", nữ du khách nói.
+
+Wifi tự động kết nối: Hiện tượng không quá hiếm
+
+Câu chuyện cũng nhận được sự chú ý của cộng đồng mạng. Trong đó nhiều người bày tỏ sự đồng cảm với nữ du khách và cho rằng họ từng gặp tình huống tương tự khi điện thoại tự kết nối với những Wifi có tên và mật khẩu từng đăng nhập trước đó.
+
+Các chuyên gia công nghệ cũng khẳng định, hiện tượng này có thể xảy ra.
+
+Theo nguyên lý hoạt động, thiết bị di động khi gặp mạng Wifi có cùng tên (SSID) và mật khẩu đã từng lưu sẽ tự động kết nối nếu tính năng "tự động kết nối mạng đã lưu" được kích hoạt.
+
+Trong trường hợp này, dù hai khách sạn khác nhau, nếu dùng chung tên mạng và mật khẩu, thiết bị vẫn có thể nhận diện và truy cập như thường.
+
+Người dùng nên cân nhắc tắt tính năng tự động kết nối Wifi trên điện thoại (Ảnh minh họa: News).
+
+Tuy nhiên, chuyên gia cũng cảnh báo việc để điện thoại tự động kết nối WiFi công cộng tiềm ẩn nguy cơ rò rỉ dữ liệu cá nhân. Người dùng nên cân nhắc tắt tính năng này để đảm bảo an toàn thông tin.
+
+"Trường hợp này phản ánh một thực tế đáng buồn. Thời đại mà công nghệ phát triển nhanh chóng, con người dường như càng dễ rơi vào trạng thái dễ nghi ngờ, mất niềm tin ở nhau. Vậy công nghệ làm cuộc sống tiện lợi hơn, hay khiến khoảng cách giữa người và người trở nên xa cách", một tài khoản Weibo đặt câu hỏi.

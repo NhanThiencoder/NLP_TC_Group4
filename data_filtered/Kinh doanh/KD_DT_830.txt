@@ -1,0 +1,31 @@
+Title: Lộ rõ bất cập khi nhiều hộ kinh doanh dùng QR cá nhân để nhận thanh toán
+
+Phát biểu tại hội thảo "Thanh toán QR Code: Minh bạch và trải nghiệm không giới hạn" do tạp chí Kinh tế Việt Nam (VnEconomy) tổ chức chiều 19/11, ông Phạm Tiến Dũng, Phó thống đốc Ngân hàng Nhà nước, cho biết thanh toán hàng hóa, dịch vụ ở Việt Nam như cốc nước trà, bó rau… đều có thể dùng mã QR.
+
+Người mua chỉ dùng điện thoại thông minh để quét mã QR của người bán để thanh toán một cách dễ dàng và nhanh chóng. “Bản chất QR vẫn là chuyển tiền giữa 2 tài khoản, nhưng nó tiện vì chỉ quét là có luôn thông tin, không phải gõ lại số tài khoản người nhận nữa. Vì vậy, QR nhanh hơn, chứ không có nghĩa là minh bạch hơn”, ông nêu.
+
+QR chuyển tiền chỉ mã hóa số tài khoản để người mua chuyển khoản như thông thường, trong khi QR thanh toán chứa thông tin của đơn vị bán hàng và giao dịch, cho phép hạch toán và quản lý doanh thu minh bạch hơn.
+
+Theo ông, vấn đề QR thanh toán cần được nhìn từ góc độ đơn vị bán hàng. Để vận hành hiệu quả, doanh nghiệp phải có đầy đủ hệ thống từ công nghệ, nhập - xuất hàng, giao nhận, xuất hóa đơn đến thanh toán. Khi đó, khoản tiền thu được mới có thể tự động hạch toán vào phần mềm kế toán. Vì vậy, triển khai QR thanh toán không hề đơn giản, nhưng nếu làm tốt sẽ giúp các đơn vị bán hàng giảm nhiều thời gian và khối lượng công việc.
+
+Ông Phạm Tiến Dũng nhấn mạnh, không phải ai dùng tiền mặt hay QR chuyển khoản là trốn thuế, và cũng không phải cứ dùng QR thanh toán là nộp đủ thuế. QR thanh toán mới chỉ giải quyết khâu chuyển tiền, nhận biết tiền vào tài khoản; còn việc ghi nhận vào báo cáo tài chính có tự động hay không lại phụ thuộc vào khả năng kết nối giữa hệ thống bán hàng và hệ thống kế toán.
+
+Ông Phạm Tiến Dũng, Phó thống đốc Ngân hàng Nhà nước (Ảnh: VnEconomy).
+
+Chỉ ra một số vấn đề trong quá trình triển khai thanh toán qua QR Code thời gian qua, ông Phạm Anh Tuấn - Vụ trưởng Vụ Thanh toán (Ngân hàng Nhà nước) - cho biết, quá trình triển khai thanh toán bằng QR Code thời gian qua tồn tại nhiều vấn đề.
+
+Một thực tế phổ biến là nhiều đơn vị bán hàng vẫn dùng mã QR cá nhân để nhận tiền thanh toán hàng hóa, dịch vụ. Hình thức này được ưa chuộng vì nhanh gọn, tiện lợi, không mất phí và không cần ký kết hợp đồng. Tuy nhiên, đây lại là một hạn chế lớn trong quản lý và minh bạch giao dịch.
+
+Ông cũng chỉ ra sự thiếu phối hợp đồng bộ giữa các đơn vị phát hành thương hiệu QR Code. Việc chưa hợp tác chặt chẽ để bảo đảm khả năng liên thông khiến thanh toán QR giữa các hệ thống đôi khi gặp bất tiện, ảnh hưởng trực tiếp đến trải nghiệm của khách hàng.
+
+Dịch vụ thanh toán xuyên biên giới đã hợp tác triển khai với một số các quốc gia như Thái Lan, Lào, Campuchia, tuy nhiên số lượng giao dịch chưa nhiều, chưa tương xứng với nhu cầu của thị trường.
+
+Nhằm khắc phục những vướng mắc còn tồn tại, ông Phạm Anh Tuấn đề xuất một số định hướng trong thời gian tới.
+
+Thứ nhất, các tổ chức cung ứng dịch vụ thanh toán/trung gian thanh toán cần tập trung chú trọng mở rộng mạng lưới đơn vị chấp nhận thanh toán để đáp ứng nhu cầu ngày càng tăng của người dân và doanh nghiệp; có biện pháp khuyến khích đơn vị chấp nhận thanh toán sử dụng QR Code thanh toán thay vì QR Code chuyển tiền.
+
+Thứ 2 là tăng cường hợp tác liên thông thanh toán giữa các thương hiệu cung cấp QR Code khác nhau nhằm đem lại tiện ích thanh toán cho khách hàng.
+
+Thứ 3 là hướng tới triển khai kết nối với Trung Quốc, Hàn Quốc, Singapore, Ấn Độ, Đài Loan (Trung Quốc), Malaysia...
+
+Thứ 4 là tăng cường truyền thông để khách hàng biết tới dịch vụ, tăng cường công tác đào tạo nhân viên tại đơn vị chấp nhận thanh toán để bảo đảm khách hàng có thể nhận diện và sử dụng đúng dịch vụ thanh toán bán lẻ song phương qua QR Code.

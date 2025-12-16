@@ -1,0 +1,21 @@
+MỹNguyên mẫu camera mới nhận dạng và phân loại hình ảnh nhanh gấp 200 lần mạng thần kinh nhân tạo truyền thống, đồng thời không tốn điện.
+
+Camera nhỏ gọn chứa các thành phần quang học hoạt động như một mạng thần kinh nhân tạo, có thể phân loại hình ảnh với tốc độ ánh sáng. Ảnh: Đại học Princeton
+
+Nhóm nghiên cứu tại Đại học Princeton và Đại học Washington phát triển nguyên mẫu camera nhỏ gọn dành cho công nghệ thị giác máy tính - một dạng AI giúp máy tính xác định các vật thể trong ảnh và video, Interesting Engineering hôm 3/3 đưa tin.
+
+Nguyên mẫu camera thể hiện một cách tiếp cận mới về thị giác máy tính, dựa vào ánh sáng thay vì điện, nhờ đó tiêu thụ ít năng lượng hơn nhiều so với máy tính truyền thống, đồng thời nhận dạng vật thể với tốc độ ánh sáng. Nghiên cứu mới xuất bản trên tạp chí Science Advances.
+
+Theo Felix Heide, phó giáo sư khoa học máy tính tại Đại học Princeton, thành viên nhóm nghiên cứu, ý tưởng về camera hình thành khi ông bắt đầu tìm hiểu siêu bề mặt - vật liệu nhân tạo dạng tấm phẳng với những đặc điểm cận bước sóng. Với cấu trúc hình học độc đáo, các siêu bề mặt không bẻ cong ánh sáng đi qua kính hoặc nhựa như ống kính truyền thống. Thay vào đó, chúng làm nhiễu xạ ánh sáng xung quanh những cấu trúc tí hon, giống như cách ánh sáng lan tỏa khi đi qua một khe hẹp.
+
+Nhóm của Heide hợp tác với các chuyên gia từ Phòng thí nghiệm chế tạo nano Washington để thiết kế camera và chế tạo chip. Thay vì ống kính thủy tinh hoặc nhựa truyền thống, họ dùng 50 siêu ống kính phẳng, nhẹ xếp chồng lên nhau, sử dụng các cấu trúc nano cực nhỏ để điều khiển ánh sáng.
+
+Những siêu thấu kính này đóng vai trò như mạng thần kinh quang học, một hệ thống AI lấy cảm hứng từ não, và mang đến những lợi ích lớn. Camera cực nhanh, có thể nhận dạng và phân loại hình ảnh nhanh gấp 200 lần mạng thần kinh nhân tạo truyền thống, đồng thời cũng rất tiết kiệm năng lượng vì hoạt động bằng ánh sáng lọt vào thay vì điện.
+
+Tiếp theo, nhóm nghiên cứu phát triển một hệ thống có khả năng nhận dạng vật thể trong ảnh mà chỉ sử dụng chưa đến 1% công suất tính toán so với các phương pháp cũ. Ống kính siêu bề mặt xử lý tới 99,4% khối lượng công việc.
+
+Hệ thống này giới thiệu một mô hình mới, thực hiện hàng trăm triệu phép tính tức thời. Trong khi mạng thần kinh nhân tạo truyền thống áp dụng các bộ lọc toán học để trích xuất dữ liệu, đòi hỏi nhiều phép tính kể cả với vài pixel, mô hình mới thực hiện quá trình lọc phức tạp khi ánh sáng đi qua, cho phép vài bộ lọc lớn phân tích toàn bộ hình ảnh cùng lúc.
+
+"Nghiên cứu thực sự có nhiều ứng dụng rộng rãi, từ ôtô tự lái, xe tải tự lái, các loại robot cho đến thiết bị y tế và smartphone. Ngày nay, mọi chiếc iPhone đều trang bị AI hoặc công nghệ thị giác. Công trình này vẫn còn ở giai đoạn sơ khai, nhưng trong tương lai, tất cả những ứng dụng nói trên có thể hưởng lợi từ những gì chúng tôi đang phát triển", Heide cho biết.
+
+Thu Thảo (Theo Interesting Engineering)

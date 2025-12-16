@@ -1,0 +1,21 @@
+Hệ thống qua đường thông minh đang được thử nghiệm tại Úc có thể điều chỉnh đèn giao thông theo số lượng người đi bộ qua đường - Ảnh: Drive
+
+Một số khu vực đông người qua lại tại Melbourne, Úc đang thử nghiệm hệ thống "qua đường công nghệ cao".
+
+Hệ thống nói trên sử dụng cảm ứng và camera độ phân giải cao để nhận định có bao nhiêu người đang đứng chờ qua đường, hoặc đang băng qua đường.
+
+Phần mềm được lập trình sẵn sẽ tính toán và điều chỉnh độ dài đèn xanh hiển thị để vừa vặn thời gian số người này qua đường.
+
+Lấy ví dụ, ở những nơi cao điểm có đông người đi bộ qua lại, đèn đỏ hiển thị cho xe sẽ lâu hơn. Ngược lại, khi không có người đi bộ qua đường, thời gian đèn xanh sẽ được kéo dài tối đa.
+
+Cảm ứng và camera lắp đặt gần các vị trí qua đường sẽ phát hiện số người chờ qua đường để tự điều chỉnh thời gian đèn đỏ. Công nghệ này hứa hẹn rất hữu ích tại các trường học hay bệnh viện đông người qua lại - Ảnh: Drive
+
+Hệ thống trên cũng có khả năng phát hiện người khuyết tật hoặc gặp khó khăn trong việc đi lại để dừng đèn đỏ lâu hơn.
+
+Trong kỷ nguyên hiện đại, ô tô ngày nay đã trở nên thông minh hơn đáng kể. Còn hệ thống đèn tín hiệu giao thông đã trì trệ trong nhiều năm nay.
+
+Hệ thống đèn tín hiệu trước giờ luôn được lập trình "bất di bất dịch" với chu kỳ cố định, tuy nhiên chính phủ nhiều quốc gia như Úc đang nghiên cứu phương thức cải tiến.
+
+Mục tiêu của họ là xây dựng mạng lưới giao thông thông minh để hỗ trợ người dân nhiều nhất có thể, nhằm giảm bớt thời gian chết khi tham gia giao thông, cũng như cải thiện an toàn.
+
+Úc đã đầu tư số tiền tương đương 5.350 tỉ đồng để đưa vào ứng dụng thử nghiệm những giải pháp giao thông mới như hệ thống qua đường thông minh nói trên.

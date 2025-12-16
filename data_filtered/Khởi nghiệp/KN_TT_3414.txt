@@ -1,0 +1,49 @@
+Videoo: Đ.NHẠN - M.HUỲNH - M.HUYỀN - B.NGÂN
+
+Sau hơn 3 năm xây dựng, dự án của đôi bạn ngày càng phát triển, hỗ trợ tích cực cho hàng chục doanh nghiệp dệt may trong nước trên hành trình chuyển đổi số.
+
+Giảm sức người, tăng hiệu quả
+
+Một buổi chiều đầu tháng 4, phân xưởng của Nhà máy may Vinatex Dung Quất (Quảng Ngãi) với hơn 500 công nhân không còn bóng người chạy gấp rút kiểm kê, không còn tiếng gọi điện báo cáo, hay những xấp giấy tờ ngổn ngang con số. Âm thanh bận rộn duy nhất là tiếng máy may hối hả.
+
+Ông Nguyễn Đại - phó giám đốc Nhà máy may Vinatex Dung Quất - bảo rằng trước đây tất cả việc ghi chép, tổng hợp năng suất trong xưởng đều phải dùng sức người. Đã 6 tháng từ khi đưa hệ thống Retex vào ứng dụng, các cán bộ quản lý đỡ vất vả hơn và chỉ việc xem năng suất qua điện thoại. Bộ phận quản lý cũng nắm được vấn đề ngay khi gặp trục trặc ở một công đoạn nào đó. Việc quản lý dây chuyền sản xuất thuận lợi hơn rất nhiều.
+
+Phân xưởng khi ứng dụng công nghệ Retex, chỉ cần cài một trình ứng dụng web chung và hai ứng dụng riêng dành cho công nhân và tổ kiểm soát chất lượng.
+
+Khác với trước đây công nhân mỗi ngày sẽ làm rất nhiều báo cáo tiến độ sản xuất, các thông tin về năng suất và chất lượng trong xưởng. Từ khi có phần mềm, phòng kế hoạch chỉ cần nhập các thông tin về đơn hàng vào trong phần mềm và từ đó thông tin được truyền đến các bộ phận cấp dưới như các chuyền may, tổ cắt.
+
+Việc báo cáo năng suất cũng dễ dàng hơn khi một hoặc vài tiếng một lần, trưởng chuyền may chỉ cần nhập năng suất vào app được cài trong điện thoại hoặc máy tính bảng bố trí đầu chuyền may. Cuối ngày hệ thống sẽ tổng hợp năng suất và chất lượng trong ngày. Người quản lý sẽ nắm toàn bộ thông tin nhanh chóng và chính xác.
+
+Anh Nguyễn Văn Thuật - đồng sáng lập Retex (phải) - trao đổi với ông Nguyễn Đại - phó giám đốc Nhà máy may Vinatex Dung Quất - về các vấn đề kỹ thuật của phần mềm - Ảnh: ĐOÀN NHẠN
+
+Anh Nguyễn Văn Thuật - đồng sáng lập Retex, phụ trách công nghệ và triển khai tại phân xưởng - cho biết phần mềm giúp đơn giản hóa quy trình thu thập dữ liệu và làm báo cáo trong các xưởng may. Phần mềm cũng tự động xử lý số liệu và đưa ra báo cáo. So với việc nhập liệu vào Excel hay Word, nếu dùng phần mềm, người quản lý dễ dàng xem được các số liệu, dữ liệu ở nhiều góc cạnh khác nhau.
+
+"Việc thống kê năng suất lao động của từng công nhân cũng như so sánh năng suất giữa các nhà xưởng trong cùng một công ty cũng trở nên dễ dàng hơn, từ đó minh bạch quy trình sản xuất" - anh Thuật nói.
+
+Trăn trở từ một người con của ngành may
+
+Người "khai sinh" nền tảng công nghệ này từng là chị Trần Thị Thanh Loan - một người con của ngành may.
+
+Sau khi tốt nghiệp đại học, Loan đầu quân cho một công ty may ở Quảng Nam. Gần 8 năm làm trong bộ phận quản lý ở đây, chị nhận thấy nhiều bất cập khi công ty vẫn áp dụng phương pháp quản lý các dây chuyền, xưởng may theo cách truyền thống. Điều này khiến việc quản lý số lượng và hiệu quả làm việc của công nhân cũng như số lượng hàng hóa, nguyên vật liệu hay tiến độ, chất lượng sản phẩm không hiệu quả.
+
+Sau nhiều trăn trở, Loan nảy ra ý tưởng về một phần mềm công nghệ giải quyết các bài toán trên. Chị chia sẻ ý tưởng với người bạn của mình là anh Thuật bấy giờ đang làm trong lĩnh vực công nghệ. Cùng chung chí hướng, đôi bạn cùng với các cộng sự khác bắt tay xây dựng nên ứng dụng Retex và ra mắt vào đầu năm 2019.
+
+Chị Trần Thị Thanh Loan - CEO, đồng sáng lập Retex (thứ 3 trái sang) - cùng các cộng sự không ngừng cải tiến ứng dụng - Ảnh: ĐOÀN NHẠN
+
+Retex là tên viết tắt của "Revolution Textile" có nghĩa "Cách mạng ngành dệt may", mang hàm ý "chuyển đổi số ngành may" và tạo ra các "nhà xưởng thông minh".
+
+
+
+Chị Loan cho biết Retex được thiết kế, xây dựng hoàn toàn trên nền tảng công nghệ điện toán đám mây, có thể triển khai, bảo trì, nâng cấp dễ dàng và nhanh chóng. Giúp cho bộ phận quản lý làm việc mọi lúc, mọi nơi chỉ với một thiết bị được kết nối mạng Internet.
+
+"Nền tảng Retex kết hợp với các thiết bị IoTs tạo ra các nhà xưởng thông minh với mục đích giúp các doanh nghiệp dệt may dễ dàng trong việc quản lý, minh bạch trong quy trình sản xuất. Qua đó, tiết kiệm được chi phí, giảm tải công việc và nâng cao năng lực sản xuất" - Loan nói.
+
+Giai đoạn đầu khi ứng dụng ra mắt, đội ngũ Retex đã gặp không ít khó khăn. Khách hàng còn e ngại khi đưa một ứng dụng hoàn toàn mới vào quản lý quy trình sản xuất. Việc vận hành cũng gặp nhiều lúng túng khi công nhân và nhân viên vốn đã quen làm mọi thứ "thủ công".
+
+Loan, Thuật và các cộng sự đã dành nhiều thời gian thuyết phục các công ty may. Rồi khi khách hàng đồng ý, đội ngũ phải thuyết phục các quản lý, công nhân tham gia quy trình mới. Bộ phận kỹ thuật phải túc trực ở các xưởng hỗ trợ khách hàng suốt mấy tháng đầu triển khai.
+
+Sau nhiều nỗ lực, đến nay Retex đã triển khai thành công hơn 30 xưởng dệt may lớn tại Việt Nam. Mỗi xưởng có quy mô trung bình 500 - 2.000 công nhân và hàng trăm tổ hợp may vừa và nhỏ.
+
+Vừa qua, dự án Retex xuất sắc nằm trong top 30 start-up tiêu biểu trong chương trình Tuổi Trẻ Golf Tournament For Start-up 2022. Chị Loan tâm niệm start-up cũng là một doanh nghiệp như bao doanh nghiệp khác. Để tồn tại thì sản phẩm phải tạo ra được giá trị cho khách hàng. Sự tận tâm với mỗi khách hàng là yếu tố không thể bỏ qua khi khởi nghiệp. "Ngoài ra, con người là chủ thể quan trọng nhất. Retex không chỉ là một mô hình kinh doanh, mà là một sứ mệnh, chúng tôi tập hợp những người chung sứ mệnh, chung mục đích để làm việc cùng nhau, đồng hành cùng sứ mệnh" - CEO trẻ tuổi này cho hay.
+
+"Cảm hứng khởi nghiệp" truyền lửa đến giới trẻ Chuỗi sự kiện Tuổi Trẻ Golf Tournament For Start-up 2022 đã khép lại bằng chương trình talkshow "Cảm hứng khởi nghiệp", tổng kết, vinh danh và trao giải các start-up tiêu biểu mùa 3 tại Đại học Quốc gia TP.HCM vừa qua. Nhằm tạo sân chơi ý nghĩa và khích lệ tinh thần khởi nghiệp cho start-up cả nước, báo Tuổi Trẻ phối hợp Hội Liên hiệp thanh niên Việt Nam TP.HCM triển khai các hoạt động liên quan, thu hút hàng ngàn bạn trẻ và các chuyên gia uy tín tham dự. Trước đó, các nhà khởi nghiệp trẻ cũng đã được giao lưu, học hỏi kinh nghiệm và được truyền cảm hứng khởi nghiệp từ các golf thủ vào đêm gala tại Long Thành (Đồng Nai). Đây là hoạt động thường niên nhằm kỷ niệm 91 năm ngày thành lập Đoàn, hướng đến mục tiêu trở thành quốc gia khởi nghiệp. Qua đó, khuyến khích tinh thần thể thao, vận động, tạo sự lan tỏa, kết nối các doanh nghiệp, thêm cơ hội giao lưu giữa cộng đồng doanh nhân. Ngoài việc được vinh danh trên mặt báo, những câu chuyện khởi nghiệp sẽ có cơ hội tiếp cận với nhiều quỹ đầu tư cũng như quảng bá hình ảnh đến với công chúng. Ban tổ chức đã chọn 30 start-up tiêu biểu để hỗ trợ một khoản kinh phí với sự đồng hành của các đơn vị: Công ty CP PFEC Hòn Ngọc Viễn Đông, Hưng Thịnh Land, FE Credit, Number 1, An Hòa, Tân Thuận CT&D, Esuhai...; trong đó có giải thưởng đặc biệt trị giá 100 triệu đồng do Công ty CP PFEC Hòn Ngọc Viễn Đông trao tặng. MINH HUỲNH

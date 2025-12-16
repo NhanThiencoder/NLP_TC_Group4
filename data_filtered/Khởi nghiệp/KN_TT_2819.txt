@@ -1,0 +1,38 @@
+Anh Nguyễn Hải Triều trình bày về dự án StrengthAI tại cuộc thi Startup Wheel 2024 - Ảnh: NVCC
+
+Sản phẩm này được nhóm bạn Nguyễn Hải Triều, Đoàn Duy Khải và Bùi Tiến Huy đồng sáng lập, thuộc Công ty TNHH CREW GROUP (TSC - The Strength Crew). Nhóm bạn trẻ cho biết họ mong có thể mang công nghệ và khoa học thể thao hiện đại đến gần hơn với vận động viên trong nước hoặc với bất kỳ ai yêu thích, tập luyện thường xuyên.
+
+Mục tiêu ngắn hạn là StrengthAI xuất hiện trên thị trường một cách rộng rãi. Đồng thời nhóm thu thập dữ liệu từ nhiều vận động viên trong nước để cùng xây dựng bộ số liệu mẫu đặc trưng cho thể trạng người Việt Nam. Anh NGUYỄN HẢI TRIỀU
+
+StrengthAI giải bài toán đo hiệu suất tập luyện
+
+Từng là vận động viên lại có sở thích nghiên cứu về khoa học thể thao, anh Nguyễn Hải Triều - đại diện nhóm - nói quá trình tìm hiểu giúp anh nhận ra trong cách tập luyện của không ít người, trong đó có cả vận động viên chuyên nghiệp, là thiếu lộ trình rõ ràng, chưa nhiều công cụ đánh giá hiệu suất cũng như điểm mạnh yếu của mỗi người.
+
+Chẳng hạn với môn bóng rổ, ở nước ngoài có nhiều phương pháp và công cụ hiện đại đánh giá các yếu tố thể chất của vận động viên. Nhiều trung tâm huấn luyện và đội tuyển tại các trường trung học đến đại học đều sẵn sàng đầu tư giúp vận động viên phát triển tốt hơn về thể chất lẫn kỹ thuật.
+
+Phải thừa nhận công nghệ và máy móc phục vụ thể thao trong nước vẫn còn hạn chế. Nhóm các bạn trẻ này muốn bắt đầu từ việc mang những phương pháp huấn luyện và công nghệ tiên tiến từ nước ngoài về Việt Nam. Câu hỏi đặt ra là làm sao để vận động viên biết được bản thân đang ở đâu, nổi trội khâu nào, còn hạn chế điều gì?
+
+"Tổ chức thể thao của vận động viên Việt Nam không hề thua kém. Có chăng đôi lúc đang gặp rào cản từ định kiến xã hội, cách tiếp cận giáo dục thể thao và thiếu cả các công cụ công nghệ hỗ trợ. StrengthAI ra đời với kỳ vọng thu hẹp khoảng cách đó", anh Hải Triều nói.
+
+Bằng cách tận dụng sự phát triển nhanh của trí tuệ nhân tạo (AI), chỉ cần với chiếc điện thoại thông minh StrengthAI có thể giúp người dùng đo hiệu suất mà không cần phụ thuộc vào máy móc đắt tiền.
+
+Mô hình AI có thể phân tích dữ liệu, đưa ra gợi ý tập luyện rõ ràng, khoa học và tư vấn để vận động viên hiểu họ cần cải thiện gì.
+
+StrengthAI cho phép người dùng đo hiệu suất các bài kiểm tra thể chất như nhảy cao, bật nhảy liên tục tại chỗ, nhảy chuyển hướng… để sau 8-12 tuần sử dụng, người dùng có thể so sánh và điều chỉnh lộ trình tập luyện một cách chính xác hơn, phù hợp với khoa học thể thao của thế giới.
+
+Phân tích bằng thị giác máy tính
+
+Nếu không ít ứng dụng thể thao hiện có chủ yếu giúp tìm phòng tập hay cung cấp lộ trình luyện tập cơ bản, StrengthAI hướng đến phân tích các yếu tố để đi tìm lý giải vì sao thể thao Việt Nam còn đi sau thế giới. Do đó không đơn thuần cung cấp bài tập, StrengthAI thu thập, phân tích và phản hồi dữ liệu giúp vận động viên hiểu rõ thể trạng.
+
+Từ đó hướng tới hỗ trợ vận động viên xây dựng lộ trình tập luyện tối ưu và theo dõi mức độ cải thiện qua từng giai đoạn. Anh Duy Khải nói điểm nổi bật của StrengthAI là khả năng ứng dụng AI phân tích hiệu suất từ video tập luyện bằng việc sử dụng thuật toán trong lĩnh vực thị giác máy tính ước tính tư thế người.
+
+Từ các video quay bằng điện thoại AI sẽ nhận diện các chuyển động, phân tích góc gập của khớp, biên độ vận động, kỹ thuật động tác của vận động viên qua đó đánh giá hiệu suất tập luyện.
+
+Hệ thống còn tích hợp camera trực tiếp để ghi lại buổi tập, giúp người dùng dễ dàng đăng tải video, nhận kết quả phân tích và điều chỉnh ngay trên nền tảng.
+
+StrengthAI cung cấp miễn phí cho người dùng phổ thông với các tính năng cơ bản như bài tập, đánh giá thể lực, theo dõi tiến trình. Trong khi các tính năng nâng cao như phân tích video, lưu trữ dữ liệu dài hạn sẽ phải trả phí.
+
+StrengthAI đang hợp tác với một trường đại học nghiên cứu dự đoán nguy cơ chấn thương cho vận động viên. Bằng cách thu thập dữ liệu chuyên sâu như góc gập và chuyển động của khớp, độ lệch trục cơ thể, hệ thống AI sẽ đưa ra cảnh báo sớm giúp vận động viên có thể phòng tránh nguy cơ bị chấn thương.
+
+Bộ dữ liệu chuẩn hóa cho vận động viên Việt Nhận định khá phổ biến rằng vận động viên Việt Nam còn nhiều hạn chế so với chuẩn quốc tế, anh Duy Khải nói từng nghiên cứu, lấy dữ liệu thể chất của các vận động viên bóng rổ Mỹ để vẽ biểu đồ mô tả phân bổ. Sau đó đã chọn ngẫu nhiên một vài vận động viên Việt Nam đưa chỉ số của họ vào cùng biểu đồ đó. Kết quả là các chỉ số của vận động viên Việt Nam tạo ra những giá trị lệch hoàn toàn so với chuẩn phân bổ chung. "Nghĩa là không thể áp dụng chuẩn quốc tế một cách máy móc nên mục tiêu của dự án chính là xây dựng bộ dữ liệu chuẩn hóa riêng dành cho người Việt", anh Khải nói.
+

@@ -1,0 +1,15 @@
+Báo cáo thường niên vừa được Indeed, trang web việc làm lớn nhất thế giới, công bố đã phác họa một bức tranh ảm đạm về thị trường lao động của Mỹ. Biểu đồ chỉ số đăng tuyển của Indeed cho thấy sự suy giảm đều đặn về số lượng việc làm kể từ đợt bùng nổ sau đại dịch năm 2022. Trong đó, lĩnh vực công nghệ chịu ảnh hưởng nặng nề hơn cả khi chỉ số đăng tuyển từng đạt đỉnh trên 200 vào năm 2022 nay đã lao dốc xuống mức 67.
+
+Biểu đồ của Indeed cho thấy số bài đăng tuyển dụng công nghệ tại Mỹ giảm mạnh từ đỉnh năm 2022. Ảnh: Indeed
+
+Đáng lo ngại nhất là lĩnh vực dữ liệu và phân tích. Tính đến cuối tháng 10, chỉ số đăng tuyển của ngành này chỉ đạt mức 60, thấp nhất trong tất cả các lĩnh vực mà Indeed theo dõi. Con số này đồng nghĩa với việc cơ hội việc làm cho các vị trí như chuyên viên phân tích kinh doanh, nhà khoa học dữ liệu và nhà phát triển trí tuệ kinh doanh (Business Intelligence) hiện thấp hơn 40% so với thời điểm trước đại dịch.
+
+Nguyên nhân một phần đến từ việc các nhà tuyển dụng đã tuyển dụng ồ ạt trong giai đoạn bùng nổ sau đại dịch. Kể từ đó, nhiều doanh nghiệp đơn giản là không có nhu cầu thay thế nhân sự lớn như trước.
+
+Trái ngược với đà giảm của nhu cầu tuyển dụng, số lượng hồ sơ ứng tuyển cho mỗi đầu việc trong lĩnh vực dữ liệu vẫn tiếp tục tăng. Dữ liệu của Indeed chỉ ra sự mất cân đối rõ rệt giữa cung và cầu: nhiều năm đầu tư vào đào tạo khoa học dữ liệu đã tạo ra một lượng lớn ứng viên có tay nghề cao đúng vào lúc nhu cầu tuyển dụng nguội lạnh.
+
+Cory Stahle, chuyên gia kinh tế cấp cao tại Indeed, nhận định những người lao động đã qua đào tạo sẽ vẫn tiếp tục tìm kiếm các công việc phù hợp với kỹ năng của họ bất chấp sự sụt giảm của thị trường, bởi việc chuyển đổi nghề nghiệp thường khó khăn, tốn kém và mất thời gian.
+
+Thêm vào đó, sự trỗi dậy của AI tạo sinh (Generative AI) đang khiến thị trường thêm phần khắc nghiệt. Công nghệ này giúp việc phân tích dữ liệu trở nên dễ dàng hơn ngay cả với những người ít được đào tạo bài bản, cho phép các doanh nghiệp và nhân viên "làm được nhiều hơn với nguồn lực ít hơn". Hệ quả là người tìm việc phải đối mặt với một thị trường cạnh tranh gay gắt, thời gian tìm việc kéo dài và tốc độ tăng trưởng tiền lương có khả năng yếu hơn so với vài năm trước.
+
+(Theo Insider)

@@ -1,0 +1,53 @@
+Huỳnh Phương Duy (trái) và Lê Văn Tài với poster giới thiệu ứng dụng TripHero - Ảnh: Trần Huỳnh
+
+Ứng dụng do Huỳnh Phương Duy và Lê Văn Tài (khoa công nghệ thông tin Trường ĐH Khoa học tự nhiên - ĐHQG TP.HCM) thiết kế.
+
+Đề tài khóa luận tốt nghiệp “Xây dựng hệ thống thu thập và xử lý thông tin giao thông công cộng bằng phương pháp crowdsourcing trên nền tảng di động” của hai sinh viên này được chấm 10 điểm, xếp loại xuất sắc.
+
+Được xây dựng trên nền tảng Android và iOS, vừa có mặt trên Google Play và App Store, TripHero đã nhanh chóng thu hút nhiều lượt download (tải về) bởi những tính năng tiện ích giúp người dùng tránh các rủi ro khi tham gia giao thông.
+
+Ứng dụng này đặc biệt hiệu quả với người thường đi xe buýt.
+
+Thương người phơi nắng chờ xe buýt
+
+Huỳnh Phương Duy và Lê Văn Tài hiện đang học năm cuối liên thông CĐ lên ĐH ngành công nghệ thông tin. Hai chàng trai đam mê công nghệ này hào hứng cho biết là sinh viên nên họ thường đi xe buýt đến trường và hiểu nỗi khổ khi xe buýt trễ giờ, nhiều người phải phơi nắng đứng chờ.
+
+Bởi vậy lúc chọn đề tài khóa luận tốt nghiệp, hai bạn lập tức nghĩ đến ý tưởng xây dựng một phần mềm giúp người đi xe buýt cập nhật được các tuyến xe buýt, giờ xe chạy, giờ xe ghé các trạm.
+
+Từ ý tưởng ban đầu hướng đến đối tượng chính là người đi xe buýt, Huỳnh Phương Duy và Lê Văn Tài đã mở rộng các tiện ích sang cho người đi xe máy.
+
+Ý tưởng chính của đề tài là dựa vào nguồn lực cộng đồng (crowdsourcing) để thu thập thông tin về đường đi của các phương tiện giao thông, tình trạng giao thông do chính người dùng cung cấp, sau đó áp dụng thuật toán để xử lý các dữ liệu, mã hóa thành thông tin.
+
+Người tham gia giao thông có thể cập nhật vị trí xe buýt mình đi qua, các điểm kẹt xe, ngập nước, tai nạn... Những thông tin này sẽ được thông báo đến người dùng đang ở trong phạm vi 2km để họ chủ động di chuyển.
+
+Huỳnh Phương Duy: Giúp tiết kiệm thời gian Ở các thành phố lớn trên thế giới, xe máy không được phép vào nội thành, đó cũng là xu hướng phát triển tất yếu của TP.HCM khi hệ thống metro và các phương tiện giao thông công cộng được hoàn thiện. Lúc này nhu cầu kết nối thông tin của các dịch vụ giao thông công cộng là rất lớn, TripHero sẽ giúp người dùng dễ dàng tra cứu các tuyến xe, trạm dừng, thời gian ghé trạm, các trục trặc trên đường... để người dùng tiết kiệm được thời gian chờ đợi. Những người từ xa đến TP.HCM cũng sẽ dễ dàng tìm được đường đi, tuyến xe và canh đúng giờ đón xe buýt.
+
+Ngoài ra, TripHero còn cập nhật các nguy hiểm rình rập trên đường như các đoạn đường xấu, nơi thường có cướp giật, cảnh báo các chiêu lừa đảo trên đường, các cây xăng có dấu hiệu gian lận, các chốt cảnh sát giao thông...
+
+TripHero cũng thu thập thông tin về thói quen, các tuyến đường người dùng thường tham gia lưu thông để gửi thông tin liên quan cho đúng người dùng hay đi qua tuyến đường đó.
+
+Tiếp tục hoàn thiện
+
+TripHero ra đời với mong muốn đơn thuần là phục vụ cộng đồng. Ban đầu ý tưởng này bị khá nhiều người hoài nghi về tính khả thi.
+
+Thông thường các ứng dụng trò chơi, thiên về tính giải trí sẽ hấp dẫn người dùng và hứa hẹn lợi nhuận cao hơn.
+
+Lúc hai chàng trai mang ý tưởng của mình tham gia cuộc thi công nghệ Hackathon Việt Nam 2014 do Công ty Formation 8 đến từ Thung lũng Silicon (Mỹ) tổ chức, các giám khảo đã hỏi họ: “Các bạn sẽ kiếm tiền từ ứng dụng này như thế nào?”.
+
+Tuy không đoạt giải tại cuộc thi, nhưng khi dũng cảm mang sản phẩm của mình ra thi thố, Duy và Tài đã được các chuyên gia hàng đầu trong lĩnh vực công nghệ thông tin góp ý, đưa ra những nhận xét quý giá để hoàn thiện TripHero.
+
+Hai bạn tiếp tục hoàn thiện và đưa TripHero lên các diễn đàn về công nghệ để tham khảo ý kiến mọi người. Chính trên các diễn đàn này mà họ gặp thêm cộng sự mới là Nguyễn Thành Ân, sinh viên Trường ĐH Ngoại ngữ - tin học TP.HCM.
+
+Ba bạn trẻ đã cùng nhau mày mò, từng bước hoàn chỉnh ứng dụng sao cho dung lượng nhỏ, tiết kiệm pin hơn, dễ sử dụng hơn với người không rành về công nghệ.
+
+Nhóm đã thuyết phục được một công ty phần mềm của Úc để được thực tập qua mạng và tài trợ 1.000 USD hỗ trợ triển khai ứng dụng thực tế. Có nguồn tài chính, ba bạn trẻ càng hăng say tìm tòi, sáng tạo hơn nữa.
+
+Để có thông tin làm cơ sở dữ liệu cho TripHero, các bạn đã nghe VOV giao thông mỗi ngày để cập nhật thông tin, đi đến bến xe trò chuyện với các tài xế, đến Sở Giao thông vận tải TP.HCM xin tư liệu...
+
+Họ nhờ các bạn bè am hiểu về thiết kế giúp thiết kế lại giao diện ứng dụng sao cho thật bắt mắt, dễ sử dụng.
+
+Ngoài ra Duy và Tài còn nhờ các giảng viên của Trường ĐH Khoa học tự nhiên giới thiệu về ứng dụng TripHero trong các giờ giảng, đồng thời tổ chức cuộc thi “Fun with bus” để giới thiệu và khuyến khích sinh viên trong trường tải và sử dụng TripHero.
+
+Khó khăn lớn nhất của TripHero là cơ sở dữ liệu trong thời gian đầu còn hạn chế do số lượng người dùng chưa đông, các thông tin tập trung chủ yếu tại TP.HCM và Hà Nội. Trong tương lai, nhóm sẽ phát triển số lượng người dùng ở các địa phương khác.
+
+Hiện TripHero đang phục vụ đắc lực nhất cho người đi xe buýt nhưng tương lai gần, với sự phát triển của đồng hồ thông minh (smartwatch), người đi xe máy sẽ dễ dàng cập nhật thông tin ngay trên thiết bị đeo tay mà không cần phải dùng tới smartphone.

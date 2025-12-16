@@ -1,0 +1,27 @@
+Sự cố khiến nhiều trang web và dịch vụ phụ thuộc vào hệ sinh thái Microsoft không thể truy cập hoặc hoạt động chập chờn.
+
+Hệ thống Azure và Microsoft 365 đồng loạt gặp sự cố diện rộng. Ảnh: Wired
+
+Nhiều người dùng trên mạng xã hội báo cáo tình trạng không thể đăng nhập hoặc truy cập các dịch vụ như Azure, Microsoft 365, Xbox và thậm chí cả trang thông tin dành cho nhà đầu tư của Microsoft.
+
+Theo dữ liệu từ Downdetector - nền tảng theo dõi sự cố internet thông qua phản hồi của người dùng - tình trạng gián đoạn bắt đầu từ khoảng 11h40 (giờ miền Đông Mỹ).
+
+“Chúng tôi đang xử lý vấn đề liên quan đến Azure Front Door, ảnh hưởng đến khả năng truy cập của một số dịch vụ. Khách hàng vui lòng theo dõi thông báo trên trang trạng thái dịch vụ của Azure”, phát ngôn viên của Microsoft xác nhận sự cố.
+
+Tài khoản hỗ trợ Azure trên nền tảng X (Twitter) đăng tải rằng nhóm kỹ thuật đang điều tra lỗi khiến một số dịch vụ Azure gặp sự cố truy cập.
+
+Nguyên nhân ban đầu được xác định là do “một thay đổi cấu hình không mong muốn” và Microsoft đã bắt đầu tiến trình hoàn nguyên về trạng thái cấu hình ổn định gần nhất để khắc phục.
+
+Đến buổi tối cùng ngày, Microsoft cho biết đã thấy “tín hiệu cải thiện mạnh mẽ trên hầu hết các khu vực bị ảnh hưởng và đang hướng đến việc khôi phục hoàn toàn.
+
+Danh sách các dịch vụ Azure bị ảnh hưởng kéo dài hơn một chục mục, trong đó có: Azure Databricks, Azure Maps và Azure Virtual Desktop.
+
+Bộ Microsoft 365, bao gồm Outlook, ứng dụng văn phòng trực tuyến và nền tảng Teams, cũng bị gián đoạn do phụ thuộc vào Azure. Tài khoản hỗ trợ Microsoft 365 xác nhận: “Các dịch vụ đang gặp vấn đề thứ cấp do sự cố Azure.”
+
+Không chỉ cá nhân, nhiều doanh nghiệp phụ thuộc Azure cũng gặp hệ quả ngay lập tức. Alaska Airlines thông báo hệ thống web của hãng gặp sự cố trong buổi chiều cùng ngày, do nhiều dịch vụ được đặt trên nền tảng Azure, bao gồm cả dịch vụ của Hawaiian Airlines - thương hiệu mà Alaska đã mua lại với giá 1,9 tỷ USD vào năm ngoái.
+
+Sự cố của Microsoft xảy ra chỉ hơn một tuần sau khi đối thủ lớn nhất - Amazon Web Services (AWS) - gặp gián đoạn nghiêm trọng vào ngày 20/10. AWS khi đó thừa nhận tỷ lệ lỗi tăng cao trên dịch vụ EC2, khiến nhiều trang web và ứng dụng tê liệt trong nhiều giờ.
+
+Đây không phải lần đầu Azure gặp sự cố. Hồi tháng 3 năm nay, Microsoft cũng từng “ngã mạng” vào cuối tuần, khiến hàng chục nghìn người dùng mất quyền truy cập Outlook và các dịch vụ văn phòng khác.
+
+(Theo CNBC, Wired)

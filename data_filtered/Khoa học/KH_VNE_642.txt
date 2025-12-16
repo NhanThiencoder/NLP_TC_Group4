@@ -1,0 +1,17 @@
+Trung QuốcThiết kế 23 bậc tự do và thuật toán tiên tiến cho phép robot hình người G1 của Unitree thực hiện nhuần nhuyễn cú lộn ngang phức tạp.
+
+Robot hình người đầu tiên trên thế giới biết bật ngang Robot G1 lộn ngang hoàn hảo. Video: Unitree
+
+Công ty robot Trung Quốc một lần nữa mở rộng giới hạn của robot hình người với phiên bản mới nhất mang tên G1. Gần đây họ chia sẻ video cho thấy khả năng thực hiện cú lộn ngang hoàn hảo của G1, một chuyển động thậm chí còn phức tạp hơn cú lộn sau mà phiên bản tiền nhiệm của nó là H1 thực hiện vào tháng 3/2024, theo Interesting Engineering. Trong video, G1 xử lý cú lộn ngang một cách trơn tru, không bị trục trặc hay hư hại trong lúc lập trình hay ghi hình.
+
+Unitree đăng video dài 19 giây trên mạng xã hội X, chứng minh khả năng thăng bằng và đạt độ chính xác xuất sắc của G1. Hồi đầu tháng 3, G1 cũng thể hiện khả năng xử lý cú đá xoay 720 độ, đánh bại một người cầm gậy dài. Unitree liên tục nâng cấp thuật toán của robot, cho phép nó học hỏi và thực hiện chuyển động ngày càng phức tạp với sự chuẩn xác và kiểm soát tốt.
+
+Thiết kế của G1 tích hợp 23 bậc tự do (DoF), cung cấp tính ổn định và khả năng phối hợp ấn tượng. Cao 1,32 m và nặng 35 kg, robot trang bị cấu trúc gập để cất gọn với kích thước 68,5 x 45 x 30 cm. Công nghệ tiên tiến của nó bao gồm cảm biến 3D LiDAR, camera đo sâu RealSense, loa khử ồn có thể nhận dạng mệnh lệnh qua giọng nói. G1 vận hành nhờ bộ pin 9.000 mAh, cung cấp hai giờ chạy với khả năng đổi pin nhanh. Robot sở hữu CPU 8 lõi hiệu suất cao, điều khiển các khớp của nó ở tay, chân và thân. Điều này cho phép robot di chuyển nhanh nhẹn với tốc độ đi bộ lên tới 7,2 km/h.
+
+Đội ngũ ở Unitree nhấn mạnh tầm quan trọng của việc sử dụng cẩn thận thay vì chỉnh sửa hoặc lập trình robot cho mục đích chiến đấu. Trước khi sản xuất, quá trình huấn luyện G1 diễn ra trong môi trường ảo, sử dụng ứng dụng mô phỏng Isaac của Nvidia. Cách này cho phép robot học hỏi hành vi phức tạp thông qua học tập tăng cường, tinh chỉnh những khả năng của nó trong môi trường kỹ thuật số. Các hành động học được sau đó được chuyển sang phiên bản vật lý thông qua quá trình mang tên Sim2Real.
+
+Nhằm thúc đẩy tiến bộ trong lĩnh vực robot hình người, Unitree giới thiệu tập dữ liệu toàn thân nguồn mở nhằm cải tiến điều khiển motor và phối hợp ở robot hình người. Tập dữ liệu đó góp phần tăng cường chuyển động trơn tru cho các phiên bản chủ chốt của Unitree, bao gồm H1, H1-2 và G1. Tập dữ liệu được phát triển nhờ sử dụng công nghệ ghi lại chuyển động LAFAN1, tương thích hoàn toàn với hệ thống hình người của Unitree và tích hợp thuật toán đổi hướng cao cấp. Thuật toán sẽ tối ưu hóa lập kế hoạch chuyển động thông qua ứng dụng lưới tương tác và chuyển động đảo ngược, cân nhắc hạn chế ở tư thế, mối nối khớp và thông số vận tốc.
+
+Các robot hình người của Unitree liên tục đạt nhiều cột mốc, với mẫu H1 từng lập Kỷ lục Thế giới Guinness hồi tháng 3/2024 khi chạy ở tốc độ 3,3 m/s. G1 được tối ưu hóa để đáp ứng yêu cầu nhỏ gọn và giá cả phải chăng, sẽ đóng vai trò như nền tảng nghiên cứu dễ điều chỉnh, giúp mở rộng tiếp cận robot hình người cao cấp trong cả môi trường học thuật và thương mại.
+
+An Khang (Theo Interesting Engineering)

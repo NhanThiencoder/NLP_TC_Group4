@@ -1,0 +1,29 @@
+Nhóm sinh viên Đại học Bách khoa Hà Nội ứng dụng AI vào thiết bị nghe tiếng thở hỗ trợ dự đoán sớm bệnh hô hấp như viêm phổi, hen suyễn, bệnh phổi tắc nghẽn mạn tính.
+
+Thiết bị do nhóm sinh viên trường Điện - Điện tử, Đại học Bách khoa Hà Nội nghiên cứu, chế tạo để hỗ trợ chẩn đoán bệnh lý hô hấp dựa trên phân tích tiếng thở, xử lý bằng FPGA kết hợp trí tuệ nhân tạo (AI). Thiết bị này có khả năng ghi lại và phân tích âm thanh hô hấp thông qua ống nghe điện tử tích hợp cảm biến. Dữ liệu thu thập được chuyển tới phần mềm xử lý bằng trí tuệ nhân tạo (AI) để nhận diện các đặc điểm bất thường trong âm thanh, giúp phát hiện sớm các bệnh lý như viêm phổi, hen suyễn và bệnh phổi tắc nghẽn mạn tính (COPD).
+
+Thiết bị gồm 2 module chính: Phần thu dữ liệu sử dụng ống nghe điện tử (Welch Allyn Meditron Electronic Stethoscope), sử dụng như cách bác sĩ đặt ống nghe khám cho bệnh nhân. Có thể đặt sau lưng hoặc trước ngực người bệnh. Dữ liệu y sinh sau khi thu được chuyển sang bộ module xử lý để so sánh với âm thanh hô hấp của viêm phổi, hen suyễn hoặc COPD.
+
+Phần xử lý là module FPGA (board là loại được phát triển dựa trên AMD Zynq UltraScale+™ MPSoC development board). Sau quá trình lọc nhiễu và tiền xử lý dữ liệu, mô hình AI được tích hợp trên module này tiến hành phân loại, chẩn đoán và trả về kết quả.
+
+Ngoài ra, thiết bị còn 1 số thành phần khác như màn hình hiển thị, bàn phím, chuột hỗ trợ thao tác.
+
+Sơ đồ tổng thể thiết bị. Ảnh: Nhóm nghiên cứu
+
+Lê Trung Kiên, trưởng nhóm nghiên cứu cho biết, trong khám chữa bệnh hiện nay việc chẩn đoán phụ thuộc nhiều vào kinh nghiệm của bác sĩ và các thiết bị y tế chuyên dụng. Trong khi chẩn đoán hình ảnh dễ trực quan, phân tích âm thanh hô hấp lại mang tính chủ quan, phụ thuộc vào tai nghe và kinh nghiệm của bác sĩ. Vì thế, "nhóm mong muốn phát triển một hệ thống có thể hỗ trợ nhận diện và phân tích âm thanh hô hấp một cách khách quan hơn" Trung Kiên nói.
+
+Dự án bắt đầu từ năm 2023. Ban đầu nhóm tham gia một đề tài khoa học về xử lý hình ảnh y tế. Khi đề tài này kết thúc, nhóm chuyển sang hướng xử lý âm thanh hô hấp kết hợp AI nhằm phát hiện và phân loại bệnh lý đường hô hấp.
+
+Khác với dữ liệu hình ảnh y tế vốn có sẵn với số lượng lớn, dữ liệu âm thanh hô hấp rất hạn chế. Nhóm phải thu thập dữ liệu từ các kho lưu trữ khoa học quốc tế, bao gồm tiếng thở của người khỏe mạnh, người mắc bệnh COPD, hen suyễn... Sau đó, ứng dụng các thuật toán xử lý tín hiệu và AI để phân tích tiếng thở, lập trình mô hình nhận diện bệnh và so sánh kết quả với dữ liệu gốc để đánh giá độ chính xác. Các dữ liệu phải khai thác từ nhiều nguồn, tiến hành tiền xử lý để đảm bảo độ chính xác và tính đồng nhất. "Quá trình này nhóm gặp không ít khó khăn, đặc biệt là việc thu thập dữ liệu đại diện cho người Việt Nam do sự khác biệt giữa các quốc gia", Nguyễn Anh Phương, thành viên nhóm nghiên cứu cho biết.
+
+Sau khi xây dựng mô hình AI, các sinh viên tiếp tục phát triển thiết bị phần cứng để có thể ứng dụng thực tế. Một trong những thách thức lớn là tìm kiếm nền tảng tính toán phù hợp. Nhóm thử nghiệm nhiều giải pháp, từ vi điều khiển thông thường đến máy tính nhúng như Raspberry Pi, nhưng nhận thấy chúng không đủ mạnh để xử lý dữ liệu âm thanh theo thời gian thực. Cuối cùng, nhóm quyết định sử dụng FPGA (Field-Programmable Gate Array), một loại vi mạch có khả năng xử lý song song mạnh mẽ, giúp tăng tốc độ tính toán. "FPGA cho phép tối ưu hóa thuật toán AI, giúp thiết bị xử lý âm thanh hô hấp nhanh chóng mà không cần phần cứng quá cồng kềnh. Ngoài ra, FPGA hỗ trợ nhiều ngôn ngữ lập trình mã nguồn mở, giúp nhóm dễ dàng tùy chỉnh mà không vi phạm bản quyền", Trung Kiên cho biết.
+
+Sản phẩm nghiên cứu của nhóm đã đạt giải nhất Hội đồng Công nghệ và Thiết bị Y sinh, cuộc thi sinh viên nghiên cứu khoa học và sáng tạo của Đại học Bách khoa Hà Nội năm 2024.
+
+Nhóm sinh viên tại cuộc thi sinh viên nghiên cứu khoa học và sáng tạo của Đại học Bách khoa Hà Nội năm 2024. Ảnh: NVCC
+
+PGS.TS Hán Trọng Thanh, giảng viên cao cấp khoa Điện tử, trường Điện - Điện tử, Đại học Bách khoa Hà Nội cho biết, thiết bị chẩn đoán bệnh hô hấp bằng AI có giá trị khoa học và ứng dụng cao. Đây là hướng nghiên cứu mới, có thể triển khai thành các sản phẩm nhỏ gọn, hữu ích cho người dùng tự theo dõi sức khỏe tại nhà. Nếu tiếp tục nghiên cứu cải tiến, sản phẩm có thể thương mại hóa, ứng dụng vào thực tế.
+
+Mục tiêu của nhóm là tiếp tục hoàn thiện và phát triển thiết bị thành công cụ theo dõi sức khỏe hô hấp tại nhà, tương tự như máy đo huyết áp. Ngoài phân tích tiếng thở, nhóm còn dự định tích hợp đo nhịp tim, huyết áp, SpO2 để đánh giá tổng thể sức khỏe đường hô hấp. Người dùng sẽ nhận cảnh báo sớm về nguy cơ mắc bệnh, từ đó có thể chủ động đến cơ sở y tế khi cần thiết.
+
+Nhật Minh

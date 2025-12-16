@@ -1,0 +1,27 @@
+Title: 3 trường hợp sẽ bị các ngân hàng ngừng giao dịch online từ 1/1/2026
+
+Theo quy định mới về xác thực danh tính, bắt đầu từ ngày 1/1/2026, các ngân hàng sẽ đóng toàn bộ tính năng giao dịch trên Mobile Banking và Internet Banking đối với người dùng chưa đồng bộ thông tin định danh và dữ liệu sinh trắc học theo chuẩn của Cơ sở dữ liệu quốc gia về dân cư.
+
+Biện pháp này được áp dụng nhằm đáp ứng yêu cầu từ Ngân hàng Nhà nước về việc lọc bỏ tài khoản không chuẩn hóa và hạn chế rủi ro lừa đảo công nghệ cao, vốn tăng mạnh trong thời điểm cận Tết.
+
+Những tài khoản thuộc các trường hợp dưới đây sẽ bị đưa vào diện tạm ngừng giao dịch online.
+
+Thứ nhất, khách hàng vẫn sử dụng CMND 9 số và chưa chuyển sang CCCD gắn chip trong dữ liệu lưu tại ngân hàng.
+
+Thứ hai, khách hàng có giấy tờ tùy thân đã hết hạn, nhưng chưa cập nhật lại thông tin mới.
+
+Thứ ba, khách hàng chưa thu thập sinh trắc học (khuôn mặt) hoặc dữ liệu sinh trắc học hiện có không trùng khớp với thông tin trên chip CCCD.
+
+Khi bị khóa giao dịch trực tuyến, chủ tài khoản phải đến quầy để xác thực và kích hoạt lại, điều này có thể gây ùn tắc trong giai đoạn cao điểm cuối năm.
+
+Giao dịch online trong hệ thống ngân hàng (Ảnh: DT).
+
+Người dùng được khuyến cáo hoàn tất việc chuẩn hóa thông tin trong tháng 12/2025 để tránh ảnh hưởng đến việc chuyển tiền, thanh toán dịp Tết.
+
+Quy trình cập nhật có thể thực hiện trên ứng dụng ngân hàng thông qua công nghệ NFC. Chỉ cần đăng nhập, chọn mục cập nhật thông tin và đưa thẻ CCCD gắn chip ra mặt sau điện thoại để hệ thống đọc và đồng bộ dữ liệu.
+
+Trong trường hợp thiết bị không hỗ trợ NFC hoặc gặp lỗi kỹ thuật, khách hàng nên đến phòng giao dịch sớm, trước ngày 31/12/2025, để được hỗ trợ trực tiếp và tránh tình trạng quá tải vào những ngày cuối năm.
+
+Hiện, đã có các ngân hàng Vietcombank, VietinBank, Agribank và BIDV, quy định ngừng giao dịch trực tuyến đối với khách hàng chưa đồng bộ thông tin định danh và dữ liệu sinh trắc học theo chuẩn Cơ sở dữ liệu quốc gia về dân cư sẽ chính thức có hiệu lực từ ngày 1/1/2026.
+
+Quyết định này được đưa ra nhằm đáp ứng yêu cầu cấp thiết của Ngân hàng Nhà nước trong nỗ lực làm sạch thị trường tài chính, loại bỏ các tài khoản không chính chủ và giảm thiểu tối đa rủi ro lừa đảo công nghệ cao vốn đang có chiều hướng gia tăng dịp cận Tết. Theo thông báo mới nhất, quy định ngừng giao dịch sẽ nhắm vào ba trường hợp cụ thể chưa hoàn tất việc chuẩn hóa dữ liệu trên hệ thống.

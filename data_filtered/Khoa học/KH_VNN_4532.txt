@@ -1,0 +1,75 @@
+Trong thế giới vũ khí, AK-74 đã thống trị như một biểu tượng bất diệt của sức mạnh Nga, nhưng ít ai biết rằng có một "kẻ thách thức thầm lặng" từng suýt cướp ngôi vương: súng trường tấn công A-545 Kord. Không chỉ là một khẩu súng trường tấn công thông thường, A-545 Kord nổi bật với hệ thống tự động cân bằng (BARS - Balanced Automatics Recoil System - là một hệ thống chống giật được thiết kế để giảm độ giật và tăng độ chính xác khi bắn súng trường tấn công) cách mạng, biến những loạt đạn liên thanh thành "ngọn giáo chính xác" thay vì cơn bão hỗn loạn. Được các đơn vị đặc nhiệm Nga bí mật sử dụng trên chiến trường Ukraine, khẩu súng này không chỉ giảm giật đến mức gần như "vô hình" mà còn mở ra kỷ nguyên mới cho độ chính xác bắn tự động. Hãy cùng khám phá công nghệ BARS "ma thuật" đằng sau vũ khí từng khiến các kỹ sư Kalashnikov phải e ngại.
+
+Khẩu súng trường tấn công A-545 KORD đã được tháo rời thành các bộ phận. Ảnh: militarnyi.com
+
+Hành trình sinh ra một ‘kẻ thách thức’ từ thời Liên Xô
+
+Câu chuyện của A-545 Kord bắt nguồn từ những năm 1970, khi Liên Xô nhận ra hạn chế lớn nhất của AK-74: độ chính xác kém khi bắn liên thanh, đặc biệt ở tư thế khó khăn như nằm sấp hoặc di chuyển.
+
+Năm 1981, chương trình OKR "Abakan" được khởi xướng để tìm kiếm mẫu súng mới, và AEK-971 – tiền thân trực tiếp của A-545 Kord – ra đời tại Nhà máy Cơ khí Degtyaryov (ZiD) ở Kovrov.
+
+Với thiết kế sáng tạo, AEK-971 nhanh chóng nổi bật nhờ khả năng kiểm soát giật vượt trội, nhưng cuối cùng, nó chỉ dừng chân ở vòng sơ loại, nhường chỗ cho AN-94 với cơ chế bắn hai phát hiếm có.
+
+Không cam chịu thất bại, các kỹ sư Nga tiếp tục tinh chỉnh AEK-971 qua hai thập kỷ.
+
+Đến những năm 2010, trong khuôn khổ chương trình Ratnik hiện đại hóa bộ binh, AEK-971 được nâng cấp thành A-545 Kord và biến thể A-762 (dành cho đạn 7.62x39mm).
+
+Năm 2014, A-545 Kord vượt qua các thử nghiệm khắc nghiệt, chứng minh khả năng bắn chính xác hơn 20-30% so với AK-74 ở chế độ tự động.
+
+Thế nhưng, bi kịch lặp lại: Năm 2015, A-545 Kord thua cuộc trước AK-12 và AK-15 trong cuộc thi chọn súng mới, chủ yếu do áp lực hành chính từ Tập đoàn Kalashnikov – đơn vị thống trị sản xuất vũ khí Nga.
+
+Dù vậy, A-545 vẫn được chính thức áp dụng năm 2018 dưới tên gọi 6P67 "Kord", dành riêng cho các đơn vị tinh nhuệ như Lực lượng Đặc nhiệm (SSO), Nhảy dù (VDV) và trinh sát quân sự.
+
+Đến năm 2025, các lô hàng bí mật tiếp tục được giao cho sĩ quan tình báo Nga, thay thế dần AKM và AK-74 trên chiến trường Đặc nhiệm Quân sự (SVO) ở Ukraine.
+
+Khẩu A-545 Kord của một binh sĩ đặc nhiệm tại khu vực tập trung quân trong vùng SVO. Ảnh: Topwar
+
+Công nghệ cốt lõi: Hệ thống tự động cân bằng BARS - ‘bí quyết giảm giật hoàn hảo’
+
+Điều làm nên sức hút của A-545 Kord chính là hệ thống tự động cân bằng (Balanced Automatics Recoil System - BARS), một kiệt tác kỹ thuật kế thừa từ ý tưởng năm 1965 của kỹ sư Peter Tkachev với mẫu AO-38.
+
+Khác biệt hoàn toàn so với cơ chế piston khí dài hành trình quen thuộc của AK, BARS sử dụng một "balancer" – khối lượng di động giống hệt nhóm chốt nòng – kết nối qua hệ thống bánh răng đồng bộ.
+
+Khi bắn, khí nổ từ hai lỗ thông khí (một hướng sau đẩy bolt carrier, một hướng trước đẩy balancer) khiến hai khối lượng này di chuyển ngược chiều nhau với tốc độ bằng nhau, triệt tiêu hoàn toàn xung lực giật.
+
+Do vậy, giật lùi gần như "không tồn tại", cho phép xạ thủ bắn hết 30 viên đạn từ hộp đạn mà không cần siết chặt tay, giữ nguyên tầm ngắm mà không lệch lạc.
+
+Độ chính xác tăng vọt ở chế độ tự động – lên đến mức "bắn như súng bắn tỉa tự động" – nhờ nòng súng ít rung lắc ngang và dọc.
+
+Hệ thống bánh răng bên trong, dù phức tạp hơn AK, lại đơn giản hơn AN-94, chỉ yêu cầu ba động tác tháo dỡ cơ bản để bảo dưỡng.
+
+Thêm vào đó, A-545 Kord được trang bị phanh họng nòng lớn để tán xạ khí, ray Picatinny toàn diện cho kính ngắm và phụ kiện, cùng báng gập kiểu PDW gọn nhẹ, giúp dễ dàng tích hợp giảm thanh mà không mất ổn định.
+
+Trong ảnh, phía trên là AEK-971, phía dưới là A-545 Kord. Ảnh: Topwar
+
+Thông số kỹ thuật: Sức mạnh ẩn giấu trong thiết kế tinh tế
+
+A-545 Kord được thiết kế cho đạn 5.45x39mm tiêu chuẩn (tương thích hộp đạn AK-74), với biến thể A-762 dành cho đạn 7.62x39mm mạnh mẽ hơn.
+
+Trọng lượng khoảng 3.5-4kg (nặng hơn AK-12 chừng 700g do hệ thống balancer), nhưng sự phân bổ đều giúp cầm nắm cân bằng hơn, giảm mỏi tay trong tác chiến dài hơi.
+
+Chiều dài tổng thể linh hoạt nhờ báng gập, phù hợp di chuyển đô thị hoặc nhảy dù, trong khi tầm bắn hiệu quả đạt 500-600m ở chế độ bán tự động – ngang ngửa AK nhưng vượt trội ở liên thanh.
+
+Tốc độ bắn lý thuyết khoảng 600-700 phát/phút, nhưng nhờ BARS, xạ thủ có thể duy trì loạt bắn dài mà không lo phân tán, với độ chính xác nhóm đạn chỉ lệch 5-10cm ở 100m (so với 20-30cm của AK).
+
+An toàn và chọn chế độ bắn được cải tiến đáng kể, với cần gạt ergonomics hơn, và lớp vỏ polymer hai mảnh bảo vệ cơ cấu điều khiển hỏa lực khỏi bụi bẩn.
+
+Độ tin cậy cao sau 4.000 phát thử nghiệm, dù yêu cầu vệ sinh kỹ lưỡng hơn (như dùng siêu âm trong kerosene sau chiến trường).
+
+Hạn chế duy nhất là hộp đạn hẹp hơn, khó dùng loại thương mại, và khí xả có thể phả vào mắt phải nếu không đeo kính.
+
+Các trinh sát Nga mang theo súng trường tấn công A-545 KORD, súng máy M240 và BREN 2. Tháng 7/2025. Ảnh: Truyền thông Nga/militarnyi.com
+
+Ưu thế trên chiến trường và tương lai của ‘kẻ thua cuộc vĩ đại’
+
+Trong thực tế, A-545 Kord chứng minh giá trị qua các cuộc chiến Chechnya (với AEK-971) và nay là SVO ở Ukraine, nơi đặc nhiệm Nga dùng nó để bắn chính xác từ khoảng cách xa mà không lộ vị trí.
+
+Các binh sĩ trinh sát ca ngợi khả năng "giữ tầm ngắm như keo dính" khi bắn loạt, giúp vượt trội AK-12 ở môi trường hỗn loạn.
+
+Tuy nhiên, độ phức tạp và chi phí sản xuất hạn chế nó chỉ dành cho tinh nhuệ, không phải quân số lớn.
+
+Dù "suýt chiếm ngôi" AK, A-545 Kord vẫn là minh chứng cho sự sáng tạo Nga: một khẩu súng không chỉ bắn đạn, mà còn định hình lại khái niệm kiểm soát hỏa lực.
+
+Tương lai của A-545 Kord có thể mở rộng nếu Nga đẩy mạnh sản xuất, đặc biệt với lô hàng 2025 cho đơn vị Vostok.
+
+Trong khi AK vẫn là vua, A-545 Kord nhắc nhở rằng công nghệ thực sự thay đổi cuộc chơi – và nó đã sẵn sàng cho vai trò "vệ sĩ thầm lặng" của đế chế.

@@ -1,0 +1,50 @@
+ Richard Stevens - tượng đài của cộng đồng networking 
+
+Ông là một người mà tôi sẽ không bao giờ có thể gặp mặt dù chỉ một lần, tuy nhiên tôi luôn coi ông là một người thầy đáng kính trọng - một người thầy qua những trang sách... 
+
+Tôi biết đến ông khi bắt đầu nghiên cứu sâu về mạng, "hành trình" đi tìm kiến thức của tôi bắt đầu từ một quyển sách, tôi quyết định đọc nó qua sự giới thiệu của một đàn anh đi trước. Ngay sau đó tôi thực sự bị cuốn hút bởi lối viết rõ ràng, mạch lạc và giản dị đến không ngờ. Chính quyển TCP/IP Illustrated Volume 1 này đã giúp tôi rất nhiều trong quá trình nghiên cứu và làm việc đến tận bây giờ. Cái tên Richard Stevens để lại cho tôi một ấn tượng khá sâu đậm, tuy tôi chưa một lần thử tìm hiểu xem ông là ai. 
+
+Một cuộc đời bình dị 
+
+Thầy Rich sinh năm 1951 tại Luanshya, Northen Rhodesia (nay là Zambia) trong một gia đình bình thường, cha ông là một kỹ sư khai khoáng. Vì yêu cầu công việc của cha, gia đình ông đã chuyển đến sống ở rất nhiều nơi. Bắt đầu là thành phố Salt Lake khi cha ông làm việc cho Tập đoàn Đồng Kennecott; sau đó là Hurley (New Mexico), Washington DC và cuối cùng là Phalaborwa (Nam Phi). 
+
+Khi cha mẹ ông chuyển tới Nam Phi là lúc ông bắt đầu vào học phổ thông và phải lựa chọn giữa một trường nội trú ở Mỹ hoặc một trường kiểu Anh ở Nam Phi. Cuối cùng Stevens đã quyết định học tại Mỹ và theo học trường quân sự Fishburne ở Waynesboro (Virginia) 4 năm, ông chỉ trở về “nhà” ở Nam Phi vào các kỳ nghỉ hè. Sau đó, ông theo học Đại học Michigan và nhận bằng kỹ sư ngành Kỹ thuật Hàng không Vũ trụ vào năm 1973. 
+
+Năm 1975, ông chuyển tới sống ở Tucson (Arizona) khi tham gia xây dựng hệ thống phần mềm cho Đài thiên văn quốc gia Kitt Peak. Ngoài ra ông còn theo học cao học tại Đại học Arizona và như ông viết trên homepage của mình: "Tôi đã nhận được bằng tiến sĩ trong khi phải làm việc full-time và tôi không có nhiều thời gian rỗi". Đây cũng chính là thời gian ông được tiếp xúc với hệ điều hành Unix khi sử dụng hệ thống này trong quá trình làm việc tại đài thiên văn. Và như là một "duyên số", Unix đã thực sự cuốn hút ông để rồi đây chính là nội dung của hầu hết các cuốn sách ông viết sau này. 
+
+Từ năm 1982 tới 1990 ông giữ chức vụ phó chủ tịch của Computing Services thuộc Tổ chức Hệ thống Sức khỏe quốc tế ở New Haven (Connecticut). Sau đó ông trở lại Tucson và tiếp tục theo đuổi công việc của một nhà nghiên cứu, làm chuyên gia tư vấn và giảng dạy ở một số lớp học. 
+
+Sống và làm việc bằng cả trái tim 
+
+Khi trở lại Tucson sống là làm việc cũng là lúc ông tham gia hoạt động trong cộng đồng USENIX, cộng đồng của những người đam mê NIX. Không chỉ là một sân chơi, USENIX còn tổ chức những hoạt động nghiên cứu, phổ biến kiến thức và đào tạo. USENIX khá nổi tiếng về việc có những con người rất giỏi với cách truyền đạt khá cao siêu, nhưng Stevens là một ngoại lệ. Cách dạy của ông luôn rất dễ hiểu, ông luôn kiên trì trả lời những câu hỏi đơn giản nhất và không bao giờ làm ai phải thất vọng. 
+
+Ông có kiến thức rất sâu về TCP/IP và UNIX networking, và những kiến thức này được thể hiện rất mạch lạc và dễ hiểu trong những cuốn sách mà ông đã viết. Mọi người đã gặp ông đều luôn tìm thấy ở Rich sự thân thiện và nhiệt tình giúp đỡ. Mặc dù đã có những thành công rất lớn, nhưng ông vẫn rất dễ gần và luôn giúp đỡ người khác. 
+
+Thật là thiếu sót nếu tôi không trích ra những lời nhận xét của bạn bè, đồng nghiệp, những người đã từng gặp ông nhận xét: 
+
+Gary Wright, người cùng viết sách với thầy Rich: "Mối quan hệ của chúng tôi bắt đầu từ năm 1987 khi tôi và anh cùng học và nghiên cứu trong trường đại học. Chính anh đã hướng dẫn và tạo cơ hội cho tôi tiếp xúc và tìm hiểu về TCP/IP, X Windows và Lập trình hướng đối tượng. Công việc và nghề nghiệp của tôi bây giờ là kết quả của những định hướng mà chính Rich đã chỉ bảo cho tôi. Rich luôn luôn tâm niệm phải chia sẽ những kiến thức, kinh nghiêm và kĩ năng của mình cho người khác thông qua những cuốn sách và turtorial của mình. Anh thực sự là một người thầy đáng kính, một tác giả và một người bạn đặc biệt mà chúng tôi đã may mắn được ở bên cạnh" 
+
+Paul Ebersman, thành viên chủ chốt của cộng đồng USENIX - cũng muốn nói về Rich. "Tôi gặp Rich lần đầu tại một buổi giảng dạy của anh, và đã thấy một sinh viên sử dụng cuốn TCP/IP Illustrated - cuốn sách đầu tay của anh. Tôi đã thực sự ngạc nhiên khi đọc nó, "món quà" anh dành cho người đọc chính là cách anh biến những vấn đề tưởng chừng như phức tạp trở nên dễ hiểu hơn bao giờ hết. Cuốn sách còn là một tài liệu dành cho việc thiết lập các hệ thống UNIX và theo dõi sự hoạt động của mạng. Và trên tất cả, anh là một người thực sự tài giỏi, nhiệt tình trò chuyện và luôn dành thời gian để trả lời những câu hỏi của mọi người. Anh mất đi là một mất mát lớn lao của cộng đồng USENIX" 
+
+Christiansen là người chỉ sơ giao và gặp gỡ thầy Rich tại các cuộc họp hàn lâm của USENIX. Christiansen nói: ‘Tôi nhớ lúc đó tôi đang đánh đàn piano thì ông ấy đến và nói: “Tôi nghe nói ông cũng chơi đàn tại một vài hội nghị khác và điều đó đã truyền cho tôi hứng thú để chơi lại piano.” Tại các buổi hội nghị sau đó, ông ấy kể cho tôi về sự tiến bộ của ông ấy. Khi ấy đôi mất ông ấy sáng lên, cũng như mọi lần khi ông ấy nói về những thứ mà ông ấy thực sự yêu thích.’ 
+
+Với Christiansen thì Stevens nói về âm nhạc, với Greg Rose - một phi công, ông nói về việc lái máy bay. Còn với Dave Hanson-uỷ viên ủy ban đánh giá luận văn tiến sĩ của ông thì ông lại nói về một niềm đam mê khác – trượt tuyết. Đối với tất cả những người biết ông, dường như ông quan tâm đến những vấn đề mà họ quan tâm nhất. “Ông ấy là một người biết lắng nghe và chủ đề nào ông cũng biết một ít. Lúc nào ông cũng có thể đóng góp một điều gì đó, cách ông nói chuyện thực sự rất thông thái” – Clair nói. 
+
+Tuy nhiên Stevens cũng là một người hết sức kín đáo và khiêm tốn. Christiansen, Rose và Hanson đều biết ông nhiều năm, nhưng không một ai cảm thấy hiểu rõ về ông. Claire thú nhận: “Tôi không nói là ông ấy là một người phức tạp, nhưng vì ông ấy quá thông minh nên người ta có thể có cái cảm giác như vậy.” 
+
+Sự ra đi của ông là một sự mất mát to lớn đối với cộng đồng UNIX, nơi các thành viên luôn gắn bó và quan tâm lẫn nhau. Cực kỳ thông minh và khiêm tốn, Stevens là một tấm gương lớn cho mọi người noi theo. Những vấn đề chưa hiểu Stevens sẽ quyết tâm tìm hiểu, và khi đã hiểu vấn đề ông luôn cố gắng truyền đạt cho bất kỳ ai quan tâm tìm hiểu về vấn đề đó. Một năm sau khi ông qua đời, những kỷ niệm về một trong những chuyên gia được kính yêu nhất của cộng đồng UNIX vẫn còn sống động và tươi mới. 
+
+Rich với gia đình và cuộc sống đời thường 
+
+Rich kết hôn với vợ là Sally Hodges Stevens năm ông 28 tuổi, đến khi ông mất là họ đã sống với nhau được 20 năm. Ông có ba người con là Bill, Ellen và David. Tôi còn nhớ đã từng đọc đâu đó câu chuyện mà bạn ông, Trent Hein, đã kể rằng: "Rich là một nhà viết sách và một thầy giáo lỗi lạc, những cuốn sách cũng như các bài giảng của ông được mọi người coi như là một cẩm nang về TCP/IP. Một câu chuyện mà tôi thường kể mỗi khi nhắc đến Rich đó là khi tôi nhận được cuốn phim "Wayne's World II" của Rich gửi đến. 
+
+Trong phim, cô bạn gái của nhân vật Garth cầm một cuốn "Unix Network Programming." Stevens phát hiện ra điều này khi cùng cậu con trai 13 tuổi ngồi trong rạp chiếu phim. Cậu bé đã kéo tay cha và nói "Ba ơi, quyển sách của ba kìa !". Và ông đã không thể tin rằng chính quyển sách của mình đã được sử dụng như một biểu tượng của một người say mê máy tính, con trai ông đã rất tự hào về cha mình. Với ánh mắt sáng lên, ông đã vui vẻ kể với tôi như vậy" 
+
+Vào ngày 1-9-1999, thầy Rich đã mất trong một tai nạn ôtô, đến nay nguyên nhân của cái chết vẫn không được tiết lộ. Sự ra đi của Rich thực sự là một cú sốc đối với gia đình mà ông rất yêu quý, sự bất ngờ lẫn nuối tiếc của những người bạn, những thành viên trong cộng đồng. Và một người như tôi, mặc dù biết đến cái chết của ông rất muộn nhưng vẫn có cảm giác mất mát rất nhiều trong lòng. Nhưng tôi tin rằng, không chỉ tôi, tất cả những người đã từng đọc sách của ông, đã từng coi ông là một người thầy thì sẽ mãi mãi không bao giờ quên ông. 
+
+Ai có dịp tới Tucson xin viếng mộ ông và thắp một nén hương thay cho lời tri ân của cộng đồng nghiên cứu CNTT Việt Nam. 
+
+Chào Rich, chào thầy yêu quý... 
+
+
+

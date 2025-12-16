@@ -1,0 +1,35 @@
+Title: Chuyên gia Cisco bỏ việc lương nghìn đô, khởi nghiệp đưa Internet of things vào nông nghiệp
+
+Nguyễn Khắc Minh Trí (bên phải) tại lễ trao giải Golive Việt Nam Venture Cup 2015
+
+Năm 2012, giữa lúc đang làm việc tại TPHCM trong vai trò giám đốc phòng dịch vụ kỹ thuật chuyên nghiệp của DTS - một tập đoàn hoạt động trong lĩnh vực công nghệ thông tin tại Việt Nam, Nguyễn Khắc Minh Trí quyết định đầu tư trồng dâu trong nhà kính tại Đà Lạt.
+
+Dự án trồng dâu được thực hiện từ cuối tháng 4/2012. Do nhiều lý do, trong đó, một phần do chủ đầu tư không thể toàn tâm toàn ý cho dự án vì vẫn phải đảm nhận công việc tại DTS, dự án hoạt động không như mong đợi và sớm kết thúc vào giữa năm 2014.
+
+Nhưng qua công việc trồng dâu, Trí nhận ra rằng khi việc sản xuất nông nghiệp còn thực hiện thủ công và dựa nhiều vào thói quen hơn là các cơ sở khoa học thì người làm nông sẽ còn tốn nhiều chi phí lẫn rủi ro nhưng lại không có những vụ mùa với năng suất tương xứng.
+
+Nếu có thể đo lường được chính xác điều kiện môi trường xung quanh và nhu cầu của từng cây trồng hay vật nuôi ở bất kỳ thời điểm nào sẽ là cơ sở tốt nhất để những người làm nông biết phải làm gì một cách hợp lý và vừa đủ cho đối tượng mình chăm sóc.
+
+Và đây chính là nền tảng của nông nghiệp chính xác với nhiệm vụ giúp người làm nông phát triển sản xuất bền vững qua việc : Tối ưu năng suất trong khi giảm thiểu chi phí và rủi ro vụ mùa
+
+Đầu tháng 10/2014, MimosaTek - cái tên được ghép từ tên của loài hoa Mimosa đặc trưng của Đà Lạt và “tek”, một cách viết tắt của từ technology (công nghệ) được đặt cho công ty mới ra đời nhằm mục đích giúp người nông dân làm nông nghiệp công nghệ cao để giảm chi phí sản xuất, tăng năng suất trồng trọt và đạt được nhiều lợi nhuận hơn.
+
+Qua dự án trồng dâu, bài học được Trí rút ra là không thể khởi nghiệp thành công nếu không dành toàn thời gian, toàn tâm, toàn ý cho dự án của mình. Anh đã quyết định thôi vị trí Giám đốc công nghệ tại DTS và ngưng luôn chức vụ Giám đốc điều hành tại SaigonCTT. Nhiều người bất ngờ trước quyết định này nhưng một số người hiểu Trí đều tin rằng anh sẽ thành công với MimosaTek.
+
+“Đây thật sự là một quyết định khó khăn vì tôi đã gắn bó với công việc gần 10 năm, mọi thứ từ vị trí công việc, thu nhập, môi trường làm việc... đều rất ổn. Nhưng nhìn thấy xu hướng Internet của vạn vật (Internet of things), điện toán đám mây ngày càng phổ biến, ngay cả người nông dân cũng đã dùng điện thoại thông minh và sử dụng Facebook, tôi thấy đây chính là thời điểm thích hợp và có động lực trở thành người hỗ trợ nông dân cất cánh”, Trí chia sẻ những suy nghĩ đằng sau quyết định của mình.
+
+Sau 3 tháng khởi nghiệp, MimosaTek đã có đối tác đầu tiên lắp đặt thử nghiệm sản phẩm. Đó là một vườn trà ô long tại Lâm Đồng. Tại đây, một khu vực 2.000 m2 trồng trà đồng nhất được lựa chọn làm mẫu để lắp bảy cảm biến. Mỗi cảm biến đo một thông số gồm: nhiệt độ, độ ẩm không khí, áp suất, ánh sáng, gió, mưa và độ ẩm của đất trồng. Các thông số đo được qua cảm biến sẽ truyền đến điện thoại thông minh của người chủ trang trại.
+
+Bất cứ khi nào và ở đâu, chỉ cần bật điện thoại, truy cập vào phần mềm do MimosaTek cung cấp là chủ trại có thể biết được các thông số môi trường tại khu vực lắp đặt cảm biến. Cũng qua điện thoại, chủ trại có thể điều khiển việc tưới nước cho cây.
+
+Đây chỉ mới là giai đoạn đầu của dự án. Giai đoạn tiếp theo, MimosaTek sẽ xây dựng các thuật toán tối ưu để hệ thống có thể tự động chăm sóc cây trồng căn cứ vào diễn biến của thời tiết và nhu cầu của cây, sau đó gửi báo cáo đến người dùng.
+
+Trí cho biết hiện MimosaTek đang phối hợp với đối tác để hoàn thiện dần sản phẩm và chỉ bàn đến vấn đề chi phí khi khách hàng thật sự hài lòng với những lợi ích mà sản phẩm mang lại. “Triết lý kinh doanh của MimosaTek là không lấy chi phí phần cứng làm lợi nhuận nhằm tạo điều kiện để mọi khách hàng nông dân đều có cơ hội áp dụng công nghệ vào nông nghiệp".
+
+Chia sẻ về câu chuyện bỏ mức lương nghìn đô để khởi nghiệp, Trí cho rằng: “Thật sự là rất mạo hiểm, nhưng tôi không cảm thấy hối hận, nuối tiếc, vì trong thời gian lập và điều hành công ty, tôi thấy mình được sống với những đam mê thật sự”. Theo Trí, các bạn trẻ không nên lao đầu vào startup ngay khi mới ra trường mà cần thời gian đi làm để chuẩn bị cho mình nguồn vốn về tài chính, kinh nghiệm và quan hệ cần thiết trong hệ sinh thái khởi nghiệp.
+
+Khởi đầu chỉ với hai nhân viên cùng 500 triệu đồng vốn, hiện nay công ty Trí đã có 10 nhân sự và 3 sinh viên cộng tác. Để có thể tồn tại và theo đuổi công trình nghiên cứu này, anh đã được bạn bè cùng một số đối tác hỗ trợ khá nhiều.
+
+Ngoài ra, công ty còn được Gói hỗ trợ khởi nghiệp ITP giúp có được một văn phòng đặt tại Khu công nghệ phần mềm ở Thủ Đức, TP HCM. Ngoài ra, Trí còn hợp tác với một số trại chăn nuôi để viết phần mềm quản lý cho họ.
+
+Tháng 7/2015, phần mềm giám sát và điều khiển thông minh lấy thông số môi trường để đưa ra các quyết định tưới tiêu phục vụ nông nghiệp của Mimosa Tek đã nhận được giải ba trong cuộc thi AngelHack 2015 Vietnam. Tháng 12/2015, Mimosa Tek tiếp tục giành được 15.000 USD tiền vốn khởi nghiệp ban đầu từ cuộc thi Golive Việt Nam Venture Cup 2015.

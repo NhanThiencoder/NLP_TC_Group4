@@ -1,0 +1,20 @@
+ Số máy tính tại Việt Nam bị nhiễm mã độc tăng vọt!
+
+Trung tâm an ninh mạng (BKIS) của Đại học bách khoa Hà Nội vừa thông báo rằng tổng số mã độc máy tính (virus, phần mềm gián điệp, trojan…) mà trung tâm này phát hiện được tại Việt Nam trong cả năm 2005 đã lên đến 232 loại, trong khi chỉ có 84 loại xuất hiện trong năm 2004. 
+
+Trung tâm BKIS cũng vừa thực hiện một cuộc nghiên cứu với khoảng 2000 máy tính tại Việt Nam và đã đưa ra kết quả cho biết rằng có đến 94% trong số 2000 máy tính này bị nhiễm virus, 87% số máy tính bị nhiễm phần mềm gián điệp và phần mềm tung quảng cáo. 
+
+44% số người được hỏi cho biết rằng máy tính mà họ sử dụng trong công ty hoặc cơ quan đã phải ngưng trệ tối thiểu là một ngày trong năm do bị virus lây nhiễm làm vô hiệu hóa. 96% số máy tính làm việc trong lĩnh vực thương mại bị nhiễm virus, 95% số máy tính làm việc trong ngành giáo dục và 94% trong các ngành nghề khác cũng đều bị nhiễm virus. 
+
+87% số người trong cuộc nghiên cứu cho biết rằng họ hết sức lo lắng về phần mềm gián điệp, 89% hết sức căm ghét các loại thư rác (spam). BKIS cũng cho biết rằng có khoảng 34% trang web tại Việt Nam bị tấn công tối thiểu từ 1-2 lần trong năm qua, 11% trang web bị tấn công từ 3-5 lần và 20% số trang web bị tấn công trên 5 lần. 
+
+Theo tính toán của các chuyên gia tại BKIS thì mỗi người dùng máy tính tại Việt Nam đã bị thiệt hại từ 260.000 – 410.000 đồng trong năm 2005 do hậu quả của virus và hacker gây ra. 44% số người dùng cho biết họ thường cập nhật các chương trình chống virus hàng tuần, 28% thừa nhận không thường xuyên cập nhật, 20% siêng năng cập nhật mỗi ngày và 8% cho biết mỗi tháng cập nhật một lần. 
+
+Trung tâm an ninh mạng BKIS cũng là tác giả của chương trình diệt virus BKAV nổi tiếng nhất tại Việt Nam hiện nay. Rất nhiều người dùng máy tính tại Việt Nam đã có thói quen cài đặt BKAV hoặc một công cụ chống virus nổi tiếng nào đó của nước ngoài vào máy tính của mình. 
+
+Vào tháng 11-2004, tổng số người lướt web tại Việt Nam là 6 triệu người, chiếm 7,3% trong tổng dân số. Đến tháng 11-2005, tổng số người sử dụng Internet tại Việt Nam đã vọt lên đến 9,9 triệu người, chiếm khoảng 11,9% trong tổng dân số. Có khoảng 2,7 triệu thuê bao Internet tại Việt Nam và nhiều người trong số họ đã tiếp cận được với các dịch vụ Internet băng thông rộng. 
+
+Trung tâm thông tin mạng Internet Việt Nam cho Tân Hoa Xã biết rằng tổng số băng thông quốc tế của Việt Nam đã ở mức 3.505 MB/giây. Việt Nam đã chính thức gia nhập vào mạng Internet toàn cầu từ tháng 12-1997. 
+
+
+

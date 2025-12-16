@@ -1,0 +1,17 @@
+Toàn cảnh trạm biến áp “Trạm biến áp 110kV sân bay Long Thành và đường dây đấu nối” - Ảnh: VGP/MT
+
+Sân bay Quốc tế Long Thành có công suất lên đến 100 triệu hành khách/năm và 5 triệu tấn hàng hóa khi hoàn thành tất cả 3 giai đoạn. Dự kiến, ngày 16/12/2025 dự án sẽ khánh thành và đón chuyến bay đầu tiên vào ngày 19/12/2025, sau 5 năm xây dựng thần tốc theo chỉ đạo của Thủ tướng Chính phủ.
+
+Để đảm bảo cấp điện an toàn, tin cậy phục vụ hoạt động của Sân bay Long Thành - công trình trọng điểm của quốc gia, EVNSPC và PC Đồng Nai đã chủ động đầu tư xây dựng công trình "Trạm biến áp 110kV sân bay Long Thành và đường dây đấu nối". Công trình có quy mô xây mới trạm biến áp 110kV với công suất 2x40MVA và đường dây đấu nối dài 3,8 km, tổng mức đầu tư 158 tỉ đồng.
+
+Theo kế hoạch ban đầu, công trình sẽ đóng điện vào quý II/2025. Song với tinh thần "Điện đi trước một bước", bằng sự nỗ lực cao, quyết tâm của lực lượng thi công và lãnh đạo các cấp, đặc biệt là được sự hỗ trợ của địa phương, sự đồng thuận của người dân, công trình đã đóng điện giai đoạn 1 vào tháng 11/2024, vượt tiến độ đề ra. Tiếp đó, giai đoạn 2 (lắp máy biến áp T2 - 40MVA) được khởi công vào tháng 9/2025 cũng đã đóng điện thành công vào ngày 24/11/2025 - chỉ sau chưa đầy 2 tháng thi công nước rút.
+
+Trạm biến áp 110kV Long Thành được đầu tư theo tiêu chí không người trực. Toàn bộ hệ thống giám sát điều khiển của trạm được số hóa, điều khiển từ xa qua hệ thống SCADA và tuân thủ giao thức quốc tế IEC 61850. Hệ thống này cho phép giám sát tình trạng thiết bị theo thời gian thực.
+
+EVNSPC triển khai các hạng mục đóng điện máy biến áp T2, công suất 40MVA vào ngày 24/11 - Ảnh: VGP/MT
+
+Khi đi vào hoạt động, Công trình góp phần quan trọng đảm bảo cung cấp điện liên tục, chất lượng cao phục vụ hoạt động của Sân bay Long Thành, đồng thời góp phần giảm bán kính cấp điện 22kV, giảm tổn thất, đảm bảo chất lượng điện áp, nâng cao độ tin cậy cung cấp điện khu vực lân cận.
+
+Trong thời gian tới, nhằm đảm bảo hệ thống điện cho Sân bay Long Thành vận hành an toàn, tin cậy, Công ty Điện lực Đồng Nai tổ chức trực vận hành 24/7 qua SCADA, giám sát theo thời gian thực; tăng cường kiểm tra định kỳ, kiểm tra chuyên đề, thực hiện duy tu, bảo dưỡng theo quy chuẩn ngành điện; xây dựng phương án dự phòng đa tầng: Vận hành chế độ N-1 cho toàn bộ thiết bị quan trọng; chuẩn bị sẵn kịch bản xử lý sự cố và chuyển tải nhanh trong mọi tình huống; phối hợp chặt chẽ với Cảng vụ và Ban Quản lý dự án Cảng hàng không Quốc tế Long Thành trong việc kiểm tra, giám sát an toàn điện; tăng cường công tác PCCC, hệ thống cảnh báo và các biện pháp phòng ngừa sự cố lưới điện…
+
+Song song đó, Công ty Điện lực Đồng Nai cũng phối hợp với Ban Quản lý dự án Cảng hàng không Quốc tế Long Thành tiếp tục hoàn thiện hạ tầng nguồn/lưới phục vụ các giai đoạn mở rộng sân bay, như: Quy hoạch và chuẩn bị đầu tư nâng cấp lưới trung áp - cao áp để đáp ứng nhu cầu điện tăng trưởng lớn trong tương lai; xây dựng thêm các xuất tuyến 22kV, đánh giá khả năng nâng công suất khi Sân bay đạt công suất 100 triệu hành khách/năm…

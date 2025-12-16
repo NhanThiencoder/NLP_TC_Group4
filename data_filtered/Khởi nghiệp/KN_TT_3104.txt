@@ -1,0 +1,65 @@
+Ba nhà sáng lập Alternō, từ trái sang: Nguyễn Quốc Nam, Hải Hồ và Kent Nguyễn tại khóa ươm tạo start-up của Antler năm 2022 - Ảnh: NVCC
+
+Ý tưởng khởi nghiệp nhiều triển vọng
+
+Trong 10 tuần, từ ý tưởng tạo ra pin cát, 3 nhà khởi nghiệp U40 đã gọi vốn được 110.000 USD để lập dự án. Đầu năm 2023, họ được nhận khoản hỗ trợ 15.000 USD để phát triển và làm thủ tục đăng ký bằng sáng chế tại Việt Nam.
+
+Trong ba người, Kent Nguyễn đã có 10 dự án khởi nghiệp trong 20 năm qua trong lĩnh vực phần mềm. Hải và Nam mỗi người đều có nhiều dự án khởi nghiệp ở lĩnh vực công nghệ.
+
+Năm 2022, Kent bắt đầu tìm hiểu sâu về các giải pháp công nghệ cho phát triển bền vững và tình cờ biết đến pin cát. Anh khát khao đưa công nghệ này về Việt Nam.
+
+Pin cát là một thiết bị lưu trữ nhiệt nhận được nhiều sự quan tâm trên thế giới.
+
+Năng lượng dư thừa trong mùa hè hay từ tấm pin mặt trời trên mái nhà sẽ được chuyển thành nhiệt giữ trong pin. Đây là một phương pháp lưu trữ năng lượng hiệu quả về chi phí. Với lớp cách nhiệt phù hợp, năng lượng nhiệt trong pin có thể được lưu trữ trong nhiều tháng.
+
+Thiết lập cơ bản của một hệ thống pin cát gồm một thùng chứa cát cách nhiệt với các ống dẫn nhiệt được nhúng trong cát. Silicon dioxide (cát) có thể lưu nhiệt và ổn định nhiệt lên đến 1.000 độ C. Khi sử dụng, nhiệt từ pin cát sẽ được xả qua đường ống dẫn để sưởi ấm hoặc làm mát cho các tòa nhà trong các ứng dụng ở phương Tây, như Phần Lan.
+
+Kent chia sẻ ý tưởng này với Hải Hồ. Cả hai đi nhiều nơi ở Việt Nam để tìm hiểu về khả năng ứng dụng pin cát. Họ xác định rằng pin cát sẽ có phạm vi ứng dụng vô cùng lớn trong nông nghiệp - ở các nhà máy sấy trà, lúa, cà phê…
+
+Hào hứng với ý tưởng, Kent bắt tay chế tạo mẫu pin cát đầu tiên tại nhà. Cục pin cát đầu tiên có thể giữ nhiệt trong vài giờ và có thể làm nóng được một lượng nước nhỏ. Từ mô hình đầu tiên này, Kent có niềm tin có thể chế tạo thành công pin cát công suất lớn trong thực tế tại Việt Nam.
+
+Mô hình pin cát đầu tiên do Kent Nguyễn chế tạo - Ảnh: HỮU HẠNH
+
+Tháng 11-2022, Kent Nguyễn, Hải Hồ cùng tham gia khóa ươm tạo dành cho các nhà khởi nghiệp của Antler - một quỹ đầu tư có mặt tại 35 quốc gia - hoạt động như một vườn ươm start-up, giúp tăng tốc khởi nghiệp và đầu tư cho các ý tưởng khởi nghiệp tiềm năng.
+
+Khóa đào tạo cuối năm 2022 của Antler có 1.000 người đăng ký, nhưng chỉ 80 được chọn. Tại đây, Kent và Hải gặp Nguyễn Quốc Nam và mời anh tham gia dự án pin cát.
+
+Trong 10 tuần, 3 chàng trai cùng nhau cụ thể hóa ý tưởng về pin cát và tiềm năng thương mại. Dù lúc này mới ở giai đoạn ý tưởng, dự án của họ được Antler đầu tư 110.000 USD để tiếp tục phát triển.
+
+Khóa ươm tạo 10 tuần của Antler đã giúp 3 nhà khởi nghiệp định hình rõ ràng hơn về ứng dụng của pin cát tại Việt Nam, đó là sấy nông sản, công nghiệp và cung cấp nước nóng cũng như làm mát cho các tòa nhà.
+
+Tháng 2-2023, họ tiếp tục tham gia chương trình ươm tạo công nghệ phần cứng của Qualcomm với trọng tâm là đăng ký bằng sáng chế quốc tế.
+
+Hải cho biết chương trình này có ý nghĩa lớn với nhóm. Lần đầu tiên họ biết cách để nhà khởi nghiệp có thể kiếm tiền từ việc bán bằng sáng chế bên cạnh bán thành phẩm. Qualcomm đã hỗ trợ nhóm 10.000 USD tiền mặt và 5.000 USD để tiến hành đăng ký bằng sáng chế cho pin cát ở Việt Nam.
+
+Xu hướng khởi nghiệp "phần cứng"
+
+Cấu trúc viên pin đang được Công ty Alternō nghiên cứu gồm lớp vỏ pin, một lớp cách nhiệt, cát được trộn cùng các thành phần hỗ trợ gia nhiệt, dẫn nhiệt, nhiều cảm biến tại các vị trí giữa các lớp cát và một con chip thông minh trong lõi pin để theo dõi hoạt động của pin, lượng nạp và xả để gửi các thông số về cho ứng dụng quản lý của nhà sản xuất và người sử dụng.
+
+Các cục pin có thể sản xuất với những công suất khác nhau theo các mô hình thương mại đã được thử nghiệm thành công.
+
+Trong 3 tuần kể từ đầu tháng 3-2023, phòng thực nghiệm nghiên cứu pin cát của Công ty Alternō được thành lập. Từ sáng đến chiều tối, cả ba cùng 2 nhân viên đầu tiên của công ty lặn ngụp trong các thực nghiệm và phân tích các số liệu để sớm hoàn thiện viên pin cát công suất lớn đầu tiên.
+
+Kent Nguyễn, Hải Hồ và các cộng sự của công ty theo dõi số liệu hoạt động của các cảm biến trong mô hình pin cát đang thực nghiệm do giám đốc công nghệ Nguyễn Quốc Nam phân tích - Ảnh: HỮU HẠNH
+
+Hiện tại, thực nghiệm của Công ty Alternō đang hướng đến mục tiêu duy trì nhiệt lượng trong pin trên mức 1.000 độ C. Họ đang làm việc ngày đêm để hướng tới điều này.
+
+Hai nhân viên đầu tiên của Công ty Alternō đang hàn thiết bị nhiệt của pin cát - Ảnh: HỮU HẠNH
+
+Từ nay đến tháng 9-2023, nhóm dự kiến hoàn thiện mẫu pin công suất lớn đầu tiên và huy động vốn từ các quỹ để có thể triển khai 5 dự án thí điểm kéo dài 12 tháng. Đã có 5 đơn vị ký kết tham gia thử nghiệm dùng pin cát sấy các mặt hàng nông sản khác nhau, trong đó có lúa.
+
+Hải cho biết vào giữa tháng 5-2023, nhóm sẽ trình bày công nghệ này tại diễn đàn Tech Summit tại Singapore để tiếp tục huy động vốn với các quỹ để bắt đầu sản xuất hàng loạt tại nhà máy ở Bình Dương.
+
+Kent, Hải và Nam bắt đầu khởi nghiệp từ 10-20 năm trước. Khi đó, cộng đồng khởi nghiệp của Việt Nam đa số tập trung trong các lĩnh vực liên quan đến phần mềm và sau đó là công nghệ chuỗi khối Blockchain. Tuy nhiên, xu hướng khởi nghiệp về công nghiệp sản xuất bắt đầu nổi lên gần đây.
+
+Theo Hải, xu hướng này rất tốt cho Việt Nam trong mục tiêu trở thành quốc gia công nghiệp, quốc gia khởi nghiệp. Môi trường ươm tạo cho các start-up chưa bao giờ sôi nổi hơn.
+
+Các công ty, quỹ đầu tư được Chính phủ tạo điều kiện hoạt động tại Việt Nam đang có nhiều chương trình ươm tạo bài bản cho các start-up. Rất nhiều khóa học về quản lý, kỹ năng lãnh đạo, quản lý tài chính dành cho các start-up và nhiều hoạt động kết nối các start-up với nhà đầu tư đã diễn ra trong nước.
+
+Kent Nguyễn và Hải Hồ cùng các cộng sự làm thí nghiệm nấu nước nóng từ nhiệt năng đầu ra của mô hình pin cát đang được nghiên cứu - Ảnh: HỮU HẠNH
+
+Kent Nguyễn và Hải Hồ kiểm tra nhiệt năng đầu ra của mô hình pin cát đang được nghiên cứu - Ảnh: HỮU HẠNH
+
+Kent Nguyễn và Hải Hồ làm thí nghiệm trên một mô hình pin cát đang được nghiên cứu - Ảnh: HỮU HẠNH
+
+Nguyên phó thủ tướng Đức gốc Việt đồng hành cùng Tuổi Trẻ Start-Up Award Talkshow "Cảm hứng khởi nghiệp" năm nay dự kiến diễn ra tại Đại học Kinh tế TP.HCM vào ngày 26-4, có chủ đề "Trong khủng hoảng, tìm thấy cơ hội?", với sự tham dự của 1.000 bạn trẻ và các chuyên gia uy tín. Ngài Philipp Rösler, lãnh sự danh dự Việt Nam tại Thụy Sĩ, nguyên phó thủ tướng Đức gốc Việt, là một trong những diễn giả chính của chương trình năm nay. Lễ vinh danh và trao hỗ trợ các start-up tiêu biểu cũng sẽ được diễn ra ngay sau đó. Ngoài việc được vinh danh trên mặt báo, những câu chuyện khởi nghiệp còn có cơ hội tiếp cận với nhiều quỹ đầu tư cũng như được truyền thông, quảng bá đến công chúng. BTC sẽ chọn các start-up tiêu biểu để hỗ trợ một khoản kinh phí với sự đồng hành của các đơn vị: VinaCapital, FE Credit, Ngân hàng ACB, Thái Bình Group, Volvo, IDICo, Tín Nghĩa Corp., Saigontourist Group, Sân Golf Thủ Đức..., trong đó tiếp tục có 1 suất hỗ trợ đặc biệt dành cho start-up được hội đồng thẩm định bình chọn, trị giá 100 triệu đồng từ GIBC. Trong khuôn khổ của chuỗi sự kiện, Tuổi Trẻ Golf Tournament For Start-Up qua 3 mùa đã quy tụ gần 600 golfer. Năm nay, giải đấu thường niên dự kiến sẽ diễn ra vào ngày 21-4 tại sân golf Thủ Đức (P.Long Thạnh Mỹ, TP Thủ Đức). Tối cùng ngày sẽ diễn ra gala trao giải cho golfer xuất sắc và chương trình giao lưu, kết nối cùng các start-up tiêu biểu. MINH HUỲNH

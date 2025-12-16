@@ -1,0 +1,85 @@
+Shaun Savage - nhà sáng lập ứng dụng GoShare
+
+Nói đến khởi nghiệp ở Mỹ, mọi người nghĩ đến ngay thung lũng Silicon, nơi đóng bản doanh của những ông lớn trong ngành công nghệ thế giới.
+
+Ngày nay, sự xuất hiện của những trung tâm khởi nghiệp trẻ ở Mỹ đang đem lại sức sống cho tinh thần sáng tạo doanh nghiệp mới.
+
+>> Kỳ 1: Lọt vào vườn ươm của giải pháp công nghệ
+
+Nằm không quá xa với thung lũng Silicon về phía nam, thành phố San Diego, bang California có cách phát triển hệ sinh thái khởi nghiệp riêng, hình thành nên một cụm công nghệ đặc biệt.
+
+Phần lớn các khoản tiền đầu tư vào startup (khởi nghiệp) đều đến từ nhà đầu tư tư nhân chứ không phải chính phủ.
+
+Trung bình mỗi năm có xấp xỉ 400 start-up ra đời ở thành phố này, tạo ra khoảng 1.650 việc làm mới, điều thú vị là hơn một nửa các dự án khởi nghiệp liên quan đến sự phát triển của phần mềm, cung cấp giải pháp.
+
+Cộng đồng khởi nghiệp ở đây không thể như ngày nay nếu thiếu những vườn ươm khởi nghiệp của tư nhân.
+
+Những giải pháp mới
+
+Trong khi ngành taxi VN đang “đại chiến” với truyền thống hay công nghệ thì tại thành phố San Diego, California, Mỹ, từ hai năm nay giới vận tải đã chứng kiến sự tăng trưởng nhanh chóng của startup cũng dựa trên mô hình “kinh tế chia sẻ” thành công của Uber hay Grab có tên GoShare.
+
+Đây là ứng dụng kết nối những người đang sở hữu xe tải, xe chở hàng hoặc xe hộp chuyên dụng với các doanh nghiệp hoặc cá nhân có nhu cầu chuyển nhà, chuyển hàng, phân phối hàng hóa cỡ lớn.
+
+Điều hấp dẫn nhất ở một ứng dụng ra đời sau này chính là cam kết các lái xe của GoShare có thể kiếm được 47,5 - 61,92 USD/giờ, thậm chí 99 USD/giờ tùy loại cũng như kích cỡ xe. Tuy vậy, người sử dụng xe vẫn trả một cái giá thấp hơn dịch vụ chuyển hàng truyền thống.
+
+Anh Shaun Savage, 34 tuổi, nhà sáng lập GoShare, cho biết ý tưởng ra đời GoShare từ câu hỏi bản thân “Tất cả mọi người trong đời đều phải có lúc cần một người giúp đỡ cùng một chiếc xe tải để chuyển đồ nhưng làm thế nào để mình tìm thấy điều đó một cách nhanh chóng?”.
+
+Vậy là nhóm của Shaun Savage đã phát triển một ứng dụng trên điện thoại di động kết nối những người có xe tải, hoặc SUV với những người gần đó cần được giúp đỡ di chuyển, vận chuyển và phân phối các mặt hàng lớn trong khoảng cách ngắn.
+
+Shaun Savage chỉ nghĩ rằng cơ hội tận dụng công nghệ với nền kinh tế sẻ chia để tạo ra một dịch vụ mới giải quyết câu chuyện của mình nhưng đó cũng là vấn đề của nhiều người.
+
+“Khác với Uber, GoShare đơn thuần chỉ là một ứng dụng chở hàng hóa, không chở người. Ngoài ra, khách hàng sử dụng dịch vụ GoShare đều có thể đặt xe trước nhiều ngày. Là một nền tảng linh hoạt, GoShare mở rộng đa dạng các dịch vụ, tận dụng tối đa lợi thế của các xe tải, xe chuyên chở hàng” - Shaun Savage nói.
+
+Phía sau những startup
+
+Ra đời từ năm 2014 và được nuôi dưỡng ở vườn ươm tư nhân EvoNexus, TP San Diego, chỉ sau một năm startup GoShare đã “tốt nghiệp” vườn ươm và nhanh chóng phát triển mạnh trên thị trường.
+
+Ngoài việc nhận được các đặc quyền như không gian văn phòng miễn phí, nhóm được nhận tư vấn của những chuyên gia hàng đầu phát triển doanh nghiệp thành công.
+
+“Đó là một điều may mắn và hữu ích - Savage nói về thời gian của mình trong EvoNexus - Ở đây, chúng tôi đã nhận được rất nhiều cố vấn chuyên nghiệp, giỏi thực sự”.
+
+Hiện EvoNexus là nơi khởi đầu của khoảng 162 doanh nghiệp thành công và nhiều startup có tiếng khác, chẳng hạn đây là nơi lựa chọn của Dmitry Shapiro, cựu giám đốc công nghệ Myspace Music, Xoogler, người đã rời Google để bắt đầu khởi nghiệp với dự án GoMeta, một ứng dụng tự tạo ra những trải nghiệm cá nhân.
+
+Đây cũng là nơi ươm mầm của nhà cung cấp dịch vụ hàng đầu trong lĩnh vực tiếp thị và quản lý nước giải khát có tên TapHunter.
+
+TapHunter bán dịch vụ cho các quán bar và nhà hàng, kết nối trực tiếp tới người tiêu dùng thông qua ứng dụng điện thoại. Với khoản đầu tư 50.000 USD vào tháng 11-2011, đến tháng 6-2016 TapUnter đã tăng thêm hơn 550.000 USD sau khi có hai nhà đầu tư rót vốn.
+
+Bằng cách đào tạo và phát triển thành công hàng loạt startup, EvoNexus góp phần tạo ra các giấc mơ khởi nghiệp tại miền nam Mỹ.
+
+Theo ông Walter Davis - đồng sáng lập EvoNexus, vườn ươm này khá khắt khe trong việc đón nhận các dự án, hằng năm họ chỉ chấp nhận một số ít ứng dụng của các nhà khởi nghiệp.
+
+“Các ý tưởng ở đây là đều phải là giải pháp, mỗi bước đi của khởi nghiệp trở nên suôn sẻ hơn nhờ một hệ sinh thái khởi nghiệp tôn trọng sự tự do, sáng tạo” - ông Walter Davis nói.
+
+Không gian làm việc của startup GoShare tại vườn ươm - Ảnh: N.Bình
+
+“Bạn có thể sai, nhưng cần phải học cách thích ứng trước những biến đổi. Đây là cách nước Mỹ đang thôi thúc cho khởi nghiệp Walter Davis
+
+“Quyền được tự do thất bại”
+
+Trong bài phát biểu mới nhất của mình tại lễ tốt nghiệp của Đại học Harvard cuối tháng 5-2017, CEO Facebook - Mark Zuckerberg đã cho rằng thành công lớn nhất của con người đến từ quyền được tự do thất bại, mọi người cần có cơ hội khởi nghiệp mà không phải sợ hãi điều gì.
+
+Tương tự, cộng đồng khởi nghiệp Mỹ không thể như ngày này nếu thiếu vườn ươm khởi nghiệp của các doanh nghiệp tư nhân.
+
+Tại EvoNexus, các startup nhận được sự tư vấn, tiếp cận vốn và không gian làm việc hợp tác mà không phải trả khoản phí nào trong giai đoạn vườn ươm để đảm bảo các nhà khởi nghiệp yên tâm sáng tạo.
+
+Hiện có khoảng 42 doanh nghiệp đang trong giai đoạn này. Các startup được cung cấp phòng nghe điện thoại riêng, có trà, cà phê và nước uống phục vụ miễn phí.
+
+Điều khá thú vị với chúng tôi khi tham quan không gian này là chứng kiến những chiếc bàn đơn giản của các ông chủ khởi nghiệp. Những chiếc bàn nhỏ nằm trong các góc phòng, khiêm tốn với thiết bị không thể thiếu là máy tính, nhưng lại là nơi đưa ra nhiều giải pháp thay đổi thế giới.
+
+Chẳng hạn như bàn làm việc của nhà sáng lập dịch vụ dịch chuyển các bản ghi âm, video sang văn bản có tên Temi vừa đủ đựng một chiếc máy tính nằm trong góc nhỏ diện tích chưa đến 1m2.
+
+Temi là một dịch vụ “rã băng” ghi âm, video, được xem là công cụ hỗ trợ các nhà văn, phóng viên hiện nay.
+
+Mô hình vườn ươm khởi nghiệp phát triển hết sức rộng mở tại Mỹ, nhiều cái tên lừng lẫy hiện nay như Airbnb, dữ liệu Dropbox... cũng được trưởng thành từ những vườn ươm tương tự EvoNexus.
+
+Với những trung tâm có tiếng, việc tốt nghiệp chương trình đào tạo của các vườn ươm này là một tài sản vô giá với các nhà sáng lập khởi nghiệp.
+
+Sự khắt khe trong việc huấn luyện và những đòi hỏi dành cho các nhà khởi nghiệp của EvoNexus là một trong các yếu tố làm nên thành công của vườn ươm này.
+
+“Ở nơi nào có sự cạnh tranh, ở đó có chất lượng tốt” - ông Walter Davis, đồng sáng lập EvoNexus, nói.
+
+Trong bảy năm thực hiện vai trò vườn ươm của mình, EvoNexus đã đào tạo nhiều lứa doanh nghiệp thành công, những startup được ươm ở đây đã gọi vốn hơn 1 tỉ USD. 17 startup được mua lại, ước tính 88% dự án tốt nghiệp khỏi vườn ươm vẫn duy trì doanh nghiệp cho đến ngày nay. Ngoài tư vấn đầu tư, vườn ươm cũng đóng vai trò như những tổ chức bảo vệ quyền lợi của các startup trước nhà đầu tư.
+
+---------------------
+
+>> Kỳ tới: Nơi khởi đầu của những startup

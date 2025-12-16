@@ -1,0 +1,20 @@
+
+Theo hướng dẫn của Cục Quản lý đất đai, quy trình xây dựng mã ID cho thửa đất có 4 bước, gồm xác định điểm đặc trưng của thửa đất; chuyển vị trí từ hệ tọa độ của Việt Nam sang quốc tế; mã hóa vị trí điểm đặc trưng và cập nhật bảng dữ liệu không gian thửa đất.
+
+Cục Quản lý đất đai (Bộ Nông nghiệp và Môi trường) cho biết, đơn vị đã có văn bản gửi Sở Nông nghiệp và Môi trường các tỉnh, thành phố trực thuộc trung ương hướng dẫn các địa phương chỉnh lý cơ sở dữ liệu đất đai theo chính quyền 2 cấp sau sáp nhập và gắn mã định danh thửa đất tại địa bàn có dữ liệu địa chính.
+
+Theo đó, các đơn vị hành chính cấp tỉnh cũ phải chỉnh lý và hợp nhất dữ liệu địa chính, để thống nhất cơ sở dữ liệu đất đai theo cấp tỉnh mới. Dữ liệu thửa đất sau khi cập nhật, chỉnh lý sẽ được người dân, doanh nghiệp sử dụng khi làm thủ tục liên quan đất đai.
+
+Cục Quản lý đất đai yêu cầu các địa phương có cơ sở dữ liệu địa chính triển khai gắn định danh thửa đất và mỗi thửa chỉ có một mã định danh duy nhất.
+
+Theo hướng dẫn, mã định danh (ID) thửa đất là một chuỗi gồm 12 ký tự được mã hóa theo vị trí địa lý trong hệ tọa độ địa lý quốc tế WGS84 của thửa đất.
+
+Mã định danh thửa đất được mã hóa từ vị trí địa lý của thửa đất theo thuật toán GeoHash. Thuật toán GeoHash là một thuật toán mã hóa một tọa độ địa lý (vĩ độ và kinh độ) thành một chuỗi ký tự chữ và số ngắn gọn.
+
+Mã định danh thửa đất được quy định tại Thông tư 09 năm 2024 của Bộ Tài nguyên và Môi trường cũ.
+
+Quy trình xây dựng mã ID cho thửa đất có 4 bước, gồm xác định điểm đặc trưng của thửa đất; chuyển vị trí từ hệ tọa độ của Việt Nam sang quốc tế; mã hóa vị trí điểm đặc trưng và cập nhật bảng dữ liệu không gian thửa đất.
+
+Với khu vực chưa có cơ sở dữ liệu địa chính, cơ quan quản lý sẽ thu thập Giấy chứng nhận quyền sử dụng, căn cước công dân của chủ sở hữu để có dữ liệu ban đầu cho từng thửa đất. Sau khi kiểm tra, đối soát, UBND cấp xã sẽ cập nhật vào hệ thống thông tin đất đai chung.
+
+Cục Quản lý đất đai đề nghị các Sở Nông nghiệp và Môi trường nhanh chóng chỉnh lý cơ sở dữ liệu đất đai, bổ sung thông tin về mã định danh thửa đất. Mục tiêu để sẵn sàng kết nối, tích hợp với hệ thống địa danh địa điểm, nền tảng địa chỉ số và các cơ sở dữ liệu quốc gia khác.

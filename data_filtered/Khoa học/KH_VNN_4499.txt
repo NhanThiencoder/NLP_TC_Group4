@@ -1,0 +1,27 @@
+iPhone là thiết bị quan trọng cho liên lạc, dẫn đường hay chụp ảnh mỗi ngày. Tuy nhiên, ngay cả khi pin chưa xuống cấp với Battery Health trên 80%, bạn vẫn có thể gặp cảnh pin “tụt không phanh”.
+
+Tin tốt là iOS có ba cài đặt gây hao pin mà bạn không thực sự cần, chỉ cần tắt đi là thời lượng pin cải thiện rõ rệt mà không cần bật Low Power Mode hay mua điện thoại mới.
+
+Tắt widget trên màn hình khóa iPhone
+
+Các widget trên màn hình khóa và màn hình chính liên tục khiến ứng dụng chạy nền để cập nhật dữ liệu, từ thời tiết, thể thao cho đến lịch biểu. Hoạt động này làm iPhone liên tục truy xuất thông tin và tiêu hao pin.
+
+Cách tốt nhất để tiết kiệm pin trên iOS 18 là chọn một màn hình khóa không có widget. Bạn chỉ cần giữ ngón tay trên Lock Screen, vuốt để chọn giao diện không chứa widget.
+
+Nếu muốn xóa từng widget, nhấn giữ màn hình khóa > Customize > Lock Screen > chạm vào vùng widget > nhấn nút “-” để gỡ bỏ.
+
+Giảm chuyển động (Reduce Motion) để bớt hao pin
+
+Các hiệu ứng chuyển động mượt mà như mở - đóng ứng dụng hay hiệu ứng Siri khiến trải nghiệm iPhone sinh động hơn, nhưng cũng tiêu tốn năng lượng.
+
+Để giảm các animation này, vào Settings > Accessibility > Motion> bật Reduce Motion. iOS sẽ chuyển sang hiệu ứng tối giản, giúp tiết kiệm pin trong quá trình sử dụng lâu dài.
+
+Tắt rung bàn phím (Haptic Feedback) khi gõ phím
+
+Từ iOS 16, Apple bổ sung tính năng rung cho bàn phím. Dù mang lại cảm giác gõ “thật tay”, Apple cũng cảnh báo trên trang hỗ trợ rằng haptic feedback “có thể ảnh hưởng đến thời lượng pin của iPhone”.
+
+Tính năng này không bật mặc định, nhưng nếu bạn từng kích hoạt, hãy tắt bằng cách vào Settings > Sounds & Haptics > Keyboard Feedback > tắt Haptic.
+
+Khi ba tính năng trên đã được tối ưu, bạn có thể cải thiện thời lượng pin thêm nữa bằng các mẹo khác như giới hạn sạc ở mức 95% hoặc tùy chỉnh Control Center để truy cập nhanh chế độ tiết kiệm pin.
+
+(Theo Cnet)

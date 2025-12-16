@@ -1,0 +1,13 @@
+Title: Hệ sinh thái nông nghiệp số sẽ được nhân rộng trên toàn vùng đồng bằng sông Cửu Long
+
+Tỉnh Đồng Tháp - một trong những địa phương đi đầu về chuyển đổi số ngành nông nghiệp đã phát triển và vận hành thử nghiệm nền tảng dữ liệu số ngành nông nghiệp từ tháng 5/2023 và dần tiến đến tích hợp các thiết bị IoT vào tất cả hoạt động để có thể thu thập dữ liệu tự động, quản lý tất cả hoạt động với công cụ số, quản lý nông nghiệp số và phát triển kinh tế nông nghiệp số dựa trên nền tảng thu thập thông tin và xây dựng cơ sở dữ liệu lớn hướng đến tự động hóa trong thu thập.
+
+Ảnh minh hoạ
+
+Nền tảng được triển khai tại Đồng Tháp là nền tảng mở, có thể đồng bộ với các phần mềm liên quan khi cần. Đến nay, nền tảng đã tích hợp được 100% diện tích/số liệu thống kê ngành nông nghiệp và phát triển nông thôn; số hóa quy trình sản xuất an toàn, hình thành mạng lưới quan sát, quan trắc, truy xuất nguồn gốc theo chuỗi cung ứng sản phẩm; tiến đến chuyển đổi số toàn diện trong sản xuất nông nghiệp, hướng đến canh tác thông minh bền vững.
+
+Được biết, sau khi được Bộ Nông nghiệp và Phát triển nông thôn chấp nhận, nền tảng sẽ được đề xuất ban hành tiêu chí để áp dụng trong khu vực đồng bằng sông Cửu Long và các vùng kinh tế lân cận, tạo điều kiện cho các địa phương tiếp cận và thuê sử dụng dịch vụ công nghệ thông tin.
+
+Theo kế hoạch, Hệ sinh thái nông nghiệp số tỉnh Đồng Tháp sẽ sớm được đưa vào vận hành chính thức tại tỉnh, sau đó nhân rộng trên toàn vùng đồng bằng sông Cửu Long.
+
+Nguyễn Lê và nhóm PV, BTV

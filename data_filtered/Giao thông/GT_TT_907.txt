@@ -1,0 +1,15 @@
+Bạn đọc tên Hùng
+
+- Đại diện Tổng công ty Đầu tư phát triển và quản lý dự án hạ tầng giao thông Cửu Long trả lời: Nguyên nhân đèn tín hiệu trên đường cao tốc lúc có lúc không là do nạn trộm dây điện chiếu sáng công cộng và dây điện chiếu sáng đèn tín hiệu giao thông. Nhà thầu thi công trên đoạn đường này đang chịu nhiều thiệt hại vì đã tốn hàng tỉ đồng để khắc phục lắp mới dây điện rồi lại bị mất cắp. Chúng tôi mong chính quyền địa phương thường xuyên kiểm tra xử lý nạn trộm dây điện đèn tín hiệu giao thông và đèn chiếu sáng công cộng.
+
+Điều chỉnh đèn tín hiệu giao thông ở vòng xoay Hàng Xanh?
+
+* Vào giờ cao điểm nút giao thông Hàng Xanh thường bị rối loạn giao thông dẫn tới kẹt xe, dù tại đây có chốt đèn tín hiệu giao thông. Tại sao không lập trình hệ thống đèn tín hiệu như sau: khi tín hiệu ở hai đầu đường báo đỏ thì nên để 10 giây sau hai đèn còn lại mới bật xanh. Như vậy, các xe mới đi hết vòng xuyến nút giao thông Hàng Xanh và sẽ không bị cản trở các xe từ đường có đèn xanh vào nút.
+
+(huuphuocnguyen240282@...)
+
+- Ông Trần Trọng Huệ (chủ tịch hội đồng thành viên Công ty TNHH MTV Chiếu sáng công cộng TP.HCM) trả lời:
+
+Hiện nay, ngã tư Hàng Xanh được thiết kế tạo vòng xoay để điều tiết giao thông. Tuy nhiên, do lưu lượng xe qua giao lộ này quá lớn vượt khả năng điều tiết giao thông của vòng xoay đã dẫn đến tình trạng ùn tắc. Giải pháp cấp bách mà chúng tôi thực hiện là lắp đặt đèn tín hiệu giao thông tại giao lộ này để giảm tải lượng xe đi vào vòng xoay nhằm giải quyết tình trạng ùn tắc tại giao lộ.
+
+Thời gian điều tiết đèn tín hiệu giao thông được chia làm năm thời đoạn cho năm thời điểm khác nhau trong ngày với chu kỳ hoạt động từ 70-90 giây, điều tiết hai pha đèn với thời gian đèn đỏ giải tỏa là 5 giây. Nếu tăng lên 10 giây thì chu kỳ đèn và độ rộng đường không đáp ứng yêu cầu thông lượng xe đi qua giao lộ, dẫn đến tình trạng ùn tắc ở tuyến đường Điện Biên Phủ và Xô Viết Nghệ Tĩnh. Sắp tới giao lộ này sẽ được lắp đặt cầu vượt, chắc chắn tình hình giao thông sẽ được cải thiện.

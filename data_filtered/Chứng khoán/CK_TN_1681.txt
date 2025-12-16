@@ -1,0 +1,11 @@
+Ủy ban Chứng khoán Nhà nước vừa ban hành công văn yêu cầu các công ty chứng khoán, công ty quản lý quỹ tăng cường bảo đảm an toàn thông tin mạng, có biện pháp ứng phó với những tình huống cấp bách, bảo đảm an ninh, an toàn hệ thống giao dịch và quyền lợi cho nhà đầu tư.
+
+Công ty chứng khoán, quản lý quỹ phải tổ chức kiểm tra, đánh giá an toàn thông tin cho hệ thống thông tin theo quy định, hướng dẫn của Bộ Thông tin và Truyền thông. Đồng thời, các công ty chứng khoán phải xây dựng kế hoạch ứng phó sự cố an toàn bảo mật, tình huống cấp bách đối với hệ thống giao dịch chứng khoán trực tuyến; tổ chức thực hiện tuyên truyền, phổ biến nâng cao nhận thức về an toàn thông tin cho các cán bộ, nhân viên của mình.
+
+Công ty chứng khoán tiếp tục bị nhắc nhở tăng cường đảm bảo an toàn hệ thống giao dịch NGỌC DƯƠNG
+
+Công văn này có nội dung tương tự tiếp theo công văn số 1837 của Ủy ban Chứng khoán ngày 25.3 về việc cảnh báo bảo mật hệ thống giao dịch chứng khoán trực tuyến ngay sau việc Công ty chứng khoán VNDIRECT bị hacker quốc tế tấn công mạng, đánh sập hệ thống và ngừng giao dịch nhiều ngày.
+
+Sau sự cố này, Ủy ban Chứng khoán Nhà nước yêu cầu công ty chứng khoán phải chủ động rà soát, kiểm tra ngay các phương án bảo mật cho hệ thống công nghệ thông tin; đặc biệt hệ thống giao dịch chứng khoán và các hệ thống có kết nối mạng internet để kịp thời khắc phục các lỗ hổng bảo mật (nếu có); đồng thời thực hiện kiểm tra các quy trình giao dịch trực tuyến, kiểm soát rủi ro, sao lưu dự phòng hệ thống, dữ liệu quy trình quản trị vận hành các hệ thống công nghệ thông tin, xây dựng các biện pháp ứng phó và khắc phục các rủi ro về bảo mật tiềm ẩn...
+
+Thủ tướng Chính phủ chỉ đạo Ủy ban Chứng khoán Nhà nước chủ trì phối hợp với các cơ quan liên quan khẩn trương rà soát toàn diện, kiểm tra kỹ lưỡng hệ thống giao dịch chứng khoán, hệ thống công nghệ thông tin, chủ động xây dựng các quy trình kiểm soát rủi ro, biện pháp xử lý, ứng phó với những tình huống cấp bách, không để xảy ra sự cố kỹ thuật, bảo đảm an ninh, an toàn hệ thống tài chính, quyền lợi cho nhà đầu tư.

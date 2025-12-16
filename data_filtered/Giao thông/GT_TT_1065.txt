@@ -1,0 +1,3 @@
+Bảng xếp hạng chia các nhóm cao điểm nhất theo thang: TOP 10, TOP 20, TOP 50, TOP 100 và nhóm còn lại, xếp theo thứ tự từ cao xuống thấp.
+
+Theo Bộ GTVT, kết quả đánh giá và xếp hạng năng lực các tổ chức tư vấn cũng là cơ sở để các chủ đầu tư và đại diện tham khảo trong công tác lựa chọn tổ chức tư vấn thực hiện các dự án. Ngoài ra, bộ cũng khuyến khích các chủ đầu tư khác áp dụng hoặc tham khảo kết quả đánh giá, xếp hạng năng lực này.

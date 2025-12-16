@@ -1,0 +1,16 @@
+ Phát hành bản vá lỗi bảo mật WMF
+
+Người dùng có thể tải về các phiên bản cập nhật vá lỗi tại các liên kết bên dưới hoặc sử dụng chức năng Windows Update trong Windows XP. 
+
+Windows XP (KB912919) : Dành cho người dùng Windows XP Service Pack (1-2) 
+
+Windows XP x64 Edition (KB912919) : Dành cho Windows XP x64 Edition 
+
+Windows Server 2003 64-bit Itanium Edition (KB912919) : Dành cho Windows Server 2003 Service Pack 1 for Itanium-based Systems, Windows Server 2003 for Itanium-based Systems 
+
+Windows Server x64 Edition (KB912919) : Dành cho Windows Server 2003, Datacenter x64 Edition; Windows Server 2003, Enterprise x64 Edition; Windows Server 2003, Standard x64 Edition 
+
+Thông tin về lỗi bảo mật có thể tham khảo thêm tại đây . 
+
+
+

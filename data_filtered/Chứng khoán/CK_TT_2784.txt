@@ -1,0 +1,57 @@
+Bà con nhiều tỉnh miền Tây đang rất thiếu nước sinh hoạt - Ảnh: BỬU ĐẤU
+
+Ứng phó cao điểm xâm nhập mặn tại miền Tây
+
+Từ ngày 10 đến 15-3 có khả năng sẽ xảy ra đợt cao điểm về xâm nhập mặn, ảnh hưởng đến nguồn nước ngọt tại nhiều địa phương vùng Đồng bằng sông Cửu Long. Thủ tướng Phạm Minh Chính vừa ký công điện số 19 yêu cầu các bộ, địa phương liên quan tập trung ứng phó.
+
+Theo đó, Thủ tướng yêu cầu chủ tịch UBND các tỉnh thành Đồng bằng sông Cửu Long, nhất là Bến Tre, Tiền Giang, Hậu Giang, Sóc Trăng, Trà Vinh chủ động bố trí nguồn lực địa phương, triển khai ngay các biện pháp bảo đảm nguồn nước ngọt phục vụ sản xuất và sinh hoạt.
+
+Tổ chức theo dõi chặt chẽ tình hình thiếu nước, xâm nhập mặn tại từng khu vực trên địa bàn để chủ động triển khai các biện pháp ứng phó cụ thể phù hợp với tình hình thực tế tại địa phương, theo chỉ đạo và hướng dẫn của Bộ Nông nghiệp và Phát triển nông thôn.
+
+Bộ trưởng Bộ Tài nguyên và Môi trường tập trung chỉ đạo theo dõi sát diễn biến nguồn nước, dự báo, cung cấp thông tin kịp thời về tình hình nguồn nước trên sông Mekong và xâm nhập mặn tại Đồng bằng sông Cửu Long để các cơ quan chức năng, các địa phương và người dân biết, chủ động phòng ngừa, ứng phó.
+
+Bộ trưởng Bộ Nông nghiệp và Phát triển nông thôn chủ động chỉ đạo, hướng dẫn các địa phương triển khai phòng chống thiếu nước, xâm nhập mặn phù hợp diễn biến thực tế từng khu vực, hạn chế ảnh hưởng đến sản xuất nông nghiệp.
+
+Ước tính 40.000 tỉ đồng trái phiếu có rủi ro cao năm 2024
+
+Trong báo cáo vừa công bố, Visrating ước tính lượng trái phiếu có rủi ro cao trong năm 2024 là 40.000 tỉ đồng, con số này thấp hơn đáng kể so với 147.000 tỉ đồng trái phiếu chậm trả gốc/lãi phát sinh mới trong năm 2023.
+
+Theo Visrating, phần lớn trái phiếu có rủi ro cao thuộc về các doanh nghiệp liên quan đến khối bất động sản hoặc xây dựng với dòng tiền yếu, tỉ lệ vay nợ cao và nguồn tiền mặt để trả nợ đến hạn rất hạn chế.
+
+Ngoài ra, Visrating nhận thấy có hơn 60% giá trị trái phiếu rủi ro cao trong năm 2024 đến từ các doanh nghiệp được thành lập chỉ để huy động vốn (SPEs), không có hoạt động kinh doanh, khả năng trả nợ rất yếu và có liên quan đến các nhóm doanh nghiệp đang gặp khó khăn đã chậm trả gốc/lãi.
+
+Trong năm 2024, đơn vị này kỳ vọng kỷ luật thị trường cải thiện nhờ vào các quy định pháp lý chặt chẽ hơn đối với phát hành mới, giám sát công bố thông tin chi tiết và kịp thời hơn, cùng với sự tham gia nhiều hơn của các nhà đầu tư tổ chức.
+
+Ảnh minh họa: AFP/iStock
+
+Cảnh báo vi rút tấn công máy chủ doanh nghiệp
+
+Các chuyên gia Công ty bảo mật Bkav cho biết gần đây họ liên tục nhận được yêu cầu trợ giúp từ nhiều doanh nghiệp tại Việt Nam, với tình trạng chung là các máy tính trong mạng nội bộ bị mã hóa cùng lúc, dữ liệu không thể cứu được.
+
+Kết quả phân tích, thủ phạm là LockBit 3.0, hay còn gọi là LockBit Black, một mã độc tống tiền của băng đảng hacker nổi tiếng, mới bị Liên minh cảnh sát quốc tế gồm Cơ quan Phòng chống tội phạm quốc gia Anh (NCA), Cục Điều tra liên bang Mỹ (FBI) và Cơ quan cảnh sát Liên minh châu Âu (Europol) triệt phá.
+
+LockBit Black được thiết kế để nhắm tới những máy chủ quản lý Windows Domain trong hệ thống nội bộ. Sau khi đã xâm nhập được, vi rút sử dụng chính các máy chủ này lây lan vào toàn bộ hệ thống, vô hiệu hóa các giải pháp bảo mật, sao chép và thực thi mã độc… Bằng cách này, vi rút có thể mã hóa toàn bộ máy trong hệ thống nội bộ cùng lúc mà không cần phải tấn công từng máy.
+
+LockBit Black còn có kịch bản mã hóa dữ liệu nguy hiểm hơn. Thay vì trực tiếp mã hóa dữ liệu ngay khi khởi chạy, vi rút này thực hiện leo thang đặc quyền và cuối cùng khởi động lại máy nạn nhân vào chế độ Safe Mode (chế độ chỉ hệ thống và một số ứng dụng được khởi chạy) và thực hiện mã hóa dữ liệu trong chế độ này. Bằng cách như vậy, mã độc có thể qua mặt các giải pháp bảo mật thông thường.
+
+Thêm hơn trăm ngàn tài khoản chứng khoán mở mới
+
+Thông tin từ Tổng công ty Lưu ký và bù trừ chứng khoán Việt Nam cho biết, cuối tháng 2-2024, tổng lượng tài khoản chứng khoán nhà đầu tư đạt hơn 7,53 triệu, tăng hơn 113.280 tài khoản sau một tháng.
+
+Mức tăng chủ yếu ở nhóm nhà đầu tư cá nhân trong nước với lượng mở mới là hơn 113.000, nâng lũy kế tổng số tài khoản lên hơn 7,46 triệu.
+
+Còn nhà đầu tư cá nhân nước ngoài tăng 117 tài khoản, lên tổng mức 41.131 đến hết tháng 2. Ngược lại, nhà đầu tư tổ chức nước ngoài giảm từ 4.557 tài khoản về 4.546 tài khoản.
+
+Số lượng tài khoản mở mới giảm trong bối cảnh VN-Index có sự tăng trưởng mạnh từ đầu năm. Nhóm nhà đầu tư cá nhân cũng giao dịch khá tích cực trong giai đoạn vừa qua. Tính riêng giao dịch khớp lệnh, cá nhân là bên mua ròng duy nhất trong tháng 2 với 6.495,4 tỉ đồng.
+
+Hơn 30 chuyên gia Mỹ và Anh tham gia đợt khám thiện nguyện cho bệnh nhân nghèo
+
+Đợt khám và điều trị thiện nguyện cho bệnh nhân nghèo do Bệnh viện Hồng Ngọc tổ chức, với sự tham gia của trên 30 chuyên gia y khoa đến từ Mỹ và Vương quốc Anh, kéo dài từ ngày 9 đến 27-3.
+
+Trong khuôn khổ chương trình thường niên này, bệnh viện và các chuyên gia kể trên sẽ khám và phẫu thuật miễn phí cho 60 bệnh nhân có hoàn cảnh khó khăn, mắc các dị tật, bệnh lý tai mũi họng và đầu cổ; dị tật tay chân như khoèo tay, thiếu ngón, dính ngón; dị tật liên quan đến hàm mặt như lệch khớp cắn, phì đại xương hàm, thiểu sản xương hàm...
+
+Trong số các ca bệnh được thăm khám đợt này có nhiều ca chấn thương khó và phức tạp, các bác sĩ đang hội chẩn để có biện pháp điều trị hiệu quả.
+
+Tin tức đáng chú ý trên Tuổi Trẻ nhật báo ngày 11-3. Để đọc Tuổi Trẻ báo in phiên bản E-paper, mời bạn đăng ký Tuổi Trẻ Sao TẠI ĐÂY
+
+Tin tức thời tiết hôm nay 11-3 - Đồ họa: NGỌC THÀNH

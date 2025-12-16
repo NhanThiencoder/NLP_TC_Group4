@@ -1,0 +1,31 @@
+Title: MobiFone bắt đầu "tấn công" thị trường nông nghiệp thông minh
+
+Doanh nghiệp công nghệ nhảy vào số hóa nông nghiệp
+
+Câu chuyện nông nghiệp thông minh hay nông nghiệp công nghệ cao không phải là vấn đề mới mẻ ở Việt Nam. Hiện nay, một số trang trại và hộ gia đình đã áp dụng mô hình nông nghiệp công nghệ cao. Thực tế, các nhà kính nông nghiệp mặc dù đã trang bị các hệ thống che chắn nắng, tưới tiêu nhưng vẫn sử dụng nhân công để thực hiện các thao tác đối với các hệ thống điện cung cấp. Đa số các trang trại này chưa ứng dụng nhiều các hệ thống quan trắc môi trường trong nhà kính như nhiệt độ, độ ẩm, cường độ sáng, nồng độ các loại khí trong nhà kính... và chưa ứng dụng sâu rộng các giải pháp điều khiển chăm sóc tự động, chính xác theo các điều kiện đặt ra.
+
+Cho đến thời điểm này, có một số doanh nghiệp công nghệ đã nhảy vào lĩnh vực nông nghiệp với kỳ vọng đưa các ứng dụng công nghệ cao để từ đó có thể tạo ra bước đột phá trong nông nghiệp. Tuy nhiên, mỗi doanh nghiệp lại đưa ra cho mình một hướng tiếp cận thị trường này khác nhau.
+
+Đơn cử như VNPT hợp tác với OPTiM của Nhật Bản cung cấp giải pháp sử dụng Drone, Robot kết hợp camera, hệ thống phân tích AI để thực hiện việc phun thuốc trừ sâu theo trọng điểm giúp đem lại hiệu quả trong phòng trừ sâu bệnh. Còn VNPT Technology lại chọn giải pháp nông nghiệp thông minh xây dựng trên nền tảng Smart Connected Platform bao gồm quy trình hoàn thiện, kiểm soát toàn bộ quá trình từ sản xuất đến thu hoạch, chế biến và vận chuyển theo chuẩn thiết kế định hướng trang trại ứng dụng công nghệ cao. Công ty ELCOM, một công ty trước đây chuyên cung cấp giải pháp cho các nhà mạng cũng nhảy sang cung cấp giải pháp, xây dựng nhà kính, nhà lưới, nhà màng và các hệ thống, vật tư nông nghiệp công nghệ cao. Công ty Công nghệ DTT cũng chuyển hướng thêm tư vấn, triển khai giải pháp nông nghiệp công nghệ cao. Thậm chí cả công ty lâu nay chuyên về phần mềm như Công ty Cổ phần Global CyberSoft cũng nhảy vào cung cấp giải pháp SmartAgri – ứng dụng công nghệ thông tin vào việc tự động hóa quy trình trồng trọt, chăn nuôi và thủy hải sản.
+
+Các doanh nghiệp công nghệ cũng đưa ra giải pháp công nghệ giúp phân tích thị trường hỗ trợ cho nông dân dự báo và tiêu thụ sản phẩm.
+
+MobiFone Global tập trung làm giải pháp cho nông nghiệp thông minh
+
+Đại diện của MobiFone Global cho biết, mỗi doanh nghiệp tại Việt Nam có một cách tiếp cận nông nghiệp thông minh khác nhau và đều có những đặc thù, cách thực hiện riêng. Trong đó, MobiFone Global (công ty con của Tổng công ty Viễn thông MobiFone - PV) lại chọn cách tiếp cận theo hướng trực diện, cơ bản và sát sườn với người dân bằng cách đem giải pháp ICT vào hỗ trợ trong canh tác trong nhà kính nông nghiệp. Giá trị đem lại là sự cộng hưởng dịch vụ cốt lõi của Tổng công ty MobiFone với các thế mạnh về kênh truyền, các gói cước viễn thông sẽ được kết hợp giải pháp xử lý tự động điều khiển các hệ thống điện cơ khí của hệ thống nhà kính nông nghiệp.
+
+MobiFone Global ghi nhận thực tế và nhận thấy thị trường ứng dụng ICT vào trong sản xuất nông nghiệp, đặc biệt các loại nông sản có giá trị kinh tế cao như các loại hoa, quả, rau, cây thuốc.... còn đang rất ít, trong khi các loại nông sản này nếu có điều kiện sinh trưởng thuận lợi sẽ cho năng suất và chất lượng cao nhất. Bên cạnh việc ứng dụng IoT, MobiFone Global sẽ hợp tác với các chuyên gia thuộc Học Viện nông nghiệp Việt Nam để tạo ra hệ chuyên gia chăm sóc các loại nông sản phát triển theo điều kiện lý tưởng nhất của từng loại.
+
+MobiFone Global hướng đến đưa các giải pháp ứng dụng IoT để kết hợp các hệ thống nhà kính trong nông nghiệp nhằm giải quyết những yêu cầu ban đầu Cách mạng 4.0 trong nông nghiệp nhằm tạo điều kiện lý tưởng, giảm bớt nhân công, cải thiện năng suất và chất lượng nông sản. Để có môi trường ứng dụng này, MobiFone Global đầu tư môi trường nhà kính thực tế tại Hòa Bình cho việc triển khai thử nghiệm các ứng dụng IoT ... trước khi triển khai rộng khắp cho các khách hàng. Nhà kính nông nghiệp ứng dụng công nghệ cao của MobiFone Global cùng các hệ thống IoT đã được công ty khai trương ngày 28/7/2020. "Việc đầu tư xây dựng nhà kính nông nghiệp cùng việc ứng dụng IoT sẽ là tiền đề cho việc ứng dụng sâu hơn các nền tảng công nghệ mới trong nông nghiệp - ứng dụng Big Data, AI, VR trong lĩnh vực nông nghiệp", đại diện của MobiFone Global cho biết.
+
+Nhà kính nông nghiệp ứng dụng công nghệ cao của MobiFone Global cùng các hệ thống IoT đã được công ty khai trương ngày 28/7/2020.
+
+Ông Nguyễn Đình Tuấn, Thành viên Hội đồng thành viên của MobiFone cho rằng: “Ứng dụng các giải pháp CNTT kết hợp dịch vụ viễn thông của MobiFone trong thị trường nông nghiệp đang rất rộng và tiềm năng là một trong những định hướng trọng tâm mà MobiFone sẽ thực hiện trong thời gian tới".
+
+Cũng theo đại diện của Mobifone Global, qua nghiên cứu thị trường nông nghiệp, đơn vị này thấy rằng, người dân, doanh nghiệp nông nghiệp có xu hướng đang đẩy mạnh việc ứng dụng nhà kính nhằm tăng năng suất và chất lượng sản phẩm nông sản. Điều này sẽ khiến cho các giải pháp nhằm hỗ trợ tối đa các thao tác thủ công truyền thống sẽ có nhiều cơ hội ứng dụng vào thực tế. "MobiFone Global kỳ vọng sẽ cung cấp các giải pháp tiện ích IoT cộng hưởng cùng các dịch vụ truyền thống của Tổng công ty MobiFone", đại diện Mobifone Global nói.
+
+Tuy nhiên, đại diện của MobiFone Global khẳng định, doanh nghiệp này không đầu tư trực tiếp vào sản xuất nông nghiệp mà chỉ hướng đến là đơn vị cung cấp các giải pháp công nghệ ICT ứng dụng cho lĩnh vực nông nghiệp. Theo tính toán của MobiFone Global, công ty này sẽ tiếp cận thị trường nông nghiệp thông minh bằng cách đưa các ứng dụng ICT để hỗ trợ trong công tác vận hành nhà kính và chăm sóc các đối tượng cây trồng trong nhà kính một cách tự động, chính xác nhằm giảm sức lao động, tăng chất lượng chăm sóc cây trồng ….
+
+Đối tượng khách hàng mà MobiFone Global nhắm đến là các chủ nông trại ứng dụng nhà kính để trồng các loại nông sản giá trị cao như: các loại hoa, cây ăn trái, các loại củ, rau mầu… Trước mắt, MobiFone Global sẽ hướng đến các vùng nông nghiệp trọng điểm mà ở đó nhận được sự hỗ trợ của các đơn vị kinh doanh phụ trách địa bàn trải dài toàn quốc như MobiFone khu vực 4, MobiFone khu vực 8 và MobiFone khu vực 9… để đưa giải pháp đến với khách hàng.
+
+Thái Khang

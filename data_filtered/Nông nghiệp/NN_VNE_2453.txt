@@ -1,0 +1,27 @@
+Tọa đàm trực tuyến "E-Conference - Chuỗi cung ứng nông nghiệp thời Covid" phát trực tiếp trên VnExpress lúc 10h ngày 12/5 với sự góp mặt của các chuyên gia trong lĩnh vực. Tham gia buổi trao đổi có ông Nguyễn Xuân Hùng - Phó chủ tịch Miczone Group, doanh nghiệp cung cấp giải pháp thương mại điện tử và logistics. Ông Nguyễn Việt Dũng - CEO Cầu Đất Farm, đơn vị đang tham gia chuỗi cung ứng. Ông Nguyễn Đức Phương Nam - Giám đốc điều hành Wowtrace, đơn vị cung cấp giải pháp truy xuất nguồn gốc dựa trên các nền tảng, công nghệ mới như AI, blockchain... Ông Cris Trần - Giám đốc điều hành Infinity Blockchain Ventures, tổ chức nghiên cứu ứng dụng blockchain.
+
+Chuỗi cung ứng nông nghiệp khát giải pháp
+
+Những vấn đề tồn đọng
+
+Các chuyên gia nhận định chuỗi cung ứng nông nghiệp đang gặp nhiều vấn đề, khi đại dịch xảy ra điểm yếu lại càng bộc lộ rõ ràng. Tính tự động hóa, dữ liệu khách hàng, sản phẩm rời rạc, thông tin chưa chuẩn hóa, chuỗi cung ứng thiếu liên kết... là những điểm tồn đọng trong nhiều năm qua.
+
+Là tập đoàn hoạt động trong lĩnh vực vận chuyển hàng nông sản xuất khẩu, ông Nguyễn Xuân Hùng cho biết Việt Nam xuất khẩu trái cây sang Trung Quốc nhưng dữ liệu cụ thể về tiêu chuẩn sản phẩm vẫn chưa có hoặc không đầy đủ. Người mua đều nghĩ nhà vườn sẽ cung cung cấp, nhưng thực chất các bên trồng trọt vẫn chưa chuẩn hóa hồ sơ thông tin này. Có sự đứt quãng trong việc truyền bá thông tin liên quan đến những yêu cầu của thị trường nhập khẩu. Ví dụ trong Covid-19, những vấn đề về kiểm dịch, bộ tiêu chuẩn đảm bảo chất lượng sản phẩm..., đa số không truyền đạt đầy đủ đến các khâu thu hoạch, đóng gói. Như vậy khi đầu vào không được quy chuẩn thì hoạt động xuất khẩu có nguy cơ dừng lại, chuỗi cung ứng ngày càng gặp khó khăn.
+
+Đại diện Cầu Đất Farm chia sẻ, dữ liệu là một trong những vấn đề tồn đọng lớn nhất của ngành khi các bài toán lớn của nông nghiệp như chất lượng trồng trọt, vận chuyển, phân phối và người tiêu dùng đều liên quan đến yếu tố này. Dữ liệu không hợp nhất thì người đứng đầu doanh nghiệp rất khó để đưa ra quyết định đúng đắn. Bên cạnh đó, những trở ngại về công nghệ mới và thói quen của người tiêu dùng vẫn chưa có khái niệm truy xuất hay muốn tìm hiểu ngọn ngành về sản phẩm là những yếu tố làm chuỗi cung ứng vẫn còn tồn đọng nhiều vấn đề.
+
+Một vấn đề khác là tình trạng nhiều sản phẩm, thương hiệu nông sản Việt đang bị nhái trên thị trường. Giải đáp vấn đề này, ông Nguyễn Đức Phương Nam cho rằng các doanh nghiệp cần xây dựng hệ thống truy xuất nguồn gốc sản phẩm, bảo chứng bởi công nghệ để tránh tình trạng lấy cắp thông tin, làm giả hoặc sửa đổi những tài liệu sẵn có.
+
+Hướng giải quyết
+
+Phó chủ tịch Miczone Group nhận định để giải tất cả các bài toán của ngành nông nghiệp nói chung và chuỗi cung ứng nói riêng, cần chuẩn hóa thông tin đầu vào. Dữ liệu không đủ, nằm rải rác ở từng bộ phận, từng nhóm khách hàng khác nhau thì mọi chiến lược đều chệch hướng. Ông đưa ra lời khuyên trước khi chuyển đổi số hoặc ứng dụng công nghệ thì cần hệ thống lại thông tin, xác định điểm mấu chốt mới quyết định bước tiếp theo.
+
+Ông Hùng nhìn nhận những công nghệ như blockchain sẽ là giải pháp cho người kinh doanh trong lĩnh vực để tổng hợp và minh bạch hóa các dữ liệu đầu vào. Để đến bước này mỗi đơn vị, mỗi mắt xích trong chuỗi phải tự mình thu thập đủ cơ sở số liệu, tổng hợp và trao đổi mạng lưới với nhau để tạo nên một hệ thống liền mạch. Ưu điểm nổi bật của công nghệ này không thể xóa sửa. Một khi thông tin đã được ghi vào cơ sở dữ liệu, thì việc tấn công để thay đổi hầu như là điều không thể.
+
+"Khi sử dụng blockchain, mỗi sản phẩm đều giống như có một giấy 'chứng minh nhân dân' riêng với những đặc tính khác biệt, chỉ cần quét thông tin sẽ đọc được tất cả những dữ liệu liên quan", ông Nguyễn Đức Phương Nam - Giám đốc điều hành Wowtrace nói.
+
+Ông cũng cho rằng những công nghệ như IoT, KYC (Know Your Customer), học máy, AI sẽ đem lại nhiều cơ hội mới cho doanh nghiệp tối ưu hóa quy trình hoạt động. Để làm điều này các công ty cần phải đầu tư đội ngũ nhân sự đầy đủ, am hiểu về sản phẩm trong chuỗi cung ứng.
+
+Người lãnh đạo phải có niềm đam mê, tự hào về nông sản, thực phẩm của Việt Nam. Lĩnh vực nông nghiệp đòi hỏi việc kiểm soát, vận chuyển, bàn giao cần phải có nhiều bước đảm bảo chất lượng trước khi đến tay người tiêu dùng, nên người chủ cần phải tạo ra quy trình đúng, đủ và xác thực. Việc áp dụng công nghệ là một bước cần phải triển khai để giảm bớt công việc giấy tờ, chuẩn hóa sản phẩm để tạo sự an tâm cho khách hàng.
+
+Hiền Trang

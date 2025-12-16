@@ -1,0 +1,31 @@
+Title: Thông qua nền tảng số, ngành nông nghiệp tập trung xây dựng các cơ sở dữ liệu
+
+Tại hội nghị chuyên đề "Thúc đẩy số hoá ngành nông nghiệp", 16/5, Bộ trưởng Bộ TT&TT Nguyễn Mạnh Hùng dẫn các nghiên cứu quốc tế cho thấy, CĐS của ngành nông nghiệp sẽ cho phép lao động nông nghiệp giảm được tới 23% chi phí. Quản lý đất đai nông nghiệp bằng công nghệ số (CNS), nhất là GPS, giảm được chi phí tới 14%. Dùng CNS để bón phân tuỳ biến theo từng loại cây trồng thì tiết kiệm được tới 12%. Lái xe tự động trong nông nghiệp cũng giúp giảm tới 13% chi phí.
+
+Như vậy, công nghệ số, chuyển đổi số, tự động hoá sẽ giúp ngành nông nghiệp giảm được rất nhiều chi phí. Tuy nhiên, Bộ trưởng cũng chỉ rõ, chuyển đổi số khó ở chỗ xây dựng hạ tầng dữ liệu và phát triển nền tảng số. Còn dễ ở chỗ dễ sử dụng và dễ phổ cập. Một phần mềm, một nền tảng số, để vận hành khai thác tại một chỗ là hàng triệu người dùng chung, hàng triệu người này lại có thể phân tán ở tất cả các xã, các thôn bản.
+
+Theo Bộ trưởng, ngành nông nghiệp có nhiều dữ liệu nhất nhưng lại là ngành thu thập được ít dữ liệu nhất và vì vậy cũng khó quản lý nhất. Điều đáng nói, không có dữ liệu thì không có chuyển đổi số và không có quản lý. Cho nên, việc đầu tiên cần làm để CĐS ngành nông nghiệp là xây dựng các cơ sở dữ liệu. Và việc này thì Bộ NN-PTNT phải là người chỉ đạo xây dựng. Dữ liệu của ngành nông nghiệp thì phải là việc của ngành nông nghiệp.
+
+Bộ trưởng Nguyễn Mạnh Hùng nói về tầm quan trọng của cơ sở dữ liệu trong chuyển đổi số ngành nông nghiệp.
+
+Nhưng dữ liệu để tạo ra các giá trị mới, tạo ra sự tăng trưởng KTS thì lại là các dữ liệu được sinh ra hàng ngày do sử dụng. Ông dẫn chứng, người dân mua bán nông sản hàng ngày, tình hình sâu bệnh, mưa nắng hàng ngày của từng thôn, xã. Cách thu thập dữ liệu ở đây là thông qua các nền tảng số.
+
+Một số nền tảng số nông nghiệp dùng chung cần tập trung phát triển và thúc đẩy sử dụng là: nền tảng dữ liệu số nông nghiệp, nền tảng truy xuất nguồn gốc nông sản, nền tảng sàn thương mại điện tử nông nghiệp, nền tảng tối ưu hóa chuỗi cung ứng, v.v... Các nền tảng số dùng chung này thì Bộ NN-PTNT nên chỉ đạo xây dựng. Các doanh nghiệp công nghệ số Việt Nam hoàn toàn đủ năng lực để xây dựng các nền tảng số này.
+
+“Gốc của xoá nghèo nông dân là giá nông sản cao. Công nghệ cao thì tạo ra năng suất, chất lượng, song sản phẩm thì đại trà và vì vậy khó mà có giá cao. Mảnh đất, mảnh vườn, làng, xã, cây trồng, người nông dân thì có địa chỉ duy nhất và do vậy có thương hiệu duy nhất. Thương hiệu tạo ra giá cao. Để có được thương hiệu đến từng hộ gia đình nông dân, từng cái cây thì phải truy xuất được nguồn gốc nông sản. Chuyển đổi số có thể giải được bài toán truy xuất nguồn gốc nông sản.
+
+Bộ trưởng Nguyễn Mạnh Hùng cho biết, chỉ còn 1 tháng nữa là Chương trình chuyển đổi số Việt Nam được 4 năm. Năm đầu tiên là khởi động. Năm thứ hai là tổng diễn tập thời Covid. Năm thứ ba là xây dựng các nền tảng số quốc gia. Năm thứ tư là phát triển dữ liệu số. Năm 2024 này là bắt đầu của năm thứ năm, chúng ta sẽ tập trung vào phát triển kinh tế số, với 4 trụ cột là Công nghiệp CNTT và truyền thông, Phát triển KTS các ngành, Quản trị số và Phát triển dữ liệu số.
+
+Trong 4 năm qua đã cho chúng ta một số kinh nghiệm quý để định ra các cách làm chuyển đổi số hiệu quả, ông cho hay.
+
+Ông cũng đặc biệt nhấn mạnh về hợp tác với doanh nghiệp chuyển đổi số Việt Nam. Theo đó, chúng ta có nhiều doanh nghiệp CNS xuất sắc, có đủ năng lực giúp ngành nông nghiệp chuyển đổi số thành công. Với Bộ NN-PTNT, công nghệ số là khó khăn, còn với doanh nghiệp thì lại không khó.
+
+Tuy nhiên, doanh nghiệp công nghệ số thì không biết phải làm gì để chuyển đổi số nông nghiệp, không có nghề nông nghiệp, không có dữ liệu nông nghiệp. Do đó, chỉ cần ngành nông nghiệp biết mình muốn gì, cung cấp dữ liệu nông nghiệp thì doanh nghiệp công nghệ số sẽ giúp được ngành nông nghiệp chuyển đổi số.
+
+Cái gì ngành nông nghiệp khó đầu tư thì các doanh nghiệp cũng có thể đầu tư để cung cấp lại cho ngành dưới dạng dịch vụ. Sự hợp tác ngành nông nghiệp và doanh nghiệp công nghệ số là để mỗi bên cái gì dễ thì tập trung làm, cái gì khó thì không làm, để người kia làm, ông gợi ý.
+
+Người đứng đầu ngành thông tin truyền thông cũng đề xuất sau Hội nghị này, Bộ NN-PTNT nên có một kế hoạch hành động 2 năm 2024-2025 theo Đề án chuyển đổi số sẽ được phê duyệt, để tập trung vào các yếu tố nền tảng, xây dựng các nền tảng số, xây dựng các cơ sở dữ liệu ngành, cập nhật đúng, đủ, sạch, sống, làm nền tảng thúc đẩy nhanh chuyển đổi số, kinh tế số nông nghiệp.
+
+Ngành thuỷ sản xây dựng và số hoá cơ sở dữ liệu cho con tôm Việt Nam Cơ sở dữ liệu của con tôm Việt Nam đang được ngành thuỷ sản xây dựng và số hoá. Mạng lưới quan trắc môi trường phục vụ nuôi tôm từ trung ương đến địa phương cũng hoạt động hiệu quả.
+
+Anh Phương và nhóm PV, BTV

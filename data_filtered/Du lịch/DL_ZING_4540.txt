@@ -1,0 +1,24 @@
+
+Ba tháng sau thảm kịch rơi máy bay của Air India, một nhóm kỹ sư trẻ giới thiệu ý tưởng đột phá có thể thay đổi chuẩn mực an toàn hàng không.
+
+Mặc dù có vẻ kỳ lạ, nhưng chiếc máy bay được cải tiến này có thể cứu sống hàng nghìn người mỗi năm.
+
+Đó là hệ thống máy bay trang bị túi khí khổng lồ điều khiển bằng trí tuệ nhân tạo (AI). Dự án mang tên Rebirth (tái sinh) được kỳ vọng có thể cứu sống hàng nghìn hành khách mỗi năm. Ý tưởng này tận dụng túi khí tương tự trên ôtô, nhưng được thiết kế với quy mô lớn để bao bọc phần mũi, bụng và đuôi máy bay khi xảy ra sự cố.
+
+AI sẽ liên tục theo dõi độ cao, tốc độ, tình trạng động cơ, hướng bay, cháy nổ và phản ứng của phi công.
+
+Khi phát hiện máy bay đối mặt nguy cơ rơi ở độ cao khoảng 900 m, hệ thống sẽ tự động kích hoạt. Trong vòng chưa đầy 2 giây, các túi khí sẽ bung ra, tạo thành "kén bảo vệ" khổng lồ giúp máy bay hạ xuống mặt đất an toàn hơn, giảm thiểu nguy cơ nổ tung hoặc va chạm nghiêm trọng.
+
+"Phần lớn các hệ thống an toàn hiện nay chỉ nhằm ngăn chặn tai nạn. Chúng tôi muốn tạo ra giải pháp để con người vẫn có cơ hội sống sót ngay cả khi mọi hệ thống khác đều thất bại", hai kỹ sư sáng chế Eshel Wasim và Dharsan Srinivasan thuộc Viện Công nghệ và Khoa học Birla (BITS Pilani) cơ sở Dubai cho biết.
+
+Dự án Rebirth là hệ thống sinh tồn trong va chạm được hỗ trợ bởi AI sử dụng túi khí lớn, được triển khai khi phát hiện động cơ bị hỏng.
+
+Dự án Rebirth ra đời sau vụ tai nạn ngày 12/6, khi chuyến bay AI171 của Air India rơi chỉ 32 giây sau khi cất cánh từ sân bay Ahmedabad, khiến 260 người thiệt mạng. Vụ việc vẫn đang trong quá trình điều tra nhưng đã để lại ám ảnh lớn với nhiều người, trong đó có gia đình các kỹ sư trẻ này.
+
+Ngoài túi khí, hệ thống còn kết hợp lực đẩy ngược từ động cơ hoặc động cơ phụ bằng khí nén để giảm tốc độ rơi. Bên trong khoang, các chất lỏng hấp thụ va chạm cũng được tích hợp phía sau tường và ghế ngồi, giữ trạng thái mềm khi bay nhưng tự động cứng lại khi có va chạm nhằm giảm chấn thương cho hành khách.
+
+Theo nhóm sáng chế, công nghệ này có thể lắp đặt trên máy bay mới hoặc bổ sung cho máy bay hiện hữu. Họ đang tìm kiếm đối tác từ các phòng thí nghiệm hàng không vũ trụ để tiến hành thử nghiệm trong thực tế.
+
+Dự án Rebirth hiện lọt vào vòng chung kết giải thưởng James Dyson 2025 - giải thưởng quốc tế thường niên tôn vinh những phát minh mang tính đột phá. Kết quả chung cuộc sẽ được công bố vào ngày 5/11 tới, với giải thưởng trị giá 30.000 bảng Anh (khoảng hơn 1 tỷ đồng ) cùng cơ hội khởi nghiệp.
+
+Ngoài dự án Rebirth, các sáng kiến khác năm nay bao gồm rạn san hô nhân tạo in 3D, thiết bị tiệt trùng kim tiêm cầm tay, hệ thống nhà vệ sinh ủ phân không dùng nước và băng vệ sinh làm từ phụ phẩm nông nghiệp.

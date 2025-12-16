@@ -1,0 +1,31 @@
+Kỳ thi chọn học sinh giỏi quốc gia THPT năm học 2025-2026 sẽ diễn ra vào ngày 25-26/12 với các môn thi toán, vật lý, hoá học, sinh học, ngữ văn, lịch sử, địa lý, tiếng Anh, tiếng Nga, tiếng Pháp, tiếng Trung Quốc, tiếng Nhật và thi lập trình máy vi tính đối với môn tin học.
+
+Đặc biệt, Bộ GD&ĐT ra hướng dẫn cụ thể đối với việc chuẩn bị và tổ chức coi thi môn tin học và phần thi nói các môn ngoại ngữ.
+
+Cụ thể, đối với môn tin học, máy tính trong phòng thi phải được cài hệ điều hành Microsoft Windows hoặc Linux; môi trường lập trình Free Pascal/Lazarus, Code Block/Dev- C++, Python và các môi trường tương đương khác; phần mềm ghi đĩa CD.
+
+Em Võ Nguyễn Mỹ An, học sinh Trường THPT chuyên Trần Đại Nghĩa - thí sinh đoạt giải nhất và là thủ khoa môn tiếng Anh kỳ thi học sinh giỏi quốc gia năm 2023 (Ảnh: Quang Ninh).
+
+Giám thị phải quản lý đĩa CD như giấy thi, chỉ phát đĩa mới, còn nguyên bao bì cho thí sinh.
+
+Thí sinh ghi đầy đủ thông tin cá nhân và số tờ in bài làm ở tờ đầu tiên, các tờ sau chỉ ghi số báo danh; trên đĩa CD, ghi số báo danh, ngày thi và ký tên, không ghi thêm bất kỳ dấu hiệu nào khác.
+
+Đối với việc tổ chức thi nói các môn ngoại ngữ có một số yêu cầu cụ thể về phòng thi, thiết bị và nhiệm vụ của giám thị như mỗi môn ngoại ngữ có phòng thi riêng, bố trí 3 giám thị (2 trong phòng, 1 ngoài phòng).
+
+Ngoài ra, mỗi hội đồng có 2 phòng chờ gồm phòng chờ 1 cho thí sinh trước khi vào thi, phòng chờ 2 cho thí sinh sau khi hoàn thành phần thi; mỗi phòng chờ có 2 giám thị.
+
+Các phòng thi và phòng chờ được bố trí tách biệt, tránh ảnh hưởng tới các môn khác và thuận tiện cho thí sinh di chuyển.
+
+Mỗi phòng thi có 2 máy vi tính (1 chính, 1 dự phòng) được cài phần mềm thi nói của Bộ GD&ĐT, kết nối Internet ổn định và liên tục với máy chủ Bộ trong suốt thời gian thi.
+
+Trước giờ thi, giám thị kiểm tra kết nối mạng, thời gian hệ thống, nhận và ký nhận giấy nháp, đĩa CD/DVD, đề thi.
+
+Khi thi, giám thị gọi thí sinh theo danh sách, kiểm tra thẻ dự thi, giám sát quá trình làm bài, in và ký tên lên đĩa CD chứa bài thi, đồng thời hướng dẫn thí sinh ký xác nhận vào phiếu thu bài thi.
+
+Giám thị ngoài phòng thi giám sát toàn bộ hoạt động, đảm bảo thí sinh di chuyển đúng quy trình và không tiếp xúc với người khác.
+
+Giám thị trong phòng chờ có nhiệm vụ điều hành, giữ trật tự và hướng dẫn thí sinh; giám thị ngoài phòng chờ giám sát toàn bộ hoạt động, kể cả việc thí sinh ra vào phòng.
+
+Khi ghi âm bài thi, thí sinh phải đọc mã đề và nội dung câu hỏi trước khi trả lời to, rõ ràng. Tuy nhiên, thí sinh cần lưu ý, không nêu họ tên, số báo danh hay thông tin cá nhân và không tạo tiếng động để đánh dấu bài thi. Thí sinh vi phạm sẽ bị coi là sai quy định.
+
+Giám thị trong phòng thi tuyệt đối không gây tiếng động khi hệ thống đang ghi âm.

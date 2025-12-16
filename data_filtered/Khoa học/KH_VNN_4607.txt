@@ -1,0 +1,61 @@
+Trong bối cảnh Indonesia đang vươn mình trở thành cường quốc biển Đông Nam Á, một bước ngoặt lịch sử đã xảy ra vào ngày 30/10 tại vùng biển Surabaya: tàu ngầm không người lái KSOT-002 lần đầu tiên phóng thành công ngư lôi Piranha, vũ khí nội địa do PT PAL sản xuất. Không chỉ chứng minh khả năng tự hành đỉnh cao, sự kiện này còn mở ra kỷ nguyên mới cho tác chiến dưới nước, nơi những 'cá mập' robot có thể lặng lẽ tiêu diệt mục tiêu mà không cần thủy thủ. Hãy cùng khám phá công nghệ 'sát thủ' đằng sau cặp đôi này, từ thông số kỹ thuật công nghệ sắc bén đến bí quyết tích hợp hoàn hảo.
+
+Ngư lôi ‘Piranha’ được phóng từ tàu ngầm tự hành KSOT-002. Ảnh: PT PAL/navalnews.com.
+
+Ngư lôi Piranha nhẹ nhưng ‘nặng đô’ hủy diệt
+
+Ngư lôi Piranha không phải là vũ khí thông thường, nó được thiết kế dành riêng cho các nền tảng tự hành như tàu ngầm KSOT-002, tập trung vào tính linh hoạt và bí mật.
+
+Với đường kính chuẩn 324mm, kích thước lý tưởng cho ngư lôi hạng nhẹ, Piranha dễ dàng được tích hợp vào các tàu ngầm nhỏ gọn mà không làm tăng trọng lượng đáng kể.
+
+Dù các thông số chính xác về trọng lượng chưa được công bố công khai, nhưng dựa trên thiết kế, Piranha được tối ưu hóa để phù hợp với ống phóng ngoài của KSOT-002, giúp tàu duy trì khả năng cơ động cao.
+
+Về hiệu suất, Piranha nổi bật với tầm bắn ấn tượng từ 10-15km, đủ để bao quát các khu vực chiến lược như eo biển Lombok hay Sunda, những "điểm nghẽn" hàng hải then chốt của Indonesia.
+
+Tốc độ tối đa có thể đạt mức cao nhờ hệ thống đẩy điện tiên tiến, giúp ngư lôi di chuyển êm ái dưới nước mà không phát ra tiếng ồn lớn, tăng cường yếu tố bất ngờ.
+
+Đầu đạn nổ mạnh (high-explosive) của Piranha được chế tạo để xuyên thủng tàu ngầm hoặc tàu nổi cỡ nhỏ đến trung bình, tạo ra sức hủy diệt tập trung mà không lãng phí năng lượng.
+
+Trong phiên bản thử nghiệm gần đây, Piranha được sử dụng dưới dạng mô hình huấn luyện không đầu đạn, nhưng kết quả phóng đã chứng minh độ chính xác ban đầu lên đến 250 mét, một con số hứa hẹn cho các phiên bản chiến đấu đầy đủ.
+
+Ảnh cận cảnh ngư lôi Piranha trước khi được nạp vào KSOT-002. Ảnh: TNI AL/navalnews.com.
+
+Công nghệ ‘não bộ’ làm nên sức mạnh
+
+Điều làm Piranha trở nên "thông minh" chính là hệ thống dẫn đường kết hợp chủ động/thụ động bằng âm học (active/passive acoustic homing).
+
+Thay vì phụ thuộc hoàn toàn vào tín hiệu radar dễ bị phát hiện, ngư lôi này sử dụng sóng âm để "nghe" và "săn" mục tiêu, tự động điều chỉnh quỹ đạo dựa trên tiếng ồn từ động cơ tàu địch.
+
+Công nghệ này không chỉ tăng tỷ lệ trúng đích mà còn giảm thiểu nhiễu loạn từ môi trường biển, nơi tiếng sóng và sinh vật có thể làm sai lệch tín hiệu.
+
+Hệ thống đẩy điện là "linh hồn" của Piranha, giúp nó hoạt động ở chế độ im lặng tuyệt đối, yếu tố then chốt cho các sứ mệnh do thám hoặc phục kích.
+
+Không giống các ngư lôi truyền thống dùng động cơ diesel ồn ào, phiên bản điện của Piranha kéo dài thời gian hoạt động mà không cần nạp nhiên liệu thường xuyên, phù hợp với tàu ngầm tự hành như KSOT-002 vốn có thể lặn sâu đến 350 mét và duy trì dưới nước suốt 72 giờ.
+
+Tất cả được kiểm soát qua phần mềm tự động, cho phép KSOT-002 ra lệnh phóng từ xa qua Trung tâm Chỉ huy Tàu ngầm Tự hành (ASCC) của PT PAL, đảm bảo an toàn và hiệu quả tối đa.
+
+Ngư lôi Piranha đang được nạp vào KSOT-002. Ảnh: TNI AL/navalnews.com.
+
+Tích hợp hoàn hảo với KSOT-002: Từ lý thuyết đến thực chiến
+
+Việc "kết hôn" Piranha với KSOT-002 không chỉ là lắp đặt đơn thuần mà là một kiệt tác kỹ thuật.
+
+Tàu ngầm tự hành KSOT-002 dài 15 mét, rộng 2,2 mét và lượng giãn nước 37,28 tấn này được trang bị ống phóng ngoài gắn bên mạn phải (starboard), chuyên dụng cho ngư lôi 324mm.
+
+Quá trình nạp chỉ mất vỏn vẹn 30 phút: sử dụng cần cẩu di động từ cầu cảng Hạm đội 2 Hải quân Indonesia, kỹ thuật viên đặt Piranha vào ống phóng một cách thủ công, sau đó KSOT-002 tự động khóa và kiểm tra hệ thống.
+
+Trong bài kiểm tra thực địa, KSOT-002 di chuyển ra khơi, lặn một phần (semi-submerged) để tránh sóng lớn, rồi phóng ngư lôi dưới sự giám sát từ xa.
+
+Dù mục tiêu giả định bị lệch nhẹ do điều kiện thời tiết, hệ thống phóng và đẩy của Piranha hoạt động hoàn hảo, chứng minh khả năng tự hành đầy đủ của tàu.
+
+Sự kiện này, dưới sự chứng kiến của Bộ trưởng Quốc phòng Sjafrie Sjamsoeddin và Đô đốc Muhammad Ali, không chỉ xác nhận tính khả thi mà còn mở đường cho sản xuất 30 chiếc KSOT-002 vào năm 2026, với biến thể vũ trang như Piranha trở thành "lá chắn" cho biên giới biển Indonesia.
+
+Ngày 30/10, PT PAL - nhà đóng tàu quốc doanh hàng đầu Indonesia - đã thành công thực hiện thử nghiệm bắn ngư lôi Piranha từ tàu ngầm tự hành KSOT (Kapal Selam Otomatis Tanpa Awak). Ảnh: thedefensenews.com
+
+Indonesia và "câu chuyện cá mập" dưới biển
+
+Sự ra đời của Piranha tích hợp trên KSOT-002 đánh dấu Indonesia gia nhập "câu lạc bộ tinh hoa" các quốc gia sở hữu tàu ngầm tự hành bắn ngư lôi, sánh vai Mỹ, Nga và Trung Quốc.
+
+Không chỉ nâng cao khả năng giám sát và bảo vệ tuyến hàng hải, cặp đôi này còn thúc đẩy ngành công nghiệp quốc phòng nội địa, giảm phụ thuộc vào nhập khẩu.
+
+Với công nghệ dẫn đường âm học và đẩy điện, ngư lôi Piranha không chỉ là vũ khí, nó là biểu tượng của sự kiên cường, sẵn sàng ‘cắn’ bất kỳ mối đe dọa nào dưới lòng đại dương.

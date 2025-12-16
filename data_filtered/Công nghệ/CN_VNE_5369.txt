@@ -1,0 +1,11 @@
+Lỗi ở Win32 (1)
+
+Chào anh chị. Gần đây máy Laptop của tôi (IBM T30, P4 và tôi dùng Window XP Professional pack 2) khi khởi động, có xuất hiện dòng chữ: "Generic Host Process for Win32 Services encountered a problem and needed to close". Vậy anh chị nào biết thì chỉ dùm tôi với. Tôi xin cảm ơn!
+
+Pham Manh Hung
+
+Hồi âm:
+
+
+
+

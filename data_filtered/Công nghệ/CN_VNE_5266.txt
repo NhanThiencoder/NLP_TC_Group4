@@ -1,0 +1,51 @@
+Tìm IP thật của máy đang dùng (3)
+
+
+Võ Đình Hiển
+
+Hồi âm:
+
+
+N.V. Ninh
+
+Ban Hien than men. Muon tim IP-Adress cua PC ban dang dung, ban khong can phai vao trang web nao het. Ban lam theo thu tu nhu sau: Click " Start " -- executing (or performance) -- type chu " cmd " vao o trong -- click " OK ". Trong cua so tiep theo ban type " ipconfig /all " -- enter. Ban se doc thay tat ca nhung thong so ve IP-Adress, Subnetmaske, DHCP-Server, DNS-Server ..... Nho la phai co khoang trong truoc khi go chu cmd va sau chu ipconfig phai co khoang trong roi moi den dau /. 
+
+locnguyentien
+
+Bạn Võ Đình Hiển thân mến.
+
+Sau khi đọc bài của bạn xong mình vẫn chưa thật sự hiểu bạn muốn tìm địa chỉ IP (IP Address) nào. Tuy nhiên, mình xin trình bày dưới đây một số cách thức để tìm địa chỉ IP Address.
+
+Trường hợp 1: Tìm địa chỉ IP Address của máy tính hiện đang sử dụng.
+
+Đối với Windows XP hoặc Windows 2000, bạn có thể xem địa chỉ IP Address ở trên máy tính của bạn bằng cách click vào nút Start  chọn Run (Bạn có thể tùm tổ hợp phím Windows-R)  và gõ lệnh cmd. Cửa sổ command prompt (giống như DOS) sẽ xuất hiện. Bạn gõ lệnh ipconfig rồi nhấn enter.
+
+Bạn sẽ nhận được một số thông tin tương tự như dưới đây:
+
+Microsoft Windows XP [Version 5.1.2600]
+
+(C) Copyright 1985-2001 Microsoft Corp.
+
+C:\Documents and Settings\Anh Duong Phamipconfig
+
+Windows IP Configuration
+
+Ethernet adapter Local Area Connection:
+
+Connection-specific DNS Suffix . : workgroup.com
+
+IP Address. . . . . . . . . . . . : 192.168.100.185
+
+Subnet Mask . . . . . . . . . . . : 255.255.255.0
+
+Default Gateway . . . . . . . . . : 192.168.100.1
+
+Lưu ý: nếu như máy tính của bạn kết nối trực tiếp ra Internet qua Dialup hoặc ADSL bạn sẽ nhận được thêm một vài thông tin khác.
+
+Trường hợp 2: Bạn muốn tìm địa chỉ IP Address trực tiếp ra Internet.
+
+
+Thân ái.
+
+
+

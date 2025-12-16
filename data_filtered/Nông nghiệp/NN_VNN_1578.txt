@@ -1,0 +1,49 @@
+Đáng chú ý, với định hướng “Doanh nghiệp số - Lưới điện số - Khách hàng số”, EVNSPC không chỉ hiện đại hóa hạ tầng quản lý, mà còn mang đến trải nghiệm số tiện ích cho hàng triệu khách hàng.
+
+Nền tảng số vững chắc - Quản trị thông minh
+
+EVNSPC là một trong ba đơn vị dẫn đầu Tập đoàn Điện lực Việt Nam về mức độ hoàn thành Đề án Chuyển đổi số giai đoạn 2021-2025, đạt khoảng 95-96% các chỉ tiêu.
+
+Trong lĩnh vực quản trị, các phần mềm dùng chung đã được triển khai đến cấp đơn vị Điện lực, khai thác hiệu quả trong quản trị điều hành. Hệ thống quản trị điều hành được nâng cấp đồng bộ với các nền tảng ERP, CMIS, HRMS, PMIS, D-Office và kho dữ liệu tập trung BI - Tableau phục vụ ra quyết định theo thời gian thực.
+
+Đến nay, 100% hồ sơ nội bộ, văn bản và quy trình nghiệp vụ đã được số hóa. Hơn 19.500 cán bộ công nhân viên đã sử dụng các nền tảng số trong công việc hàng ngày, qua đó hình thành môi trường làm việc linh hoạt, minh bạch và hiệu quả. 100% cán bộ, công nhân viên có chức trách được trang bị chữ ký số; 14 quy trình nghiệp vụ được số hóa (an toàn, kỹ thuật, pháp chế, kế hoạch, đầu tư...); Hệ thống quản trị tài chính số hóa toàn diện với E-Invoice, E-Payment, kế hoạch dòng tiền và 150 dashboard Tableau-BI, giúp điều hành theo thời gian thực.
+
+Lĩnh vực kỹ thuật và an toàn đạt nhiều bước tiến quan trọng. Cơ sở dữ liệu thiết bị (PMIS) được chuẩn hóa với hơn 20 triệu dữ liệu, triển khai bảo trì theo tình trạng (CBM), giám sát hiện trường bằng ứng dụng Digital Workforce, kết hợp AI và drone trong kiểm tra lưới điện.
+
+CBCNV EVNSPC ứng dụng thiết bị flycam trong công tác kiểm tra lưới điện
+
+Song song đó, EVNSPC tiên phong trong cải tiến dịch vụ điện theo hướng điện tử hóa và tự động hóa. Đến nay, 100% dịch vụ điện được cung cấp trực tuyến mức độ 4; 71% khách hàng sử dụng dịch vụ trên nền tảng số (Web/App/Zalo) và 60% yêu cầu được tiếp nhận, xử lý tự động qua hệ thống CMIS 4.0 và EVNHES 2.0.
+
+
+
+Tổng công ty cũng đã nâng cấp CMIS 4.0, EVNHES 2.0, đồng thời phục vụ hơn 8 triệu khách hàng qua App/Web CSKH. Cùng với việc tích hợp định danh điện tử EVNID, kết nối thanh toán điện tử và hóa đơn điện tử toàn diện, EVNSPC đã nâng cao trải nghiệm người dùng, hướng đến mục tiêu phục vụ khách hàng nhanh hơn, minh bạch hơn và tiện ích hơn.
+
+EVNSPC đẩy mạnh ứng dụng khoa học công nghệ vào công tác kiểm tra, vận hành lưới điện
+
+EVNSPC đã triển khai 8 đề tài khoa học, trong đó có 3 đề tài ứng dụng trí tuệ nhân tạo (AI) trong giám sát, phân tích tín hiệu và dự báo sự cố thiết bị. Các kết quả nghiên cứu đã trực tiếp hỗ trợ công tác quản lý vận hành hệ thống điện, nâng cao độ tin cậy cung cấp điện, cải thiện chỉ số SAIDI giảm 84,4% so với năm 2016, đồng thời tăng năng suất lao động và giảm tổn thất điện năng.
+
+Tổng công ty đã mạnh dạn áp dụng nhiều công nghệ tiên tiến trong hiện trường như: Thi công hotline; ứng dụng drone (thiết bị bay không người lái) trong kiểm tra lưới điện 110kV; Ứng dụng AI và công nghệ cảm biến trong giám sát phóng điện cục bộ, phân tích khí hòa tan, chẩn đoán sự cố tiềm ẩn của máy biến áp… Những giải pháp này đã góp phần nâng cao độ ổn định hệ thống, giảm thiểu sự cố, và hiện đại hóa lưới điện miền Nam theo hướng “vận hành thông minh, an toàn, hiệu quả”.
+
+Giai đoạn 2026-2030: Bứt phá trong hạ tầng số và trí tuệ nhân tạo
+
+Bước sang giai đoạn 2026-2030, EVNSPC tiếp tục đặt trọng tâm vào chuyển đổi số toàn diện và phát triển hạ tầng hiện đại, hướng tới mô hình “Một hạ tầng - Một cơ sở dữ liệu - Một nền tảng điều hành thông minh”; trong đó, tập trung vào ba trụ cột chiến lược.
+
+Thứ nhất, hiện đại hóa hạ tầng số: phát triển hạ tầng mạng định nghĩa bằng phần mềm (SDN), trung tâm dữ liệu đạt chuẩn Tier III, hạ tầng siêu hội tụ (HCI) và điện toán đám mây phục vụ toàn hệ thống.
+
+Thứ 2, khai thác dữ liệu và AI: hình thành kho dữ liệu hợp nhất (Data Lakehouse), triển khai phân tích dữ liệu lớn và trí tuệ nhân tạo trong dự báo phụ tải, bảo trì dự đoán, tối ưu vận hành và phân tích mức độ hài lòng khách hàng.
+
+Thứ ba, an toàn thông tin và vận hành thông minh: áp dụng mô hình bảo mật “Zero Trust”, vận hành Trung tâm an ninh mạng SOC tích hợp AI, đảm bảo an toàn - tin cậy cho toàn bộ hạ tầng số.
+
+CBCNV EVNSPC hướng dẫn khách hàng cài đặt App CSKH để theo dõi trực tuyến, đăng ký các dịch vụ điện qua thiết bị điện thoại thông minh
+
+Song song đó, Tổng công ty sẽ tiếp tục mở rộng ứng dụng drone, BIM, AI và UAV trong giám sát công trình, số hóa trạm 110kV, phát triển lưới điện thông minh tích hợp năng lượng tái tạo - hướng đến mục tiêu quản trị hiện đại, hiệu quả và xanh hóa hệ thống điện khu vực phía Nam.
+
+Thi công lưới điện hotline
+
+Giai đoạn mới đặt ra yêu cầu cao về hiện đại hóa hạ tầng, khai thác dữ liệu thông minh và nâng cao trải nghiệm khách hàng. EVNSPC xác định chuyển đổi số không chỉ là nhiệm vụ kỹ thuật, mà còn là động lực phát triển bền vững, giúp Tổng công ty vận hành hiệu quả, minh bạch và sáng tạo hơn.
+
+Phần mềm Quản lý kỹ thuật được ứng dụng và khai thác hiệu quả
+
+Từ nền tảng đã xây dựng trong giai đoạn 2021-2025, EVNSPC sẽ tiếp tục khẳng định vị thế tiên phong trong ứng dụng công nghệ, chuyển đổi số và đổi mới sáng tạo của Tập đoàn Điện lực Việt Nam.
+
+Tú Uyên

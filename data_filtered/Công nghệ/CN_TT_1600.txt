@@ -1,0 +1,8 @@
+ Công cụ phát hiện Spyware của Sony gây hại Windows
+
+Mark Russinovich, hiện là giám đốc thiết kế phần mềm của công ty Winternals Software, người đầu tiên phát hiện ra phần mềm gián điệp của Sony bảo vệ cho các đĩa CD nhạc lại cũng chính là người phát hiện ra bản vá để đối phó với dư luận của Sony lại ảnh hưởng xấu đến máy tính người dùng. Ông cho biết công cụ này , có thể sẽ xóa đi một số dirver trong Windows Registry và hệ thống I/O của Windows sẽ không thể tải được driver trong quá trình khởi động hệ thống, và kết quả là Windows sẽ bị vô hiệu hóa”. 
+
+Hiện đang xuất hiện ngày càng nhiều lời ca thán về biện pháp “giữ của” bằng phần mềm gián điệp lạ đời của Sony. Đại đa số các công cụ bảo mật đời mới chuyên chống phần mềm gián điệp và quét virus hiện nay đều không thể phát hiện phần mềm gián điệp vào vệ CD nhạc của Sony. Các chuyên gia đã đưa ra một phương pháp hiệu quả hơn để chống lại công cụ này và người dùng có thể thực hiện như sau: Chạy lệnh Run ở menu Windows Start -&gt; gõ vào ô lệnh dòng “sc delete $sys$aries” (không gõ dấu”) -&gt; khởi động lại máy. 
+
+
+

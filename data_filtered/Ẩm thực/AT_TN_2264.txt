@@ -1,0 +1,44 @@
+
+Bảng xếp hạng ẩm thực TasteAtlas dựa trên đánh giá của độc giả, với một loạt cơ chế nhận diện người dùng thực tế và bỏ qua các đánh giá ảo. Danh sách 100 món ăn đường phố ngon nhất châu Á đã ghi nhận 28.929 lượt đánh giá. Dưới đây là 10 món đường phố ngon nhất châu Á:
+
+1.Guotie
+
+Bánh bao jiaozi chiên chảo của Trung Quốc, còn được gọi là guotie, là loại bánh bao miền Bắc nước này, thường có nhân thịt lợn băm, cải thảo, hành lá, gừng, rượu gạo và dầu mè. Kết cấu giòn và mềm mại của bánh được tạo ra nhờ một phương pháp chế biến đặc biệt; trong khi chiên phần dưới của bánh, một lượng nhỏ nước được đổ vào chảo, sau đó đậy lại, giúp phần bánh còn lại và nhân bánh được hấp chín
+
+2.Siomay
+
+Là món ăn Indonesia gồm bánh bao cá hấp, trứng, khoai tây, bắp cải, đậu phụ và mướp đắng. Sau khi hấp, tất cả nguyên liệu được bày ra đĩa, cắt thành miếng vừa ăn và rưới thật nhiều nước xốt đậu phộng cay. Điểm nhấn cuối cùng của món ăn là một chút nước tương ngọt cùng với nước cốt chanh
+
+3.Parotta
+
+Món bánh mì dẹt truyền thống của miền Nam Ấn Độ, thường được bán như món ăn đường phố, cũng phổ biến ở Malaysia và Sri Lanka. Bánh được làm từ dầu hoặc bơ ghee, nước, bột mì tinh chế gọi là maida (khác với paratha, loại bánh mì được làm từ lúa mì thông thường), và đôi khi có thêm trứng
+
+4.Amritsari kulcha
+
+Có nguồn gốc từ thành phố Amritsari, bắc Ấn Độ, Amritsari kulcha là loại bánh mì dẹt nhân khoai tây, hành tây, phô mai tươi và gia vị. Bánh mì dẹt thường được trang trí bằng hạt rau mùi và bột ớt đỏ. Mỏng, giòn và được phết bơ ghee, đây là món ăn chủ yếu ở Amritsar, với hầu hết mọi cửa hàng trong thành phố đều xèo xèo tiếng bánh kulcha nướng trong lò tandoor lớn
+
+5.Ohn no khao swè
+
+Ohn no khao swè, trong tiếng Myanmar nghĩa là mì với nước cốt dừa, món ăn truyền thống được cho là nguồn cảm hứng cho sự ra đời của món khao sai của Thái Lan. Món ăn này bao gồm mì trứng luộc và những miếng gà cà ri được phủ trong nước súp gà và nước cốt dừa béo ngậy. Súp thường được làm đặc bằng bột đậu gà, và đi kèm với một loạt các loại gia vị và nguyên liệu trang trí khác nhau
+
+6.Shawarma
+
+Được ướp và nướng xiên, shawarma là món thịt ngon tuyệt của Trung Đông, có nguồn gốc từ thời Đế chế Ottoman. Tên gọi của nó bắt nguồn từ cách phát âm tiếng Ả Rập của từ çevirme trong tiếng Thổ Nhĩ Kỳ (nghĩa đen là xoay), và ám chỉ đến que xiên quay dùng để nướng thịt. Shawarma được làm từ thịt cừu, gà tây, gà, bò, hoặc hỗn hợp các loại thịt khác nhau, được nấu chậm trong nhiều giờ và được tẩm ướp bằng nước thịt và mỡ của chính chúng, tạo nên độ mọng nước không gì sánh bằng
+
+7.Bánh mì
+
+Món ăn cực kỳ phổ biến của Việt Nam có chung một nguyên liệu cốt lõi - bánh mì baguette, được du nhập vào Việt Nam trong thời kỳ thuộc địa, và ngày nay trở thành món ăn nổi tiếng toàn cầu. Lớp vỏ bánh mì giòn rụm, gia vị và thịt đầm vị hòa quyện với rau mùi, ớt và dưa chua
+
+8.Batagor
+
+Một trong những món ăn vặt nổi tiếng nhất ở Indonesia là batagor, loại bánh bao cá chiên ăn kèm với nước sốt cay truyền thống. Món ăn này có nguồn gốc từ ẩm thực Trung Hoa, và đã để lại dấu ấn trong nhiều món ăn Indonesia. Mặc dù món ăn vặt nổi tiếng này gợi nhớ đến bánh bao Trung Quốc, nhưng đặc điểm nổi bật của nó là được chiên chứ không phải hấp. Loại cá phổ biến nhất được sử dụng để làm món ăn này là cá thu wahoo, nhưng cá ngừ, cá thu và thậm chí cả tôm cũng có thể được sử dụng
+
+9.Siu mei
+
+Là phong cách ẩm thực Trung Hoa, đặc trưng chủ yếu là thịt nướng xiên trên lửa hoặc trong lò quay. Có nguồn gốc từ tỉnh Quảng Đông, truyền thống ẩm thực này đặc biệt phổ biến ở Hồng Kông. Từ "xíu mei" trong tiếng Quảng Đông có nghĩa là "hương vị nướng". Một số món "xíu mei" nổi tiếng và được yêu thích nhất bao gồm xá xíu, vịt quay, heo quay...
+
+10.Sate kambing
+
+Là món ăn truyền thống Indonesia và cũng là loại satay được chế biến với nguyên liệu chính là thịt dê hoặc thịt cừu. Thịt được cắt thành từng miếng hoặc khối vuông và được ướp với hỗn hợp các nguyên liệu như kecap manis (nước tương ngọt), riềng, hành tím xay, nước ép dứa và (thường là) ớt
+
+Trong danh sách 100 món ăn đường phố chấu Á, ngoài bánh mì, Việt Nam còn có món phở, cơm tấm, chả giò, bánh khoai, nem nướng, bánh xèo.

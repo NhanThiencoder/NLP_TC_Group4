@@ -1,0 +1,71 @@
+Theo số liệu cập nhật đến giữa năm 2025, hơn 83,5 triệu người dân đã đăng ký tài khoản VNeID, trong đó khoảng 60 triệu tài khoản đạt mức định danh 2 - mức cao nhất để thực hiện các dịch vụ hành chính công trực tuyến. Tính đến đầu tháng 9/2025, VNeID đã xử lý hơn 2,1 tỷ giao dịch điện tử, trở thành công cụ đăng nhập chính của hàng loạt nền tảng quan trọng: gần 30 triệu lượt đăng nhập Cổng Dịch vụ công quốc gia, 11 triệu lượt đăng nhập ứng dụng VssID của Bảo hiểm xã hội Việt Nam, hơn 2 triệu lượt vào hệ thống eTax của Tổng cục Thuế. Những con số này không chỉ minh chứng cho độ phủ của VNeID, mà còn cho thấy niềm tin ngày càng lớn của người dân với nền tảng này.
+
+Ảnh minh hoạ
+
+Từ an sinh xã hội, y tế, giáo dục đến quản lý đất đai và giao thông
+
+Trên thực tế, việc triển khai VNeID thời gian qua đã tạo ra những thay đổi rõ rệt tại nhiều địa phương. Tại TP.HCM, từ giữa năm 2024, hơn 70% hồ sơ tạm trú - tạm vắng tại Bình Thạnh, Gò Vấp đã được người dân nộp hoàn toàn qua VNeID. Nhờ số hóa quy trình, thời gian xử lý hồ sơ rút xuống còn chưa đến 24 giờ, giảm áp lực cho công an phường và hạn chế tình trạng người dân phải trực tiếp đến nộp giấy tờ.
+
+Trong lĩnh vực y tế, Hà Nội là địa phương tiên phong cho phép bệnh nhân sử dụng thẻ bảo hiểm y tế tích hợp trên VNeID khi đi khám chữa bệnh. Tại Bệnh viện Xanh Pôn, gần 30% bệnh nhân ngoại trú trong hai tuần đầu triển khai đã xuất trình VNeID thay cho thẻ BHYT giấy, giúp quy trình tiếp nhận rút ngắn 20-25% nhờ tự động đối soát thông tin, tránh trùng lặp dữ liệu.
+
+Ngay cả trong khu vực doanh nghiệp, nhiều tập đoàn lớn trong lĩnh vực ngân hàng, viễn thông cũng đã tích hợp VNeID vào quy trình tuyển dụng và ký hợp đồng lao động. Nhân viên mới chỉ cần quét mã định danh là có thể xác thực thông tin, tự động điền vào hồ sơ và ký số các biểu mẫu cần thiết. Thời gian hoàn thiện thủ tục giảm từ 30 phút xuống còn khoảng 5 phút, hạn chế sai sót thường gặp khi nhập liệu thủ công.
+
+Những ví dụ này cho thấy VNeID không chỉ là một công cụ số mà đang dần trở thành hạ tầng thiết yếu của đời sống, kết nối người dân với mọi dịch vụ, từ y tế, giáo dục, an sinh đến giao thông, cứu trợ và quản trị đô thị.
+
+VNeID đang mang lại những thay đổi thực chất trong đời sống hằng ngày. Tại sân bay, hành khách có thể làm thủ tục bay chỉ bằng quét khuôn mặt qua VNeID, không cần xuất trình giấy tờ. Trong hành chính công, người dân đăng ký xe không cần xác nhận tình trạng hôn nhân, còn trong tài chính, việc nhận trợ cấp, lương hưu, hay thanh toán học phí trực tuyến đều có thể thực hiện ngay trên ứng dụng.
+
+Theo Đề án 06 của Chính phủ về phát triển định danh điện tử phục vụ chuyển đổi số quốc gia, VNeID đã trở thành công cụ quan trọng thúc đẩy thanh toán không dùng tiền mặt trong lĩnh vực công. Hiện 100% các tỉnh, thành phố đã chi trả trợ cấp xã hội qua tài khoản ngân hàng, với hơn 2,5 triệu người hưởng chế độ an sinh xã hội nhận qua tài khoản, tổng số tiền trên 24.000 tỷ đồng, giúp tiết kiệm 51 tỷ đồng chi phí đi lại.
+
+Đáng chú ý, 78% người hưởng lương hưu và trợ cấp bảo hiểm xã hội đã chuyển sang nhận qua tài khoản ngân hàng thay vì tiền mặt - một bước tiến lớn trong hiện đại hóa chi trả an sinh xã hội. Trong giáo dục và y tế, ứng dụng VNeID và Cổng Dịch vụ công quốc gia đã tích hợp chức năng thanh toán học phí, lệ phí tuyển sinh, viện phí qua mã QR, ví điện tử, tài khoản ngân hàng.
+
+Đến nay, 100% cơ sở y tế đã có dịch vụ thanh toán không tiền mặt; các trường học được Bộ GD&ĐT hướng dẫn kết nối trực tuyến, giúp phụ huynh dễ dàng theo dõi, thanh toán học phí và các khoản chi minh bạch, nhanh chóng.
+
+Đặc biệt, từ tháng 9/2025, VNeID bổ sung tính năng “nộp sổ đỏ trực tuyến” cho phép người dân gửi Giấy chứng nhận quyền sử dụng đất tới cơ quan Nhà nước để phục vụ chiến dịch 90 ngày làm sạch dữ liệu đất đai toàn quốc. Người dân chỉ cần tài khoản định danh mức 2 để kê khai thông tin, tải ảnh sổ đỏ và gửi online. Tính năng này giúp rút ngắn thời gian, giảm sai sót và chống trùng lặp dữ liệu, đồng thời hỗ trợ mục tiêu đồng bộ hóa 49,7 triệu thửa đất trên cả nước với Cơ sở dữ liệu quốc gia về dân cư.
+
+Không chỉ dừng ở đó, ngày 10/11 vừa qua, Công an TP Hà Nội đã khởi động chiến dịch 60 ngày đêm làm sạch dữ liệu phương tiện, giấy phép lái xe - số hóa gần 8 triệu hồ sơ đăng ký xe, kết nối đồng bộ với VNeID và ứng dụng iHanoi. Hà Nội đang là địa phương tiên phong ứng dụng CNTT vào thu thập và đối soát dữ liệu, giảm mạnh khối lượng công việc thủ công, tiết kiệm chi phí, tăng độ chính xác và minh bạch trong quản lý phương tiện.
+
+VNeID đưa dịch vụ công đến gần người dân hơn
+
+Một trong những bước tiến nổi bật nhất của VNeID trong năm 2025 là việc tích hợp “Cẩm nang chính quyền cấp xã” và Trợ lý ảo AI, do Cục Cảnh sát Quản lý hành chính về trật tự xã hội (C06, Bộ Công an) phát triển. Tiện ích này giúp người dân tra cứu thông tin hành chính, hướng dẫn thủ tục, liên hệ cơ quan Nhà nước mọi lúc, mọi nơi - thay vì phải đến trụ sở công an hay ủy ban.
+
+Đến nay VNeID đã tích hợp 43 tiện ích điện tử thay thế hàng loạt giấy tờ truyền thống: 18,7 triệu giấy phép lái xe điện tử, 7 triệu đăng ký xe, 25 triệu thẻ bảo hiểm y tế, sổ sức khỏe điện tử, hơn 1 triệu giấy xác nhận tình trạng hôn nhân và 582.000 phiếu lý lịch tư pháp, 635.000 tài khoản ngân hàng, 68.000 ví điện tử đã được cấp qua nền tảng VNeID.
+
+Cẩm nang tích hợp AI có thể trả lời trực tiếp các câu hỏi của người dân về thủ tục hành chính, địa chỉ cơ quan, quy trình hồ sơ, hay phân cấp đơn vị hành chính. Tính đến nay, tiện ích này đã có 67.823 lượt truy cập và sử dụng, mang lại giá trị thiết thực cho người dân, doanh nghiệp và cơ quan công quyền.
+
+Bên cạnh đó, trợ lý ảo trên VNeID sẽ tiếp tục được mở rộng, bổ sung khả năng tư vấn, tra cứu hồ sơ, khiếu nại, văn bản pháp luật và thông tin liên hệ với cảnh sát khu vực, chủ tịch xã, bí thư xã… để người dân dễ dàng phản ánh, phòng ngừa tội phạm và tiết kiệm thời gian.
+
+Đây là bước tiến quan trọng trong chuyển đổi số lĩnh vực hành chính công, khi trí tuệ nhân tạo được tích hợp trực tiếp vào nền tảng định danh điện tử quốc gia, giúp hình thành trợ lý ảo công dân số tại Việt Nam.
+
+Tại một số địa phương đã thực hiện lấy ý kiến nhân dân đóng góp ý kiến vào các Dự thảo Văn kiện trình Đại hội đại biểu toàn quốc lần thứ XIV của Đảng qua ứng dụng VNeID. Đây là bước tiến quan trọng trong quá trình hiện đại hóa phương thức phát huy dân chủ. Với ứng dụng này, người dân có thể góp ý mọi lúc, mọi nơi, tiết kiệm thời gian, chi phí, đồng thời bảo đảm tính an toàn, minh bạch và bảo mật thông tin, thúc đẩy chuyển đổi số trong công tác dân vận, tuyên truyền - một yêu cầu tất yếu trong thời đại cách mạng công nghiệp 4.0.
+
+VNeID - “lá chắn số” mới trong phòng chống lừa đảo trực tuyến
+
+Sự gia tăng nhanh chóng của các vụ lừa đảo qua mạng, giả mạo tài khoản ngân hàng, mạo danh cơ quan Nhà nước hay chiếm đoạt thông tin cá nhân khiến nhu cầu xây dựng một cơ chế xác thực an toàn trở nên cấp bách. Trong bối cảnh đó, VNeID đang trở thành một “lá chắn số” quan trọng giúp người dân tự bảo vệ mình trước các hình thức gian lận ngày càng tinh vi.
+
+Các vụ lừa đảo thường bắt nguồn từ việc kẻ gian giả danh cơ quan Nhà nước hoặc đánh cắp thông tin cá nhân để chiếm đoạt tài sản. VNeID giải quyết vấn đề này bằng cơ chế xác thực đa lớp gồm: sinh trắc học (khuôn mặt), mã OTP, thiết bị tin cậy và kết nối trực tiếp với Cơ sở dữ liệu quốc gia về dân cư.
+
+Điều này khiến việc giả mạo danh tính trở nên gần như không thể.
+
+Nhiều ngân hàng, ví điện tử, nền tảng dịch vụ công đã yêu cầu đồng bộ tài khoản với VNeID mức 2, giảm mạnh tình trạng mở tài khoản “ảo”, tài khoản dùng để rửa tiền hoặc lừa đảo.
+
+Trước đây, người dân dễ bị kẻ xấu gửi link giả mạo Cơ quan Công an, Cục Thuế, Bảo hiểm xã hội… để lấy thông tin. Khi các dịch vụ công chuyển lên VNeID - kênh duy nhất và chính thức của Chính phủ - người dân được khuyến nghị không truy cập bất kỳ đường link nào bên ngoài ứng dụng.
+
+Nhờ đó, số vụ lừa đảo qua link giả, website giả mạo giảm đáng kể tại một số địa phương triển khai mạnh tuyên truyền về VNeID và xác thực điện tử.
+
+Hiện VNeID là công cụ quan trọng giúp Nhà nước chuẩn hóa dữ liệu cư trú, phương tiện, tài chính… Khi mọi thông tin gắn với danh tính thật, các loại SIM rác, tài khoản ảo, danh sách cứu trợ giả, tài khoản ngân hàng “ma” sẽ dần bị loại bỏ - đây là những yếu tố thường được tội phạm mạng sử dụng để che giấu hành vi.
+
+Từ “chìa khóa số” đến hệ sinh thái số toàn dân
+
+Theo các chuyên gia, mô hình VNeID của Việt Nam có thể so sánh với SingPass của Singapore hay Aadhaar của Ấn Độ - những hệ thống định danh số điển hình trên thế giới. Nếu Singapore dùng SingPass để truy cập hơn 400 dịch vụ công và tư, hay Ấn Độ dùng Aadhaar cho hơn một tỷ dân, thì VNeID đang đi đúng hướng khi trở thành nền tảng trung tâm trong hành trình chuyển đổi số quốc gia.
+
+Các chuyên gia cho rằng, bí quyết thành công của VNeID nằm ở ba trụ cột chính là dữ liệu dân cư chính xác và đồng bộ, chính sách nhất quán của Chính phủ và trải nghiệm người dân là trung tâm.
+
+Nhờ sự kết hợp này, VNeID không chỉ mang lại tiện ích, minh bạch và tiết kiệm hàng trăm tỷ đồng mỗi năm, mà còn tăng cường niềm tin số giữa Nhà nước và người dân. Nhờ cắt giảm giấy tờ, thủ tục và chi phí vận hành, VNeID giúp Nhà nước tiết kiệm gần 500 tỷ đồng, đồng thời giảm đáng kể thời gian làm thủ tục cho người dân.
+
+Hướng tới tương lai - mỗi công dân một định danh duy nhất
+
+Từ một ứng dụng hỗ trợ khai báo y tế trong đại dịch, VNeID đã trở thành “cánh cổng số” kết nối người dân với Chính phủ. Hơn 43 tiện ích, hàng trăm triệu giao dịch, hàng chục triệu hồ sơ điện tử - tất cả phản ánh bước tiến dài của Việt Nam trên con đường xây dựng xã hội số và công dân số. Không chỉ là công cụ quản lý, VNeID đang định hình một hệ sinh thái số toàn diện, nơi người dân được phục vụ nhanh hơn, minh bạch hơn, an toàn hơn. Từ khai báo cư trú, nộp thuế, đăng ký xe, nhận an sinh, đến góp ý chính sách - mọi thủ tục đều có thể thực hiện chỉ với một chạm.
+
+Với VNeID, Việt Nam đang tiến rất gần đến mục tiêu “một công dân - một định danh - một hành trình số”, nơi công nghệ không chỉ là công cụ quản lý, mà là chìa khóa mở ra một xã hội thuận tiện, minh bạch và bao trùm số.
+
+Thái Khang

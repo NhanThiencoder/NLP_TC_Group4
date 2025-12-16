@@ -1,0 +1,25 @@
+Người dân sẽ không phải mang theo giấy khai sinh, đăng ký kết hôn khi thực hiện thủ tục hành chính, nếu thông tin này đã có trên Cơ sở dữ liệu hộ tịch điện tử.
+
+Thông tin được nêu trong Quyết định 3458 ban hành ngày 10/12 của Bộ Tư pháp về việc công bố dữ liệu hộ tịch và hướng dẫn kết nối, khai thác sử dụng dữ liệu hộ tịch thay thế giấy tờ trong giải quyết thủ tục hành chính.
+
+Theo đó, nhiều loại giấy tờ hộ tịch quen thuộc sẽ không còn bắt buộc phải nộp bản giấy nếu thông tin đã có trong Cơ sở dữ liệu hộ tịch điện tử. Người dân khi làm thủ tục hành chính có thể được "giải phóng" khỏi việc phải photocopy, mang theo nhiều loại giấy tờ cá nhân như trước đây.
+
+Cụ thể, các dữ liệu trong Cơ sở dữ liệu hộ tịch điện tử đã đủ điều kiện khai thác, sử dụng thay thế giấy tờ trong thành phần hồ sơ gồm: Giấy khai sinh, bản sao, trích lục khai sinh; Giấy chứng nhận kết hôn, bản sao trích lục kết hôn, giấy xác nhận tình trạng hôn nhân; Trích lục khai tử, giấy chứng tử, bản sao trích lục khai tử.
+
+Các giấy tờ hộ tịch khác cũng đủ điều kiện khai thác là: Trích lục đăng ký thay đổi, cải chính, bổ sung hộ tịch, xác định lại dân tộc; Trích lục đăng ký nhận cha, mẹ, con; Giấy chứng nhận đăng ký nhận nuôi con nuôi; Trích lục đăng ký giám hộ, chấm dứt giám hộ, đăng ký giám sát giám hộ; Trích ghi vào sổ hộ tịch việc khai sinh, ghi chú kết hôn, ghi chú ly hôn, ghi vào sổ việc hộ tịch khác.
+
+Trong dữ liệu hộ tịch được chia sẻ sẽ bao gồm họ và tên, ngày tháng năm sinh, giới tính, quê quán, số định danh cá nhân... của người đăng ký khai sinh, khai tử, kết hôn, giấy xác nhận tình trạng hôn nhân.
+
+>> Chi tiết các trường thông tin được chia sẻ.
+
+Giấy đăng ký kết hôn và giấy khai sinh bản giấy. Ảnh: Phạm Dự
+
+Mục tiêu của quyết định này là giúp thay thế hoặc cắt giảm thành phần hồ sơ trong thủ tục hành chính bằng việc khai thác dữ liệu đã đủ điều kiện. Khi khai thác cần bảo mật thông tin, tuân thủ về quyền sở hữu trí tuệ liên quan đến dữ liệu, bí mật đời tư.
+
+Ví dụ, khi người dân làm các thủ tục như đăng ký học, khám chữa bệnh, bảo hiểm, nhà đất, hôn nhân... cơ quan tiếp nhận hồ sơ sẽ tra cứu thông tin hộ tịch thay vì yêu cầu bản giấy.
+
+Để triển khai, Bộ Tư pháp yêu cầu các đơn vị, địa phương rà soát, tái cấu trúc quy trình giải quyết thủ tục hành chính thuộc phạm vi quản lý nhà nước của ngành, lĩnh vực. Hiện, Bộ Tư pháp đã ban hành tài liệu kết nối, khai thác chia sẻ thông tin giữa Cơ sở dữ liệu hộ tịch điện tử với Hệ thống thông tin giải quyết thủ tục hành chính cấp Bộ, tỉnh và Phụ lục một số vấn đề cần lưu ý trong quá trình triển khai.
+
+Khi triển khai thực tế có thể xảy ra trường hợp Cơ sở dữ liệu hộ tịch điện tử không có thông tin mà công dân vẫn còn bản chính giấy tờ hộ tịch hoặc thông tin trong Cơ sở dữ liệu không thống nhất với giấy tờ người dân cung cấp. Lúc này, cơ quan tiếp nhận hồ sơ sẽ hướng dẫn công dân liên hệ với UBND cấp xã nơi đăng ký hộ tịch trước đây hoặc UBND cấp xã nơi cư trú để cập nhật, điều chỉnh thông tin.
+
+Phạm Dự

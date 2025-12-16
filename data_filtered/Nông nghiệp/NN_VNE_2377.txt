@@ -1,0 +1,37 @@
+Internet vạn vật (IoT), trí tuệ nhân tạo (AI), máy bay không người lái (drone)... được nhìn nhận là xu hướng mới khi xây dựng, phát triển nông nghiệp thông minh.
+
+Việt Nam là quốc gia có nền nông nghiệp lâu đời, đóng vai trò quan trọng trong việc đảm bảo an ninh lương thực và phát triển kinh tế. Tuy được điều kiện tự nhiên ưu đãi nhưng nền nông nghiệp vẫn phụ thuộc nhiều vào phương thức canh tác truyền thống. Điều này khiến giá trị nông sản thấp, hiệu quả canh tác chưa cao và ảnh hưởng nhiều đến sức khỏe con người.Những thách thức phi truyền thống như biến đổi khí hậu, sự xuất hiện của các dịch bệnh kéo dài hay nhu cầu toàn cầu liên tục thay đổi cũng đặt ra nhiều bài toán với sự phát triển của ngành nông nghiệp Việt Nam.
+
+"Khát vọng chúng ta cần hướng tới là xây dựng một cường quốc nông nghiệp sinh thái thay vì chỉ là một cường quốc lương thực. Khi đó Việt Nam sẽ là cường quốc về đổi mới sáng tạo trong nông nghiệp, trung tâm đổi mới sáng tạo lương thực thực phẩm của thế giới thay vì chỉ xuất khẩu sản phẩm thô, làm gia công, giá trị gia tăng thấp" - Bộ trưởng Lê Minh Hoan, người đứng đầu ngành nông nghiệp Việt Nam từng đề cập về tầm nhìn phát triển của ngành trong Tọa đàm Kinh tế Nông nghiệp thuộc khuôn khổ Vietnam Summit in Japan 2021.
+
+Với nền tảng là các chính sách khuyến khích đầu tư vào nông nghiệp thông minh của Nhà nước thời gian qua, thị trường startup nông nghiệp Việt đang thu hút nhiều sự quan tâm của các nhà đầu tư, không chỉ bởi nguồn lợi mà còn bởi giá trị xã hội mà nông nghiệp đem lại.
+
+Trong đó, việc ứng dụng các nền tảng, sản phẩm công nghệ cao như trí tuệ nhân tạo (AI), Internet vạn vật (IoT), dữ liệu lớn (big data) và máy bay không người lái (drone) để phát triển nông nghiệp thông minh được nhìn nhận sẽ là một xu hướng của ngành nông nghiệp Việt Nam trong tương lai.
+
+Thiết bị IoT trong nông nghiệp giúp quản lý dữ liệu thời gian thực. Ảnh: Lodota
+
+Ông Huỳnh Phi Long - nhà sáng lập của Lotoda, một startup ứng dụng IoT vào nông nghiệp, top 10 thử thách đổi mới sáng tạo Qualcomm Việt Nam (QVIC) năm 2022, nhận định, khi chủ động xây dựng nền tảng IoT, doanh nghiệp sẽ linh hoạt hơn khi triển khai các dự án cũng như tăng khả năng chủ động về lựa chọn giải pháp công nghệ tích hợp vào sản xuất. IoT đang ngày càng phổ biến. Các thiết bị ứng dụng IoT hỗ trợ tích cực người nông dân trong việc theo dõi, kiểm soát sản phẩm cũng như tình hình canh tác theo thời gian thực, thu nhập các thông tin, số liệu và dự đoán trước các vấn đề như dịch bệnh ... để đưa ra quyết định kịp thời.
+
+Đơn cử, thiết bị ứng dụng IoT của Lotoda cho phép quản lý dữ liệu thời gian thực (real-time) từ các thiết bị được kết nối, cho phép lưu trữ dữ liệu và thực hiện cảnh báo, giám sát cũng như điều khiển các thiết bị đã kết nối đến các cảm biến (sensor), các thực thể điều khiển từ xa và nhiều thiết bị khác. Thông qua máy tính hoặc ứng dụng Lotoda trên di động (Android và iOS), người vận hành có thể theo dõi và thiết lập điều khiển các thiết bị IoT từ xa, dễ dàng cấu hình thiết bị bằng tính năng smartconfig, thực hiện các thao tác tạo cảnh báo khi các giá trị cảm biến đạt đến ngưỡng khai báo, tạo cảnh báo bật/tắt công tắc hoặc hẹn giờ On/Off ở 48 mốc thời gian trong ngày.
+
+Theo ông Long, cùng với sự hỗ trợ phần cứng từ chip của Qualcomm, Lotoda hiện nay đã phát triển được các dòng sản phẩm IoT gateway 3G/4G Qualcomm inside ứng dụng công nghệ IoT cho phép kết nối với nhiều cảm biến khác nhau, thu thập dữ liệu từ các cảm biến và truyền tải về ứng dụng cloud theo thời gian thực.
+
+Một xu hướng đáng chú ý khác là việc đưa máy bay không người lái (drone) ứng dụng trí tuệ nhân tạo (AI) vào nông nghiệp. Ông Thiều Phương Nam, Tổng giám đốc Qualcomm khu vực Đông Dương cho rằng, việc ứng dụng drone AI vào nông nghiệp không chỉ là bài toán của riêng Việt Nam, bởi tất cả những quốc gia muốn chuyển sang nền nông nghiệp thông minh đều cần đến những giải pháp mới, đột phá tương tự.
+
+Ứng dụng drone để giám sát sâu bệnh, phun thuốc bảo vệ thực vật. Ảnh: MiSmart
+
+Trước đây, ở nền nông nghiệp truyền thống, người nông dân chủ yếu vẫn trực tiếp đi bắt sâu trên từng cây trồng. Sau đó, để nhanh và triệt để hơn, họ chọn phun nhiều thuốc bảo vệ thực vật, diệt côn trùng. Điều này làm cho nông sản Việt Nam tồn dư một lượng thuốc trừ sâu rất cao, ảnh hưởng đến sức khỏe người tiêu dùng và làm cho giá trị nông sản bị đánh giá thấp.
+
+Với drone, thiết bị này bay trên các cánh đồng lớn để chụp ảnh và chuyển về máy chủ phân tích. Ứng dụng AI sẽ tự động phát hiện ra những điểm bị sâu bệnh, sau đó chính chiếc drone này sẽ làm nhiệm vụ phun thuốc trừ sâu đúng chỗ cây trồng bị ảnh hưởng, vừa có thể tiết kiệm lượng thuốc, tăng năng suất và bảo vệ sức khỏe của nông dân.
+
+Ông Phạm Thanh Toàn - nhà sáng lập của MiSmart, một startup chuyên nghiên cứu và phát triển drone AI ứng dụng trong nông nghiệp tự tin rằng, các thiết bị này có thể giúp tăng năng suất làm việc khoảng 25 lần so với cách làm truyền thống. Trong điều kiện thông thường một người nông dân phun thủ công chỉ được khoảng 2-3 hecta mỗi ngày, nhưng khi sử dụng drone, con số này lên đến 50 hecta. Người lao động không phải tiếp xúc trực tiếp với thuốc trừ sâu nên không độc hại.
+
+Nhà sáng lập MiSmart cho biết, thiết bị bay của đơn vị có thể giúp tối ưu hiệu quả trị bệnh cho cây trồng khi giảm tới 30% lượng thuốc và 90% lượng nước sử dụng. Không làm thất thoát lúa do giẫm đạp; giảm 30% thuốc bảo vệ thực vật và tiết kiệm 12-15% chi phí sản xuất.Ông Toàn chia sẻ, điều hài lòng nhất là nhờ sử dụng drone giúp giảm được dư lượng thuốc trừ sâu, tăng giá trị cho nông sản, đáp ứng đúng đủ các các yêu cầu quy trình của GlobalGap, giúp sản phẩm của Việt Nam xuất khẩu quốc tế với giá cao hơn.
+
+Mặt khác, dùng drone về lâu dài còn là giải pháp bù đắp cho tình trạng thiếu hụt lao động trong nông nghiệp hiện nay do xu hướng dịch chuyển lao động sang khu vực công nghiệp và hiện trạng già hóa dân số.
+
+MiSmart của ông Phạm Thành Toàn và các cộng sự cũng chính là startup đã giành quán quân tại chung kết cuộc thi QVIC 2022 của Qualcomm gần đây. Theo ông Toàn, thành công lớn nhất đối với nhóm khi tham gia cuộc thi không chỉ là chức vô địch mà là có cơ hội được tiếp cận và hỗ trợ ứng dụng các công nghệ của Qualcomm.
+
+Với bước ngoặt khi dùng chip Snapdragon 625 và 845 để xây hệ thống mới cho AI của drone hay tích hợp nền tảng VOXL Flight Deck của Qualcomm cho thiết bị tay cầm điều khiển khi tham gia "vườn ươm" QVIC, startup này đã cho ra được phiên bản drone chất lượng cao hơn, ổn định hơn. "Đây cũng chính là những sản phẩm drone "Made in Vietnam" sẵn sàng cho một nền nông nghiệp hiện đại và an toàn", nhà sáng lập nói.
+
+(Nguồn: Qualcomm)

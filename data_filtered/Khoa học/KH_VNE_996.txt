@@ -1,0 +1,21 @@
+Nhật BảnRobot Corleo sử dụng pin nhiên liệu hydro và động cơ 150 cc, có thể điều chỉnh bước chân theo chuyển động cơ thể của người cưỡi.
+
+Robot sói 4 chân vượt địa hình cho người cưỡi Robot 4 chân vượt địa hình Corleo. Video: Kawasaki
+
+Kawasaki, tập đoàn đa quốc gia đến từ Nhật Bản, hé lộ nguyên mẫu robot 4 chân chạy bằng hydro được thiết kế cho người cưỡi, Interesting Engineering hôm 6/4 đưa tin. Mang tên Corleo, robot này trình làng tại một sự kiện giới thiệu của Triển lãm Osaka-Kansai Expo 2025.
+
+Corleo lấy cảm hứng từ sói, có 4 chân để di chuyển trên địa hình không bằng phẳng. Robot này được giới thiệu như một phương tiện thay thế cho xe máy trên mọi địa hình. Người lái sẽ điều khiển robot giống cưỡi ngựa. Theo Kawasaki, phương tiện này dễ sử dụng kể cả với người mới bắt đầu, mang đến tính cơ động, ổn định, cho phép người lái dễ dàng băng qua vùng núi.
+
+Trang bị pin nhiên liệu hydro và động cơ 150 cc, Corleo phản ánh xu hướng ứng dụng giải pháp năng lượng sạch hơn của các nhà sản xuất Nhật Bản. Kawasaki dự kiến tung robot ra thị trường trong 25 năm tới, coi đây là một lựa chọn tương lai cho việc thám hiểm trên mọi địa hình.
+
+4 chân robot độc lập của Corleo hoạt động tự động. Robot cũng tích hợp các hệ thống AI để tăng cường khả năng cân bằng và điều hướng.
+
+Khác với phương tiện truyền thống, Corleo phản ứng với chuyển động cơ thể của người lái. Việc người lái thay đổi trọng tâm sẽ khiến robot điều chỉnh bước chân theo thời gian thực. Màn hình hiển thị trên kính lái (HUD) cung cấp dữ liệu quan trọng, bao gồm mức hydro, thông tin điều hướng chi tiết, độ ổn định chuyển động, sự phân bổ trọng lượng.
+
+Kawasaki kỳ vọng Corleo cuối cùng sẽ thay thế cho xe máy địa hình truyền thống. Tuy nhiên, tập đoàn này chưa công bố thông số kỹ thuật chi tiết của robot như tốc độ, phạm vi hoạt động hay thời lượng pin.
+
+Robot đang nhanh chóng trở thành một trong những trọng tâm chính của Kawasaki, vốn nổi tiếng với việc chế tạo tàu cao tốc, động cơ máy bay và xe địa hình. Ngoài Corleo, tập đoàn cũng đang phát triển dòng robot cộng tác thông minh CL với khả năng chịu được nhiệt độ khắc nghiệt và xử lý vật liệu công nghiệp nặng. Chúng được thiết kế cho những nhiệm vụ như hàn, chăm sóc máy và xếp dỡ kệ hàng trong nhiều môi trường sản xuất khác nhau.
+
+Kawasaki đang mở rộng sang lĩnh vực giáo dục với việc ra mắt Astorino - robot được thiết kế để giảng dạy về robot và các kỹ năng sản xuất trong lớp học. Astorino hướng đến thu hẹp khoảng cách giữa kiến thức lý thuyết và trải nghiệm thực tế, cung cấp cho sinh viên một công cụ học tập tương tác.
+
+Thu Thảo (Theo Interesting Engineering)

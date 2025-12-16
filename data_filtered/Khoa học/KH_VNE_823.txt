@@ -1,0 +1,17 @@
+Trung QuốcVideo mới nhất của công ty Unitree cho thấy robot hình người cỡ nhỏ của họ thực hiện thành thạo những thế võ kungfu, bao gồm đấm và đá vòng cầu nhưng vẫn giữ thăng bằng hoàn hảo.
+
+Robot hình người làm chủ các thế võ kungfu Robot G1 biểu diễn các thế võ kungfu. Video: Unitree
+
+Công ty Trung Quốc Unitree đang trong quá trình nâng cấp thuật toán của G1, cho phép nó học hỏi và thực hiện bất kỳ cử động nào. Cập nhật gần đây nhất dường như mở rộng khả năng thăng bằng và danh mục chuyển động của robot hình người, Interesting Engineering hôm 27/2 đưa tin.
+
+Trong video, G1 thể hiện sự nhanh nhạy và thăng bằng, thực hiện chuyển động nhuần nhuyễn, cử động chân chính xác dù bị gián đoạn. Hồi tháng 1, Unitree giới thiệu hệ thống đi và chạy trơn tru của robot G1, cho thấy nó có thể duy trì độ ổn định và kiểm soát chính xác vận động trên quãng đường dốc và địa hình gồ ghề. Giờ đây, nâng cấp thuật toán mới giúp cải tiến chuyển động, cho phép robot nâng cao khả năng học hỏi và tiến hành nhiệm vụ phức tạp.
+
+G1 bộc lộ khả năng phối hợp vận động và độ linh hoạt đặc biệt với khớp xoay tự do 23 độ. Với màn thể hiện trình độ võ thuật, công ty cảnh báo người sử dụng không nên điều chỉnh robot theo bất cứ cách nào có thể đe dọa người khác hoặc dạy nó kỹ năng chiến đấu thực sự. Theo Unitree, G1 được chế tạo để giải quyết công việc khó khăn, bụi bẩn và lặp lại trong nhiều bối cảnh, bao gồm trong gia đình, nhà máy và bệnh viện. Nó là hiện thân cho quan niệm của Unitree cho rằng robot hình người có thể trở thành bạn đồng hành hữu ích trong công việc và cuộc sống.
+
+Quá trình huấn luyện bắt đầu với bối cảnh ảo, sử dụng ứng dụng mô phỏng Isaac Simulator của Nvidia, giúp robot học hỏi hành vi phức tạp. Phương pháp này bao gồm xây dựng một phiên bản song sinh kỹ thuật số của robot hình người, sử dụng ảnh chụp chuyển động và dữ liệu video để quan sát hành động của con người. Những hành vi này được luyện tập trong môi trường ảo thông qua học hỏi tăng cường. Nhờ quá trình mang tên Sim2Real chuyển đổi hành động mô phỏng thành ứng dụng thế giới thực, những khả năng thu được sau đó được truyền sang robot.
+
+Nhằm nâng cao chuyển động tự nhiên của robot hình người như các mẫu H1, H1-2, và G1, Unitree Robotics công bố một bộ dữ liệu toàn thân nguồn mở. Thông tin này tăng cường độ linh hoạt và khả năng phối hợp của robot, cho phép chúng bắt chước chuyển động của con người như nhảy múa. Sử dụng công nghệ chụp chuyển động LAFAN1, bộ dữ liệu hoàn toàn tương thích với mẫu robot chủ chốt của Unitree, cung cấp chuyển động giống người thật. Bộ dữ liệu bao gồm thuật toán chuyển hướng kết hợp công nghệ tương tác kiểu mắt lưới và chuyển động đảo ngược. Thông qua cân nhắc hạn chế tư thế, vị trí khớp và tốc độ, phương pháp mới giúp tối đa hóa chuyển động của robot.
+
+Unitree hy vọng các nhà nghiên cứu và người quan tâm có thể tìm hiểu những cách sử dụng robot hình người trong thế giới thực đa dạng thông qua cho phép cộng đồng truy cập bộ dữ liệu. Mẫu H1 và H1-2 hiệu suất cao được sản xuất để sở hữu khả năng cao cấp. Ngược lại, mẫu G1 cung cấp lựa chọn linh động với giá cả hợp lý hơn phục vụ nghiên cứu và phát triển.
+
+An Khang (Theo Interesting Engineering)

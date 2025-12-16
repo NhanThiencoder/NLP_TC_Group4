@@ -1,0 +1,41 @@
+Thảm kịch xảy ra vào chiều 12/6 khi máy bay Boeing 787-8 Dreamliner của hãng Air India đã gặp tai nạn rơi xuống đất chỉ vài chục giây sau khi cất cánh từ sân bay Ahmedabad, Ấn Độ. Tai nạn gây ra vụ cháy dữ dội khiến 242 người trên máy bay thiệt mạng.
+
+Điều tra ban đầu cho thấy, cả hai công tắc cấp nhiên liệu cho động cơ đều bị ngắt, khiến máy bay nhanh chóng mất độ cao và lao vào các tòa nhà. Nguyên nhân vì sao hai công tắc này bị tắt, hiện vẫn được cơ quan điều tra làm rõ.
+
+3 tháng sau thảm họa máy bay rơi, một nhóm kỹ sư nước này cho ra đời ý tưởng để có thể cứu sống hàng nghìn người mỗi năm.
+
+Tai nạn máy bay rơi ở Ấn Độ hồi tháng 6 khiến 242 người trên máy bay thiệt mạng (Ảnh: AFP).
+
+Đó là dự án mang tên "Rebirth" (tạm dịch: Tái sinh), là hệ thống cải tiến dành cho máy bay, sử dụng các túi khí khổng lồ tương tự loại trên ô tô.
+
+Các cảm biến và phần mềm trí tuệ nhân tạo (AI) có thể phát hiện khi nguy cơ rơi máy bay sắp xảy ra, từ đó kích hoạt triển khai túi khí siêu tốc tại mũi, bụng và đuôi.
+
+Những túi khí này tạo thành kén bảo vệ, thoạt nhìn như "áo phao" khổng lồ, giúp máy bay tiếp đất trong tình huống khẩn cấp mà không tạo ra va chạm dữ dội hay nổ tung, bất kể tốc độ đang bay.
+
+Nhờ vậy, dù có thể máy bay hạ cánh trong tình trạng bị xóc nảy, nhưng giúp hành khách, phi hành đoàn vẫn an toàn.
+
+Hiện dự án này vừa lọt vào vòng chung kết giải thưởng thiết kế James Dyson danh giá. Đây vốn là giải thưởng tôn vinh các phát minh có thể thay đổi thế giới.
+
+Được biết, "cha đẻ" của dự án là hai kỹ sư Eshel Wasim và Dharsan Srinivasan, đến từ cơ sở Dubai của Viện Công nghệ và Khoa học Birla (Ấn Độ).
+
+Trên trang web của giải thưởng James Dyson, nhóm nghiên cứu gọi đây là “hệ thống sống sót sau tai nạn vận hành bằng AI đầu tiên”, lấy cảm hứng từ một khoảnh khắc đau lòng vừa xảy ra trong năm nay.
+
+Hình ảnh mô phỏng các túi khí được kích hoạt bên ngoài máy bay trong trường hợp khẩn cấp (Ảnh: Project Rebirth).
+
+“Mẹ tôi mất ngủ sau vụ rơi máy bay xảy ra hồi tháng 6. Bà luôn nghĩ tới nỗi sợ hãi mà hành khách và phi công trải qua khi biết rằng họ không còn đường thoát.
+
+Cảm giác bất lực đó ám ảnh chúng tôi. Tại sao lại không có hệ thống nào để sống sót sau khi mọi thứ thất bại? Từ cảm xúc đó, chúng tôi lao vào nghiên cứu và thiết kế", một trong hai kỹ sư chia sẻ.
+
+Hệ thống AI của Rebirth liên tục giám sát độ cao, tốc độ, tình trạng động cơ, hướng bay, hỏa hoạn và phản ứng của phi công để đưa ra quyết định nhanh chóng trong trường hợp khẩn cấp. Nếu nguy cơ rơi không thể tránh khỏi ở độ cao dưới 900m, hệ thống sẽ tự động kích hoạt, song phi công vẫn có quyền can thiệp.
+
+Theo các kỹ sư, túi khí tốc độ cao sẽ bung ra từ mũi, bụng và đuôi máy bay trong chưa đầy 2 giây. Chúng được làm từ vải nhiều lớp, có khả năng hấp thụ lực va chạm và bảo vệ thân máy bay khi tiếp đất.
+
+Ngoài ra, nếu động cơ còn hoạt động, chế độ đẩy ngược sẽ được kích hoạt để giảm tốc độ. Nếu không, các động cơ phụ sử dụng khí nén sẽ hỗ trợ hãm tốc và giữ thăng bằng.
+
+Bên trong khoang, các chất lỏng hấp thụ va chạm sau ghế và vách ngăn sẽ ở trạng thái mềm nhưng lập tức cứng lại khi có va đập, giảm thiểu thương tích cho hành khách.
+
+Nhóm sáng chế khẳng định, hệ thống này có thể tích hợp vào cả các mẫu máy bay hiện có lẫn mẫu mới. Mục tiêu tiếp theo của họ là hợp tác với các phòng thí nghiệm hàng không vũ trụ để thử nghiệm thực tế.
+
+“Phần lớn hệ thống an toàn hàng không hiện nay chỉ tập trung ngăn ngừa tai nạn. Hiện có rất ít giải pháp bảo vệ tính mạng nếu tai nạn xảy ra. Dự án tái sinh khác biệt bởi nó chuẩn bị cho tình huống xấu nhất khi mọi biện pháp khác đều thất bại”, một trong hai kỹ sư nói.
+
+Cũng theo "cha đẻ" của dự án, đây không chỉ là đổi mới, mà còn là một lời hứa. Đó là, ngay cả khi tất cả hệ thống sụp đổ, con người vẫn xứng đáng có cơ hội sống.

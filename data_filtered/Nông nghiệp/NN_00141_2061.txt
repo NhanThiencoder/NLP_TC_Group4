@@ -1,0 +1,37 @@
+Title: CĐS nông nghiệp: Đồng bộ nền tảng dữ liệu số, chú trọng truy xuất nguồn gốc
+
+Theo Trung tâm Chuyển đổi số và Thống kê nông (Bộ NN-PTNT), năm 2024 chuyển đổi số (CĐS) trong lĩnh vực nông nghiệp thu về những thành tựu đáng khích lệ khi tích hợp được thông tin về đất đai, cây trồng, vật nuôi và chuỗi cung ứng, tạo nền tảng cho hệ thống quản lý thông minh.
+
+Các công nghệ như trí tuệ nhân tạo (AI), dữ liệu lớn (Big Data) và IoT được triển khai hiệu quả, hỗ trợ dự báo sản xuất, dự báo sản lượng cũng như dự báo thị trường tiêu thụ, quản lý tài nguyên và phòng chống thiên tai.
+
+Ngành nông nghiệp cũng thường xuyên cập nhật và vận hành hệ thống cơ sở dữ liệu (CSDL) của lĩnh vực trồng trọt, chăn nuôi, lâm nghiệp, thủy sản, thủy lợi, phòng chống thiên tai nhằm phục vụ công tác quản lý, chỉ đạo điều hành chung của Bộ NN-PTNT.
+
+Bên cạnh đó còn phối hợp với địa phương xây dựng Nền tảng chuyển đổi số nông nghiệp tỉnh Đồng Tháp và dự kiến nhân rộng ra khu vực ĐBSCL. Tiếp tục triển khai Mạng Nhà nông tại một số tỉnh, thành phố vùng ĐBSCL, Tây Nguyên để hỗ trợ hợp tác xã, doanh nghiệp và nông dân lập kế hoạch sản xuất, kế hoạch tài chính, theo dõi thị trường diễn biến thiên tai, sâu bệnh và liên kết tiêu thụ sản phẩm.
+
+Nông nghiệp cần đồng bộ các dữ liệu số để khai thác hiệu quả hơn trong việc đưa ra các dự án liên quan đến sản lượng, thị trường tiêu thụ nông sản.
+
+Nhiều sản phẩm nông nghiệp được cấp mã số vùng trồng, truy xuất nguồn gốc, từ đó người nông dân, HTX, doanh nghiệp thuận lợi kết nối với các sàn thương mại điện tử, gia tăng giá trị và mở rộng thị trường tiêu thụ trong nước và xuất khẩu.
+
+Theo ông Nguyễn Kim Phúc - Phó Giám đốc Trung tâm Chuyển đổi số và Thống kê nông nghiệp, khi hội nhập quốc tế, các sản phẩm nông sản cần đảm bảo tính minh bạch từ giai đoạn đặt giống, canh tác, logistics đến kiểm soát toàn bộ quy trình. Do đó, các bên cần tham gia xây dựng cơ chế, đặc biệt là sự hỗ trợ từ các doanh nghiệp công nghệ số để quản lý chuỗi ngành hàng đáp ứng nhu cầu của thị trường.
+
+Với đặc thù đa dạng về hình thức, lĩnh vực và phạm vi quản lý rộng, ông Phúc cho rằng chuyển đổi số ngành nông nghiệp cần sử dụng dữ liệu đồ thị và thống kê, xây dựng các đề án cơ sở dữ liệu quốc gia, khai thác dữ liệu hành chính, đăng ký báo cáo và củng cố dữ liệu về các lĩnh vực như trồng trọt, chăn nuôi, sản xuất hữu cơ...
+
+Trao đổi về câu chuyện chuyển đổi số nông nghiệp, Thứ trưởng Bộ NN-PTNT Võ Văn Hưng nói: “Chúng ta kỳ vọng vào sự phát triển mạnh mẽ của nền nông nghiệp Việt Nam, nơi dữ liệu số trở thành tài nguyên quý, hạ tầng số là nền móng vững chắc, còn truy xuất nguồn gốc là chìa khóa nâng cao giá trị nông sản".
+
+Theo đó, 2025 sẽ là năm bứt tốc cho chuyển đổi số trong nông nghiệp, với một loạt nhiệm vụ chiến lược quan trọng.
+
+Cụ thể, nông nghiệp cần hoàn thiện cơ sở dữ liệu về đất đai, cây trồng, vật nuôi và chuỗi cung ứng. Đồng thời, tích hợp dữ liệu quốc gia, liên kết với các bộ ngành khác để hỗ trợ quản lý tổng thể và hoạch định chính sách.
+
+Ông nhấn mạnh cần đồng bộ cơ sở hạ tầng, xây dựng và quản lý dữ liệu vùng trồng, dữ liệu về sản lượng, sản phẩm OCOP, cũng như các chỉ dẫn liên quan đến sản phẩm làng nghề, để củng cố nền tảng dữ liệu vững chắc.
+
+Ảnh minh hoạ
+
+Hệ thống truy xuất nguồn gốc sản phẩm phải được xây dựng minh bạch bằng công nghệ Blockchain. Phải phát triển hạ tầng mạng Internet tốc độ cao ở các vùng nông thôn, tăng cường an ninh dữ liệu để đảm bảo tính bảo mật và an toàn thông tin.
+
+Bên cạnh đó, cần triển khai các thiết bị cảm biến, hệ thống tự động hóa để quản lý tài nguyên đất, nước và dự báo sản xuất. Phát triển các mô hình nông nghiệp thông minh, đặc biệt là nông nghiệp tuần hoàn và hữu cơ.
+
+Theo Thứ trưởng, cần đẩy mạnh hợp tác quốc tế với các tổ chức trong lĩnh vực chuyển đổi số và nông nghiệp thông minh, học hỏi kinh nghiệm từ các quốc gia tiên tiến để đẩy nhanh quá trình hiện đại hóa.
+
+Trong bối cảnh kỷ nguyên mới, nơi nông nghiệp và phát triển nông thôn đang đứng trước những nhiệm vụ trọng yếu của đất nước, Thứ trưởng Võ Văn Hưng lưu ý, chuyển đổi số không chỉ là xu hướng, mà là con đường tất yếu để xây dựng một nền nông nghiệp hiện đại, sáng tạo và bền vững. Do đó, cần cụ thể hóa từng kế hoạch công việc, xem từng kết quả đạt được là bước đệm để thực hiện các kế hoạch lớn hơn trong chuyển đổi số nông nghiệp.
+
+Đình Thành và nhóm PV, BTV

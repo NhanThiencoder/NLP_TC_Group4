@@ -1,0 +1,13 @@
+Title: Ngành nông nghiệp cần sự hỗ trợ nghiên cứu ứng dụng các mô hình toán học
+
+Thời gian qua, ngành nông nghiệp đã nỗ lực giải quyết các vấn đề phức tạp như, bồi lắng – biến động lòng dẫn sông, sạt lở bờ sông, bờ biển và vùng cửa sông ven biển; an ninh nguồn nước; an toàn hồ đập; quản lý, khai thác, sử dụng hợp lý nguồn tài nguyên nước; phòng chống giảm nhẹ thiên tai, hạn hán, xâm nhập mặn nên cần sự hợp tác ứng dụng, chuyển giao công nghệ cho các đơn vị trên địa bàn, nhằm ứng dụng các kết quả nghiên cứu khoa học và phát triển công nghệ vào sản xuất và đời sống.
+
+Ngoài ra, các địa phương cũng cần chia sẻ kinh nghiệm, hỗ trợ trong công tác số hóa, xây dựng dữ liệu ngành nông nghiệp, đặc biệt các hệ thống dữ liệu lớn của ngành về đất đai, cây trồng, vật nuôi, thủy sản, dịch bệnh, tài nguyên rừng.
+
+Ảnh minh hoạ
+
+Theo các nhà khoa học, sức mạnh của toán học cùng với các ngành khoa học - kỹ thuật - công nghệ khác sẽ trở thành công cụ tác động tích cực để nâng cao chất lượng, hiệu quả của hoạt động sản xuất nông nghiệp công nghệ cao như, ứng dụng trí tuệ nhân tạo trong hoạt động sản xuất nông nghiệp; ứng dụng mô hình toán dự báo biến đổi khí hậu, ứng dụng, phát triển, sáng tạo các phần mềm phục vụ hoạt động nghiên cứu trong nông nghiệp. Ứng dụng trong thiết kế, chế tạo, hoặc khai thác, sử dụng các thiết bị mô phỏng trong nông nghiệp, tự động hoá…
+
+Bởi vậy, để có thể đẩy mạnh việc ứng dụng công nghệ thông tin trong thu thập thông tin, dự báo tình hình thị trường nông sản, việc ứng dụng toán học được xem là nền tảng đột phá để góp phần đạt được các mục tiêu mà đề án đã đặt ra.
+
+Nguyễn Lê và nhóm PV, BTV

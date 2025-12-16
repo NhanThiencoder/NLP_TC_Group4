@@ -1,0 +1,19 @@
+Hệ thống các đại học tinh hoa của Hàn Quốc đang bị rung chuyển bởi một loạt bê bối gian lận thi cử quy mô lớn liên quan đến trí tuệ nhân tạo (AI), phơi bày một lỗ hổng nghiêm trọng trong quy trình kiểm soát học thuật.
+
+Đáng chú ý, cả ba trường đại học thuộc nhóm "SKY" (Đại học Quốc gia Seoul, Đại học Yonsei và Đại học Hàn Quốc) - biểu tượng học thuật tại Hàn Quốc - đều đồng loạt báo cáo hàng chục trường hợp sinh viên sử dụng công cụ AI để gian lận trong các kỳ thi gần đây.
+
+Đại học Yonsei (Ảnh: Getty Images).
+
+Sự việc được công khai tại Đại học Yonsei vào chủ nhật tuần trước đã trở thành tâm điểm chú ý. Trong bài thi giữa kỳ trực tuyến của môn học liên quan đến ChatGPT, một giáo sư đã phát hiện hàng chục sinh viên có dấu hiệu gian lận.
+
+Nghiêm trọng hơn, hành vi gian lận diễn ra rất đa dạng, từ việc sử dụng sách giáo khoa, phần mềm chuyên dụng, cho đến việc sử dụng chính ChatGPT để làm bài thi. Trong số hàng trăm sinh viên tham gia, nhà trường xác nhận có tới 40 người đã thừa nhận hành vi gian lận và sẽ bị điểm 0. Sinh viên còn bị bắt quả tang chia sẻ đáp án trên ứng dụng điện thoại có hỗ trợ AI.
+
+Không lâu sau, các trường hợp gian lận tập thể tương tự cũng bị phanh phui. Tại Đại học Hàn Quốc, một nhóm sinh viên thừa nhận đã dùng AI trong bài kiểm tra trực tuyến của lớp học về xã hội già hóa, thậm chí chia sẻ bản ghi màn hình và đáp án trong nhóm chat chung. Đại học Quốc gia Seoul cũng đã phát hiện sinh viên sử dụng AI để gian lận trong một kỳ thi thống kê, buộc nhà trường phải tổ chức thi lại.
+
+Việc AI tạo sinh (Generative AI) đã ăn sâu vào môi trường đại học là điều không thể phủ nhận. Một khảo sát năm 2024 chỉ ra rằng, hơn 90% sinh viên đại học Hàn Quốc có kinh nghiệm sử dụng các công cụ này cho bài tập ở trường. Tuy nhiên, việc các trường danh giá nhất quốc gia đồng thời vướng vào bê bối này là điều hiếm thấy.
+
+Nhiều nhà giáo dục cho rằng các trường đại học đã không theo kịp tốc độ phát triển công nghệ. Giáo sư Park Joo-Ho, Đại học Hanyang, chia sẻ rằng: "AI là một công cụ để lưu giữ và tổ chức thông tin, vì vậy chúng ta không thể đánh giá sinh viên đại học dựa trên những kỹ năng đó nữa".
+
+Ông nhấn mạnh phương pháp giáo dục hiện tại đã lỗi thời và cần thay đổi trọng tâm sang kiểm tra khả năng sáng tạo - thứ mà AI không thể sao chép.
+
+Sự kiện chấn động này buộc các trường đại học hàng đầu Hàn Quốc phải đối mặt với một câu hỏi hóc búa: Làm thế nào để duy trì tính toàn vẹn học thuật trong kỷ nguyên công nghệ?

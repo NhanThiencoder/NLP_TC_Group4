@@ -1,0 +1,23 @@
+Tàu Athena của công ty Intuitive Machines không hạ cánh thẳng đứng như dự kiến và đội phụ trách nhiệm vụ vẫn đang tìm hiểu nguyên nhân.
+
+Hình ảnh chụp từ tàu Athena trong quá trình hạ cánh hôm 6/3. Ảnh: NASA TV
+
+Tàu đổ bộ Mặt Trăng thứ hai của công ty Intuitive Machines mang tên Athena hạ cánh ở vùng Mons Mouton thuộc cực nam của Mặt Trăng vào 12h31 ngày 6/3 (23h31 cùng ngày giờ Hà Nội), theo Space. Tuy nhiên, đây không phải cú tiếp đất hoàn hảo. Trong khi Athena vẫn truyền dữ liệu về Trái Đất và sản xuất điện trên bề mặt Mặt Trăng, tàu vũ trụ dường như không hạ cánh thẳng đứng như dự kiến. "Chúng tôi không nghĩ tàu ở tư thế đúng trên bề mặt Mặt Trăng", giám đốc điều hành Steve Altemus của Intuitive Machines, cho biết.
+
+Intuitive Machines từng trở thành công ty tư nhân đầu tiên hạ cánh trên Mặt Trăng năm ngoái với tàu vũ trụ Odysseus. Odysseus lao xuống hơi quá nhanh khi hạ cánh vào tháng 2/2024, bị gãy một chân và đổ về một bên, cản trở khả năng liên lạc với Trái Đất của tàu. Dù cần nhiều dữ liệu hơn để xác định tình huống, rõ ràng điều tương tự đã xảy ra với tàu Athena, theo Altemus.
+
+Tàu Athena cao 4 m phóng trên tên lửa Falcon 9 của SpaceX hôm 26/2. Nhiệm vụ IM-2 của tàu đổ bộ này được tài trợ bởi chương trình Commercial Lunar Payload Services (CLPS) của NASA, nhằm vận chuyển các thiết bị khoa học công nghệ của họ bằng tàu tư nhân. NASA đặt chở hàng trên tàu Athena với chi phí 62,5 triệu USD. Mục tiêu là thu thập dữ liệu về môi trường Mặt Trăng với chi phí tiết kiệm trước khi phi hành gia bay tới theo chương trình Artemis. Dự kiến, họ sẽ hạ cánh gần cực nam năm 2027 và thiết lập một hoặc nhiều căn cứ trong vùng.
+
+Cực nam Mặt Trăng rất thích hợp để đặt căn cứ có người ở. Khu vực này được cho là chứa nhiều băng nước, đặc biệt ở nền miệng hố bị che khuất vĩnh viễn. Băng tích tụ tại những miệng hố lạnh này suốt hàng tỷ năm. Mons Mouton chỉ cách cực nam Mặt Trăng 160 km, gần hơn bất kỳ tàu vũ trụ nào khác từng hạ cánh trước đây. Nếu tất cả theo đúng kế hoạch, IM-2 sẽ giúp các nhà nghiên cứu đánh giá quy mô và khả năng tiếp cận băng trong khu vực, vốn có thể dùng làm nước uống hoặc phân tách thành hydro và oxy để sản xuất nhiên liệu đẩy tên lửa.
+
+Một khối hàng quan trọng của Athena là Thí nghiệm khai thác tài nguyên băng vùng cực (PRIME-1). PRIME-1 bao gồm một mũi khoan được thiết kế để lấy bụi Mặt Trăng từ độ sâu 0,9 m dưới mặt đất và khối phổ kế giúp tìm kiếm dấu hiệu của băng nước và nhiều hợp chất thú vị khác trong mẫu vật. Theo Jackie Quinn, quản lý dự án PRIME-1 ở Trung tâm vũ trụ Kennedy của NASA tại Florida, đây là bước chủ chốt hướng tới hiểu rõ và khai thác tài nguyên Mặt Trăng nhằm hỗ trợ thám hiểm trong tương lai.
+
+Athena cũng chở một tàu vũ trụ khác nặng 35 kg do Intuitive Machines chế tạo mang tên Grace đặt theo nhà toán học và khoa học máy tính Grace Hopper. Nếu nhiệm vụ IM-2 trôi chảy, mẫu tàu nhỏ sẽ được triển khai từ Athena, sau đó thám hiểm khu vực xung quanh vị trí hạ cánh, phóng từ nơi này tới nơi khác bằng động cơ đẩy. Grace sẽ tiếp cận miệng hố bị che khuất vĩnh viễn, nơi chưa robot tự hành có bánh xe nào từng đến.
+
+Grace không phải robot duy nhất bay nhờ tới bề mặt Mặt Trăng trên tàu Athena. Tàu đổ bộ còn chở một robot tự hành nhỏ gọi là MAPP (Mobile Autonomous Prospecting Platform) chế tạo bởi công ty Lunar Outpost ở Colorado. MAPP trang bị camera nhiệt và camera quang học độ phân giải cao. Nó cũng mang theo robot riêng tên AstroAnt, nguyên mẫu cực nhỏ do Viện Công nghệ Massachusetts phát triển. AstroAnt sẽ gắn vào phần trên của MAPP nhờ 4 bánh từ.
+
+Athena, Grace và MAPP sẽ giữ liên lạc với nhau bằng Hệ thống liên lạc trên bề mặt Mặt Trăng của Nokia. Thiết bị này sẽ thiết lập mạng 4G/LTE đầu tiên trên Mặt Trăng. Ngoài ra, Athena cũng chở robot Yaoki nặng 498 g của công ty Nhật Bản Dymon.
+
+Dự kiến nhiệm vụ IM-2 sẽ kéo dài 10 ngày Trái Đất và kết thúc khi Mặt Trời lặn ở vùng Mons Mouton, khiến tàu Athena không thể tiếp tục sản xuất năng lượng Mặt Trời. Đại diện của Intuitive Machines cho biết còn quá sớm để xác định các hàng hóa có bị ảnh hưởng bởi cú tiếp đất bất thường của tàu hay không. Họ sẽ đưa ra kết luận sau khi hiểu rõ phương hướng của tàu Athena.
+
+An Khang (Theo Space)

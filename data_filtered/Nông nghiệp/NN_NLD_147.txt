@@ -1,0 +1,33 @@
+Ngày hội Khởi nghiệp sáng tạo quốc gia Việt Nam năm 2025 (TECHFEST 2025) là chuỗi sự kiện thúc đẩy đổi mới sáng tạo, do Bộ Khoa học và Công nghệ phối hợp cùng UBND Hà Nội tổ chức từ ngày 12-14.12.
+
+Tại Lễ khai mạc TECHFEST 2025 diễn ra và tối ngày 13.12, chủ nhân các giải thưởng của cuộc thi Data for Life đã được công bố và trao thưởng. Theo kết quả chung cuộc, giải Nhất thuộc về đội Cheppy; hai giải Nhì được trao cho đội Intron và Factorem; các giải Ba thuộc về các đội Viditec, Thăng Hoa và Landbase.
+
+Cuộc thi Data for Life 2025 do Bộ Công an chủ trì, phối hợp với các bộ, ngành, trường đại học, địa phương, doanh nghiệp công nghệ và tổ chức đổi mới sáng tạo trong và ngoài nước. Data for Life mùa 3 với vai trò kết nối dữ liệu - công nghệ - chính sách - thị trường, thúc đẩy hệ sinh thái đổi mới sáng tạo quốc gia. Năm nay cuộc thi thu hút tới 2.900 đội thi với hơn 9.100 thí sinh.
+
+Trong khuôn khổ TECHFEST 2025, Ban Tổ chức cuộc thi Data for Life đã tổ chức Tọa đàm “Định hướng phát triển và hỗ trợ sản phẩm cuộc thi Data for Life”. Tọa đàm là dịp để đơn vị tổ chức, Ban Giám khảo và các đội đạt giải trao đổi, thảo luận về các hướng hỗ trợ, hoàn thiện và phát triển các giải pháp sau cuộc thi.
+
+Tại Tọa đàm, Trung tá Lương Thị Thu Trang - Đại diện Ban tổ chức cuộc thi Data for Life cho biết, nếu ở các mùa trước nhiều đội thi mới dừng lại ở ý tưởng hoặc bản demo, thì năm nay các đội tham dự bắt buộc phải có sản phẩm hoàn chỉnh, thể hiện rõ tính ứng dụng và khả năng triển khai thực tế. Yêu cầu này được kiểm chứng trực tiếp tại vòng triển lãm trong khuôn khổ TECHFEST Việt Nam 2025.
+
+Theo Ban Tổ chức, việc đưa vòng triển lãm vào cấu trúc cuộc thi giúp đánh giá sát hơn khả năng đáp ứng nhu cầu thị trường của các sản phẩm. Các đội thi không chỉ trình bày ý tưởng mà phải chứng minh sản phẩm vận hành thực tế ra sao, cách người dùng tiếp cận và khả năng mở rộng trong quá trình triển khai.
+
+Ban Tổ chức cũng nhấn mạnh mô hình ba nhà gồm nhà nước, nhà trường và doanh nghiệp được áp dụng xuyên suốt cuộc thi. Trong đó, kết nối các quỹ đầu tư, doanh nghiệp bảo trợ và trung tâm đổi mới sáng tạo được xác định là yếu tố then chốt, nhằm tạo điều kiện để các sản phẩm sau cuộc thi tiếp tục được ươm tạo, phát triển và đi vào thực tiễn, thay vì dừng lại ở giải thưởng.
+
+Tại Tọa đàm, Đại diện Ban Giám khảo - Ông Ngô Quốc Thái đánh giá cao đội Cheppy (đội đạt giải Nhất) ở mức độ hoàn thiện sản phẩm, từ nội dung trình bày đến khả năng vận hành thực tế. Giải pháp ứng dụng AI trong hỗ trợ học tiếng Anh cho học sinh Tiểu học và THCS được cho là phù hợp với thị trường Việt Nam, có quy mô lớn và nhu cầu rõ ràng.
+
+Với đội đạt giải Nhì (đội Factorem) đến từ Singapore, ông Thái cho rằng, đây là giải pháp mang tầm quốc tế, tập trung vào kết nối chuỗi cung ứng giữa nhà sản xuất và các đơn vị mua linh kiện. Đáng chú ý, mặc dù Singapore không phải quốc gia có nền sản xuất mạnh nhưng đội thi vẫn xây dựng được mô hình phù hợp với chuỗi cung ứng toàn cầu, cho thấy tư duy và tầm nhìn của đội.
+
+Ban Giám khảo cũng chỉ ra những điểm cần hoàn thiện sau cuộc thi, như mở rộng nguồn dữ liệu để nâng cao độ chính xác của mô hình AI, xây dựng chiến lược kinh doanh rõ ràng và tận dụng các cơ chế thử nghiệm có kiểm soát (sandbox). Việc mở dữ liệu được cho là yếu tố quan trọng để các sản phẩm dữ liệu phát triển bền vững trong các mùa tiếp theo.
+
+Chia sẻ tại Tọa đàm, Bà Phạm Thu Ngân - Đại diện đội đạt giải Nhất cho biết, hành trình tham gia Data for Life giúp sản phẩm không chỉ được hoàn thiện về công nghệ mà còn tiếp cận trực tiếp thị trường. Tại vòng triển lãm, nhiều trung tâm tiếng Anh và giáo viên đã trải nghiệm sản phẩm, mở ra cơ hội hợp tác ngay trong thời gian diễn ra sự kiện.
+
+Theo đại diện Cheppy, điểm giá trị lớn nhất của cuộc thi là tạo điều kiện kiểm chứng xem sản phẩm có thực sự phù hợp với thị trường Việt Nam hay không. Đội thi cũng bày tỏ mong muốn nhận được thêm hỗ trợ về chính sách và kết nối để có thể mở rộng việc ứng dụng sản phẩm, đặc biệt trong bối cảnh tiếng Anh đang được định hướng trở thành môn học bắt buộc từ lớp 1.
+
+Đại diện Cheppy cho rằng các nền tảng học tập ứng dụng AI có thể góp phần thu hẹp chênh lệch giữa các vùng miền, hỗ trợ giáo viên và học sinh trong điều kiện thời lượng học trên lớp còn hạn chế. Trong dài hạn, đội thi định hướng mở rộng sản phẩm sang các nhóm người học khác, bao gồm lao động kỹ thuật và kỹ sư công nghệ.
+
+Tại Tọa đàm, ông Isaac Tan Tang Yue - Đại diện đội đạt giải Nhì bày tỏ lòng biết ơn với Ban tổ chức cuộc thi khi đã tạo ra sân chơi cởi mở, tạo điều kiện để các đội trong nước và quốc tế trao đổi trực tiếp, học hỏi lẫn nhau. Theo đội thi, nhiều ý tưởng tham gia cuộc thi có tính thực tiễn cao và khả năng áp dụng rộng trong sản xuất, kinh doanh.
+
+Đại diện Factorem cho biết, Việt Nam được xác định là thị trường hợp tác trọng điểm trong chiến lược phát triển sắp tới. Đội thi mong muốn mở rộng công nghệ dữ liệu và AI sang Việt Nam, đồng thời kết nối với các doanh nghiệp sản xuất trong nước để xây dựng chuỗi cung ứng bền vững giữa Singapore và Việt Nam.
+
+Qua các trao đổi tại Tọa đàm, các đại biểu cho rằng Data for Life không chỉ dừng lại ở một cuộc thi, mà đang từng bước trở thành không gian kết nối các ý tưởng sáng tạo và giải pháp dựa trên dữ liệu với nhu cầu thực tiễn của xã hội. Những chia sẻ từ Ban Tổ chức, Ban Giám khảo và các đội thi đạt giải cho thấy nhiều sản phẩm có tiềm năng lớn nếu tiếp tục được hoàn thiện, đồng hành và hỗ trợ đúng hướng.
+
+Tọa đàm cũng góp phần khẳng định vai trò của dữ liệu, công nghệ và con người trong hệ sinh thái đổi mới sáng tạo, đồng thời gợi mở các hướng tiếp cận cho việc phát triển và triển khai các giải pháp phục vụ cộng đồng, doanh nghiệp và Nhà nước trong thời gian tới.

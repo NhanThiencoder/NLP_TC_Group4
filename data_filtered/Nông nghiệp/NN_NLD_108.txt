@@ -1,0 +1,25 @@
+Ba cách tiếp cận toàn cầu về AI và kinh tế dữ liệu
+
+Trong bài tham luận “Nền Kinh tế Dữ liệu ứng dụng AI: Những lựa chọn chiến lược cho Việt Nam” tại Hội thảo Quốc tế về Kinh tế Dữ liệu với chủ đề “Tư tưởng mới - Chính sách mới - Cơ hội mới” do Bộ Công an tổ chức, PGS. Ali Al-Dulaimi - Trưởng khoa Công nghệ và Khoa học Máy tính (Trường Đại học Anh quốc Việt Nam) cho rằng, hiện nay trên thế giới đang tồn tại ba mô hình phát triển AI chủ đạo.
+
+Mô hình thứ nhất do thị trường dẫn dắt, với vai trò trung tâm của các tập đoàn công nghệ lớn. Mô hình thứ hai đặt Nhà nước vào vị trí điều phối, đầu tư hạ tầng và quản lý tập trung. Mô hình thứ ba lấy người dân làm trung tâm, nhấn mạnh bảo vệ quyền, xây dựng niềm tin và khung pháp lý rõ ràng.
+
+Theo PGS. Ali Al-Dulaimi, Việt Nam không cần lựa chọn rập khuôn một mô hình có sẵn. Với dân số trẻ, tốc độ chuyển đổi số nhanh và khả năng điều chỉnh chính sách linh hoạt, Việt Nam có điều kiện hình thành một mô hình kết hợp vai trò định hướng của Nhà nước, năng lực đổi mới của khu vực tư nhân và cơ chế bảo vệ người dân, nhằm tận dụng thế mạnh và hạn chế rủi ro của từng mô hình.
+
+Dữ liệu - AI - giá trị và bài toán niềm tin
+
+Tham luận nhấn mạnh mối quan hệ cốt lõi giữa dữ liệu, AI và giá trị kinh tế. Dữ liệu được xem là nguồn nguyên liệu chiến lược, AI là công cụ để khai thác và chuyển hóa dữ liệu thành năng suất, đổi mới sáng tạo và của cải mới. Tuy nhiên, giá trị chỉ được tạo ra khi dữ liệu được quản trị tốt và được sử dụng một cách có trách nhiệm.
+
+PGS. Ali Al-Dulaimi cho rằng, việc ứng dụng AI trong kinh tế dữ liệu đi kèm nhiều thách thức. Trong đó có vấn đề về quyền riêng tư và chủ quyền dữ liệu; nguy cơ thiên lệch trong các quyết định tự động và sự phụ thuộc vào các nền tảng AI nước ngoài.
+
+Ông cũng lưu ý tới tác động về năng lượng và môi trường của các mô hình AI quy mô lớn. Trong bối cảnh đó, niềm tin được xác định là yếu tố quyết định sự thành công của mọi mô hình.
+
+Từ kinh nghiệm quốc tế, tham luận cho rằng khung pháp lý rõ ràng, dựa trên mức độ rủi ro và có cơ chế thử nghiệm phù hợp sẽ giúp AI vừa trở thành động lực tăng trưởng, vừa bảo đảm an toàn và lợi ích lâu dài.
+
+Theo PGS. Ali Al-Dulaimi, những quyết định chiến lược liên quan đến dữ liệu và AI trong thời gian tới sẽ có tác động lâu dài, định hình tương lai phát triển của kinh tế Việt Nam trong nhiều thế hệ.
+
+Ngoài bài tham luận của PGS. Ali Al-Dulaimi, hội thảo còn có nhiều tham luận của các chuyên gia quốc tế và trong nước tập trung phân tích vai trò của kinh tế dữ liệu trong phát triển số quốc gia; triển vọng toàn cầu của kinh tế dữ liệu; đo lường giá trị dữ liệu; xây dựng bộ chỉ số kinh tế dữ liệu và định hướng chương trình hành động quốc gia;... Qua đó, góp phần làm rõ những nền tảng lý luận và gợi mở cách tiếp cận cho phát triển kinh tế dữ liệu trong giai đoạn tới.
+
+Ngày 13.12, trong khuôn khổ Hội thảo quốc tế về Kinh tế dữ liệu do Bộ Công An tổ chức, Hiệp hội Dữ liệu Quốc gia phối hợp với Trường Đại học Anh quốc Việt Nam và các trường đại học uy tín của Vương quốc Anh chính thức ký kết Biên bản ghi nhớ hợp tác toàn diện. Sự kiện này đánh dấu một cột mốc quan trọng trong việc thúc đẩy hợp tác quốc tế trong lĩnh vực kinh tế dữ liệu.
+
+Lễ ký kết có sự tham gia của 5 đơn vị gồm: Hiệp hội Dữ liệu Quốc gia; Đại học Tổng hợp London (University of London); Trường Kinh tế và Chính trị London (LSE); Trường Đại học City St George’s (thuộc University of London); và Trường Đại học Anh quốc Việt Nam (BUV).

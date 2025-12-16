@@ -1,0 +1,39 @@
+Đầu tuần này, chứng khoán toàn cầu chìm trong sắc đỏ trước nỗi lo kinh tế Mỹ suy thoái. Một trong những yếu tố khiến thị trường thêm hỗn loạn là sự đảo chiều của chiến lược carry trade đối với đồng yên khi đồng tiền Nhật Bản đang hồi phục mạnh mẽ.
+
+"Cơn ác mộng" liệu đã chấm dứt?
+
+James Malcolm, chiến lược gia vĩ mô tại ngân hàng UBS cho biết trong một ghi chú gửi tới khách hàng rằng giao dịch carry trade mới chỉ đảo chiều khoảng 50%.
+
+Malcolm ước tính giao dịch carry trade USD-yên từng đạt 500 tỷ USD vào giai đoạn đỉnh điểm. Ông ước tính khoảng 200 tỷ USD giao dịch carry trade đảo chiều trong 2-3 tuần qua và việc điều chỉnh vị thế chênh lệch lãi suất sẽ vẫn còn tiếp diễn.
+
+Sandilya, chiến lược gia ngoại hối tại JPMorgan, nhận định các hoạt động carry trade mới chỉ đảo chiều được khoảng 50-60%. Đù đồng yên có tăng nhưng nó vẫn là đồng tiền hoạt động yếu nhất trong nhóm G10. Vì vậy, hoạt động carry trade sẽ khó mà kết thúc sớm.
+
+Trong khi đó, chiến lược gia Zhe Shen của TIFF Investment Management nhận định tình trạng bán tháo có thể quay trở lại trong vài ngày nữa vì các giao dịch carry trade thường khá lớn. Các nhà giao dịch carry trade có thể còn chưa rút hết khỏi vị thế của họ vì còn đợi thị trường hồi phục để giảm lỗ.
+
+Còn theo Chris Turner của ngân hàng ING, một nhân tố có thể đẩy đồng yên tăng giá mạnh hơn nữa là nhà đầu tư mở các vị thế phòng hộ mới. Trong vài năm qua, việc phòng hộ rủi ro tỷ giá rất tốn kém, nên một số nhà đầu tư và ngân hàng có các giao dịch liên quan tới đồng yên đã không phòng hộ. Khi phòng hộ tăng lên, nhu cầu đồng yên sẽ tăng theo. Điều này sẽ dẫn tới một vòng xoáy tự mạnh lên, vì đồng yên tăng giá sẽ khiến các nhà đầu tư khác đóng vị thế đặt cược vào sự mất giá của đồng yên bằng cách mua thêm yên.
+
+Carry trade là gì?
+
+Carry trade là chiến lược giao dịch trong đó nhà đầu tư đi vay bằng một loại tiền tệ có lãi suất thấp và tái đầu tư vào các tài sản có tỷ suất sinh lời cao hơn ở nơi khác. Chiến lược giao dịch chênh lệch lãi suất này đã trở nên cực kỳ phổ biến trong những năm gần đây, đặc biệt là đối với đồng yên.
+
+Thị trường nợ của Nhật Bản – nơi diễn ra hoạt động trao đổi và mua bán các công cụ nợ, là điểm đến ưa thích cho các nhà đầu tư toàn cầu vì lãi suất cực thấp trong cả thập kỷ.
+
+Các nhà đầu tư vay đồng yên giá rẻ để mua tài sản có lợi suất cao ở nơi khác, đặc biết là cổ phiếu công nghệ Mỹ. Nhưng tuần trước, Ngân hàng Trung ương Nhật Bản (BOJ) đã tăng lãi suất lần thứ 2 trong 17 năm lên 0,25% và cho biết sẵn sàng tăng thêm.
+
+Tỷ giá yên/USD tư tháng 1/2024 đến ngày 5/8. Nguồn: LSEG Workspace.
+
+Động thái của BOJ khiến các nhà đầu tư đinh ninh rằng đồng yên vẫn sẽ yếu so với đồng USD phải bối rối. Đồng yên hiện đã tăng khoảng 13% so với đồng USD sau khi chạm đáy 38 năm vào 1 tháng trước. Do đó, các nhà đầu tư vội vã bán tháo vị thế carry trade đồng yên và bán bớt một số tài sản như cổ phiếu, bitcoin.... để trả nợ. Các tài sản sinh lời cao này được nhiều người mua bằng cách vay đồng yên với lãi suất thấp. Khi đồng yên tăng giá, việc bán tháo các tài sản khác xảy ra để trả nợ.
+
+Quy mô carry trade đồng yên
+
+Rất khó để có thể đưa ra câu trả lời chính xác cho câu hỏi này, vì các giao dịch tiền tệ không được theo dõi tập trung như các giao dịch trên thị trường chứng khoán. Tuy nhiên, vẫn có một số cách để đánh giá độ phổ biến của hoạt động carry trade đồng yên.
+
+Một cách trong số đó là xem dữ liệu về các loại hợp đồng mà Ủy ban Giao dịch hàng hóa tương lai Mỹ (CFTC) giám sát. Dữ liệu này cho thấy tính đến đầu tháng 7, các quỹ phòng hộ và nhà đầu cơ nắm ròng hơn 180.000 hợp đồng trị giá hơn 14 tỷ USD, đặt cược vào sự mất giá của đồng yên. Đến tuần trước, các vị thế này bị cắt giảm xuống còn khoảng 6 tỷ USD.
+
+Một cách nữa là xem xét số liệu cho vay nước ngoài của các ngân hàng Nhật Bản. Theo Ngân hàng Thanh toán Quốc tế (BIS), con số này đạt mức 1 nghìn tỷ USD tính đến tháng 3, tăng 21% so với năm 2021. Phần lớn tăng trưởng gần đây trong hoạt động cho vay nước ngoài bằng đồng yên là trên thị trường liên ngân hàng, tức là các ngân hàng vay lẫn nhau và ngân hàng cho các tổ chức tài chính phi ngân hàng vay, ví dụ như các công ty quản lý tài sản.
+
+Hoạt động cho vay nước ngoài﻿ bằng đồng yên của Nhật Bản từ năm 2010. (Cột cam: Lượng vay từ các tổ chức tài chính phi ngân hàng. Cột đen: Lượng vay từ ngân hàng). Nguồn: BIS.
+
+Các nhà phân tích của ngân hàng JPMorgan Chase cho rằng những khoản vay này “thường là nhu cầu của nhà đầu tư toàn cầu để cấp vốn cho giao dịch carry trade đồng yên”.
+
+Tổng hợp﻿

@@ -1,0 +1,25 @@
+Title: Bến Tre: Rốt ráo thúc đẩy hệ thống nền tảng dữ liệu số ngành nông nghiệp
+
+Năm ngoái, Bến Tre được giao nhiệm vụ “Tiên phong trong việc tổ chức triển khai, chỉ đạo các cơ quan, đơn vị liên quan triển khai nền tảng dữ liệu số về nông nghiệp, nền tảng truy xuất nguồn gốc”. Trên cơ sở đó, Sở NN&PTNT đã tham mưu UBND tỉnh ban hành Kế hoạch số 3752/KH-UBND ngày 23-6-2023 triển khai nền tảng dữ liệu số về nông nghiệp, nền tảng truy xuất nguồn gốc trên địa bàn tỉnh Bến Tre.
+
+Với tinh thần rốt ráo, khẩn trương, lãnh đạo UBND tỉnh Bến Tre đã chủ trì cuộc họp với Sở Nông nghiệp và Phát triển nông thôn (NN&PTNT), các đơn vị liên quan nghe báo cáo tiến độ triển khai thử nghiệm Hệ thống nền tảng dữ liệu số ngành nông nghiệp.
+
+Đối với phát triển nền tảng truy xuất nguồn gốc, Sở triển khai xây dựng phần mềm quản lý an toàn thực phẩm và truy xuất nguồn gốc nông lâm, thủy sản, cơ bản đã hoàn thành; đơn vị đang rà soát, hiệu chỉnh và đưa vào vận hành.
+
+Ảnh minh hoạ
+
+Đối với nền tảng dữ liệu số về nông nghiệp, Sở chủ động tích cực phối hợp với VNPT Bến Tre xây dựng thử nghiệm hệ thống Cơ sở dữ liệu ngành nông nghiệp với mục tiêu hình thành một hệ thống quản lý thông tin dùng chung, toàn diện; từng bước hình thành cơ sở dữ liệu chung cho ngành nông nghiệp. Đến nay, cơ bản hoàn thành khung cấu trúc các phân hệ gồm: Phân hệ Hệ thống dùng chung, Phân hệ trồng trọt và bảo vệ thực vật, Phân hệ Quản lý lâm nghiệp, Phân hệ phát triển nông thôn, Phân hệ khuyến nông và dịch vụ nông nghiệp, Phân hệ quản lý thủy lợi và Phân hệ bản đồ số nông nghiệp.
+
+Tại cuộc họp, VNPT Bến Tre đã báo cáo tiến độ thực hiện Hệ thống nền tảng dữ liệu số ngành NN&PTNT; Chi cục Quản lý chất lượng nông lâm và thủy sản báo cáo về phân hệ truy xuất nguồn gốc nông lâm thủy sản. Các sở, ngành tỉnh đã thảo luận, cho ý kiến góp ý cho hệ thống Cơ sở dữ liệu ngành nông nghiệp nhằm giúp hình thành một hệ thống quản lý thông tin dùng chung, toàn diện của ngành.
+
+Giám đốc Sở Thông tin và Truyền thông Trịnh Minh Châu cho rằng, trước mắt ngành nông nghiệp cần khảo sát các lĩnh vực phục vụ công tác quản lý, chọn lọc cơ sở dữ liệu... Trong đó, cần quan tâm đến việc triển khai các dự án, ứng dụng, những ứng dụng này phải tích hợp, liên thông phù hợp với định hướng, chỉ đạo của Bộ NN&PTNT và tích hợp vào Trung tâm Điều hành thông minh tỉnh, vừa phục vụ việc báo cáo về Bộ vừa phục vụ công tác chỉ đạo điều hành của địa phương.
+
+Trên cơ sở góp ý của các ngành, Phó chủ tịch UBND tỉnh Nguyễn Minh Cảnh yêu cầu ngành nông nghiệp đề xuất các phân hệ phù hợp để VNPT xây dựng, thiết kế, quá trình xây dựng Hệ thống nền tảng dữ liệu số ngành nông nghiệp cần tích hợp, kết nối vào Trung tâm Điều hành thông minh tỉnh. Bên cạnh, cần quan tâm vấn đề nhập liệu, cập nhật liên tục hàng tháng, quý đảm bảo dữ liệu đúng, đủ, có sự liên kết từ số liệu tổng hợp và hiện trạng. Trước mắt, cần phối hợp thực hiện thí điểm, từng bước hoàn thiện việc triển khai nền tảng dữ liệu số ngành nông nghiệp.
+
+Việc triển khai phần mềm quản lý và phát triển kinh tế nông nghiệp số giúp quản lý chuỗi cung ứng vật tư đầu vào và đầu ra hiệu quả. Đối với lĩnh vực chăn nuôi - thú y, cơ sở dữ liệu hướng tới quản lý về tổng đàn vật nuôi (gia súc, gia cầm, vật nuôi khác); tình hình sản xuất, khả năng cung ứng các sản phẩm chăn nuôi; tỉ lệ tiêm phòng và tình hình dịch bệnh; hoạt động sản xuất, kinh doanh thuốc thú y - thức ăn chăn nuôi; kiểm soát giết mổ và kiểm dịch xuất, nhập.
+
+Bên cạnh đó, cũng thúc đẩy các thiết bị giám sát mặt đất phục vụ cho thu thập dữ liệu trong quá trình canh tác. Trong đó, xây dựng mạng lưới giám sát tình hình sâu hại và thiên địch trên cây trồng. Phát triển các vùng sản xuất tập trung gắn với mã số vùng trồng, kết hợp với công nghiệp chế biến sâu, quản lý mã số cơ sở chế biến.
+
+Đồng thời, xây dựng nền tảng dữ liệu số và thực hiện các phân hệ phần mềm, gồm: Quản lý an toàn thực phẩm và truy xuất nguồn gốc nông lâm thủy sản tỉnh. Bản đồ GIS giám sát và dự báo môi trường nước trong quản lý nghêu ở các huyện. Quản lý cơ sở dữ liệu chăn nuôi thú y. Quản lý, sử dụng và tạo lập dữ liệu bản đồ chuyên ngành nông nghiệp quản lý vùng canh tác, gồm trồng trọt, chăn nuôi, thủy sản, lâm nghiệp, diêm nghiệp và lắp đặt 3 trạm giám sát sâu rầy thông minh.
+
+Duy Khánh và nhóm PV, BTV

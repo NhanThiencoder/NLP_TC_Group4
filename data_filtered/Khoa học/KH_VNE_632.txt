@@ -1,0 +1,13 @@
+AI giúp các nhà vật lý phát hiện phương pháp đơn giản hơn để đạt rối lượng tử, giúp phát triển công nghệ giao tiếp lượng tử trong tương lai.
+
+Mô phỏng hiện tượng rối lượng tử. Ảnh: Science Photo Library
+
+Một nhóm nhà khoa học sử dụng AI để phát hiện phương pháp dễ hơn nhằm hình thành rối lượng tử (hay còn gọi là vướng víu lượng tử) giữa những hạt hạ nguyên tử, mở đường cho công nghệ lượng tử đơn giản hơn, Live Science hôm 5/3 đưa tin. Khi các hạt như photon bị rối, chúng có thể chia sẻ những đặc điểm lượng tử, bao gồm thông tin, bất chấp khoảng cách giữa chúng. Hiện tượng này rất quan trọng trong vật lý lượng tử, là một trong những đặc trưng khiến máy tính lượng tử cực mạnh.
+
+Nhưng hình thành liên kết rối lượng tử thường là thách thức đối với giới khoa học. Đó là vì nó đòi hỏi chuẩn bị hai cặp rối riêng biệt, sau đó đo cường độ rối, gọi là phép đo trạng thái Bell trên photon từ mỗi cặp. Phép đo khiến hệ thống lượng tử sụp đổ và khiến hai photon chưa đo vướng vào nhau, dù chúng chưa bao giờ tương tác trực tiếp với nhau. Quá trình "tráo đổi rối" có thể được sử dụng cho dịch chuyển lượng tử.
+
+Trong nghiên cứu công bố trên tạp chí Physical Review Letters, các nhà khoa học sử dụng PyTheus, công cụ AI chuyên dùng để thiết kế thí nghiệm quang lượng tử. Nhóm tác giả nghiên cứu ban đầu định tái tạo giao thức dành cho tráo đổi lượng tử trong giao tiếp lượng tử. Tuy nhiên, công cụ AI tiếp tục tạo ra một phương pháp đơn giản hơn nhiều để đạt rối lượng tử với các photon. Nhóm nghiên cứu có thể huấn luyện mạng thần kinh dựa trên một tệp dữ liệu phức tạp mô tả cách thiết lập thí nghiệm trong nhiều điều kiện khác nhau và mạng lưới này thực sự học được cơ chế vật lý phía sau đó.
+
+Công cụ AI đề xuất hiện tượng rối có thể xuất hiện do không thể phân biệt đường bay của các photon. Khi có vài nguồn photon khả thi và không thể phân biệt nguồn gốc của chúng, có thể tạo ra hiện tượng rối giữa chúng. Dù lúc đầu các nhà nghiên cứu nghi ngờ kết quả, công cụ tiếp tục đưa ra cùng một giải pháp khi họ kiểm tra giả thuyết. Thông qua điều chỉnh nguồn photon và đảm bảo không thể phân biệt chúng, nhóm chuyên gia vật lý tạo ra điều kiện trong đó việc phát hiện photon ở đường bay nhất định giúp đảm bảo hai photon khác bị rối. Đột phá về vật lý lượng tử này giúp đơn giản hóa quá trình hình thành rối lượng tử. Trong tương lai, nó có thể tạo điều kiện để sử dụng mạng lượng tử nhằm đưa tin an toàn. Phát hiện mới cũng cung cấp ví dụ thuyết phục về sử dụng AI như một công cụ nghiên cứu cho các nhà vật lý.
+
+An Khang (Theo Live Science)

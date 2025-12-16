@@ -1,0 +1,40 @@
+ "Xài" Google kiểu… hacker
+
+Ta nài nỉ bao nhiêu lần, tốn hàng trăm nghìn tiền điện thoại, hắn mới chịu gặp ta. Bây giờ, tại một quán cà phê Internet, ngồi trước mặt ta là một tên con trai cao trên 1,7m, người gầy nhom. Wow, tay hacker này trông cũng giống…người lắm mà, không có ghê rợn như ta nghĩ trước đó. 
+
+Mục tiêu thứ nhất coi như đã hoàn thành, ta đã biết được diện mạo của hắn. Giờ phải nhảy vô mục tiêu chính liền kẻo hắn lại chuồn mất: lật tẩy các “chiêu” của hắn. 
+
+Ê, mi “bật mí” một số tuyệt chiêu của Google đi? 
+
+
+
+Thế cái từ khóa này chỉ có thể tìm kiếm trong từng website riêng biệt thôi hay sao? Nếu ta không chỉ muốn tìm trong website của Tuổi Trẻ mà là tất cả những website của VN thì phải làm sao? 
+
+
+
+Chưa hết đâu. Một từ khóa mà ta thường hay sử dụng nữa là filetype: phần_mở_rộng. Ngoài các file .txt, .html Google hiện nay còn có thể tìm kiếm thông tin bên trong 13 loại file khác nhau, từ .pdf, .doc, đến cả flash .swf. Rất nhiều người thường sử dụng từ khóa này để tìm kiếm tài liệu, ebook, ví dụ như dùng từ khóa “Google hacker” filetype: pdf, mi sẽ tìm được một tài liệu rất hay về Google hacking đấy. 
+
+Thế ngoài dùng để tìm ebook ra, filetype này còn có thể tìm được gì? Mi thường dùng filetype này để lục lọi cái gì? 
+
+- Mi thử gõ vào Google từ khóa này xem intitle: Login filetype:asp site:vn. 
+
+Ta hí hửng gõ từ khóa đó vào Google, nhấn Enter, chưa đầy 1 giây kết quả Google trả về làm ta sém.. rớt chuột. Trước mặt ta giờ là “gót chân Achilles” của hơn 70 website ở VN, trong đó có cả website của nhiều “đại gia” cỡ bự. 
+
+- Với từ khóa trên, thằng Google sẽ tìm những webpage có phần mở rộng là asp (Active Server Page, một ngôn ngữ lập trình web rất thông dụng ở VN) trong các website ở VN. 
+
+Thế còn cái đoạn intitle: Login nó làm gì? Chỉ tìm những webpage nào có tiêu đề chứa chữ Login phải không? 
+
+- Chính xác. Từ khóa intitle, tương tự như từ khóa allintitle, qui định thằng Google chỉ tìm những webpage nào có tiêu đề chứa nội dung xác định. 
+
+Ê mi, thế làm sao để tránh bị hack bằng Google? 
+
+
+Thế lỡ bị Google “điểm mặt” rồi thì sao? 
+
+
+Thật ra những “chiêu” trên là kinh nghiệm vô cùng quý báu mà một người sử dụng Internet bình thường sử dụng sẽ rất hữu dụng. Khi Google cho phép sử dụng các thủ thuật này, mục đích của họ là giúp những người sử dụng tối ưu hóa khả năng “lướt” trên Internet. 
+
+Tất nhiên, chỉ có những người cố tình sử dụng Google vào mục đích sai trái như khai thác thông tin rò rỉ từ sitemap, tìm kiếm lỗ hổng để cài phần mềm “gián điệp”, tìm những file thông tin mật, những file chứa password rồi file chứa thông tin tài chính… thì mới đáng lên án. 
+
+
+

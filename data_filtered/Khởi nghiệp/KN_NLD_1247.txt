@@ -1,0 +1,39 @@
+Tại sự kiện 360 độ mobile diễn ra vào ngày 15/6 vừa qua, cộng đồng game mobile Việt đã có dịp lắng nghe chia sẻ tử những diễn giả đến từ các công ty đang hoạt động trong lĩnh vực phát triển game mobile như VNG, ME Corp, Appota.
+
+Hãy học cách thất bại trước khi nghĩ đến Startup
+
+Theo Anh Đinh Nguyễn Anh Dũng- Software Manager Công ty VNG chia sẻ: "Tỷ lệ thành công của startup thường là nhỏ hơn 20%, vì vậy các bạn trẻ khởi nghiệp hãy chuẩn bị tâm lý sẵn sàng cho thất bại".
+
+Thất bại là điều mà không một startup nào không gặp phải, nó trở nên bình thường đến mức hãy coi nó là một phần tất yếu của quá trình khởi nghiệp. Thay vì lo lắng, hãy chủ động lên kế hoạch cho những thất bại, điều này sẽ giúp những startup game không bị bị động trong quá trình phát triển
+
+Anh Đinh Nguyễn Anh Dũng cũng chia sẻ thêm: Thất bại cũng là cách để startup thử nghiệm sản phẩm của mình và không nên vì thất bại mà chạy theo xu hướng của số đông, hãy kiên định với con đường mình đã chọn
+
+Ý tưởng là vô giá trị nếu không tạo được sản phẩm
+
+Việc đầu tiên khi Startup là phải có ý tưởng, bước tiếp theo mới là bắt tay vào làm sản phẩm. Tuy nhiên, rất nhiều startup vẫn mãi loay hoay trong việc tìm ý tưởng mà quên mất rắng ý tưởng dù có hay đến mấy cũng sẽ không là gì nếu chưa thể làm ra sản phẩm.
+
+Anh Đinh Nguyễn Anh Dũng- Software Manager Công ty VNG
+
+Trong buổi chia sẻ của mình, Anh Đinh Nguyễn Anh Dũng cũng nhấn mạnh: "Ý tưởng là vô giá trị cho đến khi nó được hiện thực hoá". Đừng sợ mất ý tưởng, hãy chia sẻ với càng nhiều người càng tốt, đặc biệt với những người có tiềm lực. Hãy dám hành động, bất chấp nỗi sợ hãi, có ý tưởng tốt đã là một điều hết sức tuyệt vời, nhưng chỉ có hành động mới có thể biến được ý tưởng đó thành hiện thực.
+
+Xu hướng cross-platform: Giải pháp thông minh cho startup
+
+Trả lời về bài toán đau đầu với các lập trình viên là "làm sao để người lập trình viên chỉ cần viết ứng dụng trên một nền tảng nhưng lại có thể sử dụng được trên nhiều hệ điều hành khác nhau?"
+
+Anh Trương Hoàng Nam- iOS Team Leader Công ty Mecorp cho rằng xu hướng cross- platform- ứng dụng đa nền tảng chạy trên nhiều nền tảng di động khác nhau như iOS, Android , Windows Phone, BlackBerry, WebOS,... mà không cần phải lập trình nhiều lần cho từng nền tảng sẽ là động lực và cơ hội về một nhánh công nghệ tốt nhất hiện nay trong lĩnh vực công nghệ phần mềm nói chung và phát triển ứng dụng di động nói riêng.
+
+Cross- platform- Ứng dụng đa nền tảng sẽ là một bước đi thông minh dành cho các nhà phát triển cá nhân lẫn doanh nghiệp, đặc biệt là những nhà khởi nghiệp. Điều này sẽ giúp doanh nghiệp tinh gọn hơn và giảm được áp lực chi phí.
+
+Anh Trương Hoàng Nam- iOS Team Leader Công ty ME Corp
+
+Game mobile được coi là mảnh đất màu mỡ
+
+Theo các số liệu được đưa ra, game là ứng dụng được tải về nhiều nhất, vượt qua các hạng mục ứng dụng mạng xã hội. Rõ ràng, đây chính là mảnh đất màu mỡ nhất với doanh thu hàng năm liên tục tăng trưởng đều đặn.
+
+Anh Nguyễn Minh Tuấn, giám đốc Appota Sài Gòn cho biết các dòng game được tải về nhiều nhất là MOBA, casual, ARPG, adventure… Hành vi của người dùng trong năm vừa qua hướng đến 4 mục tiêu chính đó là những game gây ức chế, siêu khó, đồ họa đơn giản, dễ chơi.
+
+Anh Nguyễn Minh Tuấn- Giám đốc Appota Sài Gòn
+
+Việc nghiên cứu hành vi và xu hướng chơi game của người dùng rất quan trọng, điều này sẽ làm cho game trở nên thu hút người dùng hơn. Ngoài ra, xây dựng game có thể hoạt động tốt trên nhiều thiết bị và màn hình là một điều cần thiết để game có thể đến được với nhiều người dùng hơn.
+
+>> Thưa các Startup Việt: Hãy dừng xin tiền và học cách giải quyết vấn đề

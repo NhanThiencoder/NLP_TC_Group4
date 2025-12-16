@@ -1,0 +1,19 @@
+Đầu năm nay, thị trường chứng khoán Mỹ sẽ chứng kiến một thay đổi lớn trong cách vận hành khi rút ngắn chu kỳ thanh toán cho các giao dịch cổ phiếu, trái phiếu và quỹ hoán đổi danh mục (ETF). Hầu hết các chu kỳ thanh toán tại Mỹ sẽ chuyển từ T+2 (tức ngày làm việc thứ hai liền kề sau ngày giao dịch) sang T+1.
+
+Từ lâu, các cơ quan quản lý đã muốn hiện thực hoá điều này. Vì việc rút ngắn chu kỳ thanh toán sẽ tạo ra những tác động tích cực đối với thị trường tương lai, giảm chi phí giao dịch và tăng cường hiệu quả cũng như độ tin cậy của quá trình thanh toán.
+
+Bằng cách này, khối lượng giao dịch chưa thanh toán sẽ giảm gần một nửa, từ đó làm giảm rủi ro cho các bên tham gia. Về lâu dài, điều này mở ra cơ hội cải tiến và số hoá các quy trình thanh toán.
+
+Quá trình chuyển sang T+1 sẽ đòi hỏi các nhà giao dịch trên thị trường Mỹ phải thực hiện khá nhiều công việc, bao gồm cập nhật hệ thống kế toán để xử lý giao dịch nhanh chóng và hiệu quả hơn, giảm thiểu rủi ro và chi phí phát sinh từ các giao dịch thất bại.
+
+Trong khi các sàn giao dịch trên toàn cầu đã phát triển chiến lược cho T+1, sàn giao dịch châu Âu vẫn chưa chuẩn bị kỹ lưỡng cho việc này và sẽ tiếp tục vận hành theo chu kỳ T+2 khi Mỹ bắt đầu áp dụng T+1.
+
+Các nhà quản lý tài sản đã cảnh báo về “rủi ro lớn và nghiêm trọng” đối với thị trường châu Âu nếu không bắt kịp Mỹ. Các thị trường không có chu kỳ thanh toán T+1 sẽ thấy thanh khoản giảm và khả năng cạnh tranh yếu hơn so với thị trường cung cấp T+1.
+
+Nếu tất cả các sàn giao dịch toàn cầu đều hướng tới T+0, điều này có thể giảm rủi ro hơn nữa, nhưng cũng sẽ đặt ra các thách thức mới như làm giảm đáng kể nhu cầu về vốn hỗ trợ giao dịch, có thể làm giảm tính thanh khoản trên thị trường và gia tăng số lượng giao dịch thất bại, trừ khi cơ sở hạ tầng công nghệ được cải thiện đáng kể.
+
+Dẫu vậy, T+0 không nhất thiết là phải giải quyết tức thì, mà có thể thanh toán trong ngày. Tuy nhiên, việc triển khai T+0 toàn cầu có thể phải mất nhiều năm.
+
+Cuối cùng, việc chuyển đổi sang thanh toán T+1 có hợp lý về mặt chi phí hay không vẫn còn là câu hỏi để ngỏ. Nhưng nó đang được xem như một yêu cầu bắt buộc từ phía các cơ quan quản lý. Đây rõ ràng là một thay đổi lớn mang lại cả rủi ro lẫn cơ hội.
+
+Theo Financial Times

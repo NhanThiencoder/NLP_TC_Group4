@@ -1,0 +1,9 @@
+Title: Nông nghiệp số - Nông trại thông minh với IoT
+
+Nông nghiệp số đang chuyển mình mạnh mẽ nhờ Internet of Things (IoT), trí tuệ nhân tạo và dữ liệu lớn. Các thiết bị cảm biến theo dõi đất đai, điều kiện thời tiết, độ ẩm… giúp nông dân đưa ra quyết định chính xác, tiết kiệm tài nguyên và tăng năng suất.
+
+Tại Việt Nam, nông nghiệp số đang được thúc đẩy mạnh mẽ trong vài năm gần đây. Ở Hà Nội, chính quyền địa phương đã xây dựng hàng trăm mô hình nông nghiệp công nghệ cao, chiếm khoảng 40% giá trị sản xuất nông nghiệp của Thành phố.
+
+Cơ sở hạ tầng kỹ thuật số cũng được đầu tư; nhiều tỉnh đã hoàn thành số hóa cơ sở dữ liệu nông nghiệp, xây dựng hệ thống IoT giám sát sâu bệnh, thời tiết và quy trình sản xuất.
+
+(Nguồn: Cục Chuyển đổi số Quốc gia)

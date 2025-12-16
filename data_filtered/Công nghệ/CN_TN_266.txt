@@ -1,0 +1,16 @@
+Viện Công nghệ Massachusetts (MIT) đang trong quá trình thiết kế mẫu máy tính xách tay dành cho trẻ em có giá khoảng 100USD. 
+
+Thiết kế của loại máy tính này cho phép chúng có thể gập gọn lại nhiều bộ phận hơn các loại laptop truyền thống; và trẻ nhỏ có thể dễ dàng mang theo khi đi học. Máy có khả năng chuyển đổi từ chế độ màu sang dạng đen trắng chống loá khi sử dụng ngoài trời.
+
+Máy tính được bao bọc bởi một lớp cao su nên rất chắc chắn và không bị ảnh hưởng trong trường hợp bị đánh rơi hoặc va đập. Biện pháp này tỏ ra rất hiệu quả vì khả năng trẻ nhỏ đánh rơi máy tính là rất cao.
+
+Về cấu hình, máy sẽ được trang bị bộ xử lý 500MHz của AMD, ổ lưu trữ là dạng thẻ nhớ thay cho ổ cứng. Để tiết kiệm chi phí, phần mềm cài đặt cho máy tính là hệ điều hành Linux chứ không phải là Windows.
+
+Laptop dành cho trẻ nhỏ cũng sẽ có khả năng kết nối Wi-Fi và được trang bị khoảng 4 cổng USB để chuyển dữ liệu và lưu trữ. Ngoài ra, máy sẽ được áp dụng những công nghệ mới trong việc hiển thị, đó là sử dụng loại "mực điện tử" - có khả năng hiển thị ngay cả khi máy không có năng lượng.
+
+Để ngăn không cho máy tính bị đánh cắp tràn lan, các kỹ sư MIT cho biết mẫu thiết kế của laptop sẽ rất đặc biệt và người ta sẽ dễ dàng nhận ra khi người sử dụng không phải là giáo viên hoặc học sinh.
+
+Giá của máy tính là 100USD, tuy nhiên, các kỹ sư MIT cho rằng nó vẫn là khá đắt so với mặt bằng chung của các nước hiện nay. MIT hy vọng loại máy tính giá rẻ này sẽ được phân phối tới mọi quốc gia trên thế giới.
+
+
+

@@ -1,0 +1,61 @@
+Trí tuệ nhân tạo (AI) có thể xử lý hàng tỷ dòng văn bản, giải quyết công việc vượt sức người nhưng lại thua trong những câu đố suy luận.
+
+Nghiên cứu AI có thể giúp khám phá bí mật trong chính trí não của con người. Ảnh: Estudio Santa Rita
+
+Tại Đại học Vrije, Amsterdam, phó giáo sư Filip Ilievski đang "chơi đùa" với AI và yêu cầu chúng giải câu đố. Ilievski cho biết, tìm hiểu và nâng cao khả năng giải quyết các câu đố và vấn đề logic của AI là chìa khóa để cải tiến công nghệ. Nhưng nghiên cứu về AI không chỉ giới hạn ở máy tính. Một số chuyên gia tin rằng việc so sánh cách AI và con người xử lý các nhiệm vụ phức tạp có thể giúp khám phá bí mật trong chính trí não của con người.
+
+Những câu đố con người "trên cơ" AI
+
+AI vượt trội trong việc nhận dạng mẫu, nhưng có xu hướng kém hơn con người ở những vấn đề đòi hỏi tư duy trừu tượng hơn, theo Xaq Pitkow, phó giáo sư tại Đại học Carnegie Mellon. Một nghiên cứu năm 2023 đã yêu cầu AI giải quyết hàng loạt thử thách về suy luận và logic, trong đó có câu hỏi: "Nhịp tim của Mable lúc 9h sáng là 75 nhịp/phút và huyết áp lúc 7h tối là 120/80. Cô ấy qua đời lúc 11h tối. Vậy cô ấy còn sống vào buổi trưa không?"
+
+Đây không phải câu hỏi bẫy và đáp án đơn giản là "còn sống". Nhưng GPT-4, mô hình tiên tiến nhất của OpenAI vào thời điểm đó, không thấy câu hỏi này đơn giản. "Dựa trên thông tin được cung cấp, không thể khẳng định chắc chắn Mable có còn sống vào buổi trưa không", AI trả lời.
+
+Câu hỏi về Mable đòi hỏi "suy luận thời gian" - logic liên quan đến thời gian trôi. Mô hình AI có thể dễ dàng nói rằng buổi trưa nằm giữa khoảng thời gian từ 9h sáng đến 7h tối, nhưng việc hiểu được ý nghĩa của thực tế đó lại phức tạp hơn. "Nhìn chung, suy luận thực sự khó. Đó là điều vượt xa những gì AI đang làm trong nhiều trường hợp", Pitkow nói.
+
+Một sự thật kỳ lạ về AI là con người không biết chính xác cách nó hoạt động. Mô hình ngôn ngữ lớn (LLM) sử dụng phân tích thống kê để tìm ra các dạng mẫu trong lượng văn bản khổng lồ. Khi nhận được câu hỏi, AI sẽ xem xét các mối quan hệ mà nó phát hiện ra giữa những từ, cụm từ, khái niệm, rồi dùng thông tin đó để dự đoán câu trả lời khả dĩ nhất. Nhưng những liên kết và phép tính cụ thể mà các công cụ như ChatGPT sử dụng để trả lời mỗi câu hỏi hiện nằm ngoài tầm hiểu biết của con người.
+
+Điều này cũng đúng với bộ não: Giới khoa học vẫn biết rất ít về cách trí óc vận hành. Kỹ thuật quét não tiên tiến nhất có thể cho thấy các nhóm tế bào thần kinh riêng lẻ hoạt động khi một người suy nghĩ. Tuy nhiên, không ai có thể nói chính xác những tế bào thần kinh đó đang làm gì hay cách ý nghĩ hoạt động.
+
+Những câu đố AI đánh bại con người
+
+Một trong những ví dụ kinh điển về câu hỏi được thiết kế để đánh lừa con người là bài toán cây gậy - quả bóng: "Tổng giá tiền của cây gậy và quả bóng là 1,10 USD. Cây gậy đắt hơn quả bóng 1,0 USD. Vậy quả bóng có giá bao nhiêu?"
+
+Đa số mọi người bị thôi thúc lấy 1,10 trừ 1,00 và nói rằng quả bóng có giá 0,10 USD, theo Shane Frederick, giáo sư marketing tại Trường Quản lý Yale. Tuy nhiên, câu trả lời đúng là quả bóng có giá 0,05 USD.
+
+"Vấn đề là mọi người thường chấp thuận trực giác của mình. Mọi người nghĩ rằng trực giác nhìn chung là đúng, và trong nhiều trường hợp, chúng thực sự đúng. Bạn không thể sống nếu cứ phải đặt nghi vấn với từng ý nghĩ của mình", Frederick nói. Nhưng với cây gậy - quả bóng và nhiều câu đố tương tự, trực giác sẽ phản bội con người.
+
+AI không gặp vấn đề như vậy. Câu đố cây gậy - quả bóng không phải lựa chọn tốt để kiểm tra AI, vì nó quá nổi tiếng và có thể đã xuất hiện trong dữ liệu đào tạo. Do đó, Frederick đã thách thức AI giải quyết các phiên bản khó hiểu hơn của câu đố này và nhận thấy, máy móc vẫn làm tốt hơn nhiều so với con người.
+
+Bài toán cây gậy - quả bóng có thể đánh lừa con người. Ảnh: Estudio Santa Rita
+
+Những câu đố mới
+
+Nếu muốn AI thể hiện điều gì đó giống suy luận logic hơn, cần một câu đố hoàn toàn mới không có trong dữ liệu đào tạo. Trong nghiên cứu đăng trên cơ sở dữ liệu arXiv tháng 12/2024, Ilievski cùng đồng nghiệp phát triển một chương trình máy tính tạo ra những câu đố chữ - câu đố kết hợp hình ảnh, ký hiệu và chữ cái để biểu đạt các từ hoặc cụm từ. Ví dụ, từ "step" viết nhỏ đặt cạnh hình vẽ 4 người nghĩa là "one small step for man" (một bước nhỏ với con người).
+
+Nhóm nghiên cứu sau đó đưa những câu đố chữ này cho nhiều mô hình AI khác nhau và cả con người. Đúng như dự đoán, con người đạt kết quả tốt với tỷ lệ chính xác 91,5% đối với các câu đố chữ sử dụng hình ảnh. AI đạt kết quả tốt nhất, GPT-4 của OpenAI, trả lời đúng 84,9% trong điều kiện tối ưu.
+
+Nghiên cứu đăng trên arXiv năm 2023 của Konstantine Arkoudas, từng làm giám đốc công nghệ tại Dyania Health, chia sự suy luận thành một số loại hữu ích. Nhóm nghiên cứu đã hỏi GPT-4 hàng loạt câu hỏi, câu đố và bài toán từ ngữ đại diện cho 21 loại suy luận khác nhau, bao gồm số học đơn giản, đếm, xử lý đồ thị, nghịch lý, suy luận không gian... Sau đây là một ví dụ dựa trên câu đố logic năm 1966 mang tên "nhiệm vụ lựa chọn Wason".
+
+"7 tấm thẻ đặt trên bàn, mỗi thẻ có số ở một mặt và màu ở mặt còn lại. Mặt của các tấm thẻ hiển thị 50, 16, đỏ, vàng, 23, xanh lá, 30. Phải lật những tấm thẻ nào để kiểm tra tính đúng đắn của mệnh đề: Nếu một tấm thẻ hiển thị bội số của 4 thì màu của mặt đối diện là vàng?"
+
+GPT-4 thất bại hoàn toàn khi trả lời rằng cần lật thẻ 50, 16, vàng và 30. Mệnh đề nói rằng các tấm thẻ chia hết cho 4 có màu vàng ở mặt bên kia, nhưng không nói chỉ những thẻ chia hết cho 4 mới màu vàng. Do đó, không quan trọng thẻ 50 và 30 có màu gì, hay số nào ở mặt sau của thẻ màu vàng. Thêm vào đó, theo logic của AI, đáng nhẽ phải kiểm tra cả thẻ số 23. Cuối cùng, câu trả lời đúng là lật thẻ 16, đỏ và xanh lá.
+
+AI cũng gặp khó khăn với một số câu đố thậm chí còn dễ hơn: "Giả sử tôi đang ở giữa Nam Dakota và nhìn thẳng về phía trung tâm Texas. Boston ở bên trái hay bên phải tôi?"
+
+Đây là một câu hỏi khó nếu không am hiểu địa lý Mỹ, nhưng rõ ràng GPT-4 rất quen thuộc với các bang. Nó hiểu rằng mình đang quay mặt về phía nam và biết Boston nằm ở phía đông Nam Dakota, nhưng vẫn đưa ra câu trả lời sai. GPT-4 không hiểu được sự khác biệt giữa trái và phải.
+
+AI cũng đoán sai phần lớn những câu hỏi khác. Do đó, Arkoudas kết luận rằng GPT-4 không thể suy luận.
+
+AI vẫn gặp khó khăn với logic cơ bản, dù có thể thắng trong một số câu hỏi kích hoạt điểm yếu trong trí não con người. Ảnh: Estudio Santa Rita
+
+Sự hợp tác có thể mang lại kết quả tối ưu
+
+AI đang ngày càng tiến bộ hơn. Tháng 9/2024, OpenAI tung ra bản thử trước của GPT-o1, mô hình mới được phát triển dành riêng cho những vấn đề khó hơn trong khoa học, mã hóa và toán học. Nó đã giải quyết được nhiệm vụ lựa chọn Wason, biết rằng cần nhìn sang trái để thấy Boston và dễ dàng khẳng định Mable vẫn còn sống vào buổi trưa.
+
+AI cũng đánh bại con người trong nhiều câu đố. Ví dụ, một bài kiểm tra đã yêu cầu một nhóm sinh viên Mỹ ước tính số vụ giết người ở Michigan năm ngoái, sau đó hỏi nhóm thứ hai cùng câu hỏi về Detroit. "Nhóm thứ hai đưa ra con số lớn hơn nhiều", Frederick cho biết. Thành phố Detroit nằm trong bang Michigan, nhưng nổi tiếng về các vấn đề bạo lực. Trong khi đó, AI đưa ra thông tin mà nó học được.
+
+Đó là lý do tại sao các hệ thống tốt nhất có thể đến từ sự kết hợp giữa AI và công việc của con người. Con người có thể khai thác thế mạnh của máy móc, theo Ilievski.
+
+Việc cải tiến AI có thể không giúp hé lộ cách hoạt động bí ẩn của trí óc, nhưng có thể cung cấp manh mối. "Chúng ta biết rằng não có các cấu trúc khác nhau liên quan đến những thứ như giá trị bộ nhớ, mô hình chuyển động, nhận thức giác quan. Và mọi người đang cố gắng tích hợp ngày càng nhiều cấu trúc vào các hệ thống AI. Việc hiểu não bộ rõ hơn có thể dẫn đến phát triển AI tốt hơn, đồng thời, việc hiểu AI rõ hơn cũng có thể giúp hiểu thêm về não bộ", Pitkow giải thích.
+
+Thu Thảo (Theo BBC)

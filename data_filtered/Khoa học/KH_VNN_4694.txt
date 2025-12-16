@@ -1,0 +1,43 @@
+Quan niệm tắt kết nối không dây để kéo dài pin xuất phát từ thời điểm Bluetooth và WiFi còn tiêu tốn năng lượng lớn. Khi bạn ghép nối thiết bị lần đầu, Bluetooth phải thực hiện “inquiry scan” để tìm thiết bị, khiến mức tiêu thụ điện cao hơn.
+
+Nhưng sau khi đã ghép nối, Bluetooth chuyển sang “page mode”, chỉ chờ thiết bị quen thuộc kết nối, gần như không gây hao pin đáng kể.
+
+Công nghệ Bluetooth 4 trở đi, đặc biệt là Bluetooth 5.3 trên smartphone hiện nay, khiến mức tiêu thụ chỉ còn 5-8% ngay cả khi đang nghe nhạc.
+
+Với các thiết bị Bluetooth Low Energy như smartwatch, mức hao giảm còn thấp hơn, chỉ khoảng 1-3% trong 24 giờ. Vì vậy, việc tắt Bluetooth khi không dùng gần như không tạo khác biệt trong việc tiết kiệm pin.
+
+Trên iPhone, khi Bluetooth bật nhưng không kết nối thiết bị nào, mức hao pin gần như bằng 0 vì chip chỉ ở trạng thái chờ và hầu như không tiêu thụ điện. Khi Bluetooth kết nối với thiết bị rảnh tay, mức tiêu thụ chỉ khoảng 2.5 mW.
+
+Để dễ hình dung, viên pin iPhone 8 có dung lượng khoảng 6900 mWh; nếu Bluetooth là yếu tố duy nhất tiêu thụ điện, pin sẽ mất đến gần 2.800 giờ (khoảng 3 tháng) mới cạn.
+
+Ngay cả với thiết bị yêu cầu công suất cao hơn, tối đa khoảng 10 mW, Bluetooth vẫn không thể là nguyên nhân khiến điện thoại hao pin nhanh.
+
+Do đó, nếu thời lượng pin không như mong đợi, nguyên nhân chắc chắn không đến từ Wi-Fi hay Bluetooth.
+
+Ở góc độ Wi-Fi, mọi chuyện thú vị hơn. Wi-Fi được thiết kế để duy trì kết nối ổn định nhất. Ở khu vực có sóng yếu, điện thoại liên tục chuyển đổi giữa 4G và 5G khiến pin bị tiêu hao mạnh.
+
+Khi bật Wi-Fi, một kết nối ổn định giúp thiết bị không phải “bóng bàn” giữa các chuẩn mạng, từ đó có thể tiết kiệm pin hơn trong điều kiện sóng di động yếu.
+
+Thêm vào đó, hệ điều hành hiện đại hạn chế tần suất ứng dụng quét Wi-Fi. Android 9 giới hạn mỗi ứng dụng nền chỉ được quét một lần mỗi 30 phút, khiến mức tiêu hao gần như không đáng kể.
+
+Theo một bài viết trên website cộng đồng của Apple, trên iPhone và iPad, Wi-Fi sẽ tự tắt khi thiết bị ở chế độ ngủ, trừ khi đang cắm sạc, nghĩa là việc người dùng tắt Wi-Fi thủ công gần như không mang lại lợi ích gì.
+
+Khi không kết nối mạng, Wi-Fi chỉ quét mạng mỗi 15 giây, nhưng đây là hoạt động chỉ dùng bộ thu với mức tiêu thụ chưa tới 1 mW, thấp đến mức không thể đo được.
+
+Khi Wi-Fi được kết nối, mức tiêu hao cũng rất nhỏ. Wi-Fi dùng khoảng 30 mW, bất kể có truyền tải dữ liệu hay không. Trong khi đó, dữ liệu di động tiêu thụ từ 50 đến 500 mW tùy cường độ sóng.
+
+Điều này cho thấy trong mọi trường hợp sử dụng, kết nối Wi-Fi vẫn tiết kiệm pin hơn 4G hay 5G, nhất là khi thiết bị truyền tải dữ liệu liên tục.
+
+Vì vậy, tắt Wi-Fi không chỉ không tiết kiệm pin mà còn có thể khiến thiết bị phải dùng mạng di động tốn năng lượng hơn.
+
+Tắt Bluetooth và Wi-Fi không thực sự tiết kiệm pin như lời đồn. Ảnh: memon
+
+Điều thực sự giúp kéo dài thời lượng pin đến từ việc bật “low power mode”, giảm độ sáng màn hình hoặc hạn chế chạy nền. Đây mới là những hành động mang lại hiệu quả thực sự, đặc biệt trong các tình huống cần tối ưu thời gian sử dụng.
+
+Tắt Wi-Fi và Bluetooth, xét về năng lượng, mang lại lợi ích rất nhỏ, thậm chí Wi-Fi còn có thể giúp tiết kiệm pin trong vùng sóng yếu.
+
+Tuy nhiên, bài toán bảo mật lại là câu chuyện khác. Dù không giúp tiết kiệm pin nhiều, việc tắt Bluetooth và Wi-Fi khi không sử dụng có thể giảm rủi ro bị dò tìm thiết bị, khai thác lỗ hổng hoặc theo dõi.
+
+Do đó, lời khuyên hợp lý nhất là: nếu muốn tối ưu pin, hãy tập trung vào quản lý ứng dụng, độ sáng và chế độ tiết kiệm điện; còn nếu ưu tiên an toàn thông tin, hãy tắt Bluetooth và Wi-Fi khi không cần đến.
+
+(Theo thetechieguy, Apple Support)

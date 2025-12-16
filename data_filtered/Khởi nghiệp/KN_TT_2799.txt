@@ -1,0 +1,15 @@
+Các bạn sinh viên Việt Nam trình bày về dự án tại cuộc thi Tech4Good - Ảnh: NGUYỄN HƯƠNG
+
+Đội Việt Nam với sự tham gia của 6 sinh viên đến từ 4 trường đại học hàng đầu tại Việt Nam, gồm: Mai Thị Phượng, Nguyễn Thị Thu Trang và Đinh Hoàng Anh (Học viện Công nghệ Bưu chính viễn thông); Phạm Quỳnh Trang (Trường đại học VinUni); Cao Sỹ Dương (Đại học Bách Khoa Hà Nội), và Trần Đăng Nam (Trường đại học Giao thông vận tải TP.HCM).
+
+Dự án SkyNet được phát triển dựa trên việc ứng dụng máy bay không người lái (drone), radar khẩu độ tổng hợp (SAR) và công nghệ AI cho phép hỗ trợ tìm kiếm và giải cứu người bị nạn ở vùng ngập lụt nhanh hơn và thông minh hơn.
+
+Dự án được phát triển với tiêu chí: thu ảnh ở độ phân giải cao, phát sóng dữ liệu di động ổn định và báo cáo dữ liệu theo thời gian thực. Chi phí phát triển SkyNet cũng được tính toán tối ưu để mang lại lợi ích kinh tế, đa dạng kịch bản ứng dụng khi thương mại hóa ra thị trường.
+
+Tại vòng thi Tech4Good khu vực châu Á - Thái Bình Dương, 6 sinh viên Việt Nam thi đấu năng lực với 24 đội thi quy tụ nhiều tài năng công nghệ xuất sắc đến từ 24 quốc gia khác trong khu vực.
+
+Trải qua 2 vòng thi liên tiếp, đội Việt Nam đã chiến thắng thuyết phục với dự án SkyNet giàu tính ứng dụng và bài trình bày ấn tượng, dựa trên bối cảnh thực tiễn về siêu bão Yagi vừa gây thiệt hại kinh tế Việt Nam 2 tỉ USD (0,5% GDP).
+
+Trước đó, để được tham gia cuộc thi Tech4Good khu vực châu Á - Thái Bình Dương, các bạn sinh viên đã phải vượt qua 2 vòng thi của chương trình “Hạt giống cho tương lai - Seeds for the future 2024”. Đầu tiên là vòng sơ loại với sự tham gia của hơn 400 sinh viên, sau đó là học tập và tranh tài với 40 bạn sinh viên tài năng để đạt số điểm học tập cao nhất và đủ điều kiện thi đấu quốc tế.
+
+Cuộc thi về dự án khởi nghiệp Tech4Good Tech4Good là cuộc thi về dự án khởi nghiệp được Công ty Huawei tổ chức, nhằm hướng tới mục tiêu nâng cao nhận thức của sinh viên về các thách thức đối với sự phát triển bền vững của địa phương, cùng với việc nắm bắt xu hướng số hóa mới nhất, từ đó phát triển các giải pháp khả thi cả về mặt kỹ thuật và thương mại, giải quyết các vấn đề xã hội. Với thành tích xứng đáng nêu trên, các sinh viên Việt Nam còn nhận được cơ hội tài trợ khởi nghiệp, tham gia chuyến trải nghiệm đến Trung Quốc và tham dự những cuộc thảo luận “1:1” với các lãnh đạo Huawei.

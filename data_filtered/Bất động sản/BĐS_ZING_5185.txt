@@ -1,0 +1,18 @@
+
+Ứng dụng VNeID đã bổ sung tính năng cho phép người dân nộp thông tin sổ đỏ trực tuyến cho cơ quan Nhà nước, nhằm phục vụ chiến dịch 90 ngày làm sạch dữ liệu đất đai trên toàn quốc.
+
+Tại bản cập nhật mới nhất, ứng dụng VNeID cho phép người dân nộp sổ đỏ trực tuyến cho cơ quan Nhà nước.
+
+Cụ thể, với tài khoản định danh mức độ 2, người dùng truy cập ứng dụng và chọn mục "Cung cấp thông tin cho cơ quan Nhà nước" trong phần tìm kiếm. Tại đây, ứng dụng nêu rõ việc chia sẻ thông tin này nhằm phục vụ công tác xác minh, kiểm tra, đối chiếu và xử lý dữ liệu của các cơ quan có thẩm quyền.
+
+Sau đó, người dân chọn "Tạo mới", rồi chọn loại thông tin là "Giấy chứng nhận quyền sử dụng đất". Toàn bộ dữ liệu kê khai sẽ được gửi đến Bộ Tài nguyên và Môi trường.
+
+Về nội dung kê khai, người dùng cần điền họ tên, số định danh cá nhân; trường hợp kê khai hộ phải bổ sung tên người được cấp giấy chứng nhận và lý do thực hiện thay. Các thông tin bắt buộc liên quan đến sổ đỏ gồm số hiệu giấy chứng nhận, địa chỉ thửa đất và hình ảnh, tài liệu đính kèm.
+
+Hoàn tất các bước, người dân xác nhận tính chính xác của thông tin và gửi yêu cầu.
+
+Việc nộp sổ đỏ trực tuyến nằm trong chiến dịch 90 ngày rà soát, làm sạch toàn bộ cơ sở dữ liệu đất đai được Bộ Nông nghiệp và Môi trường, Bộ Công an và UBND các tỉnh, thành phố triển khai từ ngày 1/9 đến 30/11.
+
+Cơ quan chức năng sẽ xác thực thông tin của chủ sử dụng đất, chủ sở hữu nhà ở trên cơ sở dữ liệu hiện có với Cơ sở dữ liệu quốc gia về dân cư; rà soát, cập nhật, chỉnh lý, nhập bổ sung thông tin còn thiếu của các thửa đất, thông tin về thẻ căn cước/căn cước công dân của chủ sử dụng đất, chủ sở hữu tài sản vào cơ sở dữ liệu đất đai.
+
+Bộ Nông nghiệp và Môi trường cho biết sẽ đồng bộ cơ sở dữ liệu đất đai của 34 tỉnh, thành phố tập trung, thống nhất về Cơ sở dữ liệu quốc gia về đất đai tại trung ương và kết nối, chia sẻ với Cơ sở dữ liệu quốc gia về dân cư, các bộ, ngành, địa phương, các cơ quan Đảng, Quốc hội, Chính phủ, MTTQ Việt Nam, TAND, VKSND, các tổ chức chính trị - xã hội.

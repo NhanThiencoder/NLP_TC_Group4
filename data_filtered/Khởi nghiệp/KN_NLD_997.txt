@@ -1,0 +1,41 @@
+Tôi là Lâm Trần. Vài tháng trước, startup của tôi đã nhận được sự hỗ trợ từ vườn ươm tăng tốc khởi nghiệp Viisa (Vietnam Innovative Startup Accelerator). Tôi nhắm đến mục tiêu sẽ đưa startup hoạt động trên phạm vi toàn cầu, tuy nhiên việc này rất khó vì thực tế ở Việt Nam, cũng chưa có startup nào làm được. Tôi vẫn đang vật lộn với việc xây dựng quy trình từng ngày. Và tôi nghĩ mình nên chia sẻ câu chuyện cũng như quan điểm cá nhân về vấn đề tại sao Việt Nam chưa có startup nào thành công trong việc tăng quy mô lên mức toàn cầu.
+
+Trước hết tôi muốn làm rõ khái niệm startup toàn cầu là gì?
+
+Theo tôi, đây là một công ty đã hoạt động tại hơn 15 quốc gia trên thế giới với doanh thu hàng năm lớn hơn 1 tỷ USD. Nhiều người sẽ nghĩ đến Flappy Bird hoặc VNG nhưng tôi không cho là như vậy.
+
+Flappy Bird là một cơn lốc nhưng nó không tồn tại lâu. Trò chơi này được tải về và phổ biến tại hơn 15 quốc gia nhưng cũng không có thông tin nào cho thấy nó mang về cho Nguyễn Hà Đông 1 tỷ USD doanh thu.
+
+VNG là một câu chuyện thành công của Việt Nam. Tuy nhiên đến nay, họ vẫn chưa ra mắt một sản phẩm nào ở phạm vi toàn cầu. Bản thân công ty cũng không kiếm được 1 tỷ USD doanh thu mỗi năm và có vẻ như họ đang đi khá xa mục tiêu này.
+
+Sau khi đã trình bày xong về trường hợp của Flappy Bird và VNG, tôi xin đưa ra một vài lý do khiến các startup Việt Nam khó đạt tới phạm vi toàn cầu.
+
+Lý do 1: Tư duy
+
+Ở Việt Nam, chúng ta hiếm thấy các ý tưởng mang tính cách mạng. Phần lớn mọi người thường nhìn vào những mô hình đã thành công ở nước ngoài và tìm cách địa phương hóa để mang về Việt Nam. Tuy nhiên, các ý tưởng này hiếm khi đem lại hàng tỷ USD vì bản chất thị trường trong nước quả nhỏ.
+
+Cũng có một số doanh nhân nghĩ đến việc xây dựng startup mang tầm khu vực, nhưng họ chưa dám vượt ra khỏi phạm vi Đông Nam Á, vì chỉ riêng việc mở rộng hoạt động tại Thái Lan, Malaysia, Indonesia, Singapore hay Philippines đã rất phức tạp.
+
+Một số rất ít thì nghĩ đến Hàn Quốc, Nhật Bản, Hồng Kông và Đài Loan; còn với người hàng xóm Trung Quốc, tốt nhất hãy chờ đến khi Elon Musk thành lập một đế chế riêng trên sao Hỏa.
+
+Lý do 2: Hệ sinh thái
+
+Dù tốt hay xấu, hầu hết tất cả những nhà đầu tư tôi đã gặp đều khuyên tôi nên thành lập công ty ở Singapore hoặc Hong Kong. Nguyên nhân là do một số quy định hành chính gây cản trở, khiến nhà đầu tư cảm thấy rủi ro và không muốn rót tiền vào startup ở Việt Nam.
+
+Mặc dù mức độ tăng trưởng GDP của Việt Nam khá hấp dẫn, nhưng vẫn chưa có khung pháp lý để giảm bớt sự lo ngại này. Phần lớn dòng tiền chảy vào Singapore và các startup trong nước cũng phải sang đây để ký kết một số hợp đồng đầu tư.
+
+Nếu thủ tục mở một doanh nghiệp mới tại Việt Nam dễ dàng như ở Singapore, việc rút tiền ra khỏi lãnh thổ Việt Nam cũng không khó khăn và doanh nghiệp có thể sử dụng hóa đơn điện tử thì dòng tiền đổ về Việt Nam có lẽ sẽ nhiều hơn.
+
+Không ít lần mọi người nói với tôi rằng thật tuyệt vời khi bắt đầu sự nghiệp tại Việt Nam. Ở đây có nguồn nhân lực công nghệ thông tin giá rẻ nếu so với San Francisco. Điều này đúng nhưng không thể đảm bảo chúng ta có thể xây dựng những đế chế tỷ USD. Bên cạnh yếu tố chi phí, cần tính đến những vấn đề khác như năng suất lao động, kinh nghiệm, ngoại ngữ...
+
+Ngoài ra hiện nay, thật khó cho các lập trình viên trong nước tìm được một công việc thực sự thú vị. Những người ưu tú có xu hướng dịch chuyển sang các quốc gia khác như Singapore hay Hoa Kỳ, nơi họ có thể nhận được mức lương tốt hơn. Vì vậy rất ít công ty Việt Nam giữ được nhân tài ở lại.
+
+Lý do 3: Tính quốc tế hóa
+
+Mở rộng hoạt động sang các nước khác đồng nghĩa với việc startup phải đối mặt với rất nhiều thách thức (giao tiếp, văn hoá, tiền tệ, chênh lệch múi giờ,...) và nếu chỉ đi một mình, startup hiếm khi được chuẩn bị tốt để vượt qua. Đây cũng là vấn đề về mạng lưới quan hệ, thông tin địa phương và các chiến lược, chiến thuật. Hiện không có khuôn khổ nào trợ giúp cho các startup mở rộng trên phạm vi 15 quốc gia trở lên và không có đủ người hướng dẫn (mentor) để sát cánh cùng những người sáng lập đi qua từng giai đoạn phát triển.
+
+Hãy thành thật với nhau, có startup tiên phong nào đang làm tốt việc mở rộng trên 15 quốc gia không? Thực tế là không.
+
+Có nhà đầu tư nào sẵn sàng trợ giúp startup để phát triển trên quy mô toàn cầu? Cũng không luôn. Nguyên nhân là do ở giai đoạn cuối cùng giúp startup thu hồi vốn (exit), các quỹ đầu tư thường nghĩ đến giải pháp đơn giản là bán lại vì thực tế, hoạt động IPO thường không diễn ra hoặc rất ít khi diễn ra.
+
+Trên đây là những chia sẻ của tôi, hãy cho tôi biết bạn nghĩ gì về điều này?

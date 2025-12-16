@@ -1,0 +1,14 @@
+ Xuất hiện chương trình mã độc tấn công Internet Explorer
+
+Chương trình mã độc này đã xuất hiện trên mạng trong ngày thứ hai 21-11, nó chuyên tấn công vào một lỗi bảo mật thuộc dạng “cực kỳ nghiêm trọng” nằm trong Internet Explorer 5.5 và 6.0. Lỗi bảo mật nói trên hiện chỉ hoạt động được trên các bản Internet Explorer 5.5 và 6.0 chạy trên nền Windows XP Service Pack 2 và Windows 2000 SP4. 
+
+Thomas Kristensen, giám đốc kỹ thuật của công ty bảo mật Secunia cho biết rằng ngay khi người dùng vô tình ghé thăm một trang web nào đó có cài sẵn chương trình mã độc này, thì nó sẽ lập tức tự động nhảy vào máy tính và tự động kích hoạt khai thác lỗi bảo mật, nhằm tạo lỗ hổng cho hacker tung mã độc vào máy tính để chiếm đoạt hệ thống từ xa. 
+
+Trung tâm nghiên cứu Internet SANS cho biết rằng lỗi bảo mật nghiêm trọng này xuất hiện trong một thành phần Javascript của Internet Explorer chuyên dùng để tải các trang web về máy tính. Điều đáng tiếc là đến nay Microsoft vẫn chưa cho ra đời bản vá lại lỗi bảo mật nói trên dù rằng lỗi bảo mật này đã được phát hiện ra cách đây hơn 6 tháng. 
+
+Các chuyên gia bảo mật cho biết rằng lỗi bảo mật này chỉ phù hợp cho các cuộc xâm nhập bằng kỳ thuật tấn công từ chối dịch vụ, nhưng việc hiện nay đã xuất hiện một chương trình mã độc có khả năng tự động khai thác lỗi để tấn công là một điều khá ngạc nhiên, chứng tỏ trình độ vượt bậc của cao thủ hacker tạo nên chương trình này. 
+
+Đại diện của Microsoft đã không bình luận gì sự kiện trên nhưng cho biết rằng Microsoft đang tích cực điều tra về chương trình mã độc này, và nếu nó thực sự đe dọa đến người dùng thì Microsoft sẽ tung ra bản vá phù hợp trong đợt vá lỗi cuối cùng của năm 2005. 
+
+
+

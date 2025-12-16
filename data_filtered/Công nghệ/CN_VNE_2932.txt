@@ -1,0 +1,15 @@
+Sử dụng VB.Net (1)
+
+
+trần thiện phương
+
+Hồi âm:
+
+The nay nhe, de lam duoc em phai thuc hien may buoc sau:
+
+May phai cai IIS Cai bo .Net (with SDK) Roi vao mo VB.Net chang han, chon File-New-NewProject& 
+
+Noi thi kho hieu. Neu thuc su quan tam thi phone cho anh theo so 0913539374. 
+
+
+

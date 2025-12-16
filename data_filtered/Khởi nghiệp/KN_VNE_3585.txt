@@ -1,0 +1,37 @@
+Nguyễn Tuấn Dũng, người sáng lập công ty HiveBotics phát triển thành công robot dọn vệ sinh thay thế hoàn toàn con người.
+
+HiveBotics có trụ sở tại LaunchPad@one-north của Singapore, do JTC, cơ quan thuộc chính phủ nước này quản lý. Đây là một trong những công ty khởi nghiệp đang phát triển được ươm tạo từ Trường Đại học Quốc gia Singapore (NUS).
+
+Dũng kể, năm 2019 khi Covid-19 hoành hành, ở Singapore thiếu nhân lực lao công trầm trọng, cậu và một người bạn cùng học ở NUS nghĩ đến việc phát triển robot dọn vệ sinh có tên Abluo. Robot có thể thay thế các công việc dọn dẹp như chà, lau, làm khô nhà vệ sinh thông qua hệ thống tự động tất cả trong một.
+
+Tuấn Dũng giới thiệu về sản phẩm robot Abluo. Ảnh: Phương Nguyên
+
+Vốn là một kỹ sư máy chuyên về động cơ robot, nhiệm vụ của Dũng là phải thiết kế các công việc cần làm để robot vận hành. Tức là về mặt kỹ thuật máy sẽ phải hiểu công việc của nó sẽ phải làm gồm những gì. Để hiểu được các công đoạn, Dũng xin đi dọn vệ sinh ở trường đại học, khách sạn, khu mua sắm, học cách một người lao công làm những gì. Từ đó Dũng tạo ra một robot làm đúng những công việc đó.
+
+Với robot, Dũng làm chính phần thiết kế máy móc, động cơ và viết một số phần mềm. Người bạn là kỹ sư máy tính phụ trách làm chuyên sâu về phần mềm cho Abluo. Sau hai năm, phiên bản hoàn chỉnh của Robot Abluo ra đời và đến 2022 Dũng được tư vấn thành lập công ty HiveBotics, đưa sản phẩm ra thị trường.
+
+Kỹ sư Việt đi dọn vệ sinh lấy kinh nghiệm dạy robot làm việc Robot thử nghiệm dọn vệ sinh. Video: HiveBotics
+
+Dũng cho biết, trên thế giới có một công ty khởi nghiệp khác ở Mỹ đang làm sản phẩm tương tự. Nhưng Dũng tự tin nếu bắt kịp HiveBotics cần phải mất 2 năm. Trong vòng 2 năm đó HiveBotics sẽ vượt lên. Quan trọng hơn robot Abluo đang nổi trội về công nghệ và chất lượng dọn dẹp.
+
+"Abluo sử dụng tia UV để phát hiện xem vết bẩn, dùng hơi nóng và cọ nên rất sạch", Dũng nói và cho biết hiện đã đăng ký bản quyền quốc tế trên 30 - 40 nước khác nhau và cũng có nhiều bản quyền cho các chi tiết nhỏ của thiết bị đã nộp đơn đăng ký. Hiện Mỹ và châu Âu quan tâm, đang mời nhóm đưa sản phẩm sang trình diễn. HiveBotics sẽ có mặt tại Thung lũng Silicon từ 24/11 đến 10/12 trong chương trình tăng tốc khởi nghiệp (accelerator) của GIA.
+
+Chia sẻ về con đường khởi nghiệp, Dũng cho biết năm 2014 khi đang học lớp 9 tại Amstecdam (Hà Nội), được học bổng nhà nghiên cứu trẻ của A*Star - Cơ quan Khoa học, Công nghệ và Nghiên cứu của chính phủ Singapore. Sau đó em được học bổng tiếp lên Đại học Quốc gia Singapore. Tại đây Dũng bắt đầu nghiên cứu và được hỗ trợ phát triển sản phẩm, ươm tạo thành công ty khởi nghiệp.
+
+Dũng cho biết, Chính phủ Singapore hỗ trợ các công ty khởi nghiệp giống như HiveBotics thông qua JTC LaunchPad@one-north. Tại đây, các startup được khai thác toàn bộ hệ sinh thái khởi nghiệp gồm văn phòng làm việc, nhà ở, khu thể thao, phòng thử nghiệm thiết bị... cho đến khi sản phẩm ra thị trường. Sản phẩm robot sẽ bán trước ở Singapore, sau đó là Mỹ, Canada. "Tôi mong muốn khi sản phẩm hoàn thiện sẽ đầu tư nhà máy ở Việt Nam để sản xuất thay vì bán sản phẩm", Dũng nói và cho biết dự kiến cuối năm 2024 sẽ tìm kiếm đối tác.
+
+Khuôn viên gồm toàn bộ hệ sinh thái khởi nghiệp tại JTC. Ảnh: Phương Nguyên
+
+Trên diện tích 56.000 m2 của JTC, hàng trăm công ty khởi nghiệp như của Dũng đang hoạt động. Theo báo cáo của cơ quan hỗ trợ doanh nghiệp Enterprise Singapore hiện nước này có khoảng 4.500 dự án khởi nghiệp, trong đó có 25 "kỳ lân". SEA, Grab, Razer, Bigo... Đây là những công ty tỷ USD có xuất xứ từ Singapore, dù nhà sáng lập đều là người từ quốc gia khác đến.
+
+Phó thủ tướng Singapore - Heng Swee Keat cho biết, Enterprise Singapore, Temasek Foundation và các tổ chức trong hệ sinh thái cùng nhau hợp tác để cung cấp nền tảng cho những người tham gia đổi mới sáng tạo hướng đến mục tiêu đưa các giải pháp ra thị trường lớn với các đối tác toàn cầu. "Chúng tôi tìm cách phát triển hệ sinh thái của mình ở cấp độ toàn cầu, để xây dựng kết nối toàn cầu", ông nói trong phát khai mạc tại Tuần lễ Đổi mới và Công nghệ Singapore (SWITCH 2023) vừa diễn ra hôm 31/10.
+
+Kỹ sư Việt đi dọn vệ sinh lấy kinh nghiệm dạy robot làm việc Trung tâm JTC LaunchPad@One-North. Video: LaunchPad
+
+Chia sẻ với báo chí Đông Nam Á bên lề SWITCH 2023, ông Gan Kim Yong, Bộ trưởng Thương mại và Công nghiệp Singapore, cho biết họ định vị trở thành trung tâm khởi nghiệp của khu vực. Lý do Singapore có lợi thế về khả năng kết nối, trở thành nơi các quỹ tìm đến khi muốn đầu tư và các nhà khởi nghiệp chọn khi cần tìm nguồn hỗ trợ tài chính, từ đó thu hút được startup.
+
+Giải pháp được đưa ra là cơ chế SandBox, cho phép các dự án thử nghiệm hoạt động trong khuôn khổ pháp lý nhất định, sau đó linh hoạt điều chỉnh dựa trên sự phát triển của dự án đó. Đây cũng là điểm thu hút nhiều nhà sáng lập Việt Nam, như Tuấn Dũng, chọn Singapore làm nơi khởi nghiệp dự án. Cho dù sản phẩm đang trong quá trình phát triển vẫn được thử nghiệm ở bệnh viện, sân bay, trường học... giúp tác giả hoàn thiện sản phẩm sớm đưa ra thị trường.
+
+Theo ông Gan Kim Yong, để có nhiều startup thành công Chính phủ nước này dành một khoản kinh phí hỗ trợ được gọi là "đầu tư rủi ro". Cần tìm cách hỗ trợ nỗ lực nghiên cứu và phát triển (R&D), đồng thời có hệ thống để nắm bắt giá trị của nỗ lực này ngay cả khi bản thân dự án không thành công. Khi nắm bắt được giá trị của những kiến thức, ở dự án tiếp theo sẽ có cơ hội cao hơn. "Đây là một số cách tiếp cận để hỗ trợ hệ sinh thái khởi nghiệp. Phải cởi mở với tài năng, ý tưởng và phát triển một hệ sinh thái có lợi tận dụng được sức mạnh tổng hợp", ông nói khi được hỏi về gợi ý giải pháp cho Việt Nam.
+
+Phương Nguyên

@@ -1,0 +1,26 @@
+ Những trò lừa đảo của spyware trong năm 2005
+
+Chín cách này cũng là những phương pháp gắn liền với những sự kiện khá nổi đình nổi đám trong năm nay liên quan tới những anh chàng "gián điệp" ảo này. 
+
+1. Spyware lan tỏa dựa vào lỗ hổng tìm thấy được của các chương trình được nhiều người sử dụng ví dụ như Windows Media Players (xảy ra vào tháng 1 năm 2005, đã được Microsoft vá). 
+
+2. Spyware che giấu việc nó được cài đặt bằng cách sử dụng Rootkit (là một công cụ do hacker viết ra nhằm mục đích thoát khỏi các công cụ kiểm định được cài đặt trên máy), đương nhiên, nếu bạn đã “vũ trang tận răng” và cẩn thận trong thao tác trên màn hình thì cũng không có gì đáng lo với nó. Có thể ví dụ là 2 chương trình Enternet Media's Elitetoolbar và ContextPlus' Apropos và PeopleonPage . 
+
+3. Một đoạn mã viết bằng Java có thể nhiễm vào IE nếu một máy xài cả hai hệ điều hành đồng thời là FireFox và IE. Lỗi này cũng đã được vá. 
+
+4. Những chương trình Spam, Adware, Keyloggers, nối đến những website quảng cáo, những website có nội dung đồi trụy “hạng nặng”. Nếu bạn lỡ bị nhiễm chúng cũng rất phiền phức. Có thể lấy ví dụ như 180solutions, Direct Revenue, SurfSidekick, BullsEye Network và ShopAtHomeSelect. 
+
+5. Các chương trình spyware lây nhiễm qua các chương trình “chat”. Bạn có thể tham khảo danh sách tại các trang web của SunbeltBLOG và Spyware Warrior . Đặc điểm của các chương trình này là phát tán quảng cáo liên tục, thông qua IRC. 
+
+6. Các chương trình chống spyware được cài đặt bởi Trojan và Spyware khác có thể lấy ví dụ như PSGuard, Razespyware, SpySheriff, Spy Trooper, WorldAntiSpy và gần đây nhất là SpyAxe mà chúng tôi đã có đề cập với bạn. Đây là các chương trình chống spyware thuộc loại lừa đảo . 
+
+7. Những “lợi tức” từ những quảng cáo bạn bị nhiễm khi sử dụng Bit Torrent và Aurora . Đây là những dịch vụ có sức thu hút rất lớn trên mạng, kèm theo là những spyware như là những “lợi tức” mà bạn phải ôm vào. 
+
+8. Các sâu AIM mang theo những công cụ giúp cho việc đột nhập của các cuộc tấn công có nguồn gốc phần lớn từ Trung Đông. 
+
+9. Và chuyện nổi đình đám nhất có lẽ là việc Sony phải thu hồi hơn 2.1 triệu đĩa nhạc của mình do đĩa nhạc có cài các DRM theo dõi khách hàng một cách không được phép. Cách lây nhiễm này có thể nói là tinh nhuệ và chính quy. 
+
+Nói cho cùng, spyware không phải dễ bị nhiễm. Nếu bạn là một người thận trọng trong sử dụng máy tính, cẩn thận cài đặt các chương trình bảo vệ, trước khi bất kỳ spyware nào cài đặt đều có các dấu hiệu báo trước và bạn đều có thể phòng tránh được. Một hy vọng thứ hai là công nghệ chống Virus mới Rudra vừa mới chào đời ở Ấn Độ. 
+
+
+

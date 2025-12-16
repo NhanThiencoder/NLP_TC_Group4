@@ -1,0 +1,27 @@
+Tại Việt Nam, chỉ có 2% là doanh nghiệp lớn, còn lại tới 98% là doanh nghiệp vừa và nhỏ. Chênh lệch về nhận thức an toàn thông tin mạng của hai nhóm này cũng “khác nhau một trời một vực”, theo ông Phạm Tiến Mạnh - CEO Công ty Hòa bình không gian mạng (CyPeace).
+
+Trong khi đó, trí tuệ nhân tạo (AI) đang thay đổi toàn bộ cách thức tấn công và phòng thủ trên không gian mạng, đòi hỏi những biện pháp ứng phó kiểu mới. Nếu một mắt xích trong nền kinh tế bị tấn công, có thể dẫn đến hệ lụy dây chuyền và hậu quả khôn lường.
+
+Các diễn giả tham gia tọa đàm "Phát triển năng lực và hợp tác liên ngành an ninh mạng". Ảnh: BTC
+
+Có mặt tại tọa đàm "Phát triển năng lực và hợp tác liên ngành an ninh mạng" chiều 26/10, ông Phạm Tiến Mạnh nêu thực tế vẫn còn nhiều doanh nghiệp SME xem đầu tư cho bảo mật là gánh nặng khi phải bỏ thêm chi phí cho trang thiết bị, chuyên gia. Thậm chí, chỉ một yêu cầu nhỏ như đổi mật khẩu, họ cũng thấy phức tạp và phiền phức. Ngược lại, những doanh nghiệp lớn lại có nhận thức sâu sắc về an toàn thông tin và đầu tư rất mạnh mẽ.
+
+Do đó, ông kiến nghị cơ quan quản lý có chính sách ưu đãi thuế, tài chính khuyến khích SME đầu tư bảo mật; đồng thời, các công ty cung cấp giải pháp an ninh nên nghiên cứu sản phẩm phù hợp, tiết kiệm cho nhóm này. Ngoài ra, bản thân doanh nghiệp cũng cần tự nâng cao nhận thức và đầu tư đúng hướng.
+
+FPT Smart Cloud là một ví dụ điển hình cho những gì ông Mạnh chia sẻ. Theo ông Đặng Hải Sơn, Trưởng phòng Offensive Security, FPT Smart Cloud, công ty vừa làm sản phẩm, vừa có dịch vụ cloud và AI nên nhận thức rõ nếu một sản phẩm bị lạm dụng hoặc tấn công, thiệt hại sẽ ảnh hưởng đến cả doanh nghiệp và người sử dụng.
+
+Vì vậy, bộ phận của ông luôn phải chủ động tổ chức những chiến dịch kiểm thử, nghĩ ra các hướng tấn công mới trước khi hacker ra tay để không bị động. Đó là nhiệm vụ bảo vệ hệ sinh thái FPT Smart Cloud.
+
+Từ góc độ của một doanh nghiệp lớn khác, ông Nguyễn Quang Hoàng – Giám đốc An ninh thông tin MISA – chỉ ra để đưa an ninh mạng thành văn hóa nội bộ, cần đến bốn yếu tố. Đó là ý chí của lãnh đạo, xuyên suốt từ trên xuống dưới; đào tạo nâng cao nhận thức cho nhân viên, khách hàng; xây dựng văn hóa tích hợp an ninh vào toàn bộ quá trình phát triển sản phẩm (DevSecOps); thường xuyên diễn tập để không lúng túng khi sự cố xảy ra.
+
+Đại diện MISA nhận xét, khi mối đe dọa an ninh mạng ngày càng phức tạp, lời giải nằm ở chính con người. Không một tổ chức, cá nhân đơn lẻ nào có thể an toàn trên không gian mạng. Do đó, cần có sự phối hợp giữa các bộ, ngành, đơn vị, tổ chức.
+
+Dẫn ví dụ về Liên minh tập trận an toàn thông tin CYSEEX do MISA khởi xướng với sự tham gia của 7 doanh nghiệp, ông Hoàng cho biết thời gian phát hiện và phản ứng khi có sự cố của công ty đã giảm tới 30-40% nhờ cơ chế chia sẻ tình báo về các mối đe dọa (Threat Intelligence).
+
+Ông ví sự liên kết giữa doanh nghiệp lớn và nhỏ với “miễn dịch cộng đồng” trong y học. Tương tự như việc tiêm chủng giúp ngăn chặn dịch bệnh lây lan, việc chia sẻ dữ liệu tấn công, cảnh báo sớm và cùng nhau diễn tập giúp cộng đồng doanh nghiệp sinh ra “kháng thể”. “Khi các đơn vị phối hợp, năng lực phát hiện sớm, ứng phó và phòng ngừa được nâng lên tầm mới”, ông Hoàng chia sẻ.
+
+Đồng tình với quan điểm này, ông Nguyễn Mạnh Luật - CEO CyberJutsu Academy - nhấn mạnh cần “phòng bệnh hơn chữa bệnh”, không thể đợi đến khi sự cố xảy ra mới tính đến kế hoạch tiếp theo.
+
+“Dù có bao nhiêu công nghệ phòng thủ, cuối cùng hacker luôn là người thông minh hơn. Vì thế, chúng ta cần tạo ‘miễn dịch cộng đồng’ từ sớm”, ông nói. Ông đề xuất giáo dục an ninh mạng từ khối phổ thông và quan trọng hơn cần lặp đi lặp lại để hình thành tư duy, từ đó hình thành thành vi và tạo ra thói quen.
+
+“Từ việc đặt mật khẩu phức tạp hơn, cẩn thận hơn, xác thực đa lớp, nó sẽ trở thành thói quen và chúng ta có được miễn dịch cộng đồng mạnh mẽ hơn”, chuyên gia với kinh nghiệm đào tạo hơn 1.000 kỹ sư chia sẻ.

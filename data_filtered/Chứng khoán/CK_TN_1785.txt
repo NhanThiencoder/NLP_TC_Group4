@@ -1,0 +1,39 @@
+Trước đó, cũng cần nhắc lại một số sự cố gây phẫn nộ giới đầu tư năm 2021. Liên tiếp nhiều ngày, bảng giao dịch của HOSE bị tắc lệnh, nghẽn giao dịch vì hệ thống quá tải. Hậu quả, rất nhiều nhà đầu tư chịu thiệt hại nặng nề; thị trường chứng khoán Việt Nam bị hạ tín nhiệm khi xếp hạng mới nổi; nhà đầu tư nước ngoài lo sợ rút vốn.
+
+tp
+
+Sự cố này có lẽ đã không xảy ra nếu gói thầu "Thiết kế, giải pháp, cung cấp lắp đặt và chuyển giao hệ thống công nghệ thông tin" (gọi tắt gói thầu KRX) trị giá hơn 600 tỉ đồng (khoảng 28,6 triệu USD) được HOSE ký kết với Sở Giao dịch chứng khoán Hàn Quốc (KRX) từ năm 2012 (thời hạn 5 năm) đi đúng tiến độ.
+
+Đây là dự án do HOSE làm chủ đầu tư, bao gồm các hệ thống chức năng phục vụ cho hoạt động của HOSE, HNX và Trung tâm Lưu ký chứng khoán Việt Nam (VSD).
+
+Gói thầu dự kiến khi đi vào hoạt động sẽ xử lý được hàng triệu lệnh/phiên (so với mức chưa đầy 1 triệu lệnh/phiên của hệ thống hiện tại). Bên cạnh đó, KRX cũng sẽ cho phép triển khai giao dịch T+0 (mua bán cổ phiếu trong ngày) thay vì T+3 (mua bán cổ phiếu 3 ngày sau mới về tài khoản).
+
+Tuy nhiên, đã kéo dài gần 1 thập kỷ, KRX vẫn chưa thể đưa vào sử dụng. Trong khi những người có vai trò quan trọng trong gói thầu là ông Trần Văn Dũng, Lê Hải Trà vừa bị kỷ luật.
+
+Năm 2016 ông Dũng ký lại hợp đồng, tăng lên 40 triệu USD
+
+Thời điểm bắt đầu gói thầu KRX, ông Trần Đắc Sinh là Chủ tịch HOSE, bà Phan Thị Tường Tâm làm Tổng giám đốc. Gói thầu tiếp tục qua các thời ông Trần Văn Dũng (Chủ tịch), ông Lê Hải Trà (người phụ trách HĐQT, sau này là Tổng giám đốc), bà Nguyễn Thị Việt Hà (Quyền Chủ tịch HOSE).
+
+Liên quan đến tiến độ của gói thầu, hai bên thỏa thuận triển khai hệ thống giao dịch mới dự kiến trong quý 1/2015, hệ thống mới sẽ được đưa vào vận hành, thay thế cho hệ thống giao dịch cũ từ Thái Lan đã không còn đáp ứng nhu cầu thị trường.
+
+Song, chưa rõ vì lý do gì, vào năm 2016 HOSE khởi động lại hợp đồng dịch vụ công nghệ thông tin với Sở Giao dịch chứng khoán Hàn Quốc (KRX). Năm đó, ông Trần Văn Dũng được luân chuyển từ Sở Giao dịch chứng khoán Hà Nội vào làm Tổng giám đốc, sau đó là Chủ tịch HOSE thay cho ông Trần Đắc Sinh nghỉ hưu theo chế độ. Trong tất cả các báo cáo gửi Bộ Tài chính từ năm 2016, phía HOSE đều cho biết "đang đẩy nhanh tốc độ của gói thầu".
+
+Ông Trần Văn Dũng cũng chia sẻ với báo chí rằng, gói hệ thống công nghệ thông tin với số vốn lên đến 40 triệu USD (hơn 900 tỉ đồng) sẽ được hoàn thành trong năm 2017, chậm hơn 2 năm so với kế hoạch ban đầu.
+
+Nhưng tháng 1.2018, sàn HOSE gặp sự cố nghiêm trọng khi các lệnh đưa vào trong phiên định kỳ đóng cửa ATC đã không khớp. Lãnh đạo Ủy ban Chứng khoán Nhà nước và HOSE lúc đó đã phải thức trắng để cùng chuyên gia Thái Lan khắc phục sự cố. Thị trường chứng khoán Việt Nam phải dừng giao dịch 2 phiên.
+
+HOSE
+
+Lào, Campuchia triển khai từ năm 2010
+
+Nhìn sang 2 quốc gia Lào và Campuchia, dù thị trường chứng khoán phát triển sau Việt Nam, nhưng giải pháp KRX đã được họ triển khai từ năm 2010.
+
+Cụ thể, năm 2010, Ngân hàng Nhà nước Lào (Bank of Lao PDR - BOL) đại diện cho Chính phủ giữ 51% cổ phần của LSX, 49% còn lại thuộc sở hữu của Sở giao dịch chứng khoán Hàn Quốc (KRX). Số vốn này tương ứng phần đầu tư hệ thống công nghệ thông tin và đào tạo cách vận hành sàn giao dịch. Đây là sàn giao dịch chứng khoán đầu tiên trên thế giới với mô hình liên kết giữa chính phủ và một sàn giao dịch nước ngoài (cụ thể là KRX).
+
+Học tập mô hình của LSX, Sở giao dịch chứng khoán Campuchia (CSX) được thành lập với 55% vốn điều lệ thuộc Bộ Kinh tế và Tài chính Campuchia (MEF) và 45% còn lại thuộc Sở giao dịch Hàn Quốc (KRX). Nhờ đó, Campuchia cũng sớm được vận hành hệ thống giao dịch do KRX xây dựng. Đến ngày 18.4.2012, CSX chính thức giao dịch ngày đầu tiên.
+
+Trong khi đó, ngày 24.6.2021, ông Trần Văn Dũng, Chủ tịch Ủy ban Chứng khoán Nhà nước, giải thích lý do chậm triển khai chủ yếu do nhận thức. “Bởi lẽ, nhận thức là một quá trình, ngay từ khi đi vào hoạt động thì bản thân chúng tôi cũng như các nhà kinh tế nắm rất rõ về thị trường nhưng cấu phần công nghệ của hệ thống chứng khoán thì dường như chưa ai nắm rõ”, ông Dũng nói.
+
+Ngoài ra, vị này cho rằng, vì tính cầu toàn của cơ quan quản lý cùng mong muốn có một hệ thống đáp ứng đầy đủ, toàn diện đã dẫn tới việc chuẩn bị cho hệ thống có nhiều vấn đề. Từ ngày 14.6.2021, theo ông Dũng, HOSE đã tiến hành thử nghiệm hệ thống KRX, dự kiến đến cuối năm sẽ đưa hệ thống vào hoạt động chính thức.
+
+“Chúng tôi sẽ đưa hệ thống mới đi vào hoạt động sớm nhất, đồng thời cũng sẽ đảm bảo an toàn nhất để không còn sự cố xuất hiện. Mặc dù không có ngày cụ thể nhưng chắc chắn không vượt quá thời hạn chúng tôi cam kết với thị trường, với các nhà đầu tư”, vị Chủ tịch Ủy ban Chứng khoán Nhà nước khi đó khẳng định.

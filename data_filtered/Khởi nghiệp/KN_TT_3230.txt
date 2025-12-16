@@ -1,0 +1,41 @@
+Đồng sáng lập Công ty Dyn - Jeremy Hitchcock - Nguồn: trang web của Dyn Chúng tôi khi đó chưa phải là một công ty thương mại, nhưng chúng tôi nhận ra mình có trách nhiệm phải tiếp tục dịch vụ này vì mọi người đã tin tưởng chúng tôi JEREMY HITCHCOCK kể với tạp chí Forbes
+
+Khuya 21-11 (giờ VN), hãng phần mềm và điện toán đám mây Mỹ Oracle tuyên bố đạt được thỏa thuận mua lại Dyn - công ty cung cấp tên miền và máy chủ (DNS) nổi tiếng.
+
+Thông cáo báo chí của Oracle không tiết lộ giá trị thương vụ, nhưng tạp chí Fortune và một số trang tin công nghệ khác cho rằng con số sẽ không dưới 600 triệu USD.
+
+Triệu phú tuổi 35
+
+Dịch vụ DNS mà Dyn cung cấp cũng giống như sổ danh bạ trực tuyến dành cho người dùng truy cập Internet. Khi người dùng truy cập vào một địa chỉ website, ví dụ tuoitre.vn, nhờ có DNS mà họ sẽ được kết nối với máy chủ của trang web này.
+
+Nếu không có DNS, người dùng không thể gõ các tên miền đơn giản, dễ nhớ mà phải gõ một dãy số IP phức tạp mới có thể truy cập được vào trang web. Thông cáo của Oracle cho biết Dyn có hơn 3.500 khách hàng, trong đó có nhiều tên tuổi lớn như Netflix, Twitter và CNBC.
+
+Ngoài những vấn đề chuyên môn đằng sau thương vụ này, như vì sao Oracle lại chi đậm để mua một công ty DNS, có một câu chuyện khác khiến truyền thông quốc tế chú ý không kém: Dyn trở thành ví dụ mới nhất cho câu chuyện thần kỳ trong giới công nghệ, rằng một công ty có văn phòng khi xuất phát điểm là nhà để xe hay ký túc xá của sinh viên hoàn toàn có thể vươn mình thành công ty triệu đô với tầm ảnh hưởng toàn cầu.
+
+Công ty Dyn vừa tròn 15 tuổi, trong khi nhà đồng sáng lập và cựu giám đốc điều hành của họ, ông Jeremy Hitchcock, chỉ mới 35 tuổi. Và chuyện thần kỳ của ông không được viết ở Thung lũng Silicon, trung tâm công nghệ của thế giới, mà là ở thành phố Manchester (bang New Hampshire).
+
+Jeremy Hitchcock bắt đầu sự nghiệp tại chính phòng ngủ ở ký túc xá khi ông còn là sinh viên Viện Bách khoa Worcester (bang Massachusetts, Mỹ). Năm 2001, khi đang là sinh viên năm 2, Hitchcock cùng ba người bạn bắt đầu gầy dựng Dyn (Dynamic Network Service) chỉ với một máy chủ đặt ở phòng ký túc xá, cung cấp dịch vụ giúp sinh viên truy cập vào phòng máy tính của trường và in tài liệu từ xa.
+
+Hitchcock kể với tạp chí Forbes, vào thời điểm đó các máy tính và máy in của trường ông không được kết nối với nhau; máy tính ở đây nhưng lại kết nối với máy in ở đâu đó chứ không phải chiếc máy nằm ngay bên cạnh.
+
+“Chúng tôi tạo ra công nghệ giúp kết nối máy tính với bất kỳ máy in nào ở gần nó, miễn là dùng chung ổ cắm điện” - Hitchcock giải thích. Dịch vụ được cung cấp miễn phí, và Hitchcock chỉ đặt một nút “đóng góp” trên trang của dịch vụ để tùy lòng hảo tâm của người dùng.
+
+Xin tiền để khởi nghiệp
+
+Chẳng có mấy sinh viên chịu góp tiền ủng hộ cho Dyn, Hitchcock thừa nhận với trang Business Insider trong một cuộc phỏng vấn năm 2012.
+
+“Thế rồi chúng tôi nói với người dùng nếu họ không ủng hộ chúng tôi đủ 25.000 USD trong vòng 1 tuần, chúng tôi phải phá sản - Hitchcock nhớ lại - Và rồi cuối cùng chúng tôi nhận được 40.000 USD”.
+
+Số tiền ủng hộ ngoài mong đợi này khiến Hitchcock cực kỳ kinh ngạc. Song nó cũng giúp ông nhận ra mình hoàn toàn có thể biến Dyn thành một doanh nghiệp thật sự, và Hitchcock đã làm thế.
+
+Hitchcock gọi số tiền 40.000 USD là tiền “đóng góp hỗ trợ” của người dùng chứ không phải “phí dịch vụ”, như một cách trân trọng sự ủng hộ của mọi người dành cho Dyn khi đó.
+
+Từ khởi đầu ở những ngày tháng sinh viên đó, Hitchcock nhanh chóng trở thành một doanh nhân công nghệ thực thụ. Ông và người đồng sáng lập Tom Daly sau đó rủ một người quen cũ hồi học phổ thông tên Kyle York tham gia phụ trách marketing cho Dyn.
+
+Bộ ba này đã dẫn dắt Dyn phát triển trong suốt 11 năm sau đó mà không nhận một đồng đầu tư nào từ bên ngoài.
+
+Năm 2011, họ chính thức dời trụ sở công ty về thành phố Manchester. Năm 2012, Dyn gọi vốn được 38 triệu USD từ các nhà đầu tư, và thêm 50 triệu USD hồi tháng 5 vừa qua. Nhân sự chủ chốt của Dyn hiện cũng đã có nhiều thay đổi so với thời khởi nghiệp.
+
+Người đồng sáng lập Daly rời công ty không lâu sau khi Dyn gọi vốn hồi năm 2012, còn Hitchcock quyết định từ chức giám đốc điều hành, dù vẫn giữ ghế trong hội đồng quản trị, vào tháng 5-2016. York, người phụ trách marketing, vẫn tại vị.
+
+Từ bốn người đầu tiên, Dyn hiện có 450 nhân viên. Hitchcock cũng góp phần xây dựng cộng đồng khởi nghiệp ở thành phố Manchester và là “nhà đầu tư thiên thần” của 16 dự án khởi nghiệp.

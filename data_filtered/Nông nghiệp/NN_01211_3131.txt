@@ -1,0 +1,11 @@
+Title: Bàn chuyện ứng dụng công nghệ tự động hóa và IoT trong nông nghiệp
+
+Phát biểu khai mạc Hội thảo, ông Trần Vũ Tuấn Phan, Giám đốc Trung tâm Ươm tạo Công nghệ và Doanh nghiệp KHCN khẳng định tầm quan trọng của nông nghiệp tại Việt Nam cũng như sự cần thiết phải có các công nghệ mới ứng dụng trong nông nghiệp công nghệ cao, đặc biệt là công nghệ tự động hóa và IoT.
+
+Công nghệ cao đang ngày càng được nhiều doanh nghiệp nông nghiệp áp dụng với rất nhiều lợi thế. Tuy nhiên, với nhiều người nông dân, đặc biệt là những người dân trồng rau, có rất nhiều điểm yếu khi áp dụng công nghệ 4.0 như sự sẵn sàng đổi mới để tham gia, nguyên liệu đầu vào thấp, công lao động rẻ.
+
+Một khái niệm mới được chuyên gia Đào Duy Thoại đến từ tập đoàn FPT đưa ra đó là nông nghiệp chính xác. Nông nghiệp chính xác là khái niệm quản lý nông nghiệp dựa trên việc quan sát, đo lường và ứng phó với sự biến đổi nội đồng, liên nội đồng trong cây trồng. Mục tiêu của nghiên cứu nông nghiệp chính xác là xác định một hệ thống hỗ trợ quyết định cho quản lý toàn bộ trang trại với mục tiêu tối ưu hóa lợi nhuận trên đầu vào trong khi vẫn bảo tồn tài nguyên môi trường. Hệ thống nông nghiệp chính xác bao gồm rất nhiều thành phần như hệ thống phân tích dữ liệu và hỗ trợ quyết định, hệ thống lưu trữ thông tin mở rộng, hệ thống điều khiển/dẫn đường.
+
+Việt Nam có rất nhiều lợi thế khi áp dụng nông nghiệp chính xác như lợi thế về khí hậu, truyền thống canh tác, thu nhập bình quân tăng lên, nhu cầu về thực phẩm sạch cũng tăng, nhiều doanh nghiệp, tập đoàn lớn đã bắt đầu đầu tư vào nông nghiệp công nghệ cao. Tuy nhiên, vẫn còn rất nhiều thách thức cho chúng ta khi năng suất lao động trong nông nghiệp thấp, chiếm 47% lao động nhưng chỉ tạo được 18% GDP, nhân công giá rẻ và vốn đầu tư ít.
+
+Hiện nay, cùng với sự phát triển của kinh tế-xã hội, nông nghiệp ngày càng được coi trọng và đầu tư. Nông nghiệp công nghệ cao là xu thế tất yếu trên toàn thế giới, trong đó có Việt Nam. Để nông nghiệp có được những bước phát triển mới, cần có sự quan tâm, đầu tư, hỗ trợ không chỉ của các nhà khoa học mà cả các cơ quan ban ngành, các trường đại học, các doanh nghiệp và cả của những người nông dân cùng với sự ủng hộ của người tiêu dùng vì một nền nông nghiệp bền vững.

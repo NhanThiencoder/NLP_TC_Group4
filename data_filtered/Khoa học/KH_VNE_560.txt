@@ -1,0 +1,21 @@
+MỹNhóm nhà khoa học tại Đại học Bang Pennsylvania phát triển máy phát nhiệt điện mới giúp biến lượng nhiệt thải từ ống xả ôtô thành điện năng.
+
+Minh họa thiết bị gắn vào ống xả ôtô và chuyển đổi nhiệt từ khí thải thành năng lượng. Ảnh: ACS Applied Materials & Interfaces
+
+Động cơ đốt trong của xe xăng có thể tạo ra rất nhiều năng lượng bằng cách đốt cháy nhiên liệu hóa thạch, nhưng thực chất lại kém hiệu quả khi có tới khoảng 75% năng lượng bị thất thoát dưới dạng nhiệt thoát ra từ động cơ và qua ống xả.
+
+Nhóm nhà khoa học tại Đại học Bang Pennsylvania, Mỹ, phát triển máy phát nhiệt điện mới giúp biến lượng nhiệt thải này thành điện năng, Futurism hôm 16/2 đưa tin. Nghiên cứu mới xuất bản trên tạp chí ACS Applied Materials & Interfaces.
+
+Máy phát nhiệt điện hoạt động dựa trên sự chênh lệch nhiệt độ. Về cơ bản, khi đặt nó gần hoặc trên một thứ gì đó tạo ra nhiệt thải, các electron sẽ được kéo từ phía nóng sang phía lạnh, tạo ra dòng điện.
+
+Trong trường hợp này, nhóm nghiên cứu sử dụng chất bán dẫn làm từ bismuth-telluride để thúc đẩy quá trình sản xuất điện. Thách thức chính ở đây là duy trì sự chênh lệch nhiệt độ. Nếu không can thiệp, phần lạnh của máy phát cũng sẽ bắt đầu nóng lên, và dòng điện biến mất.
+
+Làm mát bằng nước có thể là một giải pháp, nhưng lại khiến thiết bị trở nên phức tạp và cồng kềnh hơn. Nên thay vào đó, nhóm chuyên gia sử dụng một thiết kế tản nhiệt thông minh và tương đối đơn giản. Họ dùng một xi-lanh với các vây nhô ra bọc quanh ống xả, cung cấp thêm diện tích bề mặt để tản nhiệt thông qua đối lưu cưỡng bức - không khí xung quanh chuyển động và mang nhiệt đi. Với một phương tiện di chuyển nhanh như ôtô chạy trên đường, quá trình này diễn ra một cách tự nhiên.
+
+Với thiết kế đơn giản, thiết bị này có thể được gắn vào ống xả của ôtô hoặc phương tiện khác như máy bay trực thăng. Trong một thí nghiệm nhỏ, nguyên mẫu máy phát nhiệt điện có thể tạo ra 40 W điện, đủ để thắp sáng một bóng đèn.
+
+Khi mô phỏng môi trường tốc độ cao, nhóm nghiên cứu phát hiện rằng máy phát nhiệt điện tạo ra tới 56 W điện với tốc độ di chuyển của ôtô. Với trực thăng, con số này thậm chí tăng lên gần gấp ba lần, đạt mức 146 W.
+
+"Kết quả này có thể mở đường cho việc tích hợp thiết bị nhiệt điện vào những hệ thống phức tạp để phục vụ cho ứng dụng thực tế", nhóm nghiên cứu kết luận.
+
+Thu Thảo (Theo Futurism)

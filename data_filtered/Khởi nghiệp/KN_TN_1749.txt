@@ -1,0 +1,19 @@
+Một trong những dự án được ban giám khảo đánh giá cao đó chính là dự án phần mềm ứng dụng kỹ thuật nhận dạng cử chỉ trong dạy học, cho học sinh khuyết tật vận động ở cấp tiểu học, của Đinh Thành Nhật và Trần Đình Phước (lớp 11, Trường THPT chuyên Lê Quý Đôn, TP.Đà Nẵng).
+
+MẠNH CƯỜNG
+
+Đinh Thành Nhật cho biết bản thân tự hỏi một người lành lặn như mình có thể sử dụng chiếc máy tính một cách dễ dàng, chỉ việc gõ phím và di chuột, vậy còn những người khuyết tật vận động thì sao? “Chính việc phụ thuộc rất nhiều vào chuột và bàn phím, điều này lại gây khó khăn cho người khuyết tật vận động. Chính những suy nghĩ đó giúp em có quyết định là phải tạo ra được một ứng dụng có thể dùng để giúp các học sinh khuyết tật”, Nhật nói.
+
+Cùng chung sở thích nên Nhật đã rủ bạn là Trần Đình Phước bắt đầu với câu chuyện dạy học cho học sinh khuyết tật vận động ở cấp tiểu học. Đối tượng các bạn hướng đến là những bạn nhỏ khuyết tật một tay hoặc cả hai tay. Và rồi, phần mềm ứng dụng kỹ thuật nhận dạng cử chỉ trong dạy học cho học sinh khuyết tật ra đời từ đây.
+
+Hội thi Tin học trẻ toàn quốc năm nay do T.Ư Đoàn, Bộ KH-CN, Bộ GD-ĐT, Bộ TT-TT, Đài truyền hình VN, Hội Tin học VN và UBND tỉnh Quảng Nam phối hợp tổ chức. Ban tổ chức đã trao 5 giải nhất. Bảng A thuộc về Lê Kỳ Nam đến từ Hà Nội. Bảng B thuộc về Lê Viết Nam Khôi đến từ TP.HCM. Bảng C1 thuộc về Nguyễn Đức Thắng (Phú Thọ). Bảng C2 thuộc về Trần Vinh Khánh (Quảng Trị) và bảng D3 thuộc về Đinh Thành Nhật và Trần Đình Phước (TP.Đà Nẵng). Mỗi giải nhất được nhận Huy hiệu Tuổi trẻ sáng tạo do T.Ư Đoàn trao tặng; Bằng khen của Bộ trưởng Bộ GD-ĐT, kèm theo phần thưởng tiền mặt trị giá 3 triệu đồng.
+
+“Công dụng của sản phẩm này là nó hướng đến giáo dục cho các bạn học sinh tiểu học, cũng như giúp những người khuyết tật vận động tiếp cận được với chiếc máy tính bằng phương thức, sử dụng khuôn mặt một cách miễn phí mà không cần đến những công cụ hỗ trợ khác mà chỉ cần một chiếc máy tính có webcam hoặc camera rời”, Nhật chia sẻ.
+
+Về cách thức hoạt động, tất cả hoạt động điều khiển chương trình đều thực hiện bằng cử chỉ khuôn mặt (hoặc bàn tay) phía trước webcam, không cần sử dụng chuột hoặc bàn phím trong lúc dùng chương trình. Các học sinh đưa khuôn mặt (hoặc bàn tay) lên trước webcam, để máy tính có thể nhận diện được khuôn mặt (hoặc bàn tay). Khi đó điểm giữa của đầu ngón tay trỏ và ngón tay cái (hoặc điểm giữa dọc theo sống mũi) sẽ được chương trình nhận dạng, tương đương như con trỏ chuột máy tính (chấm đen ở trên màn hình). Từ đó, quy ước con trỏ chuột là chấm đen và hành động chạm hai đầu ngón tay giữa và trỏ (hoặc mở miệng) tương đương việc bấm nút trái chuột trên con chuột.
+
+Hai nam sinh tỏ ra rất tự hào vì những nỗ lực của bản thân trong suốt thời gian dài đã đạt được thành quả tốt đẹp. “Đoạt giải thưởng lần này chúng em rất vui và hạnh phúc. Dự án này đã trở thành một đứa con tinh thần của chúng em. Chúng em sẽ cố gắng tìm tòi để phát triển sản phẩm hoàn thiện, tốt hơn nữa để hướng đến thế giới và tương lai”, Nhật khẳng định.
+
+Tiến sĩ Nguyễn Quang Vũ, Trưởng phòng Khoa học công nghệ và hợp tác quốc tế (Trường ĐH Công nghệ thông tin - Truyền thông Việt Hàn, ĐH Đà Nẵng), cho biết một số sản phẩm đoạt giải lần này có thể thương mại hóa và đưa vào ứng dụng trong thời gian rất ngắn. Các bạn đã tìm tòi và đưa ra những bài toán và cách giải quyết rất sáng tạo, theo kịp thời đại chuyển đổi số cũng như công nghệ số hiện nay.
+
+“Như chúng ta đã biết, trong thời đại cách mạng công nghiệp lần thứ 4 cũng như là chuyển đổi số hiện nay thì ứng dụng công nghệ thông tin và các kỹ thuật khác rất cần các bạn trẻ. Các bạn có cả trình độ, tư duy để bắt kịp với thời đại. Thông qua các cuộc thi như thế này, chúng tôi mong muốn rằng bên cạnh việc giao lưu học hỏi thì các bạn trẻ sẽ tạo nên một cộng đồng để trao đổi cùng với nhau phát triển”, ông Vũ nói.

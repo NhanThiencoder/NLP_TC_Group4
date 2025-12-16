@@ -1,0 +1,79 @@
+Nguyễn Minh Đức đã có thành công bước đầu với CyRadar
+
+Khi "thuyền thúng" so mình với "chiến hạm"
+
+Những phần mềm diệt virus, phần mềm chống mã độc đã rất quen thuộc với bất kỳ ai sử dụng máy tính. Nhưng có một thực tế, phần lớn các phần mềm này đều "chạy sau" sự xuất hiện của mã độc, virus.
+
+Thách thức rất lớn với các doanh nghiệp an ninh mạng là làm sao dự đoán chính xác, nhìn thấy được một hành vi tấn công mạng sẽ và sắp xảy đến. Ám ảnh đó khiến anh Nguyễn Minh Đức (sinh năm 1981) quyết định rời bỏ vị trí phó chủ tịch phụ trách an ninh mạng của một công ty bảo mật nổi tiếng ở Việt Nam để khởi nghiệp.
+
+Năm 2017, sau hơn 1 năm rưỡi được một tập đoàn ươm tạo và thử nghiệm trong môi trường doanh nghiệp, CyRadar đã chính thức được cho "ra riêng" và trở thành công ty cổ phần độc lập trong lĩnh vực an toàn thông tin. Nhà sáng lập kiêm CEO của CyRadar chính là Nguyễn Minh Đức.
+
+"Hành trình khởi nghiệp của CyRadar bắt đầu từ một sự ám ảnh: Làm thế nào để phát hiện và ngăn chặn được các cuộc tấn công mạng kịp thời, trong khi sự tinh vi của kẻ tấn công đã vượt quá xa so với các hệ thống phòng thủ?
+
+Sự ám ảnh đó dẫn đến ý tưởng về hệ thống có thể nhận diện sớm và dự đoán các cuộc tấn công sẽ xảy ra. Dựa trên dữ liệu của các chiến dịch xâm nhập có thật, chúng tôi cũng đã chứng minh được, về lý thuyết, tính khả thi của ý tưởng.
+
+Chúng tôi lập tức đi đăng ký phát minh sáng chế và bắt tay vào làm sản phẩm. Định hướng làm sản phẩm của chúng tôi từ ngày đầu là ứng dụng công nghệ mới để giải quyết các bài toán truyền thống, với chất lượng quốc tế" - Nguyễn Minh Đức chia sẻ bước khởi nghiệp của mình.
+
+Một trong những dấu mốc quan trọng "đầu đời" của CyRadar là thời điểm lần đầu chạy thử nghiệm ở một hệ thống lớn.
+
+"Khách hàng quyết định chạy thử song song sản phẩm của chúng tôi và một giải pháp nổi tiếng của nước ngoài. "Thuyền thúng" đấu với "chiến hạm" làm chúng tôi run cầm cập. Nhưng rồi chúng tôi lại "túm" được mã độc mới tinh xuất hiện, còn giải pháp kia thì không" - anh Đức kể lại.
+
+Việt Nam rất cần những doanh nghiệp công nghệ tỉ USD để vươn lên thịnh vượng trong 10 - 20 năm tới. Về kế hoạch phát triển, CEO của CyRadar đặt mục tiêu sẽ có tên trong top 20 doanh nghiệp an ninh mạng hàng đầu châu Á trong chỉ vài năm tới.
+
+Theo anh Đức, một báo cáo của Crunchbase (nền tảng tìm kiếm thông tin về kinh doanh và startup) cho thấy năm 2020 đã có 7,8 tỉ USD được đầu tư vào các công ty lĩnh vực an toàn thông tin. Phần lớn các công ty được đầu tư này ở Mỹ.
+
+"Vì vậy, tôi nghĩ các công ty an ninh mạng ở Việt Nam nên có cái nhìn thực tế hơn. Tập trung vào hoàn thiện sản phẩm đạt tiêu chuẩn quốc tế, từng bước chiếm lĩnh thị trường trong nước và mở rộng ra thị trường nước ngoài. Nếu tìm được đúng ngách, tôi tin rằng trong 5 - 10 năm nữa, chúng ta sẽ có "đại gia" an toàn thông tin của châu Á" - anh Đức khẳng định.
+
+Tôi tự hào khi mọi người gọi Sky Mavis là một công ty Việt Nam. Tất nhiên sau này công ty phát triển có thể mang tính quốc tế nhiều hơn, nhân sự người Việt có thể giảm xuống và tăng thêm nhiều người nước ngoài, nhưng Sky Mavis vẫn luôn là công ty của người Việt Nam. Nguyễn Thành Trung (sáng lập kiêm CEO Công ty Sky Mavis)
+
+Nguyễn Thành Trung (bìa trái) cùng các đồng nghiệp tại Sky Mavis - Ảnh: NVCC
+
+Startup tỉ đô trên sàn tiền ảo
+
+Những ngày cuối tháng 7-2021, cộng đồng công nghệ Việt Nam "chấn động" khi nhận được tin một startup Việt đã tạo ra "đế chế" hơn 3 tỉ USD vốn hóa trên sàn tiền ảo. Đó chính là startup Sky Mavis, do Nguyễn Thành Trung (sinh năm 1992) sáng lập và điều hành. Sản phẩm tạo nên tên tuổi của Sky Mavis là trò chơi Axie Infinity, ứng dụng công nghệ chuỗi khối (blockchain).
+
+Axie Infinity là một trò chơi dạng làm "nhà" nuôi thú cưng, lai giống để phát triển, đào tạo để chiến đấu… khá giống như game Pokemon nổi tiếng, nhưng điểm khác biệt quan trọng chính là ứng dụng công nghệ blockchain. Nhờ công nghệ blockchain, người chơi không còn phải lo việc game sẽ bị lỗi hay "chết" giữa chừng.
+
+Ngoài ra, một khối thông tin được ghi vào hệ thống blockchain thì không có cách nào thay đổi được mà chỉ có thể bổ sung khi đạt được sự đồng thuận của tất cả mọi người, nên nhà phát hành cũng không thể can thiệp vào tài khoản của người chơi, tạo ra sự công bằng tuyệt đối cho game. Chính nhờ điều đó đã khiến Axie Infinity "hút" mạnh người chơi.
+
+Tuy nhiên, theo chia sẻ của anh Trung, vào thời điểm game ra mắt và phát triển, người dùng Việt Nam vẫn chưa hiểu rõ về loại hình này nên "khách" chơi chủ yếu của Axie Infinity đến từ thị trường Mỹ, châu Âu và Nhật nhờ lan truyền trên các nhóm về blockchain.
+
+"Ngoài lý do game blockchain chưa phổ biến tại Việt Nam, việc Axie Infinity lựa chọn thị trường quốc tế còn bởi chúng tôi muốn nghe những nhận xét, góp ý từ những người hiểu biết thật sự trong cộng đồng người chơi rộng lớn này. Điều đó sẽ giúp chúng tôi nhận được những phản hồi tốt để cải tiến và phát triển trò chơi của mình lâu dài.
+
+Hơn nữa, chúng tôi muốn xây dựng cộng đồng người chơi bền vững và có kiến thức thay vì tư duy ngắn hạn (kiểu đầu tư tiền ảo với hy vọng mau chóng sinh lời - pv), nên Axie Infinity lựa chọn thị trường quốc tế thay vì trong nước" - Trung nói.
+
+Đầu tư và vật lộn nhiều để có được thành công hiện tại, theo thống kê vào sáng 4-8 trên website coinmarketcap.com, mỗi đồng AXS - tiền mã hóa được sử dụng trong Axie Infinity - có giá khoảng 38 USD. Với gần 61 triệu đồng AXS đang được lưu hành, giá trị vốn hóa thị trường của AXS đạt hơn 2,3 tỉ USD, đứng thứ 46 trên thị trường tiền mã hóa toàn cầu.
+
+Trước những câu hỏi về thuế, Nguyễn Thành Trung cho biết Công ty Sky Mavis hiện hoạt động đúng pháp luật và chấp hành đầy đủ nghĩa vụ thuế tại Việt Nam.
+
+Dù khẳng định chưa phải là tỉ phú đôla nhưng chàng trai 9X này vẫn kỳ vọng Việt Nam sẽ sớm có tỉ phú công nghệ. Để có thể sớm đạt kỳ vọng đó, chia sẻ với cộng đồng khởi nghiệp, Trung nói: "Phải dám mơ đến thị trường quốc tế thì mới có thể chuyển hóa thành những chiến lược, hành động của mình. Phải dám làm cái đã, mọi khó khăn rồi sẽ tìm được cách giải quyết".
+
+Vượt 800 công ty bảo mật CyRadar là một công ty dịch vụ an ninh mạng nổi tiếng, với hàng trăm khách hàng tại Việt Nam và nhiều doanh nghiệp trên thế giới. Sự nổi tiếng của họ được thể hiện qua những thành tích như: top 20 doanh nghiệp bảo mật nhiều đổi mới sáng tạo toàn cầu (vượt 800 công ty bảo mật khác) theo bình chọn của tạp chí uy tín Technology Innovation của Mỹ năm 2019; 4 lần liên tiếp đạt chứng chỉ quốc tế VB100 (chứng chỉ uy tín hàng đầu thế giới trong lĩnh vực chống mã độc do Tổ chức Virus Bulletin cấp) với tỉ lệ nhận diện 100% mã độc và tỉ lệ nhận diện nhầm là 0%, và khá nhiều giải thưởng, chứng nhận trong nước…
+
+Một Việt Nam phát triển không thể thiếu những "hạt giống" startup trẻ. Họ đã tìm đúng hướng đi, đang gặt hái nhiều thành công ấn tượng và tự tin chuẩn bị cho "vươn mình bay cao". Đã có startup được định giá tỉ USD. Họ chuẩn bị và kỳ vọng gì?
+
+Chuyển đổi số cho 800.000 doanh nghiệp Việt
+
+Xu hướng làm việc từ xa, dữ liệu "lên mây", kinh doanh trên mạng, kinh tế số đang khiến phong trào chuyển đổi số diễn ra mạnh mẽ trong các doanh nghiệp Việt Nam. 800.000 doanh nghiệp lớn và nhỏ tại Việt Nam hiện đang là "mảnh đất màu mỡ" mà startup Base.vn nhắm đến.
+
+Sự kiện Tập đoàn FPT công bố đầu tư vào startup Base.vn hồi đầu tháng 5-2021 được xem là một dấu mốc lịch sử trong làng công nghệ Việt Nam, bởi hiếm một doanh nghiệp trong nước đầu tư vào một startup trong nước với số tiền lên đến hàng triệu USD.
+
+Base là một trong những công ty đi đầu trong lĩnh vực xây dựng nền tảng quản trị doanh nghiệp dưới dạng phần mềm dịch vụ (Software-as-a-Service) tại Việt Nam. Chính thức ra mắt thị trường vào năm 2017, nhưng chỉ sau 4 năm hoạt động, Base đã có hơn 5.000 khách hàng trải dài trên nhiều quy mô và lĩnh vực.
+
+Trước khi về "chung nhà" với FPT, nền tảng của Base.vn đang tích hợp hơn 50 ứng dụng, tập trung vào ba bài toán cốt lõi: Base Work+ (giúp doanh nghiệp quản lý công việc và dự án); Base Info+ (xây dựng hệ thống thông tin minh bạch, hiệu quả); Base HRM+ (giúp doanh nghiệp có chiến lược quản trị và phát triển nhân sự hoàn chỉnh).
+
+Nền tảng này cho phép nhà điều hành nhìn thấy bức tranh tổng quan của doanh nghiệp thông qua dữ liệu thực tế, từ đó đưa ra những quyết định chính xác để gia tăng hiệu suất công việc và giảm chi phí (thời gian, nhân lực, vật lực), tăng doanh thu...
+
+Chia sẻ về "đứa con" của mình, Phạm Kim Hùng, sáng lập kiêm CEO của Base.vn, cho biết: "Base.vn xử lý 3 bài toán lớn cho doanh nghiệp gồm quản lý nâng cao năng suất, minh bạch và thông suốt thông tin, quản trị và phát triển nhân lực toàn diện. Nỗ lực lớn nhất của chúng tôi là làm cho giải pháp đó dễ dàng, thuận tiện và chuẩn mực cho mọi quy mô doanh nghiệp".
+
+Theo anh Hùng, việc về "chung nhà" giúp Base.vn dễ dàng tích hợp các giải pháp của FPT và ngay lập tức sẽ mang lại hơn 100 giải pháp chuyển đổi số trên nền tảng Base.vn. Các sản phẩm của Base.vn cũng được thừa hưởng những công nghệ lõi mới nhất từ Tập đoàn FPT như FPT.AI, Blockchain, Cloud, chữ ký số điện tử... để cho ra những giải pháp hiệu quả hơn.
+
+Sự cộng hưởng sức mạnh giữa một nền tảng công nghệ mở và thông minh, nơi có tất cả các ứng dụng cho các doanh nghiệp của Base.vn, và bề dày kinh nghiệm cùng năng lực công nghệ lõi cũng như đội ngũ nhân lực hùng hậu của FPT được hai bên kỳ vọng sẽ tạo ra xung lực mới thúc đẩy công cuộc chuyển đổi số của 800.000 doanh nghiệp Việt Nam.
+
+Bên cạnh đó, Base.vn còn mang tham vọng vươn ra "cạnh tranh sòng phẳng trên thị trường toàn cầu" nhờ sự giúp sức của FPT với mạng lưới chi nhánh tại 26 nước trên thế giới, như lời thổ lộ của Phạm Kim Hùng: "Chúng tôi có kế hoạch phát triển các bài toán lớn khác như quản trị tài chính, quản trị khách hàng và phát triển kinh doanh trên cùng một nền tảng thống nhất. Việc hợp lực cùng FPT giúp Base.vn tiết kiệm được ít nhất 10 năm để có thể vươn lên trở thành một hệ sinh thái chuyển đổi số toàn diện cho doanh nghiệp hàng đầu thế giới".
+
+Theo anh Hùng, Việt Nam hiện vẫn còn hơn 800.000 doanh nghiệp nhỏ và vừa có nhu cầu ứng dụng công nghệ một cách hiệu quả. Các khách hàng doanh nghiệp luôn gặp phải những bài toán chuyên sâu về ngành, và Base.vn tin rằng đang có rất nhiều ứng dụng do người Việt phát triển để giải quyết tốt các bài toán đó.
+
+Ông Trương Gia Bình, chủ tịch Tập đoàn FPT, trong sự kiện Tập đoàn FPT công bố đầu tư vào startup Base.vn hồi đầu tháng 5-2021, đã chia sẻ tầm nhìn chung khi về chung một nhà: "FPT bây giờ chỉ có một từ "chuyển đổi số", không có từ thứ hai. Năm 2022, chúng tôi sẽ thu 1 tỉ USD từ chuyển đổi số từ nước ngoài về Việt Nam, lấy trí tuệ Việt đổi lấy ngoại tệ…".
+
+Anh Phạm Kim Hùng: Không bao giờ nhắc đến thành công Anh Phạm Kim Hùng Nói về Base, có một từ mà chúng tôi không bao giờ được phép nhắc đến đó là "thành công". Đối với chúng tôi, không có "thành công" mà chỉ có một từ là "kế hoạch". 5 năm qua, chúng tôi đã có 5.000 khách hàng trong tổng số 800.000 doanh nghiệp tại Việt Nam, và đó là một khát vọng còn dang dở. Qua quá trình làm việc với các doanh nghiệp Việt Nam, chúng tôi tin rằng có một giấc mơ lớn hơn. Đó là việc không chỉ cung cấp các sản phẩm, giải pháp cho các doanh nghiệp tại Việt Nam mà còn là mang sản phẩm, trí tuệ của những kỹ sư Việt Nam ra thị trường quốc tế. Chúng tôi nghĩ hiện tại chính là thời điểm thích hợp để hướng đến một kế hoạch mới, con đường mới.

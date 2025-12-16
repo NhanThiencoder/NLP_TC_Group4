@@ -1,0 +1,45 @@
+Title: Tương lai của nông nghiệp Đông Nam Á trong kỷ nguyên kỹ thuật số
+
+Nông nghiệp là lĩnh vực chủ chốt của các nền kinh tế Đông Nam Á. Theo WorldBank, nông nghiệp chiếm khoảng 11% GDP ASEAN trong năm 2020. Tại các quốc gia như Campuchia và Myanmar, lĩnh vực này thậm chí chiếm hơn 20% GPD. Không chỉ vậy, nông nghiệp còn là ngành chiếm phần lớn số lao động trong khu vực.
+
+Những năm gần đây, nông nghiệp toàn cầu đang đối mặt với những thách thức to lớn. Trước hết là biến đổi khí hậu. Tại Đông Nam Á, khu vực hứng chịu ngày càng nhiều các hình thái thời tiết cực đoan gây ra bởi sự nóng lên toàn cầu. Nghiên cứu của Ngân hàng phát triển châu Á (ADB) năm 2021 cho thấy, trong giai đoạn từ 2008 tới 2018, khu vực này chịu tổn thất 21 tỷ USD do mất mùa và thiệt hại bởi các thảm hoạ liên quan tới khí hậu.
+
+Tình trạng càng thêm trầm trọng với sự xuất hiện của đại dịch Covid-19, dẫn tới thiếu hụt lao động trong nông nghiệp và đứt gãy chuỗi cung ứng toàn cầu. Trong năm 2020, đại dịch ước tính đã làm giảm 3,1% khối lượng sản xuất nông nghiệp (29,58 triệu tấn) tại Đông Nam Á, tương đương mức giảm 1,4% GDP cả khu vực.
+
+Trước những thách thức đó, ngành nông nghiệp tại khu vực đã phải nhanh chóng ứng dụng các công nghệ mới, đặc biệt là trong hoạt động canh tác tại nông thôn và thành thị.
+
+Canh tác tích hợp công nghệ
+
+Nông nghiệp khu vực Đông Nam Á đang ở giữa giai đoạn chuyển đổi kỹ thuật. Chẳng hạn, điện thoại thông minh cùng trí tuệ nhân tạo (AI) và dữ liệu lớn (Big data) đang ngày càng quản lý mùa màng một cách hiệu quả. Trong khi đó, các máy bay không người lái giúp người nông dân cải thiện năng suất canh tác. Với nhiều hộ nông dân nhỏ, những người có diện tích đất canh tác dưới 2 hecta, các công nghệ mới không chỉ năng cao hiệu quả mà còn giúp cải thiện thu nhập của gia đình.
+
+Tại Việt Nam, MimosaTEK ứng dụng nông nghiệp chính xác cho các hộ nông dân nhỏ lẻ thông qua các thiết bị dựa trên đám mây và cảm biến hỗ trợ giám sát mùa màng. Bên cạnh đó, công ty khởi nghiệp này còn tận dụng IoT để phát triển hệ thống tưới tiêu thông minh, cho phép người nông dân có thể sử dụng điện thoại theo dõi điều kiện thời tiết và tối ưu hoá việc sử dụng nước. Dự án này đang thí điểm tại Cần Thơ và dự kiến mở rộng ra toàn bộ phần còn lại của đồng bằng sông Cửu Long.
+
+Công nghệ nông nghiệp và “canh tác thông minh” cũng được Chính phủ Thái Lan khuyến khích nông dân sử dụng. Từ năm 2020, cơ quan xúc tiến kinh tế số Thái Lan đã trao cho người nông dân và các doanh nghiệp công nghệ nông nghiệp cộng đồng những khoản trợ cấp từ 10.000 THB (300 USD) tới 300.000 THB (9.000 USD). Đến nay, một số hộ nông dân tại Thái Lan đã bắt đầu sử dụng drone trong canh tác như gieo hạt và phun thuốc trừ sâu.
+
+Poladrone, startup công nghệ trụ sở tại Malaysia, cung cấp các giải pháp quản lý bệnh dịch cho người trồng cọ dầu. Các drone của công ty không chỉ thực hiện chính xác việc phun thuốc trừ sâu, mà còn giảm mức độ phơi nhiễm của nông dân với hoá chất độc hại.
+
+Công nghệ số là cần thiết để người nông dân nâng cao khả năng ứng phó biến đổi khí hậu cũng như đại dịch hoành hành. Do đó, diễn đàn kinh tế thế giới (WEF) đang nghiên cứu xây dựng chương trình 100 triệu người nông dân nhằm khuyến khích và hỗ trợ nông dân áp dụng các mô hình bền vững để chuyển đổi sang hệ thống thực phẩm tự nhiên toàn cầu.
+
+Canh tác thành thị toả sáng
+
+Bên cạnh thúc đẩy quá trình chuyển đổi số của lĩnh vực nông nghiệp, biến đổi khí hậu và Covid-19 cũng cho thấy tầm quan trọng của nông nghiệp đô thị.
+
+Theo nghiên cứu gần đây của Deloitte về hệ sinh thái thực phẩm nông nghiệp của Singapore, nông nghiệp đô thị giúp xây dựng hệ thống thực phẩm đảm bảo an toàn và bền bỉ. Đó cũng là lý do cơ quan lương thực Singapore đã thiết lập quỹ chuyển đổi thực phẩm nông nghiệp trị giá 44,4 triệu USD trong năm 2021 nhằm khuyến khích người dân chuyển sang các mô hình canh tác bền vững, tích hợp sâu công nghệ.
+
+Các trang trại đô thị là chìa khóa xây dựng hệ thống lương thực mạnh mẽ ở những thành phố vốn chủ yếu dựa vào thực phẩm nhập khẩu. Các trang trại này đóng vai trò là vùng đệm cho nguồn cung thị trường, trong trường hợp chuỗi cung ứng bị gián đoạn.
+
+Bên cạnh đó, nó còn cho phép người dân trồng nhiều loại sản phẩm quay năm. Với các hệ thống nông nghiệp không cần đất như khí canh và thuỷ canh, người trồng có thể giảm thiểu những vấn đề liên quan sâu bệnh truyền qua đất, từ đó tăng năng suất cây trồng.
+
+Sustenir, công ty khởi nghiệp công nghệ nông nghiệp tại Singapore, sở hữu các trang trại công nghệ cao trong nhà, có thể đạt mức năng suất gấp 14 lần so với truyền thống.
+
+Thị trường chính của công nghệ nông nghiệp
+
+Song song với các công nghệ nông nghiệp là việc người nông dân ngày càng sử dụng nhiều những nền tảng thương mại điện tử để bán sản phẩm trực tiếp cho người dân thành phố.
+
+Tại Singapore, Urban Tiller, startup cho phép chỉ 8 tiếng sau thu hoạch, sản phẩm đã được chuyển tới tận các hộ gia đình. Ở Indonesia, người dân tại Bali và Java đang chuyển sang nền tảng tạp hoá điện tử Sayurbox để đặt hàng nông sản tươi sống trực tiếp từ dân địa phương.
+
+Mua sắm nông sản trực tuyến phát triển với nhịp độ nhanh đưa Đông Nam Á trở thành thị trường chủ chốt cho đầu tư công nghệ nông nghiệp. Theo AGFunder, các startup lĩnh vực nông nghiệp toàn cầu trong năm 2021 đã gọi vốn được tổng cộng 51,7 tỷ USD, gần gấp đôi so với năm trước đó.
+
+Châu Á là thị trường thực phẩm lớn nhất toàn cầu, khi thị phần tăng từ 42% năm 2014 lên 50% vào năm 2020. Dự đoán, người tiêu dùng sẽ bỏ ra thêm 4,4 nghìn tỷ USD cho lương thực trong 10 năm tới với việc nhân khẩu học đang thay đổi và nhu cầu về thực phẩm của người dân ngày càng cao cả về số lượng lẫn chất lượng.
+
+Vinh Ngô (Theo Kr-Asia)

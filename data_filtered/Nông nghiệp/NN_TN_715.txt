@@ -1,0 +1,35 @@
+Đáng nói, đội ngũ kỹ sư trẻ tự tay làm ra những chiếc máy bay không người lái có tỷ lệ nội địa tới 80% phần cứng (như pin, board mạch, khung sườn bằng carbon fiber) và 100% về phần mềm để công nghệ Việt Nam giúp chính nông nghiệp cất cánh.
+
+Máy bay không người lái “Made in Việt Nam”
+
+Phạm Thanh Toàn (33 tuổi), trú TP.Thủ Đức, TP.HCM, chàng trai trong đội ngũ kỹ sư của MiSmart chế tạo ra những chiếc máy bay không người lái, cho biết vật liệu chính của máy bay không người lái là sợi thủy tinh (fiber glass) và carbon có độ nhẹ hơn nhôm. Do công nghiệp bổ trợ ngành sản xuất này ở Việt Nam còn đang hạn chế nên hiện tại mô tơ và một số linh kiện được nhập khẩu từ: Mỹ, Đài Loan… Còn lại, tất cả phần mềm của máy bay do đội ngũ kỹ sư người Việt sáng tạo.
+
+Máy bay không người lái có thể bay cao 30 m, liên tục trong 20 phút, mang theo 16 - 20 lít thuốc chăm sóc cây trồng. Do được tích hợp trí tuệ nhân tạo (AI), thiết bị có thể chụp hình ảnh cây trồng, từ đó đội ngũ kỹ sư nông nghiệp có thể phân tích trên dữ liệu thu thập được những bất thường của cây, chẩn đoán đúng bệnh cây đang gặp và đề xuất phun loại thuốc phù hợp. Phun tưới bằng máy bay giúp canh tác trên những cánh đồng lớn nhanh hơn. Việc phun đúng và trúng giúp nhà nông tiết kiệm lượng thuốc, giảm thiểu chi phí sản xuất.
+
+Mới đây nhất, máy bay không người lái “Thần nông” (Demeter VS 20) do đội ngũ bên anh sáng tạo có nhiều cải tiến hiệu quả hơn như chỉ sạc pin 15 phút, dung tích tối đa tới 20 lít và tưới tự động với độ lệch chỉ 20 cm.
+
+“Máy bay không chỉ phun thuốc trừ sâu, trong nền nông nghiệp an toàn, nhà nông luôn hướng tới sử dụng các sản phẩm phân bón, chất dinh dưỡng, thuốc trị bệnh cho cây có thành phần từ sinh học, thân thiện với môi trường, an toàn cho người sử dụng. Do đó, những máy bay không người lái cũng được chúng tôi nghiên cứu để hoàn thiện nhiều mẫu sản phẩm, để phun phù hợp với từng loại thuốc nhà nông dùng”, anh Toàn cho biết.
+
+Anh Toàn đang có khách hàng nhiều nhất ở 3 tỉnh Long An, Đồng Tháp, An Giang, áp dụng trên các cánh đồng rộng lớn trồng lúa, mía…
+
+“Việc bay các thiết bị không người lái của chúng tôi đều được Cục Tác chiến, Bộ Quốc phòng cấp phép. Khi nhà nông Việt Nam được sử dụng đúng các thiết bị bay không người lái do người Việt Nam sản xuất và người Việt Nam tạo lập phần mềm thì vấn đề an ninh thông tin càng được an toàn hơn. Dữ liệu về nông trại, mùa vụ, sản lượng được bảo mật, không lo bị rò rỉ sang nước ngoài”, anh Toàn phân tích.
+
+Máy bay không người lái đang bay, chụp ảnh bắt bệnh cây trồng và phun thuốc Thanh Toàn
+
+Khát vọng nông nghiệp thông minh
+
+Sau khi tu nghiệp lĩnh vực máy học (machine learning) tại Nhật Bản, anh Phạm Thanh Toàn nhận thấy nền nông nghiệp có vị trí quan trọng trong việc phát triển nền kinh tế. Áp dụng công nghệ thông minh vào canh tác giúp nông nghiệp phát triển vượt bậc.
+
+“Trong khi đó, nông nghiệp Việt Nam vẫn đang làm thủ công rất nhiều, câu chuyện được mùa mất giá, nông sản bị đổ bỏ năm nào cũng xảy ra. Điều này thôi thúc tôi và những người đồng hành áp dụng các kiến thức, kinh nghiệm đã có từ nước ngoài để phát triển nền nông nghiệp thông minh ở Việt Nam, nâng cao giá trị nông sản”, anh Toàn nói về cơ duyên để anh và các bạn khởi nghiệp với MiSmart mà trong đó máy bay không người lái quản lý nông trại, bắt bệnh và phun thuốc cây trồng là một phần quan trọng.
+
+Đội ngũ sáng lập gồm 4 chàng trai, mỗi người có những thế mạnh riêng. Phạm Thanh Toàn tốt nghiệp cử nhân tài năng công nghệ thông tin Trường ĐH Khoa học tự nhiên TP.HCM; Trần Phi Vũ là tiến sĩ về thiết bị bay không người lái tại ĐH New South Wales (Úc); Nguyễn Thái Việt Huy phụ trách kinh doanh và marketing, còn anh Phạm Thanh Thọ là chuyên gia về nông nghiệp. Anh Thọ kết nối với đội ngũ kỹ sư nông nghiệp để từ hình ảnh máy bay chụp được sẽ phân tích, bắt bệnh cây trồng và chỉ định loại thuốc, phân bón phun phù hợp.
+
+Không chỉ chăm sóc cho các cánh đồng lúa, cây ngắn ngày, máy bay không người lái của Toàn và các kỹ sư đang được nghiên cứu, hoàn thiện tính năng để có thể phun tưới, bắt bệnh cây trồng trên vườn vải thiều, cam ở Đắk Lắk. Đồng thời, họ còn sáng tạo ra các sản phẩm xe tưới thông minh, tưới cả được mặt dưới của lá, phù hợp với các vườn cao su, cà phê, hồ tiêu.
+
+“Mục tiêu của chúng tôi là số hóa nông nghiệp, nhưng trước tiên cũng cần phải cơ giới hóa. Chúng tôi đang có những khách hàng ở Tây nguyên sử dụng xe tưới này. Trong nhiều trường hợp, có thể kết hợp máy bay tưới từ trên xuống, xe tưới từ dưới lên để đạt hiệu quả cao nhất”, Toàn cho biết.
+
+Đội ngũ kỹ sư Việt Nam và những chiếc máy bay không người lái “made in Việt Nam” Thanh Toàn
+
+Máy bay không người lái trồng rừng
+
+Máy bay không người lái bắt bệnh, phun thuốc cho cây trồng của Toàn và các cộng sự nằm trong top 10 hạng mục doanh nghiệp khởi nghiệp đổi mới sáng tạo ; Top 3 xuất sắc Giải thưởng Đổi mới sáng tạo ứng dụng trí tuệ nhân tạo TP.HCM năm 2020. Sản phẩm cũng đoạt giải nhất tại cuộc thi Tìm kiếm giải pháp chuyển đổi số Việt Nam (VietSolutions) 2020 do Bộ Thông tin - Truyền thông tổ chức.

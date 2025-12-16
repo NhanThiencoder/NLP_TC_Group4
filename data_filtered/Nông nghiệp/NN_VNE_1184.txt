@@ -1,0 +1,17 @@
+Bộ Công Thương đang xây dựng quy định về giá dịch vụ phát điện của hệ thống lưu trữ năng lượng bằng pin (BESS).
+
+Bộ Công Thương đang xây dựng dự thảo Thông tư quy định về giá dịch vụ phát điện của hệ thống pin lưu trữ. Dự thảo đề xuất cơ chế giá hai thành phần, gồm giá công suất tính theo độ sẵn sàng cung cấp điện của BESS; và giá điện năng dựa trên sản lượng thực tế phát lên lưới.
+
+Cơ chế này tương tự mô hình thủy điện tích năng, nhằm bảo đảm minh bạch, công khai, hỗ trợ vận hành an toàn và nâng cao hiệu quả hệ thống điện.
+
+Thực tế, theo quy định tại Quy hoạch điện VIII điều chỉnh, dự án mặt trời tập trung phải lắp pin lưu trữ với công suất tối thiểu bằng 10% công suất, tích trong 2 giờ. Hiện, Bộ Công Thương đã có thông tư về khung giá phát điện với hệ thống pin lưu trữ kết hợp với năng lượng tái tạo do chủ đầu các nhà máy điện mặt trời thực hiện.
+
+Các hệ thống pin lưu trữ được các công ty điện lực thuộc EVN đầu tư như là phương tiện điều khiển trên lưới điện cũng có quy định phương pháp thu hồi chi phí.
+
+Tuy nhiên, theo Bộ Công Thương, pin lưu trữ BESS là hệ thống nạp và xả điện để cung cấp cho lưới khi cần, giúp cân bằng phụ tải và duy trì ổn định hệ thống điện. Do có đặc thù kỹ thuật và chức năng khác biệt so với nhà máy điện truyền thống, các dự án BESS tập trung cần được áp dụng cơ chế giá riêng.
+
+Nhà điều hành cho rằng cơ chế về giá điện sẽ là tín hiệu để thu hút đầu tư trong lĩnh vực này. Việc xây dựng quy định cũng nhằm bảo đảm cơ chế giá điện minh bạch, công khai, phù hợp với quy định pháp luật hiện hành và tạo điều kiện thuận lợi cho thu hút đầu tư, hỗ trợ vận hành hệ thống điện an toàn, hiệu quả và nâng cao chất lượng điện năng.
+
+Pin lưu trữ giữ vai trò quan trọng khi tỷ trọng năng lượng tái tạo ngày càng cao, giúp cân bằng cung - cầu, giảm sự gián đoạn, hỗ trợ điều độ lưới và hạ chi phí vận hành hệ thống. Quy hoạch điện VIII điều chỉnh đặt mục tiêu công suất pin lưu trữ đạt 10.000 - 16.300 MW vào năm 2030 và hơn 95.000 MW vào năm 2050.
+
+Phương Dung

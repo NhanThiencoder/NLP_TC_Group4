@@ -1,0 +1,22 @@
+
+Nguồn tin ẩn danh cho biết các chip Blackwell tiên tiến nhất của Nvidia đã được buôn lậu vào Trung Quốc. DeepSeek được cho là dùng những con chip này để huấn luyện mô hình AI mới nhất của hãng.
+
+DeepSeek được cho là vẫn dùng các chip Nvidia, vốn bị cấm bán ở Trung Quốc để phát triển mô hình AI sắp ra mắt. Ảnh: Bloomberg.
+
+Theo một báo cáo mới từ The Information, startup AI DeepSeek của Trung Quốc đã dùng các chip của Nvidia, vốn bị cấm bán ở nước này để phát triển mô hình AI sắp ra mắt.
+
+Cụ thể, báo cáo trích dẫn các nguồn ẩn danh cho biết các chip Blackwell tiên tiến nhất của Nvidia đã được buôn lậu vào Trung Quốc thông qua những quốc gia được cấp phép bán. Thậm chí, các máy chủ chứa những con chip này đã được tháo dỡ trước khi đến Trung Quốc.
+
+Việc tìm cách buôn lậu chip Blackwell, công nghệ AI hàng đầu của Mỹ để phát triển mô hình cho thấy sự phụ thuộc nặng nề của ngành công nghiệp AI Trung Quốc vào phần cứng của Mỹ.
+
+Bất chấp nhiều nỗ lực đầu tư vào sản xuất chip của chính phủ Trung Quốc, các giải pháp thay thế trong nước vẫn chưa đủ khả năng cạnh tranh với những sản phẩm tốt nhất từ Nvidia trên thị trường toàn cầu.
+
+Deepseek vừa công bố mô hình DeepseekMath-V2, mô hình đạt thành tích tương đương huy chương vàng tại hàng loạt cuộc thi toán học uy tín. Động thái này đặt công ty của Trung Quốc vào vị trí cạnh tranh trực tiếp với các phòng thí nghiệm AI hàng đầu của Mỹ, vốn dẫn đầu trong khả năng suy luận của mô hình ngôn ngữ.
+
+Theo tài liệu kỹ thuật, DeepseekMath-V2 đạt kết quả ở mức huy chương vàng tại Olympic Toán học quốc tế (IMO) 2025 và kỳ thi CMO Trung Quốc 2024. Trong kỳ thi Putnam, mô hình ghi 118/120 điểm, vượt xa mốc 90 điểm của thí sinh con người đạt điểm cao nhất trong lịch sử. Những kết quả này là minh chứng cho khả năng xử lý các bài toán phức tạp.
+
+Công ty Trung Quốc giải thích rằng hạn chế của các mô hình AI trước đây nằm ở việc dù có thể đưa ra đáp án đúng, chúng lại không trình bày được lời giải hợp lệ.
+
+Để khắc phục, DeepseekMath-V2 sử dụng quy trình nhiều giai đoạn gồm để đánh giá tính đúng đắn, kiểm tra các phản biện và đưa ra kết quả sau cùng. Cách vận hành này cho phép hệ thống tự rà soát và tinh chỉnh lời giải theo thời gian thực, tránh tình trạng kết luận đúng nhưng lập luận sai.
+
+Điểm đáng chú ý là tài liệu của Deepseek không nhắc đến việc mô hình sử dụng công cụ bên ngoài như máy tính hay trình thông dịch mã. Thiết lập thử nghiệm cho thấy mọi kết quả được tạo ra hoàn toàn bằng ngôn ngữ tự nhiên.

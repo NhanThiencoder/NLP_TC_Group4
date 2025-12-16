@@ -1,0 +1,23 @@
+Trung tâm thông tin chỉ huy Cục Cảnh sát giao thông (Bộ Công an) là trung tâm quản trị cấp 1 của Cục Cảnh sát giao thông được ứng dụng nhiều công nghệ hiện đại, trong đó có kết hợp với ứng dụng trí tuệ nhân tạo (AI).
+
+Theo đó, các thông tin về phương tiện vi phạm, hình ảnh phương tiện vi phạm trên các tuyến đường cao tốc, nội đô... sẽ được truyền trực tuyến từ các camera giám sát trên đường cao tốc về Trung tâm thông tin chỉ huy Cục Cảnh sát giao thông.
+
+Ghi nhận của phóng viên Dân trí, tại đây hàng chục cán bộ chiến sĩ thuộc các phòng nghiệp vụ thuộc Cục Cảnh sát giao thông miệt mài làm việc, kiểm tra, phát hiện và xử lý các thông tin dữ liệu về tình hình trật tự an toàn giao thông trên các tuyến đường cao tốc.
+
+Hệ thống camera AI mới được Cục Cảnh sát giao thông lắp đặt trên phố Phạm Văn Bạch (phường Cầu Giấy, Hà Nội).
+
+Tại trung tâm, các cán bộ, chiến sĩ theo dõi được hình ảnh truyền về từ camera tích hợp trí tuệ nhân tạo (camera AI) lắp ở các tuyến đường và xe tuần tra của cảnh sát giao thông có gắn camera trên khắp cả nước.
+
+Đại tá Phạm Quang Huy, Phó Cục trưởng Cục Cảnh sát giao thông cho biết dữ liệu từ các thiết bị sau khi đưa về trung tâm sẽ được hệ thống AI phân tích để nhận diện hành vi, sau đó tự động chuyển sang file quản lý. Lực lượng cảnh sát giao thông trên cơ sở đó sẽ chuyển thông tin vi phạm nhanh nhất tới chủ xe thông qua ứng dụng VNeTraffic.
+
+Trong thời gian tới, từ phần mềm xử lý vi phạm, qua ứng dụng VNeTraffic, trong vòng 2 tiếng sau khi vi phạm, chủ phương tiện sẽ nhận được thông báo.
+
+Hình ảnh một tài xế xe khách không thắt dây an toàn trên cao tốc Nội Bài - Lào Cai bị camera AI phát hiện một cách rõ nét.
+
+Trong hình là Trung tâm lưu trữ dữ liệu điện tử thuộc Cục Cảnh sát giao thông.
+
+Đại tá Phạm Quang Huy cho biết, từ dữ liệu được truyền về sẽ thông qua hệ thống phần mềm ứng dụng trí tuệ nhân tạo (AI) để tự động nhận diện hành vi.
+
+"Hiện nay ở Việt Nam có tới 4.000 hành vi liên quan tới vi phạm giao thông, nhưng thực tế chúng ta chỉ xử lý được khoảng 100 hành vi. Hiện nay camera AI đã có thể tự phát hiện, nhận biết được khoảng 20 hành vi vi phạm giao thông, ví dụ hành vi không đội mũ bảo hiểm, vượt đèn đỏ...", Đại tá Huy chia sẻ.
+
+Trong hình là một tài xế xe tải không thắt dây an toàn bị camera AI phát hiện ghi lại một cách sắc nét.

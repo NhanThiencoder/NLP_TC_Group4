@@ -1,0 +1,12 @@
+ Tiếp tục xuất hiện công cụ mã độc khai thác lỗi bảo mật Windows
+
+Chương trình mã độc khai thác lỗi này xuất hiện vào ngày thứ ba 29-11. Nó có tác dụng khai thác một lỗi bảo mật xuất hiện trong trong cách thức Windows điều khiển các file hình ảnh. Microsoft đã tung ra bản vá mã số MS05-053 để sửa lỗi này trong tháng 10 và cảnh báo rằng lỗi bảo mật này sẽ tạo điều kiện cho phần mềm gián điệp và trojan tấn công máy tính. 
+
+Nữ phát ngôn viên của Microsoft đã công nhận sự tồn tại của chương trình khai thác lỗi bảo mật nói trên: ”Microsoft đã biết được sự xuất hiện trên Internet của một chương trình chuyên khai thác lỗi bảo mật MS05-053. Theo điều tra ban đầu của Microsoft thì chương trình này có khả năng xâm nhập thành công vào máy tính, tạo điều kiện cho kẻ tấn công tung ra các cuộc tấn công bằng kỹ thuật từ chối dịch vụ”. Microsoft cũng an ủi người dùng rằng hiện chưa có ai “bị hại” bằng chương trình khai thác lỗi này. 
+
+Bản vá bảo mật MS05-053 đã vá lại lỗi xuất hiện trong phương pháp Windows dựng hình các file định dạng Windows Metafile và Enhanced Metafile. Kẻ tấn công có thể lợi dụng lỗi này để tung file hình có cấy mã độc nhằm dụ dỗ người dùng chui vào các trang web lừa đảo. Microsoft đã xếp lỗi bảo mật này vào dạng “nghiêm trọng”. 
+
+Microsoft khuyến cáo mọi người nên cập nhật ngay các bản vá lỗi mới nhất do Microsoft phát hành, cũng như nâng cấp toàn diện mọi công cụ bảo mật mà mình hiện có. 
+
+
+

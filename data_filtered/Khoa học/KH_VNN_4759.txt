@@ -1,0 +1,37 @@
+Công ước Hà Nội là văn kiện pháp lý đầu tiên của Liên Hợp Quốc về phòng, chống tội phạm mạng. Sự kiện này đánh dấu bước ngoặt lịch sử khi Việt Nam trở thành quốc gia đăng cai ký kết công ước toàn cầu đầu tiên về an ninh mạng, thể hiện vai trò chủ động, sáng tạo và có trách nhiệm của Việt Nam trong nỗ lực kiến tạo không gian mạng an toàn, lành mạnh và hợp tác quốc tế vì hòa bình, thịnh vượng.
+
+Tại sự kiện, Tập đoàn Công nghệ CMC giới thiệu hệ sinh thái an ninh mạng hợp nhất “Make in Vietnam” gồm hạ tầng - nền tảng - dịch vụ, hướng tới bảo vệ chủ quyền dữ liệu doanh nghiệp Việt Nam theo chuẩn quốc tế, vận hành ngay tại Việt Nam.
+
+Toàn cảnh Lễ ký Công ước Liên hợp quốc về phòng chống tội phạm mạng tại Trung tâm Hội nghị Quốc gia (Hà Nội), ngày 25/10/2025
+
+Tại triển lãm trong khuôn khổ Lễ ký Công ước Hà Nội, CMC giới thiệu Hệ sinh thái an ninh mạng được xây dựng trên hạ tầng nội địa gồm CMC Cloud và CMC Data Center, kết nối trực tiếp với Trung tâm điều hành an ninh mạng CMC SOC 24/7, vận hành bởi đội ngũ chuyên gia đạt chứng chỉ quốc tế. Lớp nền tảng là CMC Comprehensive Security Platform - CCSP - nền tảng hợp nhất cho giám sát, phân tích và phản ứng sự cố. Mô hình này giúp doanh nghiệp duy trì chu trình liên tục phát hiện - ứng phó - khôi phục - cải tiến, với các chỉ số đo lường rõ ràng (MTTA/MTTR), đảm bảo kiểm toán, tuân thủ và mở rộng linh hoạt.
+
+Song song, CMC cung cấp trọn bộ dịch vụ theo vòng đời: đánh giá mức độ trưởng thành an ninh, tư vấn - thiết kế kiến trúc tích hợp tuân thủ ngay từ thiết kế (compliance-by-design), triển khai giải pháp, diễn tập định kỳ và kiểm thử xâm nhập đạt chuẩn CREST. Ở lớp đầu cuối, CMC Antivirus/EDR (CMDD) đạt chứng chỉ VB100; ở lớp tổ chức, CMC hỗ trợ đánh giá và vận hành tuân thủ theo ISO/IEC 27001, 27701, 27017, 27018, 22301, PCI-DSS… giúp doanh nghiệp rút ngắn thời gian đạt chuẩn, giảm chi phí và đảm bảo vận hành an toàn.
+
+Phó Thủ tướng Bùi Thanh Sơn và các đại biểu quốc tế thăm Gian hàng triển lãm các giải pháp, dịch vụ an ninh mạng của CMC bên lề Lễ ký Công ước Hà Nội
+
+Về mô hình hợp tác, CMC ưu tiên mô hình SOC đồng vận hành: đội ngũ CMC trực 24/7, còn đội CNTT của khách hàng làm chủ ca ngày, đồng thiết kế kịch bản ứng phó và nhận chuyển giao quy trình vận hành. Kết quả trong 90 ngày đầu: thời gian xác nhận cảnh báo trung bình (MTTA) rút xuống mức phút; thời gian khắc phục sự cố trung bình (MTTR) duy trì dưới ngưỡng mục tiêu cho các kịch bản phổ biến; phạm vi có thể bị tấn công giảm đáng kể nhờ chu kỳ khắc phục ngắn hạn sau mỗi đợt kiểm thử đỏ (red team). Mô hình này đặc biệt phù hợp với ngân hàng/fintech, sản xuất - logistics (phân vùng IT/OT, giám sát thiết bị công nghiệp) và tập đoàn đa quốc gia vận hành đa đám mây.
+
+Ông Đặng Tùng Sơn - Phó Chủ tịch SVP/Giám đốc Chiến lược CMC cho biết: Việc ký kết và triển khai Công ước sẽ tác động trực tiếp đến chiến lược và hoạt động của các doanh nghiệp an ninh mạng, nhất là trong việc tuân thủ các chuẩn mực quốc tế về bảo mật, điều tra và xử lý sự cố. Các doanh nghiệp sẽ phải tăng cường năng lực hợp tác quốc tế, chủ động chia sẻ dữ liệu sự cố, tham gia vào các cơ chế cảnh báo sớm và hỗ trợ điều tra xuyên biên giới.
+
+Phó Chủ tịch SVP/CSO Đặng Tùng Sơn tháp tùng Chủ tịch CMC Nguyễn Trung Chính cùng ekip tổ chức gian hàng Hệ sinh thái an ninh mạng CMC tại Triển lãm bên lề Công ước Hà Nội
+
+Với kinh nghiệm phục vụ hơn 3.000 tổ chức trong và ngoài nước, hệ sinh thái đối tác kết nối với hơn 20 hãng bảo mật toàn cầu (Fortinet, NexusGuard, Brandefense…), CMC hiện là doanh nghiệp Việt Nam đầu tiên cùng lúc đạt ba chứng nhận CREST: Trung tâm điều hành an ninh mạng (CREST SOC, 9/2025), Kiểm thử xâm nhập (CREST Pentest, 7/2025) và Đánh giá lỗ hổng (CREST Vulnerability Assessment, 9/2025).
+
+Từ góc nhìn khách hàng doanh nghiệp, lợi ích mà các sản phẩm, dịch vụ mà CMC mang lại nổi bật ở 3 điểm:
+
+- Rút ngắn thời gian xác nhận cảnh báo trung bình (MTTA) và thời gian khắc phục sự cố trung bình (MTTR) nhờ nền tảng giám sát - phản ứng hợp nhất và kịch bản ứng phó tự động hóa.
+
+- Tối ưu chi phí - nhân lực với mô hình đồng vận hành và hạ tầng nội địa.
+
+- Giảm rủi ro tuân thủ khi chuẩn quốc tế được “cài sẵn” ngay từ giai đoạn thiết kế. Với hạ tầng đa đám mây, mạng lưới chi nhánh rộng hoặc môi trường OT nhạy cảm, cách tiếp cận này giúp chuẩn hóa chính sách, thu hẹp bề mặt tấn công và đảm bảo tính liên tục kinh doanh (BCM) khi xảy ra sự cố.
+
+Ông Nguyễn Trung Chính, Chủ tịch Tập đoàn CMC - Phó Chủ tịch Hiệp hội An ninh mạng Quốc gia, nhấn mạnh: “Sau Lễ ký Công ước Hà Nội, yêu cầu hợp tác - chuẩn hóa - ứng phó trở thành tiêu chuẩn chung. CMC cam kết cùng Hiệp hội và cộng đồng doanh nghiệp đưa các chuẩn quốc tế vào vận hành ngay tại Việt Nam, với SOC đồng vận hành 24/7, kịch bản ứng phó tự động hóa và tuân thủ tích hợp từ thiết kế (compliance-by-design). Mục tiêu là bảo vệ dữ liệu - củng cố niềm tin số - thúc đẩy nền kinh tế số Việt Nam phát triển bền vững”.
+
+Ông Nguyễn Trung Chính - Chủ tịch CMC, Phó Chủ tịch Hiệp hội An ninh mạng Quốc gia cùng đại diện Ban lãnh đạo Tập đoàn dự Lễ ký Công ước Hà Nội
+
+Công ước Hà Nội là lời khẳng định về quyết tâm của cộng đồng quốc tế trong việc xóa bỏ “vùng an toàn” cho tội phạm mạng, thúc đẩy hợp tác tư pháp, chia sẻ dữ liệu và hỗ trợ điều tra giữa các quốc gia. Đối với Việt Nam, đây cũng là thời cơ để doanh nghiệp trong nước, như CMC, chứng minh năng lực làm chủ công nghệ và bảo vệ chủ quyền dữ liệu ngay trên lãnh thổ quốc gia.
+
+Với hệ sinh thái hạ tầng - nền tảng - dịch vụ an ninh mạng hợp nhất, CMC cam kết tiếp tục đồng hành cùng cơ quan quản lý và cộng đồng doanh nghiệp thực thi các cam kết của Công ước Hà Nội, góp phần xây dựng môi trường số an toàn, tin cậy và bền vững cho Việt Nam trong kỷ nguyên hợp tác quốc tế sâu rộng.
+
+(Nguồn: CMC)

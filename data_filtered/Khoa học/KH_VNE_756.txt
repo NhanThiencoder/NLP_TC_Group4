@@ -1,0 +1,21 @@
+Các mô hình AI lập luận tân tiến thường nêu rõ ý định trong chuỗi suy nghĩ của chúng, nhưng có thể giấu việc gian lận nếu thấy bị phạt.
+
+AI có thể tìm cách che giấu hành vi gian lận nếu bị phạt. Ảnh: Technology Networks
+
+Một nghiên cứu mới của OpenAI, công ty tạo ra ChatGPT, hé lộ, việc trừng phạt trí tuệ nhân tạo (AI) vì những hành vi lừa dối hoặc gây hại không ngăn được chúng làm sai mà có thể khiến chúng che giấu hành vi kỹ hơn, Live Science hôm 17/3 đưa tin.
+
+Các mô hình lập luận, ví dụ như o1 và o3-mini của ChatGPT, là phiên bản nâng cấp của mô hình ngôn ngữ lớn (LLM) tiêu chuẩn sử dụng phương pháp "chuỗi suy nghĩ" để dò lại và đánh giá lại logic, cho phép chúng giải quyết nhiệm vụ phức tạp hơn với độ chính xác cao hơn. Trong quá trình chuỗi suy nghĩ diễn ra, các mô hình đưa ra logic của chúng bằng ngôn ngữ đơn giản với mọi bước thực hiện. Điều này giúp các nhà khoa học dễ dàng quan sát hành động của chúng.
+
+"Các mô hình lập luận tân tiến thường nêu rất rõ ý định trong chuỗi suy nghĩ (CoT). Ví dụ, chúng thường thẳng thắn về kế hoạch phá hoại nhiệm vụ đến mức đưa ra suy nghĩ 'hãy hack'", nhóm nghiên cứu viết.
+
+Trong khi các nhà phát triển có thể giám sát và đánh dấu hành vi sai trái, khả năng giám sát tự nhiên của những mô hình này lại rất mong manh. "Nếu trực tiếp giám sát chặt chẽ chuỗi suy nghĩ, mô hình có thể học cách che giấu ý định trong khi vẫn tiếp tục hành vi sai trái", nhóm nghiên cứu cho biết.
+
+Trong nghiên cứu mới, nhóm chuyên gia sử dụng một LLM tiêu chuẩn, GPT-4o, để giám sát quá trình đào tạo một mô hình lập luận tân tiến mới chưa được công bố. Họ theo dõi mô hình này hoàn thành một số nhiệm vụ mã hóa.
+
+Nhưng đôi khi, mô hình lập luận nhận thấy "hack phần thưởng" - tối đa hóa phần thưởng bằng cách gian lận - sẽ hiệu quả hơn. Nó cũng nêu rõ rằng mình đang làm như vậy trong chuỗi suy nghĩ. Trong một trường hợp, nó bỏ qua nhiệm vụ được giao bằng cách kết thúc sớm chương trình và báo cáo thành công. Trong trường hợp khác, nó mô phỏng các file dự kiến được xuất ra bằng một file rỗng chỉ có tên, không hoạt động được.
+
+Khi nhóm nghiên cứu thử trừng phạt mô hình, nó đã cải thiện phần nào kết quả. Tuy nhiên, vẫn còn nhiều trường hợp hack phần thưởng và đầu ra lỗi vì mô hình lập luận tìm cách che giấu hành vi gian lận trong chuỗi suy nghĩ khỏi AI giám sát.
+
+Vì rất khó để biết chuỗi suy nghĩ có bị can thiệp hay không, nhóm nghiên cứu khuyến nghị người làm việc với các mô hình lập luận tránh áp dụng quy trình giám sát chặt chẽ với chuỗi suy nghĩ cho đến khi chúng được hiểu rõ hơn. Lời khuyên này thậm chí còn quan trọng hơn nếu mô hình AI có trí thông minh tương đương hoặc hơn người giám sát nó.
+
+Thu Thảo (Theo Live Science)

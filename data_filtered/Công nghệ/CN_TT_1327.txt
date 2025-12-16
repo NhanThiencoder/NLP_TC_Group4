@@ -1,0 +1,7 @@
+ Cảnh báo nguy cơ mất dữ liệu của MobiFone
+
+
+VSEC cũng khuyến cáo MobiFone cần phân tích tình hình, tiến hành các biện pháp cải tiến và tăng cường theo dõi hoạt động trên hệ thống, đề phòng khả năng bị mất cơ sở dữ liệu, mất thông tin của khách hàng. Cũng theo VSEC, hiện tại có một bộ phận nhỏ các đơn vị, ban ngành còn thờ ơ và không củng cố hệ thống bảo mật của mình khi được VSEC cảnh báo. 
+
+
+

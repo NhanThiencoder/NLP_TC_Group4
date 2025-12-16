@@ -1,0 +1,19 @@
+Công ty khởi nghiệp ở California phát triển máy tính lượng tử ủ D-Wave Advantage2 có khả năng tính toán nhanh gấp triệu lần siêu máy tính.
+
+Nguyên mẫu máy tính lượng tử ủ D-Wave Advantage2. Ảnh: D-Wave Quantum Inc
+
+D-Wave Quantum Inc, công ty khởi nghiệp ở California hoạt động trong lĩnh vực máy tính lượng tử dành cho ứng dụng thương mại, giải quyết một vấn đề hữu ích trong thực tế bằng nguyên mẫu máy tính lượng tử ủ D-Wave Advantage 2. Công ty xác nhận thành tựu mới thông qua một bài báo đăng hôm 12/3 trên tạp chí Science.
+
+Theo Định luật Moore, công suất tính toán và hiệu suất của microchip tăng gấp đôi cách hai năm một lần. Trong thời gian ngắn từ sau khi máy tính ra đời, chúng ta đã chứng kiến thay đổi to lớn về khả năng của chúng, ngay cả khi chúng tiếp tục thu nhỏ kích thước.
+
+Các nhà khoa học đang tìm cách chế tạo máy tính lớn và tốt hơn để thực hiện tính toán cấp exascale và giúp giải quyết những vấn đề như biến đổi khí hậu và phát hiện thuốc. Tuy nhiên, nhiều người cho rằng vấn đề như vậy nằm ngoài khả năng của siêu máy tính. Thay vào đó, máy tính lượng tử sử dụng cơ học lượng tử và có thể thực hiện tính toán mà những siêu máy tính nhanh nhất hiện nay mất tới vài năm. Dù có nhiều ồn ào xung quanh lĩnh vực này với các công ty cố gắng chế tạo máy tính nhiều qubit hơn, đơn vị lưu trữ thông tin và việc triển khai công nghệ trong thực tế vẫn chưa rõ ràng.
+
+Nhóm nghiên cứu ở D-Wave tiến hành mô phỏng với thủy tinh quay, một vấn đề ở vật liệu từ rất khó tính toán. Khoáng chất từ được sử dụng trong nhiều ứng dụng đa dạng từ y học tới bán dẫn, thiết kế cảm biến, motor... Tuy nhiên, do những vật liệu này cực nhỏ, việc hiểu rõ tương tác của chúng là một thách thức đối với phát hiện vật liệu mới.
+
+Do vật lý lượng tử chi phối hành vi của vật liệu, tìm hiểu trạng thái lượng tử của khoáng chất từ có thể giúp xác định những ứng dụng mới từ vật liệu. Những trung tâm máy tính hiệu suất cao (HPC) và siêu máy tính sử dụng bộ xử lý đồ họa (GPU) để tiến hành các tính toán như vậy. Phương pháp này không chỉ đòi hỏi nhiều năng lượng mà còn tốn thời gian.
+
+Nhóm nghiên cứu ở D-Wave cho rằng đây là vấn đề cần xử lý thông qua sử dụng máy tính lượng tử ủ nguyên mẫu Advantage 2. Một máy tính kiểu đó sử dụng cơ học lượng tử để tìm ra giải pháp tối ưu cho vấn đề phức tạp. Theo cách tiếp cận này, hệ thống bắt đầu với một loạt giải pháp khả thi ở trạng thái năng lượng cao, hướng tới đạt trạng thái năng lượng thấp hoặc tối thiểu với quá trình ủ - chậm rãi thay đổi thông số của hệ thống.
+
+Khi nhóm nghiên cứu D-Wave đặt ra vấn đề cho máy tính lượng tử của họ và siêu máy tính Frontier ở Phòng thí nghiệm quốc gia Oak Ridge (ORNL), máy tính lượng tử cho kết quả trong vòng vài phút. Ngược lại, siêu máy tính có thể mất tới một triệu năm để giải quyết vấn đề. D-Wave cho phép tiếp cận bộ xử lý của họ thông qua dịch vụ đám mây. Bộ xử lý của công ty đã lớn hơn gấp 4 lần với hàng nghìn qubit được thêm vào.
+
+An Khang (Theo Interesting Engineering)

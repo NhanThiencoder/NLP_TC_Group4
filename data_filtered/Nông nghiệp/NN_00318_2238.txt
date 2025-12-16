@@ -1,0 +1,26 @@
+Title: Đồng Nai: Tiên phong triển khai nền tảng dữ liệu số nông nghiệp
+
+Tỉnh Đồng Nai có trên 287.000 ha đất sản xuất nông nghiệp, trong đó có 7.600 ha nuôi trồng thủy sản, điều kiện thổ nhưỡng phù hợp với việc sản xuất nhiều loại nông sản khác nhau. Đặc biệt là cây công nghiệp, cây ăn trái nhiệt đới có giá trị kinh tế cao. Khí hậu ôn hòa, tài nguyên nước dồi dào, đáp ứng đủ cho sản xuất nông nghiệp. Nhìn chung, các loại cây trồng trong tỉnh khá đa dạng, phong phú với 15 loại cây trồng hàng năm, 9 loại cây lâu năm, riêng cây ăn quả có khoảng 11 loại khác nhau; có nhiều loại có quy mô lớn, chất lượng cao nổi tiếng cả nước.
+
+Ngành chăn nuôi phát triển mạnh với khoảng 2,56 triệu con lợn; 27,5 triệu con gà. Sản lượng thịt hàng năm đủ đáp ứng nhu cầu tiêu thụ nội tỉnh và là nguồn cung cấp chính cho thị trường tiêu dùng TP Hồ Chí Minh và các địa phương lân cận. Chăn nuôi trang trại công nghiệp phát triển mạnh là yếu tố rất quan trọng thúc đẩy ngành chăn nuôi phát triển nhanh và bền vững trong thời gian qua, hiện trên địa bàn có một số doanh nghiệp đầu tư phát triển chăn nuôi với quy mô lớn như: Công ty TNHH chăn nuôi CP Việt Nam; Công ty TNHH JAPPA Việt Nam; Công ty cổ phần GreenFeed - Chi nhánh Cẩm Mỹ; Công ty TNHH Sunjin ViNa; Công ty TNHH MTV Chăn nuôi Tám Do;... tổng đàn heo, gà của các doanh nghiệpFDI chiếm tỷ lệ tương đối cao (46% đối với heo, 33% đối với gà).
+
+Vê nuôi trồng thuỷ sản, mặc dù là tỉnh nằm trong vùng nội địa, không giáp biển, nhưng với diện tích mặt nước lớn nhất vùng Đông Nam bộ, rất thuận lợi cho nuôi thủy sản phát triển. Tổng diện tích mặt nước khoảng 63 ngàn ha, gồm 59 ngàn ha nước ngọt và khoảng 4 ngàn ha nước lợ. Tổng diện tích có tiềm năng nuôi thủy sản của tỉnh là 48,3 ngàn ha (diện tích mặt nước nuôi trồng thủy sản khoảng 35,7 ngàn ha, trong đó: nước ngọt: 33,9 ngàn ha và nước lợ: 1,8 ngàn ha).
+
+Diện tích đất lâm nghiệp có rừng khoảng 171 ngàn ha (chiếm khoảng 30% diện tích đất tự nhiên của tỉnh); công tác phát triển rừng được quan tâm chỉ đạo, đẩy mạnh công tác trồng, chăm sóc, khoanh nuôi tái sinh và nâng cao chất lượng rừng trồng, tỷ lệ che phủ rừng duy trì ổn định 29% và tỷ lệ che phủ cây xanh 52%.
+
+Xác định chuyển đổi số nông nghiệp góp phần chuyển đổi hệ thống nông sản theo hướng nâng cao giá trị gia tăng, giúp giải quyết bài toán về tăng năng suất, đồng thời thúc đẩy ngành nông nghiệp phát triển theo hướng bền vững, tỉnh đã chủ động, tích cực thúc đẩy chuyển đổi số trong lĩnh vực nông nghiệp.
+
+Theo ghi nhận, ngành nông nghiệp Đồng Nai đã thực hiện việc xây dựng nền tảng dữ liệu số trong nhiều lĩnh vực.
+
+Ngành nông nghiệp tỉnh đã tập trung triển khai nhiều chương trình chuyển đổi số như: Nâng cấp hạ tầng công nghệ thông tin, xây dựng cơ sở dữ liệu ngành nông nghiệp. Tỉnh cũng tổ chức Hội nghị tham vấn ý kiến của Bộ Nông nghiệp và phát triển nông thôn về triển khai nền tảng dữ liệu số nông nghiệp, nền tảng truy xuất nguồn gốc nông sản; phối hợp với Trung tâm Chuyển đổi số và Thống kê nông nghiệp triển khai áp dụng Hệ thống truy xuất nguồn gốc nông sản của Bộ Nông nghiệp và phát triển nông thôn trên địa bàn tỉnh. Tỉnh cũng đang tiếp tục xây dựng các dự án đầu tư về hạ tầng công nghệ thông tin, các phần mềm ứng dụng để phục vụ chuyển đổi số.
+
+Đến nay, toàn tỉnh đang sử dụng nhiều phần mềm/cơ sở dữ liệu ngành trong nhiều lĩnh vực gồm: phát triển nông thôn và quản lý chất lượng nông lâm thủy sản; trồng trọt và bảo vệ thực vật; thủy lợi; thủy sản; lâm nghiệp; chăn nuôi và thú y. Các phần mềm phục vụ công tác thanh tra, tổ chức quản lý, xử lý chồng chéo trong thanh tra, kiểm tra. Việc triển khai sử dụng các phần mềm, cơ sở dữ liệu ở một số lĩnh vực thuộc ngành đã góp phần nâng cao hiệu lực, hiệu quả công tác quản lý nhà nước.
+
+
+Đặc biệt, từ năm 2020, tỉnh đã triển khai 2 dự án Quản lý trang trại chăn nuôi thông qua phần mềm Te-food và Truy xuất nguồn gốc sản phẩm từ động vật. Đồng thời, xây dựng danh mục các dự án đầu tư công phục vụ chuyển đổi số giai đoạn 2021-2025. Về dự án truy xuất nguồn gốc sản phẩm từ động vật, đến nay toàn tỉnh có gần 1,2 ngàn cá nhân, tổ chức tham gia như: siêu thị, cửa hàng tiện lợi, chợ, cơ sở giết mổ lợn, thương nhân thu mua lợn, cơ sở chăn nuôi, bếp ăn tập thể khu công nghiệp, bếp ăn trường học... Dự án Quản lý trang trại chăn nuôi gia súc, gia cầm trên địa bàn tỉnh có gần 1,8 ngàn trang trại chăn nuôi đăng ký, khai báo, xác nhận trên phần mềm.
+
+Từ những thành tựu đã đạt được, Đồng Nai đặt mục tiêu chuyển đổi số của ngành nông nghiệp đến năm 2025, định hướng đến năm 2030, với 5 nhóm giải pháp, nhiệm vụ cụ thể để hiện thực hóa mục tiêu đề ra gồm:
+
+Phát triển nền tảng chuyển đổi số; xây dựng cơ sở dữ liệu; phát triển kinh tế số nông nghiệp, phát triển nông dân số, nông thôn số; xây dựng một số mô hình chuyển đổi số trong sản xuất nông nghiệp nhằm phát triển nông nghiệp công nghệ cao, nông nghiệp thông minh, nông nghiệp chính xác, tăng tỷ trọng của nông nghiệp công nghệ số trong nền kinh tế.
+
+Ngọc Tuân và nhóm PV, BTV

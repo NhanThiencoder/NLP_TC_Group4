@@ -1,0 +1,17 @@
+Trung Quốc phát triển mẫu máy bay chở khách siêu thanh C949 với tầm hoạt động 10.900 km và sức chở 28 - 48 hành khách.
+
+COMAC hé lộ thiết kế máy bay chở khách siêu thanh C949. Ảnh: COMAC
+
+Tập đoàn Máy bay Thương mại Trung Quốc (COMAC) đặt mục tiêu định nghĩa lại vận tải siêu thanh với máy bay chở khách C949 tốc độ 1,6 Mach (gần 2.000 km/h), hứa hẹn tầm bay xa hơn và giảm đáng kể tiếng ồn so với máy bay siêu thanh Concorde, Interesting Engineering hôm 30/3 đưa tin. Nhóm kỹ sư dẫn đầu bởi Wu Dawei, nhà khí động học từng đoạt giải thưởng của COMAC, trình bày về thiết kế của loại máy bay chở khách mới trong nghiên cứu xuất bản trên tạp chí Acta Aeronautica Sinica.
+
+Nhóm nghiên cứu đặt mục tiêu cho C949 là tăng 50% phạm vi hoạt động so với Concorde, từ 7.200 km lên 10.900 km. Dự án cũng hướng đến giảm tiếng nổ siêu thanh xuống mức 83,9 PLdB, tương đương với âm thanh của máy sấy tóc.
+
+Việc giảm tiếng ồn xuống chỉ bằng 1/20 so với tiếng nổ như sấm của Concorde sẽ giúp C949 vượt qua các rào cản pháp lý từng ngăn chuyến bay siêu thanh diễn ra trên đất liền. Mẫu máy bay này sẽ cạnh tranh với các dự án tương tự từ những tổ chức như NASA và Lockheed Martin, bao gồm cả máy bay X-59. Một số nhà nghiên cứu cho rằng "kẻ chiến thắng" có thể định nghĩa lại ngành hàng không toàn cầu.
+
+Thân máy bay C949 có thể thay đổi hình dạng với phần giữa cong theo kiểu camber ngược giúp giảm sóng xung kích, ngăn chúng biến thành tiếng nổ ồn ào. Phần mũi nhô dài giống cây kim chia sóng xung kích dẫn đầu thành ba xung nhẹ hơn, trong khi những chỗ phồng khí động học gần động cơ giúp phân tán nhiễu động khí thải, nhờ đó giảm nhẹ tiếng nổ. Ngoài ra, thiết kế còn bao gồm một số điều chỉnh quan trọng như hệ thống nhiên liệu có thể di chuyển 42.000 kg giữa 7 thùng để duy trì sự cân bằng và tối ưu hóa trọng tâm khi bay.
+
+Các ước tính công nghiệp cho thấy vận tải siêu thanh có thể đạt tới 45 triệu hành khách mỗi năm, tương đương khoảng 1% tổng số hành khách hàng không toàn cầu mỗi năm. Trong khi X-59 QueSST của NASA nhắm tới độ ồn 75 PLdB và ra mắt năm 2027, các startup như Boom Supersonic tập trung vào thị trường ngách, thì C949 của COMAC được thiết kế để hoạt động trong phạm vi rộng.
+
+C949 chở được 28 - 48 hành khách trong cabin theo phong cách hạng thương gia, ít hơn đáng kể so với sức chứa 100 hành khách của Concorde. Với phạm vi hoạt động dài hơn, máy bay siêu thanh mới có thể bay thẳng từ Thượng Hải đến Los Angeles trong khoảng 5 giờ. Ban đầu, nó sẽ tập trung vào các tuyến bay xuyên Thái Bình Dương, bay qua các hành lang đại dương để giảm khiếu nại về tiếng ồn. C949 dự kiến bắt đầu hoạt động năm 2049.
+
+Thu Thảo (Theo Interesting Engineering)

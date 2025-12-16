@@ -1,0 +1,17 @@
+Thiết bị truyền tin kết nối với hệ thống báo cháy cơ sở, khi phát hiện bất thường sẽ tự động phát tín hiệu đến trung tâm chỉ huy PC07 gần như tức thời.
+
+Nhiều cơ sở sản xuất, kinh doanh thời gian gần đây bắt đầu chú ý đến thiết bị truyền tin báo cháy kết nối trực tiếp đến lực lượng phòng cháy chữa cháy. Hệ thống này được cơ quan công an các địa phương tuyên truyền đến các cơ sở thuộc diện quản lý phòng cháy chữa cháy, được xem như công cụ hỗ trợ để chủ động phát hiện sớm và hạn chế rủi ro khi xảy ra sự cố.
+
+Khi đầu báo tại cơ sở phát hiện khói, nhiệt hoặc sự cố bất thường, thiết bị sẽ lập tức cảnh báo đến tối thiểu ba số điện thoại của cơ sở đã đăng ký thông qua cuộc gọi tự động và ứng dụng GSafePro. Ngay lập tức, người quản lý có thể nắm được tình hình, dù không có mặt tại chỗ, nhanh chóng kiểm tra để xác minh xem đây là tín hiệu thật hay báo động nhầm.
+
+Thiết bị truyền tin kết nối trực tiếp với hệ thống báo cháy tại cơ sở. Ảnh GTel
+
+Song song với cảnh báo gửi đến chủ cơ sở, thiết bị cũng truyền tín hiệu về Trung tâm Thông tin Chỉ huy của lực lượng Phòng cháy chữa cháy và Cứu nạn cứu hộ. Khi tiếp nhận tin báo, hệ thống của trung tâm thông tin chỉ huy hiển thị ngay dữ liệu của cơ sở, giúp chủ động và chuẩn bị phương án ứng phó, không phải chờ cuộc gọi báo cháy thủ công. Việc tiếp nhận tín hiệu sớm giúp rút ngắn thời gian xử lý, tăng khả năng kiểm soát đám cháy ngay từ đầu và hạn chế nguy cơ thiệt hại.
+
+Hiện nay, hệ thống truyền tin báo cháy trên toàn quốc được Bộ Công an giao Cục Cảnh sát Phòng cháy chữa cháy và Cứu nạn cứu hộ phối hợp cùng GTel xây dựng và vận hành. Theo đó, GTel được giao nhiệm vụ cung cấp dịch vụ truyền tin theo Quyết định 8390, đồng thời chịu trách nhiệm duy trì chất lượng đường truyền và bảo đảm an toàn dữ liệu trong suốt quá trình hệ thống hoạt động.
+
+Các chủ cơ sở kinh doanh tìm hiểu về hệ thống. Ảnh: GTel
+
+Theo Luật Phòng cháy, chữa cháy 2024 và Nghị định 105/2025/NĐ-CP, tất cả cơ sở thuộc diện quản lý phòng cháy chữa cháy đều phải lắp đặt thiết bị truyền tin báo cháy. Thời hạn hoàn thành là ngày 1/7/2027. Các trường hợp không thực hiện đúng quy định sẽ bị xử phạt theo Nghị định 106, mức phạt có thể lên đến 60 triệu đồng.
+
+Hoài Phương

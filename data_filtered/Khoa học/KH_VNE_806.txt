@@ -1,0 +1,17 @@
+Nhà máy mới của công ty Figure sẽ kết hợp sử dụng robot và công nhân, có thể sản xuất 12.000 robot hình người mỗi năm.
+
+Robot Figure 2 đang được thử nghiệm trong điều kiện sản xuất thực tế. Ảnh: Figure AI
+
+Công ty Figure ở California thông báo họ đang phát triển một cơ sở sản xuất robot BotQ số lượng lớn. Được phát triển nội bộ bởi Figure, nhà máy mới chỉ tập trung vào sản xuất robot hình người. Theo công ty, dây chuyền thế hệ đầu tiên của cơ sở có thể sản xuất tới 12.000 robot hình người mỗi năm và có kế hoạch tăng đáng kể công suất, Interesting Engineering hôm 16/3 đưa tin.
+
+Figure giải thích quyết định này sẽ giúp duy trì kiểm soát chặt chẽ chất lượng robot và hiệu quả sản xuất. Tích hợp theo chiều dọc cho phép Figure đảm bảo tiêu chuẩn chất lượng cao và phản ứng nhanh chóng với thay đổi về thiết kế hoặc vấn đề chất lượng. Đây là chiến lược kinh doanh trong đó một công ty kiểm soát nhiều giai đoạn của chuỗi cung ứng, từ vật liệu thô tới phân bố sản phẩm cuối cùng, thông qua sáp nhập hoạt động kinh doanh trong chuỗi đó.
+
+Figure đang chuẩn bị quản lý sản xuất quy mô lớn ở cơ sở thông qua sử dụng nền tảng phần mềm chuyên dụng, bao gồm kiểm soát và theo dõi dây chuyền theo thời gian thực qua hệ thống Manufacturing Execution System (MES). BotQ cũng hưởng lợi từ hệ thống Product Lifecycle Management (PLM) giúp giám sát vòng đời của robot từ thiết kế tới sản xuất, hệ thống Enterprise Resource Planning (ERP) giúp quản lý tài nguyên, lịch trình và vận chuyển, hệ thống Warehouse Management System (WMS) sẽ tối ưu hóa quản lý nhà kho.
+
+Nhà máy cũng tích hợp một số robot do Figure sản xuất. Các robot hình người của Figure sẽ hỗ trợ sản xuất thêm robot. Việc sử dụng lao động robot sẽ giúp tăng cường tự động hóa, tốc độ sản xuất và giảm sự liên quan của con người trong những công việc lặp lại. Công ty cũng thông báo kế hoạch chuyển từ nguyên mẫu robot hình người Figure 02 sang robot sẵn sàng sản xuất Figure 03 để cải thiện khả năng mở rộng và tính kinh tế. Robot này có thiết kế hướng tới giảm số lượng linh kiện và đơn giản hóa lắp ráp.
+
+Figure chia sẻ họ sẽ chuyển từ máy CNC chậm và tốn kém sang những quy trình sản xuất nhanh và rẻ hơn như ép phun, ép phun kim loại, đúc khuôn và dập. Quyết định này sẽ giảm đáng kể thời gian sản xuất linh kiện từ vài ngày hay vài tuần xuống vài giây, dù đòi hỏi vốn đầu tư ban đầu lớn. Nhà máy có một đội ngũ chuyên gia đảm bảo an toàn robot và độ tin cậy thông qua thử nghiệm chặt chẽ và phân tích vòng đời.
+
+Để hoàn thiện thiết kế nhà máy, Figure thuê các chuyên gia sản xuất để tối ưu hóa dây chuyền lắp ráp và quy trình để sản xuất hàng loạt hiệu quả. Figure cũng phát triển phần mềm trí tuệ nhân tạo mới mang tên Helix nhằm kiểm soát robot sử dụng trực tiếp trong dây chuyền sản xuất. Việc kết hợp lực lượng lao động robot và con người sẽ tăng độ linh hoạt, chính xác và hiệu quả sản xuất chung.
+
+An Khang (Theo Interesting Engineering)

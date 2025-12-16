@@ -1,0 +1,12 @@
+Procurve 6200yl-24G-mGBIC là một thiết bị chuyển mạch cao cấp dạng xếp chồng chuẩn Layer với kích thước 1U với tính năng tốc độ Gigabit và một module tùy chọn với 4 cổng kết nối 10-GbE, dòng 6200yl-24-mGBIC cung cấp những tính năng toàn diện với tính linh hoạt được cực đại hoá nhằm phục vụ cho việc kết nối mạng.
+
+Thiết kế để triển khai như là một sự kết hợp của lưu lượng dữ liệu từ ngoài vào mạng trung tâm, dòng thiết bị chuyển mạch 6200 hỗ trợ nhiều chuẩn mini-GBIC như SX, LX, LH và 1000Base-T. Cơ sở của thiết bị chuyển mạch này là một chip Provision ASIC cho phép hầu hết các tính năng mạng đòi hỏi, ví dụ như Quality of Service (QoS) và khả năng bảo mật. Với kiến trúc có hiệu quả cao và chip ASIC có khả năng lập trình, thiết bị chuyển mạch này cung cấp khả năng bảo vệ sự đầu tư xuất sắc, tính linh hoạt.
+
+Công nghệ 6200yl-24-mGBIC cung cấp nhiều lợi ích then chốt cho các khách hàng như là :
+
+&bull; Khả năng tập hợp lưu lượng dữ liệu từ nhiều bộ chuyển mạch cao cấp trong một toà nhà hoặc viện nghiên cứu thông qua hạ tầng cáp biber đến trung tâm dữ liệu.• Cung cấp sự kết hợp trên cùng cho các thiết bị chuyển mạch khác trong một khung stack để tăng hiệu suất, khả năng kiểm soát và độ tin cậy.• Hỗ trợ các ứng dụng đòi hỏi băng thông cao như telemedicine và biên tập phim ảnh.• Giảm chi phí vận hành bằng cách cung cấp cùng độ linh hoạt và độ gia tăng như dòng Procurve 3500 và 5400, qua đó giúp dễ dàng hơn trong công việc vận hành và bảo trì hạ tầng.
+
+ProCurve 6200yl-24-mGBIC Premium Edge: dự kiến sẽ có mặt vào Quý 2 năm 2006
+
+
+

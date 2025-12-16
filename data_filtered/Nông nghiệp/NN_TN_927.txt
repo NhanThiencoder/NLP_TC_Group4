@@ -1,0 +1,7 @@
+Theo Neowin, bộ phận Maluuba mà Microsoft mua hồi đầu năm nay đã có một bước đột phá quan trọng bằng cách phát triển hệ thống AI đạt điểm số tối đa mà người chơi có thể đạt được của game cổ điển Pac-Man.
+
+Microsoft cho biết, nhóm AI của hãng đã sử dụng một phương pháp mà họ gọi là Hybrid Reward Architecture, sử dụng hơn 150 tác nhân làm việc song song với nhau. Một số tác nhân thực hiện công việc riêng để tìm kiếm các viên nhỏ, trong khi các tác nhân khác sẽ quan sát những con ma. Tất cả các tác nhân này sẽ báo cáo đến một “siêu quản lý” để đưa ra các đề xuất giúp thực hiện những bước di chuyển cần thiết cho Pac-Man.
+
+Giải thích cho lý cho chọn một trò chơi cổ điển của những năm 1980 để thử nghiệm hệ thống AI của mình, quản lý chương trình tại Maluuba - Rahul Mehrotra cho biết: “Rất nhiều công ty đang phát triển AI để xử lý các trò chơi bằng cách xây dựng các thuật toán bởi nó yêu cầu rất nhiều kỹ năng giống con người để có thể đi đến đích cuối cùng của trò chơi”.
+
+Trong báo cáo của mình, tác giả nhóm nghiên cứu Harm van Seijen cho biết bước đột phá nói trên cho phép bộ phận AI của Microsoft có thể đạt được những tiến bộ hơn nữa trong việc giải quyết các vấn đề thực sự phức tạp. Phương pháp xử lý trong AI đó là dựa vào các mục tiêu gửi đến, siêu quản lý sẽ chọn ra phương pháp tối ưu hóa cơ hội để vượt qua chướng ngại.

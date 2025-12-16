@@ -1,0 +1,55 @@
+Trong thế giới startup, việc "move fast and break things" (di chuyển nhanh và phá vỡ mọi giới hạn) thường được ví như tôn chỉ sống còn. Thế nhưng Jake Adler – chàng trai 21 tuổi, nhà sáng lập Pilgrim – đã đẩy khái niệm ấy đi xa hơn bất kỳ ai tưởng tượng: anh thực sự đổ máu cho startup của mình.
+
+Pilgrim là một công ty công nghệ sinh học và quốc phòng có trụ sở tại Redwood, California, tập trung vào thiết bị y tế cho chiến trường. Sản phẩm đầu tay của Adler là Kingsfoil, một loại băng cầm máu gốc đất sét được thiết kế để ngăn chặn xuất huyết nhanh chóng. Và để chứng minh hiệu quả, Adler đã chọn cách thử nghiệm… trên chính cơ thể mình.
+
+Nổi tiếng
+
+Trong một đoạn video gửi cho các nhà đầu tư, Adler tiêm lidocaine để gây tê, dùng dụng cụ sinh thiết tạo ra hai vết thương chuẩn xác trên đùi. Một vết được băng bằng Kingsfoil, một vết để đối chứng.
+
+Khi miếng băng tiếp xúc với da, nó nhanh chóng chuyển thành dạng gel, giúp cầm máu gần như ngay lập tức.
+
+"Tôi đã nghiên cứu kỹ luật và không có gì ngăn cản tôi thử nghiệm trên chính cơ thể mình," Adler chia sẻ. "Cũng giống như việc bạn có thể xăm hình, cơ thể là của tôi."
+
+Adler khẳng định không có tác dụng phụ nào được biết đến đối với Kingsfoil, một loại thuốc cầm máu gốc đất sét, ngoài việc có thể gây kích ứng da nhẹ.
+
+Tuy nhiên, nhà sáng lập này cũng cảnh báo những người khác không nên học theo cách làm nguy hiểm này để gọi vốn.
+
+"Tôi đã rất cẩn trọng khi làm thí nghiệm", anh Adler nói thêm.
+
+Kết quả? Pilgrim nhanh chóng thu hút sự chú ý. Video gây sốc nhưng thuyết phục này trở thành "cú hích" giúp startup gọi vốn thành công 4,3 triệu USD chỉ sau đó vài tuần. Vòng gọi vốn do Cantos VC dẫn đầu, cùng sự tham gia của Thiel Capital, Day One Ventures, Refactor Capital và một loạt nhà đầu tư thiên thần.
+
+Điều thú vị là ý tưởng "tự rạch đùi" hoàn toàn không đến từ áp lực nhà đầu tư.
+
+"Đó là lựa chọn của Jake," Ian Rountree, General Partner của Cantos VC, nói. "Chúng tôi tìm kiếm những người khác biệt và hơi điên một chút. Jake là một trong số đó."
+
+Dù đã liều mình tự thử nghiệm, Adler nhấn mạnh rằng đây chỉ là một bước khởi đầu. Anh cho biết Kingsfoil sẽ trải qua các cuộc thử nghiệm lâm sàng chính thức và nghiêm ngặt để đạt được sự chấp thuận của Cục Quản lý Thực phẩm và Dược phẩm Mỹ (FDA).
+
+Theo Adler, do các loại băng gạc cầm máu tương tự đã tồn tại trên thị trường, Kingsfoil có thể đi theo một "lộ trình cấp tốc" để được FDA chấp thuận trong khoảng sáu tháng.
+
+Sinh ra từ máu
+
+Pilgrim hiện không chỉ dừng lại ở Kingsfoil. Startup năm người này còn phát triển Voyager, một loại sương hít giúp cơ thể trung hòa tác nhân hóa học như khí độc thần kinh, và ARGUS, nền tảng giám sát sinh – hóa học dành cho các khu vực rủi ro cao.
+
+Tuy nhiên, Kingsfoil vẫn là sản phẩm mũi nhọn với thị trường mục tiêu ban đầu là Bộ Quốc phòng Mỹ, trước khi mở rộng sang dân sự theo mô hình "dual-use" (quân sự – thương mại).
+
+"Mục tiêu của tôi là chuyển giao công nghệ cho người dân thường", Adler cho biết.
+
+Với số vốn 4,3 triệu USD, Pilgrim đang tiếp tục phát triển Kingsfoil, Voyager cùng một sản phẩm khác: ARGUS, một nền tảng giám sát để phát hiện các mối đe dọa sinh học.
+
+Trên thực tế, Pilgrim không phải startup duy nhất đi theo hướng này. Một cái tên khác là QuikClot cũng sản xuất băng cầm máu, công thức ban đầu của công ty sử dụng một loại khoáng chất gọi là zeolite, có khả năng gây ra phản ứng giải phóng nhiệt khi tiếp xúc với máu, có khả năng gây bỏng.
+
+Công ty hiện đang sử dụng công thức gốc đất sét và trang web của công ty tuyên bố rằng Bộ Quốc phòng Mỹ sử dụng sản phẩm của QuikClot.
+
+Tương tự, startup HemCon sản xuất băng cầm máu bằng chitosan, một dẫn xuất từ động vật có vỏ. Ngoài ra còn có Sealonix, một công ty khởi nghiệp sản xuất chất bịt kín cầm máu dùng trong phẫu thuật, đã huy động được 20 triệu USD trong vòng gọi vốn Series A năm 2023.
+
+Trong khi nhiều công ty khởi nghiệp quốc phòng tập trung nhiều hơn vào công nghệ tự động có thể hoạt động khi không có con người trên chiến trường thì Pilgrim hy vọng sẽ giải quyết các nhu cầu y tế quan trọng của những người lính sẽ ở lại chiến trường bất chấp những tiến bộ trong công nghệ máy bay không người lái.
+
+Quay trở lại câu chuyện, hành động của Adler có thể gây tranh cãi, nhưng nó đã chứng minh một điều: niềm tin tuyệt đối vào sản phẩm của mình. Màn "tự rạch đùi" này đã biến anh từ một cái tên tiềm năng thành biểu tượng mới của sự liều lĩnh trong giới khởi nghiệp.
+
+"Tôi muốn xây dựng một công ty công nghệ sinh học không chỉ phục vụ chiến trường mà còn mang các công nghệ tiên tiến về cho dân sự", Adler nói.
+
+Adler tin rằng công nghệ của mình sẽ được Bộ Quốc phòng ứng dụng trước, vì nhu cầu của họ luôn đi trước 5 đến 10 năm so với thị trường dân sự, sau đó sẽ được chuyển giao cho người dân. Mục tiêu của anh là tạo ra một "tổ chức vững mạnh" có thể phát triển công nghệ sinh học và ứng dụng nó vào cuộc sống hàng ngày.
+
+Liệu Kingsfoil có trở thành sản phẩm cứu mạng trên chiến trường và phòng cấp cứu? FDA sẽ là bài kiểm tra tiếp theo. Tuy nhiên dù thế nào, Jake Adler đã để lại dấu ấn: một startup sinh ra từ máu – theo đúng nghĩa đen.
+
+*Nguồn: Fortune, BI

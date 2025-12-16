@@ -1,0 +1,37 @@
+Title: Nguồn dữ liệu phong phú từ phần mềm “Nông nghiệp Cà Mau”
+
+Chuyển đổi số trong lĩnh vực nông nghiệp được xem là một trong những nội dung cần thiết và quan trọng hiện nay.
+
+Với gần 400.000 ha đất sản xuất, trong đó có khoảng 100.000 ha đất sản xuất nông nghiệp và hơn 296.000 ha nuôi trồng thuỷ sản ở Cà Mau đang ngày càng được chú trọng đầu tư theo hướng bền vững và hiệu quả hơn.
+
+Để ứng dụng công nghệ thông tin hiệu quả nhất vào phát triển sản xuất, từ 5 năm trước, Sở Nông nghiệp và Phát triển nông thôn tỉnh Cà Mau đã đầu tư triển khai dự án “Xây dựng hệ thống các phần mềm cơ sở dữ liệu chuyên ngành phục vụ quản lý, điều hành, phát triển ngành Nông nghiệp và phát triển nông thôn”.
+
+Các website của ngành và các đơn vị chuyên môn trực thuộc đã được tập trung xây dựng nhằm quảng bá giới thiệu sản phẩm ra thị trường.
+
+Ðặc biệt, Sở NN&PTNT còn triển khai xây dựng Hệ thống các phần mềm cơ sở dữ liệu chuyên ngành phục vụ quản lý, điều hành và phát triển ngành NN&PTNT với tên “Nông nghiệp Cà Mau”.
+
+Hệ thống phần mềm được đưa vào sử dụng từ cuối tháng 12/2018, đây là công cụ cung cấp, quản lý dữ liệu nội bộ trong ngành giúp cơ quan quản lý Nhà nước dễ dàng báo cáo tập trung qua ứng dụng thiết bị di động và cả ứng dụng trên website. Về phía người dân khi sử dụng phần mềm “Nông nghiệp Cà Mau” trên thiết bị di động hoặc ứng dụng website sẽ khai thác được sàn giao dịch nông sản; tiếp cận được các kiến thức hữu ích về sản xuất nông nghiệp với nguồn tài liệu phong phú; theo dõi được diễn biến môi trường; cập nhật tình hình thời tiết... và nhận được các thông tin thời sự từ cơ quan quản lý Nhà nước.
+
+Ảnh minh hoạ
+
+Ngoài ra, trong hoạt động quản lý ngành còn áp dụng một số phần mềm ứng dụng công nghệ thông tin như: phần mềm MapInfow để quản lý và giám sát hệ thống đê điều; phần mềm hệ thống giám sát thiên tai (VNDMS); phần mềm PPDMS trong quản lý sâu bệnh trên cây trồng…
+
+Trong lâm nghiệp, ứng dụng công nghệ GIS và ảnh viễn thám để xây dựng các phần mềm phát hiện sớm và cảnh báo cháy rừng từ ảnh vệ tinh, phần mềm giám sát và phát hiện sớm mất rừng, suy thoái rừng...
+
+Trong thuỷ sản, ứng dụng công nghệ 4.0 vào hệ thống đo môi trường nước trên tuyến sông phục vụ nuôi trồng thuỷ sản; tích hợp vào phần mềm nông nghiệp Cà Mau trong việc giải quyết thủ tục hành chính (thời gian nhận hồ sơ, trả kết quả,….); ứng dụng Hệ thống giám sát tàu cá của Tổng cục Thuỷ sản, Sở NN&PTNT phân quyền 52 tài khoản giám sát đến các tổ chức, đơn vị, cá nhân có liên quan đến nhiệm vụ giám sát tàu cá trên địa bàn tỉnh.
+
+Qua 5 năm triển khai, phần mềm “Nông nghiệp Cà Mau”, ứng dụng phần mềm luôn được hoàn thiện, nâng cấp để đáp ứng tốt nhất nhu cầu phát triển sản xuất của ngành. Hiện tất cả thông tin dữ liệu trên lĩnh vực của ngành đều được cập nhật bổ sung liên tục, thường xuyên để đáp ứng kịp thời công tác chỉ đạo, điều hành cũng như phục vụ phát triển sản xuất trên tất cả lĩnh vực.
+
+Tất cả các lĩnh vực sản xuất đều được xây dựng các quy trình, cập nhật vào phần mềm. Khi đó, mọi người dân chỉ cần click vào là có thể xem được. Hay những mô hình sản xuất có hiệu quả cao, trong quá trình sản xuất gặp rủi ro gì và cách xử lý như thế nào đều được giới thiệu cụ thể trên phần mềm.
+
+Hiện phần mềm được kết nối chạy trên hệ điều hành App Store trên IOS (iPhone, Ipad) hoặc CH Play trên Android. Người dân chỉ cần có điện thoại thông minh là có thể tải cài đặt phần mềm này về máy.
+
+Còn hiện nay trong phần mềm này ngành nông nghiệp tổ chức tư vấn trực tuyến qua phần mềm. Theo đó người dân có thể đặt câu hỏi trực tiếp qua phần mềm sẽ được cán bộ kỹ thuật trả lời trực tiếp trên phần mềm. Những trường hợp cần xử lý nhanh như dịch bệnh, thời tiết bất thường, ngành sẽ tổ chức tư vấn trực tuyến cho những nơi trong sản xuất gặp vấn đề, theo đó những người có cài đặt hay đăng nhập vào phần mềm đều có thể xem tư vấn trực tuyến.
+
+Ðối với hoạt động quản lý khai thác biển, tất cả thông tin dữ liệu về tàu cá, con người hoạt động đi theo tàu cá, vùng biển hoạt động, ngành nghề, thời gian khai báo trong khai thác, quản lý phương tiện đều được cập nhật vào phần mềm, từ đó giúp ngành quản lý chặt chẽ. Những người có liên quan có thể vào phần mềm để xem tình hình khai thác biển, thời tiết, an ninh trật tự trên biển,…
+
+Ngành nông nghiệp đã lắp đặt 10 thiết bị quan trắc tự động (không khí, nước, nhiệt độ, dự báo thời tiết) ở các vùng sản xuất, tạo thuận lợi cho sản xuất của người dân, đặc biệt là nuôi tôm.
+
+Hiện ngành đã lắp đặt 10 thiết bị quan trắc tự động (không khí, nước, nhiệt độ, dự báo thời tiết) đặt ở các vùng sản xuất. Các thiết bị này sẽ quan trắc những chỉ tiêu có liên quan đến các yếu tố phục vụ cho sản xuất. Ðặc biệt là nuôi tôm và trồng lúa. Tần suất quan trắc lâu nhất là 2 giờ được cập nhật liên tục…
+
+Duy Khánh và nhóm PV, BTV

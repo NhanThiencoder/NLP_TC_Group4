@@ -1,0 +1,16 @@
+Các kỹ sư của NEC đã phát triển một bộ pin có tính đàn hồi và mỏng hơn 1 mm có thể xạc đầy trong vòng nửa phút. Bộ pin này được thiết kế để sử dụng với các ứng dụng như thẻ RFID và có thể cung cấp đủ điện năng để các thẻ này có thể hoạt động tới vài tuần mới cần xạc lại.
+
+Công nghệ được NEC phát triển sử dụng các vật liệu thân thiện với môi trường hơn là các hoá chất vẫn hay thấy trong các bộ pin được xạc nói chung. NEC bắt đầu nghiên cứu công nghệ này vào năm 2000 và công việc của họ được tài trợ một phần bởi New Energy &amp; Industrial Technology Development Organization (NEDO) của Nhật Bản. 
+
+Một trong các tính năng của các bộ pin như vậy là năng lực xạc nhanh. Thiết bị này có thể xạc được khoảng 80% năng lực của chúng trong khoảng 30 giây. Mẫu đầu tiên của loại pin này đã được giới thiệu đầu tuần này tại triển lãm của NEC. Bộ pin trong triển lãm có kích thước khoảng 1,6 inch và được cài vào thẻ có kích thước tương tự như thẻ nhân dạng hoặc thẻ tín dụng. Sau khi xạc nó có thể giữ LED gắn vào thẻ trong khoảng 20 phút trước khi yêu cầu xạc lại.
+
+Các bộ pin mỏng là rất quan trọng đối với các thẻ RFID. Đa số các thẻ RFID là các thiết bị thụ động không thể truyền dữ liệu và hoạt động khi khi đưa vào trường sóng của bộ đọc thẻ. Các thẻ hoạt động như là các Radio thu nhỏ và có thể truyền dữ liệu qua các khoảng cách dài hơn có nghĩa nó có thể được đọc mà không cần phải tới gần sát bộ đọc thẻ.
+
+NEC cho biết họ không có kế hoạch nào cho sản xuất thương mại thiết bị này hoặc ước tính nó sẽ có giá bao nhiêu tại thời điểm bắt đầu sản xuất. Đây không phải là ứng dụng pin 'Organic Radical' đầu tiên được NEC phát triển.
+
+Phiên bản lớn hơn của bộ pin này đã được giới thiệu năm ngoái và được đưa ra như một nguồn điện năng tương lai dành cho máy tính cá nhân vì bộ pin có năng lực tải một lượng điện năng lớn trong thời gian ngắn. NEC giới thiệu nó trong việc cung cấp điện năng cho PC trong khoảng 15 giây đủ để PC có thể sao lưu dữ liệu quan trọng và Shutdown hợp lệ.
+
+Ứng dụng này sử dụng 4 bộ pin mà mỗi bộ có kích thước 2,2x1,7x0,16 inch, cùng kích thước với một chồng 3 thẻ tín dụng. Mỗi pin nặng khoảng 7 ounce. NEC không có ngay bất kỳ kế hoạch thương mại nào dành cho công nghệ này.
+
+
+

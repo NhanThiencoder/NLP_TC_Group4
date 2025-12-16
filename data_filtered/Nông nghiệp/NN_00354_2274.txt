@@ -1,0 +1,11 @@
+Title: Giải pháp Nông nghiệp thông minh - ONE Farm
+
+Ứng dụng công nghệ IoT (Internet vạn vật), tự động hóa vào quá trình sản xuất nông nghiệp từ khâu canh tác cho tới khâu phân phối sản phẩm ra thị trường, giúp tăng năng suất và chất lượng nông sản; Giải pháp bao gồm các công cụ giám sát, điều khiển và quản lý quy trình, kiểm soát toàn bộ quá trình từ sản xuất đến thu hoạch, chế biến và vận chuyển theo chuẩn thiết kế đáp ứng các mô hình trang trại ứng dụng công nghệ cao. Giải pháp có thể đáp ứng đa dạng các mô hình canh tác trong nông nghiệp với khả năng tùy biến và mở rộng cao, giúp triển khai nhanh và linh hoạt các mô hình canh tác thực tiễn.
+
+Ảnh minh hoạ
+
+Đến nay, giải pháp nông nghiệp thông minh của VNPT Technology đã được triển khai cho các khách hàng tại nhiều tỉnh thành như Bắc Ninh, Ninh Bình, Phú Yên, Bình Dương,… mang lại nhiều kết quả khả quan. Dữ liệu do các cảm biến thu thập được đưa về bộ xử lý tập trung gọi là IoT Gateway. Với công nghệ xử lý tại biên (Edge Computing), IoT Gateway có thể phân tích và đưa ra các lệnh điều khiển tại chỗ mà không cần chờ hệ thống máy chủ phân tích. Kết quả làm giảm đáng kể thời gian trễ khi điều khiển các hệ thống tưới, điều hòa không khí, đóng - mở và điều khiển các cơ cấu chấp hành...
+
+Hơn nữa, cơ chế này cho phép hệ thống vẫn hoạt động bình thường ngay cả khi không có kết nối Internet đến hệ thống máy chủ. Và nhằm tạo điều kiện thuận lợi cho việc quản lý, giải pháp cung cấp các giao diện thông tin trực quan, thao tác đơn giản ngay tại các tủ điều khiển cũng như trên ứng dụng trên điện thoại di động.
+
+Duy Khánh và nhóm PV, BTV

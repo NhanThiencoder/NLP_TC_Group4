@@ -1,0 +1,43 @@
+Điều gì đã giúp Israel trở thành cái nôi của những startup hàng đầu thế giới và được mệnh danh Quốc gia Khởi nghiệp? - Ảnh: T.Trực
+
+Làm việc từ 6g sáng Chủ Nhật
+
+Tôi đến Jerusalem vào tối thứ 7, tức vừa chấm dứt ngày nghỉ shabbat (*), những tưởng sẽ có một ngày Chủ Nhật thong dong đi dạo tham quan khung cảnh thành phố nhưng không, mọi người ở đây bắt đầu ngày làm việc từ 6g sáng.
+
+Thật vậy! Từ 6g sáng ngày Chủ Nhật, cả thành phố đã tỉnh hẳn giấc ngủ và chuyển động nhanh thoăn thoắt. Tôi thấy được sự năng động của từng bước chân đang di chuyển ra các bến chờ xe điện (một loại xe điện 3-4 toa chạy theo ray ngay trên đường phố). Và trên phố, xe hơi chạy với tốc độ rất nhanh. Họ đang đến sở làm, vào ngày Chủ Nhật.
+
+Cuộc sống năng động tại thành phố cổ Jerusalem diễn ra từ rạng sáng, ngay cả vào ngày Chủ nhật - Ảnh: T.Trực
+
+Tôi cũng tham gia vào guồng quay đó, đến thăm một công ty khởi nghiệp sáng tạo (startup) của Israel nổi nhất trong thời gian vừa qua với thương vụ trị giá 15,3 tỉ USD. Bạn không đọc nhầm, đây là một trong ba thương vụ lớn nhất của Intel trong thế kỷ qua (sau Altera với 16,7 tỉ USD năm 2015) khi thâu tóm một startup non trẻ, trợ lực cho cuộc đua xu hướng công nghệ xe tự động tương lai gần.
+
+Đón tôi ở trụ sở Mobileye là anh Amer Subhi, quản lý kinh doanh khu vực Đông Nam Á Mobileye. Không bề thế như một công ty 'tỉ đô', khối văn phòng Mobileye nhỏ gọn như mọi startup đang trong giai đoạn căng sức phát triển khác, nơi mà các phòng họp đang có 3-4 người trao đổi, các nhân viên khác đang chăm chăm vào máy tính... Tất cả đang làm việc ngày Chủ Nhật.
+
+Văn phòng với không gian khiêm tốn này là của một startup 'tỉ đô' - Ảnh: T.Trực
+
+Giải quyết vấn đề hiện có, và tầm nhìn tương lai
+
+Chúng tôi góp phần giải quyết một vấn đề cấp bách của xã hội, và nó không chỉ là vấn đề của Israel mà của rất nhiều nơi trên thế giới Amer Subhi, Mobileye
+
+Ngày 13-3-2017, thương vụ Tập đoàn Intel (Mỹ) mua lại công ty startup Mobileye (Israel) làm chao đảo thị trường khởi nghiệp khi giá trị của thỏa thuận lên tới 15,3 tỉ USD. Thương vụ thâu tóm lớn nhất mà một công ty startup Israel từng có.
+
+Điều gì đã thôi thúc 'ông lớn' của ngành sản xuất chip trên thế giới chú ý đến Mobileye? Câu hỏi này của tôi với đại diện Mobileye thực chất đã được báo giới phân tích ngay vào thời điểm tháng 3 nhưng để hiểu rõ nhất, bạn cần tiếp cận vấn đề trực tiếp. Mobileye sở hữu loại chip thông minh dành riêng cho các loại xe, hiện tập trung vào thị trường xe hơi. Dĩ nhiên Intel có thể tự sản xuất một chip thông minh cho xe hơi theo hướng cạnh tranh giữa các công ty như Qualcomm, hay Texas Instrument... với 15,3 tỉ USD đầu tư nhưng đội ngũ kỹ sư của Mobileye, bộ não của chip thông minh mới có giá trị đó.
+
+Ông Amer Subhi, Quản lý kinh doanh khu vực Đông Nam Á giới thiệu về thiết bị ADAS tại văn phòng Mobileye - Ảnh: T.Trực
+
+Mobileye sản xuất loại chip thông minh tích hợp trong một bộ thiết bị có camera "mắt thần" ADAS chuyên cảnh báo cho các tài xế khi lái các loại xe hơi, xe buýt, xe tải lớn. Khác với các loại camera hành trình là ghi nhận lại chuyến đi, thiết bị của Mobileye đo đạc khoảng cách giữa xe người dùng với xe phía trước hoặc thậm chí là các vật cản bất ngờ trên đường để đưa ra cảnh báo ngay tức thì hay cảnh báo trước khi chạy lệch làn đường, gia tăng an toàn cho người lái. Và không chỉ cảnh báo, chip thông minh của Mobileye có nhiều cấp độ dự báo, nó có thể phân tích rất nhanh dữ liệu khoảng cách và tốc độ ghi nhận trong thời gian thực, học từ thực tế áp dụng công nghệ Máy học (Machine Learning). Độ chính xác của thiết bị Mobileye và mức độ thông minh của 'bộ não' của nó khiến Intel không ngần ngại móc hầu bao thâu tóm, tăng sức mạnh cho cuộc đua chiếm lĩnh thị trường dịch vụ kỹ thuật số cho xe trên toàn cầu ước tính 2,03 ngàn tỉ USD năm 2025 (số liệu từ công ty nghiên cứu thị trường toàn cầu Frost & Sullivan).
+
+Camera và cũng là con mắt ghi nhận lại dữ liệu môi trường xung quanh để chuyển đến bộ não là chip thông minh của Mobileye - Ảnh: T.Trực
+
+Thiết bị ADAS của MobileEye ghi nhận các đối tượng phía trước với khoảng cách, và tốc độ đang di chuyển của xe để đưa ra cảnh báo phù hợp - Ảnh: YouTube
+
+Khởi sự bởi hai nhà sáng lập gồm giáo sư Amnon Shashue và doanh nhân Ziv Aviram năm 1999, ý tưởng của Mobileye xuất phát từ một vấn đề đặt hàng của Bộ Giao thông và An toàn đường bộ Israel gia tăng nhận thức về an toàn giao thông từ người lái, khi '93% tai nạn xe là do yếu tố con người, trong đó, 80% người lái không chú ý khi lái xe chỉ trong 3 giây' (theo nghiên cứu của Mobileye). Do đó, Mobileye ra đời và được thử nghiệm ngay trên đường phố tại Israel. Kế đến, các hãng xe lớn trên thế giới lần lượt là khách hàng của Mobileye như General Motors, Audi, BMW, Ford nhằm có thêm tính năng an toàn cho khách hàng là người lái xe. Gần 10% xe bán ra tại Mỹ năm 2016 có tích hợp công nghệ Mobileye (theo Gartner / Fortune).
+
+Mobileye đã tiêu tốn 750 triệu USD cho giai đoạn đầu nghiên cứu phát triển (R&D) để ra được sản phẩm thử nghiệm, chưa phải là sản phẩm thương mại sản xuất hàng loạt
+
+Hiện Bộ Giao thông và An toàn đường bộ Israel buộc các xe có trọng tải trên 3 tấn phải gắn hệ thống cảnh báo. Mở rộng sang thị trường khác, chính phủ Đài Loan cũng yêu cầu các xe tải, xe khách liên tỉnh phải gắn với mức chi phí hỗ trợ từ chính phủ lên đến 49%. Và Mobileye cũng đã bắt đầu tiếp cận các thị trường đang phát triển như Việt Nam.
+
+Giải quyết vấn đề của xã hội là động lực của hầu hết startup, và khi đã thực sự tìm ra lời giải, nó không bao giờ dừng lại ở một thị trường, một quốc gia, nó tiến ra toàn cầu. Và câu chuyện thứ hai về Quốc gia khởi nghiệp Israel sẽ về một công ty startup như vậy mà tôi có may mắn đến.
+
+* Mời bạn đọc đón theo dõi tiếp Phần 2 tại congnghe.tuoitre.vn
+
+(*) Shabbat, ngày lễ nghỉ vào thứ 7 và cũng là dịp hội họp gia đình, bạn bè cùng ăn những món ăn truyền thống. Trong thời gian diễn ra lễ Shabbat, các dịch vụ công cộng đều ngừng hoạt động và chỉ bắt đầu lại từ tối thứ 7. Tuy vậy, theo dân địa phương, ngày càng nhiều người dân, startup làm việc cả vào ngày nghỉ này.

@@ -1,0 +1,69 @@
+MỹĐam mê Toán học và tinh thần khám phá giúp anh Nguyễn Hữu Thiện trở thành giáo sư Khoa học máy tính, phát triển mô hình AI với bộ dữ liệu tiếng Việt lớn nhất hiện nay.
+
+Thiện, 37 tuổi, là Associate Professor (Giáo sư bậc 2), khoa Khoa học máy tính, Đại học Oregon, Mỹ. Lĩnh vực nghiên cứu chính của Thiện là xử lý ngôn ngữ tự nhiên (NLP) đa miền và đa ngôn ngữ.
+
+Hồi tháng 11, nhóm nghiên cứu của Thiện đã phát triển mô hình ngôn ngữ mới cho tiếng Việt mang tên SaoLa-3B-Instruct. Với hơn 230 tỷ token, đây là bộ dữ liệu tiếng Việt lớn nhất hiện nay.
+
+Thiện cũng là chủ nhân giải thưởng Career danh giá của Quỹ Khoa học quốc gia Mỹ năm 2023, dành cho các giáo sư trẻ tiềm năng. Những bài báo của anh đã được trích dẫn hơn 10.000 lần trên Google Scholar.
+
+"Tôi hạnh phúc vì được làm việc theo đúng đam mê, tạo ra sản phẩm có ích và được ủng hộ", Thiện nói.
+
+TS Nguyễn Hữu Thiện. Ảnh: Nhân vật cung cấp
+
+Từ thời cấp hai, Thiện đã bộc lộ niềm yêu thích và năng khiếu với môn Toán. Càng học, Thiện càng say sưa nghiền ngẫm cách giải logic và sáng tạo cho những bài toán nâng cao. Thiện sau đó đỗ lớp chuyên Toán của trường THPT chuyên Hưng Yên, giành giải nhì kỳ thi học sinh giỏi quốc gia, năm lớp 12.
+
+Nhờ thành tích này, Thiện được tuyển thẳng vào lớp cử nhân tài năng của Đại học Bách khoa Hà Nội, 2006. Thiện chọn theo Khoa học máy tính vì muốn có thể ứng dụng kiến thức vào thực tiễn.
+
+Cơ duyên với nghiên cứu khoa học tới khi một thầy giáo thấy ấn tượng với bài tập lớn về hệ thống tri thức của Thiện, liền giới thiệu anh vào hỗ trợ cho dự án về trích rút thông tin trong tiếng Việt.
+
+Lúc ấy, những xu hướng về học máy đang nổi lên, Thiện mày mò đọc và tìm cách viết chương trình lập trình tổng quát để thử áp dụng và thích thú khi thấy phương pháp của mình giúp quy trình được tự động hóa, đẩy nhanh tiến độ dự án. Được cô giáo hướng dẫn gợi ý, Thiện tổng hợp lại kết quả, viết bài báo khoa học đầu tiên.
+
+Thiện sau đó dùng hướng đi của dự án này để làm đề án tốt nghiệp, tìm ra thêm phương pháp khác. Nhờ đó, Thiện đạt giải nhì sinh viên nghiên cứu khoa học, cấp Bộ Giáo dục và Đào tạo.
+
+Từ con số 0 về nghiên cứu, Thiện được học tất cả bước trong quy trình, từ tiếp cận bài toán, tìm lời giải đến thử nghiệm, viết bài và thuyết trình. Anh dần thấy nghiên cứu rất hợp với bản thân: ưa khám phá và tạo ra những điều mới mẻ.
+
+Sau tốt nghiệp, vì muốn mở rộng và đào sâu kết quả nghiên cứu, Thiện tự nhủ phải đi học tiếp ở những nơi tốt nhất có thể. Anh gửi email tới những giáo sư có tiếng về xử lý ngôn ngữ tự nhiên và trích xuất thông tin.
+
+May mắn, giáo sư Ralph Grishman - người có những nghiên cứu mang tính nền tảng cho lĩnh vực mà Thiện quan tâm - trả lời email rất cởi mở và chân thành. Năm 2012, Thiện đến Đại học New York, bắt đầu học chương trình tiến sĩ dưới sự hướng dẫn của ông.
+
+Trái với sự suôn sẻ thời sinh viên, hai năm đầu, Thiện loay hoay vì không tìm được định hướng. Anh thử làm hết những hướng đi mà thầy bày sẵn, nhưng không thấy cải tiến nào đủ đột phá và hấp dẫn để dấn sâu.
+
+Giữa lúc chán nản và hoang mang, Thiện được học nhiều về mảng học sâu từ lớp của Giáo sư Yann LeCun - "bố già" trong lĩnh vực AI. Anh nhận ra các nghiên cứu trước đây chủ yếu dùng học sâu để xử lý ảnh, chưa dùng để xử lý ngôn ngữ.
+
+"Mình bèn nghĩ bụng hay là thử áp dụng vào trích xuất thông tin xem sao", Thiện nhớ lại.
+
+Kết quả vượt mong đợi khi những thử nghiệm cơ bản cũng cho ra những đặc tính tốt hơn nhiều so với các phương pháp cũ - tổng quát hơn, nhanh hơn và không phụ thuộc vào loại văn bản nhất định nào. Thiện xin thầy đi theo hướng mới và được ủng hộ.
+
+Con đường đi sáng tỏ và thuận lợi hơn, Thiện lần lượt có những bài báo với tính mới cao. Năm 2016, anh nhận giải thưởng Harold Grad từ Viện Khoa học Toán học Courant, được trao cho những sinh viên sau đại học có thành tích và triển vọng xuất sắc của Đại học New York.
+
+Càng làm nghiên cứu, Thiện càng thấy mình muốn gắn bó với con đường học thuật. Rời New York, Thiện làm nghiên cứu sau tiến sĩ ở Đại học Montreal (Canada) với Giáo sư Yoshua Bengio. Anh về Đại học Oregon giảng dạy từ năm 2018.
+
+"Làm việc này cho tôi được tự do về đề tài, phương pháp và cả những người hợp tác cùng", Thiện nói. Anh thích nhất là làm việc với sinh viên, bởi thấy ở họ "ngọn lửa năng lượng tích cực", thúc đẩy bản thân tiến nhanh.
+
+Thiện (ngoài cùng bên phải) và sinh viên tại Đại học Oregon. Ảnh: Nhân vật cung cấp
+
+Giáo sư Reza Rejaie, trưởng khoa Khoa học máy tính tại Đại học Oregon, gọi Thiện là "ngôi sao" của khoa. Ông cho hay anh là người đi đầu khoa trong phát triển những mô hình học sâu để trích xuất thông tin trong NLP, cũng như các phương pháp học đa ngôn ngữ cho NLP.
+
+"Thiện đóng vai trò quan trọng trong các dự án AI lớn kể từ khi gia nhập. Anh ấy đã dẫn dắt các nghiên cứu tiên tiến, hiệu quả cao về học sâu cho các bài toán về dữ liệu quy mô lớn", ông Rejaie nói.
+
+Một trong những công trình mà Thiện tự hào nhất là bộ dữ liệu 167 ngôn ngữ có tên CulturaX. Thời điểm 2022, khi những mô hình ngôn ngữ lớn như ChatGPT đang nổi lên, các tập đoàn công nghệ công bố nhiều mô hình mã nguồn mở, nhưng không cho biết cơ sở dữ liệu mà họ dùng để huấn luyện.
+
+Thiện quyết định cùng các sinh viên xây một bộ dữ liệu ngôn ngữ công khai. Anh mô tả đây là dự án nhiều công đoạn, như loại bỏ dữ liệu xấu, sai lệch hoặc trùng lặp, quy mô lên tới hàng chục terabyte (TB). Khi công bố, CulturaX nhận nhiều đánh giá tích cực, được các công ty và phòng thí nghiệm như Stability AI, Eleuther AI dùng huấn luyện cho mô hình ngôn ngữ của họ.
+
+Nhóm của Thiện cũng dùng dữ liệu từ bộ này để phát triển Vistral, một mô hình ngôn ngữ mã nguồn mở bằng tiếng Việt. Sau đó, Thiện và nhóm nghiên cứu tiếp tục xây dựng mô hình SaoLa-3B-Instruct, mất hai năm để thu thập, kiểm tra khối dữ liệu khổng lồ, song song cải tiến các công cụ xử lý phù hợp với tiếng Việt.
+
+"Nhóm chọn SaoLa để thể hiện niềm tự hào về một loài vật đặc hữu của Việt Nam, và gửi gắm kỳ vọng các mô hình và bộ dữ liệu sẽ mang tinh thần tương tự: hiếm có, chất lượng, đại diện chân thực cho bối cảnh ngôn ngữ - văn hóa Việt Nam", Thiện giải thích.
+
+Demo SaoLa-3B-Instruct. Ảnh: Nhân vật cung cấp
+
+Với Thiện, tạo ra sản phẩm hữu dụng, đóng góp cho cộng đồng là đích đến hiển nhiên khi bắt tay vào một nghiên cứu. Nhưng thứ giúp anh nuôi dưỡng động lực qua những công đoạn tốn sức, có thể nhàm chán và không hứa hẹn thành công lại đến từ quá trình làm.
+
+"Cái hay nhất của nghiên cứu là mình có thể phát hiện và học nhiều vấn đề mới ngay trong lúc làm. Được như vậy thì nếu thất bại cũng không sao", Thiện tâm niệm.
+
+Thiện cũng học cân đối các nguồn lực, nhận biết các mẫu thử có tiềm năng để tiếp cận bài toán bằng cách thử-sai có chiến lược. "Phải làm việc chắc chắn thay vì đi đường tắt" cũng là bài học lớn nhất Thiện đúc rút sau gần 20 năm trong ngành.
+
+"Thành quả của nghiên cứu cơ bản và khai phá tri thức không đến nhanh. Thay vì bị áp lực từ những câu chuyện thành công sớm trên mạng xã hội, các bạn trẻ hãy cứ bền bỉ xây dựng nền tảng cho mình", Thiện nói, tin rằng vẫn còn nhiều bài toán lớn về AI đang chờ lời giải sáng tạo.
+
+Thời gian tới, Thiện mong hợp tác, hướng dẫn nhiều sinh viên Việt Nam tiếp cận môi trường học thuật tiên tiến, đồng thời tiếp tục đóng góp thực tiễn cho những mô hình và bộ dữ liệu ngôn ngữ bằng tiếng Việt.
+
+Khánh Linh

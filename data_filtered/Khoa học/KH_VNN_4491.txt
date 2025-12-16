@@ -1,0 +1,51 @@
+Trong bối cảnh chạy đua vũ khí toàn cầu ngày càng gay gắt, Pháp đang âm thầm ‘lên đời’ kho vũ khí hạt nhân với ASN4G (Air-Sol Nucléaire de 4ème Génération) - tên lửa hành trình siêu thanh phóng từ không trung, đạt tốc độ Mach 7 và tầm bắn vượt 1.000km. Không chỉ là một ‘vũ khí cuối cùng’ để răn đe, ASN4G hứa hẹn thay đổi cục diện an ninh châu Âu bằng khả năng tàng hình và cơ động đỉnh cao, khiến các hệ thống phòng không hiện đại phải ‘toát mồ hôi’.
+
+Pháp từ lâu đã nổi tiếng với lực lượng hạt nhân độc lập, và tên lửa ASN4G chính là "ngôi sao" mới trong chương trình răn đe chiến lược của nước này.
+
+Được phát triển bởi tập đoàn MBDA France dưới sự hỗ trợ của ONERA – cơ quan nghiên cứu hàng không vũ trụ hàng đầu – dự án này bắt nguồn từ những nghiên cứu công nghệ từ đầu những năm 1990.
+
+Đến năm 2014, Bộ Quốc phòng Pháp chính thức phê duyệt chương trình, nhằm thay thế tên lửa ASMPA (Air-Sol Moyenne Portée Amélioré) – phiên bản siêu thanh cũ đã triển khai từ năm 2009.
+
+Với ngân sách quốc phòng 2025, Pháp tiếp tục đẩy mạnh đầu tư, dự kiến đưa tên lửa ASN4G vào biên chế từ năm 2035, đồng thời tích hợp trên các máy bay chiến đấu hiện đại như Rafale F5 và máy bay thế hệ tiếp theo từ chương trình Future Combat Air System (FCAS).
+
+Một tính năng nổi bật của Rafale F5 là khả năng mang theo tên lửa ASN4G, loại tên lửa sẽ thay thế cho ASMPA hiện tại. (Nguồn hình ảnh: Dassault).
+
+Về thông số kỹ thuật, theo armyrecognition.com, ASN4G được thiết kế như một tên lửa hành trình siêu thanh (hypersonic cruise missile) với khả năng phóng từ không trung, mang đầu đạn hạt nhân TNA 4G – một loại đầu đạn mới được tối ưu hóa cho môi trường bay tốc độ cao.
+
+Tốc độ tối đa của ASN4G đạt từ Mach 6 đến Mach 7, tương đương khoảng 7.400-8.600 km/h, cho phép tên lửa vượt qua không phận địch chỉ trong vài phút mà không bị phát hiện kịp thời.
+
+Tầm bắn vượt trội hơn hẳn người tiền nhiệm ASMPA, đạt trên 1.000km – hơn gấp đôi so với 500km của ASMPA – giúp máy bay mang nó duy trì khoảng cách an toàn khỏi các mối đe dọa mặt đất.
+
+Kích thước gọn nhẹ, ASN4G dễ dàng tích hợp dưới cánh máy bay mà không làm giảm tính cơ động của nền tảng phóng.
+
+Công nghệ cốt lõi khiến ASN4G trở thành "kẻ săn mồi" bất khả chiến bại chính là hệ thống động cơ ramjet/scramjet tiên tiến, lấy cảm hứng từ chương trình PROMETHEE của Pháp.
+
+Động cơ này sử dụng nhiên liệu hỗn hợp, cho phép chuyển đổi mượt mà giữa các chế độ bay: cận âm để khởi động, siêu âm để tăng tốc, và siêu thanh để duy trì tốc độ đỉnh.
+
+Tên lửa ASMPA được treo bên dưới một chiếc Dassault Rafale tiêu chuẩn F3. Nguồn: MBDA
+
+Không giống các tên lửa đạn đạo truyền thống, ASN4G bay theo quỹ đạo hành trình thấp, sát mặt đất hoặc ở độ cao trung bình, giúp giảm khả năng bị radar phát hiện.
+
+Đặc biệt, lớp vỏ tàng hình (stealth) làm từ vật liệu đặc biệt hấp thụ sóng radar, kết hợp với thiết kế khí động học mảnh mai, khiến tên lửa gần như "vô hình" trước các hệ thống phòng không hiện đại như S-400 của Nga hay Patriot của Mỹ.
+
+Một điểm nổi bật khác là khả năng cơ động cao (high maneuverability), cho phép ASN4G thay đổi hướng bay đột ngột ở tốc độ siêu thanh, né tránh tên lửa đánh chặn và điều chỉnh quỹ đạo dựa trên dữ liệu thời gian thực từ máy bay mẹ.
+
+Đầu đạn TNA 4G không chỉ có sức công phá mạnh mẽ mà còn được thiết kế để chịu nhiệt độ cực cao từ ma sát không khí ở Mach 7, đảm bảo độ tin cậy trong sứ mệnh hạt nhân.
+
+Theo các chuyên gia Nga, ASN4G có thể "xuyên thủng bất kỳ hệ thống phòng không nào", tương tự như các vũ khí siêu thanh của họ, nhưng với trọng tâm vào tính linh hoạt chiến lược hơn là sức mạnh thô.
+
+Về tích hợp và ứng dụng, theo armyrecognition.com, ASN4G sẽ được triển khai trên hai phi đội Rafale F5 tại căn cứ không quân Luxeuil-Saint-Sauveur (Air Base 116), với khoản đầu tư 1,5 tỷ euro để nâng cấp cơ sở hạ tầng, tăng công suất lên hơn 2.000 nhân sự.
+
+Ngày 18/3, Tổng thống Emmanuel Macron xác nhận Pháp sẽ trang bị tên lửa siêu thanh ASN4G (Air-Sol Nucléaire de 4ème Génération). Ảnh: aerocontact.com
+
+Rafale F5 – phiên bản nâng cấp của Dassault Rafale – sẽ mang ASN4G cùng radar RBE2 XG thế hệ mới, hệ thống tác chiến điện tử tiên tiến và drone tàng hình nEUROn hỗ trợ thâm nhập.
+
+Sau này, ASN4G sẽ chuyển sang máy bay Next Generation Fighter (NGF) từ FCAS, tăng cường khả năng phối hợp với NATO.
+
+Chiến lược của Pháp nhấn mạnh tính độc lập: ASN4G không chỉ răn đe mà còn đảm bảo Paris có thể hành động đơn phương, ngay cả khi bị cô lập, trong bối cảnh căng thẳng địa chính trị leo thang.
+
+Tên lửa ASN4G không chỉ là bước tiến công nghệ mà còn là tuyên ngôn về sức mạnh hạt nhân của Pháp trong kỷ nguyên siêu thanh.
+
+Với tốc độ kinh hoàng, tàng hình hoàn hảo và khả năng sống sót cao, tên lửa này hứa hẹn định hình lại bản đồ an ninh toàn cầu đến năm 2035.
+
+Trong khi các cường quốc khác vẫn đang thử nghiệm, Pháp đã sẵn sàng "bay cao" – một lời nhắc nhở rằng, trong thế giới vũ khí, chậm chân có thể là thảm họa.

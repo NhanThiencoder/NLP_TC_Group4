@@ -1,0 +1,17 @@
+Công ty Việt Nam Hyphen Deux bắt tay cùng các tập đoàn công nghệ hàng đầu thế giới phát triển chip Al, giúp tối ưu hóa các hệ thống giám sát và quản lý đô thị, xây dựng các giải pháp thành phố thông minh - Ảnh: BTC
+
+Hyphen Deux - một công ty thiết kế vi mạch bán dẫn tại Việt Nam - vừa ký kết hợp tác chiến lược với Arm Korea Ltd và CoAsia SEMI (hai tập đoàn toàn cầu hàng đầu về công nghệ) tại TP.HCM, nhằm thúc đẩy ứng dụng AI vào xây dựng các giải pháp thành phố thông minh.
+
+Dự án tập trung cải thiện hệ thống giám sát và nhận diện hình ảnh qua video, hỗ trợ điều phối giao thông hiệu quả.
+
+Ông Bùi Duy Khánh, founder & CEO của Hyphen Deux, chia sẻ Hyphen Deux đang phát triển một chip AI chuyên dụng có khả năng phân tích dữ liệu thời gian thực từ các camera giám sát giao thông để nhận diện các tình huống nguy hiểm như tai nạn, hành vi vi phạm giao thông hay ùn tắc.
+
+"Thông qua đó, hệ thống có thể phản ứng kịp thời, hỗ trợ điều phối giao thông và giảm thiểu các sự cố, nâng cao hiệu quả giám sát, giúp cải thiện hiệu quả vận hành giao thông và tối ưu hóa việc sử dụng tài nguyên đô thị", ông Khánh cho biết.
+
+Ông Khánh nhấn mạnh sự hợp tác với Arm và CoAsia SEMI là bước tiến quan trọng, thúc đẩy công nghệ AI tại Việt Nam và xây dựng hạ tầng đô thị thông minh, bền vững.
+
+Ông SW Hwang, chủ tịch Arm Hàn Quốc, khẳng định "cam kết hỗ trợ Việt Nam, bao gồm lĩnh vực đào tạo nhân lực lẫn các công ty như Hyphen Deux, nhằm mục đích phát triển các giải pháp AI một cách hiệu quả".
+
+Tương tự, ông Shin Dong Soo, CEO CoAsia SEMI, kỳ vọng sự kết hợp giữa chuyên môn của CoAsia SEMI và tầm nhìn sáng tạo của Hyphen Deux sẽ tạo ra các giải pháp công nghệ tiên tiến, góp phần xây dựng thành phố thông minh không chỉ ở Việt Nam mà còn trong khu vực.
+
+Al đang tạo ra cuộc cách mạng hóa giao thông trên thế giới Theo báo cáo của Capgemini, trí tuệ nhân tạo (AI) giúp giảm thiểu việc sở hữu ô tô cá nhân, thúc đẩy chuyển dịch sang giao thông công cộng, qua đó giảm tắc nghẽn và ô nhiễm môi trường. Trên thế giới, nhiều quốc gia đã ứng dụng AI để phát triển thành phố thông minh, đặc biệt trong việc cải thiện cơ sở hạ tầng giao thông. Chẳng hạn Singapore sử dụng AI để tối ưu hóa giao thông, trong khi Hàn Quốc giám sát an toàn trên xe buýt và phân tích hành vi lái xe nguy hiểm để giảm thiểu tai nạn... Trong bối cảnh đó, ông Nguyễn Trung Chính, chủ tịch HĐQT Tập đoàn Công nghệ CMC, đã đề xuất TP.HCM trở thành trung tâm AI toàn cầu tại Diễn đàn Kinh tế TP.HCM 2024. Ông khẳng định AI không chỉ là công nghệ mà còn là yếu tố quan trọng thúc đẩy sự phát triển của nền kinh tế. Theo ông, nếu ứng dụng AI hiệu quả, Việt Nam có thể tăng trưởng GDP lên đến 14% vào năm 2030.

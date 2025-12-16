@@ -1,0 +1,31 @@
+Giá trị giao dịch tiền số on-chain của Việt Nam ước tính quanh 220-230 tỷ USD, tương đương hơn 600 triệu USD mỗi ngày, đứng thứ ba trong khu vực APAC.
+
+Theo báo cáo mới đây của Chainalysis, giá trị giao dịch tiền số on-chain tại Việt Nam ước tính đạt quanh 220-230 tỷ USD (tương đương 5.820-6.080 nghìn tỷ đồng) trong giai đoạn tháng 7/2024-6/2025. Trung bình mỗi ngày có khoảng hơn 600 triệu USD (gần 16.300 tỷ đồng) tiền số được giao dịch.
+
+On-chain là các hành động và giao dịch diễn ra trực tiếp trên mạng lưới blockchain. Dữ liệu on-chain tập hợp các thông tin từ chuyển tiền, kích hoạt hợp đồng thông minh, lịch sử giao dịch, số dư ví, dữ liệu staking... đều được ghi nhận công khai, vĩnh viễn và không thể chỉnh sửa.
+
+Chainalysis là một công ty phân tích blockchain và nền tảng dữ liệu về tài sản số. Họ thường xuyên cung cấp phần mềm, dịch vụ và báo cáo nghiên cứu cho các cơ quan chính phủ, sàn giao dịch và tổ chức tài chính để theo dõi, phân tích hoạt động giao dịch trên blockchain và tiền số.
+
+Theo Chainalysis, dòng tiền giao dịch tại Việt Nam hiện xếp thứ ba trong khu vực châu Á - Thái Bình Dương (APAC) và chiếm gần 10% tổng giá trị giao dịch tiền số on-chain khu vực này. Việt Nam chỉ đứng sau Ẩn Độ và Hàn Quốc. Theo nhóm phân tích, số liệu trên cho thấy tiền số đang trở thành thông dụng tại Việt Nam trong việc chuyển tiền, chơi game và tiết kiệm.
+
+Chainalysis so sánh dữ liệu của giai đoạn tháng 7/2024-6/2025 với giai đoạn tháng 7/2023-6/2024 cho thấy dòng tiền giao dịch tại Việt Nam tăng 55%, thấp so với mức tăng trưởng ba con số của các nước khác như Nhật Bản, Indonesia, Hàn Quốc và Ấn Độ. Tuy nhiên theo nhóm chuyên gia, đây là dấu hiệu cho thấy Việt Nam đang là một thị trường trưởng thành, nơi tiền số đã "ăn sâu" vào kiều hối và hoạt động tài chính hàng ngày.
+
+Đồng xu biểu trưng của Bitcoin - tiền số lớn nhất thế giới. Ảnh: Bảo Lâm
+
+Tiền số ngày càng phổ biến tại Việt Nam. Theo báo cáo của Triple-A năm 2024, hơn 20% dân số Việt Nam sở hữu tài sản số. Việt Nam cũng nằm trong nhóm ba quốc gia đứng đầu về chỉ số chấp nhận tài sản số theo dữ liệu của Chainalysis, với mức độ phổ cập cao gấp 3-4 lần so với trung bình toàn cầu.
+
+Trước đây, hoạt động giao dịch, sở hữu tài sản số chưa có hành lang pháp lý rõ ràng. Song Luật Công nghiệp công nghệ số, được Quốc hội ban hành tháng 6 và có hiệu lực từ 1/1/2026, lần đầu quy định tài sản số là tài sản theo pháp luật dân sự hiện hành. Đây cũng là cơ sở để cơ quan thuế áp dụng chính sách thuế tương ứng.
+
+Gần đây, Chính phủ đưa ra nghị quyết thí điểm thị trường tài sản mã hóa trong vòng 5 năm. Các hoạt động trên thị trường này gồm chào bán, phát hành tài sản mã hóa; tổ chức thị trường giao dịch và cung cấp dịch vụ. Song song đó, hai trung tâm tài chính quốc tế tại TP HCM và Đà Nẵng cũng đang được chuẩn bị xây dựng, tạo ra "sandbox" cho các dự án tài sản số thử nghiệm.
+
+Việt Nam là thị trường có dòng tiền giao dịch tiền số lớn thứ ba khu vực APAC. Ảnh: Chainalysis
+
+Báo cáo của Chainalysis cũng chỉ ra APAC là khu vực phát triển nhanh nhất trên thế giới về giá trị giao dịch tiền số on-chain, hiện nổi lên như một động lực tăng trưởng chính trên toàn cầu, thường xuyên đứng thứ hai chỉ sau châu Âu về khối lượng và đôi khi vượt qua Bắc Mỹ về tổng giá trị hàng tháng.
+
+10 quốc gia đứng đầu đang chiếm gần ba phần tư tổng giá trị giao dịch tiền số on-chain tại APAC. Trong đó Ấn Độ dẫn đầu với 338 tỷ USD. Chainalysis lý giải sự phát triển tiền số ở quốc gia này nhờ cộng đồng lớn người di cư có nhu cầu kiều hối, người trẻ đang sử dụng giao dịch tiền số như một khoản thu nhập bổ sung và các mô hình fintech cũng đang thúc đẩy việc sử dụng rộng rãi.
+
+Thị trường lớn thứ hai khu vực là Hàn Quốc. Tại đây, tiền số được giao dịch gần giống như cổ phiếu. Các quy tắc mới như Đạo luật bảo vệ người dùng tài sản số năm 2024 đang định hình lại hoạt động trên các sàn giao dịch lớn trong nước.
+
+Thị trường Nhật Bản xếp thứ 5 về giá trị nhưng có tốc độ tăng trưởng mạnh nhất. Tiền số tại quốc gia này tương đối trầm lắng trong những năm gần đây nhưng đã tăng trưởng trở lại trong bối cảnh một số chính sách mới hỗ trợ tăng trưởng thị trường theo thời gian như cải cách quy định để giải thích tốt hơn vai trò của tiền số như một công cụ đầu tư, các thay đổi theo kế hoạch đối với chế độ thuế tiền số và cấp phép cho nhà phát hành stablecoin đầu tiên được hỗ trợ bằng đồng yen.
+
+Tất Đạt

@@ -1,0 +1,33 @@
+Mục tiêu đưa phi hành gia tới sao Hỏa năm 2029 của Mỹ chỉ khả thi nếu NASA và SpaceX có thể vượt qua những trở ngại về vận chuyển, cung cấp vật tư và bảo vệ sức khỏe phi hành gia.
+
+Mô phỏng khu định cư trên sao Hỏa với tên lửa Starship. Ảnh: SpaceX
+
+Tổng thống Donald Trump gần đây thông báo Mỹ sẽ tìm cách đưa phi hành gia đáp xuống sao Hỏa trong vòng 4 năm tới. Mục tiêu đó dấy lên nhiều hoài nghi, theo Volker Maiwald, kỹ sư ở Trung tâm Hàng không vũ trụ Đức (DLR). Ông Trump không cung cấp kế hoạch chi tiết, nhưng nhiều khả năng chuyến bay tới sao Hỏa sẽ phụ thuộc nhiều vào SpaceX, công ty do tỷ phú Elon Musk thành lập và điều hành.
+
+SpaceX lên kế hoạch sử dụng siêu tên lửa Starship vẫn đang trong quá trình phát triển để đưa người tới sao Hỏa. Starship phóng lần thứ 7 vào ngày 16/1 trong chuyến bay thử nghiệm và gặt hái thành công một phần. Tên lửa đẩy Super Heavy ở tầng đầu tiên của nó được thu hồi bởi cặp đũa gắp trên tháp phóng như dự kiến, nhưng tầng trên của phương tiện phát nổ sau sự cố rò rỉ nhiên liệu cần cuối quá trình đốt để bay lên cao. Rõ ràng, vẫn còn nhiều việc cần làm với Starship dù Musk chia sẻ SpaceX đặt mục tiêu phóng phương tiện trong nhiệm vụ không người lái tới sao Hỏa năm 2026. Nếu chuyến bay đó thành công, Starship sẽ đưa phi hành gia tới sao Hỏa năm 2028.
+
+Vấn đề về khối lượng và hệ thống khép kín
+
+Tiến độ phát triển Starship không phải vấn đề hàng đầu trong danh sánh lo ngại của Maiwald. Vào tháng 5/2024, ông và 4 nhà nghiên cứu công bố một bài báo trên trang Scientific Reports về tính khả thi của nhiệm vụ chở người tới sao Hỏa trên tàu Starship. Đối với Maiwald và cộng sự, vấn đề chính là khối lượng. Dựa trên thông tin có sẵn về kế hoạch sao Hỏa của SpaceX, họ kết luận khối lượng cần thiết để thực hiện nhiệm vụ sao Hỏa thành công, bao gồm phi hành gia, thiết bị, cơ sở hạ tầng, nhiên liệu, thức ăn, nước uống, không khí... lớn hơn mức Starship có thể chở trong một chuyến bay.
+
+Vấn đề chính nằm ở khả năng tái chế thức ăn, nước và không khí. Càng tái chế nhiều, khối lượng vật tư cần mang theo trong hành trình càng nhỏ. Ví dụ, thực vật là yếu tố chủ chốt giúp tăng tốc độ phục hồi vật tư tiêu thụ. Chúng cung cấp thức ăn và có thể phát triển nhờ chất thải, đồng thời cung cấp oxy và loại bỏ carbon dioxide trong không khí. Tuy nhiên, theo tính toán của nhóm nghiên cứu, ngay cả khi tốc độ phục hồi ở mức 100% cũng không đủ để hạ thấp khối lượng vật tư, giúp đáp ứng những yêu cầu của nhiệm vụ.
+
+Nhiên liệu
+
+Để giảm khối lượng tàu vũ trụ, nhiên liệu để bay tới sao Hỏa mà phương tiện mang theo cần ở mức vừa đủ. Khi ở trên sao Hỏa, việc sử dụng tài nguyên tại chỗ (ISRU) có thể tạo ra nhiên liệu tên lửa mới. Starship đốt methane và oxy lỏng ở tên lửa đẩy, nhưng việc khai thác methane và oxy từ khí quyển và băng nước trên sao Hỏa không hề dễ dàng bởi công nghệ hiện nay chưa đáp ứng. Thí nghiệm ISRU duy nhất từng được tiến hành ngoài khí quyển Trái Đất là MOXIE, diễn ra trên robot tự hành Perseverance, theo Maiwald.
+
+MOXIE là Thí nghiệm tận dụng tài nguyên tại chỗ oxy sao Hỏa. Năm 2021, đây là thí nghiệm khai thác oxy thành công đầu tiên từ nguồn carbon dioxide dồi dào trong khí quyển sao Hỏa. Theo NASA, phóng 4 phi hành gia từ bề mặt sao Hỏa sẽ cần 7.000 kg nhiên liệu tên lửa và 25.000 kg oxy. Ngoài ra, cần oxy để phi hành gia hít thở khi ở trên sao Hỏa.
+
+Ban đầu, MOXIE tạo ra 5 g oxy, đủ để một phi hành gia hít thở trong 10 phút. MOXIE được thiết kế để sản xuất 10 g oxy mỗi giờ khi vận hành. Khi thí nghiệm kết thúc năm 2023, nó tạo ra tổng cộng 122 g oxy. Rõ ràng, Mỹ cần tạo ra hệ thống hiệu quả hơn MOXIE để phi hành gia sống sót trên sao Hỏa.
+
+Một ý tưởng khác là phóng vài tàu Starship không người lái chở tất cả nhiên liệu và oxy mà phi hành gia cần trên sao Hỏa. Với vật tư đầy đủ, các phi hành gia sau đó có thể tạo ra oxy và nhiên liệu tên lửa cần thiết cho phi hành đoàn tiếp theo.
+
+Nguy cơ bức xạ
+
+Môi trường vũ trụ không phải nơi an toàn, các phi hành gia sẽ tiếp xúc với tia vũ trụ và bức xạ mặt trời. Phi hành gia bay tới sao Hỏa sẽ phải chịu lượng bức xạ lớn gấp 700 lần so với trên Trái Đất. Theo tàu bay quanh quỹ đạo ExoMars của Cơ quan Vũ trụ châu Âu, chuyến bay 6 tháng tới sao Hỏa sẽ khiến phi hành gia tiếp xúc với lượng bức xạ khuyến cáo trong 60% cuộc đời.
+
+Trên bề mặt sao Hỏa, họ cũng không an toàn hơn do hành tinh này không có khí quyển dày và từ trường bảo vệ Trái Đất khỏi tia vũ trụ. Ngay cả có khu vực bảo vệ trên tàu Starship để ẩn nấp khi bão mặt trời bùng phát, nguy cơ chỉ giảm đi chứ không mất hẳn. Trên Trạm Vũ trụ Quốc tế (ISS), phi hành gia vẫn chịu lượng bức xạ cao gấp 200 lần so với phi công hàng không thông thường. Các nhà khoa học đang tìm cách bảo vệ tàu vũ trụ chở người khỏi nguy cơ này và nghiên cứu ban đầu cho thấy lithium là vật liệu bảo vệ hiệu quả nhất nhưng cần nghiên cứu sâu hơn.
+
+Một vấn đề sức khỏe khác không thể bỏ qua là tác động của vi trọng lực tới cơ thể người. Chứng teo cơ là căn bệnh phổ biến mà phi hành gia phải đối mặt dù các loại thuốc có thể giảm bớt ảnh hưởng của nó. Nghiên cứu gần đây cho thấy vi trọng lực cũng có thể phá hủy thị lực của phi hành gia. Ít nhất 70% phi hành gia sống trên trạm ISS 6 - 12 tháng bị ảnh hưởng bởi Hội chứng thần kinh - thị giác liên quan tới bay vũ trụ (SANS), hậu quả do áp lực từ chất lỏng trong mô não trong môi trường vi trọng lực.
+
+An Khang (Theo Space)

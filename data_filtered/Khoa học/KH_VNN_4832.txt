@@ -1,0 +1,59 @@
+Tại hội thảo “Rỗng não AI: Hiện tượng – Hệ lụy – Giải pháp 3T” của Tập đoàn giáo dục Aptech Ấn Độ tổ chức gần đây, các chuyên gia quốc tế và trong nước đã đưa ra bức tranh hai mặt của trí tuệ nhân tạo (AI).
+
+Bên cạnh những con số ấn tượng về tăng trưởng, thuật ngữ "AI Brainlessness" (Rỗng não do AI) được nhắc đến như một thách thức lớn nhất đối với nguồn nhân lực trong kỷ nguyên số.
+
+Nguy cơ "rỗng não do AI"
+
+Bà Rakhee Das, Tiến sĩ Đại học Amity và chuyên gia AI quốc tế, dẫn chứng số liệu cho thấy sự thâm nhập mạnh mẽ của công nghệ này.
+
+Chỉ riêng trong năm qua, số lượng ứng dụng AI đã tăng hơn 400%. Dự báo năm 2025, các công ty toàn cầu sẽ đầu tư hơn 200 tỷ USD vào lĩnh vực này.
+
+Thực tế ghi nhận AI giúp ngành y tế phát hiện bệnh nhanh hơn 30%, giảm 40% gian lận trong tài chính và tăng tới 45% năng suất khối văn phòng.
+
+Tuy nhiên, bà Rakhee Das cảnh báo về sự xuất hiện của thế hệ "copy-paste". Theo bà, vấn đề lớn nhất hiện nay là sinh viên và nhân sự trẻ sử dụng AI mà bỏ qua việc học kiến thức nền tảng.
+
+Khi quá phụ thuộc, tư duy phản biện giảm xuống, kiến thức cơ bản yếu đi và kỹ năng giải quyết vấn đề biến mất. Nếu xu hướng này tiếp tục, lực lượng lao động tương lai sẽ mất khả năng suy nghĩ độc lập, bà Das nhận định.
+
+Đồng quan điểm, ông Chu Tuấn Anh, Giám đốc đào tạo Hệ thống Lập trình viên Quốc tế Aptech, gọi đây là hiện tượng "suy giảm nhận thức do AI". Ông lấy ví dụ về việc lệ thuộc vào bản đồ số (Google Maps).
+
+Trong đợt ngập lụt tại Hà Nội gần đây, nhiều tài xế chỉ biết đi theo chỉ dẫn của bản đồ mà mất đi khả năng định vị thực tế và phán đoán rủi ro, dẫn đến việc đi vào đường ngập sâu.
+
+Ông Chu Tuấn Anh, Giám đốc đào tạo Hệ thống Lập trình viên Quốc tế Aptech, chia sẻ về "suy giảm nhận thức do AI". Ảnh: Aptech
+
+Theo phân tích từ chuyên gia Aptech, quá trình suy giảm nhận thức này không diễn ra ngay lập tức mà trải qua ba cấp độ, từ thói quen lười biếng đến sự lệ thuộc hoàn toàn.
+
+Cấp độ đầu tiên là "lười tư duy", thường xuất hiện sau 1 đến 3 tháng sử dụng AI liên tục. Người dùng có xu hướng chấp nhận ngay kết quả máy đưa ra, sao chép để báo cáo hoặc chạy mã lệnh (code) mà không đặt câu hỏi tại sao, cũng không kiểm chứng tính chính xác.
+
+Cấp độ thứ hai là "mất kỹ năng", thường xảy ra sau 3 đến 6 tháng. Khi đó, nhân sự không thể hoàn thành công việc nếu thiếu công cụ hỗ trợ.
+
+Một lập trình viên có thể quên cách viết các thuật toán cơ bản, hoặc một nhân viên nội dung bí ý tưởng hoàn toàn nếu không có gợi ý từ ChatGPT.
+
+Nguy hiểm nhất là cấp độ "mù nhận thức". Lúc này, AI đưa ra một kết quả sai hoặc kém chất lượng, nhưng người dùng không còn đủ kiến thức nền tảng để nhận ra lỗi sai đó.
+
+Đây là giai đoạn con người hoàn toàn bị công cụ dẫn dắt, gây nguy hại không chỉ cho sự nghiệp cá nhân mà còn ảnh hưởng đến doanh nghiệp, thậm chí cả quốc gia, ông Tuấn Anh nhấn mạnh.
+
+Từ góc độ doanh nghiệp công nghệ, ông Nguyễn Quang Tuấn, Chuyên gia AI tại Viettel, chia sẻ thực trạng về việc lạm dụng tính năng sinh mã tự động (Gen Code). Nhiều lập trình viên hiện nay tạo ra sản phẩm rất nhanh nhờ AI, nhưng thiếu chiều sâu về tư duy logic.
+
+"Người mạnh nhất không phải là người có nội tại tốt nhất, mà là người có khả năng thích nghi cao nhất", ông Tuấn nói. Ông cho rằng rủi ro lớn nhất là việc lập trình viên trở nên lỗi thời (outdate) vì chỉ biết dùng AI để viết code chạy được mà không hiểu bản chất bên trong.
+
+Ông Nguyễn Quang Tuấn, chuyên gia AI tập đoàn Viettel, chia sẻ kinh nghiệm sử dụng AI ngay tại doanh nghiệp. Ảnh: Aptech
+
+Ông Tuấn cũng chỉ ra các mô hình AI là tập hợp tri thức của nhân loại, nhưng cũng chứa cả "rác" hay những thông tin sai lệch. Nếu nhân sự chỉ đưa ra những câu lệnh (prompt) hời hợt như "viết cho tôi màn hình đăng nhập" mà không có bối cảnh cụ thể, sản phẩm tạo ra sẽ tiềm ẩn nhiều lỗ hổng. Ông cho rằng, sử dụng AI là rất tốt, nhưng sử dụng có trách nhiệm, hiệu quả lại là một câu chuyện khác.
+
+Công thức 3T giải quyết nguy cơ “rỗng não”
+
+Để giải quyết bài toán này, các chuyên gia thống nhất không thể cấm đoán AI, mà cần thay đổi phương pháp tiếp cận. Ông Chu Tuấn Anh đề xuất công thức "3T" như một giải pháp để người dùng làm chủ công nghệ thay vì bị công nghệ chi phối.
+
+Thứ nhất là Think First (tư duy trước). Trước khi yêu cầu AI hỗ trợ, người dùng cần dành thời gian (khoảng 3 phút) để tự tư duy về vấn đề, hình dung dàn ý hoặc giải pháp trong đầu. Việc này giúp não bộ được kích hoạt và duy trì khả năng tư duy độc lập.
+
+Chữ T thứ hai là xem AI như Tool (công cụ) không phải Tutor (gia sư hay người thầy). Người dùng cần xác định AI chỉ là công cụ hỗ trợ, không phải là người làm thay hay người thầy toàn năng. Cách sử dụng hiệu quả là tự thực hiện công việc, sau đó dùng AI để sửa lỗi, tối ưu hóa hoặc phản biện lại ý tưởng.
+
+Việt Nam thiếu nhân lực AI chất lượng cao Để làm chủ công nghệ trí tuệ nhân tạo (AI), phải có đội ngũ chuyên gia thực sự hiểu sâu và giải quyết được các bài toán khó, song tại Việt Nam, lực lượng này còn mỏng.
+
+Cuối cùng là Techback (Dạy lại). Đây được xem là bước quan trọng nhất để chuyển hóa thông tin từ máy thành kiến thức của người. Sau khi có kết quả từ AI, người dùng cần thực hành giải thích lại kiến thức đó cho người khác hoặc tự diễn giải lại.
+
+Bà Rakhee Das cũng khuyến nghị đối với chiến lược vĩ mô, Việt Nam không nhất thiết phải chạy đua xây dựng các mô hình ngôn ngữ lớn (LLM) tốn kém hàng tỷ USD như các cường quốc công nghệ.
+
+Thay vào đó, con đường hiệu quả hơn là tập trung xây dựng lực lượng lao động có kỹ năng sử dụng AI thành thạo, hiểu về AI minh bạch (Explainable AI) và ứng dụng vào giải quyết các bài toán thực tế.
+
+"Chúng ta không nên sợ AI”, ông Chu Tuấn Anh nói. Lịch sử nhân loại đã chứng kiến sự chuyển dịch từ đồ đá, đồ đồng sang máy hơi nước và máy tính. Ai nắm bắt và làm chủ công cụ mới sẽ là người chiến thắng. “Chúng ta hãy thao túng, làm chủ AI để có được một tương lai tốt đẹp”, đại diện Aptech kết luận.

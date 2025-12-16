@@ -1,0 +1,35 @@
+Tại hội thảo về blockchain tổ chức sáng 9/12 ở Hà Nội, ông Navin Gupta, Giám đốc điều hành Crystal Intelligence, đã có những chia sẻ về thị trường Việt Nam.
+
+Blockchain, bao gồm tài sản số, tiền số, tiền mã hóa; hạ tầng mạng blockchain và hệ thống truy xuất nguồn gốc là một trong 11 nhóm công nghệ chiến lược trong Quyết định 1131 ban hành ngày 12/6.
+
+Theo ông Gupta, Việt Nam là một thị trường tiềm năng, thuộc top đầu thế giới về chấp nhận tiền mã hóa cũng như có số lượng người dùng sở hữu tài sản mã hóa. Bên cạnh đó, một lợi thế của Việt Nam là có dân số trẻ.
+
+Ông Navin Gupta, Giám đốc điều hành Crystal Intelligence, chia sẻ tại sự kiện sáng 9/12. Ảnh: VBA
+
+Từ kinh nghiệm hoạt động tại quốc tế, ông nhấn mạnh, để thúc đẩy thị trường blockchain, cần ba điều kiện. Thứ nhất, tạo điều kiện để đưa các công ty, dự án và ý tưởng ở nước ngoài về và triển khai tại Việt Nam.
+
+Tiếp đó, thúc đẩy tinh thần khởi nghiệp cho giới trẻ, để họ học hỏi những điều hay ở thế giới và tái tạo trong nước, tuân thủ các khuôn khổ cấp phép để các sản phẩm, dịch vụ không chỉ phù hợp với nội địa mà với cả sân chơi nước ngoài.
+
+Cuối cùng là hợp tác công – tư để doanh nghiệp trong và ngoài nước có thể mang nguồn lực đến, đầu tư tại Việt Nam, thúc đẩy kinh tế số. Ông Gupta cho rằng đây là điều đã và đang diễn ra nhưng có thể cải thiện tốt hơn nữa.
+
+Ba trụ cột của hạ tầng blockchain an toàn
+
+Tại hội nghị, ông Phan Đức Trung, Chủ tịch Hiệp hội Blockchain và Tài sản số Việt Nam (VBA), Chủ tịch 1Matrix, cho biết phát triển hạ tầng blockchain cần cân bằng giữa đảm bảo chủ quyền quốc gia thông qua việc lưu trữ các dữ liệu có yêu cầu bảo mật cao tại các trung tâm dữ liệu được cấp phép trong nước; tối ưu hiệu năng và khả năng mở rộng thông qua các dịch vụ cloud nước ngoài; triển khai một hệ thống truy vết hiệu quả, đáp ứng các yêu cầu phòng chống rửa tiền, chống tài trợ khủng bố (AML/CFT).
+
+Các diễn giả cùng thảo luận về chủ đề tái định hình hệ sinh thái blockchain từ hạ tầng số an toàn. Ảnh: VBA
+
+Chia sẻ về hạ tầng vật lý dữ liệu, ông Nguyễn Đình Hùng, Giám đốc Điều hành True IDC Việt Nam, cho biết nhu cầu sử dụng hạ tầng đám mây tăng mạnh khi dữ liệu lớn, AI và blockchain được triển khai rộng rãi.
+
+Quy mô thị trường đám mây công cộng Public Cloud tại châu Á dự kiến đạt hơn 200 tỷ USD vào năm 2025, với mức tăng trưởng hằng năm 19,32% giai đoạn 2025-2029.
+
+Tại Việt Nam, thị trường này được dự báo tăng trưởng trung bình 25,24%/năm và đạt quy mô hơn 1 tỷ USD trong năm nay.
+
+Để giải quyết bài toán hạ tầng, Mạng dịch vụ đa chuỗi blockchain Việt Nam (VBSN) được thiết kế với kiến trúc 5 tầng, tối ưu khả năng mở rộng, bảo mật và liên thông.
+
+Mạng này đáp ứng nhu cầu số hóa dài hạn, cho phép doanh nghiệp phát triển ứng dụng mà không phải đầu tư lại hạ tầng, đồng thời tăng khả năng quản lý, giám sát minh bạch cho cơ quan quản lý nhà nước.
+
+Một điểm đáng chú ý là VBSN cho phép triển khai nhiều Layer 1 độc lập, tùy chỉnh thuật toán đồng thuận và tốc độ xử lý theo nhu cầu từng nhóm ứng dụng.
+
+Cấu trúc đa chuỗi này giúp phân tách tải, giảm nghẽn mạng và duy trì ổn định khi xử lý khối lượng giao dịch lớn.
+
+Theo các chuyên gia, cần xây dựng và triển khai một hệ thống truy vết on-chain toàn diện, không chỉ hỗ trợ giám sát giao dịch mà còn đóng vai trò then chốt trong việc phát hiện, ngăn chặn và giảm thiểu các hoạt động rửa tiền, tài trợ khủng bố hay các hành vi lạm dụng tài sản mã hoá ngày càng tinh vi, giúp cơ quan quản lý chủ động kiểm soát rủi ro, tạo môi trường an toàn hơn cho nhà đầu tư trong lĩnh vực Web3.

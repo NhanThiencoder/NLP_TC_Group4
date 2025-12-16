@@ -1,0 +1,55 @@
+Sáng 26/11, Phó Thủ tướng Nguyễn Chí Dũng có buổi làm việc với Mạng lưới Đổi mới sáng tạo và chuyên gia Việt Nam tại Trung tâm Đổi mới sáng tạo quốc gia (NIC). Chương trình có sự tham dự của lãnh đạo Bộ Tài chính, Bộ Khoa học và Công nghệ (Bộ KH&CN); đại diện các viện nghiên cứu, trường đại học và gần 70 chuyên gia từ 22 quốc gia tham dự trực tiếp và trực tuyến.
+
+Đúng với tinh thần Phó Thủ tướng đề ra ở đầu cuộc họp, đại diện và các chuyên gia đến từ các mạng lưới đã đưa ra các ý kiến thẳng thắn từ kinh nghiệm thực tiễn hoạt động, cũng như những đề xuất thiết thực, cụ thể và có tính khả thi cho nhà quản lý để bổ sung, hoàn thiện phát triển hệ sinh thái đổi mới sáng tạo Việt Nam, đặc biệt là trong các ngành công nghệ chiến lược.
+
+Buổi làm việc của Phó Thủ tướng Nguyễn Chí Dũng với Mạng lưới Đổi mới sáng tạo và chuyên gia Việt Nam tại Trung tâm Đổi mới sáng tạo quốc gia (NIC) sáng 26/11. Ảnh: NIC
+
+Những thách thức lớn mà chúng ta đang đối mặt là thiếu hụt nhân lực chất lượng cao, nhu cầu vốn cho R&D lớn, phòng thí nghiệm, khu vực bay UAV thử nghiệm còn thiếu, thiếu không gian vật lý, chính sách thử nghiệm công nghệ mới, khoảng cách về tiêu chuẩn, sở hữu trí tuệ, an ninh mạng...
+
+Đào tạo nhân lực tinh hoa
+
+Một vấn đề nổi bật được các diễn giả đặc biệt nhắc đến chính là nguồn nhân lực. Chẳng hạn, trong lĩnh vực trí tuệ nhân tạo, PGS.TS Nguyễn Phi Lê - điều hành Viện nghiên cứu và ứng dụng trí tuệ nhân tạo (AI4LIFE), Đại học Bách khoa Hà Nội - chỉ ra: “Chúng ta chưa làm được gì nhiều trong AI”.
+
+Để nghiên cứu và phát triển AI, theo PGS, điều cốt lõi là phải có nhân lực, song số lượng chuyên gia thực sự hiểu sâu AI tại Việt Nam rất hiếm. Thiếu lực lượng này, sẽ không thể giải được những bài toán đặc thù như dự báo thời tiết, chống biến đổi khí hậu. Trong khi đó, so với thế giới, tỷ lệ sinh viên sau đại học trong nước chỉ khoảng 10-20%, rất thấp so với thế giới.
+
+Vì vậy, người đứng đầu Viện AI4LIFE đề xuất đẩy mạnh đào tạo lớp tinh hoa AI tại Việt Nam, xây dựng cụm AI Cluster với sự tham gia của các trường đại học hàng đầu và doanh nghiệp để phục vụ mục tiêu này, đồng thời kết nối với các chuyên gia Việt ở nước ngoài, xây dựng lực lượng bền vững và làm chủ được AI.
+
+Ông Ngô Tuấn Anh - Chủ tịch Mạng lưới Đổi mới sáng tạo và Chuyên gia an ninh mạng Việt Nam (ViSecurity) trình bày tại buổi làm việc. Ảnh: NIC
+
+Trong lĩnh vực an ninh mạng, ông Ngô Tuấn Anh, Chủ tịch Mạng lưới Đổi mới sáng tạo và Chuyên gia an ninh mạng Việt Nam (ViSecurity) nhấn mạnh, để phát triển an ninh mạng thành công nghệ chiến lược, trước mắt, mạng lưới tập trung giải bài toán cốt lõi về nhân sự thông qua xây dựng Thao trường an ninh mạng mở Việt Nam.
+
+Thao trường sẽ đào tạo thực chiến về chuyên môn, kỹ năng nhằm phát triển nguồn nhân lực, chuyên gia công nghệ hàng đầu Việt Nam về an ninh mạng; phát triển, thử nghiệm sản phẩm để hỗ trợ doanh nghiệp, ươm tạo startup với các sản phẩm Make in Vietnam; mô phỏng các cuộc tấn công mạng trong và ngoài nước nhằm chuẩn bị các biện pháp, kịch bản phòng ngừa, bảo vệ nhằm đảm bảo an ninh mạng quốc gia.
+
+Đồng quan điểm, ông Ngô Minh Hiếu, CEO Chống lừa đảo cho rằng nguồn nhân lực AI, an ninh mạng, điều tra số và xử lý dữ liệu lớn cần được đào tạo dựa trên tình huống thật, dữ liệu thật và bài toán thật - giống mô hình của Singapore và Israel.
+
+Đầu tư tinh gọn, có trọng điểm
+
+Từ kinh nghiệm tham gia lĩnh vực lượng tử năm 2019, bà Rossy Nhung Nguyễn, Chủ tịch Mạng lưới công nghệ lượng tử VNQuantum nhận xét Việt Nam đang là quốc gia đi sau với nguồn lực hữu hạn. Do đó, bà kiến nghị không đầu tư dàn trải, chạy đua trực diện với các cường quốc mà hướng đi tối ưu là đầu tư tinh gọn, có trọng điểm, chiếm lĩnh thị trường ngách có giá trị cao.
+
+Chẳng hạn, bà nhắc đến vật liệu đồng siêu tinh khiết (high-purity copper) có giá cao hơn 200 lần so với đồng thông thường. Một mét dây cáp siêu dẫn thành phẩm có thể đạt mức giá 1.500 USD, nhưng thế giới chỉ có 2-3 công ty sở hữu công nghệ chế tạo loại cáp đặc biệt này. Điều đó cho thấy Việt Nam hoàn toàn có cơ hội nếu tìm ra một ngách phù hợp.
+
+Mạng lưới VNQuantum đang lên kế hoạch cho vườn ươm tập trung ươm tạo startup theo 2 hướng: phát triển công nghệ lõi đột phá hoặc làm chủ thị trường ngách. “Đó là cách tiếp cận thực tế nhất để Việt Nam biến nguồn lực hạn chế thành vị thế cạnh tranh độc đáo trong kỷ nguyên lượng tử”, Chủ tịch VNQuantum nói.
+
+Tương tự, GS Nguyễn Ngọc Tú (Đại học Bang Kennesaw, Mỹ) cho biết trong lượng tử, những công ty đầu ngành chỉ làm một sản phẩm cụ thể như máy điều khiển qubit, máy đo độ nhiễu, cáp...
+
+Ông Nguyễn Văn Khoa, Tổng giám đốc FPT nêu các kiến nghị và đề xuất thúc đẩy ngành công nghiệp UAV. Ảnh: Lưu Quý
+
+Để thúc đẩy lĩnh vực UAV, ông Nguyễn Văn Khoa, Tổng giám đốc FPT, Chủ tịch Mạng lưới Hàng không, vũ trụ, thiết bị bay không người lái - đưa ra 7 đề xuất, bao gồm đưa cơ sở dữ liệu UAV vào cơ sở dữ liệu quốc gia; thành lập hành lang thử nghiệm UAV quốc gia, thí điểm tại các thành phố lớn có tính đặc thù cao như Hà Nội, TPHCM; quy hoạch vùng bay UAV trên toàn quốc; xây dựng trung tâm kiểm định và chứng nhận UAV quốc gia; có cơ chế đặt hàng công cho UAV; phát triển hệ sinh thái doanh nghiệp UAV Việt Nam và phát triển nguồn nhân lực chuyên ngành, thúc đẩy ngoại giao kinh tế, ngoại giao công nghệ.
+
+Không chỉ giới hạn ở 11 ngành công nghệ chiến lược
+
+Tại hội nghị, đại diện Bộ KH&CN chia sẻ rõ hơn về việc phát triển các công nghệ chiến lược, đó là đi từ sản phẩm. Mục tiêu hiện tại tập trung chủ yếu cho kinh tế - xã hội, đóng góp vào tăng trưởng 2 con số, nghiên cứu gì cũng phải thương mại hóa được.
+
+Bộ đã trình 6 sản phẩm công nghệ chiến lược triển khai trong giai đoạn 2026-2030, gồm: mô hình ngôn ngữ lớn và trợ lý ảo; AI camera; robot tự hành; 5G; blockchain và các ứng dụng truy xuất nguồn gốc, tài sản mã hóa; UAV. Sau khi được phê duyệt, Bộ sẽ kêu gọi đề xuất nhiệm vụ để tài trợ và bộ, ngành đứng ra đặt hàng sản phẩm công nghệ chiến lược.
+
+Đánh giá cao ý kiến của các chuyên gia, Phó Thủ tướng Nguyễn Chí Dũng nhấn mạnh Việt Nam đang bước vào giai đoạn phát triển mới, nơi đổi mới sáng tạo và công nghệ chiến lược sẽ là động lực then chốt. Theo Phó Thủ tướng, chưa bao giờ Bộ KH&CN làm được nhiều luật, nghị quyết, đề án như năm vừa qua. Nếu các luật được thông qua, cơ bản khuôn khổ pháp lý cần thiết cho hoạt động khoa học công nghệ, đổi mới sáng tạo đã đồng bộ và đầy đủ.
+
+Phó Thủ tướng khẳng định: “Chúng ta không chỉ giới hạn ở 11 ngành công nghệ và 35 sản phẩm công nghệ chiến lược mà phải rộng ra tất cả các ngành công nghệ tác động đến kinh tế, xã hội”.
+
+Phát triển đồng bộ, bền vững hệ sinh thái đổi mới sáng tạo các ngành công nghệ chiến lược không chỉ là nhiệm vụ của Chính phủ mà còn của cả hệ thống chính trị, chuyên gia, nhà khoa học trong mạng lưới.
+
+Việt Nam cần có chiến lược tổng thể để làm chủ công nghệ lõi, phát triển nhân lực chất lượng cao, xây dựng hạ tầng công nghệ và hệ thống phòng thí nghiệm dùng chung, thúc đẩy hệ sinh thái đổi mới sáng tạo toàn diện cho các ngành công nghệ.
+
+Phó Thủ tướng Nguyễn Chí Dũng giao Bộ Tài chính tổng hợp và đề xuất cơ chế chính sách đột phá, tạo thuận lợi cho việc huy động phân bổ nguồn nhân lực phát triển công nghệ chiến lược; ưu tiên phát triển NIC làm hạt nhân cho hệ sinh thái đổi mới sáng tạo và các công nghệ chiến lược. Ông giao Bộ KH&CN nghiên cứu, bổ sung một số sản phẩm công nghệ chiến lược như thao trường an ninh mạng, máy tính lượng tử siêu dẫn; ưu tiên đặt hàng, giao nhiệm vụ khoa học công nghệ, đổi mới sáng tạo cấp quốc gia cho các nhóm nghiên cứu.
+
+Với các mạng lưới đổi mới sáng tạo và các chuyên gia, Phó Thủ tướng yêu cầu bám sát chủ trương của Đảng và Nhà nước, 11 ngành công nghệ chiến lược, giải các bài toán lớn của đất nước như bão lũ, biến đổi khí hậu, sạt lở.

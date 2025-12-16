@@ -1,0 +1,53 @@
+Sạc không dây (wireless charging) mang lại sự tiện lợi rõ rệt: thả máy lên đế, không lằng nhằng dây cáp. Tuy nhiên nhiều người thắc mắc liệu tiện lợi đó có phải trả bằng hóa đơn tiền điện cao hơn?
+
+Câu trả lời ngắn gọn, dựa trên các nghiên cứu và nguyên lý vật lý, là “có”.
+
+Sạc không dây thường kém hiệu suất hơn sạc có dây. Ảnh minh hoạ
+
+Sạc không dây thường kém hiệu suất hơn sạc có dây và vì vậy tiêu thụ nhiều điện từ ổ cắm hơn để nạp cùng một lượng năng lượng cho pin.
+
+Mức khác biệt phụ thuộc vào công nghệ, chất lượng thiết bị và cách sử dụng, nhưng các thử nghiệm độc lập cho thấy tổn thất thường rơi vào khoảng 20–50% so với sạc có dây trong nhiều tình huống thực tế, theo iFixit.
+
+Vì sao sạc không dây “tốn” hơn?
+
+Sạc có dây truyền năng lượng trực tiếp qua dây dẫn với tổn thất tương đối thấp; hệ thống có thể đạt hiệu suất rất cao (thường 90% trở lên) nhờ thiết kế bộ điều tiết và cáp trực tiếp.
+
+Trong khi đó, sạc không dây dùng cảm ứng từ (inductive charging): bộ phát tạo trường điện từ, bộ thu trên điện thoại chuyển trường đó trở lại thành điện, rồi mới đến pin.
+
+Quá trình này sinh ra hai nguồn tổn thất chính: mất mát năng lượng trong cuộn dây và mạch chuyển đổi, và mất năng lượng do can nhiễu/không khớp vị trí (nếu đặt lệch thì hiệu suất giảm mạnh).
+
+Hậu quả là tổng năng lượng lấy từ ổ cắm để nạp đầy pin thường lớn hơn so với sạc có dây.
+
+Một số thử nghiệm của các trang sửa chữa/đánh giá độc lập đã đo năng lượng thực tế từ ổ cắm. iFixit, trong phép đo một trường hợp cụ thể, thấy tổn thất lên tới khoảng 36% (tức cần 1,36 lần năng lượng từ ổ để nạp đầy pin so với lý thuyết), trong khi các phân tích khác báo cáo mức 30–47% tuỳ điều kiện như loại đế, khoảng cách giữa cuộn, và vỏ điện thoại.
+
+Điều này không có nghĩa mọi đế sạc đều tệ như nhau, Các mẫu chất lượng cao, thiết kế nhiều cuộn (multi-coil) và chuẩn Qi đời mới cải thiện hiệu suất, nhưng xu hướng chung là sạc không dây vẫn kém hiệu quả hơn cáp.
+
+Khi nào khác biệt lớn nhất?
+
+Sự chênh lệch hao tốn điện tăng khi vị trí đặt không chính xác (lệch cuộn) hoặc điện thoại bị lùi do ốp dày/kim loại, làm tổn thất tăng.
+
+Ngoài ra, khi sạc công suất cao nhưng thiết kế đế kém hoặc đế rẻ tiền, không đạt chuẩn Qi hay không tương thích tốt với máy… sẽ khiến nhiệt tỏa ra nhiều hơn, mất năng lượng dưới dạng nhiệt.
+
+Ngược lại, khi dùng cáp chính hãng, bộ sạc chất lượng (PD fast charger) và cáp tốt, hiệu suất rất cao và thời gian sạc cũng ngắn hơn. Điều này cũng giảm tổn thất tổng thể so với phiên bản không dây.
+
+Liệu sự khác biệt có đáng để lo?
+
+Về mặt kinh tế, với smartphone có pin khoảng 10–15 Wh, lượng điện thêm tiêu thụ bởi sạc không dây trên mỗi lần nạp thường là vài watt-giờ (Wh) - tức tiền điện tăng rất nhỏ trong bối cảnh hộ gia đình.
+
+Nếu bạn quan tâm tới môi trường hoặc tối ưu hóa lâu dài (ví dụ sạc nhiều lần trong ngày, hay nhà có nhiều thiết bị không dây), thì hiệu suất kém hơn có thể cộng dồn thành con số có ý nghĩa.
+
+Nói cách khác, cho phần lớn người dùng, sạc không dây không khiến hóa đơn điện tăng đáng kể; nhưng nếu bạn muốn tiết kiệm tối đa năng lượng, sạc có dây vẫn là lựa chọn hiệu quả nhất.
+
+Để hạn chế tiêu thụ thừa và nhiệt độ tăng cao, bạn nên:
+
+Dùng đế sạc và adapter có chứng nhận (Qi, thương hiệu uy tín).
+
+Đặt chính xác điện thoại lên đế; tháo ốp dày hoặc kim loại khi sạc.
+
+Tránh để máy vừa sạc vừa dùng nhiều (xem video, chơi game), vì điều này làm sạc mất nhiều thời gian và sinh nhiệt.
+
+Sạc không dây đổi lại sự tiện lợi bằng mất mát năng lượng lớn hơn so với sạc có dây trong hầu hết các tình huống thực tế, mức tổn thất thường ở khoảng 20–50% tùy thiết bị và cách dùng.
+
+Với người dùng ưu tiên tiện lợi và không bận tâm hóa đơn tăng chút ít, sạc không dây là lựa chọn hợp lý. Nếu mục tiêu là tiết kiệm điện và tối ưu hiệu suất, dùng sạc có dây chất lượng vẫn là lựa chọn tốt nhất.
+
+(Theo iFixit, Lifewire, Battery University)

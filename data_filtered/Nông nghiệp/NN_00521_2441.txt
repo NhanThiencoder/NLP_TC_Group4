@@ -1,0 +1,23 @@
+Title: Số hóa nông nghiệp, giúp nông dân dễ dàng truy cập thông tin cần thiết
+
+Cụ thể hóa Văn kiện Đại hội XIII của Đảng, Nghị quyết số 19-NQ/TW đề ra mục tiêu chính là tiếp tục phát triển bền vững theo 3 trụ cột “kinh tế, xã hội và môi trường”, hướng tới thực hiện mục tiêu tổng quát: Phát triển nền nông nghiệp hiện đại, hiệu quả, bền vững theo hướng nông nghiệp sinh thái, thích ứng với biến đổi khí hậu, bảo đảm an ninh lương thực quốc gia.
+
+Bởi, trước bối cảnh và yêu cầu của thời kỳ mới Nông nghiệp thông minh sẽ mang lại cơ hội tăng cường khả năng kết nối cho người sản xuất với thông tin, quản lý sản xuất tốt hơn, giảm bớt sự phức tạp của các thủ tục hành chính nhiều cấp như hiện nay để được sử dụng trực tiếp các dịch vụ công của Nhà nước cho nông nghiệp.
+
+Số hóa nông nghiệp, giúp nông dân dễ dàng truy cập thông tin cần thiết
+
+Về cơ hội hoạt động nông nghiệp thông minh, lợi ích cụ thể đầu tiên là người nông dân có thể tiếp cận với nhiều thông tin hơn để ra quyết định sản xuất chính xác hơn, giảm chi phí sản xuất, tăng năng suất lao động, tăng hiệu quả sản xuất và giảm ô nhiễm môi trường thông qua các nền tảng số do doanh nghiệp hay nhà nước cung cấp để kết nối với các dịch vụ đầu vào sản xuất như giống, phân bón, thuốc bảo vệ thực vật, dịch vụ cơ giới hoá, vay tín dụng, tiếp cận khuyến nông số, dịch vụ dự báo thời tiết khí hậu, dịch vụ bảo vệ thực vật, dịch vụ bảo quản, vận chuyển, thu hoạch, tiếp cận thông tin về nhu cầu của người mua, các tiêu chuẩn của thị trường, thông tin giá cả cập nhật…
+
+Các nguồn thông tin này được thu thập, tích luỹ dần dần và tập hợp dưới dạng cơ sở dữ liệu mở, quản lý tập trung, do Bộ Nông nghiệp và Phát triển nông thôn cùng với các doanh nghiệp cung cấp để mọi người dân có thể kết nối sử dụng. Hộ nông dân, trang trại, hợp tác xã, hay doanh nghiệp sản xuất cũng có thể áp dụng các công nghệ sản xuất của nông nghiệp chính xác, áp dụng công nghệ tự động hoá để có thể tối ưu hoá từng phần của quá trình sản xuất với bón phân, tưới nước, xử lý thuốc bảo vệ thực vật..., đảm bảo an toàn thực phẩm, giảm ô nhiễm môi trường với sự hỗ trợ của các nền tảng số.
+
+Cơ hội tiếp đến là ở khâu sau thu hoạch, quản lý chuỗi giá trị, truy xuất nguồn gốc từ trang trại đến bàn ăn, truy xuất thông tin và bán hàng được thông qua thương mại điện tử với các nền tảng số do doanh nghiệp cung cấp. Các nền tảng này cũng có thể đảm nhận luôn cả công tác hậu cần, vận chuyển. Với các công nghệ số tiên tiến như blockchain, IoT, AI,... do các doanh nghiệp Việt Nam phát triển, nông dân có thể tiếp cận với mức chi phí phù hợp là hoàn toàn khả thi.
+
+Tuy còn nhiều vấn đề cần giải quyết, nhưng ở Việt Nam đã có một số mô hình nông nghiệp thông minh. Một số mô hình tiêu biểu có sự tham gia của nông hộ nhỏ như mô hình trồng rau thuỷ canh thông minh. Đây là một mô hình bắt đầu phổ biến ở Việt Nam trên các vùng miền và có các mô hình với quy mô khác nhau từ vài trăm m2 đến vài chục ha. Công nghệ này cũng có thể áp dụng cho các hộ gia đình tự trồng rau ở trong nội đô với mục tiêu tự cấp. Do vậy có thể phù hợp với các hộ trang trại nhỏ hay các các doanh nghiệp, hợp tác xã quy mô lớn với mạng lưới đối tác là các hộ trang trại nhỏ cung ứng theo hợp đồng.
+
+Việt Nam có thể học tập Pakistan trong việc xây dựng một cổng thông tin dự báo thị trường nông sản theo thời gian thực. Năm ngoái, Bộ Nông nghiệp Pakistan đã xây dựng kế hoạch phát triển cổng thông tin dự báo mùa vụ thời gian thực (RTCF) để tích hợp thông tin từ nhiều nguồn, sử dụng công nghệ kỹ thuật số tiên tiến.
+
+Ý tưởng về RTCF là nhằm hỗ trợ nông dân trong dự báo thị trường. Hơn nữa, RTCF hoàn toàn khả thi nếu tích hợp nhiều bộ dữ liệu và phương pháp hoặc phối hợp các bộ phận/tổ chức khác nhau bằng các công nghệ kỹ thuật số hiện đại.
+
+Được biết, dự án đã giúp Bộ Nông nghiệp Pakistan đưa ra dự báo sản lượng hàng năm đối với các mùa vụ chính dựa trên các phân tích vệ tinh. Phương pháp được sử dụng từ năm 2005 tới nay.
+
+Ngọc Minh và nhóm PV, BTV

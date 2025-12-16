@@ -1,0 +1,23 @@
+Sử dụng những đoạn video về giao thông ở các thành phố như Berlin - Đức, Istanbul - Thổ Nhĩ Kỳ và Moscow - Nga cùng kỹ thuật dữ liệu lớn mô phỏng não bộ con người, một công ty bản đồ kỹ thuật số đang kêu gọi các nhà nghiên cứu tìm cách dự báo tình hình giao thông, tương tự như dự báo thời tiết, theo báo The Washington Post ngày 28-12.
+
+
+
+Viện Nghiên cứu nâng cao trí tuệ nhân tạo (IARAI), được thành lập bởi công ty cung cấp dữ liệu giao thông Here Technologies (Mỹ), đã tổ chức một cuộc thi dự báo tình hình giao thông kết thúc hồi đầu tháng này.
+
+Xuyên suốt cuộc thi, các đội tham gia được chấm điểm dựa trên khả năng phỏng đoán tình hình giao thông sau khi dữ liệu mà họ được cung cấp kết thúc, đặc biệt là 5, 10 và 15 phút sau đó. Theo các nhà tổ chức, những đội đứng đầu hoàn thành phần thi của mình với kết quả chính xác "đáng kinh ngạc". Tỉ lệ sai sót của người giành chiến thắng, ông Sungbin Choi - một nhà nghiên cứu độc lập đến từ Seoul - Hàn Quốc, là "cực kỳ thấp, chưa đến 1%.
+
+Kẹt xe trên đường Garden Ring, thủ đô Moscow - Nga 1 tuần trước dịp năm mới và Giáng sinh hôm 25-12. Ảnh: AP
+
+Theo các nhà nghiên cứu, kết quả của cuộc thi cho thấy những thiết lập tính toán phức tạp, được gọi là mạng nơ-ron nhân tạo, có thể phát hiện những xu hướng giao thông khó nhận thấy từ kho dữ liệu khổng lồ. Điều này có ý nghĩa quan trọng đối với cách xe cộ di chuyển từ nơi này đến nơi khác, cũng như đối với cách các nhà nghiên cứu và hoạch định phân tích sự tương tác của những mối lo ngại về môi trường và giao thông - giới chức Here Technologies nhìn nhận.
+
+"Mục đích cuối cùng là giảm thiểu ùn tắc giao thông" - Giám đốc truyền thông Jordan Stark của Here Technologies khẳng định, đồng thời cho biết ứng dụng tiềm tàng của tham vọng này có thể được áp dụng cho các tài xế từ thủ đô Washington - Mỹ đến thủ đô Warsaw - Ba Lan.
+
+Ông Michael Kopp, Giám đốc nghiên cứu tại Here Technologies, cho biết công ty của ông cung cấp cho các nhà nghiên cứu kho dữ liệu giao thông khổng lồ, được thu thập trong suốt nhiều tháng từ 3 thành phố lớn nêu trên, với dữ liệu màu xanh lá, xanh da trời và đỏ tượng trưng lần lượt cho tốc độ, phương hướng và lưu lượng giao thông.
+
+Kho dữ liệu nêu trên, được báo cáo từ các phương tiện tham gia giao thông, là chính xác và hiện các nhà nghiên cứu đã bắt đầu quá trình xây dựng công cụ phần mềm giúp họ thu thập những xu hướng giao thông khó nhận thấy từ những đoạn video chứa nhiều dữ liệu nhưng dài lê thê.
+
+Nói cách khác, theo hướng tiếp cận này, máy tính sẽ được cung cấp lượng dữ liệu khổng lồ để "học cách" tìm ra xu hướng giao thông.
+
+"Hiện chưa có lý thuyết về việc xây dựng một mạng lưới nơ-ron nhân tạo thành công… Làm sao chúng tôi biết có các xu hướng giao thông nhất định? Đây là những công cụ săn lùng xu hướng hiện đại" - ông Kopp nói.
+
+Một hướng tiếp cận khác có thể là "dự đoán tình hình giao thông, chẳng hạn như vào một ngày thứ hai nào đó, vào lúc 10 giờ. Tôi có thể xem dữ liệu của những ngày thứ hai khác vào lúc 10 giờ, tính trung bình và ấn nộp kết quả. Ai cũng có thể làm điều này. Nó là một thuật toán" - ông Kopp chia sẻ.

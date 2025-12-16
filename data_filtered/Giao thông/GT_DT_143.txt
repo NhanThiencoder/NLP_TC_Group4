@@ -1,0 +1,33 @@
+Những ngày qua mạng xã hội xôn xao bài viết của một người đàn ông về việc ông này sau khi cài đặt ứng dụng VNeTraffic, tài khoản mức độ 2 thì hệ thống hiển thị thông tin cá nhân có đứng tên đăng ký một chiếc xe máy BKS 29T4-43.xx.
+
+Tuy nhiên, người đàn ông lại không thừa nhận là chủ chiếc xe này.
+
+"Có ai giống tôi không, check trên VNeTraffic tự nhiên có cái xe máy biển số này. Tôi chưa bao giờ sở hữu hay đứng trên hộ ai", nội dung người đàn ông đăng tải trên mạng xã hội.
+
+Nội dung bài viết ông T. đăng tải trên mạng xã hội (Ảnh: Chụp màn hình).
+
+Sau khi bài viết được đăng tải, đã có rất nhiều ý kiến bình luận. Có người cho rằng thông tin trên ứng dụng bị sai, cũng có ý kiến đặt dấu hỏi lực lượng chức năng có nhầm lẫn dữ liệu khiến người dân bị đứng sai tên phương tiện?
+
+Liên quan tới sự việc này, ngày 1/11, Cục CSGT (Bộ Công an) đã có thông tin chính thức.
+
+Theo đó, sau khi nắm bắt thông tin trên, Cục CSGT đã chỉ đạo đơn vị chức năng phối hợp với Phòng CSGT Công an TP Hà Nội rà soát dữ liệu hệ thống và tra cứu thực tế hồ sơ gốc biển số xe đang được lưu trữ.
+
+Qua đó, cảnh sát giao thông đã xác thực ông T.N.T. (trú tại Khu đô thị Times City, TP Hà Nội) chính là chủ chiếc xe máy có BKS 29T4-43.xx. Ông T.N.T. cũng chính là người đã đăng tải thông tin trên mạng xã hội không thừa nhận chiếc xe của mình.
+
+Theo Cục CSGT, sau khi nắm bắt thông tin trên, ông T.N.T. đã xóa bài đăng trên mạng xã hội.
+
+Hồ sơ gốc về thông tin chiếc xe máy mà ông T. đã đăng ký được Cục CSGT xác minh (Ảnh: Cục CSGT).
+
+"Bạn có thể quên đã từng đứng tên trên đăng ký xe hay là chủ một chiếc xe, nhưng hệ thống thì không bao giờ quên", vị đại diện Cục CSGT nhấn mạnh.
+
+Nhà chức trách cho hay, Cục CSGT đang phối hợp với các đơn vị liên quan phát triển ứng dụng VNeTraffic để hỗ trợ tối đa cho người tham gia giao thông.
+
+Theo cảnh sát, ứng dụng VNeTraffic đã kết nối với ứng dụng VNeID, để những cá nhân đã nâng cấp mức độ 2 tại ứng dụng VNeID sẽ được tự động chuyển sang mức độ 2 tại ứng dụng VNeTraffic.
+
+Qua đó, toàn bộ dữ liệu về phương tiện, giấy phép lái xe gắn với chứng minh thư nhân dân (trước đây) đã được chuyển đổi thành mã định danh cá nhân đều được thông tin trên hệ thống VNeTraffic.
+
+CSGT kiểm tra thông tin giấy tờ lái xe trên VNeID (Ảnh: Trần Thanh).
+
+Cảnh sát cho biết, sau khi người dân cài đặt ứng dụng VNeTraffic (mức độ 2), hệ thống sẽ tự động cập nhật các loại giấy tờ về giao thông của chủ tài khoản theo mã định danh cá nhân gồm: thông tin về giấy phép lái xe, các loại phương tiện cơ giới đường bộ do chủ tài khoản đứng tên trên giấy đăng ký xe.
+
+Theo Cục CSGT, trường hợp chủ tài khoản nhận thấy các thông tin về giấy phép lái xe hoặc phương tiện không chính xác, có thể đến công an cấp xã nơi thường trú để khai báo, hiệu chỉnh thông tin, nhất là những thông tin về phương tiện đã bán, mua, cho tặng nhưng không làm thủ tục hoặc xe cũ nát đã bỏ.

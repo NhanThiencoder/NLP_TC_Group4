@@ -1,0 +1,15 @@
+Lắp 4 loa cho một amply (2)
+
+Chao cac ban. Hien toi dang co hai doi loa (4 chiec hoan toan giong nhau) dien tro 4 Ohm. Trong khi Amply cua toi chi tuong thich voi loa 8 Ohm. Vay toi co the dau noi tiep 2 loa mot vao moi nhanh cua Amply duoc khong? Rat mong su huong dan cua cac ban. Rat xin loi khong hieu tai sao lai khong go duoc tieng Viet.
+
+HOAI AN
+
+Hồi âm:
+
+
+TOM 
+
+Đúng rồi, bạn cứ đấu nối tiếp 2 loa với nhau cho một nhánh. Chỉ cần chú ý chút xíu là nên để ý đến các đầu vào của loa, đầu "dương" của loa này đấu với "âm" của loa kia. Thân ái. 
+
+
+

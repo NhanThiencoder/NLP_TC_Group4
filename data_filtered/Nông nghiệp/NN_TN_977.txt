@@ -1,0 +1,21 @@
+Hãng tin Bloomberg mới đây có bài viết khám phá nông trại của hãng Bowery Farming.
+
+
+
+Mỗi buổi sáng khi đi làm, cô Katie Morich thay đồng phục sạch, đội nón và rửa tay bằng chất khử trùng. Sau đó, cô nhìn vào màn hình máy tính hiển thị toàn bộ nhiệm vụ cần làm trong ngày. Tác giả của danh sách những việc cần làm này không phải là con người, mà là phần mềm thuộc sở hữu độc quyền. Phần mềm sử dụng dữ liệu thu thập được từ trang trại để đưa ra nhiều quyết định quan trọng.
+
+tin liên quan AI và robot sẽ tạo ra hàng triệu việc làm mới Vài trong số các quyết định này là cần tưới cho mỗi cây bao nhiêu nước, cường độ ánh sáng cần thiết ra sao, và khi nào thì thu hoạch. Cô Morich và những người nông dân đồng nghiệp làm việc theo những gì máy tính gợi ý. Dù vậy, cô không ngại nhận lệnh từ máy tính khi chia sẻ vui vẻ: “Tôi nghĩ là tôi cũng có báo cáo với Hệ điều hành Bowery”. Vài trong số các quyết định này là cần tưới cho mỗi cây bao nhiêu nước, cường độ ánh sáng cần thiết ra sao, và khi nào thì thu hoạch. Cô Morich và những người nông dân đồng nghiệp làm việc theo những gì máy tính gợi ý. Dù vậy, cô không ngại nhận lệnh từ máy tính khi chia sẻ vui vẻ: “Tôi nghĩ là tôi cũng có báo cáo với Hệ điều hành Bowery”.
+
+Hệ điều hành Bowery là tên của phần mềm mà hãng Bowery Farming phát triển để điều hành trang trại nằm trong khu công nghiệp ở bang New Jersey (Mỹ). Bowery cho biết máy móc có thể học tức thì cách trồng cây hiệu quả, giỏi hơn là trực giác của một nông dân dày dạn kinh nghiệm. “Chúng tôi thực sự không phải đoán trước”, cô Morich, nhân viên 25 tuổi, chia sẻ.
+
+Hãng Bowery là một phần trong mảng công nghiệp mới nổi, hứa hẹn mang lại tính hiệu quả mới cho ngành nông nghiệp hàng ngàn năm tuổi. Hiện phần mềm của hãng tập trung vào các loại rau xanh như rau diếp, cải arugula và cải xoăn.
+
+Startup Bowery Farming có trụ sở ở New York, được nhiều nhà đầu tư tại Thung lũng Silicon hậu thuẫn, trong đó có công ty con của Alphabet. Hãng cho biết việc trồng cây tự động hóa, tiết kiệm diện tích, trồng quanh năm và trồng thành nhiều tầng lên cao giúp họ có năng suất trên mỗi mét vuông cao hơn nông trại truyền thống.
+
+tin liên quan Trí tuệ nhân tạo có tính cách mạng như động cơ hơi nước Dù Morich từ chối tiết lộ lương bổng cá nhân, Bowery cho hay nhân viên làm nông của họ được trả lương cao hơn mức trung bình 23.380 USD/năm mà nhân viên nông trại truyền thống của Mỹ kiếm được. Đây là hướng mà các nhà kinh tế kỳ vọng công nghệ sẽ giúp ích cho nền kinh tế: Nâng cao năng suất người lao động và củng cố lương bổng theo thời gian. Dù Morich từ chối tiết lộ lương bổng cá nhân, Bowery cho hay nhân viên làm nông của họ được trả lương cao hơn mức trung bình 23.380 USD/năm mà nhân viên nông trại truyền thống của Mỹ kiếm được. Đây là hướng mà các nhà kinh tế kỳ vọng công nghệ sẽ giúp ích cho nền kinh tế: Nâng cao năng suất người lao động và củng cố lương bổng theo thời gian.
+
+Tất nhiên, công nghệ AI cũng có thể làm giảm việc làm sẵn có cho con người, và vai trò mà cô Morich đang làm cũng không được loại trừ. Bowery hiện vẫn chưa tìm ra cách tự động hóa mọi thứ cần được thực hiện ở nông trại, song từ thời điểm cô Morich được tuyển dụng cách đây hai năm, hãng đã có nhiều cải tiến. Đơn cử, quá trình như gieo hạt trước đây được làm bằng tay, giờ được tự động hóa hoàn toàn.
+
+Morich không lo về việc thất nghiệp vì máy móc, song nhà kinh tế Erik Brynjolfsson tại trường MIT Sloan School of Management thì hoài nghi hơn. “Nếu một tác vụ không cần sự sáng tạo hoặc các thế mạnh khác của con người, chẳng hạn như kỹ năng giao tiếp, thì nó là ứng cử viên sáng giá để bị tự động hóa. Việc này có thể mang lại lợi ích trong ngắn hạn, song khi robot ngày càng trở nên di động và khéo léo hơn, tôi không cho rằng sẽ có việc làm như thế tồn tại trong 10 hay 15 năm nữa”.
+
+Người lao động đảm nhiệm các tác vụ khác cũng không đứng ngoài cuộc. Máy móc và phần mềm tự động được dự báo thay thế 75 triệu việc làm đến năm 2022, theo Diễn đàn Kinh tế Thế giới (WEF). Ông Brynjolfsson nhận định: “Công nghệ luôn phá hủy công ăn việc làm, và tạo ra công ăn việc làm. Đừng đóng băng trong bất kỳ bộ kỹ năng hay nghề nghiệp nào, mà hãy linh hoạt và sẵn sàng cho công việc mới, những công việc còn chưa được phát minh ra”.

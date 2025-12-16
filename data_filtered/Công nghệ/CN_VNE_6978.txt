@@ -1,0 +1,15 @@
+Siêu máy tính Fugaku của Nhật Bản tích hợp với máy tính lượng tử 20 qubit Reimei quantum giúp tính toán nhanh hơn.
+
+Siêu máy tính Fugaku ở viện Riken. Ảnh: Nikkei
+
+Các kỹ sư Nhật Bản khởi động siêu máy tính lượng tử lai đầu tiên trên thế giới. Máy tính lượng tử 20 qubit mang tên Reimei được tích hợp vào Fugaku, siêu máy tính nhanh thứ 6 trên thế giới. Nền tảng lai này sẽ hoạt động nhằm xử lý những tính toán mà siêu máy tính cổ điển mất thời gian lâu hơn nhiều để giải quyết. Cỗ máy nằm ở viện khoa học Riken tại Saitama, gần Tokyo, sẽ được sử dụng chủ yếu cho nghiên cứu vật lý và hóa học, theo đại diện từ Quantinuum, nhà sản xuất Reimei và Riken, Live Science hôm 11/2 đưa tin.
+
+Một ngày nào đó máy tính lượng tử có thể vượt qua máy tính cổ điển với tiềm năng hoàn thành các tính toán trong vài giây hoặc vài phút trong khi những cỗ máy mạnh nhất hiện nay mất hàng triệu năm. Tuy nhiên, cho tới khi máy tính lượng tử đủ lớn và đáng tin cậy, giới khoa học cho biết tích hợp những khả năng của chúng vào siêu máy tính có thể là một bước trung gian. Khác với hầu hết máy tính lượng tử sử dụng qubit siêu dẫn, Reimei sử dụng qubit bẫy ion. Điều này bao gồm cách ly nguyên tử mang điện tích hay ion trong trường điện từ gọi là bẫy ion và sử dụng laser để điều khiển chính xác trạng thái lượng tử của chúng.
+
+Phương pháp như vậy cho phép các nhà khoa học sử dụng ion để dùng chúng làm qubit lưu trữ và xử lý thông tin lượng tử. Qubit ion bị bẫy khuyến khích kết nối nhiều hơn giữa những qubit và thời gian gắn kết lâu hơn, trong khi qubit lượng tử liên kết cổng nhanh hơn và dễ chế tạo hơn trên chip. Đại diện của viện Riken cho biết họ chọn máy tính lượng tử của Quintinuum để tích hợp do nó có cấu trúc độc đáo giúp dịch chuyển qubit. Quá trình "vận chuyển ion" cho phép qubit di chuyển quanh mạch khi cần, tạo điều kiện thực hiện thuật toán phức tạp hơn.
+
+Qubit thường bị nhiễu, vì vậy để tăng hiệu quả quy mô của máy tính lượng tử, các nhà khoa học phát triển kỹ thuật sửa lỗi nhằm tăng độ tin cậy của qubit. Ở Reimei, qubit ion được nhóm lại để tạo ra "qubit logic", một bộ qubit chứa cùng thông tin ở vài nơi. Qubit logic là lộ trình chủ chốt để giảm lỗi qubit như mong muốn, do phân bố thông tin ở những nơi khác nhau giúp trải rộng điểm lỗi, qua đó lỗi qubit không làm gián đoạn tính toán đang diễn ra.
+
+Trước đây, Quaintinuum đạt một đột phá trong việc tạo ra một qubit logic với tỷ lệ lỗi thấp hơn 800 lần so với qubit thông thường và tích hợp nó vào bộ xử lý máy tính lượng tử. Trong khi Reimei - Fugaku là hệ thống lai đầu tiên đi vào hoạt động đầy đủ, nhiều công ty khác đã thử nghiệm hệ thống tương tự. Hồi tháng 6/2024, IQM tích hợp một bộ xử lý lượng tử 20 qubit vào siêu máy tính SuperMUC-NG ở Garching, Đức. Tuy nhiên, hệ thống đó vẫn đang trong giai đoạn thử nghiệm và chưa xác nhận ngày hoạt động đầy đủ. Trong tháng 10 năm ngoái, đại diện của IQM thông báo công ty sẽ tích hợp một hệ thống 54 qubit vào siêu máy tính trong nửa cuối năm 2025.
+
+An Khang (Theo Live Science)

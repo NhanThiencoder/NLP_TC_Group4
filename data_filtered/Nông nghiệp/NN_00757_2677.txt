@@ -1,0 +1,33 @@
+Title: Công nghệ hứa hẹn thay đổi bộ mặt nông nghiệp Nhật Bản
+
+Khi công nghệ phát triển, canh tác thông minh đang chuyển đổi nền nông nghiệp từ một hoạt động dựa nhiều vào kinh nghiệm và trực giác của người trồng trọt sang một ngành công nghiệp dựa trên dữ liệu.
+
+Ngành nông nghiệp của Nhật Bản đang phải đối mặt với tình trạng thiếu lao động trầm trọng do dân số làm nông nghiệp đang già đi và sụt giảm. Kể từ năm 2015, số nông dân của cả nước đã giảm 22,4%, còn độ tuổi trung bình tăng 0,8 tuổi lên 67,8 trong cùng kỳ.
+
+Mục tiêu của chính phủ là tự cung cấp 45% lương thực vào năm 2030 nhưng đối mặt nhiều thách thức. Để hỗ trợ đạt mục tiêu này, chính phủ đã chuyển sang nông nghiệp thông minh với hi vọng tạo ra chương trình lương thực bền vững và gắn kết hơn. Năm 2016, Nội các Nhật Bản cho biết muốn tìm cách biến nông nghiệp thành lĩnh vực tăng trưởng, sử dụng Big Data, IoT, AI, thúc đẩy cải cách nông nghiệp. Bộ Nông nghiệp, Rừng và Thủy sản (MAFF) công bố lộ trình mở rộng các công nghệ và dịch vụ canh tác thông minh.
+
+(Ảnh: wa-shoku)
+
+Thúc đẩy sản xuất nhờ dữ liệu tốt hơn
+
+Một đặc điểm nổi bật của nông nghiệp thông minh là sử dụng công nghệ để lập kế hoạch và quản lý mùa màng tốt hơn. Nó bao gồm sử dụng hình ảnh vệ tinh xác định đặc điểm của đất, theo dõi sự phát triển của cây trồng và ước tính sản lượng cũng như phân tích dữ liệu về các kiểu thời tiết để quản lý mùa màng, triển khai máy bay không người lái và máy thu hoạch công nghệ cao. Trang bị những công cụ này, người trồng có thể canh tác hiệu quả hơn, chẳng hạn áp dụng chính xác các hóa chất nông nghiệp như thuốc trừ sâu và phân bón, giúp tiết kiệm thời gian và năng lượng trong khi tăng sản lượng.
+
+Bên cạnh đó, canh tác thông minh mang lại lợi ích cho người nông dân nói riêng và cộng đồng nông nghiệp nói chung thông qua tăng năng suất và ảnh hưởng kinh tế. Chẳng hạn, nông dân trồng lúa có thể sử dụng bản đồ thời gian thực dựa trên dữ liệu từ hình ảnh vệ tinh để theo dõi chính xác hơn nồng độ nitơ của cây con khi chúng phát triển và bón phân khi cần thiết. Các nhà sản xuất có thể dùng công nghệ vệ tinh xác định mức độ protein trong hạt gạo - một chỉ số quan trọng của hương vị - giúp họ đánh giá thời gian tối ưu để thu hoạch.
+
+Việc điều chỉnh các hoạt động theo dữ liệu mới nhất sẽ tạo ra sản lượng lớn hơn và chất lượng cao hơn trong khi vẫn giữ cho sản lượng nhất quán giữa các mùa. Nó cũng giúp kiểm soát các phẩm chất và đặc điểm cụ thể, mở ra con đường mới phát triển thương hiệu khu vực.
+
+Thương hiệu nông sản sẽ giúp nhà sản xuất tiếp cận nhiều đối tượng người tiêu dùng hơn cả trong và ngoài nước. Canh tác thông minh giúp nông dân xây dựng và duy trì thương hiệu nhờ kiểm soát nhiều hơn các yếu tố như chất lượng và sản lượng, giúp họ đáp ứng tốt hơn nhu cầu và đòi hỏi của khách hàng. Hơn nữa, nông dân có thể sử dụng các công nghệ thông minh như mô phỏng tăng trưởng của cây trồng dựa trên thông tin thời tiết và cảm biến từ xa để điều phối thời gian thu hoạch, vận chuyển giữa họ với các nhà phân phối và chế biến, duy trì nguồn cung cấp sản phẩm ổn định đồng thời giảm chi phí hậu cần.
+
+Nông dân Nhật Bản đã có quyền truy cập vào nhiều loại dữ liệu như kiểu thời tiết, loại đất, điều kiện trồng trọt và quản lý cây trồng. Tuy nhiên, thông tin có mặt trên các nền tảng khác nhau và chưa có cách nào để truy cập dữ liệu từ xa một cách đơn giản và hiệu quả về chi phí. Nhằm khắc phục tình trạng này, Tổ chức Nghiên cứu Lương thực và Nông nghiệp Quốc gia đã phát triển một nền tảng hợp tác dữ liệu nông nghiệp, ra mắt vào năm 2019. Nền tảng Wagri thu thập và sắp xếp dữ liệu liên quan đến nông nghiệp nằm rải rác trên các cơ sở dữ liệu và trang web khác nhau, giúp nông dân dễ dàng truy cập thông tin chuyên ngành, cả công cộng và tư nhân với chi phí thấp để quản lý mùa màng, cùng với dữ liệu từ các nhà cung cấp CNTT và nhà sản xuất thiết bị nông nghiệp.
+
+Nông nghiệp tự động
+
+Đại học Hokkaido đã tham gia phát triển máy kéo tự lái hoàn toàn đầu tiên của Nhật Bản, thương mại hóa vào năm 2018. Khác với máy kéo điều khiển từ xa và máy trồng lúa đã được sử dụng, mô hình này được trang bị các cảm biến và phần mềm để tự động dừng khi phát hiện chướng ngại vật, cũng như các tính năng hoạt động an toàn khác mà không cần bất kỳ sự tham gia nào của con người. Mặc dù tự động, máy kéo robot chỉ vận hành nếu một người ở gần đó để theo dõi các hoạt động của nó.
+
+Hướng tới thế hệ thiết bị tự hành tiếp theo, ngành công nghiệp, các trường đại học và chính phủ đang hợp tác chặt chẽ với nhau để phát triển các robot hiện trường có thể được giám sát từ xa và di chuyển hoàn toàn độc lập. Robot tự di chuyển giữa các hàng, thậm chí cánh đồng, mà chỉ cần một người duy nhất tại trạm giám sát quản lý đồng thời các hoạt động của chúng ở những khu vực khác nhau.
+
+Các nghiên cứu gần đây tập trung vào việc sử dụng robot hiện trường trang bị công nghệ 5G và AI (trí tuệ nhân tạo) trên quy mô lớn, dựa vào hình ảnh độ nét cao để thực hiện các nhiệm vụ chính xác như bón phân, xác định và loại bỏ nhanh chóng các cây bị bệnh và sâu bệnh. Đây chỉ là phần nổi của tảng băng chìm về tiềm năng của những công nghệ này. Điện toán biên, cho phép phân tích nhanh thông tin được gửi qua mạng 5G, đang mở ra kỷ nguyên nông nghiệp thông minh mới bằng cách tạo ra các hệ thống phức tạp cần thiết để quản lý nhiều nhóm robot hiện trường.
+
+Nông nghiệp thông minh mang đến nhiều lợi ích cho nông dân Nhật Bản, bao gồm giải quyết tình trạng thiếu hụt lao động, bảo quản và chuyển giao bí quyết nông nghiệp, giảm chi phí sản xuất, tăng chất lượng và sản lượng... Tuy nhiên, quá trình chuyển đổi không thể diễn ra trong một sớm một chiều vì sẽ mất thời gian thuyết phục các nhà sản xuất rằng lợi ích kinh doanh từ việc đầu tư vào các hệ thống thông minh xứng đáng với chi phí bỏ ra.
+
+Du Lam (Tổng hợp)

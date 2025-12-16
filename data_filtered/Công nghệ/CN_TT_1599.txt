@@ -1,0 +1,12 @@
+ Phishing đã cướp của dân Mỹ gần 1 tỷ USD
+
+Theo một cuộc nghiên cứu mà Gartner đã tiến hành với 5000 người dùng net trưởng thành tại Mỹ vào tháng 5-2005 cho biết tệ nạn lừa đảo tài chính trên mạng đã gây nên nhiều nỗi sợ hãi cho những người đã quen đi chợ trên mạng. Tuy số vụ việc phishing không tăng về số lượng nhưng độ tinh vi đã gia tăng hết sức đáng kể. 
+
+Từ tháng 5 năm 2004 đến tháng 5 năm nay, một người dùng net trưởng thành tại Mỹ đã nhận được trung bình khoảng 50 e-mail lừa đảo. Số lượng e-mail lừa đảo này đã tăng 28% so với thời gian trước đó. 57% số người Mỹ thừa nhận rằng họ đã từng chính thức bị phishing tấn công. Các nhà cung cấp dịch vụ Internet cho biết rằng số lượng e-mail lừa đảo mà họ nhận được đã gia tăng đáng kể trong 6 tháng qua. 
+
+Hầu hết các nhà phân tích đều thừa nhận rằng các kẻ tấn công phishing đều trở nên tinh ma hơn thời gian trước đây khi không những cố lừa người dùng chui vào các trang web lừa đảo và còn tìm nhiều biện pháp để cài đặt vào máy người dùng các chương trình ghi nhận hoạt động bàn phím để ăn cắp username, password và các thông tin nhạy cảm khác để hòng chiếm đoạt tiền bạc. 
+
+Avivah Litan, giám đốc nghiên cứu của Gartner cho biết rằng có khoảng 1,2 triệu người Mỹ đã bị lừa trong 12 tháng qua với số tiền bị cướp đoạt khoảng 929 triệu USD. Chủ yếu là do rò rỉ thông tin tài khoản ngân hàng, thẻ tín dụng… 
+
+
+

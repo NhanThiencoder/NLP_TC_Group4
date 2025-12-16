@@ -1,0 +1,17 @@
+Cô Trần Thị Kim Thoa (giáo viên trường THPT Hoàng Diệu, TP Sóc Trăng, tỉnh Sóc Trăng) cho biết, đề tài "Phần mềm chấm trắc nghiệm bằng xử lý ảnh" của em Nguyễn Thế Vinh (học sinh lớp 11) vừa đạt giải á quân 1 trong cuộc thi lập trình "Coolest Project Malaysia", diễn ra tại Malaysia từ ngày 25 đến 26/11.
+
+"Em Vinh rất mê nghiên cứu khoa học, nhất là lĩnh vực công nghệ thông tin. Em đã tự tìm hiểu và nảy sinh ý tưởng để làm đề tài này, rất vui khi em đạt giải cao", cô Kim Thoa cũng là người hướng dẫn cho em Vinh, chia sẻ.
+
+Em Nguyễn Thế Vinh, học sinh lớp 11 của Trường THPT Hoàng Diệu, TP Sóc Trăng (Ảnh: NVCC).
+
+Theo giới thiệu của tác giả đề tài, bộ dụng cụ chấm thi trắc nghiệm khá đơn giản gồm: Smartphone (điện thoại thông minh) có camera (máy ảnh), một thùng đựng giấy A4 rỗng, một thanh để kê điện thoại bên trên.
+
+Khi chấm bài thi, người dùng chỉ cần bật phần mềm lên, đưa bài vào thùng thì camera sẽ quét, giáo viên chỉ việc ghi kết quả. Hình ảnh các bài thi đã chấm đều được lưu lại. Sau đó, bài thi lưu trữ trong thư mục Google Drive công khai cho các giáo viên khác cùng truy cập, đảm bảo tính khách quan và hiệu quả.
+
+Phần mềm còn có các chức năng như tạo và sửa dữ liệu chấm bài, xem ảnh scan, xuất kết quả Excel, chấm bài qua máy in; hỗ trợ cảnh báo khi bài thi có dấu hiệu bất thường, tự động xoay ảnh khi hình ảnh bị lật;...
+
+Cô Trần Thị Kim Thoa cho biết, phần mềm chấm trắc nghiệm của em Vinh có nhiều ưu điểm như hạn chế những sai sót trong quá trình chấm của giáo viên khi chấm trên giấy, tiết kiệm được thời gian chấm bài, giảm bớt công sức của thầy cô,...
+
+"Phần mềm có thể truy cập bằng máy tính và cả điện thoại dưới dạng web với độ chính xác tuyệt đối, đã áp dụng thử tại trường THPT Hoàng Diệu và được thầy cô đánh giá cao", cô Thoa chia sẻ.
+
+Cuộc thi "Coolest Projects Malaysia" là cuộc thi khoa học kỹ thuật cho học sinh phổ thông dưới 18 tuổi, được tổ chức hàng năm. Năm 2023 là năm thứ 4 cuộc thi được tổ chức, với trên 500 dự án của học sinh đến từ nhiều quốc gia trên thế giới gửi về dự thi.

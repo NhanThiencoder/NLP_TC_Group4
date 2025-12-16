@@ -1,0 +1,25 @@
+Sáng 27/9, Cục CSGT (Bộ Công an) cho biết, trong những ngày qua Cục CSGT thí điểm lắp đặt camera AI trên các tuyến cao tốc và đã phát hiện hàng nghìn trường hợp tài xế ô tô không thắt dây đai an toàn.
+
+Theo Cục CSGT, sau khi thông tin này được lan toả, một bộ phận cộng đồng mạng truyền nhau “bí quyết” né phạt - đó là mua áo có vạch kẻ, nhìn từ xa tương tự như đang đeo dây đai an toàn, để đối phó với lực lượng chức năng.
+
+Hình ảnh một tài xế xe tải không thắt dây an toàn trên cao tốc bị camera AI phát hiện (Ảnh: Cục CSGT).
+
+Về vấn đề này, Cục CSGT khẳng định, áo in hình dây đai an toàn không thể qua mắt được lực lượng chức năng.
+
+Cục CSGT cho biết trong ngành công nghiệp ô tô toàn cầu, dây đai an toàn ba điểm là một trong những phát minh quan trọng nhất góp phần cứu sống hàng triệu mạng người khi tham gia giao thông.
+
+"Khi xảy ra va chạm đột ngột với tốc độ cao khoảng 50-60km/h, dây đai sẽ tự động siết, giữ chặt người ngồi ở ghế, nhờ đó giảm thiểu được chấn thương. Nếu không có dây đai an toàn, khi ô tô bất ngờ phanh gấp hay bị lật nghiêng, người ngồi sẽ bị văng về phía trước hoặc thậm chí là văng ra ngoài dẫn tới chấn thương và có thể tử vong", vị đại diện Cục CSGT phân tích.
+
+Cũng theo Cục CSGT, đối với ô tô hiện đại thì dây đai an toàn được kết hợp với túi khí để tăng thêm độ an toàn cho người ngồi trên xe nếu xảy ra va chạm.
+
+Camera AI nhận diện các hành vi vi phạm giao thông như thế nào?
+
+Trao đổi với phóng viên Dân trí, Đại tá Phạm Quang Huy, Phó Cục trưởng Cục CSGT, cho biết, sau khi ghi nhận xe vi phạm, hệ thống sẽ lập tức trích xuất được ảnh/clip liên quan. Nội dung bao gồm tuyến đường, thời gian vi phạm, hành vi vi phạm… Trên cơ sở dữ liệu đăng ký xe sẽ nhận diện được ngay chủ xe này là ai.
+
+Theo Đại tá Huy, hiện camera AI có thể nhận diện được khoảng 20 hành vi vi phạm và đang liên tục được phát triển thêm, bao gồm cả ô tô và xe máy. Cảnh sát từ đây có thể coi như tuần tra trên môi trường điện tử.
+
+Hệ thống camera AI phát hiện vi phạm sau đó truyền dữ liệu, hình ảnh sắc nét về Trung tâm thông tin chỉ huy Cục CSGT (Ảnh: Trần Thanh).
+
+Ngoài ra, camera AI khác camera thông thường là có khả năng sử dụng trí tuệ nhân tạo để phân tích, nhận diện và xử lý hình ảnh/video theo thời gian thực, từ đó nâng cao tính chính xác khi xử lý vi phạm.
+
+Camera AI có thể nhận diện khuôn mặt, phát hiện hành vi, phân loại đối tượng, phương tiện và gửi cảnh báo. Bên cạnh đó, các phần mềm ứng dụng cũng được nghiên cứu để áp dụng cho việc khai thác dữ liệu hiệu quả hơn.

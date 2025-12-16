@@ -1,0 +1,31 @@
+Tôi cảm thấy rất ngạc nhiên khi đọc được thông tin gạo Việt Nam gặp vấn đề khi vào thị trường châu Âu vì không có QR code (Quick Response).
+
+Luật sư Khanh đang sống ở Mỹ, chia sẻ bài viết nhân câu chuyện gạo Việt Nam gặp khó trên thị trường quốc tế vì không có mã QR:
+
+QR code thật ra chỉ là một mã số, dùng máy quét (scanner) quét vào có thể đưa tới nguồn gốc thông tin sản phẩm. Thông tin thường bao gồm nhà sản xuất, nơi sản xuất, thời gian sản xuất, hạn dùng, kết quả phân tích dư lượng vi chất (nếu có), số hiệu của mẻ sản phẩm... Gần đây ở Mỹ người ta bắt đầu dùng NFC code (Near Field Communication).
+
+>> Trồng lúa 'gia công'
+
+Ngày trước tôi có thời gian làm việc trong một nhà máy hóa chất. Công việc của nhà máy là sản xuất hóa chất điện tử và công việc của tôi là phát triển quy trình sản xuất các sản phẩm mới. Toàn bộ hệ thống sản xuất trong nhà máy được quản lý bằng phần mềm. Các nguyên liệu thô được nhập về sẽ đưa vào phần mềm, truy cập vào sẽ biết là hiện giờ công ty có bao nhiêu, loại gì, ở đâu. Sản xuất ra cái gì cũng phải nhập vào số lượng, nơi chứa, thông tin kiểm duyệt chất lượng. Đóng gói thì phải nhập thông tin là đóng gói ra bao nhiều đơn vị sản phẩm, ngày tháng đóng gói, hạn dùng... Sau rốt, chính phần mềm này sẽ cho ra cả nhãn hiệu với đủ thứ thông tin và tất nhiên là mã QR code trên đó.
+
+Phần mềm đó rất không rẻ. Mỗi năm một người dùng phải đóng phí lên tới cả nghìn đôla. Nhưng phải công nhận là mọi thứ dễ dùng và hiệu quả. Tôi chưa bao giờ nghĩ ngợi nhiều về cái phần mềm SAP đó và thường hay cho rằng đó là việc vặt, những vấn đề kỹ thuật mà mình phải làm thì khó khăn hơn nhiều.
+
+Nhưng suy đi nghĩ lại tôi mới hiểu tại sao gạo Việt Nam lại không có QR code. Quá trình sản xuất phải có lưu lại thông tin từ đầu, khi nhập kho cũng phải có thông tin và khi đóng gói bán ra cũng vậy. Việc này có thể làm trong suốt quá trình từ lúc gieo hạt cho tới lúc đóng gói và coi nó như một phần trong quá trình sản xuất. Nhưng những người nông dân thì chắc là không dùng phầm mềm lưu trữ thông tin. Còn những người thu mua gạo, đóng gói và xuất khẩu vì sao lại không chịu làm thì hơi khó hiểu.
+
+Cho dù là người nông dân không lưu thông tin nhưng liệu việc thu thập thông tin của họ rồi lưu trữ lại, sau đó đưa vào phần mềm mã hóa và sản xuất ra cái QR code rồi đóng lên bao bì sản phẩm có khó quá không? Mấy chai nước mắm trên kệ ở Mỹ còn có QR code cơ mà.
+
+>> 'Một công lúa chỉ thu về được 1,5 triệu đồng sau 3 tháng'
+
+Tôi xem chai nước mắm nhĩ Phú Quốc trong bếp của mình. Hương vị đúng điệu thơm ngon, để ăn canh chua với nước mắm trong có vài lát ớt hiểm thì chỉ có nước mắm này là tôi ăn được. Nơi sản xuất là... Hong Kong, thông tin trên nhãn hàng có tiếng Hoa và tiếng Việt. Còn thành phần của sản phẩm là cốt nước mẵm nhĩ, thêm nước và một vài thứ. Nói thẳng ra, "nhà sản xuất" ở Hong Kong đi qua Phú Quốc mua cốt nước mắm nhĩ, pha chế lại, dán nhãn (có cái QR code) và xuất sang Mỹ. Tôi có nước mắm đúng vị quê nhà, các "nhà sản xuất" Hong Kong thì có tiền, còn người nông dân Việt Nam thì có gì nhỉ?
+
+Lại một câu chuyện khác về cái gọi là "giá của bao bì". Ở giải bóng rổ quốc gia Mỹ có một cầu thủ từ Hy Lạp sang. Anh là người gốc Nigeria, ở Hy Lạp gia đình rất nghèo, được một nhà săn tài năng phát hiện. Họ mời anh tới sự kiện "draft" để giải nhà nghề NBA chọn cầu thủ mới. Khi người đại diện ra đón anh ta ở sân bay để đưa tới sự kiện, họ nhìn chàng trai cao to quê mùa rồi thốt lên "Anh có bộ đồ vest nào không đấy?". Sau đó là một màn chạy đua tìm đồ vest cho chàng trai cao hơn 2 mét và đưa chàng tới sự kiện cho kịp lúc.
+
+Gạo và nông sản Việt Nam có lẽ cũng khổ sở như cầu thủ người Hy Lạp ấy, tuy là chất lượng cao nhưng không được đóng gói đúng chuẩn. Nhưng cầu thủ kia thì có người đại diện chạy cho một bộ vest, còn nông sản Việt Nam thì ai "chạy" cho mấy thứ thủ tục như vậy?
+
+>> 'Nông dân khó làm giàu nếu có dưới 10 ha đất'
+
+Tôi đã nghe rất nhiều lời chê trách về chuyện không nên so sánh Mỹ với Việt Nam. Nhưng mà muốn bán hàng sang Mỹ thì tất nhiên là phải đi so với Mỹ, không thì so với ai? Người Mỹ nghe câu chuyện QR code thì họ chỉ nhún vai và đi mất, ai nhiều thời gian thì mỉm cười lắc đầu. Nói chung là muốn ra sân thì phải mặc áo đấu, các trận đá bóng quốc tế không có chỗ cho người không có áo quần đúng chuẩn. Cái nghèo hay lạc hậu chưa bao giờ là lý do, bởi sân chơi quốc tế không dành cho những kẻ không có tiền có bạc.
+
+Khanh Huỳnh
+
+>>Bài viết không nhất thiết trùng với quan điểm VnExpress.net. Gửi bài tại đây.

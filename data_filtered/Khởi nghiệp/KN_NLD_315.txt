@@ -1,0 +1,77 @@
+Trong con mắt quốc tế, hình ảnh Israel gắn liền với các điệp viên của Cơ quan Tình báo (Mossad) hoạt động khắp nơi trên thế giới, và danh hiệu "quốc gia khởi nghiệp" với vô số ý tưởng trị giá hàng tỷ USD, trang CNN (Mỹ) bình luận.
+
+Cáo buộc về gián điệp mạng
+
+Hình ảnh này từ lâu luôn được các nhà lãnh đạo chính trị và doanh nhân Israel tích cực quảng bá. Tuy nhiên, nó dường như đang bị ảnh hưởng bởi các cáo buộc rằng công nghệ do Israel sáng tạo ra, cụ thể là phần mềm Pegasus do công ty NSO phát triển, được các chính phủ trên thế giới sử dụng để theo dõi điện thoại di động của các nhà hoạt động nhân quyền, nhà báo và những đối tượng khác.
+
+NSO và các luật sư biện hộ cho công ty này cho biết phần mềm Pegasus chỉ dùng để truy lùng những kẻ khủng bố và tội phạm, và công ty luôn tuân theo những điều luật kiểm soát xuất khẩu nghiêm ngặt.
+
+NSO cho biết rằng họ không kiểm soát những gì khách hàng làm với phần mềm, nhưng tuân thủ luật của Israel về xuất khẩu công nghệ cấp quân sự, có chọn lọc trong khâu khách hàng và lập tức cắt quyền truy cập nếu phát hiện trường hợp sử dụng phần mềm sai mục đích.
+
+Nhưng những tiết lộ gần đây của một tập đoàn truyền thông quốc tế và các nhóm nhân quyền về Pegasus đã khiến cả NSO và đất nước Israel bị chú ý.
+
+Giờ đây, khi xuất hiện những quan ngại về khía cạnh đạo đức và tính hợp pháp của các chương trình như vậy, ngay chính người dân Israel và cộng đồng quốc tế đều lên tiếng kêu gọi tìm cách kiểm soát tốt hơn thị trường gián điệp mạng.
+
+Gián điệp và công nghệ
+
+Không phải tự nhiên mà Israel có vị thế thống trị trong lĩnh vực an ninh mạng. Các cơ quan tình báo và hoạt động bí mật của đất nước, đặc biệt là lực lượng Mossad, từ lâu đã nổi tiếng với các hoạt động gián điệp khôn khéo, táo bạo và tàn nhẫn, và được đánh bóng trong các phim Hollywood.
+
+Khi Israel ngày càng nổi tiếng với tư cách là cái nôi của đổi mới công nghệ và khởi nghiệp, hai lĩnh vực trên đã kết hợp lại, mang đến cho quốc gia nhỏ bé này tầm ảnh hưởng vượt trội trong ngành công nghiệp an ninh mạng.
+
+Hệ thống giáo dục được đầu tư tốt của đất nước, cộng với nghĩa vụ quân sự bắt buộc, giúp thanh niên Israel được đào tạo trình độ cao về an ninh mạng và chiến tranh mạng trước khi nhiều người trong số họ học đại học, theo Tal Pavel, Trưởng bộ phận nghiên cứu An ninh mạng tại Trường Cao đẳng Học thuật Tel-Aviv Yaffo. Pavel cho biết thêm rằng phần lớn công nghệ tiên tiến nhất của đất nước bắt nguồn từ sự phát triển quân sự.
+
+Một trong những đơn vị tinh nhuệ nhất của Lực lượng Phòng vệ Israel (IDF) là Đơn vị bí mật 8200, cơ quan gián điệp mạng đã sản sinh ra một số siêu sao công nghệ lớn nhất của đất nước.
+
+"Một trong những điều độc đáo ở Israel là sức mạnh không gian mạng (cynergy) - sự kết hợp của không gian mạng (cyber) và sức mạnh tổng hợp (synergy) giữa các ngành công nghiệp," Pavel nói với CNN.
+
+Không phải tự nhiên mà Israel có vị thế thống trị trong lĩnh vực an ninh mạng. Ảnh: CSO Online
+
+Các vụ bê bối về công nghệ của NSO
+
+Công ty NSO được thành lập vào năm 2009, nhưng phải đến năm 2016, công nghệ của công ty này mới bị rơi vào tầm ngắm của các cơ quan chức năng.
+
+Hồi đó có các báo cáo cho rằng nhà hoạt động nhân quyền của Tiểu vương quốc Ả Rập Saudi (UAE) Ahmed Mansoor đã nhận được các tin nhắn văn bản có các liên kết đáng ngờ. Theo các nhà nghiên cứu tại Phòng thí nghiệm Citizen ở Đại học Toronto, các liên kết đó chứa phần mềm độc hại phát triển bởi NSO và có thể đã hack iPhone của nhà hoạt động này. Năm 2018, Mansoor bị kết án 10 năm tù vì "làm tổn hại danh tiếng" của UAE trên mạng xã hội.
+
+Phần mềm Pegasus cũng bị cáo buộc có liên quan đến vụ sát hại nhà báo Jamal Khashoggi của tờ Washington Post năm 2018. Omar Abdulaziz, một người bạn của Khashoggi, cho rằng Khashoggi bị sát hại sau khi những tin nhắn của nhà báo này trên ứng dụng Whatsapp mang nội dung chỉ trích chính quyền bị hack bằng phần mền gián điệp Pegasus. Abdulaziz đã khởi kiện NSO vào năm 2019, cáo buộc công ty này vi phạm luật pháp quốc tế khi bán những phần mềm như vậy cho các chế độ áp bức.
+
+Đầu năm 2020, một thẩm phán của Israel đã bãi yêu cầu của NSO về việc bác bỏ vụ kiện, mà NSO đã lập luận là thiếu thiện chí, theo The Guardian.
+
+NSO đã nhiều lần phủ nhận phần mềm của họ được sử dụng để theo dõi Khashoggi hoặc gia đình ông ta.
+
+Cuộc điều tra gần đây của tập đoàn truyền thông quốc tế nói trên đã tìm thấy bằng chứng về phần mềm Pegasus trên 37 điện thoại của những người, nếu theo mô tả của chính công ty về mục đích của phần mềm, lẽ ra không phải là mục tiêu của phần mềm Pegasus, như các nhà báo và các nhà hoạt động nhân quyền.
+
+NSO phủ nhận các cáo buộc liên quan đến phần mềm Pegasus, đồng thời khẳng định rằng tất cả các giao dịch công nghệ của họ đều được Bộ Quốc phòng Israel phê duyệt. Ảnh: Getty
+
+Trong một tuyên bố với CNN, NSO đã phủ nhận mạnh mẽ kết quả điều tra và cho rằng cuộc điều tra cố tình "bới bèo ra bọ" từ nhiều tuyên bố của công ty.
+
+Hậu quả kéo theo vụ bê bối lần này là các quốc gia như Pháp đã tuyên bố điều tra về việc sử dụng phần mềm Pegasus, còn Amazon tuyên bố họ đã "đóng cửa các cơ sở hạ tầng và tài khoản liên quan" có liên hệ với NSO đang sử dụng dịch vụ của Amazon.
+
+Phần nổi của tảng băng chìm
+
+NSO thực ra chỉ là một phần của ngành gián điệp mạng rộng lớn, theo Israel Bachar, nhà tư vấn chiến lược và truyền thông, người đã từng làm việc với nhiều nhà lãnh đạo chính trị hàng đầu của Israel, bao gồm cả cựu Thủ tướng Benjamin Netanyahu và Phó Thủ tướng kiêm Bộ trưởng Quốc phòng hiện tại Benny Gantz.
+
+Ngoài khả năng thực tế của mình, các công ty như NSO còn giúp đỡ Israel về mặt ngoại giao, Bachar nói, vì trong nhiều năm qua Israel đã âm thầm, và giờ đây là công khai, vun đắp mối quan hệ với các đối thủ cũ.
+
+Nhưng Giáo sư Yuval Shany, Chủ nhiệm Khoa Luật quốc tế Công tại Đại học Hebrew ở Jerusalem, nói rằng chiến thuật này đang bắt đầu phản tác dụng đối với hình ảnh của Israel.
+
+Làm sao để kiểm soát?
+
+Không giống như vũ khí thông thường, phần mềm thường là sản phẩm vô hình và có thể dễ dàng được bán và chuyển giao trên toàn cầu. Điều này khiến nỗ lực kiểm soát các công nghệ như hệ thống Pegasus trở nên khó khăn.
+
+Công nghệ của NSO và công nghệ cấp quân sự tương tự được điều tiết bởi cơ cấu kiểm soát xuất khẩu trong nội bộ Bộ Quốc phòng Israel, giáo sư Shany cho biết. Cơ cấu này xem xét cả khía cạnh công nghệ và mục tiêu của công nghệ; thực thể nào - nhà nước hoặc ngoài nhà nước - đang mua công nghệ này, bao gồm cả hồ sơ nhân quyền của thực thể đó, ông cho biết thêm.
+
+Tuy nhiên, theo vị giáo sư này, khi nhìn vào những cáo buộc xung quanh phần mềm Pegasus của NSO, "hậu quả khá là đáng lo ngại."
+
+Tổng thống Pháp Macron triệu tập một cuộc họp khẩn cấp hôm 22/7/2021 để thảo luận về phần mềm Pegasus sau khi có các báo cáo về việc sử dụng phần mềm này ở Pháp. Ảnh: Getty
+
+Đáp lại những cáo buộc gần đây nhất về công nghệ của NSO, Bộ trưởng Quốc phòng Israel Benny Gantz cho biết họ đang "nghiên cứu" các cáo buộc, trong khi một nhóm liên bộ đã được chỉ định để xem xét quy trình hiện tại và liệu công nghệ do Israel chế tạo ra có đang bị lạm dụng ở nước ngoài hay không, theo Reuters.
+
+Giáo sư Shany cho biết, cách giải quyết nhanh chóng là Israel sẽ chính thức ký kết Thỏa thuận Wassenaar về kiểm soát xuất khẩu vũ khí thông thường và các sản phẩm công nghệ lưỡng dụng giữa 42 quốc gia. Động thái này nhằm mang lại sự minh bạch cho việc xuất khẩu sản phẩm quân sự và công nghệ lưỡng dụng, đồng thời nỗ lực ngăn chặn những công nghệ như thế này rơi vào tay các phần tử nguy hiểm.
+
+Giáo sư Shany cho biết thêm rằng Israel hiện vẫn đang tuân thủ thỏa thuận này nhưng chưa phải là thành viên chính thức.
+
+Nhưng những cải cách quan trọng nhất để giúp kiểm soát công nghệ như vậy sẽ đến từ bên trong, Karine Nahon, giáo sư tại Trung tâm liên ngành Herzliya và Chủ tịch Hiệp hội Internet Israel, cho biết.
+
+"Nếu Israel không xuất khẩu công nghệ này thì người khác sẽ làm. Nếu Israel không cấp giấy phép khởi nghiệp cho các kỹ sư và không áp dụng hình thức giám sát nào, thì không gì có thể ngăn họ chuyển sang nước khác và bán các công nghệ tương tự ở đó," bà khẳng định.
+
+Mặc dù có vẻ như NSO và hình ảnh của Israel đang bị lấm lem bùn đất vì liên quan đến hoạt động giám sát đáng báo động như vậy, Bachar nói, cho biết thêm rằng về tổng thể, nó có thể vẫn có tác động tích cực đối với những người muốn tiếp tục đánh bóng tên tuổi Israel với tư cách là nước dẫn đầu về các hoạt động tình báo và công nghệ tiên tiến.

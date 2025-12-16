@@ -1,0 +1,77 @@
+“Một cửa số quốc gia” - bước chuyển từ thủ tục sang phục vụ
+
+Quyết định số 1565/QĐ-TTg do Phó Thủ tướng Nguyễn Chí Dũng ký ban hành đầu tháng 11/2025 đặt mục tiêu rõ ràng: nâng cao chất lượng cung cấp dịch vụ công trực tuyến toàn trình; phát triển các dịch vụ số mới được cá nhân hóa dựa trên dữ liệu; và bảo đảm 95% người dân hài lòng vào năm 2026.
+
+Với kế hoạch này, người dân chỉ cần một tài khoản định danh VNeID để thực hiện toàn bộ các thủ tục phổ biến: từ cấp đổi căn cước, đăng ký thường trú, đăng ký xe, hộ chiếu, khai sinh - khai tử - kết hôn, đến cấp điện, đăng ký thuế, hay gia hạn thẻ bảo hiểm y tế.
+
+Cốt lõi của sự thay đổi nằm ở ba nguyên tắc: “Một cửa số quốc gia” - toàn bộ thủ tục hội tụ tại Cổng Dịch vụ công quốc gia, thay vì rải rác ở các cổng địa phương; “Một lần khai - nhiều lần dùng” - dữ liệu dân cư, bảo hiểm, thuế… được kết nối, tự động điền vào biểu mẫu; “Không giấy tờ - không tiếp xúc - không trung gian” - người dân thực hiện trực tuyến toàn trình, nhận kết quả điện tử có giá trị pháp lý tương đương bản giấy.
+
+Đây là bước tiến then chốt trong Đề án 06 về phát triển ứng dụng dữ liệu dân cư, định danh và xác thực điện tử, đồng thời hiện thực hóa định hướng Chính phủ số lấy người dân làm trung tâm.
+
+Tiết kiệm thời gian - “5 phút thay vì 5 tiếng”
+
+Theo kế hoạch, đến năm 2026, thời gian trung bình từ lúc đăng nhập đến nộp hồ sơ thành công sẽ giảm xuống dưới 5 phút. Điều này có ý nghĩa rất thực tế. Trước đây, người dân phải đi lại 2-3 lần, chờ đợi hàng giờ, thậm chí mất ngày công chỉ để hoàn thiện hồ sơ. Nay, nhờ biểu mẫu điện tử tự động điền, các thông tin như họ tên, địa chỉ, CCCD, mã số thuế… được hệ thống điền sẵn từ các cơ sở dữ liệu quốc gia.
+
+Một khảo sát thử nghiệm tại Hà Nội cho thấy, chỉ riêng thủ tục đổi giấy phép lái xe, người dân tiết kiệm trung bình 1,5 ngày công lao động và khoảng 250.000 đồng chi phí đi lại, in ấn.
+
+Ước tính mỗi năm Việt Nam có hơn 300 triệu lượt giao dịch hành chính. Nếu chỉ 25 thủ tục phổ biến nhất được số hóa toàn trình, mỗi người dân tiết kiệm 1 giờ, tổng cộng cả nước tiết kiệm hơn 300 triệu giờ/năm, tương đương hàng chục nghìn tỷ đồng chi phí xã hội.
+
+Doanh nghiệp cũng hưởng lợi khi các quy trình như đăng ký thuế, biến động đất đai, hợp đồng điện… có thể hoàn thành trực tuyến, rút ngắn thời gian từ hàng tuần xuống còn vài ngày, thậm chí vài giờ.
+
+Khi mọi thao tác được thực hiện qua mạng, mọi bước xử lý đều có nhật ký điện tử: thời điểm tiếp nhận, cán bộ phụ trách, tình trạng hồ sơ, lý do chậm trễ. Người dân có thể tra cứu tiến độ theo mã hồ sơ, gửi phản ánh trực tuyến nếu gặp vướng mắc.
+
+Cơ chế này giúp giảm thiểu tình trạng gây khó dễ, yêu cầu bổ sung giấy tờ ngoài quy định và chi phí không chính thức. Minh bạch trở thành rào chắn tự nhiên chống lại tiêu cực trong bộ máy hành chính.
+
+Tiếp cận dịch vụ công công bằng hơn - phục vụ cả người yếu thế
+
+Một điểm đáng chú ý là các dịch vụ công trực tuyến được thiết kế để phục vụ đa dạng đối tượng, kể cả người cao tuổi, người khuyết tật hoặc người dân vùng sâu vùng xa.
+
+Khi dịch vụ công chuyển lên nền tảng số, địa lý và thời gian hành chính không còn là rào cản. Người dân ở vùng núi có thể nộp hồ sơ lúc nửa đêm; công nhân làm ca vẫn có thể thực hiện thủ tục mà không cần nghỉ làm.
+
+Ứng dụng VNeID cũng bổ sung giao diện trợ năng, hướng dẫn bằng giọng nói, video minh họa, giúp nhóm ít kỹ năng số có thể tự thao tác.
+
+Hệ thống mới không chỉ tiếp nhận hồ sơ mà còn chủ động gợi ý thủ tục liên thông.
+
+Ví dụ: khi đăng ký khai sinh cho con, hệ thống sẽ tự động gợi ý thực hiện song song đăng ký thường trú và cấp thẻ BHYT cho trẻ dưới 6 tuổi. Khi sắp hết hạn GPLX hoặc hộ chiếu, người dân nhận được thông báo nhắc qua ứng dụng hoặc tin nhắn.
+
+Đây là bước tiến từ “người dân tìm đến chính quyền” sang “chính quyền phục vụ chủ động”.
+
+Từ tháng 10/2025, Hà Nội đã yêu cầu không thu hồ sơ giấy đối với 25 dịch vụ công thiết yếu. Các Trung tâm phục vụ hành chính công được bố trí thiết bị, máy quét, nhân lực hỗ trợ người dân tại chỗ. Ở các tỉnh miền núi như Lai Châu, Sơn La, Yên Bái, mạng lưới “Tổ công nghệ số cộng đồng” phối hợp với đoàn thanh niên, bưu điện văn hóa xã hướng dẫn người dân thao tác trực tuyến. Đây là mô hình “ba tại chỗ”: hỗ trợ tại chỗ - xác thực tại chỗ - số hóa tại chỗ, bảo đảm không ai bị bỏ lại phía sau trong quá trình chuyển đổi số hành chính.
+
+Thay đổi văn hóa làm việc của công chức
+
+Dịch vụ công trực tuyến buộc cán bộ, công chức chuyển từ xử lý thủ công sang môi trường số, mọi bước đều để lại dấu vết điện tử. Trách nhiệm giải trình rõ ràng hơn, năng suất đo được qua dữ liệu. Cán bộ không thể giữ hồ sơ trong ngăn bàn. Khi hệ thống công khai tiến độ, người dân biết ai đang xử lý, bao giờ có kết quả. Cơ chế tự giám sát này tạo áp lực tích cực buộc bộ máy vận hành minh bạch.
+
+Mỗi giao dịch hành chính trực tuyến là một “dòng dữ liệu thật” phản ánh nhu cầu thực tế của người dân. Khi được phân tích tổng hợp, các bộ ngành có thể dự báo xu hướng di cư, dân số học, nhu cầu nhà ở, điện, nước, giáo dục, y tế, từ đó thiết kế chính sách chính xác hơn.
+
+Chính phủ không chỉ số hóa quy trình cũ mà còn dùng dữ liệu để cải thiện quy trình mới, đúng tinh thần Chính phủ dữ liệu.
+
+Thách thức phía sau “màn hình đăng nhập”
+
+Dù lợi ích rõ ràng, việc triển khai 25 dịch vụ công trực tuyến toàn trình vẫn đối mặt nhiều thách thức. Khoảng 30% người dân, đặc biệt là người cao tuổi hoặc ở vùng sâu, vẫn gặp khó khi sử dụng ứng dụng VNeID hoặc Cổng DVCQG. Nếu không có đội hỗ trợ trực tiếp, họ dễ bị loại khỏi quá trình số hóa. Bên cạnh đó, một số xã miền núi, hải đảo vẫn có kết nối Internet chập chờn. Nếu mạng yếu, việc tải biểu mẫu, nộp tệp đính kèm, thanh toán trực tuyến sẽ bị gián đoạn, ảnh hưởng đến trải nghiệm người dùng.
+
+Trên thực tế, không ít người dân, thậm chí cán bộ cơ sở, vẫn có thói quen yêu cầu bản giấy hoặc công chứng. Thay đổi thói quen này đòi hỏi truyền thông nhất quán, quy định rõ giá trị pháp lý của hồ sơ điện tử và chế tài khi đơn vị yêu cầu trái quy định.
+
+Với hàng triệu hồ sơ trực tuyến mỗi ngày, yêu cầu bảo mật dữ liệu cá nhân trở thành yếu tố sống còn. Nếu xảy ra rò rỉ thông tin, niềm tin số của người dân sẽ bị ảnh hưởng nghiêm trọng. Do đó, hệ thống phải bảo đảm an toàn theo cấp độ, mã hóa toàn trình, phân quyền truy cập chặt chẽ và có cơ chế cảnh báo sớm khi có truy cập bất thường.
+
+Kinh nghiệm quốc tế và bài học cho Việt Nam
+
+Liên Hợp Quốc đánh giá chỉ số Dịch vụ công trực tuyến (OSI) dựa trên bốn tiêu chí: tính toàn diện, dễ truy cập, phản hồi và tích hợp. Các nước đứng đầu như Hàn Quốc, Estonia, Singapore đều có đặc điểm chung: Tài khoản số thống nhất (Digital ID) - tương tự VNeID của Việt Nam. Dịch vụ “tự động hóa”: khi công dân đổi địa chỉ, hệ thống tự cập nhật các giấy tờ liên quan mà không cần nộp lại. Văn hóa dữ liệu mở: người dân có thể kiểm tra ai đang truy cập dữ liệu của mình.
+
+Việt Nam đang đi đúng hướng, khi đặt mục tiêu đứng trong nhóm 50 quốc gia hàng đầu về Chính phủ số. Nhưng để đạt được, cần chuyển mạnh từ “số hóa thủ tục” sang “số hóa hành trình công dân” - mỗi người dân được phục vụ dựa trên dữ liệu cá nhân hóa, không phải hồ sơ cứng.
+
+Nếu nhìn dài hạn, 25 dịch vụ công trực tuyến toàn trình là bước khởi đầu cho nền hành chính không giấy tờ, nơi mỗi giao dịch đều được số hóa, truy vết và tái sử dụng dữ liệu.
+
+Về kinh tế, việc tiết kiệm chi phí xử lý giấy tờ, vận hành bộ máy, kho lưu trữ… ước tính có thể giảm từ 10-15 nghìn tỷ đồng/năm cho ngân sách Nhà nước.
+
+Về xã hội, sự minh bạch và công bằng trong tiếp cận dịch vụ công giúp tăng niềm tin của người dân, góp phần nâng cao chỉ số hài lòng hành chính (SIPAS) và chỉ số PAPI.
+
+Về công nghệ, lượng dữ liệu hành chính khổng lồ tạo nền tảng phát triển AI phục vụ công dân, giúp chính quyền chủ động dự báo nhu cầu, phát hiện bất thường, cảnh báo sớm rủi ro xã hội.
+
+Việc Chính phủ triển khai 25 dịch vụ công trực tuyến toàn trình không chỉ nhằm giảm giấy tờ hay cắt thủ tục, mà là thay đổi triết lý phục vụ: từ hành chính quản lý sang hành chính phục vụ, từ “nộp hồ sơ” sang “tương tác dữ liệu”.
+
+Đây là bước ngoặt về niềm tin số khi người dân cảm thấy “dễ, nhanh, an toàn, đáng tin”, họ sẽ tự nguyện chuyển sang môi trường số. Khi đó, chuyển đổi số không còn là khẩu hiệu, mà trở thành hành vi thường ngày của hàng chục triệu công dân.
+
+Chính phủ số chỉ thực sự thành công khi người dân “tự làm được, làm dễ và làm vui”. Và 25 dịch vụ công trực tuyến toàn trình chính là phép thử đầu tiên cũng là thước đo chuẩn xác nhất cho hiệu quả của quá trình chuyển đổi ấy.
+
+Thái Khang

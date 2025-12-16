@@ -1,0 +1,13 @@
+Title: Quảng Nam đào tạo, hướng dẫn sử dụng hệ thống CSDL chuyên ngành nông nghiệp
+
+Khoá đào tạo được tổ chức trong 2 ngày (30 và 31/10), gần 150 học viên thuộc các phòng, đơn vị trực thuộc Sở Nông nghiệp và Phát triển nông thôn, Phòng Nông nghiệp và Phát triển nông thôn, Phòng Kinh tế các huyện, thị xã, thành phố trên địa bàn tỉnh Quảng Nam được chia ra 4 lớp với các nội dung gồm: Cơ sở dữ liệu Chăn nuôi và Thú y, cơ sở dữ liệu Trồng trọt và Bảo vệ thực vật, cơ sở dữ liệu Thủy sản và Quản lý tàu cá, cơ sở dữ liệu Quản lý chất lượng nông lâm thủy sản.
+
+Ảnh minh hoạ
+
+Khóa đào tạo nhằm giúp các học viên thực hành, nắm bắt quy trình khai thác quản lý phần mềm cơ sở dữ liệu ngành nông nghiệp. Qua đó thực hiện hiệu quả chức năng quản lý, giám sát các lĩnh vực: trồng trọt và bảo vệ thực vật; chăn nuôi và thú y; thủy sản và quản lý tàu cá; quản lý chất lượng nông lâm thủy sản.
+
+Khóa đào tạo đợt này nằm trong lộ trình xây dựng, khai thác hiệu quả cơ sở dữ liệu ngành nông nghiệp, phục vụ cho quá trình đưa hệ thống đi vào vận hành đồng bộ từ tỉnh đến cấp xã.
+
+Qua đó góp phần xây dựng hệ thống cơ sở dữ liệu ngành nông nghiệp từ tỉnh đến địa phương đảm bảo nguyên tắc “đúng”, “đủ”, “sạch”, “sống” và kết nối, liên thông với hệ thống cơ sở dữ liệu của bộ, ngành Trung ương và của tỉnh đạt hiệu quả trong thời gian đến.
+
+Anh Phương và nhóm PV, BTV

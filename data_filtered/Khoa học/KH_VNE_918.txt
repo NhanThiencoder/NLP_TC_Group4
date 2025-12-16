@@ -1,0 +1,23 @@
+Các kỹ sư Trung Quốc vượt qua những trở ngại ngăn cản ý tưởng tàu siêu tốc di chuyển trong đường ống chân không của tỷ phú Mỹ trở thành hiện thực.
+
+Đường chạy thử nghiệm cho tàu siêu tốc 1.000 km/h ở Trung Quốc. Ảnh: CREC
+
+Trong gần hai thế kỷ, giấc mơ về hệ thống vận chuyển trong đường ống chân không hấp dẫn vô số nhà khoa học và kỹ sư. Đây là giấc mơ được thổi bùng lên từ đề xuất của Elon Musk vào năm 2013 với hệ thống tàu Hyperloop hứa hẹn cách mạng hóa giao thông, chở người giữa các thành phố ở tốc độ 1.000 km/h. Bất chấp những chiến thắng mà Musk gặt hái trong lĩnh vực xe điện, chòm vệ tinh và tên lửa, giấc mơ Hyperloop của ông vẫn dang dở.
+
+Những thách thức nhằm hiện thực hóa Hyperloop tưởng chừng không thể vượt qua: chênh lệch áp suất 200 lần so với cabin máy bay, bê tông dễ rò rỉ, lực cản từ gây biến dạng và kỹ thuật đòi hỏi hoàn hảo đến từ milimet cho đường sắt và cầu để tránh thảm họa. Cách nửa vòng Trái Đất, các kỹ sư Trung Quốc đã tìm ra cách vượt qua thách thức và hồi sinh giấc mơ Hyperloop.
+
+Năm 2024, Trung Quốc giới thiệu đường chạy thử nghiệm Hyperloop dành cho tàu đệm từ dài 2 km ở huyện Dương Cao, tỉnh Sơn Tây. Siêu dự án này được mô tả chi tiết lần đầu tiên tháng trước trong một bài báo công bố trên tạp chí Railway Standard Design của Trung Quốc. Trong đó, Xu Shengqiao, kỹ sư ở Tập đoàn tư vấn kỹ thuật đường sắt Trung Quốc (CREC), chia sẻ quá trình họ giải quyết cơn ác mộng của Hyperloop thông qua kết hợp đường ống bê tông - thép chân không thấp, giảm chấn từ tính điều khiển bằng AI, phương pháp xây dựng chính xác đến từng milimet và kinh nghiệm phong phú từ các dự án đường sắt cao tốc khác.
+
+Một trong những điểm yếu chủ chốt của Hyperloop là phụ thuộc vào đường ống kim loại tốn kém. Giải phóng của Trung Quốc là dầm composite hình chữ N kết hợp vỏ thép với bê tông bịt kín chân không. Bên trong, nhóm kỹ sư tạo ra một mê cung thanh cốt thép phủ epoxy và gia cố sợi thủy tinh để vô hiệu hóa lực cản từ, một sáng kiến quan trọng giúp thất thoát năng lượng giảm hơn 1/3.
+
+Ở bên ngoài, họ sử dụng khớp mở rộng bằng thép lượn sóng để giải quyết dao động nhiệt độ, trong khi mạng dây thép dẫn đường bằng laser đảm bảo căng thẳng ở mức 0,05 mm trên từng kilomet. "Thép chịu lực căng trong khi bê tông xử lý lực nén. Kết hợp với nhau, chúng tạo thành một pháo đài kín khí", Xu cho biết. Các thử nghiệm cho thấy những đường ống duy trì độ liền khối cận chân không bất chấp mùa đông lạnh giá và mùa hè nóng tới 45 độ C, một thành tựu từng được cho là bất khả thi đối với bê tông.
+
+Ở tốc độ 1.000 km/h, lực cản từ tăng theo cấp số nhân. Nhóm của Xu thay đổi phần cốt lõi của đường ống. Những cuộn siêu dẫn được sắp xếp lại để tối ưu hóa đường lực từ, trong khi lưới thép thay thế thanh cốt thép truyền thống. Các module đường ray hiệu chỉnh bằng laser, đúc trước với độ chính xác 0,1 mm giúp loại bỏ nguy cơ lung lay. Nhóm nghiên cứu cũng đổi mới bê tông. Bê tông tiêu chuẩn bị nứt vỡ trong môi trường chân không. Điều này có thể giải quyết với hỗn hợp sợi bazan, hơi silica và xử lý tiền chân không. Kết quả thử nghiệm cho thấy loại bê tông của họ có thể chịu áp suất cận chân không trong hàng thập kỷ mà không bị nứt.
+
+Ngày 22/7/2024, các nhà khoa học và kỹ sư Trung Quốc làm nên lịch sử. Trong đường ống chân không thấp, phương tiện tăng tốc tới tốc độ cao, lơ lửng ở độ cao 22 cm và chạy qua đường ray 2 km với độ chệch gần như bằng 0. Cảm biến sợi quang học ở thành đường ống phát hiện những chuyển động cực nhỏ, kích hoạt điều chỉnh theo thời gian thực với dòng siêu dẫn. Chốt gió khẩn cấp và cabin chịu áp suất giúp giải quyết những mối lo ngại về an toàn đã ám ảnh Hyperloop suốt nhiều năm.
+
+Phương pháp của Trung Quốc dựa trên tính module. Các đoạn ống đúc sẵn được sản xuất hàng loạt, khiến chi phí giảm 60%. Bơm chân không phân phối giảm sử dụng năng lượng trong khi thuật toán AI dự đoán nhu cầu bảo dưỡng. Dự án của Trung Quốc không giới hạn ở thí nghiệm mà là hệ thống có thể mở rộng với kế hoạch tăng độ dài trong vài năm tới. Xu cho biết đó là thành quả từ những bài học với đường sắt cao tốc ở Trung Quốc: sử dụng giàn hàng tự động, khảo sát kỹ tới từng milimet và thử nghiệm va chạm chặt chẽ.
+
+Tuy nhiên, các nhà nghiên cứu vẫn phải đối mặt nhiều trở ngại. Thương mại hóa đường tàu 1.000 km/h đòi hỏi hàng tỷ USD. Giãn nở nhiệt trong đường ống dài hơn và quy định khẩn cấp với hành khách vẫn chưa được kiểm tra.
+
+An Khang (Theo MSN)

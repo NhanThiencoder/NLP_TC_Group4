@@ -1,0 +1,17 @@
+Giới nghiên cứu vẫn đang nỗ lực tìm cách dự đoán nơi lốc xoáy hình thành thông qua các điều kiện môi trường, lập mô hình và dữ liệu từ radar, drone, cảm biến.
+
+Lốc xoáy thường xuất hiện trong bão supercell. Ảnh: Mike Hollingshead
+
+Các nhà khí tượng học đã hiểu rõ hơn những điều kiện khiến lốc xoáy nhiều khả năng xuất hiện. Nhưng dự đoán chính xác cơn giông bão nào tạo ra lốc xoáy vẫn là trọng tâm nghiên cứu, theo Popular Science.
+
+Một trong những dấu hiệu chắc chắn nhất để dự đoán liệu một cơn giông bão có tạo ra lốc xoáy hay không liên quan tới gió đứt chiều dọc, tức cách gió đổi hướng hoặc tốc độ theo độ cao trong khí quyển. Quá trình gió đứt tương tác với không khí lạnh trong mưa bão, gọi là dòng thổi ra và lượng mưa bay hơi có thể tác động tới khả năng hình thành lốc xoáy. Nếu ở trong một cơn giông bão, bạn sẽ biết ngay trước khi bắt đầu mưa, thường có một luồng khí lạnh tràn ra từ cơn bão. Những đặc điểm của dòng khí lạnh thổi ra đó rất quan trọng đối với việc hình thành lốc xoáy bởi lốc xoáy thường xuất hiện ở phần lạnh hơn của cơn bão.
+
+Đại đa số lốc xoáy dữ dội hình thành từ bão supercell (một loại giông bão mạnh kèm theo các điều kiện thời tiết nguy hiểm bao gồm mưa đá lớn, gió mạnh và đôi khi là lốc xoáy), cơn giông bão với cột khí di chuyển lên trên xoáy sâu, gọi là xoáy thuận cỡ trung bình. Gió đứt chiều dọc cho phép tầng giữa của cơn bão xoay tròn và lực hút hướng lên của xoáy thuận cỡ trung bình có thể khiến vòng xoay bên trong dòng thổi ra của cơn bão mạnh lên thành lốc xoáy. Nếu bão supercell xuất hiện và xoay tròn mạnh bên trên mặt đất, đó là dấu hiệu báo trước cơn lốc xoáy. Một số nghiên cứu chỉ ra xoáy thuận càng rộng, nhiều khả năng nó sẽ tạo ra lốc xoáy mạnh và kéo dài hơn những cơn bão khác.
+
+Các nhà dự đoán cũng xem xét điều kiện môi trường như nhiệt độ, độ ẩm và gió đứt. Những điều kiện đó cung cấp nhiều manh mối hơn về cơn bão có khả năng tạo ra lốc xoáy mạnh. Tỷ lệ lốc xoáy kích hoạt cảnh báo tăng lên trong vài thập kỷ gần đây do radar Doppler, cải tiến mô hình và hiểu biết nhiều hơn và môi trường bão. Khoảng 87% lốc xoáy nguy hiểm từ năm 2003 đến năm 2017 đều có cảnh báo trước. Thời gian cảnh báo trước cũng được cải thiện, hiện nay ở mức khoảng 10 - 15 phút, đủ để tìm nơi trú ẩn an toàn.
+
+Các nhà nghiên cứu đang đưa radar đặt trong xe tải và phương tiện trang bị thiết bị đặt trên nóc vào cơn bão. Tuy nhiên, họ không thể phóng khí cầu thời tiết hoặc đưa thiết bị vào mọi cơn bão. Vì vậy, giới chuyên gia sử dụng máy tính để lập mô hình bão nhằm tìm hiểu những gì diễn ra bên trong và chạy vài mô hình. Ví dụ, nếu 9 trong số 10 mô hình tạo ra lốc xoáy, họ biết khả năng cơn bão sinh ra lốc xoáy rất lớn.
+
+Phòng thí nghiệm bão mạnh quốc gia của Mỹ gần đây đang thử nghiệm cảnh báo lốc xoáy dựa trên những mô hình này, qua đó tăng thời gian dự báo trước. Ngoài ra, việc sử dụng drone gắn cảm biến để săn bão cũng đang trở nên ngày càng phổ biến.
+
+An Khang (Theo Popular Science)

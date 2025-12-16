@@ -1,0 +1,23 @@
+Title: Điện Biên: Cập nhật, lưu trữ dữ liệu Nông nghiệp đảm bảo chính xác, kịp thời
+
+Những năm gần đây công tác phát triển sản xuất nông lâm nghiệp của tỉnh Điện Biên đã có những tăng trưởng đáng kể, góp phần không nhỏ vào sự phát triển kinh tế - xã hội, đảm bảo QPAN, an sinh xã hội trên địa bàn tỉnh. Kết quả đạt được nhờ một phần đóng góp không nhỏ từ việc ứng dụng công nghệ thông tin, chuyển đổ số trong nông nghiệp.
+
+Thời gian qua, cùng với các cấp, các ngành, Sở Nông nghiệp và Phát triển Nông thôn đã tích cực đẩy mạnh chuyển đổi số trong nông nghiệp, giúp nâng cao năng suất, tăng giá trị sản phẩm và bảo vệ môi trường. Việc số hóa trong từng khâu sản xuất hoặc số hóa hoàn toàn được nhiều hộ dân, doanh nghiệp, hợp tác xã ứng dụng.
+
+Chuyển đổi số trong sản xuất không những góp phần nâng cao chất lượng sản phẩm, tạo sự cạnh tranh và cũng là cơ hội để thay đổi tư duy sản xuất từ nhỏ lẻ, manh mún kém hiệu quả, thiếu chuỗi liên kết sang nền nông nghiệp tiên tiến.
+
+Việc số hóa trong từng khâu sản xuất hoặc số hóa hoàn toàn được nhiều hộ dân, doanh nghiệp, hợp tác xã ứng dụng.
+
+Ứng dụng công nghệ thông tin, chuyển đổi số trong công tác quản lý, chỉ đạo, điều hành của Sở cũng được tăng cường như thực hiện nghiêm việc gửi nhận văn bản, xử lý và hoàn thành việc xử lý hồ sơ công việc trên môi trường điện tử, đạt 100% văn bản đến/đi (trừ những văn bản mật) được quản lý trên hệ thống. Tỷ lệ văn bản đi được gửi dưới dạng điện tử có sử dụng chữ ký số đạt 98% (trừ các văn bản mật và các văn bản gửi cho các đơn vị không sử chung phần mềm quản lý văn bản và hồ sơ công việc); Số hồ sơ tiếp nhận trực tuyến một phần và toàn trình năm 2023 đạt 96,3%.
+
+Tuy nhiên, hiện các dữ liệu quản lý thuộc các lĩnh vực của ngành hầu hết chưa có phần mềm cơ sở dữ liệu hoặc mới đang triển khai ở một số lĩnh vực tại các đơn vị trực thuộc, còn lại phần lớn các cơ sở dữ liệu, hồ sơ lưu trữ của toàn ngành hiện đang thực hiện lưu trữ thủ công bằng bản giấy tại kho lưu trữ của của đơn vị nên đôi khi còn ảnh hưởng đến chất lượng và tiến độ công tác thống kê báo cáo do cần phải rà soát, thống kê thủ công, dẫn đến ảnh hướng đến công tác lãnh đạo, chỉ đạo điều hành của cấp lãnh đạo.
+
+Để đảm bảo việc triển khai thực hiện có hiệu quả các nhiệm vụ theo chức năng được giao và thực hiện tốt công tác tham mưu cho Tỉnh ủy, HĐND, UBND tỉnh công tác xây dựng chiến lược, giám sát đánh giá quá trình thực hiện chiến lược, kế hoạch 5 năm, hàng năm, quy hoạch, kế hoạch cơ cấu ngành Nông nghiệp, các chương trình, dự án và kế hoạch hành động giai đoạn của ngành theo đúng lộ trình phục vụ cho phát triển kinh tế - xã hội trên địa bàn tỉnh, thì việc cập nhật, lưu trữ dữ liệu chuyên ngành thường xuyên phải đảm bảo chính xác, kịp thời, khoa học và gắn với ứng dụng công nghệ thông tin trong cải cách hành chính, đồng thời các chỉ tiêu phát triển kinh tế xã hội, cơ sở dữ liệu chuyên ngành phải đảm bảo phục vụ kết nối với hệ thống thông tin báo cáo dùng dung của tỉnh và của Bộ Nông nghiệp và PTNT.
+
+Hơn nữa, trong bối cảnh của cuộc cách mạng công nghiệp 4.0 đã và đang tạo ra các sản phẩm và dịch vụ mới làm thay đổi nền tảng phát triển kinh tế và xã hội và căn cứ chương trình chuyển đối số Quốc gia, chương trình chuyển đối số của tỉnh với mục tiêu phát triển Chính phủ số/Chính quyền số, xây dựng nền kinh tế số và xã hội số trên địa bàn tỉnh Điện Biên nói riêng và của cả nước nói chung thì việc đầu tư xây dựng hệ thống thông tin và tạo lập Cơ sở dữ liệu ngành Nông nghiệp tỉnh Điện Biên là hết sức cần thiết.
+
+Thực hiện nhiệm vụ của UBND tỉnh theo Quyết định số 3009/QĐ-UBND ngày 19/11/2021 về việc phê duyệt Báo cáo nghiên cứu khả thi dự án Xây dựng các cơ sở dữ liệu dùng chung tỉnh Điện Biên, Sở Nông nghiệp và PTNT phối hợp với Sở Thông tin và Truyền thông (chủ đầu tư dự án) cùng các đơn vị liên quan, xây dựng phần mềm Cơ sở dữ liệu dùng chung ngành Nông nghiệp và Phát triển nông thôn. Đến nay, Cơ sở dữ liệu dùng chung ngành Nông nghiệp và Phát triển nông thôn được đưa vào sử dụng, theo số liệu thống kê hiện CSDL đã lưu được hơn 5000 trường dữ liệu và gần 1 nghìn file dữ liệu liên quan đến các lĩnh vực khác nhau như: Thủy lợi, trồng trọt, chăn nuôi, thú y, thủy sản, kiểm lâm, chất lượng nông lâm thủy sản, hợp tác xã... Số lượt truy cập, khai thác thông tin và tải về đạt 7936 lượt.
+
+Việc triển khai CSDL dùng chung ngành Nông nghiệp và Phát triển Nông thôn trợ giúp hiệu quả công tác rà soát, thống kê báo cáo, phục vụ công tác lãnh đạo, chỉ đạo điều hành của cấp lãnh đạo, góp phần xây dựng kinh tế số, xã hội số và chính quyền số của tỉnh theo định hướng của Nghị quyết và Đề án Chuyển đổi số tỉnh Điện Biên đến năm 2025, định hướng đến năm 2030.
+
+Bạch Hân và nhóm PV, BTV

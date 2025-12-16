@@ -1,0 +1,19 @@
+Title: Thực hiện chuyển đổi số trong nông nghiệp phải dựa trên nền tảng dữ liệu
+
+Trong ngành nông nghiệp, thông tin không chỉ quan trọng cho nhà nông mà còn cho các cơ quan chức năng, doanh nghiệp và các tổ chức nghiên cứu. Thông tin không chính xác có thể dẫn đến những quyết định sai lầm và thiếu hiệu quả trong quản lý, sản xuất và tiêu thụ nông sản, thủy hải sản.
+
+Bởi vậy, nông nghiệp là 1 trong 8 lĩnh vực được ưu tiên thực hiện chuyển đổi số (Theo Quyết định 749/QĐ-TTg ngày 3/6/2020 của Thủ tướng chính phủ về phê duyệt “Chương trình chuyển đổi số Quốc gia đến năm 2025, định hướng đến năm 2030”), do đó “Thực hiện chuyển đổi số trong nông nghiệp phải dựa trên nền tảng dữ liệu. Tập trung xây dựng các hệ thống dữ liệu lớn của ngành như về đất đai, cây trồng, vật nuôi, thủy sản” trong nông nghiệp là bước phải thực hiện đầu tiên trong quá trình chuyển đổi số toàn ngành nông nghiệp.
+
+Nông nghiệp là 1 trong 8 lĩnh vực được ưu tiên thực hiện chuyển đổi số
+
+Thấu hiểu tầm quan trọng của việc xây dựng CSDL dựa trên nền tảng số trong nông nghiệp đáng tin cậy và hiệu quả, trong thời gian vừa qua, Bộ Nông nghiệp và Phát triển Nông thôn đã phối hợp với Tập đoàn VNPT nhằm huy động các nguồn lực tổng hợp, triển khai đẩy mạnh hoạt động chuyển đổi số ngành nông nghiệp. Trong đó, VNPT AIMS là hệ thống quản lý thông tin ngành nông nghiệp do Tập đoàn VNPT nghiên cứu và phát triển với sứ mệnh đáp ứng yêu cầu quản lý toàn diện tất cả các lĩnh vực trong ngành nông nghiệp, cung cấp những giải pháp thông tin hiện đại và tin cậy để thúc đẩy phát triển nông nghiệp hiệu quả và bền vững.
+
+Dữ liệu trên hệ thống VNPT AIMS được đồng bộ liên tục, kết nối trực tiếp với các hệ thống quản lý chuyên ngành, trung tâm giám sát điều hành ngành nông nghiệp, giúp cơ quan quản lý giảm bớt thời gian thu thập, báo cáo, thống kê số liệu của ngành theo từng lĩnh vực, hỗ trợ ra quyết định kịp thời và chính xác. Thông qua VNPT AIMS, các Bộ ban ngành liên quan có thể quản lý toàn diện tất cả các lĩnh vực ngành nông nghiệp, đánh giá được tình hình quản lý và nắm được các thông tin chính xác về cây trồng, vật nuôi, thủy sản, dịch bệnh, kỹ thuật, sản xuất, mùa vụ,... một cách tổng quan, từ đó đưa ra những định hướng để đẩy mạnh phát triển ngành nông nghiệp.
+
+Hơn nữa, VNPT AIMS góp phần quan trọng trong việc chuyển đổi số ngành nông nghiệp và tích hợp cơ sở dữ liệu dùng chung về chuyển đổi số của tỉnh/thành phố, thúc đẩy doanh nghiệp và người dân tham gia các hoạt động trong nông nghiệp toàn diện, tăng cường ứng dụng công nghệ số vào quy trình sản xuất.
+
+Đối với người dân và doanh nghiệp, VNPT AIMS mang đến nhiều lợi ích đáng kể. Được phát triển trên cả ứng dụng web và di động, người dân có thể dễ dàng khai thác các thông tin đa lĩnh vực trong ngành nông nghiệp, tiết kiệm thời gian và cắt giảm giấy tờ trong quá trình làm việc. Bên cạnh đó, người dân còn được hỗ trợ thông qua các buổi tập huấn, tư vấn trực tuyến và tài liệu từ các chuyên gia hàng đầu trong lĩnh vực nông nghiệp.
+
+VNPT AIMS cam kết đem lại giải pháp quản lý thông tin hiệu quả và nâng cao hiệu suất ngành nông nghiệp. Với sự kết hợp giữa công nghệ tiên tiến và sự hiểu biết sâu sắc về nhu cầu của người dân và doanh nghiệp, VNPT AIMS là giải pháp góp phần định hình tương lai bền vững cho ngành nông nghiệp Việt Nam trong tương lai.
+
+Ngọc Dũng và nhóm PV, BTV

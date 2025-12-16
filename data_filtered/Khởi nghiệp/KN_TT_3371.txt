@@ -1,0 +1,81 @@
+Ảnh minh họa: Internet
+
+Bài viết chia sẻ kinh nghiệm thực tiễn của GS Steve Blank từ ĐH New York đăng tải trên mạng xã hội LinkedIn, Blog Khởi nghiệp xin trích lược đăng tải để bạn đọc quan tâm có thêm cái nhìn tổng quan về khởi nghiệp, về sản phẩm và lĩnh vực mình chọn lựa:
+
+Đừng bao giờ cho rằng những quy tắc, những luật lệ, những kinh nghiệm khởi nghiệp, ở các lĩnh vưc kinh doanh lại giống nhau GS Steve Blank từ ĐH New York
+
+Thông thường, chặng đường trở thành doanh nhân thường được hiểu (hoặc được dạy) là một quá trình trình ngắn gọn và rõ ràng, viết ra kế hoạch kinh doanh và gọi vốn thành công. Những blog hoặc sách dạy về khởi nghiệp nổi tiếng cho rằng tất cả những lời khuyên cho khởi nghiệp đều có thể khái quát chung lại thành một hình mẫu nhất định. Tuy nhiên, theo kinh nghiệm của tôi (GS Steve Blank) từ việc quan sát chính sinh viên của mình thì lại chỉ ra rằng hình mẫu đấy không thể phù hợp cho tất cả các công ty khởi nghiệp.
+
+Quy mô vốn Đầu tư
+
+Trong lớp học của tôi, sinh viên thành lập nhiều nhóm nhỏ với nhiều dự án khác nhau. Họ sẽ giành cả một khoá học để xây dựng kế hoạch chi tiết cho một số công ty tiêu biểu. Khi tôi bắt đầu khai giảng lớp học, tôi thường cho các nhóm chung một lời khuyên "Tất cả các bạn cần nửa triệu đôla Mỹ để khởi nghiệp, và một vài triệu đôla nữa để giúp công ty tăng trưởng". Tất cả sinh viên đều đồng thanh đáp “Vâng, chúng e nghe rõ" và họ viết ghi chú là ”nửa triệu đô la Mỹ để khởi nghiệp".
+
+Tuần kế tiếp trong lớp, một nhóm sinh viên giơ tay hỏi “Giáo sư Blank, theo chúng tôi tìm hiểu thì trong lĩnh vực Công nghệ Sinh học, chúng ta cần từ mười đến hai mươi triệu đôla Mỹ chỉ để dành riêng cho giai đoạn nghiên cứu và tầm khoảng một trăm triệu cho công đoạn thử nghiệm và phát triển"
+
+“Dĩ nhiên”, tôi đáp. “Lĩnh vực khoa học thì hoàn toàn khác biệt. Thời gian phát triển sản phẩm và tầm quy mô của sự đầu tư thì hoàn toàn khác biệt với các lĩnh vực khởi nghiệp khác".
+
+* Xem: Nữ kỹ sư Facebook nói về kinh nghiệm khởi nghiệp
+
+Sở hữu trí tuệ (IP)
+
+Lần kế tiếp, tôi nói “Tất cả các bạn nên chủ động tìm hiểu và trao đổi trực tiếp với khách hàng từ những ngày đầu, cố gắng lấy cho được những nhận xét của khách hàng tiềm năng cho ý tưởng của bạn. Đừng bao giờ lo lắng về vấn đề sở hữu trí tuệ. Năng động lên, đừng ngồi một chỗ trong lớp"
+
+Tuần kế tiếp, một nhóm khác đang phát triển một dự án trong lĩnh vực năng lượng chất vấn “Giáo sư Blank, trong ngành năng lượng mà chúng em đang nghiên cứu, có rất nhiều vấn đề liên quan đến bản quyền mà mọi người đều bảo rằng chúng em không nên ra mắt sản phẩm của mình mà chưa đăng kí bản quyền sở hữu trí tuệ"
+
+Tôi giải đáp “Bạn nói đúng. Trong lĩnh vực công nghệ năng lượng, các bạn nên trao đổi với luật sư có chuyên môn về lĩnh vực này. Không nên tiết lộ các thông tin quan trọng về quá trình sản xuất với khách hàng cho đến khi bạn có được bản quyền sở hữu trí tuệ".
+
+Vấn đề pháp lý với chính quyền
+
+Tôi chia sẻ với toàn bộ các nhóm rằng “Tất cả các em tiếp tục xây dựng công ty và bán ra sản phẩm bởi vì các em không cần nghĩ đến những luật lệ từ phía chính quyền. Công ty của chúng em là những công ty khởi nghiệp (startups), quan trọng nhất là tung sản phẩm ra thị trường".
+
+Sau khi chia sẻ ý này xong, tuần tiếp theo, lại có một nhóm giơ tay phát biểu “Giáo sư Blank, chúng em xây dựng một thiết bị y tế và bắt buộc phải có 510K (một trong những thủ tục giành cho các công ty sản xuất thiết bị y tế) do FDA (Đơn vị Quản lý Thực phẩm và Y tế của Liên bang Hoa Kỳ), qui trình này cần đến hai năm mới hoàn tất"
+
+Lĩnh vực khởi nghiệp thì rất khác nhau
+
+Tôi bắt đầu nhận ra rằng các doanh nhân (và cả những người thầy của họ) thường cho rằng các tất cả các lĩnh vực kinh doanh đều cùng có chung những quy tắc và đặc thù giống nhau.
+
+Thực tế cho thấy có sự khác biệt rất lớn, những hướng dẫn của tôi có thể phù hợp với những nhóm sinh viên nghiên cứu phát triển trong lĩnh vực phần mềm cho khách hàng doanh nghiệp hay Web 2.0, nhưng những lĩnh vực thiết bị y tế, công nghệ sinh học, năng lượng sạch lại đòi hỏi những tiêu chí riêng biệt.
+
+* Khởi nghiệp: "Quyến rũ khách hàng như người yêu"
+
+Điều đúc kết ở đây là đừng bao giờ cho rằng những quy tắc, những luật lệ, những kinh nghiệm khởi nghiệp, ở các lĩnh vưc kinh doanh lại giống nhau. Để cùng tham khảo, dưới đây là 13 lĩnh vực mà tôi đã giới thiệu cho sinh viên tôi chọn lựa.
+
+Web 2.0
+
+Phần mềm (dành cho khách hàng doanh nghiệp)
+
+Phần cứng (dành cho khách hàng doanh nghiệp)
+
+Phần mềm dùng trong lĩnh vực truyền thông
+
+Phần cứng dùng trong lĩnh vực truyền thông
+
+Đồ điện tử
+
+Game
+
+Công nghệ lắp ráp
+
+Tự động hóa Thiết kế Điện tử (Electronic Design Automation)
+
+Năng lượng sạch
+
+Thiết bị y tế
+
+Khoa học cuộc sống
+
+Chăm sóc sức khoẻ
+
+Danh sách trên không có gì đặc biệt, nó chỉ thể hiện sự khác biệt đa dạng của các lĩnh vực kinh doanh ngày nay. Những doanh nhân có nhiều kinh nghiệm ở lĩnh vực mà họ đang dấn thân vào thường có thể tự đánh giá các vấn đề trên. Nếu bạn không có nhiều kiến thức hay kinh nghiệm trong lĩnh vực mà bạn sắp khởi nghiệp, tôi nghĩ bạn cần có được câu trả lời cho những câu hỏi sau:
+
+1. Lĩnh vực nào bạn đang muốn “tấn công"?
+
+2. Bạn có kiến thức chuyên môn trong lĩnh vực đấy không
+
+3. Bạn có những nhà tư vấn, những người có kiến thức chuyên môn trong lĩnh vực đấy?
+
+4. Bạn có những nhà đầu tư tiềm năng có thể am hiểu lĩnh vực bạn sẽ khởi nghiệp?
+
+5. Lĩnh vực kinh doanh đấy có những điểm gì đặc biệt?
+
+(GS Steve Blank, ĐH New York)

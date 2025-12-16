@@ -1,0 +1,12 @@
+Mặc dù một Blogger tuyên bố rằng đã tải xuống được phiên bản chính thức Firefox 1.5 vào hôm thứ Sáu (18/11) nhưng Mozilla Foundation cho biết người sử dụng Internet cần phải chờ một thời gian nữa để có phiên bản cuối của lần nâng cấp mới của FireFox. 
+
+Phát ngôn viên của Mozillar cho biết Mozilla vẫn chưa cho ra mắt phiên bản cuối của Firefox 1.5 mặc dù nhóm này đã đưa phần cập nhật Release Candidate 3 (RC3) của trình duyệt lên Website vào đêm thứ Năm (17/11). Theo kế hoạch Firefox 1.5 có thể được ra mắt trong phiên bản cuối vào hai tuần nữa. RC3 là phiên bản thử nghiệm cuối của Firefox 1.5 trước khi nó được ra mắt lần cuối tiếp sau lần ra mắt hai phiên bản beta muộn trước đây.
+
+Các tính năng mới trong Firefox 1.5 cho phép sử dụng các phím "Back" và "Forward" linh hoạt hơn, cửa sổ Options/Preferences được thiết kế lại tăng số lượng các biểu tượng và di chuyển chúng từ phía trái cửa sổ lên trên cùng.
+
+Phiên bản sắp tới của Firefox còn gồm tính năng chặn các Pop-up và một nhóm các cải tiến bảo mật. Tính năng này cũng như việc bổ sung Answers.com vào danh sách các công cụ tìm kiếm và chức năng Clear Private Data cho phép người sử dụng loại nhanh dữ liệu cá nhân qua Menu hoặc Keyboard Shortcut đã được giới thiệu trong bản Candidate.
+
+Firefox vừa kỷ niệm 9 năm thành lập vào hôm 9/11 đã đưa trình duyệt của họ trở thành bản thay thế phổ biến đối với Internet Explorer của Microsoft. Tháng trước, Firefox đã được tải xuống 100 triệu lần.
+
+
+

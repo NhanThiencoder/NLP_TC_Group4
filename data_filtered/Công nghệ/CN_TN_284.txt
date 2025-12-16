@@ -1,0 +1,17 @@
+Santa Cruz Networks đã thông báo bản nâng cấp đối với phần mềm Video Plug-in của họ có tên Festoon. Với phần mềm này, người sử dụng dịch vụ nhắn tin nhanh của Google có thể nhìn thấy người mà họ đang nói chuyện cùng.
+
+Plug-in dành cho Google Talk sẽ giúp người sử dụng giữ các cuộc gọi điện thoại thấy hình trên nền One-to-One hoặc với các nhóm đông khoảng 200 người cũng như chia sẻ ảnh và các ứng dụng với bất cứ ai đang đàm thoại.
+
+Google đã khai trương dịch vụ nhắn tin nhanh của họ vào tháng 8 như một trong các động thái để chuyển việc tìm kiếm Internet thuần tuý sang một cổng vào Web cung cấp danh mục rộng các dịch vụ trực tuyến.
+
+Santa Cruz Networks đã sẵn sàng cung cấp Festoon dành cho dịch vụ điện thoại Internet miễn phí Skype nay thuộc sở hữu của site đấu giá trực tuyến EBay. Plug-in đối với Google Talk được thiết kế để hoạt động với Skype. 
+
+Cũng như Google và Skype, Santa Cruz Networks cũng đang hoạt động với America Online, Yahoo và Microsoft để bổ sung hình ảnh vào các dịch vụ nhắn tin nhanh của họ. Nó không cho ra mắt các chi tiết đặc biệt trong quan hệ với ba sản phẩm này.
+
+
+Festoon Plug-in ra mắt với các hiệu ứng Video EyeCandy. EyeCandy còn cho phép người sử dụng Festoon bóp méo các đường nét trên khuôn mặt của mỗi cá nhân theo nhiều cách khác nhau. Tính năng mới trog Plug-in của Festoon gần đây nhất là Snap Picture với khả năng chụp ảnh bất kỳ Video Window nào, cái có thể sau này được lưu như là Festoon Pictures.
+
+Trong tương lai, kế hoạch cung cấp thêm các tính năng trong Festoon cho phép người sử dụng có thể tải các hiệu ứng Video EyeCandy bổ sung và truy cập vào thư viện các Camera cá nhân và Wallpaper.
+
+
+

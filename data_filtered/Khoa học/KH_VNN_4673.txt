@@ -1,0 +1,47 @@
+Cắt giảm, đơn giản hóa thủ tục hành chính dựa trên dữ liệu
+
+Nghị quyết này quy định việc thay thế hoặc cắt giảm thành phần hồ sơ trong các thủ tục hành chính bằng việc khai thác hoặc sử dụng thông tin tương ứng từ các cơ sở dữ liệu quốc gia, cơ sở dữ liệu chuyên ngành.
+
+Việc thay thế hoặc cắt giảm thành phần hồ sơ trong các thủ tục hành chính được thực hiện theo mức độ đáp ứng việc khai thác, sử dụng của các cơ sở dữ liệu; không yêu cầu cung cấp thành phần hồ sơ giải quyết thủ tục hành chính mà các thông tin trong thành phần hồ sơ đã có dữ liệu trong các cơ sở dữ liệu được cơ quan chủ quản cơ sở dữ liệu công bố.
+
+Cơ quan tiếp nhận, giải quyết thủ tục hành chính khai thác, sử dụng thông tin đã có trong các cơ sở dữ liệu để thay thế thành phần hồ sơ giải quyết thủ tục hành chính.
+
+Trường hợp không khai thác được thông tin hoặc thông tin khai thác được không đầy đủ, không chính xác thì cơ quan, người có thẩm quyền tiếp nhận, giải quyết thủ tục hành chính yêu cầu cá nhân, tổ chức bổ sung thành phần hồ sơ để giải quyết thủ tục hành chính; đồng thời đề nghị cá nhân, tổ chức thực hiện cập nhật, điều chỉnh thông tin trong các cơ sở dữ liệu theo quy định của pháp luật.
+
+Việc thay thế, cắt giảm thành phần hồ sơ bằng thông tin được khai thác trên các cơ sở dữ liệu khi giải quyết thủ tục hành chính cho công dân Việt Nam sinh sống ở nước ngoài, cá nhân, tổ chức nước ngoài sinh sống, hoạt động tại Việt Nam được thực thi trên cơ sở mức độ đáp ứng của cơ sở dữ liệu.
+
+Thông tin trên Cơ sở dữ liệu quốc gia về dân cư thay thế được nhiều loại giấy tờ
+
+Theo Nghị quyết số 66.7/2025/NQ-CP, thông tin trên Cơ sở dữ liệu quốc gia về dân cư được khai thác và sử dụng thay thế các giấy tờ sau: Chứng minh nhân dân hoặc Căn cước công dân hoặc Thẻ Căn cước, Giấy chứng nhận căn cước; Thông tin về cư trú.
+
+Thông tin trên Cơ sở dữ liệu hộ tịch điện tử được khai thác và sử dụng thay thế các giấy tờ: Giấy khai sinh hoặc Trích lục khai sinh; Giấy chứng nhận kết hôn; Giấy xác nhận tình trạng hôn nhân; Giấy chứng tử hoặc Giấy khai tử hoặc Trích lục khai tử.
+
+Thông tin trên Cơ sở dữ liệu quốc gia về bảo hiểm được khai thác và sử dụng thay thế các giấy tờ: Thẻ bảo hiểm y tế; Sổ bảo hiểm xã hội.
+
+Thông tin trên Cơ sở dữ liệu giấy phép lái xe được khai thác và sử dụng thay thế Giấy phép lái xe.
+
+Thông tin trên Cơ sở dữ liệu quốc gia về đăng ký doanh nghiệp được khai thác và sử dụng thay thế các giấy tờ sau: Giấy chứng nhận đăng ký doanh nghiệp hoặc giấy chứng nhận đăng ký kinh doanh (đối với doanh nghiệp được thành lập theo Luật Doanh nghiệp);
+
+Giấy chứng nhận đăng ký hộ kinh doanh; Giấy chứng nhận đăng ký hợp tác xã.
+
+Thông tin trên Cơ sở dữ liệu về đăng ký phương tiện được khai thác và sử dụng thay thế giấy chứng nhận đăng ký xe.
+
+Thông tin trên Cơ sở dữ liệu quốc gia về đất đai được khai thác và sử dụng thay thế giấy chứng nhận quyền sử dụng đất, quyền sở hữu tài sản gắn liền với đất (giai đoạn đầu áp dụng đối với đất ở).
+
+Thông tin trên Cơ sở dữ liệu lý lịch tư pháp được khai thác và sử dụng thay thế Phiếu lý lịch tư pháp.
+
+Thông tin trên Cơ sở dữ liệu nền tảng sổ sức khoẻ điện tử được khai thác và sử dụng thay thế Giấy khám sức khỏe.
+
+Nghị quyết cũng nêu rõ, việc thay thế các loại giấy tờ quy định ở trên cũng được áp dụng đối với các thủ tục hành chính không thuộc 786 thủ tục hành chính có thành phần hồ sơ thay thế bằng dữ liệu quy định tại Nghị quyết này.
+
+Quy trình tiếp nhận, giải quyết thủ tục hành chính được thay thế bằng dữ liệu
+
+Theo quy định, người có thẩm quyền tiếp nhận, giải quyết thủ tục hành chính khai thác, sử dụng thông tin đã có trong các cơ sở dữ liệu để thay thế thành phần hồ sơ giải quyết thủ tục hành chính.
+
+Trường hợp không khai thác được hoặc thông tin khai thác được không đầy đủ, không chính xác thì thực hiện như sau:
+
+Trường hợp hồ sơ thủ tục hành chính nộp trực tuyến trên Cổng Dịch công quốc gia hoặc qua VNeID, người có thẩm quyền tiếp nhận, giải quyết thủ tục hành chính phải có thông báo yêu cầu bổ sung, hoàn thiện hồ sơ cho cá nhân, tổ chức không muộn hơn 8 giờ làm việc hoặc theo thời hạn được quy định tại văn bản quy phạm pháp luật chuyên ngành kể từ khi Hệ thống thông tin giải quyết thủ tục hành chính tiếp nhận hồ sơ.
+
+Trường hợp hồ sơ thủ tục hành chính nộp trực tiếp hoặc qua dịch vụ bưu chính, người có thẩm quyền tiếp nhận, giải quyết thủ tục hành chính gửi Phiếu yêu cầu bổ sung, hoàn thiện hồ sơ cho cá nhân, tổ chức trong thời hạn không quá 1 ngày làm việc kể từ khi nhận được hồ sơ hoặc theo thời hạn được quy định tại văn bản quy phạm pháp luật chuyên ngành; thực hiện việc số hóa phục vụ giải quyết thủ tục hành chính; đồng thời hướng dẫn cá nhân, tổ chức liên hệ với cơ quan có thẩm quyền cập nhật, điều chỉnh dữ liệu.
+
+Tuyết Nhung

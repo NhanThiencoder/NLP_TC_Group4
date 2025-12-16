@@ -1,0 +1,37 @@
+Trong hành trình đổi mới sáng tạo của Tổng công ty Phát điện 1 (EVNGENCO1), có những người chọn lối đi khó nhưng bền - nơi tri thức, công nghệ và tinh thần tự chủ giao thoa. Kỹ sư Trịnh Xuân Duy là một trong những người như vậy.
+
+Kỹ sư Trịnh Xuân Duy - người “bắc nhịp” từ công nghệ thông tin sang vận hành nhà máy điện
+
+Từ công nghệ đến vận hành - hành trình làm chủ thay vì lệ thuộc
+
+Khi mới vào nghề, Trịnh Xuân Duy đảm nhiệm công việc quản trị hệ thống mạng, máy chủ và bảo mật của DHD. Nhưng càng gắn bó với nhà máy, anh càng nhận ra khoảng trống giữa “công nghệ thông tin” và “vận hành thiết bị” trong sản xuất điện.
+
+“Nếu người vận hành không hiểu sâu về hệ thống, họ sẽ phụ thuộc vào nhà thầu. Còn kỹ sư IT không hiểu về cách thức, giao thức làm việc của các hệ thống công nghiệp trong nhà máy thủy điện thì khó đưa ra giải pháp hiệu quả”, Xuân Duy chia sẻ.
+
+Từ những trăn trở đó, anh bắt đầu tìm hiểu các hệ thống điều khiển tự động - những “trái tim” của nhà máy như DCS (hệ thống điều khiển phân tán), SCADA (giám sát - thu thập dữ liệu và điều khiển từ xa) và PLC (bộ điều khiển logic khả trình). Kiến thức lập trình và dữ liệu từ nền tảng công nghệ thông tin giúp anh nhanh chóng nắm bắt cấu trúc, cách thức hoạt động của hệ thống, nguyên lý truyền nhận tín hiệu và vận hành đồng bộ.
+
+Từ quá trình học và trải nghiệm ấy, anh cùng đồng nghiệp tại DHD dần hình thành một cách tiếp cận đặc trưng: kết hợp tri thức số với thực tiễn vận hành để tạo ra những giải pháp hiệu quả, an toàn và phù hợp điều kiện thực tế. Với Duy, tư duy rất rõ ràng: “Muốn bền vững, phải làm chủ công nghệ lõi - chứ không chỉ biết sử dụng.”
+
+Làm chủ công nghệ lõi - tiết kiệm, an toàn và chủ động hơn
+
+Khởi đầu cho hành trình làm chủ sâu công nghệ tại DHD là hệ thống Trung tâm Điều khiển vận hành (OCC) - hệ thống điều khiển từ xa tiên phong trong ngành điện Việt Nam. Ngay từ năm 2013, Trịnh Xuân Duy đã tham gia xuyên suốt với vai trò lập trình - thí nghiệm hiệu chỉnh. Anh trực tiếp xây dựng các kết nối điều khiển từ xa, cấu hình dữ liệu vận hành và từng bước tích hợp các tổ máy của các nhà máy thủy điện thuộc DH D vào hệ thống.
+
+Với tinh thần “dám nghĩ dám làm”, Xuân Duy cùng đội ngũ kỹ sư tại DHD đã chủ động trong việc làm chủ công nghệ, duy trì OCC hoạt động tốt và sẵn sàng thay đổi hiệu chỉnh khi cần - giúp giảm mạnh nhân lực vận hành, tiết kiệm chi phí và nâng cao năng lực làm chủ kỹ thuật tại đơn vị. Thành quả này không chỉ được ghi nhận bằng Bằng khen của Bộ Công Thương năm 2017, mà còn là nền tảng để đội ngũ kỹ sư DHD trưởng thành vượt bậc - từng bước làm chủ công nghệ lõi, giảm bớt sự lệ thuộc vào các nhà sản xuất nước ngoài.
+
+Trịnh Xuân Duy (đầu tiên từ phải sang) cùng các đồng nghiệp tại Trung tâm OCC - hệ thống điều khiển từ xa tiên phong trong ngành điện Việt Nam
+
+Tiếp nối tinh thần ấy, trong những năm gần đây, anh tiếp tục triển khai nhiều giải pháp kỹ thuật độc lập, mỗi giải pháp giải quyết một yêu cầu riêng nhưng đều dẫn về mục tiêu chung: tăng tính chủ động và giảm lệ thuộc.
+
+Một dấu mốc quan trọng là khi giao diện điều khiển (HMI) của Tổ máy H5 Đa Nhim Mở rộng gặp sự cố. Thay vì chờ hỗ trợ từ nhà thầu nước ngoài, anh và đội ngũ đã tự thiết kế lại kiến trúc hệ thống, dựng lại phần mềm giám sát, chuẩn hóa dữ liệu và cấu hình cảnh báo. Giải pháp giúp hệ thống vận hành ổn định, tiết kiệm hơn 200 triệu đồng và thoát khỏi sự phụ thuộc vào nền tảng cũ đã ngừng hỗ trợ.
+
+Trịnh Xuân Duy (đầu tiên từ trái sang) tại lễ ra mắt Đội nhân sự nòng cốt ứng dụng khoa học công nghệ và đổi mới sáng tạo của EVNGENCO1
+
+Lan tỏa tinh thần tự chủ - từ một người đến một tập thể
+
+Trịnh Xuân Duy luôn tự nhủ rằng công nghệ chỉ có giá trị khi nhiều người cùng hiểu, cùng làm và cùng phát triển. Vì vậy, anh và đội ngũ kỹ sư tại DHD đã và đang từng bước xây dựng môi trường mô phỏng hệ thống điều khiển - một “phòng thí nghiệm số” giúp kỹ sư thử nghiệm cấu hình, kiểm tra kịch bản và luyện xử lý tình huống mà không ảnh hưởng đến vận hành thực tế.
+
+Trong công việc, Duy luôn đề cao vai trò của tập thể. Từng thay đổi nhỏ, từng giải pháp mới… đều được hoàn thiện từ những buổi cùng nhau mày mò, cùng thử - cùng chỉnh - cùng học. Sự đồng hành đó giúp các sáng kiến đi vào thực tế một cách vững chắc và nuôi dưỡng sự tự tin, tinh thần chủ động, “dám nghĩ, dám làm, dám đổi mới”.
+
+Ngọn lửa đổi mới sáng tạo được thắp lên từ chính tinh thần ấy: khi người lao động làm chủ công nghệ lõi, đơn vị sẽ làm chủ tương lai.
+
+PT

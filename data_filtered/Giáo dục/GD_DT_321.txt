@@ -1,0 +1,49 @@
+Chia sẻ trên một diễn đàn mạng xã hội, một phụ huynh người Mỹ cho biết con trai anh vốn học giỏi toán, nhưng cả hai cha con đều phải "bó tay" trước một bài toán được giáo viên giao về nhà. Người cha cho rằng bài toán quá khó so với độ tuổi của con anh.
+
+Bài toán này xoay quanh một "kim tự tháp số", trong đó mỗi số ở hàng giữa phía trên bằng tổng của hai số phía dưới. Một ví dụ minh họa được đưa ra, sau đó là một "kim tự tháp số" khác có 3 ô trống, yêu cầu học sinh tìm được tổng giá trị của 2 số còn thiếu.
+
+Bài toán khiến người cha "bó tay", phải đưa lên mạng xã hội nhờ giúp đỡ (Ảnh: DM).
+
+"Con trai tôi được giao bài toán này. Tôi không giải nổi. Bài toán quá khó đối với một đứa trẻ 9 tuổi, phải không? Tôi không phải một người học giỏi toán, nhưng chắc chắn năng lực cũng hơn học sinh tiểu học, vậy nhưng chính tôi cũng thấy thấy khó. Có ai có cách giải không?", người cha viết.
+
+Ngay lập tức, bài đăng thu hút sự chú ý lớn từ cộng đồng mạng, nhiều người thừa nhận chính họ cũng phải "vò đầu bứt tai" trước câu hỏi này. Nhiều người đồng tình rằng bài toán này quá khó so với một đứa trẻ 9 tuổi.
+
+Một cư dân mạng đưa ra bình luận: "Đây không phải là bài toán dành cho trẻ 9 tuổi. Tôi nhớ mình chỉ học những bài toán dạng này ở cấp 2. Tôi có thể giải được bài toán này, nhưng tôi thấy không nên đưa bài này vào chương trình tiểu học".
+
+Tuy nhiên, cũng có nhiều người khác cho rằng bài toán tuy khó, nhưng lại là một bài toán hay, tạo ra cơ hội tốt để giúp trẻ rèn luyện tư duy logic từ nhỏ.
+
+"Bài toán này thật thú vị. Cho trẻ tiếp xúc với dạng bài như vậy từ sớm là cách hay để trẻ phát triển khả năng suy luận và giải quyết vấn đề. Tôi cũng mất nhiều thời gian mới nghĩ ra cách giải", một người khác đưa ra ý kiến.
+
+Không ít cư dân mạng đã chỉ ra những cách giải bài toán để giúp người cha hỗ trợ con mình.
+
+Một cư dân mạng phân tích:
+
+Một cư dân mạng tư vấn cách giải chi tiết cho người cha (Ảnh: DM).
+
+Gọi ba ô trống là x, y và z; ta có:
+
+y = x + 9
+
+z = x + 7
+
+y + z = (x + 9) + (x + 7) = 40
+
+→ 2x + 16 = 40
+
+→ x = (40 - 16) : 2 = 12
+
+y = x +9 = 12 + 9 = 21
+
+Vậy x + y = 12 + 21 = 33
+
+Không ít phụ huynh gặp khó khi giảng bài cho con, dù con mới học... tiểu học (Ảnh minh họa: Leoai).
+
+Một cư dân mạng khác chỉ ra cách giải đơn giản hơn:
+
+Ở hàng thứ hai của "kim tự tháp số", ô bên trái có giá trị là: 7 + "sao", ô bên phải là "tim".
+
+Ta đã biết tổng của hai ô này là 40, như vậy: 7 + "sao" + "tim" = 40.
+
+Vậy "sao" + "tim" = 40 - 7 = 33.
+
+Cư dân mạng này nhận xét thêm: "Bài toán này quá đơn giản, chỉ gồm phép cộng, phép trừ mà thôi. Tự mọi người đang làm rối lên quá, bởi nhiều khi chúng ta tư duy quá phức tạp đấy".

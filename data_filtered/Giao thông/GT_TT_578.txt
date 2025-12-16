@@ -1,0 +1,25 @@
+Đình Hào, Thanh Hằng, Trường Thịnh (từ trái qua) và mô hình tương tác giữa tài xế xe buýt với hành khách tại trạm chờ - Ảnh: N.T.Phúc
+
+Mô hình “Hệ thống tương tác tài xế xe buýt và hành khách tại trạm chờ” của ba bạn: Lê Thanh Hằng, Lê Đình Hào và Huỳnh Nguyễn Trường Thịnh, lớp 10A1 Trường THPT Nhơn Trạch (Đồng Nai), vừa giành giải nhì toàn quốc hội thi Học sinh nghiên cứu khoa học kỹ thuật do Bộ Giáo dục - đào tạo tổ chức.
+
+Nghiên cứu từ áp lực
+
+Nhìn thấy cảnh bạn bè, các anh chị công nhân tràn ra đường đón xe buýt ngay tại trạm chờ mỗi ngày đi học đã giúp bộ ba bật ra ý tưởng tạo hệ thống tương tác giữa hành khách tại trạm chờ với tài xế xe buýt. Để hiện thực hóa ý tưởng, nhóm đã khảo sát nhiều hành khách ở các trạm chờ tại huyện Nhơn Trạch vì đây là nơi có lượng xe buýt tương đối lớn. “Nhờ khảo sát tụi mình biết hành khách rất băn khoăn tại trạm chờ, thấp thỏm ra vào vì không biết xe đến chưa, có người lại bị khuất tầm nhìn, mắt kém không biết xe đến để đón” - Trường Thịnh nói.
+
+Ngược lại, các bác tài xe buýt cũng gặp nhiều áp lực, không biết trạm tới có khách không để ghé vào vì ghé mà không có khách lại mất công, gây khó khăn cho các phương tiện lưu thông. Thậm chí ghé nhiều trạm mà không có khách lại gây khó chịu cho các hành khách khác đang ngồi trên xe. “Việc ghé trạm trở thành áp lực sẽ gây hiệu ứng không tốt đến tâm lý người cầm lái. Vì vậy việc tạo ra sự tương tác bằng hệ thống định vị tín hiệu sẽ giúp giảm phần nào áp lực, tạo tinh thần thoải mái thì độ an toàn trên hành trình sẽ cao hơn” - Thanh Hằng, nữ sinh duy nhất của nhóm, lý giải.
+
+Văn minh xe buýt
+
+Các bạn đã lập trình hệ thống liên lạc bằng việc sử dụng sóng vô tuyến RF (radio frequency) để tạo môi trường giao tiếp giữa tài xế và hành khách đang chờ ở trạm. Tại trạm chờ và trên xe buýt sẽ có hai hộp thiết bị tương tác với nhau. Hộp tại trạm chờ có ba nút nhấn, bốn đèn LED, một còi và một thiết bị thu sóng radio. Hộp trên xe buýt có vi mạch gồm công tắc từ, còi, đèn LED và bộ thiết bị thu phát sóng. Theo tính toán của nhóm, chi phí lắp đặt mỗi hộp khoảng 1,5 triệu đồng, nếu sản xuất đại trà sẽ giảm chi phí rất nhiều.
+
+Với hệ thống tương tác như vậy, trạm chờ sẽ phát tín hiệu tìm xe liên tục trong vùng phủ sóng, khi xe buýt nào đi vào vùng phủ sóng thì xe sẽ trả tín hiệu về trạm. “Đèn tương ứng có xe sẽ nhấp nháy, còi kêu, hành khách muốn đón tuyến xe nào chỉ cần nhấn nút tương ứng, hành khách không bấm nút xe sẽ không ghé trạm” - Thịnh cho biết.
+
+Kiến thức về điện tử, vi mạch, sóng radio... là điều khá mới mẻ với các tác giả học trò ấy. May mắn là từng học chế tạo robot tại Trường trung cấp nghề Nhơn Trạch cùng với sự hướng dẫn của thầy dạy vật lý, các bạn đã mày mò và cho ra đời hệ thống sau sáu tháng. Đình Hào kể: “Nhiều hôm học chính khóa xong là cả nhóm lại lao đầu vào nghiên cứu. Trước ngày thi cấp tỉnh, mô hình “giở chứng” cháy hết, thế là nhóm phải làm lại đến gần sáng mới xong”.
+
+Thầy Huỳnh Thanh Ngươn, hiệu trưởng Trường THPT Nhơn Trạch, cho rằng nghiên cứu của các bạn có tính thực tiễn cao nên dễ áp dụng vào cuộc sống. “Nhà trường sẽ hỗ trợ các em tiếp tục nghiên cứu vì xe buýt gây tai nạn đã nói nhiều, văn minh xe buýt cũng được nhà quản lý, người dân kêu rất lâu rồi” - ông Ngươn nói. Nguyên giám đốc Ban quản lý điều hành vận tải hành khách công cộng Đồng Nai Thái Thị Ty nhận xét: “Ý tưởng của các em khá hiện đại và có thể áp dụng ở các đô thị lớn vì ngoài quản lý còn có thể tạo thói quen sử dụng xe buýt văn minh hơn, giảm nguy cơ tai nạn trước áp lực thời gian của tài xế”.
+
+------------------------------------
+
+* Tin bài liên quan:
+
+Làm gì để xe buýt thôi hỗn danh "hung thần"? Xe buýt: khó đủ đườngGiới trẻ với văn minh xe buýtXe buýt thân thiện hơn để dân yêu

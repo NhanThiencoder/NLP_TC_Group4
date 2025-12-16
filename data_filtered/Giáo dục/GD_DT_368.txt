@@ -1,0 +1,43 @@
+Sản phẩm này được nhóm sinh viên Trường Bách khoa, Trường Đại học Cần Thơ là Lê Trùng Dương, Nguyễn Ngọc Khoa, Phan Chí Bảo và Nguyễn Thị Nhi A thiết kế và tham gia cuộc thi dự án kỹ thuật phục vụ cộng đồng.
+
+Giàn phơi gồm khung làm bằng sắt mạ kẽm, dài khoảng 2m, cao 1,5m. Bộ khung này có thể di chuyển bằng bánh xe gắn phía dưới. Phần hộp có mái dài 50cm làm bằng nhựa dẻo.
+
+Giàn phơi nhận dạng trời mưa thông qua bộ phận cảm biến nhỏ lắp trên mái. Khi có nước rơi trên mái, cảm biến sẽ xác định trời đang mưa. Thông tin này được chuyển đến bộ phận điều khiển.
+
+Nhận tín hiệu, máy bật motor điện, sử dụng động cơ giảm tốc tự động kéo đồ vào. Đến khi trời tạnh, quá trình này ngược lại, máy sẽ phát tín hiệu để giàn phơi kéo đồ ra.
+
+Giàn phơi tự động thu đồ khi trời mưa. chỉ mất 9 giây (Ảnh: Nhóm sinh viên cung cấp).
+
+Ngoài chế độ tự động, giàn phơi có remote (điều khiển), dùng cho những lúc trời không mưa nhưng người dân vẫn muốn thu đồ vào.
+
+"Nhóm đã thử nghiệm với 6kg quần áo, máy nhận và phát tín hiệu sau 1-2 giây khi trời mưa và mất 7 giây sẽ hoàn thành việc thu quần áo vào. Với kích thước như hiện tại, dàn phơi có thể chịu tối đa 8-10kg quần áo. Đây là số lượng quần áo trung bình mỗi lần giặt của các hộ gia đình", trưởng nhóm Lê Trùng Dương chia sẻ.
+
+Các sinh viên cho biết bộ khung sản phẩm có thể điều chỉnh to, nhỏ tùy vào nhu cầu của khách hàng. Giá sản phẩm khoảng 3 triệu đồng. Giá này có thể giảm nếu sản xuất số lượng lớn.
+
+Sinh viên chế giàn phơi tự động thu - kéo đồ khi mưa (Video: Nhóm sinh viên cung cấp).
+
+Ý tưởng này được hình thành trong một lần nhóm đi học về và bị ướt hết quần áo phơi ở nhà do trời mưa.
+
+"Ở quê, người dân thường phơi quần áo trên hàng rào hoặc sào rồi đi làm, chiều hoặc tối về nhà mới thu đồ vào. Vì thế, những hôm trời mưa bất chợt, quần áo bị ướt sũng, rất bất tiện", Dương nói.
+
+Quá trình khảo sát người dân ở Cần Thơ, nhóm nhận thấy nhu cầu này rất lớn, đặc biệt là ở những người cần mặc đồng phục đi làm nhưng chỉ có hai bộ thay đổi.
+
+"Nhiều người có hai bộ đồng phục, mặc xong là giặt phơi nhưng gặp hôm mưa, quần áo ướt hết, hôm sau không có đồ để mặc đi làm", Dương cho hay.
+
+Sau hơn hai tháng khảo sát, lên ý tưởng và gia công sản phẩm, giàn phơi đồ của nhóm được hoàn thiện.
+
+"Khi sản phẩm hoàn thiện, nhóm rất vui vì áp dụng được kiến thức đã học về tự động hóa, cơ điện tử để làm một sản phẩm có tính ứng dụng cao cho người dân", Dương chia sẻ.
+
+Đại diện nhóm sinh viên cho biết nhóm cân nhắc lắp pin năng lượng mặt trời lên mái che, tạo nguồn điện cho sản phẩm hoạt động thay vì phụ thuộc vào điện dân dụng. Ngoài ra, họ nghĩ đến việc áp dụng nguyên lý hoạt động của sản phẩm với giàn phơi đồ xếp gọn, gắn tường, phù hợp với hộ dân ở chung cư.
+
+Ngoài ra, các bạn ấp ủ việc có thể hợp tác với đơn vị sản xuất đưa sản phẩm ra thị trường.
+
+Nhóm sinh viên và giảng viên Trường Đại học Cần Thơ bên sản phẩm dàn phơi đồ tự động (Ảnh: Nhân vật cung cấp).
+
+"Tại cuộc thi dự án kỹ thuật phục vụ cộng đồng, sản phẩm của nhóm em không được vào vòng trong vì có những ý tưởng được đầu tư hơn, song, chúng em vẫn mong muốn sản phẩm giàn phơi tự động sẽ có mặt trên thị trường bởi sự thiết yếu đối với người dân", Lê Trùng Dương bày tỏ.
+
+TS Trần Thanh Hùng, Phó hiệu trưởng Trường Bách khoa, Trường Đại học Cần Thơ, cho biết đây là sản phẩm sinh viên thiết kế trong môn học Dự án kỹ thuật phục vụ cộng đồng. Trong dự án này, sinh viên sẽ phỏng vấn khách hàng tiềm năng để tìm hiểu nhu cầu và xây dựng phương án cung ứng phù hợp.
+
+Ông đánh giá sản phẩm giàn phơi tự động này đơn giản, không quá khó về mặt kỹ thuật nhưng lại thiết thực trong cuộc sống. Theo ông Hùng, để giàn phơi tiếp cận được người dùng tốt hơn, nhóm cần cải thiện mẫu mã, giảm giá thành.
+
+"Nhà trường sẽ hỗ trợ, tư vấn thêm kỹ thuật để sản phẩm ngày càng tốt hơn nếu các em tiếp tục cải tiến sản phẩm. Nếu sinh viên muốn kêu gọi đầu tư, nhà trường cấp giấy giới thiệu cho các bạn đến làm việc với doanh nghiệp", TS Trần Thanh Hùng cho hay.

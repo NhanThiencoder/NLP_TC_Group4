@@ -1,0 +1,39 @@
+Title: Hải Phòng vận hành nhiều cơ sở dữ liệu dùng chung ngành nông nghiệp
+
+Mới đây, TP Hải Phòng chính thức đưa vào vận hành hệ thống quản lý dữ liệu nông sản trên nền tảng số. Thông qua hệ thống dữ liệu này, các cơ quan chức năng, doanh nghiệp, người nông dân có thể kịp thời nắm bắt xu hướng thị trường và nhu cầu của người tiêu dùng, từ đó đưa ra kế hoạch sản xuất cũng như chiến lược kinh doanh phù hợp.
+
+Ngoài ra, người tiêu dùng có thể chủ động liên hệ với người sản xuất, cơ sở chế biến để đặt các đơn hàng sản phẩm nông nghiệp an toàn, chất lượng và rõ nguồn gốc xuất xứ.
+
+TP Hải Phòng chính thức đưa vào vận hành hệ thống quản lý dữ liệu nông sản trên nền tảng số.
+
+Theo Sở NN-PTNT TP Hải Phòng, một trong các mục tiêu cụ thể đến năm 2025 trong chuyển đổi số nông nghiệp là 100% các cơ quan, đơn vị trực thuộc Sở tham gia mở dữ liệu và cung cấp dữ liệu mở phục vụ chuyển đổi số của trung ương, thành phố và của ngành; trên 50% số hộ nông dân được tiếp cận với các dịch vụ số, dữ liệu số ngành nông nghiệp và phát triển nông thôn.
+
+Do đó, ngoài đưa vào vận hành hệ thống quản lý dữ liệu nông sản, Hải Phòng còn có nhiều cơ sở dữ liệu dùng chung của ngành nông nghiệp.
+
+Đơn cử, về khai thác, sử dụng các cơ sở dữ liệu lĩnh vực trồng trọt và bảo vệ thực vật hiện nay có 2 hệ thống gồm: Quản lý dữ liệu về bảo vệ thực vật (PPDMS 2.0) và Quản lý thuốc bảo vệ thực vật.
+
+Lĩnh vực chăn nuôi thú y có 4 hệ thống gồm: Quản lý dịch bện động vật cạn và Quản lý dịch bệnh động vật thủy sản (Vahis); Cơ sở dữ liệu về thức ăn chăn nuôi; Cơ sở dữ liệu về sản xuất chăn nuôi.
+
+Hay như trong lĩnh vực thủy sản có hệ thống giám sát tàu cá và hệ thống cơ sở dữ liệu nghề cá Quốc gia (VNFishbase). Đến nay, 100% tàu cá đăng ký tại Hải Phòng thường xuyên cập nhật dữ liệu vào hệ thống VNFishbase; 100% tàu cá đã lắp đặt thiết bị giám sát hành trình kết nối với hệ thống giám sát tàu cá. Đây là một trong những điều kiện bắt buộc để đảm bảo truy xuất nguồn gốc hải sản, gỡ thẻ vàng IUU của EC.
+
+Không chỉ đảm bảo vấn đề truy xuất nguồn gốc, Hải Phòng còn xây dựng và đưa vào vận hành các cơ sở dữ liệu dùng chung ngành nông nghiệp.
+
+Lĩnh vực kiểm lâm cũng có phần mềm cập nhật diễn biến rừng (FRMS); giám sát, đánh giá thống kê lâm nghiệp; bản đổ kiểm kê rừng, bản đồ hiện trạng rừng…
+
+Theo ông Nguyễn Ngọc Tuất – Phó Giám đốc Sở NN-PTNT TP Hải Phòng, nhờ áp dụng chuyển đổi số, người nông dân có thêm thông tin, kiến thức, công nghệ hỗ trợ. Thế nên, hiệu quả trong sản xuất nông nghiệp ở thành phố này ngày càng cải thiện. Đặc biệt, đối với các mô hình ứng dụng công nghệ số đều mang lại giá trị gia tăng từ 20-40%.
+
+Song, ông cho rằng, thời gian tới các đơn vị trực thuộc Sở NN-PTNT cần tiếp tục đẩy mạnh hơn nữa trong thực hiện chuyển đổi số, số hóa các quy trình nghiệp vụ, tạo lập cơ sở dữ liệu theo lĩnh vực phụ trách.
+
+Trong đó, đẩy mạnh triển khai xây dựng, nhân rộng các mô hình ưu tiên áp dụng các giải pháp công nghệ thông tin, chuyển đổi số như trí tuệ nhân tạo, sử dụng thiết bị thông minh, tự động hóa…
+
+Ông Nguyễn Ngọc Tuất giao Chi cục Quản lý chất lượng Nông lâm sản và thủy sản phối hợp với các đơn vị liên quan tích cực tạo lập, bổ sung, chia sẻ cơ sở dữ liệu về nông sản lên hệ thống quản lý dữ liệu nông sản. Các dữ liệu của lĩnh vực chăn nuôi, thuỷ sản, lâm nghiệp… cũng phải đẩy mạnh cập nhật và hoàn thiện.
+
+Cùng với đó, tích cực tuyên truyền, phổ biến, hướng dẫn để nông dân, các cơ sở sản xuất, kinh doanh, chế biến nông sản trên địa bàn toàn TP Hải Phòng và người tiêu dùng tham gia khai thác, sử dụng hệ thống quản lý dữ liệu nông sản và ngành nông nghiệp hiệu quả, đạt mục tiêu đề ra, ông Tuất nhấn mạnh.
+
+Sở NN-PTNT TP Hải Phòng và VNPT Hải Phòng đã ký bản ghi nhớ hợp tác về chuyển đổi số trong nông nghiệp và phát triển nông thôn. Sự hợp tác này sẽ mở ra những hướng đi mới, đồng thời nhiều giải pháp và mô hình công nghệ mới sẽ được triển khai để mang lại những lợi ích, hiệu quả tốt nhất cho người sản xuất nông nghiệp.
+
+Theo lãnh đạo Bộ NN-PTNT, cơ sở dữ liệu là tiền đề để sản xuất và đưa nông sản vào thị trường tiêu thụ. Bởi, khi các hệ thống dữ liệu lớn được số hoá theo tiêu chí đúng - đủ - sạch, người nông dân, doanh nghiệp, các nhà hoạch định chiến lược sẽ có cái nhìn tổng quan và chính xác hơn. Từ đó, đưa ra dự báo về thị trường tiêu thụ, về giá cả hàng hoá làm căn cứ để người nông dân và doanh nghiệp có kế hoạch sản xuất phù hợp.
+
+Hải Phòng khai trương Hệ thống quản lý dữ liệu nông sản Hải Phòng vừa ký kết thỏa thuận hợp tác và Khai trương Hệ thống quản lý dữ liệu nông sản.
+
+Hải Dương và nhóm PV, BTV

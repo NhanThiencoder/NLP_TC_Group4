@@ -1,0 +1,15 @@
+Sau vài dự đoán, máy tính lượng tử đang tăng tốc phát triển nhanh chóng với nhiều ứng dụng thực tế và đột phá khoa học có thể diễn ra trong vòng vài năm tới thay vì hàng thập kỷ.
+
+Chip máy tính lượng tử Majorana 1 của Microsoft. Ảnh: Reuters
+
+Các ông lớn công nghệ, công ty khởi nghiệp, ngân hàng và hãng dược phẩm ở Mỹ đang rót tiền đầu tư vào công nghệ máy tính lượng tử, theo AFP. Trong khi máy tính cổ điển dựa vào bit chỉ có hai trạng thái 0 hoặc 1, máy tính lượng tử sử dụng qubit với số trạng thái khả thi vô hạn. Về lý thuyết, mỗi qubit thêm vào giúp tăng gấp đôi công suất tính toán, cho phép máy tính lượng tử phân tích vô số khả năng cùng lúc, chỉ mất vài phút để giải quyết vấn đề mà máy tính cổ điển có thể mất hàng triệu năm. Công ty Microsoft gần đây thậm chí giới thiệu công nghệ lượng tử dựa trên một trạng thái vật chất hoàn toàn mới, không phải chất rắn, lỏng, khí.
+
+Do khả năng tính toán theo cấp số nhân, John Levy, giám đốc điều hành nhà phát triển chip lai SEEQC, tin chắc tiềm năng của máy tính lượng tử vượt xa sức tưởng tượng hạn chế của con người, đặc biệt khi kết hợp với AI. Một số chuyên gia thậm chí coi máy tính lượng tử là lộ trình duy nhất dẫn tới AI siêu thông minh với năng lực nhận thức siêu việt. Công nghệ lượng tử sẽ thúc đẩy đáng kể phát hiện những phân tử mới, mở rộng bảng tuần hoàn ở trường. Điều này sẽ đem lại nhiều vật liệu mới, đột phá y khoa, mô hình tài chính phức tạp và pin siêu hiệu quả. Triết gia và nhà đầu tư Anders Indset dự đoán cuộc đua về hiệu suất sẽ biến đổi mọi thứ từ nông nghiệp tới giao thông.
+
+Hiện nay, các máy tính lượng tử đã vận hành. Hãng IBM cho biết những dịch vụ lượng tử của họ tạo ra doanh thu một tỷ USD dù ứng dụng hiện nay chủ yếu hạn chế ở nghiên cứu. Ban đầu, thị trường sẽ mở rộng thông qua máy chủ trang bị chip và hệ thống chuyên dụng. "Chúng ta đang chuyển từ giả thuyết lượng tử sang kinh tế lượng tử. Điều này giải thích tại sao những công ty hàng đầu như Amazon, Microsoft, và Google đang vào cuộc. Động lực là dẫn đầu trong ngành công nghiệp hàng nghìn tỷ USD", Indset cho biết.
+
+Những công ty lớn đang tham gia cuộc đua đi đầu về AI, cũng mạnh tay đầu tư nhằm giải quyết vấn đề lớn nhất của máy tính lượng tử là lỗi tính toán. Qubit đòi hỏi nhiệt độ dưới 0 độ C và cực kỳ nhạy với "nhiễu" môi trường như rung động, nhiệt, tác động điện từ, gây ra lỗi tính toán. Chip lượng tử Willow mới của Google và nguyên mẫu bán dẫn Ocelot của Amazon hướng tới giảm đáng kể những lỗi này và chi phí.
+
+Mỹ và Trung Quốc đang cạnh tranh trong phát triển lượng tử, đặc biệt chính quyền Mỹ áp dụng hạn chế xuất khẩu công nghệ. Máy tính lượng tử cũng đặt ra những lo ngại về an ninh mạng. Do qubit có thể kiểm tra vô số cách kết hợp đồng thời, chúng có thể phá vỡ phương pháp mã hóa thông thường. Các cơ quan chính phủ Mỹ và công ty công nghệ như Apple đang phát triển phương pháp mã hóa chống lượng tử để chuẩn bị cho tình huống này.
+
+An Khang (Theo AFP)

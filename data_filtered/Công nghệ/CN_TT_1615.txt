@@ -1,0 +1,20 @@
+ Windows Service Pack 2: một lỗi bảo mật mới
+
+Mã độc hại sẽ lợi dụng lỗi bảo mật trong công cụ biên dịch hình ảnh WMF để tự động tải về và cài đặt phần mềm độc hại (malware). 
+
+WMF (Windows MetaFile) là một vectơ dựa trên định dạng hình ảnh được sử dụng bởi hệ điều hành của Microsoft. Tập tin SHIMGVW.DLL được nạp để biên dịch hình ảnh, bao hàm cả một lỗi bảo mật. Lỗi này sẽ mở “cửa” cho một hình WMF hư hại, điều khiển vận hành đoạn mã và có khả năng làm cho cả một hệ thống bị nguy hại. 
+
+Microsoft đã từng vá lỗi bảo mật cho WMF và EMF vào tháng 11 vừa qua. Lỗi đó ảnh hưởng đến các phiên bản của hệ điều hành Windows 2000, XP, Windows Server 2003. 
+
+“Chúng tôi có một vài website mà chúng tôi tìm thấy với lỗi bảo mật này. Mỗi website khác nhau tải về spyware khác nhau. Chúng tôi chỉ nắm bắt được một vài website sử dụng lỗi bảo mật mới nhưng bây giờ đã thấy có khá nhiều sử dụng lỗi này để cài đặt những tài nguyên xấu. Những tập tin hình ảnh này có thể được hiệu chỉnh rất dễ dàng để tải bất kỳ phần mềm độc hại hay virus nào”, Alex Eckelberry, CEO của Sunbelt Software cho biết. 
+
+Mika Pehkonen từ hãng bảo mật F-Secure cảnh báo rằng: “Ngay bây giờ, toàn bộ hệ thống sử dụng phiên bản Windows XP Service Pack 2 đều bị ảnh hưởng bởi lỗi bảo mật này và hiện tại chưa có bản vá lỗi”. F-Secure thực hiện dò tìm các tập tin WMF nguy hại như W32/PFV-Exploit.A, .B và .C. 
+
+“Người dùng sẽ bị gây nguy hại nếu truy cập vào một website có tập tin hình ảnh chứa lỗi bảo mật. Người dùng Internet Explorer có thể tự động bị ảnh hưởng. Còn người dùng FireFox thì sẽ bị ảnh hưởng nếu họ quyết định nạp hay tải tập tin hình ảnh”, Pehkonen cho biết thêm. 
+
+Microsoft đã được thông báo lỗi trên và có thể sẽ phát hành bản vá lỗi khẩn cấp, riêng biệt với phần vá lỗi bảo mật “Cập nhật thứ tư” của mình. Sunbelt và F-Secure đều đánh giá lỗi bảo mật này rất nghiêm trọng vì người dùng rất dễ bị nhiễm và hệ thống sẽ bị nguy hại ngay tức thời. 
+
+Thông tin về lỗi bảo mật này có thể tìm thấy tại đây . 
+
+
+

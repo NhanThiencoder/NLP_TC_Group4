@@ -1,0 +1,33 @@
+Bộ luật Hình sự 2015 sẽ có hiệu lực từ ngày 1/7 tới, trong đó Điều 292 quy định người nào cung cấp các dịch vụ như sàn giao dịch thương mại điện tử, trung gian thanh toán điện tử, trò chơi điện tử, và các loại dịch vụ khác trên mạng máy tính, mạng viễn thông mà không có giấy phép hoặc không đúng nội dung được cấp phép thì có khả năng bị truy tố hình sự.
+
+Người đó có thể bị phạt mức cao nhất đến 5 tỉ đồng và bị phạt tù đến 5 năm, trong trường hợp có thu lợi bất chính 500 triệu đồng trở lên hoặc có doanh thu 5 tỉ đồng trở lên.
+
+Điều luật này đang gây ra tranh cãi trong bối cảnh trước đó, cộng đồng doanh nghiệp đánh giá cao việc sửa đổi Bộ luật Hình sự vì đã bỏ tội kinh doanh trái phép, từng là nguồn cơn của nhiều vụ án lẽ ra không đáng phải hình sự hóa, từ đó, gỡ bỏ được một rào cản rất lớn với hoạt động kinh doanh, tạo môi trường an toàn hơn cho doanh nghiệp hoạt động.
+
+Ảnh hưởng niềm tin khởi nghiệp?
+
+Nay có ý kiến cho rằng Điều 292 về bản chất không khác gì tội kinh doanh trái phép đã được bãi bỏ.
+
+Theo sự phân tích của luật sư Trần Đức Hoàng, Điều 292 có thể gây khó khăn cho hầu hết startup tại Việt Nam, vì đại đa số startup Việt Nam và trên toàn thế giới là tập trung vào công nghệ thông tin và cung cấp các sản phẩm, dịch vụ kỹ thuật số trên mạng máy tính và mạng viễn thông.
+
+"Kinh doanh, cung cấp dịch vụ trên mạng Intenet là hướng đi phát triển bắt buộc của cả thế giới, không chỉ nói riêng Việt Nam. Việc bỏ hình sự hóa kinh doanh trái phép đối với hầu hết những ngành nghề cổ điển, truyền thống, nhưng vẫn hình sự hóa đối với những lĩnh vực công nghệ mới là một bước đi lùi”, ông viết.
+
+Luật sư Kiều Anh Vũ, Văn phòng luật sư Lê Nguyễn phân tích, những lĩnh vực kinh doanh được liệt kê tại khoản 1 Điều 292 là những lĩnh vực kinh doanh có điều kiện nên bất kỳ cá nhân, tổ chức nào kinh doanh dịch vụ đó đều phải đáp ứng điều kiện luật định, phải xin giấy phép theo quy định, nhưng quy định tại Điều 292 làm cho giấy phép trở thành trở nên rất "ghê gớm”.
+
+Theo ông Nguyễn Văn Tuấn, Phó Tổng giám đốc Tập đoàn VC Corp, điều luật này khiến người tiếp nhận hiểu rằng từ 1/7 tới, nếu ai đó mở website rao vặt, forum có phần rao vặt, viết game tung lên các appstore nhằm kiếm tiền quảng cáo như Flappy Bird, hay ứng dụng kiểu Uber... mà chưa xin phép thì có nguy cơ bị bỏ tù và tịch thu toàn bộ tài sản. Do đó, theo ông, điều luật này có thể làm ảnh hưởng lớn đến cộng đồng start-up, khiến họ nảy sinh tâm lý sẽ ưu tiên chọn những nơi khác để khởi nghiệp như Singapore, Mỹ hoặc Hong Kong (Trung Quốc).
+
+Cách hiểu khác
+
+Tuy nhiên, trao đổi với Báo điện tử Chính phủ, Thứ trưởng Bộ Kế hoạch và Đầu tư Đặng Huy Đông, thành viên Tổ công tác thi hành Luật Doanh nghiệp, Luật Đầu tư cho biết các lĩnh vực được nhắc tới trong Điều 292 đều là các ngành nghề kinh doanh có điều kiện, do đó phải được cấp phép theo quy định. Nếu người kinh doanh thực hiện đúng các quy định thì sẽ được hoạt động bình thường. Thứ trưởng cho rằng Bộ luật quy định như vậy nhằm bảo vệ người tiêu dùng, đặc biệt khỏi các hành vi lừa đảo trên mạng.
+
+Luật sư Trương Thanh Đức, Chủ tịch Hội đồng Thành viên Công ty Luật Basico lại cho rằng trước mắt chưa cần quá lo lắng với điều khoản trên. Theo ông, việc viết phần mềm trò chơi điện tử và đưa lên các trang web để các đơn vị khai thác là hợp pháp, hợp lệ, cũng giống như các nhà soạn nhạc, viết văn… nên chỉ phải nộp thuế thu nhập cá nhân và các nghĩa vụ về quyền tác giả. Ông cho rằng, đây không phải là kinh doanh.
+
+"Nếu mở trang web bán hàng, cung cấp các giải pháp công nghệ thì mới cần đăng ký. Còn việc tạo ra sản phẩm, cung cấp qua những nhà cung cấp dịch vụ hợp pháp thì không bị điều chỉnh bởi quy định này. Giả sử nếu một người viết game như Nguyễn Hà Đông lập ra công ty để kinh doanh và đưa sản phẩm đó lên cung cấp dịch vụ hoặc một cá nhân hoạt động có tính chất như một công ty, khai thác mạng để bán hàng thì sẽ bị quy định bởi Điều 292 nói trên và phải xin giấy phép", ông Đức lý giải.
+
+Luật sư Lê Thiệp (Trưởng Văn phòng Luật sư Toàn Cầu, Hà Nội) cũng cho rằng những người như Nguyễn Hà Đông là người viết phần mềm hay lập trình chương trình máy tính chứ không phải là người kinh doanh dịch vụ. "Trong trường hợp của Đông thì không cần phải xin phép, chỉ đơn vị sử dụng các ứng dụng này vào mục đích kinh doanh mới phải xin phép mà thôi. Nhà nước khuyến khích với các tự do sáng tạo, còn nếu Nguyễn Hà Đông hay ai đó có thu nhập hay hưởng lợi từ việc bán bản quyền thì anh phải nộp thuế rõ ràng".
+
+Công ty Luật Trí Minh thì phân tích: Theo đúng quy định, chỉ khi nào người cung cấp dịch vụ mà chưa xin phép hoặc không đúng nội dung đã được cấp phép thì mới thuộc phạm vi xử lý của Điều 292. Vậy nên nếu Nguyễn Hà Đông nói riêng và cộng đồng những nhà lập trình trò chơi điện tử tuân theo đúng quy định của pháp luật thì hoàn toàn không có vấn đề gì xảy ra. Hơn nữa, chỉ những cá nhân, đơn vị sử dụng những ứng dụng này với mục đích kinh doanh mà chưa xin phép mới bị xử lý, còn đối với những nhà lập trình thì họ chỉ cần đăng ký bản quyền đối với sản phẩm sáng tạo của họ, nộp thuế dựa theo thu nhập hay hưởng lợi từ bản quyền
+
+Cũng theo Công ty này, mục đích của Điều 292 chính là bảo vệ quyền và lợi ích hợp pháp của chính người sử dụng các dịch vụ này, chống thất thoát một lượng lớn thuế từ các hoạt động đó. Điều 292 này có mục đích là nhắm vào những đơn vị, những người: Cung cấp một trong các dịch vụ trên mạng máy tính, mạng viễn thông không có giấy phép hoặc không đúng nội dung được cấp phép, tức là đã kinh doanh sản phẩm trực tuyến nhưng không đăng ký với Bộ Công Thương, với đơn vị thuế và như vậy rõ ràng có dấu hiệu trốn thuế. Còn lại, với những người trực tiếp sáng tạo sản phẩm thì không bị ảnh hưởng trực tiếp trừ khi những người đó tiến hành thương mại hóa sản phẩm.
+
+Tuy vậy, Luật sư Trương Thanh Đức cho rằng Điều 292 trong Bộ Luật Hình sự 2015 có thể dẫn đến các cách hiểu khác nhau. Do đó, theo vị luật sư cần có những văn bản dưới luật để làm rõ những nội dung này, tránh dẫn đến những cách hiểu và xử lý khác nhau dẫn đến việc thực thi nhầm lẫn.

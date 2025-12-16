@@ -1,0 +1,76 @@
+
+Viettel Solutions đã bắt đầu ứng dụng và tích hợp A.I trong nội bộ như thế nào?
+
+Hành trình ứng dụng trí tuệ nhân tạo không bắt đầu từ những khái niệm xa vời, mà từ chính những vướng mắc trong công việc hằng ngày. Trước đây, một nhân viên vận hành có thể mất hàng giờ để đọc và tra cứu tài liệu. Giờ đây, với trợ lý A.I nội bộ, họ chỉ cần nhập một câu hỏi - câu trả lời xuất hiện trong vài giây.
+
+Những cải tiến nhỏ ấy lại mang đến thay đổi lớn: công nghệ không còn là khái niệm ‘cao siêu’, mà trở thành người bạn đồng hành nâng cao hiệu quả làm việc mỗi ngày.
+
+Chúng tôi cũng không ngừng tích hợp các công nghệ A.I vào quy trình vận hành và phát triển sản phẩm, nhằm mang đến cho thị trường những giải pháp công nghệ số thiết thực và hiệu quả hơn.
+
+Từ thực tiễn triển khai, chúng tôi nhận thấy: Ứng dụng A.I không chỉ là câu chuyện của công nghệ, mà là hành trình thay đổi tư duy con người. Để A.I thực sự phát huy giá trị, doanh nghiệp cần bắt đầu từ ‘nỗi đau’ thật của mình - những vấn đề nhỏ nhưng chạm đúng nhu cầu.
+
+Đó là bài toán quản lý quy trình kinh doanh sản phẩm đến chăm sóc khách hàng phức tạp, đòi hỏi tuân thủ chặt chẽ. Bắt đầu từ đây, A.I đã giúp giảm 30-50% tỉ lệ vi phạm trong công tác vận hành. Một minh chứng rõ ràng rằng, khi công nghệ được áp dụng đúng chỗ, giá trị tạo ra là thực chất và bền vững.
+
+Chúng tôi nhận thấy rằng ứng dụng A.I hiệu quả không nằm ở việc chạy theo xu hướng, mà ở việc chọn đúng bài toán của chính mình. Doanh nghiệp cần bắt đầu từ những vấn đề thật sự ‘nhức nhối’ - nơi công nghệ có thể tạo ra thay đổi rõ ràng nhất.
+
+Thách thức lớn nhất khi áp dụng A.I là gì?
+
+Về nội tại, rào cản lớn nhất khi áp dụng A.I là con người và thói quen. Bởi dù công nghệ có tiên tiến đến đâu, nếu con người không sẵn sàng đón nhận, không chủ động học hỏi và thay đổi, quá trình chuyển đổi sẽ luôn chậm lại. Là đơn vị tập trung vào phát triển ứng dụng hơn nghiên cứu học thuật, chúng tôi hiểu rằng chìa khóa thành công nằm ở việc xây dựng một đội ngũ dám thay đổi - từ tư duy, thói quen đến cách làm việc.
+
+Bên cạnh yếu tố con người, dữ liệu cũng là rào cản lớn khi triển khai các bài toán A.I. Nhiều người nghĩ A.I có thể làm được mọi thứ, nhưng A.I chỉ phát huy sức mạnh khi có dữ liệu chất lượng - đúng, đủ, sạch, sống. Nếu dữ liệu sai, kết quả cũng sai; nếu dữ liệu thiếu, mô hình sẽ không thể tổng quát.
+
+Chúng tôi đã biến thách thức này thành lợi thế - nền tảng vững chắc để A.I thực sự tạo giá trị và hiệu quả bền vững.
+
+Trên thực tế, AI đã hiện diện trong các sản phẩm của Viettel Solutions từ nhiều năm trước - trong hầu hết các lĩnh vực trọng điểm, từ giao thông, dầu khí, giáo dục, y tế đến chính quyền và doanh nghiệp. Ở giai đoạn hiện nay, AI được đưa vào ở cấp độ "thông minh hơn", trở thành yếu tố then chốt giúp sản phẩm tạo ra khác biệt rõ nét trên thị trường.
+
+A.I được xác định là một trụ cột trong chiến lược giai đoạn 2026-2030 của Tập đoàn và Tổng Công ty. Để hiện thực hóa tầm nhìn đó, chúng tôi đầu tư vào hai yếu tố cốt lõi: tài nguyên và con người.
+
+Thứ nhất, về tài nguyên, Viettel đã đầu tư hạ tầng phần cứng mạnh mẽ với hàng nghìn GPU, tạo nền tảng tính toán khổng lồ phục vụ cho việc huấn luyện và vận hành các mô hình A.I quy mô lớn.
+
+Thứ hai, về con người, chúng tôi đặt mục tiêu trong 5 năm tới sẽ xây dựng đội ngũ hàng trăm kỹ sư A.I chuyên sâu, làm chủ toàn bộ chuỗi giá trị từ nghiên cứu, phát triển đến triển khai.
+
+Những khoản đầu tư này không chỉ thể hiện quyết tâm chiến lược, mà còn khẳng định khát vọng trong hành trình đưa A.I trở thành động lực then chốt cho tăng trưởng và đổi mới sáng tạo.
+
+Bên cạnh đầu tư nội tại, cơ hội hợp tác với các Big Tech như NVIDIA, Qualcomm… để nâng cao năng lực A.I như thế nào?
+
+Bên cạnh đầu tư nội tại, chúng tôi chủ động hợp tác với các Big Tech như NVIDIA, Qualcomm... để nâng cao năng lực A.I, tiếp cận công nghệ lõi và tri thức tiên tiến nhất, thậm chí là những công nghệ còn trong phòng thí nghiệm, qua đó rút ngắn đáng kể quá trình nghiên cứu - phát triển.
+
+Từ các đối tác lớn, chúng tôi học được không chỉ thành công mà cả bài học từ thất bại, giúp lựa chọn đúng bài toán và hướng đi phù hợp cho A.I tại Việt Nam. Đồng thời, hợp tác với Big Tech còn mở rộng cơ hội ra thị trường quốc tế, đưa các giải pháp ‘Make in Vietnam’ vươn tầm toàn cầu.
+
+Điều gì tạo nên sự khác biệt và lợi thế cạnh tranh của Viettel Solutions so với các công ty khác trên thị trường?
+
+Điều tạo nên lợi thế khác biệt chính là sức mạnh nội tại - văn hóa doanh nghiệp với 8 giá trị cốt lõi, trong đó ‘Sáng tạo là sức sống’ và tinh thần luôn tiên phong đổi mới giúp chúng tôi sẵn sàng đón nhận kỷ nguyên A.I.
+
+Đặc biệt, chúng tôi có tính hệ thống và tinh thần hợp tác cao với giá trị văn hóa ‘Kết hợp Đông - Tây’. Điều này giúp Viettel luôn sẵn sàng hợp tác, đổi mới và học tập không ngừng.
+
+Thứ hai, chúng tôi có cơ hội lớn khi được Đảng, Nhà nước tin cậy giao các dự án xây dựng nhiều cơ sở dữ liệu. Gốc rễ của A.I là dữ liệu, và khi dữ liệu được làm tốt, cơ hội ứng dụng A.I sẽ mở rộng. Nhờ được giao triển khai nhiều cơ sở dữ liệu quốc gia, chúng tôi có điều kiện xây dựng dữ liệu sạch và chuẩn ngay từ đầu, tạo nền tảng vững chắc cho ứng dụng A.I.
+
+Thứ ba, Viettel Solutions, cũng như Viettel, là một trong số ít công ty ở Việt Nam đầu tư lớn vào hạ tầng GPU. Nhờ vậy, chúng tôi có năng lực tính toán mạnh, nguồn dữ liệu lớn và nội lực con người vững vàng, tạo điều kiện để Viettel Solutions cạnh tranh hiệu quả trong kỷ nguyên trí tuệ nhân tạo.
+
+
+
+
+
+Viettel Solutions đã mở rộng ứng dụng AI ra bên ngoài xã hội như thế nào để kiến tạo chuyển đổi số?
+
+Viettel Solutions triển khai AI trong hầu hết các lĩnh vực trọng điểm, từ giao thông, dầu khí, giáo dục, y tế đến chính quyền và doanh nghiệp. Chúng tôi không chạy theo những bước đột phá ngắn hạn mà hướng tới mục tiêu “AI phổ cập” – ứng dụng rộng rãi, nhanh và an toàn.
+
+Chúng tôi hướng tới một môi trường ứng dụng AI nhanh và an toàn, thay vì chạy theo các bài toán gây tiếng vang. Trong khi các bài toán mang tính bùng nổ chỉ phục vụ một nhóm nhỏ, chúng tôi muốn đưa AI đến với mọi khách hàng ở nhiều lĩnh vực, từ cơ quan chính quyền đến doanh nghiệp, cũng như trong chính nội bộ của Viettel Solutions.
+
+Làm thế nào để đảm bảo tính an toàn và chính xác của ứng dụng A.I, tránh các ‘bẫy’ sai sót và lộ lọt dữ liệu?
+
+Chúng tôi hướng tới phát triển những hệ thống GenA.I ‘lai’, kết hợp sức mạnh công nghệ mở với nguồn dữ liệu nội bộ đã được kiểm chứng. Khi người dùng truy vấn, hệ thống sẽ ưu tiên khai thác dữ liệu trong môi trường nội bộ - giúp đảm bảo độ chính xác, tính phù hợp và an toàn thông tin.
+
+Bên cạnh đó, chúng tôi luôn đề cao yếu tố ‘con người làm chủ công nghệ’. Đội ngũ kỹ sư được khuyến khích tư duy phản biện, không phụ thuộc hoàn toàn vào A.I, mà biết phân tích, kiểm chứng và sáng tạo trên nền tảng tri thức do A.I mang lại.
+
+Chúng tôi tập trung phát triển A.I chuyên ngành, chuyên sâu, thay vì các A.I dạng ‘biết tuốt’.
+
+Ví dụ như, trong ngành năng lượng, chúng tôi nghiên cứu các bài toán đặc thù để tối ưu chi phí thăm dò trữ lượng. Trong y tế, A.I sẽ hỗ trợ chẩn đoán, giúp vùng sâu vùng xa tiếp cận dịch vụ dễ dàng hơn.
+
+Đồng thời, Viettel xây dựng đội ngũ làm chủ Gen A.I và A.I Agent, tạo nền tảng cho các giải pháp sáng tạo. Định hướng này không chỉ giúp Viettel tiên phong trong ứng dụng A.I mà còn giữ vững bản sắc và giá trị cốt lõi giữa bối cảnh chuyển đổi số toàn cầu.
+
+Ngay từ đầu chúng tôi đã truyền thông tới với cán bộ nhân viên: A.I là công cụ, không phải đối thủ.
+
+Những lập trình viên làm chủ A.I sẽ giao các công việc đơn giản cho máy, tập trung vào thiết kế hệ thống lớn, chịu tải và xử lý lỗi, nâng cao năng lực bản thân khi được giao việc mới, việc khó. Điều này đòi hỏi mỗi người phải không ngừng học hỏi và phát triển để không bị bỏ lại phía sau.
+
+Dám thử, dám sai là một tinh thần đặc trưng của văn hóa Viettel. Nhưng chúng tôi không gọi đó là sai lầm, mà có câu nói: ‘Trưởng thành qua những thách thức và thất bại’. Thất bại sẽ bồi đắp cho thành công dài hơn. Vì vậy, chúng tôi luôn khuyến khích tìm tòi và thử nghiệm trong văn hóa của mình.

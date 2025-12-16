@@ -1,0 +1,57 @@
+Ngày 21/11, Google giới thiệu Nano Banana Pro (Gemini 3 Pro Image), mô hình tạo và chỉnh sửa hình ảnh tân tiến nhất, được xây dựng trên nền tảng Gemini 3 Pro. Để sử dụng, truy cập ứng dụng Gemini, chọn Tạo hình ảnh với chức năng Thinking.
+
+Mô hình có khả năng tạo hình ảnh chính xác hơn dựa trên khả năng lập luận nâng cao, hiểu biết về thế giới thực và thông tin theo thời gian thực (kết nối với Google Search) để tạo ra các hình minh họa hữu ích như infographic hoặc sơ đồ.
+
+Nano Banana Pro có thể tạo hình ảnh với phần chữ chính xác, dễ đọc bằng nhiều ngôn ngữ, đặc biệt xử lý được gần như triệt để lỗi sai chữ tiếng Việt.
+
+Hình ảnh do Nano Banana Pro tạo với prompt: Tạo một infographic minh họa cách pha cafe sữa đá Sài Gòn bằng tiếng Việt, lưu ý đúng chính tả.
+
+Mô hình cũng cho phép kết hợp tối đa 14 hình ảnh tham khảo và giữ tính nhất quán của tối đa 5 nhân vật trong một thiết kế.
+
+Ngoài ra, cung cấp các công cụ kiểm soát nâng cao như chỉnh sửa cục bộ, điều chỉnh góc máy, lấy nét, chỉnh màu và ánh sáng, với tùy chọn độ phân giải 2K và 4K.
+
+Nano Banana Pro được triển khai trong ứng dụng Gemini, Google Ads, Google Slides, Vids, Gemini API, Google AI Studio, Google Antigravity, Vertex AI và Flow cho các nhóm người dùng khác nhau (phổ thông, chuyên gia, lập trình viên, doanh nghiệp, nhà sáng tạo nội dung).
+
+Người dùng miễn phí được tạo ảnh bằng Nano Banana Pro với hạn mức nhất định, khi dùng hết, hệ thống chuyển về mô hình Nano Banana bản gốc. Người dùng đăng ký Google AI Plus, Pro và Ultra sẽ có hạn mức cao hơn.
+
+Mọi nội dung do công cụ của Google tạo ra đều được gắn dấu hiệu kỹ thuật số ẩn SynthID để dễ dàng xác định. Watermark Gemini sẽ được duy trì cho người dùng gói miễn phí và Google AI Pro, gỡ bỏ cho người dùng đăng ký gói Google AI Ultra.
+
+Ngay sau Nano Banana Pro được công bố, mô hình này đã trở thành đề tài bàn tán sôi nổi trên các diễn đàn và hội nhóm người dùng AI.
+
+Phần lớn những người dùng thử đều đánh giá cao mô hình này ở khả năng xử lý tiếng Việt đúng chính tả so với thế hệ trước đó. Ngoài ra, mô hình cũng “bám prompt” khá tốt, tạo chữ rõ ràng để cho kết quả đầu ra như ý muốn của người dùng.
+
+Nano Banana Pro đang được mọi người sử dụng cho nhiều mục đích khác nhau như tạo ảnh quảng cáo, thiết kế poster, dịch, tô màu, tạo infographic, chỉnh sửa hình ảnh nâng cao…
+
+Một số prompt để sử dụng với Nano Banana Pro:
+
+Tạo infographic
+
+Prompt: Tạo một infographic minh họa cách làm trà elaichi theo từng bước.
+
+Tạo hình ảnh kèm chữ
+
+Prompt: Tạo một hình ảnh thể hiện câu: “Một con chuột có thể ném được bao nhiêu gỗ nếu nó thật sự có thể ném gỗ?” và làm toàn bộ câu chữ từ những khúc gỗ mà chính con chuột đó đã “ném” ra.
+
+Prompt: Tạo 8 logo tối giản, mỗi logo là một từ mang tính biểu đạt. Thiết kế các chữ cái sao cho chúng truyền tải thông điệp hoặc âm thanh một cách trực quan, giúp thể hiện mạnh mẽ ý nghĩa của từng từ. Bố cục: dạng vector phẳng, toàn bộ logo màu đen trên nền trắng.
+
+Prompt: Dịch toàn bộ phần chữ tiếng Anh trên ba lon màu vàng và xanh sang tiếng Hàn, giữ nguyên mọi chi tiết còn lại.
+
+Tạo ra hình ảnh chất lượng cao với nhân vật nhất quán
+
+Prompt: Tạo một cảnh trung (medium shot) với 14 nhân vật lông xù đang ngồi chen chúc cạnh nhau trên một chiếc sofa vải màu be đã cũ và dưới sàn nhà. Tất cả đều nhìn thẳng về phía trước, xem một chiếc tivi cổ điển với khung gỗ, đặt trên một chiếc bàn gỗ thấp trước sofa. Căn phòng được chiếu sáng nhẹ, với ánh sáng ấm áp từ cửa sổ bên trái và ánh sáng từ màn hình tivi làm nổi bật gương mặt và kết cấu lông mềm của các nhân vật. Phía sau là một phòng khách ấm cúng, hơi bừa bộn, có tấm thảm bện, giá sách với những cuốn sách cũ và các chi tiết nội thất bếp theo phong cách mộc. Tổng thể mang lại cảm giác ấm áp, gần gũi và vui tươi.
+
+Prompt: Kết hợp những hình ảnh này thành một cảnh phim điện ảnh được sắp xếp hợp lý theo tỷ lệ khung hình 16:9, và thay bộ váy trên mannequin bằng chiếc váy trong ảnh.
+
+Prompt: Kết hợp các hình ảnh này thành một cảnh phim điện ảnh được sắp xếp hợp lý theo tỷ lệ khung hình 16:9.
+
+Prompt: Kết hợp trang phục với người mẫu và chú chó với bối cảnh cho sẵn.
+
+Kiểm soát chất lượng hình ảnh
+
+Prompt: Thay đổi thời tiết sang trời mưa
+
+Prompt: Biến cảnh này thành cảnh ban đêm.
+
+Prompt: Lấy nét vào những bông hoa.
+
+Prompt: Thay đổi ánh sáng của bức chân dung này thành ánh sáng chiếu từ bên trái, mềm và khuếch tán.

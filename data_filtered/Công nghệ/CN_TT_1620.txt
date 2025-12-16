@@ -1,0 +1,12 @@
+ Các chương trình chống Virus bắt kịp lỗ hổng WMF của Windows
+
+Trong một cuộc thử nghiệm được tiến hành bởi AV-Test, 206 các tập tin "độc" được đẩy qua các chương trình diệt Virus của một số hãng bảo mật nổi tiếng. Symantec và Mcafee nhận ra được tất cả các mã, trong khi đó Trend Micro bỏ qua 63 tập tin. Thử nghiệm này được công bố trên tạp chí CNET.news. 
+
+Một số chương trình của các hãng bảo mật nhỏ khác cũng nhận ra tất cả các đoạn mã nguy hiểm được đẩy qua như Sophos, Kaspersky, Computer Associates International, F-Secure và BitDefender. Bản thử nghiệm Windows OneCare mới của Microsoft cũng bảo vệ được máy tính trước các cuộc tấn công này. 
+
+AV-Test cũng thử nghiệm thêm với các chương trình như AVG và Clam AntiVirus, kết quả là AVG cho phép 59 đoạn mã đi qua, trong khi đó, Clam AntiVirus phát hiện và vô hiệu hầu hết các tập tin (chỉ còn một tập tin). 
+
+Tuy vậy, Microsoft nói rằng, họ không nhận thấy có nhiều cuộc tấn công vào khách hàng của mình, chính vì thế, Microsoft sẽ tung ra bản vá vào thứ ba tuần sau, đúng như kế hoạch từng tháng. Cho tới lúc đó, khách hàng có thể tự bảo vệ mình theo những chỉ dẫn của các hãng bảo mật khác. 
+
+
+

@@ -1,0 +1,41 @@
+Trước thực trạng các vụ lừa đảo tài chính ngày càng gia tăng, nhiều ngân hàng đã liên tục phát đi khuyến cáo không chia sẻ và hạn chế sử dụng mã OTP gửi qua tin nhắn SMS trong các giao dịch tài chính. Đây được xem là một trong những biện pháp nhằm giảm rủi ro bị chiếm đoạt tài khoản, đặc biệt trong bối cảnh các thủ đoạn lừa đảo ngày càng tinh vi.
+
+Vì sao mã OTP qua tin nhắn tiềm ẩn rủi ro?
+
+OTP (One-Time Password) là lớp bảo mật quan trọng trong các giao dịch ngân hàng điện tử, giúp xác thực người dùng khi đăng nhập hoặc thực hiện chuyển tiền. Tuy nhiên, OTP gửi qua tin nhắn SMS không còn được đánh giá là phương thức an toàn tuyệt đối.
+
+Theo các ngân hàng, tin nhắn SMS có thể bị đánh cắp thông qua nhiều hình thức như:
+
+- Chiếm quyền kiểm soát số điện thoại (SIM swap).
+
+- Cài đặt mã độc trên điện thoại để đọc trộm tin nhắn.
+
+- Giả mạo nhân viên ngân hàng, lừa khách hàng tự cung cấp mã OTP.
+
+Trong nhiều vụ việc, kẻ gian chỉ cần có được mã OTP là có thể nhanh chóng chiếm đoạt tiền trong tài khoản, bởi quá trình giao dịch thường diễn ra trong thời gian rất ngắn.
+
+Các ngân hàng cho biết, hiện nay các đối tượng lừa đảo thường không tấn công trực tiếp vào hệ thống ngân hàng, mà tập trung khai thác lỗ hổng từ phía người dùng. Chúng giả mạo tổng đài, nhân viên ngân hàng, cơ quan chức năng hoặc các tổ chức uy tín để tạo tâm lý hoảng loạn, từ đó yêu cầu khách hàng cung cấp mã OTP.
+
+Đáng chú ý, với sự hỗ trợ của trí tuệ nhân tạo, nhiều cuộc gọi lừa đảo có thể giả giọng người thật, khiến nạn nhân khó phân biệt thật – giả, đặc biệt là trong các tình huống cấp bách như "tài khoản bị khóa", "giao dịch bất thường" hay "cần xác minh khẩn cấp".
+
+Trước những rủi ro trên, nhiều ngân hàng đang khuyến khích khách hàng chuyển sang các hình thức xác thực thay thế OTP SMS, như: Xác thực sinh trắc học (vân tay, khuôn mặt); Ứng dụng tạo mã OTP nội bộ (Soft OTP); Xác nhận giao dịch trực tiếp trên ứng dụng ngân hàng
+
+Các phương thức này được đánh giá có mức độ bảo mật cao hơn, bởi mã xác thực chỉ hiển thị trong ứng dụng ngân hàng chính thức và không thể bị chuyển tiếp qua tin nhắn.
+
+Người dùng cần làm gì để bảo vệ tài khoản?
+
+Bên cạnh các biện pháp từ phía ngân hàng, người dùng cũng được khuyến cáo chủ động nâng cao cảnh giác. Một số lưu ý quan trọng gồm:
+
+- Tuyệt đối không cung cấp mã OTP cho bất kỳ ai, kể cả người tự xưng là nhân viên ngân hàng.
+
+- Không bấm vào các đường link lạ được gửi qua tin nhắn, email hoặc mạng xã hội.
+
+- Chỉ cài đặt ứng dụng ngân hàng từ nguồn chính thức.
+
+- Thường xuyên cập nhật hệ điều hành và phần mềm bảo mật trên điện thoại.
+
+Ngân hàng cũng nhấn mạnh rằng không bao giờ yêu cầu khách hàng cung cấp mã OTP qua điện thoại, tin nhắn hay email. Trong trường hợp nghi ngờ bị lộ thông tin, khách hàng cần liên hệ ngay với ngân hàng để khóa tài khoản và được hỗ trợ kịp thời.
+
+Trong bối cảnh tội phạm công nghệ cao gia tăng, việc giảm dần phụ thuộc vào OTP SMS được xem là xu hướng tất yếu của ngành ngân hàng. Các tổ chức tín dụng đang từng bước nâng cấp hệ thống bảo mật, đồng thời tăng cường truyền thông để người dùng hiểu rõ rủi ro và thay đổi thói quen sử dụng.
+
+Theo các chuyên gia, ý thức của người dùng vẫn là yếu tố then chốt trong việc bảo vệ tài sản. Dù công nghệ bảo mật có nâng cấp đến đâu, chỉ một lần chia sẻ mã OTP cũng có thể khiến toàn bộ tài khoản bị chiếm đoạt trong vài phút.

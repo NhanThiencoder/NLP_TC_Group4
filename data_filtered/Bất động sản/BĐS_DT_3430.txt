@@ -1,0 +1,4 @@
+
+Camera AI - "Mắt thần" giao thông
+
+Hệ thống camera AI chuyên dụng của Hà Nội giám sát xử lý vi phạm hiện đại, có độ phân giải cao 8 megapixel, tốc độ khung hình lên đến 50 khung hình/giây, phát hiện tối đa 28 loại hành vi vi phạm.

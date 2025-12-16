@@ -1,0 +1,49 @@
+Title: Airbus và cú sốc A320 gặp lỗi kép, vốn hóa hãng bốc hơi hàng tỷ USD
+
+Ngành hàng không thế giới đang trải qua những ngày cuối năm không mấy êm ả. Trong khi Boeing vẫn đang chật vật tìm lại vị thế thì đối thủ lớn nhất của họ - Airbus - lại vừa trải qua một tuần lễ "họa vô đơn chí".
+
+Chỉ trong vòng vài ngày, "con gà đẻ trứng vàng" là dòng máy bay A320 liên tiếp gặp sự cố, từ phần mềm nhạy cảm với bức xạ mặt trời cho đến lỗi thân vỏ kim loại, khiến giới đầu tư hoảng sợ và đặt dấu hỏi lớn về khả năng cán đích năm 2025 của hãng.
+
+"Họa vô đơn chí" khi lỗi chồng thêm lỗi
+
+Đầu tuần này, Airbus buộc phải xác nhận một thông tin không mấy vui vẻ. Hãng đã phát hiện vấn đề chất lượng công nghiệp liên quan đến các tấm kim loại trên dòng máy bay A320. Đáng nói, thông tin này ập đến chỉ chưa đầy 72 giờ sau khi hãng vừa phát đi cảnh báo khẩn cấp về lỗi phần mềm trên cùng dòng máy bay này.
+
+Cụ thể, sự cố mới nằm ở các tấm kim loại trên mái buồng lái và hai bên thân máy bay khu vực cửa trước. Theo đại diện của Airbus, đây là "sự cố chất lượng từ nhà cung cấp" - một cụm từ quen thuộc nhưng luôn gây ám ảnh trong chuỗi cung ứng hàng không phức tạp.
+
+Dù hãng từ chối nêu tên nhà cung cấp cụ thể, nguồn tin từ Reuters cho biết cấu trúc máy bay A320 là sự kết hợp của nhiều nguồn. Phần trước chủ yếu làm tại Pháp, phần sau tại Đức, và các tấm thân trên thường do nội bộ sản xuất. Việc xác định lỗi đến từ đâu trong mạng lưới chằng chịt này là một thách thức không nhỏ.
+
+Chưa kịp "hoàn hồn" sau đợt triệu hồi phần mềm khổng lồ cuối tuần qua, Airbus tiếp tục đối mặt với rắc rối mới từ các tấm kim loại thân vỏ trên dòng "gà đẻ trứng vàng" A320 (Ảnh: AP).
+
+Điều may mắn duy nhất trong "cơn bão" này là chưa có rủi ro an toàn tức thời nào được ghi nhận đối với các máy bay đang khai thác. Vấn đề chủ yếu liên quan đến tuổi thọ của bộ phận và quy trình kiểm soát chất lượng đầu vào. Tuy nhiên, với khoảng 50 máy bay (theo ước tính của nguồn tin nội bộ) bị ảnh hưởng trực tiếp, lịch trình bàn giao chắc chắn sẽ bị xáo trộn.
+
+Sự cố phần cứng trên như "giọt nước tràn ly" bởi trước đó, vào thứ sáu tuần trước, Airbus đã phải thực hiện một cuộc "đại phẫu" phần mềm chưa từng có trong lịch sử 55 năm của hãng.
+
+Lỗi phần mềm buồng lái có thể khiến máy bay hạ mũi đột ngột khi gặp bức xạ mặt trời cao đã buộc các cơ quan quản lý ban hành chỉ thị khẩn cấp. Hơn 6.000 chiếc A320, chiếm quá nửa đội bay đang hoạt động trên toàn cầu, phải cập nhật bản vá ngay lập tức.
+
+Dù đến thứ hai (ngày 1/12), Airbus tuyên bố đã xử lý xong phần lớn và chỉ còn dưới 100 chiếc cần can thiệp phần cứng sâu hơn, nhưng dư chấn tâm lý để lại cho thị trường là vô cùng lớn.
+
+Cú "sảy chân" tỷ USD và nỗi ám ảnh mang tên chất lượng
+
+Phản ứng của thị trường tài chính tàn khốc và tức thì. Ngay khi tin tức về lỗi tấm kim loại lan ra, cổ phiếu của Airbus niêm yết tại Paris đã có lúc giảm tới 11% trong phiên giao dịch đầu tuần, rơi xuống đáy bảng xếp hạng chỉ số Stoxx 600 của châu Âu. Dù sau đó có sự hồi phục nhẹ, mức giảm chốt phiên gần 6% cũng đủ để thổi bay hàng tỷ USD giá trị vốn hóa của tập đoàn này chỉ trong vài giờ.
+
+Tại sao thị trường lại phản ứng thái quá đến vậy với một lỗi kỹ thuật được cho là "không rủi ro an toàn tức thời"?
+
+Câu trả lời nằm ở "bóng ma" Boeing. Ngành hàng không thế giới vẫn chưa hết bàng hoàng sau chuỗi năm tháng khủng hoảng chất lượng của đối thủ Boeing, từ dòng 737 MAX cho đến các vấn đề thân vỏ gần đây. Giới đầu tư hiện tại cực kỳ nhạy cảm với bất kỳ dấu hiệu nào cho thấy sự lỏng lẻo trong quy trình kiểm soát chất lượng (QC). Khi Airbus vốn đang được xem là bến đỗ an toàn và ổn định hơn Boeing cũng gặp lỗi liên tiếp, niềm tin bị lung lay dữ dội.
+
+Không chỉ Airbus thiệt hại, "cơn đau" này còn lan sang cả hệ sinh thái liên quan. Cổ phiếu của các đối tác và khách hàng lớn như Lufthansa, easyJet cũng chao đảo. Thales, nhà cung cấp hệ thống phần mềm bay cho Airbus, cũng ghi nhận mức giảm 2%. Tại Mỹ, cổ phiếu của các hãng hàng không sử dụng nhiều A320 như American Airlines cũng chịu áp lực giảm điểm.
+
+Điều này cho thấy sự phụ thuộc cực lớn của ngành hàng không toàn cầu vào dòng máy bay thân hẹp A320 - dòng máy bay bán chạy nhất lịch sử và là "xương sống" của các mạng bay ngắn, đặc biệt tại thị trường châu Á.
+
+Cổ phiếu của Airbus niêm yết tại Paris đã có lúc giảm sâu tới 10-11% trong phiên giao dịch đầu tuần, thổi bay hàng tỷ USD giá trị vốn hóa thị trường (Ảnh: AFP).
+
+Cuộc đua nước rút tháng 12: Nhiệm vụ bất khả thi?
+
+Thời điểm xảy ra sự cố không thể tồi tệ hơn đối với Airbus. Hãng đang bước vào tháng 12 - tháng quan trọng nhất trong năm tài chính với áp lực bàn giao khổng lồ.
+
+Theo số liệu, tính đến cuối tháng 11, Airbus mới chỉ bàn giao được khoảng 657 máy bay. Trong khi đó, mục tiêu mà hãng cam kết với các cổ đông là khoảng 820 chiếc cho cả năm 2025. Phép toán đơn giản cho thấy: Airbus cần phải bàn giao hơn 160 máy bay chỉ trong tháng 12. Đây là con số mà nhà phân tích Rob Stallard gọi là "phi thường", nếu không muốn nói là không tưởng trong bối cảnh chuỗi cung ứng vẫn còn đứt gãy.
+
+A320 đóng vai trò then chốt trong kế hoạch này. Kể từ sau đại dịch, Airbus đã dồn toàn lực để tăng sản lượng dòng máy bay này nhằm giải quyết hơn 7.100 đơn hàng tồn đọng. Bất kỳ sự chậm trễ nào, dù là nhỏ nhất từ việc thay thế một tấm kim loại hay cập nhật phần mềm, đều có thể gây ra hiệu ứng domino, làm trật bánh cả kế hoạch năm.
+
+Một chuyên gia hàng không từ Vertical Research Partners nhận định đầy lo ngại: "Việc đạt chỉ tiêu giao hàng năm 2025 vốn đã là một thách thức cực đại với Airbus. Các sự cố thân máy bay xuất hiện lúc này thực sự là đòn giáng chí mạng vào thời điểm tồi tệ nhất".
+
+Mặc dù các nhà phân tích như Chloe Lemarie của Jefferies hay Rob Morris vẫn giữ một chút lạc quan rằng Airbus có thể đạt con số khoảng 800 chiếc - mức có thể chấp nhận được để gọi là "thành công" - nhưng rủi ro không cán đích là hiện hữu. Sự cố lần này không chỉ là vấn đề kỹ thuật, nó là bài toán quản trị rủi ro và quản lý chuỗi cung ứng mà Airbus buộc phải giải quyết nếu muốn duy trì vị thế dẫn đầu trước một Boeing đang nỗ lực hồi sinh.

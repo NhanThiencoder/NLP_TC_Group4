@@ -1,0 +1,19 @@
+Phần LanCác nhà khoa học phát triển loại hydrogel tự phục hồi, mềm dẻo và bền chắc, có tiềm năng ứng dụng lớn trong y tế, robot mềm, da nhân tạo.
+
+Mô phỏng hydrogel hình nhẫn hình thành qua quá trình tự phục hồi. Ảnh: Margot Lepetit/Đại học Aalto
+
+Có rất nhiều loại gel khác nhau, ví dụ như gel trong các sản phẩm chăm sóc tóc, thực phẩm, thậm chí trong cơ thể người. Tuy nhiên, da người có những đặc tính độc đáo rất khó sao chép. Da kết hợp cả sức mạnh và tính mềm dẻo, đồng thời có khả năng tự chữa lành ấn tượng trong vòng 24 giờ sau khi bị thương. Các loại gel tổng hợp nhân tạo thường chỉ đạt được một trong những đặc tính đó.
+
+Trong nghiên cứu mới, xuất bản trên tạp chí Nature Materials, nhóm nhà khoa học từ Đại học Aalto (Phần Lan) và Đại học Bayreuth (Đức) đã vượt qua những hạn chế này, đạt được cột mốc quan trọng trong khoa học vật liệu, Interesting Engineering hôm 7/3 đưa tin. Họ phát triển một loại hydrogel tự phục hồi, mềm dẻo và bền chắc, mở ra tiềm năng ứng dụng trong nhiều lĩnh vực như y tế, robot mềm, da nhân tạo và phân phối thuốc. Hydrogel là gel với nước là thành phần chính.
+
+Nhóm nghiên cứu sử dụng các tấm nano đất sét siêu mỏng. Những tấm này tạo ra một mạng lưới polymer rối và dày, giúp tăng cường sức mạnh và ngăn hydrogel trở nên quá mềm. Chúng cũng làm tăng khả năng tự phục hồi của vật liệu.
+
+Các nhà khoa học trộn một loại bột monomer với nước chứa các tấm nano. Sau đó, hỗn hợp được đặt dưới đèn UV. "Bức xạ UV từ đèn khiến các phân tử riêng lẻ liên kết với nhau, trở thành chất rắn đàn hồi - một loại gel", Chen Liang, thành viên nhóm nghiên cứu, giải thích.
+
+Tính chất vượt trội của loại hydrogel mới phụ thuộc nhiều vào những tương tác tiếp theo của polymer. "Mạng lưới rối nghĩa là các lớp polymer mỏng bắt đầu xoắn vào nhau như những sợi len nhỏ, nhưng theo trật tự ngẫu nhiên. Khi các polymer rối hoàn toàn, bạn không thể tách biệt được chúng. Chúng rất năng động và di động ở cấp độ phân tử. Khi bạn cắt ra, chúng sẽ lại xoắn vào nhau", Hang Zhang, chuyên gia tại Đại học Aalto, giải thích.
+
+Quá trình chữa lành diễn ra rất nhanh. Hydrogel phục hồi 80 - 90% trong 4 giờ đầu tiên sau khi cắt và phục hồi hoàn toàn sau 24 giờ. Hydrogel gồm khoảng 10.000 lớp tấm nano trong một nguyên mẫu dày 1 mm, có độ cứng tương tự da người và vẫn có thể kéo giãn.
+
+"Nghiên cứu mới là ví dụ thú vị về cách vật liệu sinh học truyền cảm hứng cho chúng ta tìm ra những sự kết hợp đặc tính mới cho vật liệu tổng hợp. Hãy hình dung robot với lớp da bền chắc, tự phục hồi hoặc những mô tổng hợp tự phục hồi nhanh chóng. Đây là phát hiện mang tính nền tảng, có thể giúp đổi mới các quy tắc về thiết kế vật liệu", nhà nghiên cứu Olli Ikkala từ Đại học Aalto nhận định.
+
+Thu Thảo (Theo Interesting Engineering)

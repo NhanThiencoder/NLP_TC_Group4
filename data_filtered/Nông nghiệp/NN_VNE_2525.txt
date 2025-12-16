@@ -1,0 +1,5 @@
+Robot giúp trồng rau trong vườn nhà
+
+Ngoài việc lắp robot Farmbot và chọn loại cây muốn trồng, người sử dụng không cần làm thêm bất cứ việc gì mà vẫn có rau ăn mỗi ngày.
+
+Farmbot là robot làm vườn được sáng chế bởi dự án Farmbot Genesis. Robot thông minh này sẽ thay bạn chăm sóc vườn rau của mình mỗi ngày với việc thực hiện chính xác các công việc như gieo hạt, tưới nước, dọn cỏ...

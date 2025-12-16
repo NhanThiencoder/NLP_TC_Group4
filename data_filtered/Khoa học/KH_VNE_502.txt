@@ -1,0 +1,43 @@
+Công ty Los Angeles Project đang phát triển những vật nuôi "thú vị" hơn như thỏ phát sáng, chó mèo không gây dị ứng, thậm chí kỳ lân.
+
+Cathy Tie (trái) và Josie Zayner (phải), hai nhà đồng sáng lập công ty Los Angeles Project. Ảnh: Los Angeles Project
+
+Con người đã phối giống chọn lọc chó mèo suốt hàng nghìn năm để tạo ra những thú cưng yêu thích hơn. Giờ đây, startup Los Angeles Project tại thành phố Austin, bang Texas, hướng tới tăng tốc quá trình này bằng kỹ thuật gene để tạo ra thỏ phát sáng trong bóng tối, chó mèo không gây dị ứng, thậm chí cả kỳ lân (ngựa một sừng).
+
+Los Angeles Project do nhà sinh học Josie Zayner sáng lập cùng doanh nhân công nghệ sinh học Cathy Tie. Zayner từng tự tiêm công cụ chỉnh sửa gene CRISPR cho mình trong một hội nghị tại San Francisco và phát trực tiếp năm 2017. Hiện tại, cô muốn tạo ra thế hệ thú cưng tiếp theo.
+
+"Tôi nghĩ, là con người, việc nâng cấp động vật giống như một dạng đặc quyền đạo đức của chúng ta", Zayner nói. Cô cho biết, Los Angeles Project tập trung vào việc tạo ra những con vật "phức tạp hơn, thú vị hơn, đẹp và độc đáo hơn" so với những con vật hiện có.
+
+Los Angeles Project đã hoạt động lặng lẽ trong năm qua. Đội ngũ 5 người của công ty tiến hành thí nghiệm trên các phôi từ ếch, cá, chuột hamster và thỏ. Họ sử dụng công nghệ chỉnh sửa gene CRISPR để xóa và chèn gene mới. Thao tác chèn thêm khó thực hiện hơn về mặt kỹ thuật.
+
+Họ cũng đang thử nghiệm một kỹ thuật ít nổi tiếng hơn: Tích hợp gián tiếp enzyme giới hạn, hay REMI, để đưa ADN mới vào phôi. Việc thực hiện các sửa đổi này ở cấp độ phôi sẽ thay đổi cấu trúc gene của con vật đó.
+
+Los Angeles Project đã sử dụng CRISPR để thêm một gene vào phôi thỏ, khiến chúng tiết ra protein huỳnh quang xanh lục, hay GFP. Zayner cho biết, họ dự định chuyển phôi đã chỉnh sửa vào thỏ cái trong tuần này. Nếu mọi việc suôn sẻ, công ty sẽ có bầy thỏ con phát sáng trong khoảng một tháng. (Thời gian mang thai của thỏ khoảng 31 - 33 ngày.)
+
+Bầy thỏ này không phải là động vật phát sáng đầu tiên được tạo ra. Các nhà khoa học thường dùng GFP để theo dõi và giám sát hoạt động gene hoặc quy trình tế bào trong sinh vật, thường để nghiên cứu bệnh tật. Giới nghiên cứu từng tạo ra chuột, khỉ, chó, mèo, thỏ phát sáng, nhưng không con vật nào trong số đó phục vụ mục đích thương mại.
+
+Trong khi đó, Los Angeles Project tạo ra thỏ phát sáng và động vật khác để bán cho khách hàng. "Tôi nghĩ thị trường thú cưng rất lớn và hoàn toàn bị đánh giá thấp", Zayner nói.
+
+Cá với protein GFP đã có mặt trong nhiều cửa hàng thú cưng tại Mỹ. Mang tên GloFish, chúng được tạo ra bằng một kỹ thuật cũ - công nghệ ADN tái tổ hợp. Công ty phát triển loài cá này, Yorktown Technologies, bán thương hiệu với giá 50 triệu USD vào năm 2017.
+
+Cá ngựa vằn, đã thay đổi gene để phát sáng xanh và đỏ, được bán tại Mỹ dưới tên gọi GloFish. Ảnh: Ed Wray
+
+Los Angeles Project bắt đầu với GFP vì tương đối đơn giản. Nó cũng dễ quan sát trong phôi khi tiếp xúc với ánh sáng xanh lam hoặc cực tím, cho thấy việc chỉnh sửa gene đã thành công. Sau thỏ phát sáng, công ty hướng đến tạo ra mèo không có protein Fel d1 - chất gây dị ứng chính mà mèo tiết ra, hoặc thỏ sừng nai, rồng và kỳ lân. Tuy nhiên, họ cần những chỉnh sửa phức tạp hơn để đạt được mục tiêu tham vọng này.
+
+"Khi chúng tôi tiếp tục, mục tiêu là xem xét nhiều gene cùng lúc, hiểu được các gene đóng góp vào một đặc điểm phức tạp, rồi chuyển những thay đổi đó từ loài này sang loài khác", Tie nói. Ví dụ, công ty eGenesis đã tạo ra lợn với 69 chỉnh sửa gene để khiến những cơ quan của chúng tương thích hơn với việc cấy ghép cho người.
+
+"Cá nhân tôi rất hứng thú với kỳ lân", Tie chia sẻ. Đó là một yêu cầu lớn đòi hỏi phải hiểu các gene đằng sau chiếc sừng xoắn của kỳ lân biển, tìm cách chuyển chúng vào một con vật nhỏ, sau đó thử nghiệm trên ngựa để tạo ra ngựa một sừng.
+
+Ý tưởng tạo ra thú cưng chỉnh sửa gene chắc chắn sẽ gây tranh luận. Thực tế, các nhà đạo đức sinh học từng cảnh báo về những ứng dụng "vô nghĩa" của CRISPR một thập kỷ trước, khi công nghệ này còn sơ khai. Đàn thỏ phát sáng của Los Angeles Project sẽ là thử nghiệm ban đầu về phản ứng của người tiêu dùng.
+
+CRISPR được tiêm vào phôi để sửa đổi gene của sinh vật. Ảnh: Los Angeles Project
+
+Một số người băn khoăn điều gì sẽ xảy ra nếu có sai sót. CRISPR có thể gây ra những chỉnh sửa không mong muốn, dẫn đến ung thư hoặc vấn đề sức khỏe khác ở động vật. Thêm vào đó, không ai thực sự biết giới hạn số lượng chỉnh sửa có thể thực hiện với bộ gene của động vật mà không gây hại.
+
+"Chúng tôi không muốn làm hại động vật", Tie nói. Cả cô và Zayner đều coi trọng cách đối xử với động vật. Công ty chưa giết bất cứ con vật nào cho thí nghiệm và cũng không định làm vậy. Họ tạo ra phôi bằng cách kết hợp trứng với tinh trùng lấy từ buồng trứng và tinh hoàn mà họ nhận được từ các bác sĩ thú y và một người bán thịt địa phương.
+
+Cá GloFish đã cung cấp một bài học cảnh báo. Tại Brazil, cá phát sáng thoát ra từ trang trại cá, sinh sôi trong những dòng suối ở rừng Đại Tây Dương, khiến nhiều người lo ngại chúng có thể đe dọa sinh vật bản địa hay không. Zayner cho biết, động vật mà họ tạo ra sẽ được triệt sản để không thể sinh sản và truyền lại các thay đổi gene cho con.
+
+Los Angeles Project chắc chắn sẽ thách thức giới hạn của các quy định về chỉnh sửa gene. Startup này đã liên hệ với Cục Quản lý Thực phẩm và Dược phẩm Mỹ (FDA) về kế hoạch của mình, nhưng chưa rõ cơ quan này sẽ điều chỉnh như thế nào. Năm 2003, FDA xác định rằng việc bán GloFish không thuộc diện điều chỉnh, dựa trên bằng chứng cho thấy loại cá này không gây rủi ro cho sức khỏe cộng đồng và môi trường.
+
+Thu Thảo (Theo Wired)

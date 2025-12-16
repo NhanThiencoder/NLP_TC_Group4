@@ -1,0 +1,17 @@
+Tấm bán dẫn GaN phân cực nitrogen đầu tiên trên thế giới do các nhà khoa học Trung Quốc tạo ra có thể thay đổi ngành công nghiệp bán dẫn.
+
+Tấm bán dẫn gallium nitride (GaN) cực nitrogen 20 cm có nhiều ứng dụng đa dạng. Ảnh: iStock
+
+Các nhà nghiên cứu Trung Quốc công bố một đột phá ở công nghệ bán dẫn thế hệ mới, với sự ra đời của tấm bán dẫn gallium nitride (GaN) cực nitrogen lớn nhất thế giới (20 cm). Tấm bán dẫn này có thể giảm 40% chi phí, qua đó thúc đẩy ứng dụng công nghệ trong liên lạc vệ tinh và phương tiện điện (EV), MSN hôm 30/3 đưa tin.
+
+GaN được mô tả như chất bán dẫn thế hệ thứ ba hàng đầu. GaN đang cách mạng hóa những ứng dụng công suất lớn và tần số cao như mạng 5G/6G, liên lạc vệ tinh, xe tự lái và hệ thống radar, nhờ đặc điểm vật lý đặc biệt. Vật liệu cho phép sản xuất sạc nhanh 100 W lớn cỡ bàn tay, giảm thất thoát biến đổi năng lượng ở nền tảng EV 800 V xuống dưới 5% và tăng gấp 3 băng tần liên lạc vệ tinh. Các nhà phân tích công nghiệp dự đoán GaN có thể thúc đẩy thay đổi lớn ở những lĩnh vực này sau khi công nghệ sản xuất hàng loạt tiến đến điểm tới hạn.
+
+Trọng tâm tiềm năng của GaN nằm ở sự phân cực tinh thể. Trong khi cả GaN cực nitrogen và cực gallium đều tồn tại, phiên bản cực nitrogen thể hiện hiệu suất ưu việt. Tuy nhiên, trước đây, những yêu cầu phát triển nghiêm ngặt và quy trình phức tạp khiến sản xuất trên toàn cầu bị hạn chế ở lượng nhỏ tấm bán dẫn GaN cực nitrogen cỡ 5 - 10 cm với chi phí quá cao.
+
+Hôm 22/3, nhóm nghiên cứu Phòng thí nghiệm JFS ở Vũ Hán, tỉnh Hồ Bắc, thông báo lần đầu sản xuất thành công tấm bán dẫn GaN cực nitrogen 20 cm đầu tiên trên thế giới trên chất nền silicon. Thành tựu này giúp giảm 40% chi phí tấm bán dẫn đồng thời tăng điện áp đánh thủng (mức điện áp tối thiểu để chất cách điện bắt đầu hoạt động như một chất dẫn điện) của thiết bị lên 2.000 V.
+
+Ngoài liên lạc, nhóm nghiên cứu chứng minh một hệ thống điện không dây vi sóng động có thể sạc drone đang bay trong phạm vi 20 m và cung cấp năng lượng cho thiết bị đầu cuối tự động ở cách một kilomet. Công nghệ này cũng hứa hẹn nhiều tiềm năng đối với robot hoạt động trong nhà máy, nhà máy điện mặt trời trong vũ trụ, hệ thống cứu phó khẩn cấp và thiết bị y tế.
+
+Phòng thí nghiệm đang đưa công nghệ GnN cực nitrogen 20 cm vào sản xuất hàng loạt. Trung Quốc chiếm 99% sản lượng gallium tinh luyện trên thế giới năm ngoái, theo một số ước tính công nghiệp.
+
+An Khang (Theo MSN)

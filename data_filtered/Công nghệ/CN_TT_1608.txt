@@ -1,0 +1,10 @@
+ Xuất hiện trojan giả mạo bản vá của McAfee
+
+Một loạt e-mail dạng thư rác làm “cò mồi” cho con trojan này đã được tung lên mạng với tiêu đề giả danh thư gửi từ McAfee và có nội dung cảnh báo về sự xuất hiện của một virus nguy hiểm (nhưng không có thật) mang tên “Kongos 31”. E-mail lừa đảo này chứa một đường dẫn đưa đến một trang web được thiết kế giống hệt trang tải về của McAfee. 
+
+Websense cho biết rằng ngay khi người dùng nhắp vào đường dẫn nói trên, con trojan sẽ tự động tải về máy tính người dùng và tự động cài đặt bản thân nó dưới dạng một bản vá lỗi dành cho trình chống virus của McAfee. Trojan này có khả năng tạo ra một cổng hậu để tạo điều kiện cho hacker tấn công máy tính từ xa, nhưng may mắn rằng nó hiện có tốc độ lây nhiễm chưa nhanh. 
+
+McAfee cho biết công ty không có chính sách gửi e-mail thông báo về sự xuất hiện của từng mã độc riêng biệt cho mọi khách hàng, mọi cập nhật mới nhất đều thông qua trang web chính thức hoặc tính năng tự động cập nhật của McAfee. McAfree cảnh báo người dùng nên xóa ngay lập tức mọi e-mail được cho là từ McAfee gửi tới để đề phòng con trojan này. 
+
+
+

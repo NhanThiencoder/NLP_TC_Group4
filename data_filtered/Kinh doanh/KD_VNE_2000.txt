@@ -1,0 +1,27 @@
+Title: Bitcoin thủng mốc 100.000 USD
+
+Lo ngại lãi suất không cắt giảm thêm, căng thẳng thuế quan và "cá mập" bán ròng khiến Bitcoin rơi về vùng giá thấp nhất 4 tháng, dưới 100.000 USD.
+
+Sau cả tháng dùng dằng quanh khu vực 110.000-120.000 USD, Bitcoin (BTC) dần rơi về vùng giá thấp hơn từ đầu tháng 11. Từ khuya hôm qua đến sáng nay (giờ Hà Nội), tiền số lớn nhất thế giới có đợt sụt giá mạnh, nhiều thời điểm về dưới 100.000 đồng một đơn vị. Riêng lúc gần 9h, BTC về sát 98.962 USD. Đây là vùng giá thấp nhất kể từ cuối tháng 6, tức hơn 4 tháng qua.
+
+Theo nền tảng theo dõi thị trường phái sinh CoinGlass, hơn 2 tỷ USD giá trị hợp đồng tương lai đã bị thanh lý trong 24 giờ qua. Trong đó, các nhà giao dịch lệnh long (tức nhóm đặt kỳ vọng tăng giá) chiếm gần 80% khoản lỗ ở mức 1,6 tỷ USD. Đây là sự kiện giảm đòn bẩy lớn nhất toàn thị trường kể từ tháng 9.
+
+Thanh lý xảy ra khi một sàn giao dịch tất toán một vị thế có đòn bẩy, do mất một phần hoặc toàn bộ số tiền ký quỹ nếu nhà đầu tư không có đủ tiền để bù lỗ cho vị thế đó. Các sự kiện thanh lý lớn thường đánh dấu đỉnh hoặc đáy cục bộ của giá tài sản.
+
+Bitcoin đã giảm 5,5% trong 24 giờ và sụt hơn 10% nếu tính trong một tuần qua. Các tiền số khác cũng chịu ảnh hưởng khi Ether (ETH) giảm 10% xuống còn 3.275 USD. Solana (SOL) và Binance Coin (BNB) cũng rơi lần lượt 8% và 7%. Các token khác như XRP, Dogecoin hay Cardano cũng sụt 5-6%. Điều này khiến tổng vốn hóa thị trường tiền số trở lại mức 3.500 tỷ USD - thấp nhất trong hơn một tháng qua.
+
+Gerry O'Shea - phát ngôn viên tại công ty quản lý tiền số Hashdex - cho biết Bitcoin được giao dịch khoảng 100.000 USD ngày hôm nay khi tâm lý rủi ro chiếm lĩnh thị trường tài chính, tác động đến một loạt các tài sản kỹ thuật số, cổ phiếu và hàng hóa.
+
+"Những suy đoán gần đây rằng Ủy ban Thị trường Mở Liên bang (FOMC), nơi ra quyết định lãi suất, có thể từ chối đợt cắt giảm khác trong năm nay, cũng như những lo ngại về thuế quan, rủi ro trên thị trường vốn, đã giúp đẩy thị trường xuống thấp hơn", chuyên gia phân tích.
+
+Trước đó, Chủ tịch Cục Dự trữ liên bang Mỹ (Fed) Jerome Powell ám chỉ nhà đầu tư không nên trông chờ vào việc giảm lãi suất trong tháng 12. Sau phát biểu trên, nhà đầu tư đặt cược xác suất giảm lãi tháng 12 là 71%, thay vì 90% trước đó. Thông thường, cắt giảm lãi suất là tác nhân giúp tăng giá với các tài sản rủi ro, trong đó có tiền số.
+
+Ngoài ra, chuyên gia cũng cho rằng quỹ đạo giá gần đây của Bitcoin bị ảnh hưởng bởi xu hướng bán ra từ những người nắm giữ dài hạn. Theo dữ liệu từ công ty phân tích CryptoQuant, các nhà đầu tư dài hạn đã bán ra khoảng 405.000 BTC trong tháng 10, tương đương hơn 43 tỷ USD.
+
+Bất chấp sự biến động, các nhà phân tích vẫn cho rằng tiền số còn nhiều triển vọng. Theo O'Shea, 100.000 USD có thể là một mức hỗ trợ quan trọng về mặt tâm lý, nhưng ông không xem đây là dấu hiệu của suy yếu đối với Bitcoin.
+
+Các nhà giao dịch dự đoán vài phiên tiếp theo sẽ giúp kiểm tra xem liệu đà phục hồi của Bitcoin có thể bền vững hay không. Nếu không, thị trường sẽ hướng sự chú ý đến việc liệu có xuất hiện đợt bán tháo trên diện rộng không.
+
+Về đà bán ròng của nhóm "cá mập" nắm giữ dài hạn, các nhà phân tích cho rằng không hẳn là tín hiệu giảm giá. Credible Crypto nhận định các nhà đầu tư dài hạn chỉ đang chuyển tiền số của họ vào tay các nhà đầu tư tài chính truyền thống và các tổ chức tài chính, nhiều trong số đó mua thay mặt nhóm nhỏ lẻ.
+
+Tiểu Gu (theo CoinDesk, BeInCrypto)

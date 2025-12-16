@@ -1,0 +1,27 @@
+Trung tâm điều khiển giao thông Hà Nội chính thức vận hành từ sáng 13/12, kiểm soát 1.837 camera AI, phục vụ giám sát, xử lý vi phạm và điều hành tín hiệu giao thông.
+
+Trung tâm điều khiển giao thông Hà Nội đặt tại số 54 Trần Hưng Đạo. Đây là đầu não kiểm soát toàn bộ hệ thống camera AI do Công an thành phố lắp đặt trên địa bàn.
+
+Trung tâm được trang bị 3 hệ thống chính, gồm quản lý vi phạm trật tự, an toàn giao thông đường bộ; điều khiển tín hiệu giao thông thông minh thích ứng theo thời gian thực; và hệ thống quản lý an ninh trật tự. Ngay khi vận hành, hệ thống đã bắt đầu ghi nhận vi phạm giao thông từ camera AI trên các tuyến phố.
+
+Trong phòng điều hành rộng hàng trăm m2, màn hình lớn ở trung tâm liên tục hiển thị hình ảnh, dữ liệu từ hàng nghìn điểm gắn camera. Cảnh sát giao thông theo dõi, giám sát và xử lý thông tin vi phạm thông qua hệ thống máy tính kết nối trực tiếp.
+
+Bên trong Trung tâm điều khiển giao thông của Hà Nội. Ảnh: Việt An
+
+Theo Công an TP Hà Nội, camera AI có thể phát hiện tối đa 28 hành vi vi phạm trật tự, an toàn giao thông như vượt đèn đỏ, không đội mũ bảo hiểm khi điều khiển xe máy, không thắt dây an toàn khi lái ôtô, sử dụng điện thoại khi điều khiển phương tiện. Thông tin vi phạm được hiển thị trực quan bằng hình ảnh, biển số, thời gian, số lần vi phạm và phân loại theo các trạng thái từ kiểm duyệt đến đã xử lý.
+
+Dữ liệu do camera ghi nhận được truyền về hệ thống 20 máy chủ cùng kho lưu trữ tập trung, với thời gian lưu trữ tối đa 75 ngày. Ngoài giám sát và xử lý vi phạm, camera AI còn thực hiện kiểm đếm lưu lượng phương tiện, cảnh báo ùn tắc và phát hiện xe thuộc diện theo dõi.
+
+Trên cơ sở dữ liệu thu thập, hệ thống điều khiển tín hiệu giao thông thông minh tự động điều chỉnh chu kỳ đèn theo thời gian thực, rút ngắn hoặc kéo dài pha đèn tùy lưu lượng từng hướng. So với hệ thống cũ, giải pháp mới giúp rút ngắn khoảng 31% thời gian hành trình, tăng tốc độ trung bình và cải thiện lưu lượng phương tiện tại các nút giao, đồng thời giảm nhu cầu bố trí lực lượng trực tiếp điều tiết.
+
+Hệ thống điều khiển tín hiệu giao thông cũng được kết nối với xe dẫn đoàn. Khi các phương tiện này làm nhiệm vụ và tiếp cận nút giao, đèn tín hiệu sẽ tự động chuyển xanh để bảo đảm lưu thông thông suốt.
+
+Hệ thống camera AI lắp đặt trên đường Phạm Hùng. Ảnh: Việt An
+
+Trung tá Đào Việt Long, Phó Trưởng phòng Cảnh sát giao thông Công an TP Hà Nội, cho biết việc đưa hệ thống camera AI vào vận hành từ tháng 12 là bước tiến quan trọng trong lộ trình chuyển đổi số của lực lượng Cảnh sát giao thông Thủ đô.
+
+Thời gian tới, Công an TP Hà Nội sẽ phối hợp Trung tâm dịch vụ hành chính công kết nối ứng dụng Công dân Thủ đô số iHanoi vào hạ tầng Trung tâm điều khiển giao thông, hướng tới xử lý vi phạm hành chính trong lĩnh vực trật tự, an toàn giao thông trên môi trường điện tử.
+
+Bên trong ‘mắt thần’ AI phạt nguội Camera AI bắt lỗi giao thông bắt lỗi thế nào. Video: Lâm Kiên - Mạnh Hoàng
+
+Việt An

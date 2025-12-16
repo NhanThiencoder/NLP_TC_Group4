@@ -1,0 +1,73 @@
+Title: Nền kinh tế gương mặt: Khi AI biến 750 USD thành 7 triệu USD
+
+Scott Jacqmein, một diễn viên 52 tuổi tại Dallas (Mỹ), đang sống trong một thực tại kỳ lạ. Bạn bè ông liên tục gửi những video quảng cáo trên mạng xã hội mà họ tin chắc đó là ông. Trong đó, "ông" nói tiếng Tây Ban Nha lưu loát để quảng bá trò chơi trí tuệ, tự tin giới thiệu một ứng dụng tử vi, hay xuất hiện trong bối cảnh một phòng tắm xa lạ. Nhưng Jacqmein thật ra lại không biết tiếng Tây Ban Nha. Ông cũng chưa bao giờ quay những video đó.
+
+"Bản sao số" của ông, một avatar tạo bởi AI, đang sống một cuộc đời thương mại của riêng nó. Cái giá cho sự hiện hữu của bản sao này là 750 USD và một chuyến đi - khoản thù lao một lần ông nhận được từ một năm trước.
+
+Cùng thời điểm đó, cách nửa vòng trái đất, Luo Yonghao - doanh nhân và là một trong những livestreamer hàng đầu Trung Quốc - đang chứng kiến một phép màu kinh tế.
+
+Phiên bản kỹ thuật số của ông, được vận hành bởi AI sinh sản của Baidu, đã thực hiện một buổi livestream bán hàng kéo dài hơn 6 tiếng, thu về doanh thu 55 triệu nhân dân tệ (tương đương 7,65 triệu USD). Không chỉ đáng kinh ngạc, con số ấy còn vượt xa những gì ông từng đạt được khi livestream bằng xương bằng thịt. "Hiệu ứng từ nhân vật số khiến tôi phát hoảng", Luo thừa nhận.
+
+Một bên là sự hối tiếc và cảm giác mất kiểm soát với mức thù lao rẻ mạt. Một bên là sự choáng ngợp trước hiệu quả kinh doanh phi thường. Câu chuyện của Jacqmein và Luo không chỉ là sự tương phản giữa Đông và Tây, mà chính là sự mô tả hoàn hảo 2 giai đoạn cốt lõi của một nền kinh tế mới - kinh tế danh tính kỹ thuật số - đang thành hình: giai đoạn "khai thác nguyên liệu thô" và giai đoạn "tinh chế và tối ưu hóa lợi nhuận".
+
+Chuỗi cung ứng danh tính con người
+
+Nền kinh tế nhận dạng số bắt đầu từ một quy trình tưởng chừng đơn giản, đó là số hóa con người. Các công ty công nghệ, mà tiên phong là TikTok của ByteDance, đã tạo ra một thị trường để "thu mua" nguyên liệu thô - chính là hình ảnh, giọng nói và cử chỉ của các diễn viên.
+
+Mô hình kinh doanh ở giai đoạn này bộc lộ một sự bất cân xứng quyền lực rõ rệt. Scott Jacqmein, một y tá chuyển nghề diễn viên, không có người đại diện, đã đồng ý với mức giá 750 USD. Tracy Fetter, nghệ sĩ 55 tuổi, nhận chưa tới 1.000 USD. Một diễn viên khác thậm chí chỉ nhận 500 USD, để rồi phải đối mặt với việc "bản sao" của mình quảng cáo những sản phẩm nhạy cảm mà anh coi là "bẽ mặt".
+
+Về bản chất, các diễn viên này đang tham gia vào một giao dịch kinh tế có rủi ro cực lớn nhưng lại được định giá như một công việc thời vụ. Họ đã bán đi một tài sản có khả năng tái tạo lợi nhuận vô hạn (hình ảnh cá nhân) để đổi lấy một khoản phí một lần. Quan trọng nhất, các hợp đồng này không hề có điều khoản về tiền bản quyền. Mỗi khi avatar "Steve" (tên của Jacqmein) giúp một doanh nghiệp bán được hàng, toàn bộ lợi nhuận chảy về nhà quảng cáo và nền tảng. Jacqmein không nhận thêm một xu nào.
+
+"Công nghệ đang phát triển nhanh hơn hợp đồng pháp lý", Jacqmein cảnh báo. "Và họ đang dụ dỗ những diễn viên trẻ chưa có đại diện, kéo họ vào cái bẫy avatar".
+
+Sự mập mờ còn thể hiện trong phạm vi sử dụng. Các diễn viên tin rằng hình ảnh của họ chỉ xuất hiện trên TikTok, nhưng hợp đồng lại chứa những điều khoản cho phép ByteDance sử dụng avatar trên các nền tảng khác như CapCut, hoặc bởi các "bên thứ ba" không xác định.
+
+Chiến lược này là kinh điển trong việc xây dựng chuỗi cung ứng: đảm bảo nguồn nguyên liệu đầu vào với chi phí tối thiểu và quyền sử dụng tối đa. Với doanh thu quảng cáo tại Mỹ ước tính hơn 10 tỷ USD mỗi năm, TikTok đang xây dựng một đế chế quảng cáo dựa trên một kho tài sản số được tạo ra với chi phí gần như không đáng kể.
+
+Ông Jacqmein đã rẽ hướng sang nghề diễn xuất sau 20 năm làm y tá và không có người đại diện khi ký hợp đồng với TikTok (Ảnh: The New York Times).
+
+Tại sao thương hiệu "mua" nhận dạng số?
+
+Nhu cầu khai thác danh tính người thật được thúc đẩy bởi một cơn khát khổng lồ từ phía các nhà quảng cáo. Đối với họ, avatar AI là lời giải cho bài toán kinh niên của ngành marketing: làm sao để nhanh hơn, rẻ hơn và hiệu quả hơn.
+
+Tối ưu hóa chi phí và tốc độ: Yaniv Moore, CEO của công ty công nghệ quảng cáo Tarzo, giải thích: "Bạn có thể thử nghiệm A/B với kịch bản, thử nghiệm A/B với người dẫn, và thực hiện tất cả ở quy mô lớn với tốc độ cực nhanh".
+
+Thay vì quy trình sản xuất truyền thống tốn kém và mất thời gian (casting, quay phim, hậu kỳ), một giám đốc marketing như Craig Brommers của American Eagle có thể tự tạo avatar của chính mình trong vài phút và "lập trình" cho nó nói bất cứ điều gì. Điều này mở ra khả năng thử nghiệm và tối ưu hóa quảng cáo ở một quy mô chưa từng có.
+
+Dân chủ hóa quảng cáo chuyên nghiệp: Đối với các doanh nghiệp nhỏ và vừa, đây là một cuộc cách mạng. Họ không có ngân sách để thuê diễn viên hay ekip sản xuất chuyên nghiệp. Avatar AI của TikTok, được cung cấp như một công cụ miễn phí, cho phép họ tạo ra những video quảng cáo chất lượng cao, tăng sức cạnh tranh trên một sân chơi vốn bị các "ông lớn" thống trị.
+
+Tuy nhiên, sự tiện lợi này đi kèm với những rủi ro tiềm tàng. Việc các nhà quảng cáo lách luật, xóa nhãn "A.I. Generated" và đăng tải video lên các nền tảng khác như Facebook hay YouTube tạo ra một môi trường thiếu minh bạch, nơi người tiêu dùng có thể bị lừa dối. Khi avatar của Jacqmein được dùng để quảng cáo thực phẩm "tăng cường sinh lý nam", nó không chỉ vi phạm điều khoản của TikTok mà còn gây tổn hại trực tiếp đến danh tiếng của con người thật.
+
+Giáo sư luật Jeanne Fromer cảnh báo về vùng xám pháp lý: "Người ta có thể để avatar phát biểu những quan điểm đi ngược niềm tin của họ. Bạn phải thực sự sẵn sàng xuất hiện trong hầu hết mọi bối cảnh". Các thương hiệu, trong "cơn say" tối ưu hóa chi phí, có thể vô tình bước vào một bãi mìn về đạo đức và pháp lý.
+
+Khi "bản sao" tinh chế vượt qua "bản gốc"
+
+Nếu câu chuyện ở Mỹ cho thấy giai đoạn "khai thác thô" của nền kinh tế nhận dạng, thì thành công của Luo Yonghao ở Trung Quốc chính là minh chứng cho giai đoạn "tinh chế và tối ưu hóa". Đây là lúc giá trị thực sự của tài sản số được bộc lộ.
+
+Avatar của Luo không phải là một hình nộm kỹ thuật số biết nói mà nó là một sản phẩm công nghệ cao, được phát triển bởi mô hình AI sinh sản của Baidu. Nó không chỉ giống, mà nó còn có khả năng tương tác và duy trì được cái "duyên" bán hàng đã làm nên tên tuổi của Luo.
+
+Wu Jialu, giám đốc nghiên cứu tại công ty của Luo, gọi đây là một "khoảnh khắc DeepSeek" - một bước nhảy vọt về công nghệ, tương tự như cách DeepSeek (OpenAI của Trung Quốc) đã thách thức thế giới.
+
+Sự bùng nổ của thị trường livestream ở Trung Quốc đã tạo ra một "phòng thí nghiệm" hoàn hảo cho công nghệ này. Khi cạnh tranh trở nên khốc liệt, nhu cầu tối ưu hóa hiệu suất và chi phí đã đẩy các công ty như của Luo và các nền tảng như Baidu, Alibaba, Tencent phải liên tục đổi mới. Họ đã đi trước phương Tây trong việc biến nhận dạng số từ một công cụ quảng cáo đơn thuần thành một kênh bán hàng độc lập, có khả năng tạo ra doanh thu khổng lồ.
+
+Luo Yonghao và người cùng dẫn chương trình Xiao Mu dùng phiên bản kỹ thuật số của chính mình để livestream hơn 6 tiếng trên Youxuan (Baidu), thu về 55 triệu NDT (7,65 triệu USD) (Ảnh chụp màn hình).
+
+Bài toán tương lai : Ai sẽ sở hữu giá trị thặng dư?
+
+Hành trình từ gương mặt 750 USD của Scott Jacqmein đến cỗ máy bán hàng 7 triệu USD của Luo Yonghao đã vạch ra một chuỗi giá trị rõ ràng. Giá trị thặng dư khổng lồ đang được tạo ra ở giữa, nơi AI biến đổi một tài sản tĩnh (hình ảnh con người) thành một tài sản động có khả năng tạo ra dòng tiền liên tục.
+
+Câu hỏi cốt lõi là ai xứng đáng được hưởng phần giá trị đó?
+
+Hiện tại, câu trả lời là các nền tảng công nghệ và các nhà quảng cáo. Những người cung cấp "nguyên liệu thô" như Jacqmein gần như bị loại khỏi phương trình lợi nhuận. Điều này có thể sẽ châm ngòi cho một cuộc đấu tranh mới về quyền lao động trong kỷ nguyên số. Liệu các công đoàn diễn viên có đàm phán được các hợp đồng mới bao gồm tiền bản quyền kỹ thuật số? Liệu pháp luật có bắt kịp để bảo vệ "quyền nhân dạng số" của công dân?
+
+Mặt khác, ngay cả những người hưởng lợi cũng nhận ra sự bất ổn. Yaniv Moore tự hỏi liệu các công ty có sớm từ bỏ hoàn toàn việc sử dụng diễn viên thật để tạo ra các nhân vật AI 100% nhằm tránh những tranh cãi về pháp lý và đạo đức. Đây là một khả năng có thật.
+
+Khi công nghệ đủ mạnh để tạo ra những con người "ảo" hoàn toàn thuyết phục, nhu cầu "khai thác" người thật có thể giảm đi. Khi đó, không chỉ diễn viên, mà cả người mẫu, người ảnh hưởng (influencer) và bất kỳ ai kiếm sống bằng hình ảnh của mình đều sẽ đối mặt với một đối thủ cạnh tranh không biết mệt mỏi và vô cùng rẻ.
+
+Đối với các diễn viên, những khiếm khuyết hiện tại của công nghệ lại là niềm an ủi cuối cùng. Jacqmein nói avatar của ông thiếu đi "năng lượng quý ông muối tiêu" (silver fox energy) vì công nghệ chưa tái tạo được bộ râu của ông. Nhưng "lỗi" này sẽ sớm được khắc phục. Khi AI trở nên hoàn hảo hơn, lợi thế cạnh tranh của con người nằm ở đâu?
+
+Cuộc cách mạng nhận dạng số không chỉ dừng lại ở ngành quảng cáo hay thương mại điện tử. Nó chạm đến một vấn đề sâu sắc hơn: trong một thế giới ngày càng được số hóa, ranh giới giữa bản thể thật và bản sao số đang mờ dần. Câu chuyện của Scott Jacqmein và Luo Yonghao là những tín hiệu đầu tiên của một tương lai nơi danh tính của mỗi chúng ta đều có thể trở thành một tài sản có thể bị khai thác, định giá và giao dịch.
+
+Ngày hôm nay, đó là các diễn viên. Ngày mai, đó có thể là giọng nói của một nhân viên tổng đài được dùng để huấn luyện AI, là phong cách viết của một nhà báo được mô hình ngôn ngữ lớn sao chép, hay là dữ liệu sức khỏe của hàng triệu người được dùng để tạo ra các dịch vụ y tế số. Tất cả chúng ta, theo một cách nào đó, đều đang cung cấp dữ liệu thô cho các cỗ máy AI.
+
+Nền kinh tế nhận dạng số đang buộc chúng ta phải định nghĩa lại các khái niệm cơ bản: lao động là gì, tài sản là gì và giá trị của một con người được đo lường ra sao. Lời thừa nhận của Scott Jacqmein, "chúng ta sẽ chẳng bao giờ biết được hệ quả thực sự của việc này đâu", giờ đây không chỉ là lời than thở của một cá nhân, mà đã trở thành lời tiên tri cho cả một thế hệ đang bước vào một kỷ nguyên mới đầy hứa hẹn nhưng cũng vô cùng bất định.

@@ -1,0 +1,45 @@
+Không gian làm việc của một công ty chứng khoán ở TP.HCM - Ảnh: QUANG ĐỊNH
+
+Việt Nam có thể nghiên cứu học hỏi Mỹ khi họ yêu cầu cấp HĐQT doanh nghiệp phải giám sát an toàn thông tin mỗi năm 1 lần, chủ tịch HĐQT phải ký báo cáo chi tiết và chịu trách nhiệm với chữ ký này…
+
+Các công ty chứng khoán tăng đầu tư cho bảo mật
+
+Chia sẻ với Tuổi Trẻ, lãnh đạo một công ty chứng khoán ở TP.HCM cho biết sau sự cố tấn công mạng rất lớn xảy ra tại một công ty chứng khoán, nguồn lực và ý thức con người là hai vấn đề cần cải thiện để tăng cường bảo mật.
+
+"Công ty cùng ngành đã xảy ra sự cố nghiêm trọng nhưng khi được yêu cầu thắt chặt vẫn có người "xì xào" nói chúng tôi làm quá lên" - vị này chia sẻ.
+
+Ông Robert Trần, phó tổng giám đốc Công ty TNHH dịch vụ an toàn thông tin EY Việt Nam, tiết lộ thực tế ở Việt Nam vẫn có một số doanh nghiệp thực sự chưa dành đủ nguồn lực cho an toàn thông tin.
+
+Năm 2019, trước việc một số cuộc tấn công mạng có chủ đích nhằm đánh cắp thông tin bí mật nhà nước gây hậu quả nghiêm trọng xảy ra, Thủ tướng đã có chỉ thị 14/CT-TTg yêu cầu hàng loạt cơ quan, tổ chức phải bảo đảm kinh phí chi cho các sản phẩm, dịch vụ an toàn thông tin mạng đạt tối thiểu 10% trong tổng kinh phí triển khai kế hoạch ứng dụng công nghệ thông tin.
+
+"Xin nhấn mạnh đó là mức tối thiểu. Tuy nhiên nhiều nơi vẫn còn làm cho có, dù đó là một trong những yếu tố quyết định sự tồn vong của tổ chức - ông Robert Trần nói và chỉ ra có doanh nghiệp chi rất nhiều tiền mà vẫn không đạt mục tiêu - Họ mua những thiết bị tối tân nhất trên thị trường, giá hàng triệu USD nhưng chưa hiệu quả".
+
+Trong khi đó, các công ty chứng khoán vốn là nơi nắm giữ khối lượng lớn dữ liệu về thông tin khách hàng và giao dịch, đây là mục tiêu rất hấp dẫn đối với các cuộc tấn công mạng.
+
+Ông Ngô Minh Hiếu - chuyên gia của Trung tâm Giám sát an toàn không gian mạng quốc gia (Bộ TT-TT), giám đốc Công ty TNHH doanh nghiệp xã hội Chống Lừa Đảo - cũng nói nhiều công ty chứng khoán đã bắt đầu nghiêm túc hơn trong việc xem xét nâng cao các biện pháp bảo mật nhưng "vẫn còn nhiều công ty chỉ thực hiện các biện pháp bảo mật một cách hời hợt với các lý do về chi phí và nguồn lực". Điều này đặc biệt đúng với các công ty chứng khoán quy mô nhỏ.
+
+Thậm chí, một số công ty vẫn giữ tâm lý "mất bò mới lo làm chuồng", tức chỉ đầu tư vào bảo mật sau khi đã xảy ra sự cố. "Điều này cực kỳ nguy hiểm và có thể dẫn đến hậu quả nghiêm trọng về tài chính và uy tín", ông Hiếu nói.
+
+Tại một tọa đàm về bảo mật thông tin trong lĩnh vực chứng khoán, lãnh đạo Trung tâm Ứng cứu khẩn cấp không gian mạng Việt Nam (Vncert) cho hay: Qua rà soát sau vụ VNDirect, nhận thấy phần lớn các công ty chứng khoán nói riêng và doanh nghiệp nói chung chưa tuân thủ quy định của pháp luật về đảm bảo an toàn thông tin, trong đó có việc chưa phê duyệt hồ sơ đề xuất cấp độ và triển khai các biện pháp bảo vệ hệ thống thông tin theo cấp độ được phê duyệt.
+
+Điểm cốt yếu nhất của bài toán an toàn thông tin này là con người và an toàn thông tin phải được xây dựng thành văn hóa của tổ chức. Từng nhân viên, từng bộ phận cần nâng cao nhận thức và ý thức. Nếu không, đầu tư bao nhiêu tiền cũng vô nghĩa. Ông Robert Trần
+
+Cần có quy định cứng rắn hơn
+
+Sau một số vụ tấn công mạng vào các doanh nghiệp lớn gần đây, giám đốc công nghệ một doanh nghiệp đang niêm yết trên sàn TP.HCM (đề nghị không nêu tên) cho biết đã lập tức đưa ra những quy định mới siết chặt quy trình làm việc của toàn bộ nhân viên.
+
+"Chúng tôi nghiêm cấm sử dụng các thiết bị lưu trữ cá nhân kết nối vào máy tính công ty, hạn chế cho nhân viên dùng điện thoại cá nhân trong công việc, phân quyền cấp độ người dùng được truy cập vào các dữ liệu quan trọng của công ty…
+
+Tuy nhiên việc thực thi còn nhiều khó khăn do phải thay đổi quy trình làm việc của một số khâu, trong khi yêu cầu công việc vẫn phải cần đáp ứng ở tốc độ nhanh nhất", vị giám đốc chia sẻ.
+
+Bàn về giải pháp, ông Robert Trần nêu cách các thị trường phát triển như Mỹ gia tăng đối phó với tấn công mạng. Cụ thể, ở các công ty niêm yết của Mỹ, giám đốc an toàn thông tin sẽ ngồi trong HĐQT với vai trò tư vấn, chuyên gia.
+
+Theo đó, những quyết định về an toàn thông tin sẽ được có ý kiến và đem ra bàn luận một cách ngang bằng với các vấn đề chiến lược khác. Hiện ở Việt Nam vẫn còn thiếu hụt nguồn nhân lực cho các vị trí này.
+
+Đặc biệt, từ tháng 7 năm ngoái, Ủy ban Chứng khoán Mỹ (SEC) đã yêu cầu HĐQT các doanh nghiệp phải giám sát vấn đề an toàn thông tin. Mỗi năm một lần, người đứng đầu HĐQT phải ký báo cáo tình trạng an toàn thông tin của doanh nghiệp gửi lên SEC và chịu trách nhiệm.
+
+Trao đổi với Tuổi Trẻ về đề xuất nêu trên, một cán bộ cấp quản lý Ủy ban Chứng khoán cho rằng nên cân nhắc xem xét áp dụng ở Việt Nam.
+
+Ông cũng thừa nhận hiện chủ yếu mới chỉ có công văn khuyến nghị, trong quy định về hệ thống giao dịch của ủy ban và kết nối của sở giao dịch cũng có một số quy định chung nhưng chưa được chi tiết.
+
+Công ty chứng khoán mất dữ liệu là mất tất cả Ông Đ.B.N. - phó tổng giám đốc một công ty chứng khoán Hà Nội - thừa nhận sau vụ một công ty chứng khoán lớn bị tấn công cũng thấy "giật mình" và cũng tiến hành rà soát lại vấn đề bảo mật. Ông cho biết dù đã đầu tư nhưng nhận thấy để theo kịp tốc độ phát triển hiện nay về bảo mật cũng còn nhiều khó khăn. "Chiêu thức tấn công ngày càng tinh vi nên đôi khi đáp ứng được tiêu chuẩn mới không hề đơn giản", ông N. nói. "Có công ty nhỏ, đầu tư lo tốn kém lại nghĩ rằng hacker chỉ để tâm các công ty chứng khoán lớn, có tiềm lực để tấn công thôi", ông N. chia sẻ. Tuy nhiên, ông N. cho rằng đây là một tư duy sai lầm bởi vì khi làm lĩnh vực này, mất dữ liệu là mất tất cả. Chuyên gia Ngô Minh Hiếu cũng khuyến nghị các công ty chứng khoán cần xác định bảo mật không chỉ là một phần của công nghệ thông tin mà nên được coi là một phần chiến lược của toàn bộ công ty.

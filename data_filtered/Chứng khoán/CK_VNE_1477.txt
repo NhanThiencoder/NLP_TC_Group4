@@ -1,0 +1,39 @@
+Trong 18 năm phát triển, DNSE đã đầu tư công nghệ, phát triển loạt sản phẩm: Margin Deal, trợ lý ảo Ensa, hệ sinh thái đầu tư mở… giúp đơn giản hóa đầu tư cho hàng triệu người Việt.
+
+Ứng dụng trí tuệ nhân tạo
+
+DNSE là một trong những công ty chứng khoán tiên phong ứng dụng trí tuệ nhân tạo (AI) vào sản phẩm đầu tư tại Việt Nam. Trợ lý chứng khoán ảo Ensa của DNSE được phát triển dưới dạng chatbot, hỗ trợ người dùng phân tích dữ liệu thị trường, tổng hợp tin tức và gợi ý giao dịch phù hợp với khẩu vị rủi ro cá nhân. Qua đó, nhà đầu tư có thể tiết kiệm thời gian và hạn chế yếu tố cảm xúc so với môi giới truyền thống, nhờ các thông tin khách quan, số liệu cập nhật liên tục.
+
+Tính năng Lệnh AI giúp người dùng chia nhỏ lệnh giao dịch. Ảnh: DNSE
+
+Mới đây, công ty cho ra mắt tính năng "Lệnh AI", sử dụng thuật toán chia nhỏ lệnh, giúp tối ưu giá khớp trung bình, tăng khả năng khớp lệnh và giảm rủi ro thanh khoản. Các chuyên gia nhận định, đây là một bước tiến mang tính "cách mạng" cho nhóm nhà đầu tư tổ chức hoặc giao dịch khối lượng cao.
+
+Việc tích hợp AI giúp DNSE tiến thêm một bước trong tự động hóa và cá nhân hóa đầu tư, đưa công nghệ trở thành "người đồng hành" của nhà đầu tư Việt.
+
+Margin Deal
+
+Một trong những dấu ấn công nghệ nổi bật của DNSE là Margin Deal - hệ thống quản trị và cho vay ký quỹ theo từng giao dịch. Khác với mô hình ký quỹ truyền thống, hệ thống cho phép nhà đầu tư tách biệt từng giao dịch, chủ động lựa chọn tỷ lệ vay và kiểm soát rủi ro.
+
+Hệ thống quản trị và cho vay theo từng giao dịch (Margin Deal). Ảnh: DNSE
+
+Bà Nguyễn Ngọc Linh, Tổng giám đốc DNSE, cho biết công ty hiện là đơn vị duy nhất trên thị trường quản trị rủi ro theo từng giao dịch riêng biệt, giúp nhà đầu tư hạn chế rủi ro và linh hoạt ứng biến trong mọi điều kiện thị trường.
+
+Nhờ cơ chế này, người dùng có thể theo dõi lãi - lỗ thực tế (đã gồm thuế, phí) và khi thị trường biến động, hệ thống chỉ xử lý các vị thế vi phạm, tránh tình trạng bán giải chấp chéo (force sell).
+
+Từ khi ra mắt, hệ thống Margin Deal với cơ chế vận hành linh hoạt đã giúp dư nợ cho vay ký quỹ của DNSE tăng mạnh, đạt mức kỷ lục 5.750 tỷ đồng vào cuối quý III/2025. Giải pháp này được xem là "chìa khóa kỹ thuật" giúp công ty sẵn sàng cho kỷ nguyên giao dịch trong ngày (Intraday), nơi tốc độ và tính chủ động là yếu tố then chốt.
+
+Tự động hóa giao dịch
+
+Trong mảng chứng khoán phái sinh, DNSE xây dựng nền tảng giao dịch ổn định, tốc độ cao, tích hợp các tính năng tự động như cài đặt chốt lời, cắt lỗ, cảnh báo lãi, lỗ theo thời gian thực. Mô hình quản trị theo từng giao dịch cũng được áp dụng, giúp khách hàng kiểm soát rủi ro hiệu quả hơn.
+
+Nhờ những cải tiến này, chỉ sau hai năm gia nhập thị trường, DNSE đã vươn lên vị trí top 2 thị phần phái sinh trên HNX, hiện chiếm khoảng 24% thị phần.
+
+Nền tảng giao dịch phái sinh của DNSE được thiết kế các tính năng tự động ưu việt. Ảnh: DNSE
+
+Song song, công ty mở rộng kết nối API mở với các nền tảng như Zalopay và TradingView, cho phép người dùng truy cập thông tin và giao dịch chứng khoán ngay trên những ứng dụng quen thuộc.
+
+Như vậy, 5 năm gần đây, kể từ khi phát triển theo mô hình fintech chứng khoán, với mục tiêu "Đơn giản hóa đầu tư cho người Việt", DNSE đã xây dựng một hệ sinh thái tài chính số toàn diện, với loạt sản phẩm được thị trường đánh giá cao, góp phần giúp công ty trở thành một trong những doanh nghiệp tăng trưởng ấn tượng trên thị trường chứng khoán Việt Nam giai đoạn 2020-2025.
+
+Các sản phẩm công nghệ đơn giản hóa quá trình đầu tư và chiến lược Open API với mô hình nền tảng mở đã giúp DNSE mở rộng nhanh tệp khách hàng, liên tục dẫn đầu thị phần tài khoản mở mới với hơn 1,3 triệu tài khoản, tương đương 12% tổng tài khoản toàn thị trường. Thành công này góp phần tạo nền tảng cho bước bứt phá trong kỷ nguyên nâng hạng thị trường, khi thế hệ nhà đầu tư mới ngày càng năng động và am hiểu công nghệ.
+
+Minh Ngọc

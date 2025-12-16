@@ -1,0 +1,45 @@
+Bước vào thập kỷ 2020, việc đầu tư trên Phố Wall không khác gì một chuyến phiêu lưu. Chỉ số trung bình công nghiệp Dow Jones, S&P 500 và Nasdaq Composite đều đã tăng trong những giai đoạn biến động.
+
+Mặc dù có những rủi ro nhất định khi rót tiền vào Phố Wall, điều đó không ngăn được các nhà đầu tư dự đoán về diễn biến tiếp theo của các chỉ số Dow Jones, S&P 500 và Nasdaq Composite. Trong đó, một chỉ báo suy thoái với thành tích hoàn hảo từ năm 1959 đến nay có thể cung cấp những manh mối quan trọng về những gì sẽ xảy đến đối với nền kinh tế và thị trường chứng khoán Mỹ.
+
+Chỉ báo suy thoái chưa bao giờ sai
+
+Thành thật mà nói, không có chỉ báo nào hoàn hảo hay dự đoán chính xác 100% diễn biến của các ba chỉ số chính. Nhưng có những số liệu, dữ liệu kinh tế và công cụ dự báo có mối tương quan dài hạn với những biến động trên thị trường chứng khoán. Trong đó, chỉ số Leading Economic Index (LEI) của tổ chức nghiên cứu Conference Board là một trong những công cụ quan trọng.
+
+Chỉ số LEI bao gồm 10 dữ liệu đầu vào và được báo cáo hàng tháng. Ba dữ liệu có tính chất tài chính bao gồm chỉ số tín dụng độc quyền Leading Credit Index, chênh lệch lãi suất và hiệu suất của S&P 500. Bảy dữ liệu đầu vào còn lại là phi tài chính, chẳng hạn như số giờ sản xuất bình quân hàng tuần, đơn xin trợ cấp thất nghiệp lần đầu, đơn đặt hàng mới của các nhà sản xuất, giấy phép xây dựng nhà ở mới, v.v..
+
+Theo cách nói của Conference Board, “Chỉ số LEI là một biến số dự báo các bước ngoặt trong chu kỳ kinh doanh ở Mỹ trong khoảng bảy tháng”. Nói cách khác, LEI có khả năng báo hiệu sự yếu kém của nền kinh tế trước khi Cục Nghiên cứu Kinh tế Quốc gia Mỹ (NBER) chính thức ra tuyên bố.
+
+Trong tháng 12/2023, LEI giảm 0,1% và tỷ lệ tăng trưởng 6 tháng giảm 2,9%. Mặc dù đây là mức giảm khiêm tốn hơn so với tháng 11 và giai đoạn 6 tháng trước đó, nhưng đây vẫn là tháng thứ 21 LEI liên tiếp giảm. Khi lật năm 1959, LEI có đợt giảm 24 tháng liên tiếp trước cuộc khủng hoảng tài chính (2008-2009) và 22 tháng sụt giảm trong cuộc suy thoái 1973-1975.
+
+Chỉ số kinh tế hàng đầu ghi nhận mức giảm hàng tháng lần thứ 21 liên tiếp
+
+Tuy nhiên, thời gian chỉ số này sụt giảm liên tiếp chỉ là một phần vấn đề. Trong quá khứ, sự thay đổi hàng năm của LEI có ý nghĩa quan trọng hơn nhiều đối với việc dự báo nguy cơ nền kinh tế Mỹ suy thoái.
+
+Nhìn lại suốt 65 năm, nhiều trường hợp LEI giảm từ 0,1% xuống còn 3,9%. Nhưng mức này chưa phải là dấu hiệu cho thấy Mỹ đang suy thoái. Phải đến khi LEI giảm tối thiểu 4% thì nó mới tương quan với một cuộc suy thoái ở Mỹ. Gần đây, LEI của Mỹ giảm nhẹ, tiếp tục báo hiệu sự yếu kém tiềm ẩn trong nền kinh tế Mỹ.
+
+Mặc dù chứng khoán và nền kinh tế không gắn liền với nhau, nhưng một khi nền kinh tế yếu đi, lợi nhuận của doanh nghiệp sẽ bị ảnh hưởng, từ đó tác động đến giá cổ phiếu. Trước đây, phần lớn S&P 500 đều sụt giảm sau chứ không phải trước các đợt suy thoái.
+
+Không riêng LEI dự đoán suy thoái
+
+LEI không phải chỉ số duy nhất dự báo nguy cơ suy thoái kinh tế Mỹ. Một vài số liệu khác cũng có thành tích dự báo đáng kinh ngạc.
+
+Thứ nhất là công cụ dự đoán khả năng suy thoái của Ngân hàng Dự trữ Liên bang (FED) New York. Công cụ của FED New York xem xét mức chênh lệch lợi suất giữa trái phiếu kho bạc kỳ hạn 10 năm và tín phiếu kho bạc kỳ hạn 3 tháng để xác định khả năng xảy ra suy thoái trong 12 tháng tới, Mức chênh lệch này còn gọi là đường cong lợi suất.
+
+Biểu đồ xác suất suy thoái của Mỹ
+
+Thông thường, đường cong lợi suất sẽ lồi và dốc lên bên phải. Lúc này, lợi suất trái phiếu dài hạn sẽ cao hơn so với trái phiếu ngắn hạn. Rắc rối sẽ nảy sinh khi đường cong này bị lõm và dốc xuống về bên phải, hay à đường cong lợi suất bị đảo ngược. Khi đó, lợi suất trái phiếu kho bạc kỳ hạn 10 năm thấp hơn trái phiếu kho bạc kỳ hạn 3 tháng.
+
+Mặc dù không phải lần nào đường cong lợi suất đảo ngược đều dẫn đến suy thoái kinh tế, nhưng mọi cuộc suy thoái kinh tế Mỹ kể từ Thế chiến II đều xảy ra sau khi đường cong lợi suất đảo ngược. Hiện công cụ của FED New York dự đoán khả năng xảy ra suy thoái trước tháng 12/2024 là gần 63%.
+
+Một số liệu khác cũng có khả năng dự báo là Trữ Lượng Tiền M2. Vì “tiền là nhiên liệu của nền kinh tế”, những thay đổi trong nguồn cung tiền có thể tác động đến tăng trưởng kinh tế, chi tiêu và tốc độ tăng giá. Khi nguồn cung tiền giảm, người tiêu dùng sẽ mua ít hàng hóa và dịch vụ hơn, điều này có tác động tiêu cực đến thu nhập của công ty.
+
+Nguồn cung tiền của Mỹ chính thức bị thu hẹp. Điều này chỉ xảy ra 4 lần trong 150 năm qua.
+
+Trong 154 năm qua, đã có 5 trường hợp Trữ Lượng Tiền M2 giảm ít nhất 2% so với cùng kỳ năm trước (1878, 1893, 1921, 1931-1933 và 2023-hiện tại). Với 4 trường hợp trước đây, M2 giảm kéo theo tình trạng khủng hoảng giảm phát với tỷ lệ thất nghiệp tăng cao.
+
+Mặc dù không có chỉ báo nào là chắc chắn 100%, nhiều công cụ dự báo và số liệu đang chỉ ra một năm đầy thách thức đối với nền kinh tế Mỹ và thị trường chứng khoán. Nhưng ngay cả khi những chỉ báo này chính xác thì các nhà đầu tư cũng không cần quá lo lắng.
+
+Vì các cuộc suy thoái thường không kéo dài. Những nhà đầu tư áp dụng cách tiếp cận dài hạn sẽ có phong độ tốt, cho dù nền kinh tế Mỹ năm 2024 có diễn biến ra sao.
+
+Tham khảo Yahoo Finance

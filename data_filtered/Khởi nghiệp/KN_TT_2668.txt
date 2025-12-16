@@ -1,0 +1,49 @@
+TTCT - Từ app, máy in 3D, củ ấu tươi đến toàn cầu hóa là hành trình còn rất xa và còn lắm chông gai. Tuy nhiên, đâu đó trong thời khắc chuyển mùa có sự sẻ chia của những giọt xuân hi vọng...
+
+2017 là năm của những cuộc thi khởi nghiệp. Có khi trong vòng một tháng, tôi được mời làm giám khảo ba cuộc thi startup khác nhau. Bữa đó, chấm thi từ sáng tới chiều mệt quá, tôi cầm ly cà phê sang trò chuyện với một giáo sư người Thụy Điển lúc nghỉ giữa giờ. Hỏi anh thấy vụ thi cử này ra sao, anh cười cười trả lời: “Sáng chiều toàn app!”.
+
+App thập bát chưởng
+
+Số là tất cả các đội đều ứng dụng tư duy đổi mới sáng tạo bằng cách viết ra đủ các kiểu app (application - ứng dụng). Cái gì trước giờ chưa app thì ta app. Có nhiều app trình bày xong, tôi hỏi các bạn đã tìm hiểu nhu cầu người sử dụng chưa, có đến 90% trả lời là chưa.
+
+Ừ thì biết là các bạn thuộc thế hệ 4.0, nhưng mấy chấm không thì ta cũng phải bắt đầu từ khách hàng đã chứ. Nếu không biết nhu cầu hiện tại, nhu cầu chưa được thỏa mãn, nhu cầu tương lai của khách hàng thì biết làm ra sản phẩm thế nào đây? Hay ta cứ làm trước, sai tới đâu sửa tới đó?
+
+À thì ra khởi nghiệp thế kỷ cách mạng 4.0 cũng vẫn vướng cái tư duy vừa sai vừa sửa. Chỉ có điều khách hàng có đến hàng triệu lựa chọn về dịch vụ, không chỉ từ Việt Nam, mà cả từ khu vực và thế giới. Tốt nhất, phù hợp nhu cầu nhất, mới nhất, hay nhất thì người ta sử dụng. Thế giới này đã không còn biên giới, phân biệt làm sao hàng nội hàng ngoại, tính toán làm sao chuyện nước họ nước ta?
+
+“Sao Việt Nam chẳng thấy ai đi thi mà có một giải pháp sáng tạo đăng ký bằng sáng chế được nhỉ?” - anh giáo sư quay sang hỏi và tôi chẳng thể trả lời. Đổi mới sáng tạo đâu phải chuyện hô hào, rồi xông lên ngày một ngày hai. Đổi mới sáng tạo cần được nuôi dưỡng, cần gieo hạt, tưới nước và xây dựng môi trường từ trong trường học, từ cấp phổ thông mà.
+
+“Bảo bối” máy in 3D?
+
+Johannes là sinh viên năm 4, người Đức, sang Venlo (Hà Lan) trình bày phát minh của mình tại hội nghị in 3D ngành thực phẩm tháng 7-2017. Anh vừa nói vừa in thử bánh sôcôla cho chúng tôi ăn: “Đây là tương lai của ngành thực phẩm mang tính cá nhân hóa cao độ cho tương lai”. Tôi vừa ăn sôcôla vừa gật gù tin thầm trong bụng rằng tương lai ấy chắc phải đâu đó 10-15 năm nữa.
+
+In 3D ngành thực phẩm đã được đưa vào kênh nhà hàng, khách sạn, chuỗi bán lẻ tại nhiều quốc gia phát triển. Tuy nhiên, ứng dụng của công nghệ này vẫn còn nằm trong tay những chuyên gia thực phẩm chuyên nghiệp kiểu đầu bếp nổi tiếng, hay chuỗi bán lẻ thực phẩm lớn, muốn cung cấp thêm dịch vụ cá nhân hóa mới lạ cho nhóm khách hàng số đang tăng dần trên thế giới.
+
+Nhưng vấn đề không phải là cái máy in. Tôi gặp Johannes sau buổi trình bày và hỏi anh tại sao lại chọn phát minh này. Anh cười rất tươi và cho biết nền tảng của phát minh, nền tảng của đổi mới sáng tạo đối với những người như anh là nhằm giải quyết các vấn đề lớn trên thế giới, chẳng hạn có thể giải quyết được vấn đề lãng phí thực phẩm do chuỗi cung ứng gây ra. Nếu ta có giải pháp sản xuất sản phẩm tại thời điểm sử dụng của người dùng, chẳng phải ta đang góp phần giải quyết bài toán 1/3 số lượng thực phẩm bị hư hại và bỏ đi trong quá trình cung ứng?
+
+Cũng tại đây, tôi gặp một nhóm sinh viên năm 2 Trường đại học Công nghệ Delft (Hà Lan). Nhóm phát minh những con ong máy, sử dụng công nghệ drone (thiết bị bay không người lái). Ong thường thì thụ phấn không đều, hoa có hoa không. Ong máy với IoT - mạng lưới vạn vật kết nối - thành những con ong drone được lập trình để chẳng thể bỏ qua một cơ hội thụ phấn nào.
+
+“Còn phát minh tiếp không Johannes?” - tôi hỏi sau hội nghị. “Có chứ! Tôi đang cải tiến số lượng ống nguyên liệu in từ 3 lên thành 6. Chắc cũng gần ra sản phẩm được rồi. Chị biết đấy, in thực phẩm mà ít nguyên vật liệu, đơn điệu quá thì đâu thể sáng tạo ra những món ăn cầu kỳ theo sở thích nhiều người được chứ”.
+
+Củ ấu tươi ơi, hãy qua sông nhé!
+
+Em đứng lên, trình bày về dự án củ ấu tươi tách vỏ trong cuộc thi khởi nghiệp về nông nghiệp. Em có câu chuyện hay lắm, về kỷ niệm tuổi ấu thơ khi mẹ đi chợ mua củ ấu cho con.
+
+Nơi đây, trên miền cảm xúc của các em, không có sự hiện diện của 4.0. Chẳng phải là lỗi của em, cũng chẳng phải là lỗi của cái thế kỷ khắc nghiệt này. Công nghệ cứ mỗi đêm mỗi khác. Người sợ tụt hậu như tôi chạy theo còn áp lực, huống gì là các em, những cuộc đời xưa rày vốn chỉ quanh quẩn với ruộng đồng?
+
+Chuyện này làm tôi nhớ lại tin nhắn của một bạn trẻ gửi cho tôi trên Facebook: “Con đang rất lo lắng cho chính mình. Lo lắng ấy nửa thực tế, nửa mơ hồ. Ngày nay, cuộc cách mạng 4.0 diễn ra như cơn sóng. Cơn sóng này nâng cả thế giới và con thấy mình như người ngoài hành tinh, đứng trong cơn sóng nhưng chẳng liên quan gì đến nó. Buồn quá đúng không cô?”.
+
+Hình như có gì đó sai sai, như bị cúp điện giữa chừng mà ngắt đi kết nối. Khởi nghiệp, khởi nghiệp, ừ thì khởi nghiệp. Nhưng phải chăng còn những việc quan trọng hơn, nhân văn hơn và thiết thực hơn, như chuyện bắc một chiếc cầu cho lũ trẻ sang sông, về đây kết nối với những điều cơ bản nhất của thế kỷ 4.0 này? Củ ấu tươi ơi, sang sông em nhé!
+
+Toàn cầu hóa - liên quan gì?
+
+Kinh tế đổi mới sáng tạo phát triển với tốc độ gấp hai lần kinh tế thế giới. Đó là kinh tế của tương lai. Và một hệ sinh thái khởi nghiệp muốn bắt kịp với tốc độ của thế giới cần phải có sự chuẩn bị để chuyển mình từ giai đoạn này sang giai đoạn khác.
+
+Những năm qua, Việt Nam vẫn nằm ở giai đoạn đầu phát triển, trong thời khắc gọi là Khởi động (Activation). Ở giai đoạn này, người người hô hào và lớp lớp xông pha. Chả mấy kẻ thành công. Hầu hết ngậm đắng nuốt cay về quê đi làm thuê trả nợ. Mà có bao nhiêu năm cho thời gian khởi động? Và ta cần chuẩn bị những gì để qua cái tết này ta lại chuyển mình?
+
+Và rất cần sự hiện diện, tham gia tích cực của các quỹ đầu tư hạt giống (seed funding) nhằm tạo điều kiện thương mại hóa cao hơn cho doanh nghiệp startup.
+
+Và cũng không thể chần chờ được nữa, ta cần chuẩn bị tinh thần và kế hoạch, tạo tiền đề cho phép mình chuyển sang giai đoạn thứ hai trong bản đồ phát triển hệ sinh thái khởi nghiệp - giai đoạn toàn cầu hóa. Trong giai đoạn này là lúc dọn chỗ cho những nền tảng mới, bao gồm việc kết nối chia sẻ tri thức thế giới từ cả hai hướng vào và ra, kết nối hiệu quả các hệ sinh thái toàn cầu.
+
+Các giai đoạn tiếp theo bao gồm mở rộng (expansion) và hội nhập (integration) nên được nghiên cứu và chuẩn bị từ hôm nay, nếu Việt Nam có tham vọng tham gia top các hệ sinh thái khởi nghiệp toàn cầu, tạo ra một ngành kinh tế đổi mới sáng tạo có dấu ấn trên bản đồ thế giới.
+
+Từ app, máy in 3D, củ ấu tươi đến toàn cầu hóa là hành trình còn rất xa và còn lắm chông gai. Tuy nhiên, đâu đó trong thời khắc chuyển mùa có sự sẻ chia của những giọt xuân hi vọng về một tầm nhìn, về một chiến lược thống nhất, về những đầu tư quyết liệt vào từng nền tảng cơ bản của một nền kinh tế tri thức, một nền kinh tế mang tên sáng tạo và đổi mới.■

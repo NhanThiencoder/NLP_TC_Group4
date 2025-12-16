@@ -1,0 +1,23 @@
+Xe bay dạng module chạy bằng điện và robot hình người cao 173 cm của công ty Xpeng dự kiến được sản xuất hàng loạt năm 2026.
+
+Công ty Trung Quốc sản xuất hàng loạt xe bay, robot hình người Xe bay Aeroht gồm 2 module, module bay và module mặt đất. Video: Xpeng
+
+Công ty Trung Quốc Xpeng công bố kế hoạch sản xuất hàng loạt xe bay và robot hình người vào năm 2026. Theo He Xiaopeng, chủ tịch kiêm CEO XPeng, nếu dự án diễn ra theo đúng lịch trình, XPeng có thể là công ty đầu tiên sản xuất hàng loạt xe bay trên thế giới, Interesting Engineering hôm 10/3 đưa tin.
+
+Công ty đã hé lộ mẫu xe bay Aeroht (Tàu sân bay trên cạn) tại Triển lãm điện tử tiêu dùng (CES) 2025 hồi tháng 1. Aeroht là xe bay dạng module, gồm một module bay có thể tách rời đặt bên trong module chạy trên mặt đất. Module bay sẽ được module mặt đất vận chuyển đến một địa điểm phóng, sau đó cất cánh theo phương thẳng đứng chỉ bằng một lệnh. Sau khi hạ cánh, nó sẽ kết nối lại với module mặt đất. Đây là xe bay đầu tiên thuộc loại này cho phép tách rời và kết nối lại tự động.
+
+Module bay là một phương tiện cất hạ cánh thẳng đứng chạy bằng điện (eVTOL) với nhiều tính năng an toàn tiên tiến như công nghệ điều khiển bay, động cơ đẩy và nguồn điện dự phòng. Để bay ổn định và hiệu quả, module này sử dụng khung sợi carbon nhẹ với 6 cánh quạt có thể gấp gọn. Với tầm nhìn 270 độ, buồng lái hỗ trợ lập kế hoạch tuyến đường tự động, theo dõi bầu trời theo thời gian thực và hạ cánh chính xác.
+
+Module mặt đất là một chiếc xe điện 6 bánh, có tầm hoạt động hơn 1.000 km và đóng vai trò như trạm sạc di động cho module bay, cho phép bay 6 chuyến khi sạc đầy. Module này có cabin 4 chỗ rộng rãi cùng nhiều trang bị tiên tiến như cửa mở hai chiều. Nó cũng có thể đậu vừa trong những bãi đỗ xe tiêu chuẩn.
+
+Robot hình người Iron. Ảnh: Xpeng
+
+Xpeng giới thiệu robot hình người đầu tiên của mình, Iron, tại sự kiện Ngày AI vào tháng 11/2024. Cao 173 cm và nặng 70 kg, Iron đang làm việc tại nhà máy sản xuất xe điện Xpeng tại Quảng Châu, tích cực lắp ráp những chiếc xe điện sắp ra mắt.
+
+Iron có hơn 60 khớp nối và 200 bậc tự do (có thể thực hiện hơn 200 động tác độc lập), cho phép nó cầm nắm đồ vật chính xác và thực hiện nhiều nhiệm vụ phức tạp, ví dụ như đi bộ. Robot hoạt động nhờ chip Turing AI được thiết kế riêng của Xpeng, một bộ xử lý 40 nhân được chế tạo cho các thiết bị sử dụng nhiều AI, bao gồm robot, phương tiện tự động, thậm chí xe bay.
+
+Theo Xpeng, chip Turing AI có thể xử lý các mô hình AI với 30 tỷ tham số và đã trải qua hơn 2.700 lần xác minh chức năng chỉ trong 40 ngày - gấp ba lần tiêu chuẩn về hiệu quả phát triển trong ngành. Khả năng xử lý tiên tiến này cho phép Iron suy nghĩ, thích ứng và thực hiện các nhiệm vụ với khả năng ra quyết định giống như con người.
+
+Xpeng đặt mục tiêu mở rộng phạm vi ứng dụng của Iron ra ngoài lĩnh vực sản xuất. Công ty dự định dùng robot hình người làm trợ lý cá nhân trong các nhiệm vụ như quản lý và dịch vụ khách hàng tại cửa hàng bán lẻ, văn phòng, nhà ở.
+
+Thu Thảo (Theo Interesting Engineering)

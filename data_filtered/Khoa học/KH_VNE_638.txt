@@ -1,0 +1,13 @@
+Robot tự động xây thang máy cho nhà chọc trời
+
+Robot tự động xây thang máy cho nhà chọc trời
+
+
+
+
+
+
+
+
+
+Hệ thống robot RISE trèo vào giếng thang máy, xác định vị trí và khoan lỗ bu lông trong khi con người chỉ cần giám sát từ xa qua camera.

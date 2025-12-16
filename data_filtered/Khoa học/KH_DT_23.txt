@@ -1,0 +1,25 @@
+Một chiếc váy được làm từ loại vải đen nhất từng được ghi nhận (Ảnh: Đại học Cornell).
+
+Trong những tiến bộ mới nhất về khoa học vật liệu và quang học, các kỹ sư tại Đại học Cornell (Mỹ) đã công bố phát triển thành công loại vải đen nhất từng được sản xuất, với khả năng hấp thụ tới 99,87 % ánh sáng chiếu vào bề mặt, gần đạt tới giới hạn của “ultrablack” – thuật ngữ chỉ các vật liệu phản xạ dưới 0,5 % ánh sáng.
+
+Để đạt được độ đen vượt trội này, nhóm nghiên cứu đã kết hợp kỹ thuật xử lý ở cấp độ nano và cảm hứng sinh học.
+
+Bắt đầu từ len merino trắng (một loại sợi tự nhiên mềm và đàn hồi) các nhà khoa học nhuộm bằng polydopamine, một polymer melanin tổng hợp mô phỏng sự hấp thụ ánh sáng mạnh tương tự như melanin trong tự nhiên.
+
+Sau đó, sợi vải được đưa vào buồng plasma, nơi bề mặt sợi được khắc tạo ra những nanofibril, hay các cấu trúc sợi cực nhỏ có khả năng “bẫy” photon ánh sáng.
+
+Qua quá trình này, ánh sáng không phản xạ lại bề mặt mà liên tục bị len lỏi và hấp thụ giữa các nanofibril, khiến lượng ánh sáng phản xạ trở lại chỉ còn khoảng 0,13 % trung bình trên toàn bề mặt.
+
+Cấu trúc loại vải lấy cảm hứng từ chim Ptiloris magnificus. Chúng được biết đến với bộ lông đen tuyền trên cơ thể (Ảnh: Getty).
+
+Điểm đặc biệt của loại vải này là khả năng giữ được đặc tính siêu đen kể cả khi nhìn từ góc rộng lên đến 60 độ hai bên, khác với nhiều vật liệu tự nhiên như lông của một số loài chim, vốn chỉ xuất hiện siêu đen khi quan sát trực diện.
+
+Chính đặc điểm này khiến hiệu ứng hấp thụ ánh sáng trên vải ổn định và mạnh mẽ hơn nhiều so với quan sát bằng mắt thường, tạo ra vẻ “đen tuyền” thực sự trên nền vật liệu dệt.
+
+So sánh với các vật liệu siêu đen khác, dù không phải là vật liệu đen nhất trên thế giới (ví dụ như Vantablack từng đạt mức hấp thụ tới 99,96% ánh sáng hay các vật liệu carbon nanotube của MIT với khoảng 99,995%), loại vải siêu đen của các kỹ sư tại Đại học Cornell có lợi thế lớn về khả năng sản xuất quy mô lớn, dễ áp dụng vào dệt may và tính linh hoạt ứng dụng cao hơn.
+
+Quá trình sản xuất vải gồm 2 bước chính: đầu tiên là nhuộm toàn bộ sợi len bằng polydopamine để tối ưu hấp thụ, sau đó là xử lý plasma để tạo ra nanostructure.
+
+Với đặc tính hấp thụ cực cao, nó có thể được dùng trong quang học công nghiệp như tấm nền hấp thụ ánh sáng cho camera, kính thiên văn, pin mặt trời, và các thiết bị quang điện tử cần giảm phản xạ ánh sáng để tăng hiệu suất năng lượng.
+
+Ngoài ra, hiệu ứng hấp thụ nhiệt cũng có thể được tận dụng trong các sản phẩm cách nhiệt hoặc điều chỉnh nhiệt độ bề mặt.

@@ -1,0 +1,73 @@
+Title: "Cơn điên" AI và cuộc chiến chip nhớ: Khi gã khổng lồ cũng phải van nài
+
+Thế giới công nghệ đang chứng kiến một kịch bản chưa có tiền lệ. Từ những khu chợ điện tử sầm uất ở Hoa Cường Bắc (Thâm Quyến, Trung Quốc) hay Akihabara (Tokyo, Nhật Bản) cho đến phòng họp chiến lược của Microsoft, Google hay Dell, tất cả đều đang quay cuồng trong một cơn bão mang tên “thiếu hụt chip nhớ”.
+
+Không còn là những lời cảnh báo viển vông, cuộc khủng hoảng chuỗi cung ứng mới đang hiện hữu rõ rệt, được châm ngòi bởi chính cơn khát AI không đáy của nhân loại.
+
+Cơn sốt AI đang đẩy thế giới vào một cuộc khủng hoảng chuỗi cung ứng mới (Ảnh: Reuters).
+
+Khi "cơn khát" AI hút cạn nguồn sống của thế giới số
+
+Tháng 11/2022, sự ra đời của ChatGPT đã kích hoạt một cuộc chạy đua vũ trang số chưa từng có. Nhưng ít ai ngờ, hệ lụy nhãn tiền của nó lại giáng đòn mạnh mẽ vào những linh kiện tưởng chừng như bình dân nhất, đó là chip nhớ.
+
+Cốt lõi của vấn đề nằm ở sự chuyển dịch mang tính sống còn của các nhà sản xuất bán dẫn. Để phục vụ những bộ xử lý AI quái vật của Nvidia, các "ông vua" chip nhớ như Samsung Electronics, SK Hynix và Micron Technology đang ồ ạt chuyển đổi dây chuyền sang sản xuất bộ nhớ băng thông cao (HBM) - loại chip có biên lợi nhuận béo bở. Hệ quả là năng lực sản xuất dành cho DRAM truyền thống (dùng cho PC, smartphone) và bộ nhớ flash bị cắt giảm không thương tiếc.
+
+Ông Dan Nystedt, Phó chủ tịch bộ phận nghiên cứu của TriOrient, ví von hình tượng: "Cuộc đua hạ tầng AI đang nuốt chửng nguồn cung chip sẵn có".
+
+Số liệu từ TrendForce vẽ nên một bức tranh ảm đạm: Tồn kho trung bình tại các nhà cung ứng DRAM trong tháng 10 đã giảm xuống mức báo động, chỉ còn vỏn vẹn 2-4 tuần, so với mức an toàn 13-17 tuần hồi cuối năm 2024.
+
+Trong bối cảnh đó, một cuộc "huynh đệ tương tàn" để giành giật nguồn cung đang diễn ra khốc liệt giữa các gã khổng lồ. Theo các nguồn tin thân cận, Google, Microsoft, ByteDance và cả Meta đang gấp rút chạy đua, thậm chí chấp nhận mọi mức giá để gom hàng từ Samsung và SK Hynix.
+
+Thậm chí, câu chuyện không còn nằm ở tiền bạc. Một nguồn tin giấu tên trong ngành chia sẻ với Reuters một thực tế chua chát: “Mọi người đều đang phải cầu xin nguồn cung”. Ngay cả những tập đoàn quyền lực nhất Trung Quốc như Alibaba hay Tencent cũng phải cử lãnh đạo cấp cao sang tận trụ sở Samsung và SK Hynix để "ngoại giao", vận động hành lang nhằm mong được phân bổ nguồn hàng.
+
+"Bão giá" ập đến: Từ máy chủ đến chiếc điện thoại trên tay bạn
+
+Nếu bạn nghĩ cuộc chiến này chỉ là chuyện của các tỷ phú công nghệ, hãy nhìn lại chiếc điện thoại hay laptop mình đang dùng. Sự khan hiếm ở thượng tầng đang tạo ra hiệu ứng domino, đổ dồn áp lực lên túi tiền người dùng cuối.
+
+Đây là một "thế kẹt kép" kinh điển: Các nhà máy không sản xuất kịp chip cao cấp cho AI, đồng thời bỏ bê phân khúc chip bình dân, khiến nguồn cung cho smartphone, PC và thiết bị điện tử tiêu dùng bị bóp nghẹt.
+
+Tiếng chuông báo động đã vang lên từ các nhà sản xuất thiết bị. Francis Wong, Giám đốc marketing Realme Ấn Độ, không giấu nổi sự lo ngại khi cho biết chi phí chip nhớ đang tăng ở mức "chưa từng có tiền lệ kể từ khi smartphone ra đời". Ông cảnh báo giá điện thoại có thể phải tăng tới 20-30%.
+
+"Các hãng có thể cắt giảm chi phí ở camera, pin hay vỏ máy, nhưng chi phí lưu trữ là thứ buộc phải gánh trọn, không thể né tránh", ông Wong nhấn mạnh.
+
+Không chỉ smartphone, thị trường PC cũng đang nín thở. Lãnh đạo của Dell Technologies và HP Inc. đều thừa nhận họ chưa bao giờ thấy chi phí biến động với tốc độ chóng mặt như hiện nay. Dell cho biết chi phí đang đội lên trên toàn bộ danh mục sản phẩm, từ DRAM cho đến ổ cứng SSD. HP dự báo nửa cuối năm 2026 sẽ là giai đoạn cực kỳ khó khăn và việc tăng giá bán là điều khó tránh khỏi.
+
+Ngay cả Apple, "gã khổng lồ" vốn nổi tiếng với khả năng kiểm soát chuỗi cung ứng siêu hạng, cũng bắt đầu cảm nhận được sức nóng. CFO Kevan Parekh thừa nhận giá chip nhớ đang tạo ra lực đẩy tăng chi phí cấu trúc cho các sản phẩm mới.
+
+Tại Trung Quốc, Xiaomi và Lenovo đã bắt đầu tích trữ linh kiện như một biện pháp phòng thủ, chấp nhận tồn kho cao hơn 50% so với mức bình thường để tránh cú sốc giá trong năm tới.
+
+Giám đốc vận hành Jeff Clarke của Dell cho biết chưa bao giờ chứng kiến “chi phí biến động với tốc độ nhanh như hiện nay” (Ảnh: Bloomberg).
+
+"Chợ đen" nổi sóng và những giao dịch tính bằng giờ
+
+Sự khan hiếm đã đẩy thị trường vào tình trạng hỗn loạn, tạo cơ hội cho giới đầu cơ và thị trường thứ cấp bùng nổ.
+
+Tại "thánh địa" đồ điện tử Akihabara (Nhật Bản), không khí mua sắm trở nên căng thẳng. Các cửa hàng buộc phải áp dụng chính sách thời bao cấp: hạn chế số lượng mua trên mỗi đầu người để ngăn chặn đầu cơ. Giá RAM DDR5 - món hàng ưa thích của game thủ - đã tăng gấp đôi chỉ trong vài tuần. Nhiều kệ hàng đã trống trơn.
+
+Tình hình tại Thâm Quyến (Trung Quốc) còn kịch tính hơn. Bà Eva Wu, một nhà phân phối linh kiện, mô tả thị trường hiện tại giống như sàn chứng khoán. Báo giá chip không còn hiệu lực theo tháng, mà thay đổi theo ngày, thậm chí theo giờ.
+
+Câu chuyện của ông Paul Coronado tại California (Mỹ) là minh chứng rõ nét nhất cho "cơn điên" này. Công ty của ông chuyên bán chip nhớ tái chế từ các máy chủ cũ - loại hàng trước đây ít ai ngó ngàng. Nhưng nay, doanh số của ông đã tăng gần gấp đôi, lên tới 900.000 USD/tháng. Toàn bộ hàng hóa được các trung gian Hong Kong (Trung Quốc) vét sạch để tuồn về Trung Quốc.
+
+Một người buôn bán tại Bắc Kinh tiết lộ bà đang ôm 20.000 thanh RAM, kiên quyết không bán để chờ giá leo thang thêm nữa. Tâm lý găm hàng, đầu cơ đang khiến tình trạng khan hiếm càng trở nên trầm trọng, tạo ra một vòng xoáy tăng giá không có điểm dừng.
+
+Cơn sốt này biến thị trường linh kiện cũ thành một sàn đấu tàn khốc đúng nghĩa. Tại các diễn đàn công nghệ ngầm, những lô RAM hay ổ cứng từng bị xếp xó bỗng chốc hóa vàng ròng. Giới thợ săn linh kiện mô tả cảnh tượng hiện tại là một cuộc đào đãi điên cuồng: bất cứ thiết bị nào có chip nhớ, từ máy chủ thải loại đến PC cũ nát, đều bị “xẻ thịt” không thương tiếc để thu hồi linh kiện.
+
+Thậm chí, quy luật “tiền trao cháo múc” truyền thống cũng bị phá vỡ. Nhiều tay buôn sừng sỏ tại Hoa Cường Bắc yêu cầu đặt cọc tiền mặt 100% ngay khi chốt giá miệng, bởi chỉ cần chậm 30 phút chuyển khoản, lô hàng đó sẽ lập tức về tay kẻ khác với mức giá cao hơn. Không khí giao dịch căng thẳng, dồn dập và đầy rủi ro tựa như những thước phim về phố Wall trong ngày thị trường biến động, chỉ khác là ở đây, biểu đồ giá đang dựng đứng một cách phi mã.
+
+Rủi ro vĩ mô: Khi bong bóng AI va phải tường vật lý
+
+Cuộc khủng hoảng này không chỉ dừng lại ở biên lợi nhuận doanh nghiệp hay giá bán lẻ. Nó đang trở thành một rủi ro kinh tế vĩ mô.
+
+Ông Sanchit Vir Gogia, CEO công ty tư vấn Greyhound Research nhận định: "Tình trạng thiếu chip nhớ giờ đây đã vượt khỏi phạm vi một vấn đề linh kiện. Cuộc mở rộng hạ tầng AI đang va chạm mạnh với một chuỗi cung ứng không đủ khả năng đáp ứng các giới hạn vật lý".
+
+Giới chuyên gia cảnh báo, sự thiếu hụt kéo dài có nguy cơ làm chậm lại tiến trình số hóa toàn cầu, trì hoãn hàng trăm tỷ USD đầu tư vào hạ tầng số. Nguy hiểm hơn, nó tạo thêm áp lực lạm phát lên nền kinh tế toàn cầu vốn đang rất mong manh trước các biến động địa chính trị và rào cản thuế quan.
+
+Những con chip được bày bán tại một gian hàng trong trung tâm thương mại thuộc chợ điện tử Hoa Cường Bắc, thành phố Thâm Quyến, tỉnh Quảng Đông (Trung Quốc). Nhiều hãng sản xuất smartphone Trung Quốc đang cảnh báo khả năng tăng giá bán (Ảnh: Reuters).
+
+Một câu hỏi lớn được đặt ra, là liệu đây có phải là dấu hiệu của một bong bóng sắp vỡ? Các nhà máy chip mới cần ít nhất 2 năm để xây dựng. Nếu các hãng ồ ạt mở rộng công suất (như Samsung và SK Hynix đang làm) và cơn sốt AI hạ nhiệt đột ngột, ngành công nghiệp bán dẫn có thể rơi vào tình trạng thừa mứa tồi tệ như đã từng xảy ra trong quá khứ.
+
+Tuy nhiên, đó là câu chuyện của tương lai. Còn hiện tại, thực tế khắc nghiệt là các dây chuyền sản xuất chip nhớ truyền thống mới chỉ có thể đi vào vận hành từ năm 2027-2028. Theo Citi, SK Hynix đã thông báo với các nhà phân tích rằng tình trạng thiếu hụt sẽ kéo dài ít nhất đến cuối năm 2027.
+
+Chủ tịch Tập đoàn SK, ông Chey Tae-won, đã tổng kết tình hình bằng một nhận định đầy sức nặng tại diễn đàn ở Seoul: "Chúng ta đã bước vào một kỷ nguyên mà nguồn cung đối mặt với sự tắc nghẽn nghiêm trọng. Các yêu cầu cung ứng chip đang gửi đến nhiều đến mức chúng tôi lo lắng không biết xoay xở ra sao. Nếu không giao được hàng, nhiều đối tác có thể rơi vào tình trạng không thể kinh doanh".
+
+Lời cảnh báo từ người đứng đầu một trong những đế chế chip nhớ lớn nhất thế giới cho thấy cuộc khủng hoảng này không còn là dự báo. Nó đang ở đây, và sẽ còn định hình lại bức tranh kinh tế - công nghệ toàn cầu trong vài năm tới theo cách khắc nghiệt nhất.

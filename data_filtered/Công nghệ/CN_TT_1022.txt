@@ -1,0 +1,7 @@
+ Microsoft Virtual Server 2005 RC2 hỗ trợ Linux
+
+Trong “làn sóng” Windows Server “Longhorn” tiếp theo, công nghệ ảo sẽ trở thành một phần của môi trường Windows qua công nghệ Windows Hypervisor và người dùng sẽ có thể sử dụng không giới hạn số lượng các hệ điều hành ảo trên một máy chủ vật lý. 
+
+
+
+

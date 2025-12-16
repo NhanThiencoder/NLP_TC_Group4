@@ -1,0 +1,9 @@
+ Phần mềm tra cứu danh bạ điện thoại cố định trên ĐTDĐ
+
+So với phiên bản 1.0 trước đây, KPD 2.1 đã cập nhật dữ liệu đến tháng 12/2005 với tổng số 5.804.421 số điện thoại cố định từ hệ thống của VNPT, tăng hơn 1 triệu số thuê bao cố định trong cả nước. 
+
+Trong phiên bản này, ngoài việc người dùng có thể tự cập nhật dữ liệu mới, chương trình còn cho phép hiển thị thông tin thuê bao ngay khi có cuộc gọi đến. Tuy nhiên, tính năng này chỉ có tác dụng trên dòng máy Nokia (nhấn phím C khi có cuộc gọi đến). KPD còn cho phép người sử dụng coppy, dán số hoặc gọi số đang tra cứu, lưu danh sách 20 số vừa tìm trong danh bạ hoặc tra cứu trực tiếp các số gọi nhỡ (trên S60). 
+
+
+
+

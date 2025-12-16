@@ -1,0 +1,33 @@
+Các thành viên Ami thảo luận nhóm - Ảnh: Mỹ
+
+Ứng dụng này đã giành giải nhất cuộc thi Tìm kiếm tài năng khởi nghiệp Techfest 2017 và vừa tham dự Diễn đàn khởi nghiệp tại Mỹ.
+
+"Quản gia ảo" thông minh
+
+"Quản gia ảo" được xây dựng từ tháng 5-2016, bắt đầu từ ý tưởng của Lê Hoàng Nhật (29 tuổi) - giám đốc đồng sáng lập Công ty cổ phần trí tuệ nhân tạo Ami.
+
+"Chúng tôi nhận thấy thực tế những người quản lý nhà cho thuê và người thuê nhà gặp khó khăn trong tính toán số lượng điện năng tiêu thụ. Dưới góc nhìn một người làm phần mềm, tôi nghĩ mình có thể giải quyết vấn đề này với nhiều cơ hội mở ra, giúp việc quản lý nhà thuê hiệu quả hơn", anh nói.
+
+Hoàng Nhật cho biết ứng dụng này là chiếc cầu nối trực tiếp giữa người thuê với chủ nhà, giúp không chỉ coi chỉ số điện mà còn điều chỉnh hành vi sử dụng điện hiệu quả khi kiểm soát thông tin về điện; ứng dụng còn có chức năng cảnh báo rủi ro sự cố điện hướng tới dùng điện an toàn.
+
+Điểm mạnh của Ami chính là việc áp dụng công nghệ trí tuệ nhân tạo AI, hay IoT... nên khách hàng sử dụng ứng dụng có thể liên lạc với nhà quản lý để giải quyết vấn đề khi thuê nhà, ở trọ.
+
+"Hầu hết sự cố cháy nổ là do hành vi dùng điện không đúng liên quan đến tắt điện, rò rỉ hoặc chập cháy điện. Nếu kiểm soát được điện liên tục, chúng ta có thể báo cho chủ nhà biết trước các sự cố để tránh những rủi ro.
+
+Cũng giống như quản gia, ứng dụng còn giúp người dùng quản lý tài chính, tính toán tiền điện dùng trong tháng hoặc tự cài đặt mục tiêu dùng điện" - anh Hoàng Nhật chia sẻ.
+
+Quản lý đến từng giây
+
+"Thời gian trung bình xử lý mỗi sự cố là một ngày, 9 giờ, 41 phút, 48 giây. Trong tương lai, Ami tiếp tục cải thiện để giải quyết sự cố nhanh hơn" - anh Nhật nói.
+
+Giờ đây Ami đã được nhiều người đón nhận. Trong vòng 7 tháng, số lượng đăng ký sử dụng "Quản gia ảo" của Ami trải rộng khắp các quận, huyện ở TP.HCM với 1.506 khách hàng.
+
+“Nếu bạn ấp ủ ý tưởng khởi nghiệp nào đó thì hãy bắt tay thực hiện với một tinh thần “thất bại là mẹ của thành công” LÊ HOÀNG NHẬT
+
+Khách hàng Hồ Minh Nghĩa nhận xét: ""Quản gia ảo" quản lý nhà trọ, căn hộ rất chuyên nghiệp, hình ảnh lại trung thực". Anh cũng cho biết thêm ngoài những ưu điểm như thay vì sử dụng hóa đơn giấy, ứng dụng còn giúp nhận hóa đơn điện tử và đặt lịch thanh toán để nhắc người dùng không trễ hẹn.
+
+Còn khách hàng Trần Lê Huy cho biết sản phẩm này có thể thay thế đồng hồ điện hiện tại, tương lai đồng hồ cơ sẽ được thay thế bằng đồng hồ điện tử thông minh kết nối Internet, giúp người dùng tiện dụng hơn.
+
+Nhiều đối tác, đặc biệt là đối tác nước ngoài quan tâm, muốn hỗ trợ để Ami tiếp cận nguồn vốn và thương mại hóa sản phẩm.
+
+"Hiện tại chi phí sản xuất mỗi sản phẩm ước chừng 1,5 triệu đồng. Để sản xuất đại trà, chúng tôi cần nguồn vốn khá cao, dự trù khoảng 4 tỉ đồng. Chúng tôi đang đăng ký bảo hộ trí tuệ ở trong nước và nước ngoài, đăng ký tem chứng nhận sản phẩm" - Hoàng Nhật cho biết.

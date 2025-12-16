@@ -1,0 +1,7 @@
+ Điện thoại tra hồ sơ hành chính
+
+
+Trong giai đoạn đầu, hệ thống này thực hiện trả lời tự động ở các lĩnh vực: đăng ký kinh doanh (tại Sở Kế hoạch - đầu tư, các quận huyện); cấp phép lĩnh vực văn hóa; đăng ký sử dụng lao động; cấp phép xây dựng và hồ sơ nhà đất. 
+
+
+

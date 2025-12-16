@@ -1,0 +1,59 @@
+Trong những cuộc xung đột hiện đại nơi UAV và trực thăng ‘lén lút’ tiếp cận từ mọi hướng, FIM-92 Stinger nổi lên như một ‘siêu anh hùng’ công nghệ, tên lửa phòng không vác vai (MANPADS) có khả năng khóa mục tiêu chỉ trong vài giây và lao tới với tốc độ Mach 2.2. Được Mỹ phát triển từ những năm 1970, Stinger không chỉ là vũ khí cá nhân mà còn là đỉnh cao của kỹ thuật dẫn đường hồng ngoại thông minh, giúp một người lính đơn độc lật ngược thế cờ không chiến. Hãy cùng ‘lặn sâu’ vào lịch sử ra đời, thông số sắc bén và những bí mật công nghệ khiến nó vẫn thống trị sau hơn bốn thập kỷ.
+
+Ống phóng nhẹ và khả năng gắn trên xe, trực thăng biến Stinger thành công cụ phòng không đa nền tảng. Ảnh: United States Marine Corps
+
+Tên lửa FIM-92 Stinger (tên lửa phòng không vác vai MANPADS) ra đời từ nhu cầu khắc phục hạn chế của người tiền nhiệm FIM-43 Redeye, vốn chỉ có thể bắn đuổi từ phía sau và dễ bị nhiễu.
+
+Quá trình phát triển bắt đầu năm 1967 dưới tên gọi Redeye II, với mục tiêu tạo ra một hệ thống dẫn đường hồng ngoại toàn diện (all-aspect), cho phép tấn công mục tiêu từ mọi góc độ.
+
+Đến năm 1971, Quân đội Mỹ chính thức phê duyệt dự án và đổi tên thành Stinger vào năm 1972.
+
+General Dynamics (sau này là Raytheon) gặp không ít thách thức kỹ thuật, từ việc làm mát đầu dò hồng ngoại đến kiểm soát độ ổn định trong bay, dẫn đến các thử nghiệm thất bại ban đầu.
+
+Tuy nhiên, đến năm 1975, các vấn đề lớn được giải quyết, và lần phóng đầu tiên từ vai diễn ra vào tháng 7 năm đó.
+
+Sản xuất hàng loạt FIM-92A bắt đầu năm 1978, và tên lửa chính thức biên chế cho Lục quân Mỹ năm 1981, thay thế hoàn toàn Redeye.
+
+Từ đó, Stinger nhanh chóng trở thành biểu tượng, với hơn 70.000 quả được sản xuất đến năm 2001, và tiếp tục được nâng cấp để đối phó với các mối đe dọa mới như UAV và tên lửa hành trình.
+
+Tên lửa FIM-92 Stinger và thiết bị phóng (Launcher). Ảnh: Raytheon
+
+Về thông số kỹ thuật, Stinger được thiết kế tối ưu cho tính di động, với chiều dài tổng thể chỉ 1,52 mét, đường kính thân 7cm và sải vây ổn định 9,1cm, giúp dễ dàng giấu trong hộp nhôm tái sử dụng.
+
+Trọng lượng tên lửa riêng lẻ khoảng 10,1kg, trong khi toàn bộ hệ thống bao gồm ống phóng, pin làm mát và thiết bị nhận dạng bạn-thù (IFF) nặng từ 15,2-15,7kg, đủ nhẹ để một người lính mang vác thoải mái qua địa hình gồ ghề.
+
+Động cơ tên lửa sử dụng nhiên liệu rắn hai giai đoạn Mk 27 của Atlantic Research, với giai đoạn tăng tốc ban đầu đẩy tốc độ lên Mach 2.2 (khoảng 640-750 m/s) chỉ trong 2 giây, sau đó chuyển sang chế độ duy trì để giữ quỹ đạo ổn định.
+
+Tầm bắn hiệu quả dao động từ 200 mét (tối thiểu để tránh tự hủy) đến 4.800 mét ở biến thể tiêu chuẩn, và lên đến 8km ở các phiên bản nâng cấp; độ cao tác chiến đạt tối đa 3.800 mét, lý tưởng cho mục tiêu bay thấp như trực thăng hoặc máy bay siêu thanh ở độ cao rất thấp.
+
+Đầu đạn nổ mảnh nặng 3kg, sử dụng ngòi nổ tiếp xúc hoặc gần (proximity) với cơ chế tự hủy sau 15-19 giây nếu trượt mục tiêu, đảm bảo an toàn và giảm thiểu thiệt hại ngoài ý muốn.
+
+Thời gian chuẩn bị bắn chỉ khoảng 6 giây: làm mát đầu dò bằng argon lỏng, quay con quay hồi chuyển và kích hoạt pin lithium cho 45 giây hoạt động.
+
+Tên lửa FIM-92 Stinger được cho là giải pháp phòng không tầm thấp tin cậy với tầm bắn 4,8km. Ảnh: United States Marine Corps
+
+Công nghệ cốt lõi của Stinger nằm ở hệ thống dẫn đường thụ động hồng ngoại (IR) kết hợp tia cực tím (UV), cho phép "bắn rồi quên" mà không phát tín hiệu lộ vị trí.
+
+Đầu dò seeker ở biến thể đầu tiên (FIM-92A) sử dụng quét hình nón làm mát, hoạt động ở bước sóng 4,1-4,4 μm để khóa nhiệt động cơ từ mọi góc.
+
+Các phiên bản sau như FIM-92B (Stinger-POST) nâng cấp lên seeker hai dải IR/UV với quét hình rosette - một kỹ thuật quét hình hoa hồng không raster, giúp phân biệt mục tiêu thật khỏi mồi nhử hồng ngoại hoặc nền nhiễu phức tạp, tăng khả năng chống nhiễu gấp đôi.
+
+Từ FIM-92C (RMP), vi xử lý kỹ thuật số có thể lập trình lại qua khối nhớ thay thế cho phép thích ứng với các mối đe dọa mới, như tên lửa hành trình hoặc UAV nhỏ.
+
+Thiết kế khí động học kiểu "vịt" với bốn bề mặt điều khiển mũi (hai cố định, hai di động) kết hợp vây đuôi nghiêng tạo xoáy ổn định, giúp tên lửa theo dõi mục tiêu cơ động lên đến 8g.
+
+Hệ thống IFF AN/PPX-1 đeo thắt lưng tránh bắn nhầm bạn, trong khi kính ngắm quang học AN/PAS-18 với hình ảnh nhiệt phát hiện mục tiêu ở khoảng cách 20-30km, ngay cả trong điều kiện ban đêm hoặc thời tiết xấu.
+
+Nhỏ gọn, dễ triển khai và liên tục được nâng cấp, Stinger vẫn là lựa chọn phòng không tầm thấp của nhiều quân đội. Ảnh: United States Marine Corps
+
+Stinger có hàng loạt biến thể để thích ứng với công nghệ thay đổi. FIM-92A là nền tảng cơ bản, trong khi FIM-92C giới thiệu vi xử lý chống nhiễu. FIM-92E (RMP Block I) cải thiện cảm biến lật và phần mềm để chống UAV, với sản xuất bắt đầu năm 1995.
+
+Biến thể FIM-92J năm 2014 thêm ngòi nổ proximity dành riêng cho drone, kéo dài tuổi thọ thêm 10 năm mà không cần bảo dưỡng lớn.
+
+FIM-92K tối ưu cho bệ phóng xe với liên kết dữ liệu, còn Block II (dù bị hủy năm 2002) ảnh hưởng đến seeker hình ảnh hồng ngoại từ AIM-9X.
+
+Những nâng cấp này giúp Stinger tích hợp vào các hệ thống lớn hơn như Avenger trên xe HMMWV hoặc ATAS bắn từ trực thăng.
+
+Tác động chiến lược của Stinger không thể phủ nhận: Hơn 300 mục tiêu bị hạ, từ 250 máy bay Liên Xô ở Afghanistan những năm 1980 đến các cuộc xung đột Iraq, Syria và gần đây là Ukraine – nơi Latvia và Lithuania cung cấp hệ thống này cho Kyiv năm 2022 để chống không kích Nga.
+
+Với khả năng chống nhiễu cao và tính linh hoạt, Stinger chứng minh rằng công nghệ nhỏ gọn có thể định hình lại phòng không, và với các nâng cấp liên tục, nó sẽ tiếp tục "săn mồi" hiệu quả trong thế kỷ 21.

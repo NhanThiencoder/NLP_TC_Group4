@@ -1,0 +1,83 @@
+Hãy hình dung một ‘quái vật’ sắt thép dài chỉ 5 mét, lao vun vút với tốc độ 1.150 km/h, lướt sát mặt sóng chỉ 1-2 mét để ‘ẩn náu’ khỏi mọi radar, rồi bất ngờ ‘cắn’ vào tàu sân bay với đầu đạn 165kg – đủ sức đánh chìm cả hạm đội. Đó là tên lửa Exocet, kiệt tác công nghệ Pháp ra đời từ 1975, đã khiến Anh ‘xanh mặt’ trong Falklands và Mỹ ‘thấm đòn’ ở Vịnh Ba Tư. Không chỉ là vũ khí đơn thuần, tên lửa Exocet là minh chứng cho sự kết hợp hoàn hảo giữa dẫn đường GPS thông minh, động cơ turbojet tiết kiệm và khả năng né tránh ‘thần thánh’. Khám phá ngay để hiểu tại sao tên lửa Exocet vẫn là ‘ông vua’ chống hạm sau 50 năm, giữa kỷ nguyên tên lửa siêu thanh.
+
+Ảnh: MBDA
+
+Nguồn gốc và hành trình phát triển: Từ ý tưởng đến vũ khí huyền thoại
+
+Tên lửa Exocet ra đời từ năm 1967 tại hãng Nord Aviation của Pháp, ban đầu là phiên bản MM38 dành cho tàu mặt nước, dựa trên nền tảng tên lửa không đối đất AS-30.
+
+Đến năm 1975, Exocet chính thức đi vào phục vụ hải quân Pháp, đánh dấu bước ngoặt trong công nghệ tên lửa chống hạm.
+
+Qua các thập kỷ, Exocet được nâng cấp liên tục bởi Aérospatiale (sau này là MBDA), từ động cơ tên lửa rắn đơn giản đến turbojet hiện đại, mở rộng phạm vi từ 40km lên hơn 200km.
+
+Đến nay, hơn 25 quốc gia như Argentina, Iraq, Hy Lạp, UAE... vẫn sử dụng tên lửa Exocet, với hơn 7.000 quả được sản xuất.
+
+Sự thành công nằm ở khả năng đa nền tảng: phóng từ tàu chiến, máy bay, trực thăng hay thậm chí tàu ngầm, biến Exocet thành "người bạn đồng hành" linh hoạt cho mọi chiến dịch hải quân.
+
+Ảnh: MBDA
+
+Công nghệ cốt lõi: ‘Bay thấp, bay nhanh, bay thông minh’
+
+Điều làm Exocet trở nên đáng sợ chính là công nghệ "bay sát mặt biển" – một chiến lược né tránh radar hoàn hảo.
+
+Tên lửa Exocet duy trì độ cao chỉ 1-2 mét trên mặt sóng, tận dụng đường cong Trái Đất để "ẩn náu" khỏi radar tàu địch cho đến khi cách mục tiêu khoảng 6-10km.
+
+Tốc độ tối đa đạt Mach 0.93 (khoảng 1.150 km/h), đủ nhanh để tiếp cận trước khi bị phát hiện, nhưng không quá siêu thanh để tiết kiệm nhiên liệu.
+
+Về động cơ, các phiên bản đầu MM38 sử dụng nhiên liệu rắn (solid propellant) với giai đoạn tăng tốc ban đầu kéo dài 2 giây, sau đó chuyển sang giai đoạn duy trì 110 giây, giúp tên lửa nhẹ và nhỏ gọn (đường kính chỉ 35cm, trọng lượng 655-780kg).
+
+Đến Block 3 của MM40, công nghệ turbojet Microturbo TRI-40 được tích hợp, với bốn cửa hút không khí đặc biệt cho phép tên lửa thực hiện các cú ngoặt gấp (high-G maneuvers) mà không mất tốc độ, đẩy tầm bắn lên hơn 200km.
+
+Kích thước tổng thể linh hoạt: chiều dài từ 4,7m (AM39) đến 6m (MM40 Block 3), sải cánh 1,1-1,35m, dễ dàng chứa trong hộp phóng kín nước (cho tàu ngầm) hoặc giá treo máy bay.
+
+Hệ thống dẫn đường là "bộ não" thực sự của tên lửa Exocet, kết hợp ba lớp thông minh.
+
+Giai đoạn giữa chặng dùng dẫn đường quán tính (INS) với hai con quay hồi chuyển và ba gia tốc kế, kết hợp GPS (từ Block 3) để lập trình đường bay 3D, cho phép tấn công từ nhiều góc độ hoặc thậm chí nhắm vào mục tiêu trên cạn.
+
+Gần mục tiêu, Exocet chuyển sang radar chủ động (active radar homing) ở tần số 8-10 GHz, phát hiện tàu khu trục (diện tích phản xạ 100m²) ở khoảng cách 24km, với góc quét ±16° phương vị và ±10° cao độ.
+
+Đầu dò J-band coherent ở Block 3C còn chống nhiễu điện tử (ECCM) tốt hơn, nhận diện mục tiêu di động tốc độ lên đến 40 hải lý/giờ chỉ trong 2 giây.
+
+Đầu đạn 165kg (với 50kg chất nổ hexolite – 60% RDX + 40% TNT) là loại bán xuyên giáp, kích nổ tiếp xúc hoặc tiếp cận, tối ưu ở góc va chạm 70°, tạo mảnh vụn và sóng xung kích phá hủy boong tàu hoặc khoang máy.
+
+Tên lửa Exocet MM 40 Block 3. Ảnh: Military-Today.
+
+Các biến thể chính: Từ ‘cơ bản’ đến ‘siêu phẩm’ hiện đại
+
+Tên lửa Exocet không phải một mẫu duy nhất mà là gia đình với năm biến thể chính, mỗi loại tối ưu cho nền tảng phóng riêng, nhưng chia sẻ công nghệ cốt lõi.
+
+Bắt đầu với MM38 – "ông tổ" phóng từ tàu mặt nước, ra mắt 1975, tầm bắn 42km, trọng lượng 735kg, dùng hoàn toàn động cơ rắn để đảm bảo độ tin cậy cao trong mọi thời tiết.
+
+Exocet đã chứng minh hiệu quả trong chiến tranh Iran-Iraq, nhưng nay ngừng sản xuất vì tầm ngắn.
+
+Nâng cấp là AM39 dành cho máy bay và trực thăng (14 loại như Super Étendard hay Atlantic), nhẹ hơn với 655kg và dài 4,69m, tầm bắn lên 70km khi phóng từ độ cao 10km (nhờ năng lượng ban đầu từ máy bay).
+
+Công nghệ chống đóng băng và đầu dò số hóa ở Block 2 Mod 2 giúp Exocet bay qua vùng radar địch mà không bị phát hiện, lý tưởng cho các cuộc tấn công bất ngờ từ trên không.
+
+Đối với tàu ngầm, SM39 (và sau là SM40) là lựa chọn "ẩn mình" hoàn hảo.
+
+Phóng từ ống ngư lôi 533mm qua vỏ bọc kín nước, nó nổi lên mặt nước rồi tăng tốc, tầm bắn 50km (SM39) hoặc 200km (SM40 với turbojet).
+
+Công nghệ đẩy khí (gas generator) giúp phóng ngầm mà không lộ vị trí, kết hợp dẫn đường quán tính để duy trì bí mật.
+
+Phiên bản đỉnh cao là MM40, phóng từ tàu chiến hoặc bờ biển, với Block 1/2 đạt 72km bằng động cơ rắn cải tiến.
+
+Nhưng Block 3 (từ 2008) mới là "quái vật": tầm 180-250km nhờ turbojet, trọng lượng 780kg, và khả năng lập trình đường bay GPS để tấn công nhóm tàu từ nhiều hướng.
+
+Block 3C (giao hàng từ 2022) thêm đầu dò RF số hóa của Thales, chống nhiễu và nhận diện mục tiêu tốt hơn, phù hợp với tác chiến điện tử hiện đại.
+
+Tất cả đều bay sát biển, tốc độ ổn định Mach 0.93, và đầu đạn 165kg đảm bảo "một phát ăn luôn" với xác suất trúng mục tiêu lên đến 85% qua các thử nghiệm.
+
+Biến thể mới nhất là MM40 Block 3 có tầm bắn lên tới 250km. Ảnh: mbda-systems.
+
+Tầm ảnh hưởng và tương lai: Vẫn là ‘vua chống hạm’ giữa thời đại tên lửa siêu thanh
+
+Exocet không chỉ là công cụ tác chiến mà còn là minh chứng cho sự tinh tế của kỹ thuật Pháp: nhỏ gọn, đa năng, và chết chóc.
+
+Trong Falklands, chỉ vài quả AM39 đã thay đổi cục diện, buộc Anh phải dùng mồi nhử để đánh lừa.
+
+Ngày nay, Exocet được nâng cấp liên tục, như hợp đồng 55 quả Block 3C cho Pháp năm 2022, hay phiên bản Brazil với động cơ nội địa.
+
+Tuy nhiên, với sự trỗi dậy của tên lửa siêu thanh như Zircon hay BrahMos, Exocet đang hướng tới FC/ASW – thế hệ kế thừa với tầm bắn 1.000km.
+
+Dù sao, công nghệ "bay thấp thông minh" của tên lửa Exocet vẫn là bài học kinh điển cho bất kỳ ai đam mê quân sự.

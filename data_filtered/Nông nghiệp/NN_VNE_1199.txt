@@ -1,0 +1,45 @@
+Việc trả phí đường bộ không dừng chưa thể trừ thẳng vào tài khoản ngân hàng do đây không phải phương tiện thanh toán và chưa đáp ứng tốc độ xử lý giao dịch.
+
+Các tài khoản thu phí của chủ phương tiện buộc phải chuyển sang tài khoản giao thông trước 1/10, nếu không, sẽ không thể qua được trạm thu phí không dừng.
+
+Tài khoản giao thông này cần được định danh chủ sở hữu, phương tiện và phải liên kết với một phương tiện thanh toán như ví điện tử hoặc thẻ tín dụng. Hiện hai nhà cung cấp dịch vụ thu phí không dừng VETC, VDTC (ứng dụng ePass) đều ưu tiên liên kết tài khoản giao thông với ví điện tử cùng hệ sinh thái. Sau đó, người dùng cần liên kết tài khoản ngân hàng với các ví điện tử này để nạp tiền.
+
+Tuy vậy, tài khoản giao thông chưa thể liên kết trực tiếp với tài khoản ngân hàng để thanh toán dịch vụ giao thông đường bộ. Tại hội thảo "Vì sao từ 1/10, lái xe cần có tài khoản giao thông?" ngày 14/8, ông Tô Nam Toàn, Trưởng phòng Khoa học công nghệ môi trường và Hợp tác quốc tế (Cục Đường bộ Việt Nam), cho biết tài khoản ngân hàng bản chất không phải một phương tiện thanh toán không dùng tiền mặt.
+
+Ông phân tích, theo Nghị định 52/2024, phương tiện thanh toán gồm séc, lệnh chi, ủy nhiệm chi, nhờ thu, ủy nhiệm thu, thẻ ngân hàng và các phương tiện thanh toán khác theo quy định của Ngân hàng Nhà nước. Bởi vậy, ông Toàn nói rằng tài khoản ngân hàng cần phải có ủy nhiệm chi mới có thể tự động thanh toán.
+
+Một trạm thu phí trên cao tốc Hà Nội - Hải Phòng. Ảnh: Anh Duy
+
+Ủy nhiệm chi (lệnh chi) là phương thức thanh toán mà người trả tiền lập lệnh theo mẫu có sẵn, thường của ngân hàng để yêu cầu họ trích một số tiền từ tài khoản của mình và chuyển cho người thụ hưởng. Nói cách khác, người trả "ủy quyền" cho ngân hàng thực hiện việc chuyển tiền. Chẳng hạn, thanh toán tự động tiền điện, nước, Internet... cũng là một dạng ủy nhiệm chi.
+
+Tuy nhiên, việc trừ tiền phí thu không dừng trực tiếp từ tài khoản ngân hàng thông qua ủy nhiệm chi hiện chưa thể thực hiện bởi các rào cản kỹ thuật.
+
+Hiện tại, hệ thống thu phí điện tử không dừng phải xử lý giao dịch tức thời với thời gian thực - tốc độ xử lý không quá 200 ms (tức 0,2 giây) với tỷ lệ 99,7%. Trong khi đó, tốc độ kết nối với tài khoản của ngân hàng chậm hơn, chỉ đạt khoảng 50% nên không thể đáp ứng yêu cầu.
+
+Do rào cản tốc độ kết nối này, theo bà Nguyễn Thị Ngọc Trang, Phó tổng giám đốc VDTC, ePass chưa có giải pháp đồng bộ trừ tiền trực tiếp từ tài khoản ngân hàng một cách tức thời. Bà cũng mong muốn có thể thực hiện được việc này trong tương lai, như cách các ứng dụng như Grab vận hành hệ thống thanh toán.
+
+Chưa xử phạt chủ xe không đổi tài khoản thu phí sang tài khoản giao thông Hướng dẫn chuyển đổi từ tài khoản thu phí sang tài khoản giao thông Epass. Video: Epass
+
+Tương tự, ông Nguyễn Lê Thắng, Tổng giám đốc VETC nói rằng các ngân hàng cũng có thời điểm bảo trì hệ thống. Bởi vậy, việc liên kết có thể không đảm bảo xử lý giao dịch của phương tiện được liên tục.
+
+"Việc trừ tiền trực tiếp từ ngân hàng thời điểm này chưa thể áp dụng, song trong tương lai có thể thực hiện được nếu có cơ chế trả sau", ông Thắng nói.
+
+Ông Tô Nam Toàn khẳng định mục tiêu của thu phí điện tử không dừng là thu phí đa làn (không có barie) hoặc cho phép trả sau, hiện đủ điều kiện thực hiện về mặt kỹ thuật. Nhưng theo ông, việc thanh toán trả sau vẫn đang gặp nhiều vướng mắc về chính sách, khi chưa có giải pháp kiểm soát xe ra - vào trạm nếu không có barie hoặc xe không dán thẻ ETC chạy qua trạm thu phí.
+
+Pháp luật hiện hành cũng chưa có chế tài xử lý với chủ phương tiện chây ỳ trả tiền nếu áp dụng trả sau. Ngoài ra, khi chuyển sang hình thức trả sau có thể nảy sinh tình trạng nợ xấu.
+
+"Tỷ lệ nợ xấu sẽ chiếm khoảng 1-2% tổng doanh thu hoặc có thể cao hơn, gây khó khăn cho các doanh nghiệp BOT", ông Toàn nói thêm.
+
+Tuy nhiên, các doanh nghiệp đều sẵn sàng cho các giải pháp thanh toán tiện lợi hơn trong giai đoạn tới. Đại diện ví điện tử Momo cho biết sẽ cấp hạn mức cao hơn theo phương thức "chi tiêu trước trả tiền sau" cho khách hàng liên kết với tài khoản giao thông.
+
+Trong khi đó, đại diện VNPAY cho hay họ sẽ đánh giá về các rủi ro tài chính để đưa ra giải pháp cụ thể, hợp lý cho khách hàng.
+
+Về phía đơn vị cung cấp dịch vụ, bà Ngọc Trang cho biết ePass cũng đã tính đến phương án kết hợp công ty tài chính để có giải pháp đi trước, trả sau. Công ty đang bàn với đối tác và hy vọng thời gian tới sẽ cung cấp dịch vụ này.
+
+Tương tự, đại diện VETC thông tin họ đã chuẩn bị cho phương án trả sau khi đàm phán, phân tích mô hình kinh doanh cùng một số ngân hàng và liên kết thẻ tín dụng.
+
+Trong khi đó, bà Lê Phương Hoài, Trưởng phòng, Ban Khách hàng bán lẻ tại BIDV mong muốn các nhà cung cấp có tiêu chuẩn cho các ngân hàng để đồng bộ khi thực hiện liên kết, nhằm tạo thuận tiện cho tổ chức tín dụng và người dùng.
+
+Theo số liệu của Cục Đường bộ Việt Nam, cả nước có khoảng 6,3 triệu phương tiện sử dụng dịch vụ thu phí tự động không dừng, đạt gần 100% tổng số phương tiện. Tuy vậy tỷ lệ chuyển đổi sang tài khoản giao thông chỉ đạt khoảng 30% do chủ phương tiện chưa biết quy định mới, có nghĩa khoảng 70%, tương đương hơn 4 triệu người chưa chuyển sang tài khoản giao thông.
+
+Anh Tú - Đoàn Loan

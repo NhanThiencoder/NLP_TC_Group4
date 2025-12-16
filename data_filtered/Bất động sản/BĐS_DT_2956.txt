@@ -1,0 +1,23 @@
+Sáng 15/10, Phó Thủ tướng Chính phủ Trần Hồng Hà chủ trì cuộc họp nghe báo cáo tình hình triển khai xây dựng cơ sở dữ liệu đất đai và giải pháp đẩy nhanh tiến độ.
+
+Theo Phó Thủ tướng, cơ sở dữ liệu đất đai là nền tảng thiết yếu cho công tác quản lý nhà nước, không chỉ dừng lại ở việc tổng hợp số liệu, mà bao gồm toàn bộ thông tin về thửa đất, bản đồ địa chính và các hoạt động liên quan đến đo đạc, lưu trữ.
+
+Mặc dù Luật Đất đai đã quy định rõ cấu trúc, phương thức quản lý, tiến độ hoàn thành cơ sở dữ liệu, song đến thời điểm này tiến độ triển khai ở Trung ương và địa phương vẫn còn chậm.
+
+Ngân sách nhà nước đã đầu tư rất lớn cho công tác đo đạc, thống kê, nhưng vẫn chưa đầy đủ và chính xác, chưa đáp ứng được yêu cầu "sạch", "sống" và cập nhật. Do đó, cần tách riêng phần đo đạc, kiểm đếm, đồng thời tập trung vào xây dựng cơ sở dữ liệu và các công cụ quản lý dựa trên ứng dụng công nghệ và số hóa.
+
+Theo lãnh đạo Chính phủ, dữ liệu đất đai chưa đáp ứng được các yêu cầu tối thiểu như theo dõi biến động giá đất, quản lý mục đích sử dụng đất hay cập nhật dữ liệu đo đạc, bản đồ...
+
+Đơn cử, định hướng sắp tới là áp dụng thống nhất một phương pháp định giá dựa trên dữ liệu, xác định giá đất theo vùng giá trị và thửa đất chuẩn, sử dụng số liệu giao dịch thực tế để xác định giá đất khách quan cho mọi mục đích, từ thuế, phí đến bồi thường, hỗ trợ. Tuy nhiên, đến nay việc này vẫn chưa thực hiện được.
+
+Phó Thủ tướng yêu cầu tất cả thủ tục hành chính liên quan đến đất đai đều phải đồng thời cập nhật dữ liệu (Ảnh: VGP).
+
+Về phương pháp triển khai, Phó Thủ tướng nêu 3 bước là sử dụng dữ liệu đã số hóa; số hóa dữ liệu chưa có và đo đạc, kiểm tra, xây dựng bản đồ số hóa, cập nhật liên tục...
+
+Mục tiêu cao nhất là xây dựng cơ sở dữ liệu đất đai thống nhất, tập trung, liên thông từ Trung ương đến tỉnh, thành phố, xã, phường. Cơ sở dữ liệu bao gồm hạ tầng, phần mềm chuyên dụng và các trường dữ liệu phục vụ quản lý tài nguyên đất đai, thủ tục hành chính, tích hợp với dữ liệu dân cư, tổ chức và cá nhân.
+
+Lãnh đạo Chính phủ yêu cầu tất cả thủ tục hành chính liên quan đến đất đai đều phải đồng thời cập nhật dữ liệu. Các phần mềm, ứng dụng mới phải bảo đảm tính mở, tích hợp và chia sẻ với các phần mềm hiện có để khai thác tối đa dữ liệu sẵn có. Các trường dữ liệu phải đầy đủ theo quy định pháp luật, phục vụ quản lý và thực hiện thủ tục hành chính.
+
+Về phần mềm nền tảng, ưu tiên sử dụng phần mềm trong nước nếu đáp ứng yêu cầu tự chủ và quản lý được. Nếu chưa có, có thể thuê phần mềm nước ngoài.
+
+Việc vận hành hệ thống cần tham khảo cách thức quản lý của phần mềm cơ sở dữ liệu quốc gia về dân cư, khai thác và kế thừa hiệu quả toàn bộ hệ thống hạ tầng, cơ sở dữ liệu và phần mềm đã đầu tư từ Trung ương đến địa phương. Trung tâm dữ liệu phải đảm bảo an ninh, an toàn, bảo mật, có thể bố trí một số trung tâm dự phòng kỹ thuật.

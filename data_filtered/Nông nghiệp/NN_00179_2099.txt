@@ -1,0 +1,43 @@
+Title: Ngành nông nghiệp cần đẩy nhanh xây dựng cơ sở dữ liệu đất
+
+Sức khoẻ đất sản xuất nông nghiệp đang suy giảm
+
+Ngày 11/10, Bộ NN-PTNT chính thức phê duyệt “Đề án Nâng cao sức khỏe đất và quản lý dinh dưỡng cây trồng đến năm 2030, tầm nhìn 2050”. Mục tiêu giúp ổn định và nâng cao sức khỏe đất trồng trọt trên cơ sở quản lý dinh dưỡng cây trồng hiệu quả nhằm hạn chế suy thoái đất, nâng cao giá trị gia tăng trên một đơn vị diện tích đất trồng trọt, góp phần phát triển nông nghiệp xanh, bền vững, carbon thấp và thích ứng với biến đổi khí hậu.
+
+Theo Thứ trưởng Bộ NN-PTNT Hoàng Trung, đất là tư liệu sản xuất đặc biệt, là ngôi nhà của các hệ sinh thái. Vì vậy, sức khỏe đất đang là vấn đề được cả Việt Nam và nhiều quốc gia trên thế giới quan tâm.
+
+Ông cho biết, bình quân diện tích đất đai trên đầu người đang thấp, cộng với tập quán thâm canh, chuyên canh, sử dụng không cân đối phân bón, thuốc BVTV, tác động của biến đổi khí hậu dẫn tới hạn hán, xâm nhập mặn, phèn hóa... làm sức khỏe đất bị suy giảm nghiêm trọng.
+
+Thống kê năm 2021 của Bộ Tài nguyên và Môi trường cho thấy, nhóm đất nông nghiệp của cả nước là trên 27,9 triệu ha. Các loại đất nông nghiệp gồm đất sản xuất nông nghiệp, lâm nghiệp, nuôi trồng thủy sản, làm muối và đất nông nghiệp khác. Trong nhóm đất nông nghiệp, diện tích đất trồng lúa là hơn 3,9 triệu ha; đất rừng phòng hộ và rừng đặc dụng là hơn 7,3 triệu ha.
+
+Nông nghiệp cần cơ sở dữ liệu đất để đưa ra các quyết định sản xuất phù hợp.
+
+Đại diện Cục Trồng trọt (Bộ NN-PTNT) đánh giá, đất trồng trọt bị suy giảm nghiêm trọng do tập quán canh tác trồng nhiều vụ một năm; lạm dụng các loại phân bón trong thời gian dài dẫn tới đất bị trơ cứng, mất độ tơi xốp. Ngoài ra, tập quán canh tác độc canh lấy đi chất lượng dinh dưỡng của đất.
+
+Hơn nữa, hệ thống dữ liệu chưa hoàn thiện, thông tin dự báo thị trường chưa hiệu quả cũng là nguyên nhân dẫn tới chất lượng đất bị suy thoái. Điển hình như Đồng bằng sông Hồng có hệ số sử dụng đất cao; Tây Nguyên thâm canh cây công nghiệp cà phê, hồ tiêu… làm độ PH trong đất cao hơn nhiều lần so với chỉ số tự nhiên. Vì vậy, cần có giải pháp nâng cao chất lượng đất trồng, vị đại diện này nhấn mạnh.
+
+Ứng dụng công nghệ xây dựng cơ sở dữ liệu đất
+
+PGS.TS Cao Việt Hà - Học viện Nông nghiệp Việt Nam, cho rằng, việc nâng năng suất 10% là rất khó, nhưng giảm chi phí đầu vào bằng áp dụng kỹ thuật lại dễ hơn. Muốn vậy, người nông dân phải hiểu về quan trắc, biết về sức khỏe đất.
+
+Thế nên, xây dựng cơ sở dữ liệu đất theo bà Hà là điều vô cùng quan trọng. Song, 5 năm một lần, Bộ TN-MT mới đánh giá dinh dưỡng đấtm, sau 10 năm sẽ làm lại khảo sát từ đầu về sức khỏe đất. Trong khi, việc nhà nông diễn ra quanh năm nên càng cần các nghiên cứu về đất, cần thêm người thu thập số liệu từ các nguồn để tiết kiệm chi phí.
+
+Ông Tovohery Rakotoson - chuyên gia về đất của IRRI, cho hay, tổ chức này đang hỗ trợ dự án liên quan đến sức khoẻ đất. Trong dự án sẽ cập nhật cơ sở dữ liệu, xây dựng bản đồ dinh dưỡng đất cho 3 tỉnh ĐBSCL, 3 tỉnh Đồng bằng sông Hồng, dự kiến đưa ra sử dụng vào năm 2026.
+
+Bên cạnh đó, IRRI đang tăng cường sử dụng kỹ thuật số với ứng dụng số (app) dự kiến đưa vào sử dụng rộng rãi năm 2025, để cung cấp các số liệu về lượng phân bón hợp lý, dinh dưỡng đất...
+
+Đại diện Cục Trồng trọt thông tin, cơ quan này đã xây dựng phần mềm cơ sở dữ liệu về đất điều tra khảo sát thực trạng đất tại các vùng có nguy cơ; xây dựng chiến lược để quản lý sức khỏe đất của quốc gia liên quan tới lĩnh vực nông nghiệp để trình Chính phủ ban hành.
+
+Ông Nguyễn Quang Tin - Vụ phó Vụ Khoa học Công nghệ và Môi trường (Bộ NN-PTNT) cho rằng, để có một bộ cơ sở dữ liệu về đất trồng trọt thì cần hệ thống lại, nghiên cứu hoàn thiện.
+
+"Chúng tôi đề xuất đến đầu 2025, các Viện nghiên cứu của bộ, các cơ quan đã tham gia đề án, cần chung tay hoàn thiện cơ sở dữ liệu", ông Tin nói.
+
+Về chất lượng đất, sức khỏe đất nói chung, hiện Việt Nam chưa có nhiều dữ liệu. Từng đối tượng cây trồng, từng vùng đất đều phải có con số cụ thể để sử dụng được, trong bối cảnh biến đổi khí hậu. Mặt khác, Việt Nam đang vững bước trên con đường nông nghiệp hữu cơ, nông nghiệp giảm phát thải khí nhà kính, nên càng cần có dữ liệu đất.
+
+Vụ phó Vụ Khoa học Công nghệ và Môi trường phân tích, một trong những điểm yếu về đất là nước ta chưa có ứng dụng công nghệ về dữ liệu đất, đầu ra cũng như đầu vào.
+
+"Hầu như năm nào cũng có công trình nghiên cứu về đất, về phân bón, song còn rời rạc. Chúng ta cần những chương trình có sự phối hợp, quy mô như nghiên cứu về giống lúa, giống cây trồng. Tôi cũng nghĩ các nghiên cứu sắp tới về đất cần thay đổi, có sự đầu tư bài bản", ông Tín nêu thực trạng và nhấn mạnh về số hoá cơ sở dữ liệu dùng chung về đất.
+
+Ngoài những vấn đề trên, Thứ trưởng Hoàng Trung giao nhiệm vụ cho Cục Trồng trọt phối hợp Cục Bảo vệ thực vật phải đánh giá được kỹ càng từng loạt đất ở từng địa phương, từ đó xây dựng bộ tiêu chí đánh giá xem đất nào hợp cây nào. Việc này cũng sẽ góp phần thay đổi tập quán canh tác theo hướng tích cực.
+
+Văn Dương và nhóm PV, BTV

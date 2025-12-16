@@ -1,0 +1,5 @@
+
+Cách sử dụng rất đơn giản. Sau khi cài đặt xong, mở một file thuộc bộ Office muốn chuyển định dạng. Bấm File -&gt; Print. Trong phần chọn tên cho máy in (name) bấm chuột chọn CutePDF Write. Bấm OK. Hộp Save As xuất hiện, yêu cầu chúng ta đặt tên và chỉ vị trí lưu. Bấm Save là xong. Hãy yên tâm vì file gốc vẫn còn nguyên vẹn.
+
+
+

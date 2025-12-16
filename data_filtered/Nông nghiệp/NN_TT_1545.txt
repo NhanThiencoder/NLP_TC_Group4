@@ -1,0 +1,41 @@
+Ba thành viên của dự án: Hồ Thanh Huy, Lê Hoàng Minh Châu và Trần Thị Trâm (từ phải sang) - Ảnh: NVCC
+
+Điểm chung duy nhất là thích khởi nghiệp và mong tạo ra giải pháp góp phần chuyển đổi số nền nông nghiệp, còn lại cả ba thành viên dự án Giải pháp nền nông nghiệp xanh (Eco - House) đều học khác ngành, khác cả sở trường nhưng chơi và làm việc được cùng nhau.
+
+Hồ Thanh Huy học ngành điện tử viễn thông, Lê Hoàng Minh Châu vừa tốt nghiệp ngành quản trị kinh doanh, còn Trần Thị Trâm hiện là sinh viên năm thứ ba ngành kinh doanh quốc tế. Cả ba bạn trẻ ấy cùng dưới mái trường Trường ĐH Công nghiệp TP.HCM.
+
+Làm nông bằng công nghệ
+
+Không gian chật hẹp khó lắp đặt quá nhiều linh kiện, thiếu thời gian chăm sóc, tưới tắm... là vấn đề Eco - House nhận ra khi một người dân thành thị muốn trồng trọt.
+
+Thanh Huy - trưởng dự án - ngày đêm mày mò tìm lời giải bài toán đó. Kết quả, sản phẩm đầu tay của Eco - House là một thiết bị nhỏ có thể dùng với ứng dụng điều khiển từ xa trên điện thoại, thay thế phần lớn công việc của một nhà nông ra đời.
+
+Việc ứng dụng công nghệ, nhất là công nghệ IoT (Internet vạn vật) trong nông nghiệp không mới nên cần tìm sự khác biệt cho sản phẩm. Do đó, thiết bị của Eco - House được tích hợp nhiều tính năng nhằm kiểm soát các chỉ số quan trọng, ngoài lượng nước còn là độ ẩm, nhiệt độ, thổ nhưỡng và dinh dưỡng của đất, độ pH, hàm lượng NPK trong đất (đạm, lân và kali)...
+
+Đặc biệt, thiết bị cho phép người dùng ghi chép nhật ký trồng trọt, bón phân và theo dõi sự phát triển của cây qua điện thoại. Theo lập trình, thiết bị có thể nhận biết các vấn đề bất thường của cây và phát cảnh báo, kết nối chủ vườn và kỹ sư nông nghiệp để giảm rủi ro, tìm giải pháp xử lý.
+
+Sản phẩm và công nghệ đã thành hình cũng là lúc nhóm chuyển hướng. Thay vì tập trung ở vùng đô thị, nhóm hướng đến các nhà vườn rộng bạt ngàn ở nhiều vùng nông nghiệp trong nước. Nhưng mục tiêu này đòi hỏi thiết bị phải có thêm những tính năng mới cao cấp hơn.
+
+Vậy là các bạn kết nối, bắt tay với một số đơn vị chuyên trách, có kinh nghiệm ở lĩnh vực nông nghiệp, nghiên cứu để có được các chỉ số quan trọng về thổ nhưỡng, đặc tính cây trồng, thời tiết, chất lượng nước... Đó cũng chính là cơ sở, dữ liệu để nhóm cập nhật thêm các chỉ số vào thiết bị để có thể đưa ra những giải pháp tốt nhất, cũng là giúp nâng cao năng suất, tiết kiệm điện, nước và nhân công, nhất là ứng phó với biến đổi khí hậu.
+
+Từ một nhà vườn ban đầu tại Tiền Giang đồng ý thử nghiệm, đến nay nhiều nhà vườn tại Bến Tre, Bà Rịa - Vũng Tàu đã cài thiết bị của Eco - House. Thiết bị được cài chủ lực trong hệ thống tưới tiêu và canh tác với các vườn trồng sầu riêng, táo, bưởi và hoa lan.
+
+Việc sinh ra ở Đồng bằng sông Cửu Long, chứng kiến nỗi cực nhọc mà nông dân nhiều khi phải gồng mình chịu đựng trong sản xuất là lý do lớn nhất khiến tôi cùng các bạn quyết định theo đuổi giải pháp đang làm tới cùng. HỒ THANH HUY
+
+Hệ sinh thái "xanh hóa" nền nông nghiệp
+
+Sinh sau đẻ muộn, khi thị trường đã có nhiều "ông lớn" nên khó lòng "đấu" về công nghệ. Chưa kể giá cả cũng là vấn đề lớn quyết định sự thành bại của mục tiêu nông nghiệp xanh nhóm hướng đến vì cả ba thành viên vẫn còn ngồi trên ghế giảng đường khi ra mắt sản phẩm.
+
+"Lập nhóm và tạo ra sản phẩm chỉ mất ba tháng nhưng để tạo ra công nghệ cốt lõi cho Eco - House như hiện tại chúng tôi đã nghiên cứu suốt bốn năm qua. Công nghệ và các tính năng này còn có thể ứng dụng cho một số ngành khác như quản lý hoạt động điện mặt trời" - Huy chia sẻ.
+
+Hiện thiết bị được nhóm chào các mức giá khác nhau (3, 7 và 15 triệu đồng) tùy nhu cầu người dùng, phù hợp diện tích muốn canh tác. Trong khi giá thị trường của thiết bị tương tự cũng vô chừng, từ 150.000 đồng đến 150 triệu đồng có đủ nhưng tiền nào của nấy.
+
+Nói về hành trình phía trước, nhóm muốn Eco - House không dừng ở sản xuất và kinh doanh thiết bị mà xa hơn là mong muốn xây dựng hệ sinh thái "xanh hóa" nền nông nghiệp. Tạm hình dung có thể là công nghệ chuyển đổi số, giáo dục, liên kết và bán sản phẩm nông nghiệp sạch, tái chế rác thải nông nghiệp.
+
+Cách mà các bạn đang từng bước xây dựng hệ sinh thái ấy chính là đồng hành cùng nhiều bên thực hiện các workshop, chương trình chia sẻ về nông nghiệp xanh, nông nghiệp bền vững. Cả giấc mơ hình thành một nông trại đủ lớn để có thể trực tiếp sản xuất và bán nông sản xanh, sạch.
+
+"Các lớp học, chương trình nói về nông nghiệp xanh là điều Eco - House đã và đang làm. Riêng mở nông trại vẫn là giấc mơ lớn mà tuổi trẻ sức mỏng nên cả nhóm vẫn đang dồn lực đây" - Huy cười.
+
+Trong cuộc thi "Học sinh, sinh viên với ý tưởng khởi nghiệp" lần V năm 2023 do Bộ Giáo dục và Đào tạo tổ chức, dự án "Giải pháp nền nông nghiệp xanh" (Eco - House) đã đoạt giải nhất khối sinh viên. Dự án này cũng xuất sắc được trao giải ở hạng mục Triển vọng trong khuôn khổ Giải thưởng và học bổng Kova (Tập đoàn sơn Kova) bình chọn, là đại diện của trường đại học duy nhất phía Nam được vinh danh ở giải thưởng này.
+
+Đang bù lỗ, từng nghĩ chuyện dừng lại Hỏi về lợi nhuận, tình hình kinh doanh, trưởng nhóm Thanh Huy gãi đầu: "Hiện đang bù lỗ cả trăm triệu rồi đó". Khoản tiền bù lỗ cho dự án là tiền lương mà Huy, Châu và Trâm kiếm được từ các công việc khác, cả các khoản tiền thưởng có được khi dự án chinh chiến và đoạt giải các cuộc thi. Có thời điểm cả nhóm đã ngồi lại tính chuyện thôi không tiếp tục nữa. Đó là khi Eco - House vẫn phải bù lỗ liên tục hay trước các cơ hội lớn, trực tiếp mang lại rất nhiều giá trị từ thị trường việc làm ngoài kia mà mỗi người có thể theo đuổi nhưng rồi đam mê và nghĩ đến mục tiêu bắt đầu để lại nắm tay nhau bước tiếp.

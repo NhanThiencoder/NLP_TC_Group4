@@ -1,0 +1,17 @@
+Công an TP Hà Nội sẽ ứng dụng trí tuệ nhân tạo (AI) để điều khiển đèn tín hiệu giao thông, cho phép tự động điều chỉnh thời gian đèn theo lưu lượng xe thực tế.
+
+Phòng Cảnh sát giao thông Hà Nội cho biết đang phối hợp các đơn vị chuyên môn rà soát, đánh giá toàn bộ hệ thống đèn tín hiệu. Trong thời gian tới, toàn bộ đèn giao thông sẽ được nâng cấp, tích hợp công nghệ điều khiển thông minh, thích ứng với dữ liệu giao thông thời gian thực.
+
+Hệ thống mới dùng camera chuyên dụng ghi nhận hình ảnh phương tiện, dữ liệu sau đó được AI phân tích với độ chính xác đến 95% và kết nối với bộ điều khiển đèn. Nhờ đó, đèn có thể tự động điều chỉnh thời gian xanh, đỏ tùy theo lượng xe đông hay vắng, giúp giảm thời gian chờ đợi và lưu thông nhanh hơn tại các nút giao.
+
+AI cũng cho phép điều khiển đồng bộ nhiều nút đèn trên cùng tuyến đường, giúp xe di chuyển thuận lợi hơn, hạn chế tình trạng tắc giữa các đoạn giao nhau. Khi vận hành đồng bộ, hệ thống không chỉ giúp giảm ùn tắc mà còn hỗ trợ Cảnh sát giao thông điều tiết, chỉ huy từ xa.
+
+Các lực lượng tiến hành nâng cấp, tích hợp công nghệ điều khiển thông minh tại các hệ thống đèn giao thông ở Hà Nội. Ảnh: Cục Cảnh sát giao thông
+
+Trong thời gian triển khai, một số nút giao sẽ tạm dừng hoạt động đèn đếm lùi để phục vụ nâng cấp. Năm 2024, Hà Nội đã thử nghiệm tại hai nút Võ Chí Công (Xuân La và Nguyễn Hoàng Tôn), kết quả cho thấy thời gian chờ giảm 20-30%, xe di chuyển dễ dàng hơn, ít bị dồn ứ vào giờ cao điểm.
+
+Hiện Hà Nội có 563 nút giao do Công an thành phố quản lý, nhưng phần lớn được đầu tư nhiều năm trước, công nghệ cũ, không còn phù hợp với mật độ phương tiện hiện nay. Trong khi giao thông công cộng chưa phát triển mạnh, lượng xe cá nhân tăng nhanh, việc ứng dụng AI được kỳ vọng sẽ giúp thành phố giảm tắc đường rõ rệt.
+
+Song song với việc nâng cấp đèn giao thông, Hà Nội cũng đang lắp đặt thêm nhiều camera AI trên các tuyến phố chính để giám sát, phân tích tình hình giao thông và xử lý vi phạm hiệu quả hơn.
+
+Việt An

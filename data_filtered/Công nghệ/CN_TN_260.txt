@@ -1,0 +1,45 @@
+Dữ liệu là thứ tài sản vô cùng quý giá với người dùng máy tính, thậm chí nhiều người còn xem nó quan trọng như "mạng sống" của mình. Thế nhưng, dữ liệu lại rất mong manh, dễ bị mất mát hư tổn. Đó chính là động lực thôi thúc các công ty phần mềm sáng chế ra những sản phẩm có chức năng giải cứu, khôi phục dữ liệu từ rất nhiều sự cố khác nhau. Thanh Niên xin giới thiệu đến bạn đọc bộ OfficeRecovery Enterprise (OE) nổi tiếng của hãng Recoveronix. 
+
+
+Hoàn tất quá trình cài đặt, bạn vào Start &gt; Programs &gt; OfficeRecovery để kích hoạt những chương trình có trong OE. Dưới đây là một số chương trình tiêu biểu nhất. 
+
+- DBFRecovery: phục hồi dữ liệu cho các tập tin DBF của chương trình Microsoft Visual FoxPro. 
+
+- FileMakerRecovery: phục hồi dữ liệu cho các tập tin FP7 và FP8 của FileMaker Pro, một công cụ hoạch định và điều khiển hoạt động kinh doanh rất chuyên nghiệp. 
+
+- OracleRecovery: khôi phục cơ sở dữ liệu Oracle bị hư hỏng. 
+
+- ParadoxRecovery: phục hồi dữ liệu cho các tập tin DB của Paradox database. 
+
+- Recovery for Access: phục hồi dữ liệu cho các tập tin MDB bị hỏng của Microsoft Access. 
+
+- Recovery for Excel: phục hồi dữ liệu cho các tập tin XLS bị hỏng của Microsoft Excel. 
+
+- Recovery for Exchange Server: phục hồi dữ liệu cho các tập tin OST của Microsoft Exchange, một phần mềm máy chủ e-mail tuyệt vời chạy trên những hệ thống sử dụng hệ điều hành Windows Server. 
+
+- Recovery for Money: phục hồi dữ liệu cho các tập tin MNY của phần mềm quản lý tài chính cá nhân Microsoft Money. 
+
+- Recovery for Outlook: phục hồi dữ liệu cho các tập tin PST bị hỏng của Microsoft Outlook.
+
+- Recovery for Outlook Express: phục hồi dữ liệu cho các tập tin DBX, MBX bị hỏng của Outlook Express. 
+
+- Recovery for PowerPoint: phục hồi dữ liệu cho các tập tin PPT bị hỏng của Microsoft PowerPoint. 
+
+- Recovery for Project: phục hồi dữ liệu cho các tập tin của Microsoft Project - phần mềm quản trị dự án rất hiệu quả dành cho các doanh nghiệp. 
+
+- Recovery for Publisher: phục hồi dữ liệu cho các tập tin PUB của Microsoft Publisher - chương trình cho phép bạn tạo, tùy chỉnh và xuất bản những tài liệu như: sách điện tử, danh mục, website...
+
+- Recovery for Word: phục hồi dữ liệu cho các tập tin DOC bị hỏng của Microsoft Word.
+
+- Recovery for Works Database: phục hồi cơ sở dữ liệu cho các tập tin WDB của Microsoft Works. Đây là chương trình chuyên dùng tổ chức, lập kế hoạch cho những công việc thường ngày của bạn. 
+
+- Recovery for Works Spreadsheet: phục hồi spreadsheet cho các tập tin XLR của Microsoft Works. 
+
+- Recovery for Works Word: phục hồi nội dung cho các tập tin WPS của Microsoft Works. 
+
+- ZipRecovery: sửa chữa, khôi phục dữ liệu cho các tập tin ZIP bị hỏng. 
+
+Cách sử dụng tất cả chương trình trên đều tương tự nhau và khá đơn giản. Từ giao diện chính của mỗi chương trình, bạn bấm vào nút Recover. Trong hộp thoại xuất hiện, tìm chọn định dạng tập tin muốn cứu chữa. Ngay sau đó, chương trình sẽ bắt đầu tiến trình chẩn đoán và khôi phục dữ liệu cho tập tin bị lỗi. Trong hộp thoại xuất hiện sau cùng, bạn chọn nơi lưu tập tin đã được phục hồi dữ liệu. 
+
+
+

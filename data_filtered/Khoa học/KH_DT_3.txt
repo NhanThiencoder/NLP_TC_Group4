@@ -1,0 +1,29 @@
+Chính quyền thành phố Hàng Châu, được xem là trung tâm công nghệ của Trung Quốc, vừa cho triển khai một robot hình người được tích hợp trí tuệ nhân tạo để thực hiện nhiệm vụ điều tiết giao thông tại một giao lộ đông phương tiện qua lại.
+
+Robot này có tên “Hàng Tinh số 1”, cao 1,8m, di chuyển bằng bánh xe và có 2 cánh tay hoạt động linh hoạt giống con người, cho phép thực hiện các thao tác để điều tiết các phương tiện giống như một cảnh sát giao thông thực thụ.
+
+Robot Hàng Tinh số 1 cao 1,8m, di chuyển bằng bánh xe và có đôi tay hoạt động linh hoạt để điều khiển các phương tiện trên đường (Ảnh: CCTV).
+
+Robot cũng được tích hợp còi để đưa ra cảnh báo và các hoạt động của robot được đồng bộ hóa với hệ thống đèn tín hiệu giao thông để giúp điều tiết luồng phương tiện hiệu quả hơn.
+
+Ngoài nhiệm vụ điều tiết giao thông, điều hướng các phương tiện để tránh ùn tắc, robot này còn được trang bị hệ thống camera độ nét cao ở mắt để ghi nhận các trường hợp đi sai luật theo thời gian thực, như các lỗi người đi xe máy không đội mũ bảo hiểm, ô tô vượt quá vạch dừng đèn đỏ, người đi bộ qua đường không đúng vị trí…
+
+Khi phát hiện sai phạm, robot có thể đưa ra lời nhắc nhở bằng giọng nói nhẹ nhàng và lịch sự hoặc ghi hình lại hành vi sai phạm để phạt nguội.
+
+Robot được tích hợp hệ thống trí tuệ nhân tạo để ngày càng cải thiện khả năng ra quyết định trong quá trình điều tiết giao thông.
+
+Hàng Tinh số 1 cũng được kết nối với “Bộ não Thành phố”, là hệ thống quản lý đô thị thông minh của thành phố Hàng Châu, cho phép robot có thể ghi nhận tình trạng giao thông ở các tuyến phố xung quanh thông qua hệ thống camera giám sát để đưa ra những quyết định điều tiết giao thông phù hợp, chẳng hạn chuyển hướng các phương tiện sang hướng ít bị ùn tắc.
+
+Robot trang bị hệ thống pin có thể hoạt động liên tục trong khoảng 6 đến 8 tiếng đồng hồ, đủ để làm nhiệm vụ trong giờ cao điểm đông phương tiện. Robot có thể tự quay trở về trạm sạc khi pin gần cạn kiệt.
+
+Sở Cảnh sát Giao thông Hàng Châu cho biết robot vẫn đang trong quá trình thử nghiệm và thời gian đầu sẽ có thêm một cảnh sát thật túc trực bên cạnh robot để can thiệp khi những lời nhắc nhở người vi phạm không phát huy tác dụng hoặc có người chống đối.
+
+Trung Quốc sử dụng robot hình người để điều tiết, phạt nguội giao thông (Video: Newsflare).
+
+Trong tương lai, nếu robot làm tốt nhiệm vụ của mình, chúng sẽ được triển khai tại nhiều vị trí hơn và có thể hoạt động hoàn toàn độc lập mà không cần con người.
+
+Robot cũng sẽ được triển khai thêm nhiều tính năng trí tuệ nhân tạo để giao tiếp và trả lời các câu hỏi của người dân chẳng hạn chỉ đường, tư vấn luật giao thông hoặc gọi điện cho cứu hộ trong tình huống khẩn cấp…
+
+Hàng Châu hiện có dân số hơn 12 triệu người và mật độ phương tiện đông đúc, do vậy việc duy trì trật tự giao thông trên đường là một thách thức lớn. Việc robot hình người được triển khai thực tế ra đường để làm nhiệm vụ điều tiết đã thu hút rất đông sự chú ý của người dân thành phố.
+
+Nhiều người dân Hàng Châu đã rất thích thú khi thấy sự xuất hiện của Hàng Tinh số 1 và hy vọng rằng robot này sẽ giúp cải thiện tình trạng giao thông tại thành phố.
