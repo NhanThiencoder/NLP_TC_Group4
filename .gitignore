@@ -52,7 +52,18 @@ chromedriver.exe
 geckodriver.exe
 debug.log
 
+# Ignore data folders
 data/
 data_filtered/
+
+# Ignore large files
 *.zip
+*.rar
+*.7z
+*.pkl
+
+# Ignore reports
+reports/
 .idea/
+
+upload.py
