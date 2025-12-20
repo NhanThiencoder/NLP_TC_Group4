@@ -40,27 +40,28 @@ Dưới đây là danh sách các thành viên
 
 NLP\_TC\_Group4/
 
-├── data/                   # Chứa dữ liệu (Raw \& Processed)
+├── data/                           # Chứa dữ liệu (Raw \& Processed)
 
-├── models/                 # Chứa các checkpoint mô hình (được ignore trên git)
+├── models/                         # Chứa các checkpoint mô hình (được ignore trên git)
 
-├── notebooks/              # Jupyter Notebooks cho thực nghiệm
+├── notebooks/                      # Jupyter Notebooks cho thực nghiệm
 
-│   ├── EDA.ipynb           # Phân tích khám phá dữ liệu
+│   ├── EDA.ipynb                   # Phân tích khám phá dữ liệu
 
-│   ├── preprocessing.ipynb # Các bước tiền xử lý văn bản
+│   ├── preprocessing_data.ipynb    # Các bước tiền xử lý văn bản
 
-│   └── model.ipynb         # Huấn luyện và đánh giá mô hình
+│   └── model.ipynb                 # Huấn luyện và đánh giá mô hình
 
-├── scripts/                # Mã nguồn Python (Scripts)
+├── scripts/                        # Mã nguồn Python (Scripts)
 
-│   ├── crawl-data.py       # Script thu thập dữ liệu
+│   ├── crawl-data.py               # Script thu thập dữ liệu
 
-│   └── upload.py           # Upload mô hình lên Hugging Face Hub
+│   └── create_dataset_json.py      # Tạo dataset dưới kiểu json cho model
 
-├── .gitignore              # Cấu hình file ẩn
+├── .gitignore                      # Cấu hình file ẩn
 
-└── README.md               # Tài liệu dự án
+└── README.md                       # Tài liệu dự án
+
 
 
 
