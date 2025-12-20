@@ -1,22 +1,22 @@
-\# 🚀 Vietnamese Text Classification - NLP Group 4
+# 🚀 Vietnamese Text Classification - NLP Group 4
 
 
 
-\[Python](https://img.shields.io/badge/Python-3.8%2B-blue)
+![Python](https://img.shields.io/badge/Python-3.8%2B-blue)
 
-\[PyTorch](https://img.shields.io/badge/PyTorch-Framework-red)
+![PyTorch](https://img.shields.io/badge/PyTorch-Framework-red)
 
-\[HuggingFace](https://img.shields.io/badge/HuggingFace-Transformers-yellow)
+![HuggingFace](https://img.shields.io/badge/HuggingFace-Transformers-yellow)
 
-\[Status](https://img.shields.io/badge/Status-Active-success)
-
-
-
-> Dự án Phân loại văn bản tiếng Việt sử dụng mô hình ngôn ngữ tiền huấn luyện (Pre-trained Language Models) như \*\*PhoBERT\*\*.
+![Status](https://img.shields.io/badge/Status-Active-success)
 
 
 
-\## 👥 Thành viên nhóm (Group 4)
+> Dự án Phân loại văn bản tiếng Việt sử dụng mô hình ngôn ngữ tiền huấn luyện (Pre-trained Language Models) như **PhoBERT**.
+
+
+
+## 👥 Thành viên nhóm (Group 4)
 
 
 
@@ -42,7 +42,7 @@ Dưới đây là danh sách các thành viên tham gia phát triển dự án:
 
 
 
-\## 📂 Cấu trúc dự án
+## 📂 Cấu trúc dự án
 
 
 
@@ -71,5 +71,6 @@ NLP\_TC\_Group4/
 ├── .gitignore              # Cấu hình file ẩn
 
 └── README.md               # Tài liệu dự án
+
 
 
