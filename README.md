@@ -77,10 +77,10 @@ Dự án tập trung vào việc:
 Tập dữ liệu bao gồm **20 nhóm chủ đề** đa dạng, đại diện cho các lĩnh vực quan trọng trong đời sống xã hội.
 
 **Bảng phân bố 20 nhãn (Labels):**
-| 📂 Ẩm thực | 📂 Gia đình | 📂 Khởi nghiệp | 📂 Thế giới |
-| 📂 Bất động sản | 📂 Giao thông | 📂 Kinh doanh | 📂 Thể thao |
-| 📂 Chứng khoán | 📂 Giáo dục | 📂 Nông nghiệp | 📂 Thời sự - Chính trị |
-| 📂 Công nghệ | 📂 Giải trí | 📂 Pháp luật | 📂 Văn hóa |
+| 📂 Ẩm thực | 📂 Gia đình | 📂 Khởi nghiệp | 📂 Thế giới | <br>
+| 📂 Bất động sản | 📂 Giao thông | 📂 Kinh doanh | 📂 Thể thao | <br>
+| 📂 Chứng khoán | 📂 Giáo dục | 📂 Nông nghiệp | 📂 Thời sự - Chính trị | <br>
+| 📂 Công nghệ | 📂 Giải trí | 📂 Pháp luật | 📂 Văn hóa | <br>
 | 📂 Du lịch | 📂 Khoa học | 📂 Sức khỏe | 📂 Đời sống |
 
 ## 🧠 Phương pháp tiếp cận (Methodology)
@@ -93,10 +93,11 @@ Quy trình thực hiện dự án được chia thành các giai đoạn chính:
     * Chuẩn hóa tiếng Việt (xử lý dấu câu, viết hoa/thường).
     * Tách từ (Word Segmentation) để giữ nguyên ngữ nghĩa của từ ghép.
 3.  **Huấn luyện & Đánh giá (Training & Evaluation):**
-    * Thử nghiệm các kỹ thuật Học sâu (Deep Learning) hiện đại để tìm ra phương án tối ưu nhất cho bài toán.
+    * Thử nghiệm các kỹ thuật Học sâu (Deep Learning) và Học máy (Machine Learning) hiện đại để tìm ra phương án tối ưu nhất cho bài toán.
     * Đánh giá mô hình dựa trên các chỉ số: Accuracy, Precision, Recall và F1-Score trên tập kiểm thử độc lập.
 
 ---
+
 
 
 
