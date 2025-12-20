@@ -20,15 +20,9 @@
 
 
 
-Dưới đây là danh sách các thành viên tham gia phát triển dự án:
+Dưới đây là danh sách các thành viên 
 
-
-
-| STT | Họ và Tên | Vai trò chính | GitHub |
-
-|:---:|:---|:---|:---:|
-
-| 1 | **Trần Quốc Bảo** |
+| 1 | **Trần Quốc Bảo** 
 
 | 2 | **Nguyễn Ngọc Minh Đức**
 
@@ -40,11 +34,7 @@ Dưới đây là danh sách các thành viên tham gia phát triển dự án:
 
 ---
 
-
-
 ## 📂 Cấu trúc dự án
-
-
 
 ```plaintext
 
@@ -71,6 +61,7 @@ NLP\_TC\_Group4/
 ├── .gitignore              # Cấu hình file ẩn
 
 └── README.md               # Tài liệu dự án
+
 
 
 
