@@ -1,69 +1,50 @@
-# --- 1. DỮ LIỆU (QUAN TRỌNG NHẤT) ---
-# Bỏ qua thư mục Data (nơi chứa hàng nghìn file txt bạn crawl về)
+# --- 1. DỮ LIỆU & FILE NÉN (QUAN TRỌNG) ---
 Data/
 data/
 datasets/
+data_filtered/
 
-# Bỏ qua các file dữ liệu lẻ nếu lỡ để bên ngoài
-*.csv
-*.txt
-*.json
-*.xlsx
-*.xls
+# Chặn luôn các file nén/dữ liệu nặng nhỡ may để quên ở thư mục gốc
 *.zip
+*.tar.gz
 *.rar
-
-# --- 2. CÁC FILE MÔ HÌNH (MODELS) ---
-# File model thường rất nặng (vài trăm MB đến GB), không nên push lên Git
-*.pkl
-*.h5
+*.csv
+# --- 2. MODEL FILES (CỰC KỲ QUAN TRỌNG) ---
+# Chặn tất cả các file trọng số mô hình (để tránh lỗi 100MB của GitHub)
+*.safetensors
+*.bin
 *.pth
 *.pt
-*.onnx
-*.sav
+*.h5
+*.keras
+saved_models/
+checkpoints/
+phobert_best/
 
-# --- 3. PYTHON & MÔI TRƯỜNG ---
-# File cache của Python (tự sinh ra khi chạy code)
+
+
+# --- 3. BẢO MẬT & SECRET ---
+.env
+secret.py
+upload.py
+
+# --- 4. PYTHON & MÔI TRƯỜNG ---
 __pycache__/
 *.pyc
-
-# Thư mục môi trường ảo (Virtual Environment)
 venv/
 env/
 .venv/
-.env
+pip-log.txt
+*.log
 
-# --- 4. NOTEBOOK (JUPYTER) ---
-# File checkpoint rác của Jupyter Notebook
+# --- 5. NOTEBOOK & IDE ---
 .ipynb_checkpoints
-
-# --- 5. IDE & HỆ ĐIỀU HÀNH ---
-# Cấu hình của VS Code hoặc PyCharm (không nên share vì mỗi máy mỗi khác)
 .vscode/
 .idea/
-
-# File rác của MacOS và Windows
 .DS_Store
 Thumbs.db
 
 # --- 6. KHÁC ---
-# Driver Selenium (nếu bạn để chung folder)
 chromedriver.exe
 geckodriver.exe
 debug.log
-
-# Ignore data folders
-data/
-data_filtered/
-
-# Ignore large files
-*.zip
-*.rar
-*.7z
-*.pkl
-
-# Ignore reports
-reports/
-.idea/
-
-upload.py
