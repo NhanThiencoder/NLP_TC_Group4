@@ -2,13 +2,13 @@
 
 
 
-!\[Python](https://img.shields.io/badge/Python-3.8%2B-blue)
+\[Python](https://img.shields.io/badge/Python-3.8%2B-blue)
 
-!\[PyTorch](https://img.shields.io/badge/PyTorch-Framework-red)
+\[PyTorch](https://img.shields.io/badge/PyTorch-Framework-red)
 
-!\[HuggingFace](https://img.shields.io/badge/HuggingFace-Transformers-yellow)
+\[HuggingFace](https://img.shields.io/badge/HuggingFace-Transformers-yellow)
 
-!\[Status](https://img.shields.io/badge/Status-Active-success)
+\[Status](https://img.shields.io/badge/Status-Active-success)
 
 
 
@@ -71,4 +71,5 @@ NLP\_TC\_Group4/
 ├── .gitignore              # Cấu hình file ẩn
 
 └── README.md               # Tài liệu dự án
+
 
