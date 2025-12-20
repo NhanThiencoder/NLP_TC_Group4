@@ -28,13 +28,13 @@ Dưới đây là danh sách các thành viên tham gia phát triển dự án:
 
 |:---:|:---|:---|:---:|
 
-| 1 | \*\*Trần Quốc Bảo\*\* | Data Engineer / Crawling | 👨‍💻 |
+| 1 | **Trần Quốc Bảo** |
 
-| 2 | \*\*Nguyễn Ngọc Minh Đức\*\* | Data Analyst / EDA | 📊 |
+| 2 | **Nguyễn Ngọc Minh Đức**
 
-| 3 | \*\*Hồ Đức Nhân Thiện\*\* | NLP Engineer / Modeling | 🧠 |
+| 3 | **Hồ Đức Nhân Thiện**
 
-| 4 | \*\*Nguyễn Huỳnh Tấn Phát\*\* | MLOps / Deployment | 🚀 |
+| 4 | **Nguyễn Huỳnh Tấn Phát**
 
 
 
@@ -71,6 +71,7 @@ NLP\_TC\_Group4/
 ├── .gitignore              # Cấu hình file ẩn
 
 └── README.md               # Tài liệu dự án
+
 
 
 
