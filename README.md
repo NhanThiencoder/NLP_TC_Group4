@@ -61,8 +61,7 @@ NLP\_TC\_Group4/
 ├── .gitignore                      # Cấu hình file ẩn
 
 └── README.md                       # Tài liệu dự án
-
----
+```
 
 ## 🎯 Mục tiêu dự án (Project Goal)
 
@@ -98,6 +97,7 @@ Quy trình thực hiện dự án được chia thành các giai đoạn chính:
     * Đánh giá mô hình dựa trên các chỉ số: Accuracy, Precision, Recall và F1-Score trên tập kiểm thử độc lập.
 
 ---
+
 
 
 
