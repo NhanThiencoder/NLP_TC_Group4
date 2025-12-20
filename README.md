@@ -76,7 +76,7 @@ Dự án tập trung vào việc:
 
 Tập dữ liệu bao gồm **20 nhóm chủ đề** đa dạng, đại diện cho các lĩnh vực quan trọng trong đời sống xã hội.
 
-**Bảng phân bố 20 nhãn (Labels):**
+**Bảng phân bố 20 nhãn (Labels):**<br>
 | 📂 Ẩm thực | 📂 Gia đình | 📂 Khởi nghiệp | 📂 Thế giới | <br>
 | 📂 Bất động sản | 📂 Giao thông | 📂 Kinh doanh | 📂 Thể thao | <br>
 | 📂 Chứng khoán | 📂 Giáo dục | 📂 Nông nghiệp | 📂 Thời sự - Chính trị | <br>
@@ -97,6 +97,7 @@ Quy trình thực hiện dự án được chia thành các giai đoạn chính:
     * Đánh giá mô hình dựa trên các chỉ số: Accuracy, Precision, Recall và F1-Score trên tập kiểm thử độc lập.
 
 ---
+
 
 
 
