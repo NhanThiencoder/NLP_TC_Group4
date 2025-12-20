@@ -12,7 +12,7 @@
 
 
 
-> Dự án Phân loại văn bản tiếng Việt sử dụng mô hình ngôn ngữ tiền huấn luyện (Pre-trained Language Models) như **PhoBERT**.
+> Dự án Phân loại văn bản tiếng Việt.
 
 
 
@@ -71,6 +71,7 @@ NLP\_TC\_Group4/
 ├── .gitignore              # Cấu hình file ẩn
 
 └── README.md               # Tài liệu dự án
+
 
 
 
