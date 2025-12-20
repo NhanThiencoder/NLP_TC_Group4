@@ -2,7 +2,7 @@
 
 
 
-![Python](https://img.shields.io/badge/Python-3.8%2B-blue)
+![Python](https://img.shields.io/badge/Python-3.13.9%2B-blue)
 
 ![PyTorch](https://img.shields.io/badge/PyTorch-Framework-red)
 
@@ -61,6 +61,7 @@ NLP\_TC\_Group4/
 ├── .gitignore                      # Cấu hình file ẩn
 
 └── README.md                       # Tài liệu dự án
+
 
 
 
