@@ -1,71 +1,67 @@
 import json
-import os
 from pathlib import Path
-
-from natsort import natsorted
 from tqdm import tqdm
-import natsort
+from natsort import natsorted
 
-# ================= CẤU HÌNH =================
+# --- CẤU HÌNH ---
 BASE_DIR = Path(__file__).resolve().parent.parent
-DATA_DIR = BASE_DIR / "data" / "processed" / "data_filtered"
+RAW_DATA_DIR = BASE_DIR / "data" / "processed" / "data_filtered"
 OUTPUT_FILE = BASE_DIR / "data" / "final" / "nlp_dataset.jsonl"
 MAPPING_FILE = BASE_DIR / "data" / "final" / "id2label.json"
 
+def create_label_mapping(data_dir):
+    """Tạo dictionary mapping giữa tên label và ID số."""
+    # Lấy danh sách thư mục con và sắp xếp tự nhiên
+    topic_names = natsorted([p.name for p in data_dir.iterdir() if p.is_dir()])
+    
+    label2id = {name: idx for idx, name in enumerate(topic_names)}
+    id2label = {idx: name for idx, name in enumerate(topic_names)}
+    
+    return label2id, id2label
 
-def create_dataset_jsonl():
-    if not DATA_DIR.exists():
-        print(f"❌ Không tìm thấy thư mục: {DATA_DIR}")
+def process_dataset():
+    if not RAW_DATA_DIR.exists():
+        print(f"Directory not found: {RAW_DATA_DIR}")
         return
 
-    # 1. Tạo Mapping ID
-    topics = natsorted([d.name for d in DATA_DIR.iterdir() if d.is_dir()])
-    label2id = {name: idx for idx, name in enumerate(topics)}
-    id2label = {idx: name for idx, name in enumerate(topics)}
-
-    print(f"📊 Tìm thấy {len(topics)} chủ đề.")
-
-    # 2. Lưu file Mapping (Để sau này biết số 0 là topic gì)
+    # 1. Tạo và lưu file mapping
+    label2id, id2label = create_label_mapping(RAW_DATA_DIR)
+    
+    OUTPUT_FILE.parent.mkdir(parents=True, exist_ok=True)
     with open(MAPPING_FILE, 'w', encoding='utf-8') as f:
         json.dump(id2label, f, ensure_ascii=False, indent=4)
-    print(f"✅ Đã lưu file mapping: {MAPPING_FILE.name}")
+    
+    print(f"Found {len(label2id)} topics. Mapping saved.")
 
-    # 3. Duyệt file và Ghi trực tiếp vào JSONL (Stream write)
-    print(f"🚀 Đang tạo dataset {OUTPUT_FILE.name}...")
-
-    total_files = sum(len(list(d.glob("*.txt"))) for d in DATA_DIR.iterdir() if d.is_dir())
-
-    # Mở file dataset để ghi dòng (Append mode)
+    # 2. Đọc file txt và ghi vào jsonl
+    files = sorted(RAW_DATA_DIR.rglob("*.txt"))
+    
+    print("Processing files...")
     with open(OUTPUT_FILE, 'w', encoding='utf-8') as out_f:
-        with tqdm(total=total_files, unit="file") as pbar:
-            for topic_name in topics:
-                topic_dir = DATA_DIR / topic_name
-                topic_id = label2id[topic_name]
+        for file_path in tqdm(files):
+            try:
+                # Tên thư mục cha chính là nhãn (label)
+                label_name = file_path.parent.name
+                
+                # Bỏ qua nếu file nằm ngoài thư mục label hợp lệ
+                if label_name not in label2id:
+                    continue
 
-                # Lấy file và sort
-                files = sorted(topic_dir.glob("*.txt"))
+                content = file_path.read_text(encoding='utf-8', errors='ignore').strip()
+                
+                if content:
+                    record = {
+                        "text": content,
+                        "label_name": label_name,
+                        "label_id": label2id[label_name],
+                        "filename": file_path.name
+                    }
+                    out_f.write(json.dumps(record, ensure_ascii=False) + '\n')
+                    
+            except Exception as e:
+                print(f"Error reading {file_path.name}: {e}")
 
-                for file_path in files:
-                    try:
-                        content = file_path.read_text(encoding='utf-8', errors='ignore').strip()
-                        if content:
-                            # Tạo object
-                            record = {
-                                "text": content,
-                                "label_name": topic_name,
-                                "label_id": topic_id,
-                                "filename": file_path.name  # Lưu thêm tên file gốc để dễ trace
-                            }
-                            # Ghi ngay lập tức 1 dòng JSON vào file
-                            out_f.write(json.dumps(record, ensure_ascii=False) + '\n')
-
-                    except Exception as e:
-                        print(f"[ERR] {file_path.name}: {e}")
-
-                    pbar.update(1)
-
-    print(f"\n✅ HOÀN TẤT! File dataset đã sẵn sàng để train.")
-
+    print(f"Dataset created at: {OUTPUT_FILE}")
 
 if __name__ == "__main__":
-    create_dataset_jsonl()
+    process_dataset()

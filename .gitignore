@@ -1,22 +1,19 @@
 # --- 1. DỮ LIỆU & FILE NÉN (QUAN TRỌNG) ---
 Data/
-data/
 datasets/
 data_filtered/
 
 # Chặn luôn các file nén/dữ liệu nặng nhỡ may để quên ở thư mục gốc
-*.zip
 *.tar.gz
-*.rar
 *.csv
 # --- 2. MODEL FILES (CỰC KỲ QUAN TRỌNG) ---
 # Chặn tất cả các file trọng số mô hình (để tránh lỗi 100MB của GitHub)
 *.safetensors
 *.bin
-*.pth
 *.pt
 *.h5
 *.keras
+*.jsonl
 saved_models/
 checkpoints/
 phobert_best/
