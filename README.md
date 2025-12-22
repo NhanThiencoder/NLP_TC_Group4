@@ -1,4 +1,4 @@
-# 🚀 Vietnamese Text Classification - NLP Group 4
+#  Vietnamese Text Classification - NLP Group 4
 
 
 
@@ -16,7 +16,7 @@
 
 
 
-## 👥 Thành viên nhóm (Group 4)
+##  Thành viên nhóm (Group 4)
 
 
 
@@ -34,7 +34,7 @@ Dưới đây là danh sách các thành viên
 
 ---
 
-## 📂 Cấu trúc dự án
+##  Cấu trúc dự án
 
 ```plaintext
 
@@ -63,7 +63,7 @@ NLP\_TC\_Group4/
 └── README.md                       # Tài liệu dự án
 ```
 
-## 🎯 Mục tiêu dự án (Project Goal)
+##  Mục tiêu dự án (Project Goal)
 
 Mục tiêu chính của dự án là xây dựng một hệ thống **Phân loại văn bản tiếng Việt (Vietnamese Text Classification)** tự động và hiệu quả. Hệ thống được thiết kế để xử lý lượng lớn dữ liệu tin tức từ các báo điện tử, giúp tự động gán nhãn chủ đề mà không cần sự can thiệp thủ công của con người.
 
@@ -83,7 +83,7 @@ Tập dữ liệu bao gồm **20 nhóm chủ đề** đa dạng, đại diện c
 | 📂 Công nghệ | 📂 Giải trí | 📂 Pháp luật | 📂 Văn hóa | <br>
 | 📂 Du lịch | 📂 Khoa học | 📂 Sức khỏe | 📂 Đời sống |
 
-## 🧠 Phương pháp tiếp cận (Methodology)
+##  Phương pháp tiếp cận (Methodology)
 
 Quy trình thực hiện dự án được chia thành các giai đoạn chính:
 
@@ -97,6 +97,7 @@ Quy trình thực hiện dự án được chia thành các giai đoạn chính:
     * Đánh giá mô hình dựa trên các chỉ số: Accuracy, Precision, Recall và F1-Score trên tập kiểm thử độc lập.
 
 ---
+
 
 
 
