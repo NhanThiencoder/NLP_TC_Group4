@@ -22,13 +22,13 @@
 
 Dưới đây là danh sách các thành viên 
 
-| 1 | **Trần Quốc Bảo (31231022657)** 
+1) **Trần Quốc Bảo (31231022657)** 
 
-| 2 | **Nguyễn Ngọc Minh Đức (31231020325)**
+2) **Nguyễn Ngọc Minh Đức (31231020325)**
 
-| 3 | **Hồ Đức Nhân Thiện (31231026999)**
+3) **Hồ Đức Nhân Thiện (31231026999)**
 
-| 4 | **Nguyễn Huỳnh Tấn Phát (31231024397)**
+4) **Nguyễn Huỳnh Tấn Phát (31231024397)**
 
 
 
@@ -98,6 +98,7 @@ Quy trình thực hiện dự án được chia thành các giai đoạn chính:
     * Đánh giá mô hình dựa trên các chỉ số: Accuracy, Precision, Recall và F1-Score trên tập kiểm thử độc lập.
 
 ---
+
 
 
 
