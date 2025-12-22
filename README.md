@@ -2,7 +2,7 @@
 
 
 
-> Đề tài:Dự án Phân loại văn bản tiếng Việt.
+> Đề tài: Dự án Phân loại văn bản tiếng Việt.
 
 Đây là bài báo cáo cuối kì nhóm 4 môn Xử lý ngôn ngữ tự nhiên của lớp Khoa học máy tính (CS0001) thuộc Đại học Kinh tế thành phố Hồ Chí Minh (UEH). 
 
@@ -88,6 +88,7 @@ Quy trình thực hiện dự án được chia thành các giai đoạn chính:
     * Đánh giá mô hình dựa trên các chỉ số: Accuracy, Precision, Recall và F1-Score trên tập kiểm thử độc lập.
 
 ---
+
 
 
 
