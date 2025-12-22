@@ -72,16 +72,16 @@ Dự án tập trung vào việc:
 2.  **Xử lý ngôn ngữ tự nhiên (NLP):** Áp dụng các kỹ thuật tiền xử lý đặc thù cho tiếng Việt (tách từ, chuẩn hóa).
 3.  **Tối ưu hóa bài toán phân loại đa lớp:** Giải quyết thách thức phân loại văn bản với số lượng nhãn lớn (20 chủ đề) và độ tương đồng cao giữa các chủ đề.
 
-## 💾 Danh sách chủ đề (Topics)
+##  Tập dữ liệu 
 
 Tập dữ liệu bao gồm **20 nhóm chủ đề** đa dạng, đại diện cho các lĩnh vực quan trọng trong đời sống xã hội.
 
 **Bảng phân bố 20 nhãn (Labels):**<br>
-| 📂 Ẩm thực | 📂 Gia đình | 📂 Khởi nghiệp | 📂 Thế giới | <br>
-| 📂 Bất động sản | 📂 Giao thông | 📂 Kinh doanh | 📂 Thể thao | <br>
-| 📂 Chứng khoán | 📂 Giáo dục | 📂 Nông nghiệp | 📂 Thời sự - Chính trị | <br>
-| 📂 Công nghệ | 📂 Giải trí | 📂 Pháp luật | 📂 Văn hóa | <br>
-| 📂 Du lịch | 📂 Khoa học | 📂 Sức khỏe | 📂 Đời sống |
+|  Ẩm thực |  Gia đình |  Khởi nghiệp |  Thế giới | <br>
+|  Bất động sản |  Giao thông |  Kinh doanh |  Thể thao | <br>
+|  Chứng khoán |  Giáo dục |  Nông nghiệp |  Thời sự - Chính trị | <br>
+|  Công nghệ |  Giải trí |  Pháp luật |  Văn hóa | <br>
+|  Du lịch |  Khoa học |  Sức khỏe |  Đời sống |
 
 ##  Phương pháp tiếp cận (Methodology)
 
@@ -97,6 +97,7 @@ Quy trình thực hiện dự án được chia thành các giai đoạn chính:
     * Đánh giá mô hình dựa trên các chỉ số: Accuracy, Precision, Recall và F1-Score trên tập kiểm thử độc lập.
 
 ---
+
 
 
 
