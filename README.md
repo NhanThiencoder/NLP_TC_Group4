@@ -22,13 +22,13 @@
 
 Dưới đây là danh sách các thành viên 
 
-| 1 | **Trần Quốc Bảo** 
+| 1 | **Trần Quốc Bảo (31231022657)** 
 
-| 2 | **Nguyễn Ngọc Minh Đức**
+| 2 | **Nguyễn Ngọc Minh Đức (31231020325)**
 
-| 3 | **Hồ Đức Nhân Thiện**
+| 3 | **Hồ Đức Nhân Thiện (31231026999)**
 
-| 4 | **Nguyễn Huỳnh Tấn Phát**
+| 4 | **Nguyễn Huỳnh Tấn Phát (31231024397)**
 
 
 
@@ -92,11 +92,13 @@ Quy trình thực hiện dự án được chia thành các giai đoạn chính:
     * Làm sạch văn bản (loại bỏ HTML, ký tự rác).
     * Chuẩn hóa tiếng Việt (xử lý dấu câu, viết hoa/thường).
     * Tách từ (Word Segmentation) để giữ nguyên ngữ nghĩa của từ ghép.
+    * Loại bỏ stopword để giảm thông tin gây nhiễu cho mô hình.
 3.  **Huấn luyện & Đánh giá (Training & Evaluation):**
     * Thử nghiệm các kỹ thuật Học sâu (Deep Learning) và Học máy (Machine Learning) hiện đại để tìm ra phương án tối ưu nhất cho bài toán.
     * Đánh giá mô hình dựa trên các chỉ số: Accuracy, Precision, Recall và F1-Score trên tập kiểm thử độc lập.
 
 ---
+
 
 
 
