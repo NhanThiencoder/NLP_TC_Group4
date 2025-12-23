@@ -42,14 +42,17 @@ class LSTMClassifier(nn.Module):
         output, (h_n, c_n) = self.lstm(embedded)
         last_hidden = h_n[-1]; out = self.fc(last_hidden); return out
 
-STOPWORDS = {
-    "thì", "là", "mà", "của", "những", "các", "để", "và", "với", "có", 
-    "trong", "đã", "đang", "sẽ", "được", "bị", "tại", "vì", "như", "này",
-    "cho", "về", "một", "người", "khi", "ra", "vào", "lên", "xuống",
-    "tôi", "chúng_tôi", "bạn", "họ", "chúng_ta", "theo", "ông", "bà",
-    "nhiều", "ít", "rất", "quá", "lắm", "nhưng", "tuy_nhiên", "nếu", "dù",
-    "bài", "viết", "ảnh", "video", "clip", "nguồn", "theo", "vnexpress", "dân trí"
-}
+STOPWORD_PATH = BASE_DIR / "data" / "final" / "vietnamese-stopwords-dash.txt"
+
+def load_stopwords(filepath):
+    try:
+        with open(filepath, 'r', encoding='utf-8') as f:
+            return set([line.strip() for line in f.readlines()])
+    except FileNotFoundError:
+        print(f"Lỗi: Không tìm thấy file stopwords tại {filepath}")
+        return {"thì", "là", "mà"}
+
+STOPWORDS = load_stopwords(STOPWORD_PATH)
 
 def normalize_text(text): return unicodedata.normalize('NFC', text)
 
@@ -225,4 +228,5 @@ if len(st.session_state['history']) > 0:
         )
 
 else:
+
     st.info("👈 Hãy nhập Link, Văn bản hoặc File ở trên để xem Dashboard phân tích xu hướng.")
