@@ -14,23 +14,18 @@ import seaborn as sns
 from collections import Counter
 import io
 
-# --- CẤU HÌNH TRANG ---
 st.set_page_config(
     page_title="My Reading Trends",
-    page_icon="eye",
+    page_icon=None,
     layout="wide"
 )
 
-# --- CẤU HÌNH ĐƯỜNG DẪN ---
-BASE_DIR = Path(__file__).parent
+BASE_DIR = Path(__file__).parent.parent.resolve()
 MODEL_DIR = BASE_DIR / "models"
-if not MODEL_DIR.exists(): MODEL_DIR = BASE_DIR
 
-# --- 1. KHỞI TẠO SESSION STATE (BỘ NHỚ TẠM) ---
 if 'history' not in st.session_state:
-    st.session_state['history'] = []  # List chứa các bài đã phân tích
+    st.session_state['history'] = []
 
-# --- 2. ĐỊNH NGHĨA MODEL & XỬ LÝ (GIỮ NGUYÊN TỪ TRƯỚC) ---
 class LSTMClassifier(nn.Module):
     def __init__(self, vocab_size, embed_dim, hidden_dim, num_classes):
         super().__init__()
@@ -49,7 +44,6 @@ def load_stopwords(filepath):
         with open(filepath, 'r', encoding='utf-8') as f:
             return set([line.strip() for line in f.readlines()])
     except FileNotFoundError:
-        print(f"Lỗi: Không tìm thấy file stopwords tại {filepath}")
         return {"thì", "là", "mà"}
 
 STOPWORDS = load_stopwords(STOPWORD_PATH)
@@ -69,16 +63,13 @@ def crawl_news_from_url(url):
         response = requests.get(url, headers=headers, timeout=10)
         soup = BeautifulSoup(response.content, 'html.parser')
         
-        # Logic lấy nội dung chính (mở rộng thêm các báo khác ở đây)
         content = ""
         title = "Bài viết từ Link"
         
-        # Tiêu đề
         if soup.title: title = soup.title.string
         
-        # Nội dung (Thử các class phổ biến)
         paragraphs = soup.find_all('p', class_=['Normal', 'description', 'content'])
-        if not paragraphs: paragraphs = soup.find_all('p') # Fallback lấy tất cả thẻ p
+        if not paragraphs: paragraphs = soup.find_all('p') 
         
         content = "\n".join([p.text.strip() for p in paragraphs if len(p.text.strip()) > 50])
         
@@ -97,34 +88,28 @@ def load_models():
 
 le, tfidf, model = load_models()
 
-# --- 3. GIAO DIỆN CHÍNH ---
-
-# Sidebar: Nút Reset
 with st.sidebar:
-    st.title("⚙️ Cài đặt")
-    if st.button("🗑️ Xóa lịch sử", type="primary"):
+    st.title("Cài đặt")
+    if st.button("Xóa lịch sử", type="primary"):
         st.session_state['history'] = []
         st.rerun()
     st.info("Hệ thống sẽ tích lũy các bài bạn nhập vào để phân tích xu hướng đọc.")
 
-st.title("📊 Personal Content Analyzer")
+st.title("Personal Content Analyzer")
 st.markdown("Hệ thống phân tích xu hướng nội dung người dùng (User Profiling).")
 
 if not le:
-    st.error("❌ Thiếu model. Vui lòng kiểm tra folder 'models'."); st.stop()
+    st.error("Thiếu model. Vui lòng kiểm tra folder 'models'."); st.stop()
 
-# --- KHU VỰC 1: NHẬP LIỆU (ADD TO LIST) ---
 with st.container(border=True):
-    st.subheader("➕ Thêm nội dung mới")
+    st.subheader("Thêm nội dung mới")
     
-    # Dùng tabs cho gọn
-    tab_link, tab_text, tab_file = st.tabs(["🔗 Nhập Link", "📝 Nhập Văn bản", "📂 Upload File (.txt)"])
+    tab_link, tab_text, tab_file = st.tabs(["Nhập Link", "Nhập Văn bản", "Upload File (.txt)"])
     
     input_data = None
     input_type = None
-    input_title = None # Tên hiển thị trong lịch sử
+    input_title = None 
     
-    # 1. Xử lý Tab Link
     with tab_link:
         url = st.text_input("Dán đường dẫn bài báo:", placeholder="https://...")
         if st.button("Phân tích Link"):
@@ -137,7 +122,6 @@ with st.container(border=True):
                         input_type = "Link"
                         input_title = title
 
-    # 2. Xử lý Tab Text
     with tab_text:
         txt = st.text_area("Dán nội dung vào đây:", height=100)
         if st.button("Phân tích Văn bản"):
@@ -146,7 +130,6 @@ with st.container(border=True):
                 input_type = "Text"
                 input_title = f"Văn bản ({txt[:30]}...)"
 
-    # 3. Xử lý Tab File
     with tab_file:
         uploaded_file = st.file_uploader("Chọn file .txt", type="txt")
         if uploaded_file is not None and st.button("Phân tích File"):
@@ -157,19 +140,15 @@ with st.container(border=True):
                 input_type = "File"
                 input_title = uploaded_file.name
 
-    # --- CORE: XỬ LÝ & LƯU VÀO SESSION STATE ---
     if input_data:
-        # 1. Preprocess
         clean_text = preprocess_text(input_data)
         
-        # 2. Predict
         vec = tfidf.transform([clean_text])
         probs = model.predict_proba(vec)[0]
         pred_idx = np.argmax(probs)
         label = le.inverse_transform([pred_idx])[0]
         conf = probs[pred_idx]
         
-        # 3. Lưu vào lịch sử
         new_entry = {
             "title": input_title,
             "type": input_type,
@@ -179,18 +158,14 @@ with st.container(border=True):
         }
         st.session_state['history'].append(new_entry)
         st.success(f"Đã thêm: **{label}** ({conf:.1%})")
-        # Không rerun để người dùng có thể nhập tiếp liên tục
 
-# --- KHU VỰC 2: DASHBOARD XU HƯỚNG ---
 st.divider()
 
 if len(st.session_state['history']) > 0:
-    st.subheader("📈 Xu hướng đọc của bạn")
+    st.subheader("Xu hướng đọc của bạn")
     
-    # Chuyển lịch sử thành DataFrame để dễ xử lý
     df_history = pd.DataFrame(st.session_state['history'])
     
-    # 1. KPIs
     col1, col2, col3 = st.columns(3)
     col1.metric("Tổng số bài đã đọc", len(df_history))
     
@@ -200,12 +175,10 @@ if len(st.session_state['history']) > 0:
     avg_conf = df_history['confidence'].mean()
     col3.metric("Độ tin cậy trung bình AI", f"{avg_conf:.1%}")
     
-    # 2. Charts & Details
     c_chart, c_list = st.columns([1, 1])
     
     with c_chart:
-        st.write("##### Phân bố chủ đề")
-        # Vẽ Pie Chart
+        st.write("Phân bố chủ đề")
         topic_counts = df_history['topic'].value_counts()
         fig, ax = plt.subplots(figsize=(5, 5))
         colors = sns.color_palette('pastel')[0:len(topic_counts)]
@@ -213,8 +186,7 @@ if len(st.session_state['history']) > 0:
         st.pyplot(fig)
 
     with c_list:
-        st.write("##### Lịch sử chi tiết")
-        # Hiển thị dạng bảng rút gọn
+        st.write("Lịch sử chi tiết")
         st.dataframe(
             df_history[['topic', 'title', 'type', 'confidence']].style.highlight_max(axis=0, subset=['confidence']),
             column_config={
@@ -228,5 +200,4 @@ if len(st.session_state['history']) > 0:
         )
 
 else:
-
-    st.info("👈 Hãy nhập Link, Văn bản hoặc File ở trên để xem Dashboard phân tích xu hướng.")
+    st.info("Hãy nhập Link, Văn bản hoặc File ở trên để xem Dashboard phân tích xu hướng.")
