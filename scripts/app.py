@@ -3,6 +3,7 @@ import pandas as pd
 import numpy as np
 import torch
 import torch.nn as nn
+import torch.nn.functional as F
 import joblib
 import unicodedata
 import requests
@@ -11,44 +12,61 @@ from pyvi import ViTokenizer
 from pathlib import Path
 import matplotlib.pyplot as plt
 import seaborn as sns
-from collections import Counter
 import io
 
+# --- CẤU HÌNH TRANG ---
 st.set_page_config(
-    page_title="My Reading Trends",
+    page_title="Hệ thống Phân loại Tin tức (TextMLP)",
     page_icon=None,
     layout="wide"
 )
 
-BASE_DIR = Path(__file__).parent.parent.resolve()
-MODEL_DIR = BASE_DIR / "models"
+# --- CẤU HÌNH ĐƯỜNG DẪN ---
+CURRENT_SCRIPT_PATH = Path(__file__).resolve()
+PROJECT_ROOT = CURRENT_SCRIPT_PATH.parent.parent
+MODEL_DIR = PROJECT_ROOT / "models"
+STOPWORD_PATH = PROJECT_ROOT / "data" / "final" / "vietnamese-stopwords-dash.txt"
 
 if 'history' not in st.session_state:
     st.session_state['history'] = []
 
-class LSTMClassifier(nn.Module):
-    def __init__(self, vocab_size, embed_dim, hidden_dim, num_classes):
-        super().__init__()
-        self.embedding = nn.Embedding(vocab_size, embed_dim)
-        self.lstm = nn.LSTM(embed_dim, hidden_dim, batch_first=True)
-        self.fc = nn.Linear(hidden_dim, num_classes)
+# --- 1. ĐỊNH NGHĨA MODEL ---
+class TextMLP(nn.Module):
+    def __init__(self, input_size, num_classes):
+        super(TextMLP, self).__init__()
+        
+        self.fc1 = nn.Linear(input_size, 512)
+        self.bn1 = nn.BatchNorm1d(512)
+        
+        self.fc2 = nn.Linear(512, 128)
+        self.bn2 = nn.BatchNorm1d(128)
+        
+        self.fc3 = nn.Linear(128, 64)
+        self.bn3 = nn.BatchNorm1d(64)
+        
+        self.out = nn.Linear(64, num_classes)
+        
+        self.dropout = nn.Dropout(0.5)
+
     def forward(self, x):
-        embedded = self.embedding(x)
-        output, (h_n, c_n) = self.lstm(embedded)
-        last_hidden = h_n[-1]; out = self.fc(last_hidden); return out
+        x = self.dropout(F.relu(self.bn1(self.fc1(x))))
+        x = self.dropout(F.relu(self.bn2(self.fc2(x))))
+        x = self.dropout(F.relu(self.bn3(self.fc3(x))))
+        return self.out(x)
 
-STOPWORD_PATH = BASE_DIR / "data" / "final" / "vietnamese-stopwords-dash.txt"
-
+# --- 2. HÀM TẢI STOPWORDS ---
 def load_stopwords(filepath):
     try:
         with open(filepath, 'r', encoding='utf-8') as f:
             return set([line.strip() for line in f.readlines()])
     except FileNotFoundError:
-        return {"thì", "là", "mà"}
+        return {"thì", "là", "mà", "và", "của", "những"}
 
 STOPWORDS = load_stopwords(STOPWORD_PATH)
 
-def normalize_text(text): return unicodedata.normalize('NFC', text)
+# --- 3. TIỀN XỬ LÝ ---
+def normalize_text(text):
+    return unicodedata.normalize('NFC', text)
 
 def preprocess_text(text):
     text = normalize_text(text)
@@ -58,17 +76,13 @@ def preprocess_text(text):
     return " ".join(clean_words)
 
 def crawl_news_from_url(url):
-    headers = {'User-Agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) Chrome/91.0.4472.124 Safari/537.36'}
+    headers = {'User-Agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64)'}
     try:
         response = requests.get(url, headers=headers, timeout=10)
         soup = BeautifulSoup(response.content, 'html.parser')
         
-        content = ""
-        title = "Bài viết từ Link"
-        
-        if soup.title: title = soup.title.string
-        
-        paragraphs = soup.find_all('p', class_=['Normal', 'description', 'content'])
+        title = soup.title.string if soup.title else "Bài viết từ Link"
+        paragraphs = soup.find_all('p', class_=['Normal', 'description', 'content', 'fck_detail', 'article-content'])
         if not paragraphs: paragraphs = soup.find_all('p') 
         
         content = "\n".join([p.text.strip() for p in paragraphs if len(p.text.strip()) > 50])
@@ -77,44 +91,60 @@ def crawl_news_from_url(url):
         return title, content, None
     except Exception as e: return None, None, str(e)
 
+# --- 4. LOAD MODEL & RESOURCES ---
 @st.cache_resource
-def load_models():
+def load_resources():
     try:
-        le = joblib.load(MODEL_DIR / "label_encoder.pkl")
-        tfidf = joblib.load(MODEL_DIR / "tfidf_vectorizer.pkl")
-        lr = joblib.load(MODEL_DIR / "logistic_regression.pkl")
-        return le, tfidf, lr
-    except: return None, None, None
+        tfidf_path = MODEL_DIR / "tfidf_vectorizer.pkl"
+        le_path = MODEL_DIR / "label_encoder.pkl"
+        model_path = MODEL_DIR / "mlp_model.pth"
 
-le, tfidf, model = load_models()
+        if not (tfidf_path.exists() and le_path.exists() and model_path.exists()):
+            st.error(f"Thiếu file trong thư mục: {MODEL_DIR}")
+            return None, None, None
 
+        le = joblib.load(le_path)
+        tfidf = joblib.load(tfidf_path)
+        
+        input_dim = len(tfidf.get_feature_names_out())
+        num_classes = len(le.classes_)
+        
+        model = TextMLP(input_size=input_dim, num_classes=num_classes)
+        
+        model.load_state_dict(torch.load(model_path, map_location=torch.device('cpu')))
+        model.eval()
+        
+        return le, tfidf, model
+    except Exception as e:
+        st.error(f"Lỗi load model: {str(e)}")
+        return None, None, None
+
+le, tfidf, model = load_resources()
+
+# --- GIAO DIỆN CHÍNH ---
 with st.sidebar:
     st.title("Cài đặt")
     if st.button("Xóa lịch sử", type="primary"):
         st.session_state['history'] = []
         st.rerun()
-    st.info("Hệ thống sẽ tích lũy các bài bạn nhập vào để phân tích xu hướng đọc.")
+    st.info("Mô hình: TextMLP (3 Layers + BN)")
 
-st.title("Personal Content Analyzer")
-st.markdown("Hệ thống phân tích xu hướng nội dung người dùng (User Profiling).")
+st.title("Phân loại Tin tức (MLP)")
 
-if not le:
-    st.error("Thiếu model. Vui lòng kiểm tra folder 'models'."); st.stop()
+if not model:
+    st.stop()
 
 with st.container(border=True):
-    st.subheader("Thêm nội dung mới")
+    st.subheader("Nhập dữ liệu")
+    tab_link, tab_text, tab_file = st.tabs(["Link Báo", "Văn bản", "File .txt"])
     
-    tab_link, tab_text, tab_file = st.tabs(["Nhập Link", "Nhập Văn bản", "Upload File (.txt)"])
-    
-    input_data = None
-    input_type = None
-    input_title = None 
+    input_data, input_type, input_title = None, None, None
     
     with tab_link:
-        url = st.text_input("Dán đường dẫn bài báo:", placeholder="https://...")
+        url = st.text_input("Dán URL bài báo:")
         if st.button("Phân tích Link"):
             if url:
-                with st.spinner("Đang đọc nội dung từ web..."):
+                with st.spinner("Đang crawl dữ liệu..."):
                     title, content, err = crawl_news_from_url(url)
                     if err: st.error(err)
                     else:
@@ -123,81 +153,69 @@ with st.container(border=True):
                         input_title = title
 
     with tab_text:
-        txt = st.text_area("Dán nội dung vào đây:", height=100)
-        if st.button("Phân tích Văn bản"):
+        txt = st.text_area("Dán nội dung văn bản:")
+        if st.button("Phân tích Text"):
             if txt:
                 input_data = txt
                 input_type = "Text"
-                input_title = f"Văn bản ({txt[:30]}...)"
+                input_title = f"Text ({txt[:20]}...)"
 
     with tab_file:
         uploaded_file = st.file_uploader("Chọn file .txt", type="txt")
-        if uploaded_file is not None and st.button("Phân tích File"):
+        if uploaded_file and st.button("Phân tích File"):
             stringio = io.StringIO(uploaded_file.getvalue().decode("utf-8"))
-            content = stringio.read()
-            if content:
-                input_data = content
-                input_type = "File"
-                input_title = uploaded_file.name
+            input_data = stringio.read()
+            input_type = "File"
+            input_title = uploaded_file.name
 
     if input_data:
         clean_text = preprocess_text(input_data)
         
-        vec = tfidf.transform([clean_text])
-        probs = model.predict_proba(vec)[0]
-        pred_idx = np.argmax(probs)
-        label = le.inverse_transform([pred_idx])[0]
-        conf = probs[pred_idx]
+        vec = tfidf.transform([clean_text]).toarray()
+        tensor_input = torch.tensor(vec, dtype=torch.float32)
         
-        new_entry = {
+        with torch.no_grad():
+            outputs = model(tensor_input)
+            probs = torch.softmax(outputs, dim=1)
+            conf, pred_idx = torch.max(probs, dim=1)
+            
+            label = le.inverse_transform([pred_idx.item()])[0]
+            confidence = conf.item()
+        
+        st.session_state['history'].append({
             "title": input_title,
             "type": input_type,
             "topic": label,
-            "confidence": conf,
-            "preview": input_data[:100] + "..."
-        }
-        st.session_state['history'].append(new_entry)
-        st.success(f"Đã thêm: **{label}** ({conf:.1%})")
+            "confidence": confidence
+        })
+        st.success(f"Dự đoán: **{label}**")
+        st.progress(confidence, text=f"Độ tin cậy: {confidence:.1%}")
 
 st.divider()
 
+# --- DASHBOARD (ĐÃ CHỈNH SỬA) ---
 if len(st.session_state['history']) > 0:
-    st.subheader("Xu hướng đọc của bạn")
+    st.subheader("Thống kê phiên làm việc")
+    df = pd.DataFrame(st.session_state['history'])
     
-    df_history = pd.DataFrame(st.session_state['history'])
+    c1, c2, c3 = st.columns(3)
+    c1.metric("Tổng số bài", len(df))
+    c2.metric("Chủ đề chính", df['topic'].mode()[0])
+    c3.metric("Độ tin cậy TB", f"{df['confidence'].mean():.1%}")
     
-    col1, col2, col3 = st.columns(3)
-    col1.metric("Tổng số bài đã đọc", len(df_history))
+    # --- THAY ĐỔI Ở ĐÂY: Tỷ lệ 1:1 (Chart bự hơn, Bảng nhỏ lại) ---
+    col_chart, col_list = st.columns([1, 1]) 
     
-    top_topic = df_history['topic'].mode()[0]
-    col2.metric("Chủ đề quan tâm nhất", top_topic)
-    
-    avg_conf = df_history['confidence'].mean()
-    col3.metric("Độ tin cậy trung bình AI", f"{avg_conf:.1%}")
-    
-    c_chart, c_list = st.columns([1, 1])
-    
-    with c_chart:
-        st.write("Phân bố chủ đề")
-        topic_counts = df_history['topic'].value_counts()
-        fig, ax = plt.subplots(figsize=(5, 5))
-        colors = sns.color_palette('pastel')[0:len(topic_counts)]
-        ax.pie(topic_counts, labels=topic_counts.index, autopct='%1.1f%%', colors=colors, startangle=90)
+    with col_chart:
+        counts = df['topic'].value_counts()
+        # Tăng kích thước hình (figsize) lên 6x6
+        fig, ax = plt.subplots(figsize=(4, 4))
+        ax.pie(counts, labels=counts.index, autopct='%1.1f%%', startangle=90)
         st.pyplot(fig)
-
-    with c_list:
-        st.write("Lịch sử chi tiết")
+        
+    with col_list:
         st.dataframe(
-            df_history[['topic', 'title', 'type', 'confidence']].style.highlight_max(axis=0, subset=['confidence']),
-            column_config={
-                "topic": "Chủ đề",
-                "title": "Nguồn / Tiêu đề",
-                "type": "Loại",
-                "confidence": st.column_config.NumberColumn("Độ tin cậy", format="%.2f")
-            },
+            df[['topic', 'title', 'confidence']].style.format({"confidence": "{:.1%}"}), 
             use_container_width=True,
-            height=300
+            height=300 # Tăng chiều cao bảng cho cân đối với biểu đồ
         )
-
-else:
-    st.info("Hãy nhập Link, Văn bản hoặc File ở trên để xem Dashboard phân tích xu hướng.")
