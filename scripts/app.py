@@ -3,72 +3,56 @@ import pandas as pd
 import numpy as np
 import torch
 import torch.nn as nn
-import torch.nn.functional as F
 import joblib
 import unicodedata
 import requests
-import io
 from bs4 import BeautifulSoup
 from pyvi import ViTokenizer
 from pathlib import Path
 import matplotlib.pyplot as plt
 import seaborn as sns
 from collections import Counter
+import io
 
 # --- CẤU HÌNH TRANG ---
 st.set_page_config(
-    page_title="Personal Content Analyzer (TextCNN)",
-    page_icon="🧠",
+    page_title="My Reading Trends",
+    page_icon="eye",
     layout="wide"
 )
 
-# --- CẤU HÌNH ĐƯỜNG DẪN (Chạy trong folder scripts) ---
-CURRENT_DIR = Path(__file__).parent 
-BASE_DIR = CURRENT_DIR.parent 
+# --- CẤU HÌNH ĐƯỜNG DẪN ---
+BASE_DIR = Path(__file__).parent
 MODEL_DIR = BASE_DIR / "models"
-if not MODEL_DIR.exists(): MODEL_DIR = CURRENT_DIR / "models" # Fallback
+if not MODEL_DIR.exists(): MODEL_DIR = BASE_DIR
 
-# --- 1. KHỞI TẠO SESSION STATE ---
+# --- 1. KHỞI TẠO SESSION STATE (BỘ NHỚ TẠM) ---
 if 'history' not in st.session_state:
-    st.session_state['history'] = []
+    st.session_state['history'] = []  # List chứa các bài đã phân tích
 
-# --- 2. ĐỊNH NGHĨA MODEL TEXT-CNN (MODEL CHÍNH) ---
-class TextCNN(nn.Module):
-    def __init__(self, vocab_size, embed_dim, num_classes, filter_sizes=[2, 3, 4], num_filters=100):
+# --- 2. ĐỊNH NGHĨA MODEL & XỬ LÝ (GIỮ NGUYÊN TỪ TRƯỚC) ---
+class LSTMClassifier(nn.Module):
+    def __init__(self, vocab_size, embed_dim, hidden_dim, num_classes):
         super().__init__()
         self.embedding = nn.Embedding(vocab_size, embed_dim)
-        # Tạo 3 lớp Conv song song quét các cửa sổ 2 từ, 3 từ, 4 từ
-        self.convs = nn.ModuleList([
-            nn.Conv2d(1, num_filters, (k, embed_dim)) for k in filter_sizes
-        ])
-        self.fc = nn.Linear(len(filter_sizes) * num_filters, num_classes)
-        self.dropout = nn.Dropout(0.5)
-
+        self.lstm = nn.LSTM(embed_dim, hidden_dim, batch_first=True)
+        self.fc = nn.Linear(hidden_dim, num_classes)
     def forward(self, x):
-        # x: [Batch, Seq_Len]
-        x = self.embedding(x)             # [Batch, Seq_Len, Embed]
-        x = x.unsqueeze(1)                # [Batch, 1, Seq_Len, Embed] -> Thêm channel dimension
-        
-        # Qua Conv + ReLU + MaxPool
-        # Kết quả là danh sách các tensor đã được pool
-        x = [F.relu(conv(x)).squeeze(3) for conv in self.convs] 
-        x = [F.max_pool1d(i, i.size(2)).squeeze(2) for i in x]  
-        
-        # Nối lại và qua lớp Fully Connected
-        x = torch.cat(x, 1)
-        x = self.dropout(x)
-        logits = self.fc(x)
-        return logits
+        embedded = self.embedding(x)
+        output, (h_n, c_n) = self.lstm(embedded)
+        last_hidden = h_n[-1]; out = self.fc(last_hidden); return out
 
-# --- 3. CÁC HÀM XỬ LÝ DỮ LIỆU ---
-STOPWORDS = {
-    "thì", "là", "mà", "của", "những", "các", "để", "và", "với", "có", 
-    "trong", "đã", "đang", "sẽ", "được", "bị", "tại", "vì", "như", "này",
-    "cho", "về", "một", "người", "khi", "ra", "vào", "lên", "xuống",
-    "tôi", "chúng_tôi", "bạn", "họ", "chúng_ta", "theo", "ông", "bà",
-    "nhiều", "ít", "rất", "quá", "lắm", "nhưng", "tuy_nhiên", "nếu", "dù",
-    "bài", "viết", "ảnh", "video", "clip", "nguồn", "theo", "vnexpress", "dân trí"
-}
+STOPWORD_PATH = BASE_DIR / "data" / "final" / "vietnamese-stopwords-dash.txt"
+
+def load_stopwords(filepath):
+    try:
+        with open(filepath, 'r', encoding='utf-8') as f:
+            return set([line.strip() for line in f.readlines()])
+    except FileNotFoundError:
+        print(f"Lỗi: Không tìm thấy file stopwords tại {filepath}")
+        return {"thì", "là", "mà"}
+
+STOPWORDS = load_stopwords(STOPWORD_PATH)
 
 def normalize_text(text): return unicodedata.normalize('NFC', text)
 
@@ -79,190 +63,170 @@ def preprocess_text(text):
     clean_words = [w for w in words if w.lower() not in STOPWORDS and len(w) > 1]
     return " ".join(clean_words)
 
-def text_to_sequence(text, vocab, max_len=1024):
-    # Chuyển text thành chuỗi số ID dựa trên vocab
-    seq = [vocab.get(w, 1) for w in text.split()] # 1 is <UNK>
-    # Padding hoặc Cắt
-    if len(seq) < max_len:
-        seq += [0] * (max_len - len(seq)) # 0 is <PAD>
-    else:
-        seq = seq[:max_len]
-    return seq
-
 def crawl_news_from_url(url):
     headers = {'User-Agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) Chrome/91.0.4472.124 Safari/537.36'}
     try:
         response = requests.get(url, headers=headers, timeout=10)
         soup = BeautifulSoup(response.content, 'html.parser')
         
-        title = soup.title.string if soup.title else "Link không tiêu đề"
+        # Logic lấy nội dung chính (mở rộng thêm các báo khác ở đây)
+        content = ""
+        title = "Bài viết từ Link"
         
-        # Lấy nội dung thông minh
-        paragraphs = soup.find_all('p', class_=['Normal', 'description', 'content', 'detail-content'])
-        if not paragraphs: paragraphs = soup.find_all('p') 
+        # Tiêu đề
+        if soup.title: title = soup.title.string
+        
+        # Nội dung (Thử các class phổ biến)
+        paragraphs = soup.find_all('p', class_=['Normal', 'description', 'content'])
+        if not paragraphs: paragraphs = soup.find_all('p') # Fallback lấy tất cả thẻ p
         
         content = "\n".join([p.text.strip() for p in paragraphs if len(p.text.strip()) > 50])
         
-        if len(content) < 100: return None, None, "Nội dung quá ngắn (có thể bị chặn hoặc web dùng JS)."
+        if len(content) < 100: return None, None, "Nội dung quá ngắn hoặc không crawl được."
         return title, content, None
     except Exception as e: return None, None, str(e)
 
-# --- 4. LOAD MODELS (CACHE) ---
 @st.cache_resource
-def load_resources():
-    device = torch.device('cuda' if torch.cuda.is_available() else 'cpu')
+def load_models():
     try:
-        # 1. Load Label Encoder
         le = joblib.load(MODEL_DIR / "label_encoder.pkl")
-        
-        # 2. Load TextCNN Model
-        # Lưu ý: Tên file phải khớp với lúc bạn save trong model.ipynb (ví dụ: textcnn_model.pth)
-        # Nếu bạn save tên khác, hãy sửa lại dòng này
-        checkpoint_path = MODEL_DIR / "textcnn_model.pth" 
-        
-        if not checkpoint_path.exists():
-            st.error(f"Không tìm thấy file: {checkpoint_path}")
-            return None, None, None, None
-            
-        checkpoint = torch.load(checkpoint_path, map_location=device)
-        vocab = checkpoint['vocab']
-        config = checkpoint['config']
-        
-        model = TextCNN(
-            vocab_size=config['vocab_size'], 
-            embed_dim=config['embed_dim'], 
-            num_classes=config['num_classes'],
-            filter_sizes=config.get('filter_sizes', [2,3,4]),
-            num_filters=config.get('num_filters', 100)
-        )
-        model.load_state_dict(checkpoint['model_state'])
-        model.to(device)
-        model.eval()
-        
-        return le, model, vocab, config
-        
-    except Exception as e:
-        st.error(f"Lỗi load model: {e}")
-        return None, None, None, None
+        tfidf = joblib.load(MODEL_DIR / "tfidf_vectorizer.pkl")
+        lr = joblib.load(MODEL_DIR / "logistic_regression.pkl")
+        return le, tfidf, lr
+    except: return None, None, None
 
-le, cnn_model, vocab, cnn_config = load_resources()
-device = torch.device('cuda' if torch.cuda.is_available() else 'cpu')
+le, tfidf, model = load_models()
 
-# --- 5. GIAO DIỆN CHÍNH ---
+# --- 3. GIAO DIỆN CHÍNH ---
+
+# Sidebar: Nút Reset
 with st.sidebar:
-    st.title("⚙️ Điều khiển")
-    if st.button("🗑️ Xóa dữ liệu", type="primary"):
+    st.title("⚙️ Cài đặt")
+    if st.button("🗑️ Xóa lịch sử", type="primary"):
         st.session_state['history'] = []
         st.rerun()
-    st.info(f"Model: **TextCNN**\nDevice: {device}")
-    st.caption("TextCNN vượt trội nhờ khả năng bắt các cụm từ cục bộ (n-grams) quan trọng.")
+    st.info("Hệ thống sẽ tích lũy các bài bạn nhập vào để phân tích xu hướng đọc.")
 
-st.title("🚀 Smart Content Analytics")
-st.markdown("Hệ thống phân tích xu hướng đọc sử dụng **TextCNN Deep Learning**.")
+st.title("📊 Personal Content Analyzer")
+st.markdown("Hệ thống phân tích xu hướng nội dung người dùng (User Profiling).")
 
-if not cnn_model:
-    st.warning("⚠️ Đang chạy ở chế độ Demo giao diện (Chưa load được Model).")
-    st.stop()
+if not le:
+    st.error("❌ Thiếu model. Vui lòng kiểm tra folder 'models'."); st.stop()
 
-# --- INPUT AREA ---
+# --- KHU VỰC 1: NHẬP LIỆU (ADD TO LIST) ---
 with st.container(border=True):
-    st.subheader("📥 Nhập nội dung phân tích")
+    st.subheader("➕ Thêm nội dung mới")
     
-    tab1, tab2, tab3 = st.tabs(["🔗 Link Báo", "📝 Văn bản", "📂 File Text"])
+    # Dùng tabs cho gọn
+    tab_link, tab_text, tab_file = st.tabs(["🔗 Nhập Link", "📝 Nhập Văn bản", "📂 Upload File (.txt)"])
     
-    input_payload = None
-    input_source = ""
+    input_data = None
+    input_type = None
+    input_title = None # Tên hiển thị trong lịch sử
     
-    with tab1:
-        url = st.text_input("URL bài báo:", placeholder="https://vnexpress.net/...")
+    # 1. Xử lý Tab Link
+    with tab_link:
+        url = st.text_input("Dán đường dẫn bài báo:", placeholder="https://...")
         if st.button("Phân tích Link"):
             if url:
-                with st.spinner("Đang cào dữ liệu..."):
-                    t, c, e = crawl_news_from_url(url)
-                    if e: st.error(e)
+                with st.spinner("Đang đọc nội dung từ web..."):
+                    title, content, err = crawl_news_from_url(url)
+                    if err: st.error(err)
                     else:
-                        input_payload = c
-                        input_source = t
-    
-    with tab2:
-        txt = st.text_area("Nội dung:", height=100)
-        if st.button("Phân tích Text"):
+                        input_data = content
+                        input_type = "Link"
+                        input_title = title
+
+    # 2. Xử lý Tab Text
+    with tab_text:
+        txt = st.text_area("Dán nội dung vào đây:", height=100)
+        if st.button("Phân tích Văn bản"):
             if txt:
-                input_payload = txt
-                input_source = f"Văn bản ({txt[:20]}...)"
-                
-    with tab3:
-        f = st.file_uploader("Chọn file .txt", type="txt")
-        if f and st.button("Phân tích File"):
-            stringio = io.StringIO(f.getvalue().decode("utf-8"))
-            input_payload = stringio.read()
-            input_source = f.name
+                input_data = txt
+                input_type = "Text"
+                input_title = f"Văn bản ({txt[:30]}...)"
 
-    # --- CORE PREDICTION LOGIC ---
-    if input_payload:
+    # 3. Xử lý Tab File
+    with tab_file:
+        uploaded_file = st.file_uploader("Chọn file .txt", type="txt")
+        if uploaded_file is not None and st.button("Phân tích File"):
+            stringio = io.StringIO(uploaded_file.getvalue().decode("utf-8"))
+            content = stringio.read()
+            if content:
+                input_data = content
+                input_type = "File"
+                input_title = uploaded_file.name
+
+    # --- CORE: XỬ LÝ & LƯU VÀO SESSION STATE ---
+    if input_data:
         # 1. Preprocess
-        clean_text = preprocess_text(input_payload)
+        clean_text = preprocess_text(input_data)
         
-        # 2. Vectorize (Sequence)
-        max_len = cnn_config.get('max_len', 1024)
-        seq = text_to_sequence(clean_text, vocab, max_len)
-        tensor_in = torch.tensor([seq], dtype=torch.long).to(device)
+        # 2. Predict
+        vec = tfidf.transform([clean_text])
+        probs = model.predict_proba(vec)[0]
+        pred_idx = np.argmax(probs)
+        label = le.inverse_transform([pred_idx])[0]
+        conf = probs[pred_idx]
         
-        # 3. Predict with TextCNN
-        with torch.no_grad():
-            logits = cnn_model(tensor_in)
-            probs = torch.softmax(logits, dim=1)
-            conf, idx = torch.max(probs, dim=1)
-            
-            label = le.inverse_transform([idx.item()])[0]
-            confidence = conf.item()
-            
-        # 4. Save to History
-        st.session_state['history'].append({
-            "source": input_source,
+        # 3. Lưu vào lịch sử
+        new_entry = {
+            "title": input_title,
+            "type": input_type,
             "topic": label,
-            "conf": confidence,
-            "timestamp": pd.Timestamp.now()
-        })
-        
-        st.success(f"Kết quả: **{label}** ({confidence:.1%})")
+            "confidence": conf,
+            "preview": input_data[:100] + "..."
+        }
+        st.session_state['history'].append(new_entry)
+        st.success(f"Đã thêm: **{label}** ({conf:.1%})")
+        # Không rerun để người dùng có thể nhập tiếp liên tục
 
-# --- DASHBOARD AREA ---
+# --- KHU VỰC 2: DASHBOARD XU HƯỚNG ---
 st.divider()
 
-if st.session_state['history']:
-    st.subheader("📊 Dashboard Xu hướng của bạn")
+if len(st.session_state['history']) > 0:
+    st.subheader("📈 Xu hướng đọc của bạn")
     
-    df = pd.DataFrame(st.session_state['history'])
+    # Chuyển lịch sử thành DataFrame để dễ xử lý
+    df_history = pd.DataFrame(st.session_state['history'])
     
-    # KPIs
-    k1, k2, k3 = st.columns(3)
-    k1.metric("Tổng bài đã đọc", len(df))
-    k2.metric("Chủ đề Top 1", df['topic'].mode()[0])
-    k3.metric("Độ tin cậy AI", f"{df['conf'].mean():.1%}")
+    # 1. KPIs
+    col1, col2, col3 = st.columns(3)
+    col1.metric("Tổng số bài đã đọc", len(df_history))
     
-    # Charts
-    c1, c2 = st.columns([1, 1])
+    top_topic = df_history['topic'].mode()[0]
+    col2.metric("Chủ đề quan tâm nhất", top_topic)
     
-    with c1:
-        st.caption("Phân bố chủ đề")
-        counts = df['topic'].value_counts()
-        fig, ax = plt.subplots(figsize=(5,5))
-        colors = sns.color_palette('pastel')[0:len(counts)]
-        ax.pie(counts, labels=counts.index, autopct='%1.1f%%', colors=colors, startangle=90)
+    avg_conf = df_history['confidence'].mean()
+    col3.metric("Độ tin cậy trung bình AI", f"{avg_conf:.1%}")
+    
+    # 2. Charts & Details
+    c_chart, c_list = st.columns([1, 1])
+    
+    with c_chart:
+        st.write("##### Phân bố chủ đề")
+        # Vẽ Pie Chart
+        topic_counts = df_history['topic'].value_counts()
+        fig, ax = plt.subplots(figsize=(5, 5))
+        colors = sns.color_palette('pastel')[0:len(topic_counts)]
+        ax.pie(topic_counts, labels=topic_counts.index, autopct='%1.1f%%', colors=colors, startangle=90)
         st.pyplot(fig)
-        
-    with c2:
-        st.caption("Lịch sử chi tiết")
+
+    with c_list:
+        st.write("##### Lịch sử chi tiết")
+        # Hiển thị dạng bảng rút gọn
         st.dataframe(
-            df[['topic', 'source', 'conf']].style.highlight_max(subset=['conf'], color='#d1e7dd'),
+            df_history[['topic', 'title', 'type', 'confidence']].style.highlight_max(axis=0, subset=['confidence']),
             column_config={
                 "topic": "Chủ đề",
-                "source": "Nguồn",
-                "conf": st.column_config.NumberColumn("Độ tin cậy", format="%.2f")
+                "title": "Nguồn / Tiêu đề",
+                "type": "Loại",
+                "confidence": st.column_config.NumberColumn("Độ tin cậy", format="%.2f")
             },
             use_container_width=True,
             height=300
         )
+
 else:
-    st.info("Dữ liệu phân tích sẽ xuất hiện ở đây sau khi bạn nhập bài viết.")
+
+    st.info("👈 Hãy nhập Link, Văn bản hoặc File ở trên để xem Dashboard phân tích xu hướng.")
